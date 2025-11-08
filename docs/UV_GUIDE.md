@@ -15,6 +15,7 @@ All development, execution, and dependency management for this project uses **uv
 | List subjects | `uv run python main.py --list-subjects` |
 | Dry-run Geography | `uv run python main.py --subjects Geography --dry-run` |
 | Download two subjects | `uv run python main.py --subjects "Art and Design" French` |
+| Post-process existing downloads | `uv run python main.py --post-process-only --post-process-workers 4` |
 | Open REPL | `uv run python` |
 | Inline check | `uv run python -c "import wjec_scraper; print(len(wjec_scraper.QUALIFICATION_URLS))"` |
 
@@ -24,6 +25,7 @@ Always prefix with `uv run`:
 ```bash
 uv run python main.py --list-subjects
 uv run python -c "from wjec_scraper import subject_directory_name; print(subject_directory_name('Cymraeg Language and Literature'))"
+uv run python main.py --subjects Geography --post-process
 ```
 
 ## Adding Dependencies

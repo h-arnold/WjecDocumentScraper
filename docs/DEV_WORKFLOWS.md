@@ -16,6 +16,14 @@ uv run python main.py --subjects Geography --dry-run
 ```bash
 uv run python main.py --subjects "Art and Design" French -o ./wjec-pdfs
 ```
+- Post-process an existing download set only:
+```bash
+uv run python main.py --post-process-only --post-process-workers 4
+```
+- Download, then immediately post-process a subject:
+```bash
+uv run python main.py --subjects Geography --post-process
+```
 
 ## Interactive Debugging
 
@@ -68,6 +76,7 @@ uv run pytest -q
 
 - Network/IO errors should log a message and continue; partial files are removed on failure.
 - Duplicate URLs are coalesced; duplicate filenames receive `-N` suffixes.
+- Post-processing logs conversion failures per file and continues; the CLI exit code is 2 when any subject reports errors.
 
 ## PR Hygiene & Validation
 
@@ -75,6 +84,9 @@ uv run pytest -q
 - After any scraping or filename change:
   - Run a dry-run for a couple of subjects.
   - If tests exist, run `uv run pytest` and fix failures.
+- After modifying post-processing logic:
+    - Run `uv run python main.py --post-process-only` against a populated output folder.
+    - Inspect a sample of generated Markdown files to confirm the converter output still matches expectations.
 
 ## When to Update This Document
 

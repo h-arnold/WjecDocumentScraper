@@ -1,0 +1,1932 @@
+WJEC GCSE
+History
+
+Approved by Qualifications Wales
+Guidance for Teaching: Unit 3 Option 3.6
+Teaching from 2026
+For award from 2028
+
+Version 2 - February 2025
+
+GCSEMade for Wales. Ready for the world.This Qualifications Wales regulated qualification is not available to centres in England.WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern
+High School, Newport for their participation in the creation of these covers.
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980
+
+Contents
+
+Introduction .............................................................................................................................. 1
+
+Aims of the Guidance for Teaching ................................................................................. 1
+
+Additional ways that WJEC can offer support: ................................................................. 1
+
+Qualification Structure .............................................................................................................. 2
+
+Assessment ............................................................................................................................. 3
+
+Summary of Assessment ................................................................................................. 3
+
+Unit 3 Assessment objectives and weightings ......................................................................... 3
+
+Overview of Unit 3: Option 3.6 ................................................................................................. 4
+
+Scheme of Learning Option 3.6 Modern: Changes in US society, c.1880 – c.1980 ........ 5
+
+Learning Experiences ............................................................................................................ 18
+
+Opportunities for embedding elements of the Curriculum for Wales ..................................... 19
+
+Glossary for Option 3.6 Changes in US society, c.1880 – c.1980 ..................................... 25
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980
+
+SUMMARY OF AMENDMENTS
+
+Version
+
+Description
+
+Page number
+
+2
+
+Amended to, awarded for the first time in Summer 2028.
+
+1
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  1
+
+Introduction
+
+The WJEC GCSE History has been approved by Qualifications Wales and is available to all
+centres in Wales. It will be awarded for the first time in Summer 2028, using grades A* to G.
+
+Aims of the Guidance for Teaching
+
+The principal aim of the Guidance for Teaching is to support teachers in the delivery of
+WJEC GCSE History and to offer guidance on the requirements of the qualification and the
+assessment process. The Guidance for Teaching is not intended as a comprehensive
+reference, but as support for teachers to develop stimulating and exciting courses tailored to
+the needs and skills of their learners. The guide offers possible classroom activities and links
+to useful resources (including our own, freely available digital materials and some from
+external sources) to provide ideas for immersive and engaging lessons.
+
+Additional ways that WJEC can offer support:
+
+•  sample assessment materials and mark schemes
+•  professional learning events
+•  examiners’ reports on each unit
+•  direct access to the subject officer
+•
+free online resources
+•  Exam Results Analysis
+•  Online Examination Review.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  2
+
+Qualification Structure
+
+WJEC GCSE History consists of four units. The combination of options selected for Units 1,
+2 and 3 must include one medieval, one early modern and one modern unit.
+
+In Unit 4, centres can choose to repeat a time period previously studied in Units 1, 2 or 3.
+However, the topics chosen for study in Unit 4 must not replicate or overlap with the
+content of any of the other selected units.
+
+The qualification is unitised and does not contain tiering. There is no hierarchy to the order
+the units should be taught.
+
+Unit title
+
+Type of
+Assessment
+
+Weighting
+
+Unit 1
+
+An in-depth study on Welsh history
+
+Unit 2
+
+An in-depth study on European and/or World
+history
+
+Unit 3
+
+A study of a period in World history
+
+Unit 4
+
+A changing society
+
+Written
+examination
+
+Non-
+examination
+assessment
+
+Written
+examination
+
+Non-
+examination
+assessment
+
+30%
+
+20%
+
+30%
+
+20%
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  3
+
+Assessment
+Summary of Assessment
+
+Unit 3: A study of a period in world history
+Written examination: 1 hour
+30% of qualification
+
+Learners will study one of the following six historical topics to undertake a
+breadth study of an extended historical period.
+
+60 marks
+
+Medieval
+3.1
+3.2
+Early Modern
+3.3
+3.4
+Modern
+3.5
+3.6
+
+The Vikings c. 750 – c.1066
+The Crusades c. 1095 – c.1291
+
+The Songhai Empire c. 1464 – c.1591
+The Mughal Empire c. 1526 – c.1707
+
+Russia and the Soviet Union c.1861 – c.1953
+Changes in US society c.1880 – c.1980
+
+Each option will be assessed by compulsory questions. These will focus on
+historical knowledge of the topic, second order historical concepts and the
+analysis and evaluation of historical sources and interpretations.
+
+Unit 3 Assessment objectives and weightings
+
+AO1
+
+AO2
+
+AO3
+
+Demonstrate knowledge and understanding of the
+features and characteristics of the period studied
+
+Apply knowledge and understanding to historical
+concepts such as cause and consequence, continuity
+and change, similarity and difference, and significance
+
+Analyse, evaluate, or make judgements on source
+material, historical interpretations and historical
+debates, synthesising these strands where appropriate
+
+10%
+
+10%
+
+10%
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  4
+
+Overview of Unit 3: Option 3.6
+
+A study of a period in world history
+(30% of the qualification)
+
+The purpose of Unit 3 is to provide an overview of an extended historical period enabling
+learners to explore key concepts. The aim of this option is to develop a learner’s
+understanding of how US society changed and developed across the period from c.1880 to
+c.1980.
+
+Time
+period
+
+Option 3.6
+
+3.6  Changes in US society c.1880–c.1980
+
+3.6.1  Race and immigration
+
+3.6.2  The roaring ’20s
+
+3.6.3  The end of prosperity
+
+Modern
+
+3.6.4  Civil Rights c.1945–c.1968
+
+3.6.5  Second-wave Feminism c.1960–c.1980
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  5
+
+Scheme of Learning Option 3.6 Modern: Changes in US society, c.1880 – c.1980
+
+This scheme of learning is provided as an illustrative example. It is designed to offer structure and inspiration but allows for adaptation to meet
+the unique needs, preferences, and dynamics of individual classes. Teachers are encouraged to modify elements as needed to align with their
+students' abilities and learning goals.
+
+For each section of content in this unit, WJEC is also providing blended learning resources and knowledge organisers.
+These can be found on: https://resources.wjec.co.uk/
+
+3.6 Background: The US at the turn of the twentieth century
+(Each option begins with a background section. These sections are intended to provide learners with necessary context in order to access the
+historical topic. Learners will not be directly assessed on the content of the background sections).
+
+Learners should be aware of:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•
+
+the governance of the
+United States in the early
+twentieth century, the
+Federal Constitution,
+States’ Rights, the most
+prevalent political
+ideologies in the US.
+
+The Federal
+Constitution and the
+separation of
+powers.
+
+Main areas devolved
+to State authority.
+
+The Fourth Party
+System 1896-1932,
+politics in the
+“Progressive Era”.
+
+Activity:
+Make a list showing the respective powers of
+federal government and state governments.
+
+Outcome:
+Learners can demonstrate that they
+understand how the federal government and
+State powers worked and the differences
+between the Parties.
+
+Website(s):
+Diagram of US
+Constitution key
+features v1 | Quizlet
+
+The Progressive Era |
+Key Facts | Britannica
+
+Advanced activity:
+Identify and explain an important example
+of:
+•  a Presidential action
+•  a decision of the Supreme Court.
+
+Suggested
+timing (hours)
+
+1.5 hours
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  6
+
+1.5 hours
+
+Southern resistance
+to African American
+Civil Rights.
+
+Married Women’s
+rights in Law and
+Property ownership
+– the 1920 Voting
+Act.
+
+Relocations of
+Indigenous Peoples
+and the impact of
+immigration on them
+(Land).
+
+Racism in admission
+of immigrants and
+xenophobia directed
+against them.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of Presidential powers and the
+importance of Supreme Court Verdicts with
+examples.
+
+Activity:
+In groups, discuss key questions such as:
+What fueled Southern resistance to Civil
+Rights? or How did forced relocations affect
+Native communities?
+
+Create visual maps connecting themes like
+resistance, oppression, and progress across
+all topics.
+
+Outcome:
+Learners can demonstrate that they
+understand the resistance to Civil Rights
+especially in the South – the extent and
+limitations of women’s rights, the forced
+relocations of “Native Americans” and nature
+of hostility to immigrants.
+
+Website(s):
+Native American |
+Immigration and
+Relocation in U.S.
+History | Classroom
+Materials at the
+Library of Congress |
+Library of Congress
+
+Native American
+reservations and
+relocation
+
+Xenophobia:
+Understanding
+Discrimination Against
+Immigrants
+
+Advanced activity:
+Explain the significance of a given event or
+development in each aspect of inequality.
+
+Xenophobia Powers
+the United States -
+Public Books
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance/importance of these issues on
+politics and society with examples.
+
+19th Amendment to
+the U.S. Constitution:
+Women's Right to
+Vote (1920) | National
+Archives
+
+•
+
+the impact of inequalities
+in the US at the start of
+the period, as they relate
+to slavery, race, sex and
+the experiences of
+Indigenous Peoples and
+immigrants.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  7
+
+Suggested
+timing (hours)
+
+2 hours
+
+3.6.1 Race and immigration
+
+Learners should understand:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•
+
+the legacy of slavery,
+including:
+•
+
+the impact of the Jim
+Crow laws and the
+experiences of African
+Americans in the
+Northern States
+the activities of the Ku
+Klux Klan.
+
+•
+
+The nature and
+extent of the Jim
+Crow Laws.
+
+Discrimination
+against African
+Americans in
+housing, education
+and employment in
+the North.
+
+Ku Klux Klan
+violence and
+intimidation.
+
+Early attempts by
+African Americans to
+counter
+discrimination.
+
+Activity:
+Construct a list of discriminatory practices in:
+•
+•
+
+the South
+the North.
+
+Website(s):
+Jim Crow Laws:
+Definition, Facts &
+Timeline | HISTORY
+
+Outcome:
+Learners can demonstrate that they
+understand how the Jim Crow laws were
+targeted at African Americans and why the
+situation was still unequal outside of the
+South.
+
+Advanced activity:
+Assess the impact of the National
+Association for the Advancement of
+Coloured People (NAACP) in 1909.
+
+Organisation and
+methods of the Ku
+Klux Klan - Separate
+but equal policy to
+1939 - BBC Bitesize
+
+National Association
+for the Advancement
+of Colored People
+(NAACP) | History |
+Britannica
+
+Advanced outcome:
+Learners can draw conclusions about the
+strengths and limitations of African American
+resistance to or mitigation of discrimination.
+
+https://www.history.co
+m/topics/black-
+history/civil-rights-
+movement-timeline
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  8
+
+•
+
+the treatment of
+Indigenous Peoples,
+including:
+•  “Assimilation” and the
+impact of “Indian”
+Boarding Schools
+the Indian Citizenship
+Act of 1924 and the
+continuing issue of
+Indigenous Peoples’
+voting rights in different
+states.
+
+•
+
+Forced assimilation
+of children in the
+boarding schools.
+
+The eradication of
+“Indian” culture in
+these schools.
+
+“Native American”
+enlistment in WW1
+and Wilson’s
+citizenship grant.
+
+Voting rights and the
+1924 Act and state
+resistance.
+
+Roosevelt’s “Indian
+New Deal” 1934.
+
+Activity:
+Construct a timeline of negative and positive
+developments in the treatment of Indigenous
+Peoples.
+
+Video(s):
+History of Native
+Americans
+
+2 hours
+
+Outcome:
+Learners can demonstrate that they
+understand the purpose and impact of the
+“Indian Schools” and how Indigenous
+Peoples were excluded from political rights.
+
+Advanced activity:
+Construct a spider diagram showing how the
+1924 Act was resisted in some States.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of the 1924 Act and its
+implementation.
+
+Utah History |
+Unspoken: America's
+Native American
+Boarding Schools |
+PBS
+
+Website(s)
+How Boarding
+Schools Tried to ‘Kill
+the Indian’ Through
+Assimilation |
+HISTORY
+
+Native American
+Voting Rights | Voters
+and Voting Rights |
+Library of Congress
+
+Indian Citizenship Act
+of 1924
+
+Indian Reorganization
+Act is signed into law |
+June 18, 1934 |
+HISTORY
+
+What Was FDR's
+'Indian New Deal'?
+
+© WJEC CBAC Ltd. 2025
+
+•
+
+the experiences of
+immigrant communities,
+including:
+•
+
+the impact of “New
+Immigration” from
+c.1880 to the First
+World War
+the impact of post-war
+restrictions such as the
+National Origins
+Formula 1921 and the
+Immigration Act 1924.
+
+•
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  9
+
+The nature and
+extent of
+immigration:
+German/Irish/Jewish
+/Italian/Non-
+European.
+
+Racism, xenophobia
+and homophobia in
+restrictions:
+Immigration Act
+1917, Emergency
+Quotas Act 1921
+and the scope and
+impact of the
+Johnson-Reed Act
+1924.
+
+Activity:
+In small groups, focus on the experiences of
+one group of migrants and report findings to
+the class.
+
+Outcome:
+Learners can demonstrate that they
+understand the scale of immigration and the
+key areas of dispersal and comment on why
+hostility developed.
+
+Advanced activity:
+Identify and explain specific aspects of
+discrimination.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance/importance of discrimination in
+immigration laws.
+
+2 hours
+
+Website(s):
+A Nation of
+Immigrants: The
+United States, 1900-
+1929
+
+Restricting entry -
+Immigration - WJEC -
+GCSE History
+Revision - WJEC -
+BBC Bitesize
+
+Immigration Act of
+1917 (Barred Zone
+Act) - Immigration
+History
+
+On Feb 05, 1917:
+Immigration Act of
+1917 Bans Asians,
+Other Non-White
+People from Entering
+U.S.
+
+United States
+Immigration and
+Refugee Law, 1921-
+1980 | Holocaust
+Encyclopedia
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  10
+
+3.6.2 The roaring ‘20s
+
+Learners should understand:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•  why the US economy
+boomed in the 1920s,
+including:
+•
+
+its natural resources,
+the economic impact of
+the First World War,
+mass production and
+the car, the Republican
+Presidents’ policies
+
+•  why some groups
+
+including farmers and
+“old” industries did not
+benefit from the
+economic boom.
+
+The economic
+legacy of WW1,
+including the
+resulting problems
+for farming.
+
+Republican policies:
+domestic laissez-
+faire, protective
+tariffs and “trusts”.
+
+The impact of
+mechanization in
+agriculture and
+agricultural
+depression.
+
+Activity:
+Complete a flow chart showing the causes
+for the economic boom of the 1920s.
+
+Outcome:
+Learners can demonstrate that they
+understand the main reasons why the World
+War affected the US economy.
+
+Advanced activity:
+Construct a list of factors in order of
+importance showing how they impacted on
+the economy.
+
+Advanced outcome:
+Learners can draw conclusions about the
+factors that shaped the economy in the
+1920s.
+
+Website(s):
+Economic Boom in the
+1920’s: Causes |
+Schoolshistory.org.uk
+
+Video(s):
+The Roaring 20's:
+Crash Course US
+History
+
+Suggested
+timing (hours)
+
+2.5 hours
+
+•  how popular entertainment
+developed, including:
+•
+
+the radio, cinema and
+television
+
+•  speakeasy culture and
+
+the Jazz Age.
+
+The social and
+political impacts of
+developments in
+popular
+entertainment,
+censorship and
+social attitudes.
+
+Activity:
+Comment on why prohibition had a particular
+impact on popular culture.
+
+Website(s):
+Popular entertainment
+- BBC Bitesize
+
+1.5 hours
+
+Outcome:
+Learners can demonstrate that they
+understand the main developments in
+popular culture.
+
+Advanced activity:
+Assess the relative importance of
+entertainment as compared to prohibition.
+
+The USA: A Nation of
+Contrasts overview -
+BBC Bitesize
+
+The USA: A Nation of
+Contrasts, 1910-1929
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  11
+
+The impact of
+prohibition and
+resistance to
+prohibition on
+popular culture.
+
+The nature and
+scope of the “New
+Negro Movement” in
+arts, fashion,
+education and
+politics.
+
+The reasons for and
+the impact of the
+Great Migration.
+
+Advanced outcome:
+Learners can draw conclusions about the
+wider significance of different factors, such
+as Jazz and television.
+
+Activity:
+Identify and explain the impact of some
+notable individuals, such as Armstrong,
+Ellington and Smith.
+
+Outcome:
+Learners can demonstrate that they
+understand the reasons for migration and
+the main artistic achievement of African
+Americans.
+
+The extent of the
+Renaissance’s
+influence outside its
+base in Harlem.
+
+Advanced activity:
+Explain how and why the Harlem
+Renaissance had wider impact beyond New
+York.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of specific developments, such
+as migration and artistic innovations.
+
+Video(s):
+American Experience:
+The Great Migration
+
+2 hours
+
+Article(s):
+The Power of Poetry:
+The New Negro
+Renaissance to the
+Black Arts Movement |
+National Museum of
+African American
+History and Culture
+
+Harlem
+Renaissance - Definiti
+on, Artists & How It
+Started | HISTORY
+
+Podcast(s):
+Harlem Is
+Everywhere: Episode
+1, The New Negro -
+The Metropolitan
+Museum of Art
+
+•  how the Harlem
+
+Renaissance developed,
+including:
+•
+
+the Great Migration of 2
+million African
+Americans from the
+South to the North
+famous African
+American artists
+including Louis
+Armstrong, Duke
+Ellington and Bessie
+Smith.
+
+•
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  12
+
+3.6.3 The end of prosperity
+
+Learners should understand:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•
+
+the long-term causes of
+the economic depression,
+including:
+•  overproduction and
+falling consumer
+demand
+
+•  Republican policies of
+
+protectionism.
+
+How lack of
+regulation in banking
+impacted on the
+economy.
+
+The impact of the
+First World War on
+production.
+
+Activity:
+Construct a timeline showing economic
+developments.
+
+Outcome:
+Learners can demonstrate that they
+understand the main long-term factors
+leading to the depression.
+
+The impact of post
+war restoration of
+high economic
+protection tariffs.
+
+Advanced activity:
+Create a flow chart showing cause and
+consequence of the factors leading to the
+depression.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance and importance of long-term
+causes of the economic depression.
+
+Website(s):
+The Great
+Depression: Overview,
+Causes, and Effects
+
+Video(s):
+FDR's First Fireside
+Chat Amid Banking
+Crisis
+
+Mass Production and
+Advertising in the
+1920s
+
+Suggested
+timing (hours)
+
+1.5 hours
+
+•
+
+the short-term causes of
+the economic depression,
+including:
+•  saturation and
+
+speculation of the stock
+market
+
+•  panic selling, Black
+
+Thursday and the Wall
+Street Crash.
+
+© WJEC CBAC Ltd. 2025
+
+The causes and
+effects of share
+price inflation.
+
+Activity:
+Create a flow chart of the events leading to
+the Wall Street Crash.
+
+The erratic nature of
+falling share prices –
+the “Babson Break”.
+
+Outcome:
+Learners can demonstrate that they
+understand the main reasons why the Wall
+Street Crash happened.
+
+Video(s):
+Understanding the
+Wall Street Crash of
+1929
+
+The 1929 Stock
+Market Crash: Black
+Thursday
+
+1.5 hours
+
+Advanced activity:
+Explain why specific events were significant
+and assess their relative importance.
+
+Website(s):
+What Was the Stock
+Market Crash of
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  13
+
+•
+
+the impact of the
+depression and Franklin D
+Roosevelt’s New Deal,
+including:
+•  closure of banks,
+Hoovervilles,
+unemployment and
+Hoover’s unpopularity
+the 1932 election and
+FDR’s New Deal.
+
+•
+
+The social and
+economic impact of
+the Wall Street
+Crash.
+
+Franklin D
+Roosevelt’s election
+and first “100 days”.
+
+The nature and
+extent of the “New
+Deal” and its impact.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of different factors, such as lack
+of regulation and “Babson”.
+
+1929? Definition,
+Causes & Outcomes -
+TheStreet
+
+Activity:
+Explain how Hoovervilles spread and
+describe the experience of people living in
+them, with reference to some better-known
+examples such as Anacostia and St Louis
+(latter Racially integrated).
+
+Video(s):
+The Great
+Depression, 1931–
+1940, inside the
+Hoovervilles
+
+3 hours
+
+Outcome:
+Learners can demonstrate that they
+understand the social impact of the
+depression.
+
+Advanced activity:
+Explain the aims and assess the impact of
+the New Deal.
+
+Advanced outcome:
+Learners can draw conclusions about the
+importance of the 1932 Election.
+
+Website(s):
+Hoovervilles in the
+'30s: Amazing Vintage
+Photos That Capture
+Everyday Life in the
+Shanty Towns During
+the Great Depression
+- Vintage Everyday
+
+Largest U.S.
+Hooverville Had Its
+Own Mayor and a
+Church Made of
+Orange Crates
+
+New Deal I: FDR's
+First 100 Days
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  14
+
+3.6.4 Civil Rights, c.1945 – c.1968
+
+Learners should understand:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•
+
+the impact of the Second
+World War, including the
+contribution of African
+Americans, on Civil Rights,
+including:
+•
+
+the experiences
+overseas of returning
+African American
+servicemen and women
+
+•  Truman’s
+
+desegregation of the
+armed forces.
+
+•  how Civil Rights
+
+developed between 1953
+and 1968, including:
+the impact and
+•
+consequences of Brown
+vs Topeka
+the significance of the
+March on Washington,
+1963.
+
+•
+
+The “Double V”
+campaign.
+
+Segregation and ill-
+treatment of African
+Americans in the
+armed forces – the
+impact of units such
+as the Tuskegee
+Airmen.
+
+The impact of and
+resistance to the
+Executive Order
+9981.
+
+The origins of Brown
+v. Topeka and the
+Supreme Court’s
+Judgement –
+overcoming
+resistance to the
+verdict.
+
+The extent of
+sympathy for King’s
+speech and the
+impact on future
+legislation.
+
+Activity:
+In small groups explain the impact of the
+different developments linked to WWII.
+
+Outcome:
+Learners can demonstrate that they
+understand how the Second World War
+impacted on Civil Rights in different ways
+
+Advanced activity:
+Assess the relative importance of these
+developments in advancing Civil Rights.
+
+Advanced outcome:
+Learners can draw conclusions about the
+impact of the various developments.
+
+Activity:
+Construct a timeline of events showing why
+each development was important.
+
+Outcome:
+Learners can demonstrate that they
+understand the key developments in this
+period.
+
+Advanced activity:
+Explain the importance of these events for
+future progress.
+
+Video(s):
+The Double V
+Campaign of World
+War II
+
+Website(s):
+How Tuskegee
+Airmen Fought Military
+Segregation With
+Nonviolent Action |
+HISTORY
+
+Executive Order 9981
+to Desegregate the
+Armed Forces |
+DocsTeach
+
+Video(s):
+The 1963 March on
+Washington - USA
+(1918-1968): Video
+playlist - BBC Bitesize
+
+Website(s):
+Brown v. Board of
+Education - Summary
+& Impact | HISTORY
+
+Suggested
+timing (hours)
+
+2 hours
+
+2 hours
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  15
+
+•
+
+the contribution and
+impact of civil rights
+activists, including:
+•  Martin Luther King Jr
+
+•
+
+and Malcolm X; bus
+boycotts and sit-ins
+the passage and
+impact of civil rights
+legislation.
+
+The disagreements
+between leading
+activists over aims
+and methods and
+the impact of major
+protests.
+
+The importance of
+Presidential power –
+Kennedy – LBJ and
+the terms of the Civil
+Rights and Voting
+Acts.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance these developments.
+
+Activity:
+Complete a chart showing the role played by
+the major figures (including presidents).
+
+Video(s):
+The Civil Rights
+Movement
+
+3 hours
+
+Outcome:
+Learners can demonstrate that they
+understand the key events and why there
+were disagreements between leading
+figures.
+
+Advanced activity:
+Assess the relative importance of the role of
+major figures in the progress of Civil Rights.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of major figures using examples
+from specific events/developments.
+
+I Have a Dream
+speech by Martin
+Luther King .Jr
+
+Website(s):
+7 Major Protests of the
+Civil Rights Movement
+
+Voting Rights Act of
+1965 - Definition,
+Summary &
+Significance |
+HISTORY
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  16
+
+3.6.5 Second-wave Feminism, c.1960 – c.1980
+
+Learners should understand:  Knowledge
+
+Activities and Outcomes
+
+Resources
+
+•  attitudes towards the role
+
+and status of women in the
+1950s and early 1960s,
+including:
+•
+
+the extent of the return
+to traditional roles and
+values following the
+Second World War
+the significance of film
+and television in
+defining the role of the
+housewife and mother.
+
+•
+
+The differences
+between first and
+second wave
+feminism
+
+The role of African
+American women in
+second wave
+feminism, such as
+Florynce Kennedy.
+
+Pressured
+domesticity in the
+1950s –
+employment –
+media role models
+especially in film and
+TV.
+
+Activity:
+Construct a timeline of main developments
+of the Second Wave.
+
+Outcome:
+Learners can demonstrate that they
+understand the main ideas of the Second
+Wave and why it arose.
+
+Advanced activity:
+Assess the relative importance of the factors
+contributing to the development of the
+Second Wave.
+
+Advanced outcome:
+Learners can draw conclusions about the
+significance of the “First Wave” and Post
+War “normalcy”.
+
+Video(s):
+Origins of Second-
+Wave Feminism with
+Linda Gordon
+
+A Moment in Black
+History: Flo Kennedy
+
+Website(s):
+Feminism: The
+Second Wave -
+National Women's
+History Museum
+
+Suggested
+timing (hours)
+
+1.5 hours
+
+•
+
+the contribution and
+impact of feminist writers
+and activists, including:
+•  Betty Friedan, Gloria
+Steinem and Martha
+Lear
+the campaigns of the
+National Organization
+for Women (NOW).
+
+•
+
+The impact of
+Friedan’s “The
+Feminine Mystique”
+1963.
+
+Activity:
+Research and list the contributions of Betty
+Friedan, Gloria Steinem and Martha Lear to
+second wave feminism.
+
+Video(s):
+Women's History:
+"What is "second-
+wave" feminism?"
+
+2 hours
+
+Impact of Lear’s
+1968 Article in New
+York Times
+Magazine.
+
+Describe the reasons for the National
+Organization for Women (NOW)’s key
+campaigns.
+
+Second Wave
+Feminism: The Equal
+Rights Amendment
+and Phyllis Schlafly -
+Retro Report
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  17
+
+Steinem’s activist
+groups such as the
+NWPC and the
+WAA.
+
+The “Women’s
+Strike for Equality”
+1970.
+
+The foundation of
+NOW in 1966 - the
+scope of its aims
+and its impact.
+
+Outcome:
+Learners can demonstrate that they
+understand the different roles of leading
+female activists, and the reasons for the
+campaigns of the NOW.
+
+Advanced activity:
+Complete a detailed spider diagram showing
+the various aims and impacts of the NOW.
+
+Advanced outcome:
+Learners can draw conclusions about
+significance and importance of the NOW.
+
+The terms of the key
+legislation – impact
+and resistance.
+
+Activity:
+List the main developments with a brief
+explanation of their importance.
+
+The significance of
+Reed v. Reed.
+
+The background to
+the Roe v. Wade
+Judgement – its
+impact and
+controversy.
+
+Outcome:
+Learners can demonstrate that they
+understand the terms of the main legislation
+and judgements improving women’s rights.
+
+Advanced activity:
+Assess the different impacts of legislation
+and Supreme Court Judgements.
+
+Advanced outcome:
+Learners can draw conclusions about the
+relative importance of development and
+show why controversies arose in response.
+
+One of America's
+great feminists: Betty
+Friedan - CBC
+
+Gloria Steinem on the
+history of Ms.
+Magazine
+
+Website(s):
+Highlights | National
+Organization for
+Women
+
+Video(s):
+From Women's
+Suffrage to the ERA |
+Retro Report | PBS
+LearningMedia
+
+Website(s):
+Equal Pay Act
+
+Reed v. Reed 1971 |
+Encyclopedia.com
+
+Roe v. Wade:
+Decision, Summary &
+Background |
+HISTORY
+
+2.5 hours
+
+•
+
+the impact on women’s
+rights of equality
+legislation and Supreme
+Court rulings, including:
+the Equal Pay Act
+•
+1963, Title VII of the
+Civil Rights Act of
+1964, Title IX of the
+Education
+Amendments of 1972
+and the Equal
+Opportunities Act of
+1974.
+
+•  Reed v. Reed 1971
+and Roe v. Wade
+1973.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  18
+
+Learning Experiences
+
+Learners should be encouraged to consider the following learning experiences and skills to
+further develop their understanding, appreciation and awareness of the subject content.
+Information in the table below provides opportunities for teachers to integrate the learning
+experiences into delivery.
+
+Learning Experience
+
+Exemplification of Learning Experience
+
+participate in educational visits in
+person or digitally
+
+Great Debates | National Museum of American
+History (si.edu)
+
+develop empathy, tolerance,
+compassion and curiosity through
+studying different historical contexts
+
+engage in collaborative working
+
+National Civil Rights Museum Virtual Reality Tour
+
+Guide learners through the experiences of African
+Americans impacted by the Jim Crow Laws
+
+There are opportunities to incorporate
+collaborative working into all parts of this unit.
+Examples are suggested in the Scheme of
+Learning when exploring migrant experiences in
+3.6.1 and the impact of World War Two in 3.6.4.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  19
+
+Opportunities for embedding elements of the Curriculum for Wales
+
+Curriculum for Wales Strands
+
+Cross-cutting Themes
+
+Local, National &
+International Contexts
+
+Human Rights Education and
+Diversity
+
+Unit 3 provides centres with six different historical topics relating to world history. The optional topics provide
+opportunities to enhance learners’ understanding of the world and the diverse experiences of its people.
+Options allow for the study of marginalised regions of the world, the histories of dispossessed peoples and
+forgotten empires, especially of the global South.
+
+Option 3.6 Changes in US society, c.1880 – c.1980 allows centres and learners to explore early modern
+history within North America. This period sees significant developments in racial equality in the USA,
+focusing on how racial discrimination and intolerance was confronted and combated and the extent of
+resistance to progress. It covers the territorial dispossession of Indigenous Peoples and the conscious
+attempt to eradicate their cultural heritage as well as attempts to make amends. The experience of immigrant
+communities is also present.
+
+The Unit specifically covers the Civil Rights movement in the USA and the struggle of African Americans for
+social economic and political equality.  It covers cultural developments - both positive and negative - in the
+experiences of African Americans and Indigenous Peoples (also referred to in legislation documents and
+resources as “Native Americans” or “American Indians”. The unit also focuses on the issue of women’s
+rights.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  20
+
+There are many opportunities to include Literacy in GCSE History. These opportunities include the analysis of source material, extended
+writing opportunities, vocabulary development, debating and discussion. These opportunities are important to learners because they will
+develop cross-curricular skills which underpin the four purposes of the curriculum, as well as communication skills which can be used across
+subjects and prepare them for future education or employment.
+
+Cross-curricular Skills - Literacy
+
+Below are some examples of how Literacy can be embedded into teaching and learning for GCSE History.
+
+Learners will have the opportunity to assess the accuracy and reliability of source material and share views
+through discussion and verbal questioning techniques when being taught the specification content.
+
+Examples
+
+Listening
+
+•  Learners are encouraged to debate and respond to the views of others.
+•  Learners will have opportunities to listen to podcasts and recordings in order to develop their vocabulary and
+
+listening skills.
+
+•  Use of oral history and interviews develop listening skills and the ability to respond to others appropriately.
+•  Learners have the opportunity to share and respond to peer presentations.
+
+Learners will have the opportunity to read contemporary source material as well as a variety of historical
+interpretations, before critically evaluating the sources, analysing their content, and comparing and
+contrasting sources focusing on the interpretation they give on events.
+
+Examples
+
+•  Learners can use a range of reading techniques such as skimming and scanning or reading for a purpose.
+•  Reading extracts from a wide range of sources such as speeches, articles, diary extracts, historians and
+
+newspapers.
+
+•  Comparing and contrasting the content of historical sources.
+•  Assessing the reliability and accuracy of the text to develop the skill of critical reading.
+
+Reading
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  21
+
+Learners will have the opportunity to develop their understanding of viewpoints and content through debate,
+discussion, presentations and group work.
+
+Speaking
+
+Examples
+
+•  Debating the most important reason why an event happened.
+•  Asking questions for clarification and development of understanding.
+•  Learners can develop speaking skills through group and pair work.
+
+Learners will have the opportunity to use a range of subject-specific vocabulary, idiomatic language and be able
+to present their work digitally. They will also have opportunities to reflect on the structure and content of their
+writing.
+
+Writing
+
+Examples
+
+•  Role modelling of answers through teacher, peer and self-assessment activities.
+•  Learners have the opportunity to use a wide range of writing styles such as formal, informal and first person.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  22
+
+There are many opportunities to include Numeracy in GCSE History, for example analysing population change, interpreting statistics in
+primary and secondary sources, analysing graphs and timelines and engaging with concepts such as chronological awareness. These
+opportunities are important to learners because it allows them to contextualise events and quantify change. Learners can draw evidence-
+based conclusions based on statics and numerical data.
+
+Cross-curricular Skills - Numeracy
+
+Below are some examples of how Numeracy can be embedded into teaching and learning for GCSE History.
+
+Learning about geometry
+helps us understand
+shape, space and
+position and learning
+about measurement
+helps us quantify in the
+real world
+
+Learning that statistics
+represent data and that
+probability models
+chance help us make
+informed inferences and
+decisions
+
+Learners will have opportunities to analyse maps in order to understand the growth and development of empires
+or the geographical representation of wars.
+
+Examples
+
+•  Learners can analyse maps, structures and artifacts.
+•  Learners can then analyse land division and urban planning.
+•  There are opportunities to analyse military strategies and fortifications .
+
+Learners will have the opportunities to examine or interpret data and graphs through source analysis.
+
+Examples
+
+•  Learners can analyse data to draw conclusions on statistics population growth, costs and land expansion.
+•  Secondary material such as graphs and charts can be interpreted.
+•  There are opportunities for learners to create their own numerical representations of data gathered.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  23
+
+Integral Skills
+
+There are many opportunities to include Creativity and Innovation in GCSE History. These opportunities are
+important to learners to become more engaged in lessons and enjoy learning through stimulating tasks. Deeper
+understanding is developed through the encouragement for learners to take an active role in their learning.
+
+Creativity and Innovation
+
+Examples
+
+•  Learners will demonstrate creativity when developing responses, expressing their opinions about relevant
+
+historical issues and critically evaluating sources and evidence within assessments.
+
+•  Learners have opportunities to be creative and innovative when presenting information and findings.
+
+There are many opportunities to include Critical Thinking and Problem Solving in GCSE History. These
+opportunities are important to learners because they develop the ability to think analytically, and to collect, reflect
+and critically evaluate evidence in order to make informed judgements and on a range of topics. This skill can be
+applied to real life scenarios.
+
+Examples
+
+Critical Thinking and
+Problem Solving
+
+•  Learners will have opportunities to ask meaningful questions of source material and historical interpretations,
+
+as well as to evaluate them as part of their process of developing relevant critical arguments.
+
+•  Learners will develop their ability to see issues from multiple viewpoints.
+•  Studying continuity and change over time allows learners to develop their problem-solving skills that can be
+
+applied in their future lives.
+
+•  Learners will evaluate sources and historical interpretations in terms of reliability, bias and purpose.
+•  Critical thinking and problem solving encourages independent learning and promotes the ability to come to
+
+reasoned and informed decisions in other aspects of life, such as further education or work.
+
+© WJEC CBAC Ltd. 2025
+
+Planning and
+Organisation
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  24
+
+There are many opportunities to include Planning and Organisation in GCSE History. These opportunities are
+important to Learners because these integral skills allow Learners to engage with the past, analyse information
+and communicate their findings, which allows learners to enhance their academic understanding and prepare
+them to apply historical knowledge in modern contexts.
+
+Below are some examples of how Planning and Organisation can be embedded into teaching and learning of
+GCSE History.
+
+Example
+
+•  Learners will have opportunities to plan and structure responses to questions requiring extended responses.
+
+There are many opportunities to include Personal Effectiveness in GCSE History. These opportunities are
+important to learners because it develops resilience and the ability to work effectively. This helps to develop
+learners’ time management skills and the ability to prioritise tasks, enhancing learners' ability to become
+adaptable individuals.
+
+Example(s)
+
+Personal Effectiveness
+
+•  Learning about potentially sensitive topics will allow learners to develop their emotional intelligence and
+
+historical awareness.
+
+•  Opportunities for peer, self and teacher assessment encourages learners to develop effective strategies to
+
+improve their work.
+
+•  Collaborating on a research task or presentation.
+•  Developing resilience through the revision and remodelling of answers.
+•  There are opportunities for learners to express their opinions about relevant historical issues, contemporary
+
+source materials and historical interpretations.
+
+© WJEC CBAC Ltd. 2025
+
+GCSE History Guidance for Teaching, Unit 3 Option 3.6: Changes in US society, c.1880 – c.1980  25
+
+Glossary for Option 3.6 Changes in US society, c.1880 – c.1980
+
+Term
+
+Definition
+
+Assimilation
+
+The integration of a distinct group into a larger one so that the
+distinctiveness of the original group is lost.
+
+Federal
+
+Laissez-faire
+
+A system of government in which the central government has
+specific and limited powers, and extensive authority rests with
+distinct areas (e.g. states, in this case) to administer their own
+affairs.
+
+A system – particularly related to economic affairs - in which
+any form of government regulation or control is absent or
+minimal.
+
+Protectionism
+
+An economic system in which imports are taxed or subject limits
+or complete bans in order to benefit domestic producers.
+
+Tariffs
+
+Taxes imposed on imports coming into a country or, in some
+cases, exports leaving a country.
+
+Xenophobia
+
+Extreme hostility to other nations and nationalities.
+
+© WJEC CBAC Ltd. 2025
+

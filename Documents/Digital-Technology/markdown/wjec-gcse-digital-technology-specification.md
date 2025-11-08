@@ -1,0 +1,3738 @@
+WJEC GCSE
+Digital Technology
+
+Approved by Qualifications Wales
+Specification
+Teaching from 2026
+For award from 2028
+
+GCSEMade for Wales. Ready for the world.This Qualifications Wales regulated qualification is not available to centres in England.WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern
+High School, Newport for their participation in the creation of these covers.
+
+GCSE DIGITAL TECHNOLOGY 2
+
+This specification meets the requirements of the following regulatory documents
+published by Qualifications Wales:
+•  Made for Wales GCSE Qualification Approval Criteria which set out
+
+requirements for any new GCSE qualification Approved for first teaching from
+September 2025 and beyond.
+
+•  Standard Conditions of Recognition which contains the rules that all awarding
+
+bodies and their qualifications must meet when offering qualifications to
+learners in Wales.
+
+•  Approval Criteria for GCSE Digital Technology which sets out the subject
+
+specific requirements for GCSE Digital Technology from September 2025 and
+beyond.
+
+Copyright
+© WJEC CBAC Limited 2025.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 3
+
+CONTENTS
+
+SUMMARY OF ASSESSMENT ................................................................................. 4
+
+1
+
+INTRODUCTION ................................................................................................. 5
+
+1.1
+
+Aims ......................................................................................................... 5
+
+1.2  Curriculum for Wales ................................................................................ 5
+
+1.3
+
+Prior learning and progression ................................................................. 6
+
+1.4  Guided learning hours .............................................................................. 6
+
+1.5  Use of language ....................................................................................... 6
+
+1.6
+
+Equality and fair access ........................................................................... 7
+
+2  SUBJECT CONTENT ......................................................................................... 8
+
+How to read the amplification .............................................................................. 8
+
+Unit 1 ................................................................................................................... 9
+
+Unit 2 ................................................................................................................. 22
+
+Unit 3 ................................................................................................................. 28
+
+Opportunities for integration of learning experiences ........................................ 33
+
+3  ASSESSMENT .................................................................................................. 34
+
+3.1
+
+3.2
+
+Assessment Objectives and Weightings................................................. 34
+
+Arrangements for non-examination assessment .................................... 35
+
+4  MALPRACTICE ................................................................................................. 37
+
+5  TECHNICAL INFORMATION ............................................................................ 38
+
+5.1
+
+Entries and Awards ................................................................................ 38
+
+5.2  Grading, awarding and reporting ............................................................ 39
+
+Appendix A: Digital Skills   ........................................................................................ 40
+
+Appendix B: Skills when creating digital assets ........................................................ 46
+
+Appendix C: Opportunities to develop cross-cutting themes, cross-curricular skills
+and integral skills ...................................................................................................... 50
+
+Appendix D: Decision Guide for assessing the suitability of website development
+software .................................................................................................................... 53
+
+Appendix E: Decision Guide for assessing the suitability of animation development
+software .................................................................................................................... 54
+
+Appendix F: Decision Guide for assessing the suitability of game development
+software .................................................................................................................... 55
+
+Appendix G: Decision Guide for assessing the suitability of photo editing software . 56
+
+Appendix H: Decision Guide for assessing the suitability of graphics software ........ 57
+
+Appendix I: Decision Guide for assessing the suitability of video editing software ... 58
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 4
+
+GCSE DIGITAL TECHNOLOGY
+
+SUMMARY OF ASSESSMENT
+
+Unit 1: The Digital World
+Digital examination: 1 hour 30 minutes
+40% of qualification
+
+80 marks
+
+Questions requiring objective responses, short and extended
+answers.
+
+Unit 2: Digital Practices
+Non-examination assessment: 20 hours
+40% of qualification
+
+80 marks
+
+Set by WJEC, marked by the Centre and moderated by WJEC.
+The assessment will feature tasks based on a client brief which
+will be set by WJEC each year.
+
+The client brief, which will include a scenario, quantitative and
+qualitative data sources and several tasks, will be available via
+Portal.
+
+Unit 3: Communicating in the Digital World
+Non-examination assessment: 10 hours
+20% of qualification
+
+60 marks
+
+Set by WJEC, marked by the Centre and moderated by WJEC.
+The assessment will feature tasks based on a client brief which
+will be set by WJEC each year.
+
+The client brief, which will include a scenario, will be available via
+Portal.
+
+This is a unitised qualification.
+
+It is not tiered.
+
+There is no hierarchy implied by the order in which units should be taught. Therefore, the
+order does not imply a prescribed teaching order.
+
+The examination for Unit 1 will be first available in 2028 and every year thereafter.
+Submission of Unit 2 and 3 will be available for the first time in summer 2027 and every year
+thereafter.
+
+The first award of the qualification will be 2028.
+
+Qualification Approval Number: C00/5167/7
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY
+
+GCSE DIGITAL TECHNOLOGY 5
+
+1
+
+INTRODUCTION
+
+1.1  Aims
+
+GCSE Digital technology supports learners to:
+•  become independent, confident and knowledgeable users of existing, new and
+
+emerging digital technologies
+
+•  understand the impact digital technologies can have on individuals and wider
+
+society and the ways in which they can bring about change
+
+•  develop skills in organising and analysing data to identify trends and audiences
+•  become creators of digital products, in a variety of formats and for a variety of
+
+purposes, that meet specified, authentic needs
+
+•  develop transferable skills in using a range of hardware and software
+•  develop their understanding of the systems development life cycle (SDLC) and of
+
+how ideas can become products
+
+These aims are set out in Qualifications Wales’ Approval Criteria.
+
+1.2  Curriculum for Wales
+
+This GCSE Digital Technology qualification is underpinned by the Curriculum for
+Wales framework and has been designed to ensure that learners can continue to
+make progress towards the four purposes whilst studying for this qualification.
+Central to this design are the principles of progression, along with the statements of
+what matters and those subject specific skills and concepts outlined in the ‘Designing
+your Curriculum’ section of the Science and Technology Area of Learning and
+Experiences.
+
+In developing this qualification, we have considered where there are opportunities to
+embed the cross-curricular themes and where there are opportunities for integral
+skills and cross-curricular skills to be developed. Appendix C provides a simple
+mapping, and information to support teachers will be provided in the Guidance for
+Teaching.
+
+We have also considered where the qualification can generate opportunities for
+integrating the learning experiences noted in page 33; the Guidance for Teaching will
+include further information on integrating these learning experiences into delivery.
+
+The GCSE Digital Technology qualification supports the Curriculum for Wales by:
+•  supporting the statements of what matters1 by giving learners the opportunity to:
+
+•  develop curiosity about technology
+•  process data to solve a wide range of real-world problems
+•  understand computational processes have changed the way we live, work,
+
+study and interact with each other and our environment
+•  provide the foundation for all software and hardware systems
+•  create and use digital technologies to their full potential
+•  understand how digital technologies work
+•  understand that there are broad legal, social and ethical consequences to the
+
+use of technology
+
+1 https://hwb.gov.wales/curriculum-for-wales/science-and-technology/statements-of-what-matters/
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 6
+
+•  make informed decisions about the future development and application of
+
+technology.
+
+•  supporting the principles of progression2 by encouraging learners to:
+
+•  apply an iterative approach, through trial and improvement, to design
+
+processes
+investigate, explore, analyse, problem-solve and design creative solutions
+
+•
+•  consider ethical and moral dilemmas linked to the use of technology.
+
+•  supporting the subject specific considerations for Digital Technology3 by giving
+
+learners opportunities to:
+•  explore the design, development and application of technology, software and
+
+systems
+
+•  develop digital skills using a range of technology and software.
+
+1.3  Prior learning and progression
+
+Although there is no specific requirement for prior learning, the qualification is
+designed primarily for learners between the ages of 14 and 16 and builds on the
+conceptual understanding learners have developed through their learning from ages
+3 – 14.
+
+The qualification allows learners to develop a strong foundation of knowledge, skills
+and understanding which supports progression to post-16 study and prepares
+learners for life, learning and work. The qualification provides a suitable foundation
+for the study of GCSE Digital Technology at either AS or A level. In addition, the
+specification provides a coherent, satisfying and worthwhile course of study for
+learners who do not progress to further study in this subject.
+
+1.4  Guided learning hours
+
+GCSE of Digital Technology has been designed to be delivered within 120 – 140
+guided learning hours. The qualification has been primarily designed as a 2-year
+programme for learners in years 10 and 11.
+
+1.5  Use of language
+
+As our understanding of diversity, equity, and inclusion evolves, so must our
+language. Updated terminology better reflects individual identities and fosters respect
+and accuracy. Language used should be specific as possible. Staying informed and
+adaptable is crucial, as inclusive language promotes dignity and equity. Recognising
+that language will continue to evolve, we will remain open to further amendments to
+ensure it accurately represents and supports all individuals. WJEC will inform centres
+of any amendments and the most up to date version of the specification will always
+be on the website.
+
+2 https://hwb.gov.wales/curriculum-for-wales/science-and-technology/principles-of-progression/
+3 https://hwb.gov.wales/curriculum-for-wales/science-and-technology/designing-your-curriculum/#specific-considerations-for-
+this-area
+
+© WJEC CBAC Ltd 2025.
+
+1.6  Equality and fair access
+
+GCSE DIGITAL TECHNOLOGY 7
+
+The specification may be followed by any learner, irrespective of gender, ethnic,
+religious or cultural background. It has been designed to avoid, where possible,
+features that could, without justification, make it more difficult for a learner to access
+and achieve because they have a particular protected characteristic.
+
+The protected characteristics under the Equality Act 2010 are age, disability, gender
+reassignment, pregnancy and maternity, race, religion or belief, sex and sexual
+orientation.
+
+Access arrangements and reasonable adjustments are made for eligible learners to
+enable them to access the assessments and demonstrate their knowledge and skills
+without changing the demands of the assessment.
+
+Information on access arrangements and reasonable adjustments is found in the
+following document from the Joint Council for Qualifications (JCQ): Access
+Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This
+document is available on the JCQ website (www.jcq.org.uk).
+
+We will be following the principles set out in this document and, as a consequence of
+provision for reasonable adjustments, very few learners will encounter a complete
+barrier to any part of the assessment.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 8
+
+2
+
+SUBJECT CONTENT
+
+How to read the amplification
+
+The amplification provided in the right-hand column uses the following four stems:
+•
+
+‘Learners should know’ is used when learners are required to demonstrate basic
+knowledge and understanding.
+‘Learners should understand’ is used when learners are required to demonstrate greater
+depth of knowledge and understanding, application of knowledge to familiar or unfamiliar
+contexts and analysis and evaluation of information for a given purpose.
+‘Learners should be able to’ is used when learners need to apply their knowledge and
+understanding to a practical situation or demonstrate application of practical skills and
+techniques.
+
+•
+
+•
+
+The use of the word ‘including’ indicates that the specified content must be taught and could
+be subject to assessment.
+
+The use of the words ‘for example’ or ‘such as’ indicates that the specified content is for
+guidance only, and alternative examples could be chosen.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 9
+
+Unit 1
+
+The Digital World
+
+Assessment type: Digital-only examination
+40% of qualification
+80 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+•  demonstrate knowledge and understanding of the relationship between analogue and
+
+digital data, and how data is measured and stored
+
+•  explore ways in which digital technology systems are developed, function, communicate
+
+and safeguard data
+
+•  demonstrate an awareness of how digital communications methods impact people and
+
+organisations
+
+•  explore ethical and legal issues surrounding safeguarding data
+•  consider the evolution of digital technologies.
+
+Areas of content
+
+1.1   Data
+
+In this section learners will gain knowledge and understanding of the following:
+1.1.1   Measuring and storing data
+1.1.2   Analogue and digital data
+
+Section
+
+Amplification
+
+1.1.1
+Measuring and storing
+data
+
+© WJEC CBAC Ltd 2025.
+
+Learners should know how data is stored and processed in
+computer systems, including:
+•
+
+the role of binary digits in data representation, including:
+•  numbers
+text
+•
+•
+images
+•  sound
+the relationship between binary data and storage units
+the impact of data size on performance and storage
+requirements.
+
+•
+•
+
+Learners should know the mediums, use and characteristics
+of:
+•  cloud storage
+•  magnetic storage
+•  optical storage
+•  solid state storage.
+
+Learners should understand the impact of storing data
+digitally on businesses and individuals, including:
+•  cost per unit of storage
+•  data retrieval speed
+•  data retrieval accessibility
+•  data security
+•  processing efficiency
+•  quality loss due to sampling
+•  storage scalability.
+
+GCSE DIGITAL TECHNOLOGY 10
+
+1.1.2
+Analogue and digital data
+
+Learners should know:
+•  what analogue data is
+•  what digital data is
+•  examples of analogue and digital data
+•
+
+the key differences between analogue and digital data,
+including:
+•  accuracy
+•  processes.
+
+Learners should know:
+•
+
+the key principles of converting sound from analogue to
+digital data, including:
+•  sampling
+•  sample frequency
+•  bit depth
+the key principles of converting light from analogue to
+digital data, including:
+•  sampling
+•  colour depth
+resolution
+•
+the impact on analogue to digital conversion of sound
+and light, including:
+•  quality
+•
+
+file storage size.
+
+•
+
+•
+
+Learners should know:
+•  how image data is stored, effects on scaling and quality
+
+for digital visual media, including:
+•  vector graphics
+•  bitmap graphics
+•  moving image files.
+
+Learners should understand the principles of data
+compression for digitally stored media, including:
+lossy and lossless compression in different contexts
+•
+•  calculating compression ratios and the changes in file
+
+sizes
+impact on file storage size and quality.
+
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 11
+
+1.2   Digital technology systems
+
+In this section learners will gain knowledge and understanding of the following:
+1.2.1   Digital devices and means of interaction and connection
+1.2.2   The features of operating systems
+1.2.3   Software types and functions
+1.2.4   Data backup
+1.2.5   Cloud services
+1.2.6   The Systems Development Life Cycle
+
+Section
+
+Amplification
+
+1.2.1
+Digital devices and means
+of interaction and
+connection
+
+Learners should know how users interact with different
+devices, including:
+•
+
+traditional and touch-based interactions, including:
+traditional keyboard/mouse
+•
+touch
+•
+•  biometrics
+•  gesture control
+
+•  advanced and immersive interactions, including:
+
+•  speech
+•  haptic feedback
+•  Augmented Reality (AR)
+•  Virtual Reality (VR).
+
+Learners should know the basic principles of the internet,
+including:
+•  data transmission
+•  device communication
+role of protocols.
+•
+
+Learners should know:
+•
+
+•
+
+•
+
+the purpose of hardware involved in connecting digital
+devices, including:
+•  bridge
+•  gateway
+•
+router
+•  switch
+the key components that enable internet communication,
+including:
+•  client, server model
+•
+the role of key internet technologies, protocols and
+services, including:
+•  search engines
+•  World Wide Web (WWW)
+•  web servers
+•  Uniform Resource Locators (URLs)
+•  Domain Name System (DNS)
+•  web browsers.
+
+Internet Service Providers (ISP)
+
+Learners should know:
+•
+
+the purpose and characteristics of different technologies
+used for transmitting data, including:
+•  broadband
+•  satellite
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 12
+
+1.2.2
+The features of operating
+systems
+
+fibre
+
+•
+•  mobile communication, such as 4G and 5G
+•  Wi-Fi (802.11)
+•  Bluetooth.
+
+Learners should understand how Geographical Information
+Systems (GIS) use these transmission technologies to
+collect, share, and update spatial data in real time.
+
+Learners should understand the advantages and
+disadvantages associated with technologies used for
+transmitting data, including:
+•  speed and reliability
+•  coverage and accessibility
+•  cost and infrastructure
+•  security considerations.
+
+Learners should know the purpose and function of the
+operating system.
+
+resources
+
+Learners should know how operating systems manage:
+•
+•  peripherals, including input and output devices
+•  spooling
+•  memory
+•  processes
+•  security
+•  user interfaces.
+
+Learners should know:
+•
+
+the characteristics and uses of user interfaces, including:
+•  Command Line Interface (CLI)
+•  Graphical User Interface (GUI)
+•  Touch Sensitive Interface (TSI)
+•  biometrics
+•  voice driven interface
+•  eye tracking interface.
+
+Learners should understand the advantages and
+disadvantages of these user interfaces for different users.
+
+1.2.3
+Software types and
+functions
+
+Learners should understand the types, purposes, functions
+and characteristics of software, including:
+•  system software, including:
+
+•  utility software
+•  device drivers
+
+•  application software, including:
+•  communication software
+•  graphics and multimedia software
+•  productivity software
+•  web browsers.
+
+Learners should understand:
+•
+•
+
+the reasons for the commissioning of bespoke software
+the advantages and disadvantages of bespoke software
+compared to off-the-shelf software.
+
+© WJEC CBAC Ltd 2025.
+
+1.2.4
+Data backup
+
+Learners should understand the importance of backing up
+data.
+
+GCSE DIGITAL TECHNOLOGY 13
+
+Learners should know:
+•
+
+the purpose and key-features of data backup processes,
+including:
+•
+•
+•  differential backup
+•  Grandfather - Father - Son (GFS) methodology as an
+
+full backup
+incremental backup
+
+approach for backing-up data.
+
+Learners should know:
+•
+
+the characteristics and suitability of backup storage
+media, including:
+•  cloud storage
+•  magnetic storage
+•  optical storage
+•  solid state storage.
+
+Learners should understand the advantages and
+disadvantages associated with these backup storage media,
+including:
+•  cost
+•  durability
+•  portability
+•  speed
+•  storage capacity.
+
+Learners should know the purpose of backup strategies,
+including:
+•
+•  versioning
+•  offsite backup.
+
+regular scheduling
+
+Learners should know the need for a disaster recovery plan,
+including:
+•
+
+restoration process, including:
+•  data backup and recovery
+•  system restoration
+•
+
+testing and maintenance
+•  security considerations, including:
+
+•  access control
+•  encryption
+•  disaster prevention measures.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 14
+
+1.2.5
+Cloud services
+
+1.2.6
+The Systems Development
+Life Cycle
+
+•
+
+Learners should understand cloud services including:
+the difference between cloud computing and cloud
+•
+storage
+the benefits of cloud services, including:
+•  scalability
+•  cost-effectiveness
+•  accessibility
+reliability
+•
+•  security
+flexibility
+•
+
+•  challenges and considerations, including:
+
+•  data privacy
+•  vendor lock-in
+•  downtime and service interruptions
+•  cost management.
+
+Learners should understand:
+•
+•
+
+the purpose of the Systems Development Life Cycle
+the phases of the Systems Development Life Cycle,
+including:
+•  scoping and feasibility
+•  analysis
+•  design
+implementation
+•
+•
+testing
+•  deployment
+•  maintenance.
+
+Learners should know:
+•  processes involved in implementing digital systems,
+
+including:
+•  direct ‘big bang’ method
+•  parallel method
+•  phased method
+•  pilot method.
+
+Learners should understand the advantages and
+disadvantages when selecting a process for implementing
+digital systems.
+
+Learners should know the benefits of using digital systems,
+including:
+•  automation of processes
+•  communication and collaboration
+•  data management and analysis
+innovation and competitiveness
+•
+resource management
+•
+•  scalability and flexibility.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 15
+
+1.3   Digital Communication
+
+In this section learners will gain knowledge and understanding of the following:
+1.3.1   Digital communication methods for personal, social and business uses
+1.3.2   Reliability of online sources
+1.3.3   Social networking practices and ownership
+
+Section
+
+Amplification
+
+1.3.1
+Digital communication
+methods for personal,
+social and business uses
+
+1.3.2
+Reliability of online
+sources
+
+Learners should know the purpose and key features of
+digital communication methods for individuals, society and
+business, including:
+•  blogs
+•  collaborative tools
+•  email
+•
+•
+•  Short Message Service (SMS)
+•  social media platforms
+•  video call
+•  Voice Over Internet Protocol (VoIP).
+.
+
+forums and online communities
+Instant Messaging (IM) and chat applications
+
+Learners should understand:
+•
+•
+
+the importance of using reliable online sources
+the factors that determine reliability, including:
+•  accuracy and objectivity
+•  author credentials
+•  citations and references
+•  peer review
+•  publication date
+•  source reputation
+
+•  methods of evaluating online sources, including:
+
+•
+
+•  analysing writing style
+•  checking for bias
+•  cross-referencing
+•  domain analysis
+•
+fact-checking
+the challenges when considering the reliability of online
+sources, including:
+•  digital literacy
+•  echo chambers
+•  misinformation
+•  disinformation.
+
+Learners should know examples of reliable online sources,
+including:
+•  academic journals
+•  government websites
+•  professional organisations
+reputable news outlets.
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 16
+
+Learners should know practices of social media platforms,
+including:
+•  creating and sharing user-generated content
+•
+•  profiles and managing online identity
+•
+•
+
+tagging, liking, status updates and checking-in
+trends and viral content.
+
+joining groups and engaging in online communities
+
+Learners should understand how social networking impacts
+on digital content ownership, including:
+•  media ownership
+•  management of content rights.
+
+1.3.3
+Social networking
+practices and ownership
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 17
+
+1.4
+
+The digital shift: work, trade, and monetisation
+
+In this section learners will gain knowledge and understanding of the following:
+1.4.1   Changing working practices
+1.4.2   Changing relationships of marketplace models
+1.4.3   Rise of services and monetising content
+
+Section
+
+Amplification
+
+1.4.1
+Changing working
+practices
+
+Learners should know the key drivers of changing working
+practices, including:
+•  globalisation
+•
+•
+•  workforce demographics
+•  collaboration tools.
+
+remote and hybrid work models
+technological advancements
+
+Learners should understand how changing working
+practices have influenced business’ digital systems,
+including:
+•  automation and efficiency
+•  hardware and software requirements
+•  scalability and flexibility
+•  security and compliance.
+
+Learners should understand how changing working
+practices have impacted individuals, such as:
+•
+•
+•  blurred boundaries between work and personal life
+•
+.
+
+increased flexibility
+improved work-life balance
+
+increased feelings of isolation.
+
+1.4.2
+Changing relationships of
+marketplace models
+
+Learners should know the purpose and features of different
+marketplace models, including:
+•  Business to Business (B2B)
+•  Business to Consumer (B2C)
+•  Consumer to Consumer (C2C).
+
+Learners should understand:
+•
+
+the advantages and disadvantages of the changing
+relationship of these marketplace models on:
+•  business
+•  consumers.
+
+Learners should understand how and why content and
+services are monetised, including:
+•  advertising through websites
+•  data mining and analytics
+•
+•  marketing to prospective and existing customers by
+
+freemium models and in-app purchases
+
+email, social media or other means
+
+•  subscription based services and their impact on revenue
+
+generation.
+
+1.4.3
+Rise of services and
+monetising content.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 18
+
+1.5   Securing data and systems
+
+In this section learners will gain knowledge and understanding of the following:
+1.5.1   The range of threats to data
+1.5.2   The consequence of cyber-attacks on organisations
+1.5.3   Digital footprints
+1.5.4  Legal and ethical responsibilities
+
+Section
+
+Amplification
+
+1.5.1
+The range of threats to
+data
+
+Learners should know the characteristics of threats to data,
+including:
+•  deliberate destruction of data
+•  Denial of Service (DoS) attacks
+•  Distributed Denial of Service (DDoS) attacks
+•  human error
+•  malware
+•  Man-in-the-Middle (MitM) attacks
+•  phishing
+•  physical threats to data
+•  social engineering
+•  zero-day exploits.
+
+Learners should know the cyber security controls
+organisations can use to prevent threats to data, including:
+•
+•
+
+install and update antivirus software regularly
+train employees to recognise phishing attempts and use
+email filters
+implement strict verification protocols and staff training
+
+•
+•  use firewalls, load balancers and traffic monitoring
+•  use encrypted connections and strong authentication
+
+methods
+
+•  apply security patches and updates promptly
+•  secure hardware with locks and access control
+•  provide regular training and implement robust approval
+
+processes
+
+•  use access control and data redundancy for protection
+•  use VPNs for remote employees to minimise
+unauthorised access and data breaches.
+
+Learners should know the potential consequences of cyber
+attacks on organisations, including:
+•  data loss
+•  direct and indirect financial loss
+•  employee impact
+•
+legal consequences
+•  operational disruption
+reputation damage.
+•
+
+Learners should know the purpose of cyber attack recovery
+plans, including:
+•  business continuity plans
+•  disaster recovery plan
+•  ensuring regular backups of data
+redundant systems and failover.
+•
+
+1.5.2
+The consequence of cyber
+attacks on organisations
+
+© WJEC CBAC Ltd 2025.
+
+1.5.3
+Digital footprints
+
+GCSE DIGITAL TECHNOLOGY 19
+
+Learners should know the types and features of digital
+footprints, including:
+•  active
+•  passive.
+
+Learners should understand the implications of digital
+footprints, including:
+•  data mining
+•
+impact on future opportunities
+•  personal privacy and security
+•
+
+targeted advertising.
+
+Learners should know the strategies and importance of
+managing digital footprints, including:
+•  adjusting privacy settings
+•  avoiding oversharing information
+•
+•  using software tools and technologies, such as privacy-
+focused browsers and Virtual Private Networks (VPNs).
+
+reviewing and cleaning up digital footprints
+
+Learners should understand:
+•
+
+the potential impact and use of digital footprints for
+different groups, including:
+•  businesses
+•  employees
+•  security services
+the legal and ethical considerations of digital footprints.
+
+•
+
+1.5.4
+Legal and ethical
+responsibilities
+
+Learners should know the purposes, provisions, exceptions
+and penalties outlined in the following acts:
+•  The Computer Misuse Act 1990
+•  The Copyright Act 1988
+•  The Data Protection Act 2018 including the General
+
+Data Protection Regulation (GDPR)
+
+•  The Investigatory Powers Act 2016
+•  Online Safety Act 2023.
+
+Learners should understand the ethical impact of:
+•  data and digital systems, including:
+
+•
+individual
+•  organisations
+•  society
+the use of Artificial Intelligence (AI) in automated
+decision making.
+
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 20
+
+1.6   Emerging and evolving digital technologies
+
+In this topic learners will gain knowledge and understanding in the following areas:
+1.6.1   The development and evolution of a range of digital technologies
+1.6.2   Artificial intelligence (AI) models
+1.6.3   Emerging trends and future developments of digital technologies.
+
+Section
+
+Amplification
+
+1.6.1
+The development and
+evolution of a range of
+digital technologies
+
+Learners should know the impact of:
+•  digital technologies in areas, including:
+
+•  banking
+•  climate and environmental monitoring
+•  education
+•  entertainment
+•  healthcare
+•  social interaction
+•  workplaces.
+
+Learners should understand the development and evolution
+of digital technologies on these sectors.
+
+Learners should know the purpose, uses and impacts of
+digital technologies, including:
+•  computing devices such as:
+
+•
+
+Internet of Things (IoT)
+
+•  drones
+•  gaming
+•
+•  wearable technology
+Internet and networking, such as:
+•  4G and 5G
+•  artificial intelligence and machine learning
+•  blockchain and cryptocurrencies
+•  cloud services.
+
+1.6.2
+Artificial intelligence (AI)
+models
+
+Learners should understand:
+•
+
+fraud detection systems
+
+the uses of artificial intelligence (AI) models, including:
+•  autonomous cars and robots
+•  chatbots
+•
+•  health care
+•
+
+large language models (LLMs), including text, image
+and video generation
+language translation tools
+
+•
+•  AI-driven personal recommendation services, for
+
+example streaming services
+
+•
+
+•  voice assistants
+the types of artificial intelligence (AI) models, including:
+•  supervised learning models
+•  unsupervised learning models
+•  semi-supervised learning models
+
+•  how artificial intelligence (AI) models are trained,
+
+including:
+large data sets
+•
+testing
+•
+•  updating.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 21
+
+Learners should understand the potential impact of artificial
+intelligence (AI) models, including:
+•  bias in decision making
+•  privacy concerns
+•
+job automation
+•  ethical concerns
+•  misuse.
+
+Learners should know the impact of emerging digital
+technology on individuals, organisations and society,
+including:
+•  5G and next-generation networking
+•  artificial intelligence (AI) and machine learning
+•  blockchain technologies
+•  cyber security
+•
+•  quantum computing
+•  Virtual Reality (VR) and Augmented Reality (AR).
+
+Internet of Things (IoT)
+
+1.6.3
+Emerging trends and
+future developments of
+digital technologies.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 22
+
+Unit 2
+
+Digital Practices
+
+Assessment type: Non-examination assessment
+40% of qualification
+80 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+•  use and organise data purposefully
+•  plan and develop data-informed digital products for a specific audience and purpose
+•
+
+test and evaluate the success of digital products.
+
+Centres have the option to allow learners to develop either a computer game or a 2D
+animation.
+
+Centres can select suitable software to develop digital products. Centres should refer to the
+Decision Guide provided in Appendix D, E and F to support the choice of software.
+
+Areas of content
+
+2.1   Data Management and Analysis
+
+In this unit learners will gain knowledge and understanding of the following areas:
+2.1.1   Cleansing and organising data
+2.1.2   Data analytics
+
+Section
+
+Amplification
+
+2.1.1
+Cleansing and organising
+data
+
+Learners should understand:
+•  different types of data and their characteristics
+techniques for cleansing and organising data.
+•
+
+Leaners should be able review quantitative data and use
+suitable spreadsheet skills, formulas and functions to
+cleanse and organise data for data analytics to take place.
+
+Learners should be able to:
+•
+
+review quantitative data and use suitable spreadsheet
+skills, formulas and functions to cleanse and organise
+data for data analytics to take place, including:
+•  data cleansing, such as:
+
+insert missing values
+remove duplicates
+remove outliers
+
+•  correct errors
+•
+•
+•
+•  use standard data formats
+•  validate data against known standards or rules
+
+•  data organising, such as:
+
+filtering and searching using formulas/functions
+
+•
+•  sorting
+•  categorise
+•
+•  using in-built filters
+
+format data and tables
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 23
+
+•  create pivot tables.
+
+•  use suitable formulas and functions from each level of
+
+complexity (categorised as basic, medium and complex,
+as listed in Appendix A).
+
+2.1.2
+Data analytics
+
+Learners should understand:
+•  how descriptive data analytics uses statistical
+
+summaries to identify patterns, trends, and relationships
+within the data
+
+•  how data can be presented using visualisations.
+
+Learners should be able to use data analytics to:
+•
+
+identify audience needs, trends, and preferences by
+applying suitable software techniques
+report results in a suitable format, including suitable
+graphs or charts.
+
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 24
+
+2.2   Proposing and designing digital products
+
+In this unit learners will gain knowledge and understanding of the following areas:
+2.2.1   Digital products proposal
+2.2.2   Designing digital products
+
+Section
+
+Amplification
+
+2.2.1
+Digital products proposal
+
+Learners should understand how to develop a digital product
+proposal.
+
+Learners should be able to propose suitable digital products
+based on a client brief and qualitative data provided,
+including:
+•  specific and measurable success criteria that includes:
+•  alignment with outcomes from data analytics results
+•  design aspects that reflect qualitative data provided
+•
+time planning document to ensure the development
+process is completed on time, including the following
+elements:
+•
+tasks
+•  activities
+•  milestones.
+
+functionality and usability
+
+•
+
+2.2.2
+Designing digital products
+
+Learners should understand how to effectively design digital
+products.
+
+Learners should be able to use their success criteria, client
+brief and qualitative data provided to plan:
+•  annotated initial design options for digital products, such
+
+as:
+•  Decision Guides
+•  mock-ups
+•  sitemaps
+•  storyboards
+•  wireframes
+
+•  visual aspects, including:
+•  colour schemes
+•
+•
+
+layout
+typography
+
+•  sound aspects, such as:
+•  background music
+•  sound effects
+•  voiceovers or narration.
+
+Learners should be able to:
+•
+
+justify choices of selected design options for digital
+products based on success criteria.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 25
+
+2.3
+
+Implementation
+
+In this topic learners will gain knowledge, understanding and skills in the following areas:
+2.3.1   Website implementation
+2.3.2a  Computer game implementation
+Or
+2.3.2b  2 Dimensional (2D) animation implementation
+
+Section
+
+Amplification
+
+2.3.1
+Website implementation
+
+Learners should understand:
+•
+•
+
+the features of a functional, multi-page website
+the skills needed to create and export a functional, multi-
+page website.
+
+Learners should be able to create a functional, multi-page
+website which includes the following features, including:
+•  suitable media
+•  effective navigation between pages
+•  hyperlinks to external documents.
+
+Leaners should be able to develop a functional multipage
+(three pages) website that reflects:
+•  success criteria
+•  chosen design options
+•  qualitative data.
+
+Learners should be able to:
+•  demonstrate suitable web development skills from each
+level of complexity (categorised as basic, medium and
+complex, as listed in Appendix A).
+
+Learners should be able to export the multi-page website
+into a hostable file format, such as:
+•  Hyper Text Mark-up Language (HTML)
+•  Cascading Style Sheets (CSS)
+•  JavaScript (JS).
+
+Learners should understand:
+•
+•
+
+the features of a functional, multi-level computer game
+the skills needed to create and export a functional multi-
+level computer game.
+
+Learners should be able to apply technical skills to develop
+a computer game, including:
+•  writing scripts using scripting-based languages to control
+
+game behaviour, such as:
+•  player movement
+•  enemy automation
+•  game logic
+•  scoring systems
+•
+
+lives or damage systems
+
+•  designing and using game characters, objects, and
+
+environments including animation
+
+•  creating multiple game levels
+
+2.3.2a
+Computer game
+implementation
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 26
+
+•  adding sound effects and background music to enhance
+
+the gaming experience
+
+•  creating intuitive, interactive and engaging interface
+
+elements, such as:
+•  menu screens
+•  Heads-Up Displays (HUDs)
+
+•  using suitable game development techniques from each
+level of complexity (categorised as basic, medium and
+complex, as listed in Appendix A).
+
+Learners should be able to export the game to a standalone
+application.
+
+2.3.2b
+2 Dimensional (2D)
+animation implementation
+
+Learners should understand:
+•
+•
+
+the features of a functional, 2D animation
+the skills needed to create and export a functional 2D
+animation.
+
+Learners should be able to apply technical skills to develop
+a 2D animation, including:
+•  designing a range of different characters, including
+
+animated sprites
+
+•  using suitable animation production skills, such as:
+
+•  camera movement
+•
+frame-by-frame
+•  masking
+•  onion skinning
+•
+•
+•
+
+rigging
+rotoscoping
+tweening
+
+•  embedding suitable sound to enhance the animation:
+•  creating multiple animation sets to depict various
+
+scenes and actions
+
+•  using animation timeline skills to control the timing
+
+and movement of animations
+
+•  using suitable animation techniques from each level of
+
+complexity (categorised as basic, medium and complex,
+as listed in Appendix A).
+
+Learners should be able to export the animation to a format
+which will allow for embedding within a webpage.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 27
+
+2.4
+
+Testing and evaluating digital products and development approaches
+
+In this topic learners will gain knowledge, understanding and skills in the following areas:
+2.4.1   Effectiveness of ongoing testing for the digital products
+2.4.2   Evaluation of digital products and development processes
+
+Section
+
+Amplification
+
+2.4.1
+Effectiveness of ongoing
+testing for the digital
+products
+
+Learners should understand how to evaluate the
+effectiveness of their ongoing testing of the digital products,
+including:
+•
+•  ensuring the final digital products operate as expected
+•
+
+if the success criteria have been met.
+
+identifying and removing errors
+
+2.4.2
+Evaluation of digital
+products and development
+processes
+
+Learners should understand how to evaluate if their digital
+products meet success criteria, including:
+•
+•
+•  application of skills.
+
+the completed products
+the development process
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 28
+
+Unit 3
+
+Communicating in the Digital World
+
+Assessment type: Non-examination assessment
+20% of qualification
+60 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+•  explore social media platforms
+•  create and manipulate digital media assets for use in a digital marketing campaign video
+•  plan and create a digital marketing campaign video.
+
+Centres can select suitable software to create and manipulate digital media assets. Centres
+must refer to the Decision Guide provided in Appendix G, H and I to support the choice of
+software.
+
+Areas of content
+
+3.1   Digital marketing investigation
+
+In this topic learners will gain knowledge, understanding and skills in the following areas:
+3.1.1   Factors influencing social media platform choices
+3.1.2   Digital marketing strategy
+3.1.3   Digital marketing campaign benefits, opportunities and risks
+
+Section
+
+Amplification
+
+3.1.1
+Factors influencing social
+media platform choices
+
+Learners should understand:
+•  how the age group of a target audience and other
+
+income
+interests and behaviours of users
+lifestyle
+
+demographic factors influence the choice of social media
+platform, such as:
+•  cultural or ethnic backgrounds
+•  gender
+•  geographic locations
+•
+•
+•
+the characteristics of different social media platforms
+and its impact on user engagement, such as:
+•  algorithmic content delivery
+•  community building
+•  engagement tracking
+•
+•  monetisation
+•  multi-device accessibility
+•  multimedia integration
+•  personalisation
+•  privacy and security
+•  public and private communications
+•
+•  user-generated content
+the features of different social media platforms and its
+impact on user engagement, such as:
+
+interactivity and engagement
+
+real-time updates
+
+•
+
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 29
+
+•  advertising tools
+•  analytics
+•  content sharing
+•  direct and private messaging
+•  dynamic news feeds
+•  e-commerce integration
+•  geotagging
+•  groups or communities
+•  hashtags
+•  notifications and alerts
+•  profiles
+•  stories.
+
+Learners should understand how a digital marketing strategy
+can help an organisation achieve its aims, using:
+•
+
+influencer marketing
+
+forms of digital marketing, such as:
+•
+•  paid advertising
+•  branding elements
+•  notifications
+•  comments and reviews
+•  media uploads
+•
+•  sharing options.
+
+following or subscribing
+
+•  placement strategies used in digital marketing such as:
+
+•
+
+•  direct messages
+•  event pages
+influencer collaborations
+•
+•
+live streams
+•  sponsored posts
+•  stories
+•  video platforms.
+targeting strategies used in digital marketing, such as:
+•  audience segmentation
+•  behavioural targeting
+•  geographic targeting
+•  demographic targeting
+interest targeting
+•
+•
+retargeting or re-engaging users
+time-based targeting.
+•
+
+Learners should understand how an effective digital
+marketing strategy relies on the coherence.
+
+3.1.2
+Digital marketing strategy
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 30
+
+real-time engagement
+
+Learners should understand how a digital marketing
+campaign posted on social media can influence an
+organisation in achieving its aims through:
+the benefits and opportunities, such as:
+•
+increased reach
+•
+•  cost-effectiveness
+•
+targeted marketing
+•  measurable results
+•
+•  personalisation
+•  brand awareness
+•  customer insights
+•  enhanced customer relationships
+•  content variety
+•  viral potential.
+the risks, such as:
+•  advertising fraud
+•  algorithm changes
+•  compliance issues
+•  content mismanagement
+•
+•  market saturation
+•  negative publicity
+•  privacy concerns
+•
+
+intellectual property infringement
+
+reputation damage.
+
+•
+
+3.1.3
+Digital marketing
+campaign benefits,
+opportunities and risks
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 31
+
+3.2   Developing and implementing a digital marketing strategy
+
+In this topic learners will gain knowledge, understanding and skills in the following areas:
+3.2.1   Developing a digital marketing strategy
+3.2.2   Design and develop coherence between digital media assets and copy (text)
+3.2.3   Applying software skills
+
+Section
+
+Amplification
+
+3.2.1
+Developing a digital
+marketing strategy
+
+Learners should understand how to create a digital
+marketing strategy that considers user engagement.
+
+Learners should be able to develop a digital marketing
+strategy that:
+•
+•
+
+includes specific and measurable success criteria
+reflects the needs of the target audience, including:
+•  demographic factors
+•  characteristics of the chosen social media platform
+•
+•
+•  placement strategies
+targeting strategies.
+•
+
+features of the chosen social media platform
+forms of digital marketing
+
+3.2.2
+Design and develop
+coherence between digital
+media assets and copy
+(text)
+
+Learners should understand how to design and develop
+coherence between created or manipulated digital media
+assets and copy (text).
+
+Learners should be able to:
+•  use a standard design method to create an annotated
+
+initial design for the digital marketing video, such as:
+•  storyboards
+•  wireframes
+
+•  develop coherence between created or manipulated
+digital media assets and copy (text), including the
+following factors:
+•  brand identity
+•  content themes
+•  style and tone
+•
+target audience
+•  unified message
+•  visual and written content
+•  optimised for chosen platform.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 32
+
+3.2.3
+Applying software skills
+
+Learners should understand the skills needed to:
+•  create or manipulate coherent digital assets
+•  export a suitable digital marketing video.
+
+Learners should be able to apply suitable software skills
+when:
+•  creating or manipulating suitable digital assets (using
+
+suitable skills from each level of complexity categorised
+as basic, medium and complex, as listed in Appendix B)
+which align with the formulated digital marketing video,
+including:
+•  copy (text)
+•  photos
+•  graphics
+•  moving images
+
+•  exporting the digital marketing video to ensure that it is
+
+suitable, including the following factors:
+•  video formatting
+•
+•  audio settings
+•  compression techniques
+
+resolution settings
+
+•  demonstrating coherence between all digital assets.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 33
+
+Opportunities for integration of learning experiences
+
+GCSE Digital Technology generates opportunities for the following learning experiences to
+be developed (experiences will not be directly assessed):
+•  hands-on interaction with wearable, sensor-based or extended reality hardware and
+
+peripherals
+
+•  explore and investigate online marketing communication campaigns
+•  opportunities to work collaboratively with others
+•  engage with appropriate and professionally produced animations or video games
+•  develop appreciation of the range of careers and work-related areas, linked to the
+
+subject content, which utilise digital technologies.
+
+The Guidance for Teaching will include further information on the opportunities provided by
+the qualification for teachers/centres to integrate these learning experiences and skills into
+delivery.
+
+For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills
+please see Appendix C.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 34
+
+3
+
+ASSESSMENT
+
+The Assessment Pack will include all detailed information relating to assessment.
+
+3.1  Assessment Objectives and Weightings
+
+Below are the assessment objectives for this specification. Learners must:
+
+AO1
+Demonstrate knowledge and understanding of digital technology systems.
+
+AO2
+Apply knowledge and understanding of digital technology systems in a range of
+contexts.
+
+AO3
+Apply knowledge, skills and understanding to identify audience needs and plan digital
+products and communications that meet these needs.
+
+AO4
+Develop, test and evaluate digital products that meet the needs of specified
+audiences.
+
+The table below shows the weighting of each assessment objective for each unit and
+for the qualification as a whole.
+
+AO1
+
+AO2
+
+AO3
+
+AO4
+
+Total
+
+Unit 1
+
+20%
+
+20%
+
+-
+
+-
+
+40%
+
+Unit 2
+
+Unit 3
+
+Overall
+weighting
+
+-
+
+-
+
+-
+
+5%
+
+15%
+
+25%
+
+40%
+
+5%
+
+10%
+
+20%
+
+20%
+
+25%
+
+20%
+
+35%
+
+100%
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 35
+
+3.2  Arrangements for non-examination assessment
+
+Unit 2: Overview
+
+For this assessment, learners receive a client brief that describes the organisation on
+which they will base their non-examination assessment, along with some basic
+background information, such as its purpose. The client brief will introduce the
+requirements for the non-examination assessment and identify the digital files
+learners will use. It will also provide details of the products to be produced and the
+timescales involved.
+
+Learners will be provided with qualitative data, including details of styles and themes
+for the digital products. They will have dedicated research time to source digital
+assets needed for their products. This research time does not form part of their non-
+examination assessment time, and during this period they will have access to the
+internet.
+
+Learners will then be required to use a quantitative dataset and apply different skills
+to identify audience needs, trends and preferences for the project.
+
+Learners must create two digital products based on the purpose of the client brief. All
+learners must produce a multi-page website, and they may choose to create either a
+computer game or a 2D animation. Learners must develop, plan and implement their
+digital products, demonstrating a range of digital skills. They must also test the
+functionality of their digital products throughout the development process.
+
+At the end of the project, learners analyse the effectiveness of their ongoing testing
+and evaluate their completed digital products, development process and application
+of skills.
+
+Learners may complete the assessment anytime during the course. However,
+centres should ensure that assessment is completed only when learners have
+undertaken the necessary teaching and learning and developed the required skills
+and knowledge.
+
+The assessment contributes to 40% of the overall qualification. The unit will be
+marked out of total of 80 marks.
+
+The client brief will be set by WJEC annually and available via the WJEC Portal in
+September during the first year of study and every year thereafter. The client brief will
+change annually, the tasks and mark scheme will remain the same.
+
+This unit will be assessed by the centre and externally moderated by WJEC.
+
+Unit 3: Overview
+
+For this assessment, learners receive a client brief that describes the organisation on
+which they will base their non-examination assessment, along with some basic
+background information, such as its aims. They will be required to plan and create a
+video for a digital marketing campaign.
+
+Learners must undertake research on social media platforms to recommend a
+suitable platform for the organisation specified in the client brief. Based on their
+research, they will develop a digital marketing campaign document outlining their
+recommendation. During their research time, they must also source digital assets.
+This research time does not form part of their non-examination assessment time, and
+during this period they will have access to the internet.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 36
+
+Learners will then develop a plan for their campaign. Using the digital assets they
+have created or manipulated, they will produce a digital marketing campaign video,
+applying suitable software skills in its production. Lastly, learners will export the video
+in a suitable format.
+
+Learners may complete the assessment anytime during the course. However,
+centres should ensure that assessment is completed only when learners have
+undertaken the necessary teaching and learning and developed the required skills
+and knowledge.
+
+The assessment contributes to 20% of the overall qualification. The unit will be
+marked out of total of 60 marks.
+
+The client brief will be set by WJEC annually and available via the WJEC Portal in
+September during the first year of study and every year thereafter. The client brief will
+change annually, the tasks and mark scheme will remain the same.
+
+This unit will be assessed by the centre and externally moderated by WJEC.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 37
+
+4  MALPRACTICE
+
+Before the course starts, the teacher is responsible for informing candidates of WJEC's
+regulations concerning malpractice. Candidates must not take part in any unfair practice in
+the preparation of work for GCSE Digital Technology
+
+Information regarding malpractice is available in our Guide to preventing, reporting and
+investigating malpractice.
+
+All cases of suspected or actual malpractice must be reported immediately to WJEC
+(malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or
+disqualified from the examinations.
+
+In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected
+Malpractice: Policies and Procedures.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 38
+
+5
+
+TECHNICAL INFORMATION
+
+5.1  Entries and Awards
+
+This is a unitised qualification. Learners are entered for each unit separately.
+
+Assessment opportunities will be available in the summer assessment period each
+year, until the end of the life of the specification.
+
+Unit 2 and Unit 3 will first be available in 2027 (and every year thereafter). Unit 1 will
+be available in 2028 (and every year thereafter) and the qualification will be awarded
+for the first time in summer 2028.
+
+Pre-16 Candidates (i.e. candidates who are 16 or under on 31st August in the
+academic year in which they were entered)
+
+The terminal rule is set at 40% of the overall qualification for Pre-16 Candidates for
+GCSE Digital Technology.
+
+If the assessment being re-taken contributes to the 40% terminal rule requirement,
+the mark for the new assessment will count regardless of previous results in that
+assessment.
+
+Candidates may resit an individual unit once only. The better uniform mark score
+from the two attempts will be used in calculating the final overall grade subject to the
+terminal rule being satisfied first i.e. that candidates must complete a minimum
+amount of the assessment for a qualification in the series in which they are cashing
+in.
+
+If any unit has been attempted twice and a candidate wishes to enter the unit for the
+third time, the candidate will have to re-enter all units and the appropriate cash-in(s).
+This is referred to as a 'fresh start'. When retaking a qualification (fresh start), a
+candidate may have up to two attempts at each unit. However, no results from
+examination units taken prior to the fresh start can be used in aggregating the new
+grade(s).
+
+If a candidate has been entered for, but is absent for a unit, the absence does not
+count as an attempt. The candidate would, however, qualify as a resit candidate in
+the final resit series.
+
+Marks for non-examination assessment may be used for the life of the specification.
+
+If a candidate has been entered for, but is absent for a unit, the absence does not
+count as an attempt. The candidate would, however, qualify as a resit candidate.
+
+Post-16 Candidates (i.e. candidates who are 16 or over on 1st September in the
+academic year in which they are entered)
+
+There is no terminal rule that applies to Post-16 Candidates for GCSE Digital
+Technology.
+
+There is no limit on the number of times a candidate can resit an individual unit;
+however, the better uniform mark score from the most two recent attempts will be
+used in calculating the final overall grade.
+
+The ‘fresh start’ rule does not apply to post-16 candidates.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 39
+
+If a candidate has been entered for but is absent for a unit, the absence does not
+count as an attempt. The candidate would, however, qualify as a resit candidate in
+the final resit series.
+
+Marks for non-examination assessment may be used for the life of the specification.
+
+The entry codes appear below.
+
+Entry code
+
+English medium  Welsh medium
+
+Unit 1
+
+The Digital World
+
+Unit 2
+
+Digital Practices
+
+Unit 3
+
+Communicating in the Digital
+World
+
+3490U1
+
+3490U2
+
+3490U3
+
+3490N1
+
+3490N2
+
+3490N3
+
+WJEC GCSE Digital Technology
+
+3490QS
+
+3490CS
+
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+
+5.2  Grading, awarding and reporting
+
+GCSE qualifications are reported on an eight point scale from A*-G, where A* is the
+highest grade. Results not attaining the minimum standard for the award will be
+reported as U (unclassified).
+
+Individual unit results are reported on a uniform mark scale (UMS) with the following
+grade equivalences:
+
+MAX.
+
+80
+
+80
+
+60
+
+A*
+
+56
+
+64
+
+47
+
+A
+
+48
+
+55
+
+42
+
+B
+
+40
+
+46
+
+37
+
+C
+
+32
+
+38
+
+30
+
+220
+
+167
+
+145
+
+123
+
+100
+
+D
+
+28
+
+32
+
+26
+
+86
+
+E
+
+24
+
+26
+
+22
+
+72
+
+F
+
+21
+
+20
+
+16
+
+57
+
+G
+
+18
+
+14
+
+11
+
+43
+
+Unit 1
+
+Unit 2
+
+Unit 3
+
+Subject
+Award
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 40
+
+Appendix A: Digital Skills
+
+Levels of complexity
+*** Complex
+** Medium
+* Basic
+
+Spreadsheet skills
+
+locating and correcting specific errors using ‘Find and Replace’*
+
+Correcting errors:
+•  using built-in error checking tools *
+•
+•  adding missing data *
+•  use of ‘Remove Duplicates’ tool *
+•  use conditional formatting *
+•  apply number formatting using standard number formats *
+•  create and apply custom data and number formats **
+
+Add or edit validation rules, against known standards or rules, to the dataset to maintain the integrity of the data:
+•  use a ‘Data Validation’ tool*
+•  create customised alert text for invalid data entries *
+•  create custom rules using formulas for data validation **
+
+Sorting:
+•  one column using built-in sorting tools *
+•  sorting by multiple criteria **
+•  sorting based on cell or font colour **
+•  using formulas to create dynamic sorting ***
+
+Categorise:
+•  create drop-down lists for categorisation *
+•  grouping and rearranging rows or columns to organise data **
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 41
+
+Format data and tables:
+•  apply basic formatting such as, font styles, colour, and borders *
+•  use built-in table styles for consistent formatting *
+•  use of ‘Text to columns’ tool*
+
+Create and apply filters:
+•  using built-in AutoFilter tool*
+•  applying complex criteria for filtering data **
+•  creating custom filter criteria **
+•  using formulas to create dynamic filters ***
+
+format pivot tables for better readability *
+
+Pivot tables:
+•  create basic pivot tables *
+•
+•  add calculated fields and items **
+•  create charts from pivot table data **
+•  use slicers to filter pivot table data ***
+
+Performing basic arithmetic calculations:
+•  addition *
+•  subtraction *
+•  multiplication *
+•  division *
+
+Using basic level formulas and functions:
+•  SUM *
+•  AVERAGE *
+•  COUNT *
+•  COUNTA *
+•  MAX *
+•  MIN *
+IF *
+•
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 42
+
+•  Using medium level formulas and functions:
+
+•  Nested IFs **
+•  VLOOKUP **
+•  HLOOKUP **
+•  COUNTIF **
+•  SUMIF **
+•  AVERAGEIF **
+•  SUBTOTAL **
+•  SEARCH **
+•  FIND **
+
+using complex level formulas and functions:
+•
+INDEX ***
+•  MATCH ***
+•  FILTER ***
+•  SORT ***
+•  SORTBY ***
+•  UNIQUE ***
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 43
+
+Website development skills
+
+Animation development skills
+
+Computer game development skills
+
+•  using basic HTML (Hyper Text Markup
+
+•  moving shapes*
+
+•
+
+importing sprites *
+
+Language) tags *
+
+•  setting up a basic webpage structure:
+•  head *
+•  body *
+footer *
+•
+
+•  animating simple transformations (e.g.,
+
+•  attaching sprites to controllable objects *
+
+scale, rotation, position) *
+
+•
+
+linking between pages *
+
+•  use of timeline folders *
+
+•
+
+inclusion of a scoring system *
+
+•  creating basic navigation *
+
+•  use of timeline layers *
+
+•  creating sprites *
+
+•
+
+including images *
+
+•  moving artwork *
+
+•  use of sounds *
+
+•  using CSS (Cascading Style Sheets) for
+
+•  creating looping animations*
+
+•  scripting basic controls *
+
+basic styling:
+•
+fonts *
+•  colours *
+•  simple layouts *
+
+including multimedia elements:
+image slider **
+
+•
+•
+•  embedding videos **
+•  embedding content from external sources
+(e.g., YouTube videos, Google Maps) **
+
+•
+
+implementing responsive design with
+CSS (Cascading Style Sheets)  **
+
+•  applying basic visual effects (e.g., opacity
+
+•  creation of on-screen instructions *
+
+changes, blurs) *
+
+•  multiple different sets (locations/
+
+•  using paths for enemies **
+
+backgrounds) **
+
+•  using flexbox and grid layouts **
+
+•  animated background **
+
+•  animating sprites **
+
+•  adding basic JavaScript:
+•  variables and data types **
+•  basic control structures (e.g., if-else) **
+
+•  multiple simultaneous animated events
+
+•  creation of splash screen **
+
+**
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 44
+
+•  use of date function **
+
+•  applying basic SEO (Search Engine
+
+•
+
+lip-syncing for character dialogue**
+
+•
+
+inclusion of a health system **
+
+Optimisation) principles:
+
+•  alt tags **
+•  meta tags **
+•  semantic HTML (Hyper Text Markup
+
+Language) **
+
+•  applying accessibility features:
+•  ARIA (Accessible Rich Internet
+
+Applications) roles and attributes ***
+
+•  complying with WCAG – (Web Content
+
+Accessibility Guidelines) ***
+
+•  use of background sound **
+
+•  advanced CSS techniques:
+•  using CSS Grid for complex layouts***
+•
+
+implementing animations and
+transitions***
+
+•  masking:
+•  using masks to create reveals and hidden
+
+areas in animation**
+
+•  using multiple masks for advanced
+
+effects. ***
+
+•  scripting advanced features:
+•  multi player **
+•  attack system **
+•  gravity ***
+•  attack multipliers ***
+•  speed multipliers ***
+
+•
+
+random object / enemy generation ***
+
+•  adding advanced JavaScript:
+•  complex form validation***
+•  use of arrays ***
+•  use of string methods ***
+•  handling errors (e.g. try, catch, finally,
+
+throw) ***
+
+•
+
+implementing particle systems for effects.
+***
+
+•  creation of save states ***
+
+•  use of rigged / boned asset for animation
+
+•  creation of a persistent leader board ***
+
+***
+
+•  correctly exported as embeddable
+
+•  use of external controller ***
+
+content ***
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 45
+
+•  use of subtitles to match narration ***
+
+•  correctly exported as embeddable
+
+content ***
+
+•  use of narration ***
+
+•  custom easing functions for precise
+control over animation timing. ***
+
+•
+
+interactive animation through scripting ***
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 46
+
+Appendix B: Skills when creating digital assets
+
+Levels of complexity
+*** Complex
+** Medium
+* Basic
+
+Copy (Text)
+
+Photo editing
+
+Graphics:
+
+Video (Moving live action
+images):
+
+•
+
+•
+
+•
+
+•
+
+•
+
+font colour: select a colour
+that contrasts well with the
+background for better
+visibility *
+
+font size: adjust the size of
+the text to make it more
+readable or to fit the design *
+
+font style: choose from
+various fonts for example
+serif, sans-serif, script, and
+decorative *
+
+text alignment: align text to
+the left, centre, or right, or
+justify *
+
+text position: place text at
+various positions on the
+screen (top, bottom, centre,
+etc.) *
+
+© WJEC CBAC Ltd 2025.
+
+fill: apply solid colours,
+gradients, or patterns to
+shapes and areas *
+
+•  cropping: adjust the frame to
+focus on a specific area or
+change the aspect ratio *
+
+•  brightness: increase or
+
+decrease the lightness of the
+photo *
+
+•  contrast: adjust the difference
+between the light and dark
+areas *
+
+•
+
+•
+
+lines: create and adjust lines,
+including their thickness,
+style (solid, dashed), and
+colour *
+
+•  crop: trim the edges to focus
+on a specific area or to
+change the aspect ratio *
+
+•
+
+•
+
+•
+
+flip: mirror the photo
+horizontally or vertically *
+
+resize: adjust the dimensions
+of the photo to fit different
+formats or resolutions *
+
+rotate: turn the photo to the
+desired orientation *
+
+•  shapes: draw and manipulate
+basic shapes like rectangles,
+circles, and polygons *
+
+•  stroke: add and customize
+the outline of shapes,
+including colour, width, and
+style *
+
+•
+
+text: add and style text with
+various fonts, sizes, colours,
+and effects *
+
+•  blending modes: combine
+
+layers in several ways to
+
+•
+
+•
+
+trimming: cut out unwanted
+sections from the beginning,
+middle, or end of the video *
+
+resizing: change the
+dimensions of the video to fit
+different formats or
+resolutions *
+
+•
+
+rotation: rotate the video to
+the desired orientation *
+
+•  aspect ratio: adjust the width-
+
+to-height ratio to fit different
+screens (16:9, 4:3, etc.) **
+
+•  audio: add, remove, or adjust
+
+audio tracks, including
+background music and sound
+effects **
+
+•  saturation: enhance or
+reduce the intensity of
+colours *
+
+•  sharpness: enhance the
+
+clarity and detail *
+
+GCSE DIGITAL TECHNOLOGY 47
+
+achieve different visual
+effects **
+
+•  colour correction: adjust
+brightness, contrast,
+saturation, and hue **
+
+•  effects: apply special effects
+like shadows, glows, and
+reflections **
+
+•
+
+•  borders/frames: add
+
+decorative edges around the
+photo **
+
+•
+
+filters: apply effects like blur,
+sharpen, and artistic filters to
+elements **
+
+•  blur: soften the focus for a
+dreamy effect or to reduce
+noise **
+
+•  gradients: create smooth
+
+transitions between colours
+for backgrounds or shapes **
+
+•  exposure: adjust the amount
+
+•
+
+of light in the photo **
+
+layers: organize elements on
+different layers for easier
+editing and composition **
+
+•
+
+filters: apply preset colour
+adjustments for different
+moods or styles **
+
+•  hue: change the overall
+
+•  opacity: adjust the
+
+transparency of elements to
+create layering effects **
+
+filters: apply colour
+adjustments and effects to
+change the look and feel of
+the video **
+
+•  speed adjustment: speed up
+or slow down the video for
+effect **
+
+•  stabilisation: reduce camera
+shake for smoother footage
+**
+
+•
+
+transitions: add effects
+between clips, such as fades,
+wipes, or dissolves **
+
+•  voiceover: record and add
+narration to the video **
+
+colour tone of the photo **
+
+•  patterns: use repeating
+
+•
+
+text: add captions, titles, or
+watermarks **
+
+•  vignette: darken or lighten the
+edges of the photo to draw
+attention to the centre **
+
+•  cloning/healing: remove
+blemishes or unwanted
+
+designs to fill areas or create
+textures **
+
+•  watermark: add a logo or text
+
+as a watermark **
+
+•  alignment: align elements
+relative to each other or to
+the canvas ***
+
+•  effects: apply visual effects
+
+like slow motion and
+reverse***
+
+•  clipping paths: use paths to
+
+define areas where elements
+are visible ***
+
+•
+
+layers: overlay multiple video
+clips, images, and text ***
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+text animation: add
+animations for example fade-
+in, slide, bounce, or
+typewriter effects **
+
+text background: add a
+background colour or shape
+behind the text for better
+readability **
+
+text duration: set how long
+the text appears on the
+screen **
+
+text effects: apply effects for
+example glow, blur, or
+emboss to enhance the text
+**
+
+text opacity: adjust the
+transparency of the text to
+blend it with the video **
+
+text outline: add an outline to
+the text for better contrast **
+
+text shadow: apply shadows
+**
+
+text rotation: rotate the text to
+fit the design or add a
+dynamic effect **
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 48
+
+•
+
+•
+
+•
+
+text spacing: adjust letter
+spacing and line height for
+better readability **
+
+text transitions: use
+transitions to smoothly
+introduce or remove text from
+the screen **
+
+text 3d effects: apply 3d
+transformations to text for
+depth and perspective. **
+
+•  kerning: adjust the spacing
+between characters to fine-
+tune the text's appearance ***
+
+•
+
+•
+
+•
+
+text gradient direction: control
+the direction of the gradient
+(e.g., horizontal, vertical,
+diagonal) ***
+
+text reflection: add a mirrored
+reflection of the text, which
+can be positioned below or
+beside it for a stylised effect
+***
+
+text masking: use masks to
+reveal or hide parts of the
+text creatively. ***
+
+© WJEC CBAC Ltd 2025.
+
+elements by copying parts of
+the photo ***
+
+•  dodging & burning – lighten
+(dodge) or darken (burn)
+specific areas to enhance
+depth and contrast ***
+
+•  gradient mapping - apply
+
+custom gradients to create
+stylized colour effects ***
+
+•
+
+layers: combine multiple
+images or effects in a non-
+destructive way ***
+
+•  masks: apply adjustments to
+
+specific areas without
+affecting the whole photo.***
+
+•  noise reduction: minimize
+
+graininess or digital noise ***
+
+•  white balance: correct the
+colour balance to make
+whites appear neutral ***
+
+•  selective colour adjustment:
+adjust the colours of specific
+areas without affecting the
+entire photo.***
+
+colour grading: apply
+advanced colour adjustments
+
+•  grouping: combine multiple
+
+elements into a single group
+for easier manipulation ***
+
+•  guides and grids: use guides
+
+and grids to align and
+position elements precisely
+***
+
+•  masks: hide or reveal parts of
+layers to create complex
+compositions ***
+
+•
+
+transformations: scale, rotate,
+skew, and distort elements
+***
+
+•  colour adjustments: modify
+
+brightness, contrast,
+saturation, and hue of
+elements ***
+
+•  export options: save graphics
+in various formats (png, jpeg,
+svg, etc.) for different uses
+***
+
+•  3D (3 Dimensional) effects:
+apply 3D (3 Dimensional)
+transformations and effects to
+create depth and perspective.
+***
+
+•  opacity: adjust the
+
+transparency of video layers
+for blending ***
+
+•  keyframing: animate
+
+properties like position, scale,
+and opacity over time ***
+
+•  masks: apply effects to
+
+specific areas of the video ***
+
+•  export options: save the
+video in various formats
+(mp4, avi, mov, etc.) and
+resolutions ***
+
+•  green screen keying: remove
+green screen backgrounds
+and replace them with other
+footage.***
+
+•  colour grading: apply
+
+advanced colour adjustments
+to achieve a specific look or
+mood. ***
+
+•  Could add zoom in/out using
+key frames as a higher-level
+skill***
+
+GCSE DIGITAL TECHNOLOGY 49
+
+to achieve a specific look or
+mood.***
+
+•  histogram adjustment: use
+histograms to fine-tune
+exposure and contrast.***
+
+•  custom brushes: create and
+use custom brushes for
+unique textures and effects.
+***
+
+•
+
+•
+
+•
+
+text path animation: animate
+text along a custom path for
+dynamic movement. ***
+
+text layering: layer multiple
+text elements to create
+complex designs. ***
+
+text blending modes: use
+blending modes to combine
+text with video layers in
+unique ways. ***
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 50
+
+Appendix C: Opportunities to develop cross-cutting themes, cross-curricular skills and integral
+skills
+
+Curriculum for Wales Strands
+
+Unit 1
+
+Unit 2
+
+Unit 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local, National & International Contexts
+
+Sustainability
+
+Relationships and Sexuality Education
+
+Human Rights Education
+
+Careers and Work-Related Experiences
+
+Listening
+
+Reading
+
+Speaking
+
+Writing
+
+© WJEC CBAC Ltd 2025.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum for Wales Strands
+
+Unit 1
+
+Unit 2
+
+Unit 3
+
+GCSE DIGITAL TECHNOLOGY 51
+
+Developing Mathematical Proficiency
+
+Understanding the number system helps
+us to represent and compare relationships
+between numbers and quantities
+
+Learning about geometry helps us
+understand shape, space and position
+and learning about measurement helps us
+quantify in the real world
+
+Learning that statistics represent data and
+that probability models chance help us
+make informed inferences and decisions
+
+Citizenship
+
+Interacting and Collaborating
+
+Producing
+
+Data and Computational Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 52
+
+Curriculum for Wales Strands
+
+Unit 1
+
+Unit 2
+
+Unit 3
+
+Creativity and Innovation
+
+Critical Thinking and Problem Solving
+
+Planning and Organisation
+
+Personal Effectiveness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 53
+
+Appendix D: Decision Guide for assessing the suitability of
+website development software
+
+1.Can the software be used without internet access or without access to artificial intelligence
+features (which are not permitted)?
+▶ yes → proceed to step 2
+▶ no → not suitable
+2. Does the software allow learners to write and edit HTML?
+▶ yes → proceed to step 3
+▶ no → not suitable (HTML is a fundamental skill)
+3. Does the software support setting up a basic webpage structure (head, body, footer,
+navigation)?
+▶ yes → proceed to step 4
+▶ no → not suitable
+4. Can learners use CSS for styling (fonts, colours, simple layouts)?
+▶ yes → proceed to step 5
+▶ no → not suitable
+5. Does the software support embedding multimedia?
+▶ yes → proceed to step 6
+▶ no → limited suitability—check alternative methods
+6. Does the software allow for responsive design (CSS Flexbox, Grid)?
+▶ yes → proceed to step 7
+▶ no → limited suitability—learners may not fully demonstrate assessment criteria
+7. Can learners apply JavaScript (variables, control structures, date functions)?
+▶ yes → Proceed to Step 8
+▶ no → Limited suitability—may still be acceptable depending on assessment scope
+8. Does the software support applying SEO principles (alt tags, meta tags, semantic HTML)?
+▶ yes → proceed to step 9
+▶ no → limited suitability—consider workarounds
+9. Does the software support accessibility features (ARIA roles, WCAG compliance)?
+▶ yes → proceed to step 10
+▶ no → limited suitability—ensure other methods are available
+10. Can learners demonstrate advanced CSS techniques (Grid layouts, animations,
+transitions)?
+▶ yes → proceed to step 11
+▶ no → software may still be suitable but has limitations
+11. Can learners implement advanced JavaScript techniques (form validation, arrays, error
+handling)?
+▶ yes → software is highly suitable for assessment
+▶ no → software may still be acceptable, but learners may need to supplement with
+additional tools.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 54
+
+Appendix E: Decision Guide for assessing the suitability of
+animation development software
+
+1.Can the software be used without internet access or without access to artificial intelligence
+features (which are not permitted)?
+▶ yes → proceed to step 2
+▶ no → not suitable
+2. Can learners move and transform shapes or artwork (e.g. position, scale, rotation)?
+▶ yes → step 3
+▶ no → not suitable
+3. Does the software provide a timeline with layers or folders to organise animation?
+▶ yes → step 4
+▶ no → limited suitability
+4. Can learners create looping animations and control playback?
+▶ yes → step 5
+▶ no → limited suitability
+5. Are basic effects available (e.g. opacity, blur, fades)?
+▶ yes → step 6
+▶ no → effects may need to be added externally
+6. Can learners animate multiple backgrounds, sets or an animated environment?
+▶ yes → step 7
+▶ no → creative flexibility may be restricted
+7. Can multiple elements move/animate at the same time (e.g. background + characters)?
+▶ yes → step 8
+▶ no → animation may appear too simple
+8. Can learners add sound (e.g. background music, narration, lip-sync)?
+▶ yes → step 9
+▶ no → audio may need to be added in post-production
+9. Are masks available for hiding/revealing parts of an animation?
+▶ yes → step 10
+▶ no → not essential but limits advanced creativity
+10. Can the final animation be exported as embeddable content (e.g. MP4, HTML5)?
+▶ yes → step 11
+▶ no → not suitable for digital submission
+11. Advanced Features
+Does the software allow for some or all of the following?
+
+rigged/boned assets
+
+•   particle effects
+•
+•   subtitles
+•   custom easing
+•
+
+interactive scripting
+
+▶ yes → highly suitable
+▶ no → still suitable, but with limitations depending on task design.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 55
+
+Appendix F: Decision Guide for assessing the suitability of
+game development software
+
+1.Can the software be used without internet access or without access to artificial intelligence
+features (which are not permitted)?
+▶ yes → proceed to step 2
+▶ no → not suitable
+2. Can learners import sprites and create new sprites, then attach them to controllable
+objects?
+▶ yes → Proceed to Step 3
+▶ no → Not suitable (basic sprite handling is fundamental)
+3. Does the software provide a system for scripting to enable basic interaction?
+▶ yes → Proceed to Step 4
+▶ no → Limited suitability—core gameplay mechanics may be missing
+4. Can learners add sounds and create splash screens or on-screen instructions?
+▶ yes → Proceed to Step 5
+▶ no → Limited suitability—may reduce engagement and clarity
+5. Does the software support animating sprites or defining movement paths for
+enemies/NPCs?
+▶ yes → Proceed to Step 6
+▶ no → Limited suitability—dynamic gameplay may be restricted
+6. Can the software allow for variables to provide scoring systems or other player progress
+indicators?
+▶ yes → Proceed to Step 7
+▶ no → Limited suitability—game complexity may be limited
+7. Does the software support intermediate features like multiplayer or enemy attack
+systems?
+▶ yes → Proceed to Step 8
+▶ no → Limited suitability—may still be acceptable depending on assessment scope
+8. Can learners apply physics and game variables such as gravity, speed multipliers, or
+attack multipliers?
+▶ yes → Proceed to Step 9
+▶ no → Limited suitability—advanced mechanics may be restricted
+9. Does the software support random object or enemy generation?
+▶ yes → Proceed to Step 10
+▶ no → Limited suitability—game variety and replay value may be reduced
+10. Can learners implement persistence features like save states or a persistent
+leaderboard?
+▶ yes → Proceed to Step 11
+▶ no → Limited suitability—long-term play functionality will be limited
+11. Can the game be exported in an embeddable format (e.g., HTML5, playable
+executable)?
+▶ yes → Software is highly suitable for assessment
+▶ no → Limited suitability—submission format may not be compatible
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 56
+
+Appendix G: Decision Guide for assessing the suitability of
+photo editing software
+
+1.Can the software be used without internet access or without access to artificial intelligence
+features (which are not permitted)?
+▶ yes → proceed to step 2
+▶ no → not suitable
+2. Does the software allow for basic adjustments (crop, resize, rotate, brightness, contrast)?
+▶ yes → proceed to step 3
+▶ no → not suitable
+3. Can learners apply basic colour edits (saturation, hue, filters)?
+▶ yes → proceed to step 4
+▶ no → limited suitability
+4.Can learners add and customise text (fonts, size, position)?
+▶ yes → proceed to step 5
+▶ no → limited suitability—may impact communication of final outcomes
+5. Does the software support use of layers for editing?
+▶ yes → proceed to step 6
+▶ no → limited suitability—non-destructive editing may be limited
+6. Can learners use masks or selection tools for targeted edits?
+▶ yes → proceed to step 7
+▶ no → limited suitability—less control over edits
+7. Are cloning or healing tools available for image correction?
+▶ yes → proceed to step 8
+▶ no → still suitable, but limits complex image refinement
+8. Can learners apply visual effects (vignette, blur, glow)?
+▶ yes → proceed to step 9
+▶ no → limited suitability
+9. Can learners adjust white balance and use histogram tools?
+▶ yes → proceed to step 10
+▶ no → limited suitability—colour accuracy may be harder to achieve
+10. Does the software support non-destructive editing (layers, masks, adjustment layers)?
+▶ yes → proceed to step 11
+▶ no → software may be suitable, but limits reworking
+12.Can learners export in multiple formats (e.g. jpeg, png) with control over quality?
+▶ yes → software is highly suitable for assessment
+▶ no → may still be usable but lacks essential output options.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 57
+
+Appendix H: Decision Guide for assessing the suitability of
+graphics software
+
+1.Can the software be used without internet access or without access to artificial intelligence
+features (which are not permitted)?
+▶ yes → proceed to step 2
+▶ no → not suitable
+2. Can learners create and manipulate shapes and lines?
+▶ yes → proceed to step 3
+▶ no → not suitable
+3. Can learners add and format text (font, size, colour)?
+▶ yes → proceed to step 4
+▶ no → limited suitability—restricts communication in designs
+4. Does the software allow for basic transformations (scale, rotate, align)?
+▶ yes → proceed to step 5
+▶ no → not suitable
+5. Can learners use layers to organise and edit content?
+▶ yes → proceed to step 6
+▶ no → limited suitability—editing may be inefficient or destructive
+6. Does the software offer gradients, fills and stroke customisation?
+▶ yes → proceed to step 7
+▶ no → limited suitability—restricts design range
+7. Can learners apply effects and filters (shadows, blur, glow)?
+▶ yes → proceed to step 8
+▶ no → still usable, but limits design variety
+8. Are guides, grids and alignment tools available?
+▶ yes → proceed to step 9
+▶ no → limited suitability—precision may suffer
+9. Can learners use masks, clipping paths or blend modes?
+▶ yes → proceed to step 10
+▶ no → still acceptable, but less advanced control
+10. Can learners create or use custom brushes and patterns?
+▶ yes → proceed to step 11
+▶ no → software may still be suitable, but creativity could be limited
+11. Does the software allow for exporting in standard formats (e.g. svg, png, pdf)?
+▶ yes → software is highly suitable for assessment
+▶ no → limited suitability—check compatibility with assessment requirements.
+
+© WJEC CBAC Ltd 2025.
+
+GCSE DIGITAL TECHNOLOGY 58
+
+Appendix I: Decision Guide for assessing the suitability of video
+editing software
+
+1. Does the software support basic editing (trim, crop, resize)?
+▶ yes → Proceed to Step 2
+▶ no → Not suitable
+2. Can learners add and format text (position, duration, style)?
+▶ yes → Proceed to Step 3
+▶ no → Limited suitability—may hinder communication
+3. Does the software support transitions between clips?
+▶ yes → Proceed to Step 4
+▶ no → Limited suitability—affects continuity
+4. Can learners add and control audio (background music, effects, voiceover)?
+▶ yes → Proceed to Step 5
+▶ no → Still usable, but limited expression
+5. Are visual effects and filters available (e.g., colour correction)?
+▶ yes → Proceed to Step 6
+▶ no → Limited suitability—less control over visual tone
+6. Can learners use layers or overlays (text, images, clips)?
+▶ yes → Proceed to Step 7
+▶ no → Limited suitability—less complex output
+7. Is keyframing supported for animation (e.g., opacity, scale, movement)?
+▶ yes → Proceed to Step 8
+▶ no → Software may be suitable, but limits advanced control
+8. Does the software support masking or green screen features?
+▶ yes → Proceed to Step 9
+▶ no → Still acceptable, but restricts creative options
+9. Can learners perform colour grading and advanced effects (slow motion, reverse)?
+▶ yes → Proceed to Step 10
+▶ no → Limited suitability for more advanced learners
+10. Can learners manually export in various formats and resolutions (MP4, MOV, etc.)?
+▶ yes → Software is highly suitable for assessment
+▶ no → Software may still be acceptable, but check for export limitations
+
+© WJEC CBAC Ltd 2025.
+

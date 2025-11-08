@@ -1,0 +1,1715 @@
+WJEC GCSE
+Spanish
+
+Approved by Qualifications Wales
+Sample Assessment Materials
+Unit 3: Listening
+Teaching from 2025
+For award from 2027
+
+Version 2 - March 2025
+
+GCSEMade for Wales. Ready for the world.This Qualifications Wales regulated qualification is not available to centres in England.WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern
+High School, Newport for their participation in the creation of these covers.
+
+CYFRINACHOL - CONFIDENTIAL
+
+SUMMARY OF AMENDMENTS
+
+Version
+
+Description
+
+Page number
+
+2
+
+The amendment was necessary due to an error with regards
+to the candidate’s required language of response.
+
+3
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Contents
+
+Assessment details
+
+Question paper
+
+Mark scheme
+
+Transcript
+
+Mapping grid
+
+3
+
+4
+
+14
+
+23
+
+25
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+2
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Assessment details
+
+Written examination: 45 minutes (including 5 minutes reading time)
+Set and marked by WJEC
+20% of qualification
+45 marks
+
+The recordings will be issued as an MP3 sound file for centres to download from WJEC
+Portal on the day of the assessment. The invigilator for the assessment is responsible for
+administering the recordings.
+
+This unit requires learners to respond to a range of questions through fixed responses and
+through written responses in Cymraeg/English.
+
+Learners will:
+•
+
+listen to extracts including the following formats: adverts, messages, podcasts,
+announcements, conversations and interviews
+
+•  answer the following question types: multiple choice questions, short answer questions
+[3-4 words], identifying true statements, matching statements with their source, gap-fill,
+finish the sentences
+
+•  hear spoken extracts three times.
+
+The rubrics will be in Cymraeg/English. The language of response will be either non-verbal
+or Cymraeg/English.
+
+Learners are not permitted to use a dictionary in any part of the assessment.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+3
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Surname
+
+First name(s)
+
+Centre
+number
+
+  Candidate
+
+number
+
+0
+
+GCSE
+
+3840QSL-3
+
+Spanish – Unit 3
+Listening
+
+45 minutes
+SAMPLE ASSESSMENT
+MATERIALS
+
+.
+
+Additional materials
+
+•  Recording
+
+Instructions to candidates
+
+For examiner’s use only
+
+Question  Maximum
+
+mark
+
+Mark
+awarded
+
+Use black ink or black ball-point pen. Do not
+use gel pen or correction fluid.
+
+Write your name, centre number and candidate
+number in the spaces provided at the top of
+this page.
+
+Answer all questions.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+6
+
+9
+
+6
+
+9
+
+6
+
+9
+
+You will have five minutes to read the
+questions before the recording begins
+
+Total
+
+45
+
+Write your answers in the spaces in this booklet. If you need more space, use the
+additional page(s) at the back of this booklet. Number the question(s) correctly.
+
+Information for candidates
+
+The number of marks is given in brackets at the end of each question or part-question.
+
+The total number of marks available is 45.
+
+You will be allowed five minutes to read the questions and make notes.
+
+Each question number is announced, followed by a pause for you to read the instructions
+and questions. The Spanish item will then be played three times with a pause between
+each recording. You will hear a bleep at the start of each question and Spanish item.
+
+You should think carefully about how you use your time.
+
+Your responses must be clear, accurate and well presented.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+4
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Answer all questions.
+
+1.  Listen to Ana’s voice message on your mobile
+
+  Examiner
+only
+
+Section 1
+
+(a)    Where does Ana want to go on Saturday? Tick (✓) the three correct boxes.
+
+[3]
+
+Tick (✓)
+
+Shopping centre
+
+Theatre
+
+Church
+
+Park
+
+Restaurant
+
+Cinema
+
+Section 2
+
+(b)  Where is Ana going to go on Sunday? Tick (✓) the correct box.
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+5
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+(c)  What is Ana going to do with her friends? Tick (✓) the correct box.
+
+[1]  Examiner
+
+only
+
+(d)  Where are Ana’s parents going to go? Tick (✓) the correct box.
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+6
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+2.
+
+Listen to the radio advert.
+
+Answer the questions in English.
+
+Section 1
+
+(a)  Which jobs are on offer? Write any two.
+
+•  ……...................................................................................................................
+
+……...................................................................................................................
+
+•  ….......................................................................................................................
+
+…………………………………………………………………………………………
+
+(b)  What public transport is near the hotel?
+
+•  ….......................................................................................................................
+
+…………………………………………………………………………………………
+
+Section 2
+
+(c)  Tick (✓) the correct box.
+
+You need to have at least …
+
+three years’ experience.
+
+five years’ experience.
+
+nine years’ experience.
+
+  Examiner
+only
+
+[2]
+
+[1]
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+7
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+(d)  What are the requirements for the job?
+
+[2]
+
+Examiner
+only
+
+Tick (✓) the two correct boxes.
+
+A.
+
+Speak languages.
+
+B.
+
+Work in a team.
+
+C.
+
+Be dependable.
+
+D.
+
+Want to stand out.
+
+Section 3
+
+(e)  Complete the job advertisement below, fill in the missing information in English.   [3]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+8
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+3.       Listen to the following conversation between a tourist and an employee at the
+
+Tourism Office in Barcelona.
+
+Section 1
+
+(a)  Which places should the tourist visit during the week?
+
+Complete the three boxes with the correct letters.
+
+  Examiner
+
+only
+
+[3]
+
+A.  Cathedral
+
+B.  Park
+
+C.  Beach
+
+D.  Museum
+
+E.   Garden
+
+F.  Church
+
+Your answer
+
+Section 2
+
+(b)  What is recommended for the weekend? Complete the sentences in English:
+
+[3]
+
+Do not use more than one word in each space.
+
+•  Go on an excursion to the…
+
+………………………………………………………………………………………
+
+•  Eat some fish and…
+
+………………………………………………………………………………………
+
+•  Visit the pretty…
+
+………………………………………………………………………………………
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+9
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+4.  You are listening to a podcast in which a student talks about technology.
+
+  Examiner
+
+only
+
+Section 1
+
+(a)  What does the student use her mobile for? Tick (✓) the three correct boxes.
+
+[3]
+
+Tick (✓)
+
+Take photos.
+
+Chat to friends.
+
+Play games.
+
+Surf the internet.
+
+Send texts.
+
+Watch films.
+
+Section 2
+
+(b)
+
+Complete the sentences in English.
+
+Do not use more than one word in each space.
+
+(i)  She is .............................................. with films on Netflix but she
+
+[2]
+
+does not like to .............................................. them.
+
+(ii)  Her favourite films are .................................................................................
+
+[1]
+
+Section 3
+
+Answer the questions in English.
+
+(c)    What does she use her tablet for? Give two details.
+
+•  ……………………………………………………………………………………….
+
+……………………………………………………………………………………….
+
+•  ……………………………………………………………………………………….
+
+……………………………………………………………………………………….
+
+(d)    Who does she call on her laptop?
+
+•  ….....................................................................................................................
+
+….....................................................................................................................
+
+[2]
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+10
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+5.
+
+Listen to three friends talking about their future in a school podcast.
+Esteban speaks first.
+
+Section 1
+
+(a)  Who says what? Tick (✓) the correct boxes.
+
+  Examiner
+only
+
+[4]
+
+Who wants…
+
+Esteban
+
+Pilar
+
+Laura
+
+A to be a journalist?
+
+B to work with children?
+
+C to travel a few years?
+
+D to own a restaurant?
+
+Section 2
+Answer the questions in English.
+
+(b)   (i)
+
+In which country does Esteban want to work?
+
+  ….....................................................................................................................
+
+.…....................................................................................................................
+
+(ii)  Why does he want to work there?
+
+  ….....................................................................................................................
+
+….....................................................................................................................
+
+[1]
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+11
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+6.  You are listening to a news report about Galicia and the environmental problems
+
+there.
+
+Section 1
+
+Answer the questions in English.
+
+(a)  (i)  According to the report where specifically is Galicia located?
+
+…...................................................................................................................
+
+………………………………………………………………………………………
+
+(ii)  What colour does the newsreader associate with Galicia?
+
+…...................................................................................................................
+
+………………………………………………………………………………………
+
+(iii)  What does the newsreader say about the weather in Galicia?
+
+…...................................................................................................................
+
+………………………………………………………………………………………
+
+Section 2
+
+(b)
+
+Why are local people angry about this year? Tick (✓) the three correct boxes.
+
+)
+
+Tick (✓)
+
+  Examiner
+only
+
+[1]
+
+[1]
+
+[1]
+
+[3]
+
+There are too many tourists.
+
+Windy weather.
+
+Tourists have baths.
+
+Tourists have long showers.
+
+Tourists are protesting.
+
+Tourists do not care.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+12
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Section 3
+
+(c)  Tick (✓) the correct box.
+
+(i)  Local people worry because tourists …
+
+use a lot of water.
+
+waste their time.
+
+are unpleasant to them.
+
+(ii)  When they are at the beach, tourists …
+
+collect rubbish.
+
+break glass.
+
+eat local food.
+
+(iii)  An environmental group…
+
+is going to write a letter.
+
+is going to form an association.
+
+is going to do a campaign.
+
+END OF QUESTIONS
+
+  Examiner
+only
+
+[1]
+
+[1]
+
+[1]
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+13
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+MARK SCHEME
+
+Guidance for examiners
+
+Generic marking principles
+
+•  Marks awarded are always whole marks (not half marks, or other fractions).
+
+•  Marks should be awarded using the full range of marks defined in the mark scheme for
+the question (however; the use of the full mark range may be limited according to the
+quality of the candidate responses seen).
+
+•  Marks awarded are based solely on the requirements as defined in the mark scheme.
+Marks should not be awarded with grade thresholds or grade descriptors in mind.
+
+Positive marking
+
+It should be remembered that candidates are writing under examination conditions and credit
+should be given for what the candidate writes, rather than adopting the approach of
+penalising candidates for any omissions. It should be possible for a very good response to
+achieve full marks and a very poor one to achieve zero marks. Marks should not be
+deducted for a less than perfect answer if it satisfies the criteria of the mark scheme.
+
+For questions that are objective or points-based, the mark scheme should be applied
+precisely. Marks should be awarded as indicated and no further subdivision made.
+
+Mark schemes often list points which may be included in candidates’ answers. The list is not
+exhaustive. The inclusion of ‘Credit any other valid response.’ (or similar instruction) within
+mark schemes allows for the possible variation in candidates’ responses. Credit should be
+given according to the accuracy and relevance of candidates’ answers.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+14
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+1.    Listen to Ana’s voice message on your mobile
+
+Section 1
+El sábado quiero ir al centro comercial.
+Después me gustaría visitar la iglesia.
+Luego podemos ir al parque.
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+Section 2
+El domingo voy a ir a la fiesta de cumpleaños de Eva. ¡Va a ser fantástica!
+Voy a oír música toda la tarde con mis amigos.
+Mis padres van a ir al cine.
+
+Section 1
+
+(a)  Where does Ana want to go on Saturday? Tick (✓) the three correct boxes.
+
+Award one mark up to a maximum of three marks for
+ticking:
+•  shopping centre, church, park.
+
+3
+
+3
+
+Section 2
+
+(b)  Where is Ana going to go on Sunday? Tick (✓) the correct box.
+
+Award one mark for ticking:
+•  Birthday party
+
+1
+
+(c)  What is Ana going to do with her friends? Tick (✓) the correct box.
+
+Award one mark for ticking:
+•  Music
+
+1
+
+(d)  Where are Ana’s parents going to go? Tick (✓) the correct box.
+
+Award one mark for ticking:
+•  Cinema
+
+1
+
+1
+
+1
+
+1
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+15
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+2.
+
+Listen to the radio advert.
+Answer the questions in English.
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+Section 1
+¡Grandes noticias! El grupo de hoteles Roma necesita un fontanero, un pintor y un
+recepcionista para trabajar en su estupendo hotel de Bilbao, en la calle Flores, cerca de la
+estación de metro.
+
+Section 2
+Se necesita tener experiencia de trabajo de 5 años, como mínimo, en un hotel.
+
+Si puedes hablar idiomas, eres agradable y quieres trabajar en equipo, pero te gusta ser
+independiente, y destacar, esta es tu oportunidad.
+
+Section 3
+Te ofrecemos un puesto de trabajo a tiempo parcial, y muy importante, ¡muy buen salario!
+Podrás empezar el trabajo después de Navidad, en enero. ¡No lo dudes y manda tu CV
+pronto! ¡Te esperamos!
+
+Section 1
+
+(a)  Which jobs are on offer? Write any two.
+
+Award one mark for each correct answer up to a
+maximum of two marks.
+•  Plumber
+•  Painter
+•  Receptionist
+
+(b)  What public transport is near the hotel?
+
+Award one mark for:
+tube (station).
+•
+
+Credit any other valid response.
+
+Section 2
+
+(c)
+
+You need to have at least …
+Tick (✓) the correct box.
+
+Award one mark for:
+•  5 years’ experience.
+
+(d)  What are the requirements for the job?
+
+Tick (✓) the two correct boxes.
+
+Award one mark for each correct answer up to a
+maximum of two marks:
+•  speak languages
+•  want to stand out.
+
+2
+
+1
+
+1
+
+2
+
+2
+
+1
+
+1
+
+2
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+16
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Section 3
+
+(e)  Complete the job advertisement below, fill in the missing information in English.
+
+Award one mark each correct answer up to a maximum
+of three.
+•  part-time
+•  salary
+•
+
+(in) January.
+
+3
+
+3
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+17
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+3.
+
+Listen to the following conversation between a tourist and an employee at the Tourism Office
+in Barcelona.
+
+Section 1
+Empleado (E): El lunes puede visitar la catedral y pasear por la famosa calle Ramblas.
+Turista (T): ¿Y el jueves?
+E: Podría visitar el museo Picasso y después ir al jardín botánico.
+
+Section 2
+T: ¿Y el fin de semana?
+E: Una excursión a las montañas. Las vistas desde Montjuïc son fantásticas. No olvide
+comer un arroz con pescado y visitar el bonito puerto.
+
+Section 1
+
+(a)  Which places should the tourist visit during the week?
+Complete the three boxes with the correct letters.
+
+Award one mark up to a maximum of three marks for:
+•  A, D, E.
+
+3
+
+Section 2
+
+(b)  What is recommended for the weekend? Complete the sentences in English:
+
+Award one mark up to a maximum of three for:
+•  mountain(s)
+rice
+•
+•  port.
+
+3
+
+3
+
+3
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+18
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+4.
+
+You are listening to a podcast in which a student talks about technology.
+
+Section 1
+Uso el móvil para sacar fotos. Normalmente me gusta chatear con amigos todos los días.
+Sin embargo, no juego a los videojuegos o navego por Internet en el móvil. También utilizo
+el móvil para mandar mensajes cuando quiero salir con mis amigos.
+
+Section 2
+Me obsesionan las películas y series en Netflix. Siempre las veo en el ordenador ya que no
+me gusta descargarlas. Detesto los dibujos animados ¡son aburridos! Mis películas
+favoritas son las comedias.
+
+Section 3
+Uso la tableta para hacer trabajo escolar durante el recreo y en el autobús la uso para leer
+mis libros preferidos. Utilizo el portátil para llamar a mi abuela cuando llego a casa.
+
+Section 1
+
+(a)  What does the student use her mobile for? Tick (✓) the three correct boxes.
+
+Award one mark up to a maximum of three for ticking:
+take photos
+•
+•  chat to friends
+•  send texts.
+
+Section 2
+
+(b)  Complete the sentences in English.
+
+Do not use more than one word on each space.
+
+(ii)  Award one mark up to a maximum of two for:
+
+•  obsessed
+•  download.
+
+(ii)  Award one mark for:
+•  comedies.
+
+Section 3
+Answer the questions in English.
+
+(c)  What does she use her tablet for? Give two details.
+
+Award two marks up to a maximum of two for:
+•  do homework
+•
+
+read (favourite) books.
+
+(d)  Who does she call on her laptop?
+
+Award one mark for:
+•  grandmother.
+
+3
+
+2
+
+1
+
+2
+
+1
+
+3
+
+2
+
+1
+
+2
+
+1
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+19
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+5.
+
+Listen to three friends talking about their future in a school podcast.
+Esteban speaks first.
+
+Section 1
+Esteban: Soy Esteban y quiero ser periodista. ¿Y tú, Pilar?
+Pilar: Me gustan los niños y quiero trabajar en un colegio. ¿Y tú, Laura?
+Laura: Me encanta la comida. Me gustaría viajar un tiempo y después abrir un restaurante.
+
+Section 2
+Esteban: También me gustan mucho los idiomas. Quisiera vivir y trabajar en Italia unos
+años porque estudio italiano en el colegio.
+
+Section 1
+
+(a)  Who says what? Tick (✓) the correct boxes.
+
+Award one mark for each correct response, up to a
+maximum of four marks.
+Esteban: A; Pilar: B; Laura: C, D
+
+4
+
+Section 2
+Answer the questions in English.
+
+(b)
+
+(i)
+
+In which country does Esteban want to work?
+
+1
+
+Award one mark for:
+•
+
+Italy
+
+(ii)  Why does he want to work there?
+
+1
+
+Award one mark for:
+•
+
+(because) he is learning Italian at school / he is learning Italian.
+
+4
+
+1
+
+1
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+20
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question  Answer
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+6.    You are listening to a news report about Galicia and the environmental problems there.
+
+Section 1
+Galicia está encima de Portugal. Es una región con muchas playas, es parte de la España
+verde porque durante meses, llueve mucho.
+
+Section 2
+Este año la gente está enojada porque demasiados turistas visitan la zona y cuando hay
+poca lluvia, prefieren largos baños en lugar de ducharse. Aunque han realizado muchas
+manifestaciones de protesta, a los turistas les importa poco.
+
+Section 3
+Los ciudadanos se preocupan porque los turistas consumen mucha agua, desperdiciándola
+todo el tiempo; ¡es desagradable! Dejan basura en la playa cuando toman el sol y rompen
+vidrio en la arena. Muchos detestan la comida local. Un grupo medioambiental ha mandado
+cartas a los ciudadanos y hará una campaña que ayude a los turistas.
+
+Section 1
+Answer the questions in English.
+
+(a)
+
+(i)  According to the report where specifically is Galicia located?
+
+Award one mark for:
+•  above Portugal
+
+1
+
+(ii)  What colour does the newsreader associate with Galicia?
+
+Award one for:
+•  green.
+
+1
+
+(iii)  What does the newsreader say about the weather in Galicia?
+
+Award one mark for:
+it rains a lot/lots.
+•
+
+Section 2
+
+1
+
+(b)  Why are local people angry about this year? Tick (✓) the three correct boxes.
+
+Award one mark for each correct response, up to a
+maximum of three marks for:
+•  There are too many tourists.
+•  Tourists have baths.
+•  Tourists do not care.
+
+3
+
+1
+
+1
+
+1
+
+3
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+21
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Section 3
+Tick (✓) the correct box.
+
+(c)
+
+(i)  Local people worry because tourists …
+
+Award one mark for:
+•  use a lot of water.
+
+(ii)  When they are at the beach, tourists …
+
+Award one mark for:
+•  break glass.
+
+(iii)  An environmental group…
+
+Award one mark for:
+•
+
+is going to do a campaign.
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+22
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Transcript
+
+Question 1
+
+F1
+Section 1
+El sábado quiero ir al centro comercial.
+Después me gustaría visitar la iglesia.
+Luego podemos ir al parque.
+
+F1
+Section 2
+El domingo voy a ir a la fiesta de cumpleaños de Eva. ¡Va a ser fantástica!
+Voy a oír música toda la tarde con mis amigos.
+Mis padres van a ir al cine.
+
+Question 2
+
+F2
+Section 1
+¡Grandes noticias! El grupo de hoteles Roma necesita un fontanero, un pintor y un
+recepcionista para trabajar en su estupendo hotel de Bilbao, en la calle Flores, cerca de la
+estación de metro.
+
+F2
+Section 2
+Se necesita tener experiencia de trabajo de 5 años, como mínimo, en un hotel.
+Si puedes hablar idiomas, eres agradable y quieres trabajar en equipo, pero te gusta ser
+independiente, y destacar, esta es tu oportunidad.
+
+F2
+Section 3
+Te ofrecemos un puesto de trabajo a tiempo parcial, y muy importante, ¡muy buen salario!
+Podrás empezar el trabajo después de Navidad, en enero. ¡No lo dudes y manda tu CV
+pronto! ¡Te esperamos!
+
+Question 3
+
+Section 1
+M1: Empleado (E): El lunes puede visitar la catedral y pasear por la famosa calle Ramblas.
+F1: Turista (T): ¿Y el jueves?
+M1: E: Podría visitar el museo Picasso y después ir al jardín botánico.
+
+Section 2
+F1: T: ¿Y el fin de semana?
+M1: E: Una excursión a las montañas. Las vistas desde Montjuïc son fantásticas. No olvide
+comer un arroz con pescado y visitar el bonito puerto.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+23
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Question 4
+
+M1
+Section 1
+Uso el móvil para sacar fotos. Normalmente me gusta chatear con amigos todos los días.
+Sin embargo, no juego a los videojuegos o navego por Internet en el móvil. También utilizo
+el móvil para mandar mensajes cuando quiero salir con mis amigos.
+
+M1
+Section 2
+Me obsesionan las películas y series en Internet. Siempre las veo en el ordenador ya que no
+me gusta descargarlas. Detesto los dibujos animados ¡son aburridos!,. Mis películas
+favoritas son las comedias.
+
+M1
+Section 3
+Uso la tableta para hacer trabajo escolar durante el recreo y en el autobús la uso para leer
+mis libros preferidos. Utilizo el portátil para llamar a mi abuela cuando llego a casa.
+
+Question 5
+
+Section 1
+M1: Esteban: Soy Esteban y quiero ser periodista. ¿Y tú, Pilar?
+F1: Pilar:
+F2: Laura:   Me encanta la comida. Me gustaría viajar un tiempo y después abrir un
+
+Me gustan los niños y quiero trabajar en un colegio. ¿Y tú, Laura?
+
+restaurante.
+
+Section 2
+M1: Esteban: También me gustan mucho los idiomas. Quisiera vivir y trabajar en Italia unos
+
+años porque estudio italiano en el colegio.
+
+Question 6
+F2
+Section 1
+Galicia está encima de Portugal. Es una región con muchas playas, es parte de la España
+verde porque durante meses, llueve mucho.
+
+F2
+Section 2
+Este año la gente está enojada porque demasiados turistas visitan la zona y cuando hay
+poca lluvia, prefieren largos baños en lugar de ducharse. Aunque han realizado muchas
+manifestaciones de protesta, a los turistas les importa poco.
+
+F2
+Section 3
+Los ciudadanos se preocupan porque los turistas consumen mucha agua, desperdiciándola
+todo el tiempo; ¡es desagradable! Dejan basura en la playa cuando toman el sol y rompen
+vidrio en la arena. Muchos detestan la comida local. Un grupo medioambiental ha mandado
+cartas a los ciudadanos y hará una campaña que ayude a los turistas.
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+24
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+Mapping of questions to specification content and assessment
+objectives: Unit 3
+
+Question
+
+Mark allocation
+
+Total
+Marks
+
+AO1
+Marks
+
+AO2
+Marks
+
+AO3
+Marks
+
+1
+
+2
+
+3
+
+4
+
+5
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(a)
+
+(b)
+
+6
+
+(a)
+
+(b)
+
+(c)
+
+(i)
+
+(ii)
+
+(i)
+
+(ii)
+
+(i)
+
+(ii)
+
+(iii)
+
+(i)
+
+(ii)
+
+(iii)
+
+3
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+2
+
+3
+
+3
+
+3
+
+3
+
+2
+
+1
+
+2
+
+1
+
+4
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3
+
+1
+
+1
+
+1
+
+3
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+2
+
+3
+
+3
+
+3
+
+3
+
+2
+
+1
+
+2
+
+1
+
+4
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3
+
+1
+
+1
+
+1
+
+Total marks
+
+45
+
+45
+
+GCSE Spanish SAMs Unit 3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+GCSE Spanish Unit 3: Listening Sample External Assessment
+
+25
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+

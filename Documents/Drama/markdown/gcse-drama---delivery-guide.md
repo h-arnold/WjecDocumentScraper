@@ -1,0 +1,1400 @@
+WJEC GCSE
+Drama
+
+Approved by Qualifications Wales
+Delivery Guide
+Teaching from 2025
+For award from 2027
+
+GCSEMade for Wales. Ready for the world.This Qualifications Wales regulated qualification is not available to centres in England.WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern
+High School, Newport for their participation in the creation of these covers.
+
+Delivery Guide GCSE Drama
+
+Contents
+
+Aims of the Delivery Guide .................................................................................................... 3
+Qualification Structure ........................................................................................................... 3
+Unit 1 ............................................................................................................................. 3
+Unit 2 ............................................................................................................................. 6
+Unit 3 ............................................................................................................................. 8
+Summary of assessment ....................................................................................................... 9
+Assessment Objectives ....................................................................................................... 10
+Unit 1 ........................................................................................................................... 10
+Unit 2 ........................................................................................................................... 10
+Unit 3 ........................................................................................................................... 10
+Specification and Assessment Pack .................................................................................... 11
+Understanding the specification amplification ............................................................... 11
+Specification Stems ..................................................................................................... 11
+Command words .......................................................................................................... 12
+Mark Schemes .................................................................................................................... 14
+Important Dates .................................................................................................................. 17
+Appendix A: Theatre Practitioners and Genres ................................................................ 18
+Appendix B: Glossary of Terminology .............................................................................. 22
+
+© WJEC CBAC Ltd.2025.
+
+2
+
+Delivery Guide GCSE Drama
+
+Aims of the Delivery Guide
+
+The aim of the Delivery Guide is to give an overview of the qualification and to help teachers
+understand how we assess the GCSE. It will offer an introduction to the specification, an
+assessment overview, and will support teachers in better understanding how to prepare their
+learners for the assessment of the different units. More information on each unit can be
+found in the separate unit guides.
+
+Qualification Structure
+
+WJEC GCSE Drama consists of 3 units:
+
+Unit title
+
+Type of Assessment
+
+Weighting
+
+Unit 1
+
+Devising Theatre
+
+Unit 2
+
+Performance from a Text
+
+Practical
+Non-examination assessment
+
+40%
+
+Practical
+Non-examination assessment
+
+30%
+
+Unit 3
+
+Interpreting Theatre
+
+On-screen examination
+
+30%
+
+All units are compulsory.
+
+Unit 1
+
+Devising Theatre
+
+Practical non-examination assessment and Reflective Log
+Marked by centre and moderated by WJEC
+40% of qualification
+96 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+
+•  develop an awareness and understanding of a range of theatrical
+
+practitioners/companies/styles and genres
+
+•  develop learners’ awareness and skills regarding the creation and development of their
+
+own work
+
+•  develop learners’ application of performance or design skills within a live performance
+•  provide an opportunity for learners to develop their ability to reflect, analyse and evaluate
+
+their creative decisions
+
+•  develop learners’ resilience, determination and confidence.
+
+© WJEC CBAC Ltd.2025.
+
+3
+
+Delivery Guide GCSE Drama
+
+This unit will focus on:
+
+•  exploring – learners will have the opportunity to explore a range of theatrical
+
+practitioners/companies/styles and genres. This will include a range of techniques, forms,
+styles, contexts and means of presenting drama. Exploration could also be through the
+means of live and/or digital theatre, as possible sources of influence for performance or
+design ideas. Learners should have the opportunity to explore diversity, including
+different perspectives, identity, culture, and contributions that span Wales and the world.
+responding and reflecting – learners will be able to reflect on their own work and
+respond to the feedback from others as an on-going process throughout the
+development period, allowing them to improve in the performances they give or in the
+designs they create
+
+•
+
+•  creating – learners will contribute to the creation of a devised performance in response
+
+to a choice of stimuli set by WJEC.
+
+Learners may choose to complete this unit as actors or designers, regardless of their
+chosen pathway in Unit 2.
+Learners choosing design must choose one of the following options:
+
+•
+lighting design
+•  sound design
+•  set and props design
+•  costume, hair and make-up design.
+
+For this assessment learners are required to:
+
+•  create and develop a piece of theatre in response to a stimulus, using either the
+
+techniques of an influential theatre practitioner, company or the characteristics of a
+theatrical style or genre and demonstrate and apply their performance or design skills in
+a live performance
+
+•  produce a reflective log.
+
+Learners can choose to be assessed on either acting or design.
+
+Learners can work in groups of between two and five actors. Each group may have up to
+four designers, each offering a different design skill.
+
+The length of this piece of theatre will depend on the number of actors in the group and
+should be as follows:
+
+•  Group of two actors:
+5-10 minutes
+•  Group of three actors:  7-12 minutes
+9-14 minutes
+•  Group of four actors:
+11-16 minutes.
+•  Group of five actors:
+
+© WJEC CBAC Ltd.2025.
+
+4
+
+Delivery Guide GCSE Drama
+
+Each actor must interact with other actors and/or the audience for a minimum of five
+minutes. The number of designers in a group does not impact on the length of the piece.
+Learners may complete the assessment anytime during the course. However, centres should ensure
+that assessment is completed only when learners have undertaken the necessary teaching and
+learning and developed the required skills and knowledge.
+
+The assessment contributes to 40% of the overall qualification. The unit will be marked out of total of
+96 marks.
+
+The stimuli will be released on WJEC’s portal during the September of the first year of study.
+
+This unit will be assessed by the centre and externally moderated by WJEC.
+
+© WJEC CBAC Ltd.2025.
+
+5
+
+Delivery Guide GCSE Drama
+
+Unit 2
+Performance from a Text
+
+Practical non-examination assessment
+Marked by a visiting examiner
+30% of qualification
+72 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+
+•  develop learners’ awareness and skills regarding the development, amendment and
+
+refinement of their own text-based performance or design
+
+•  develop learners’ application of performance or design skills within a live performance.
+
+This unit will focus on:
+
+•  exploring – learners will have the opportunity to explore and perform a range of
+theatrical texts, from various genres and periods and linked to different cultures,
+perspectives and contributions in Wales and the world. Exploration could also be linked
+to a range of theatrical styles and genres, to various practitioner/theatre companies’
+artistic aims and through the means of live and/or digital theatre, as a possible source of
+influence for performance or design ideas
+
+•  creating – linked to the process of creating and the realisation of the final text-based
+
+performance and could be experienced as actors or designers.
+
+Learners will have free choice of text for Unit 2, however, the choice of text must be different
+to the set text selected in Unit 3.
+
+Learners may choose to complete this unit as actors or designers, regardless of their
+chosen pathway in Unit 1.
+
+Learners choosing design must choose one of the following options:
+
+lighting design
+•
+•  sound design
+•  set and props design
+•  costume, hair and make-up design.
+
+For this assessment learners are required to:
+
+•  create and develop an extract(s) from a published performance text for performance
+•  demonstrate and apply performance or design skills that will be realised in the final
+
+performance.
+
+Learners will have free choice of text for Unit 2, however, the choice of text must be different
+to the set text selected in Unit 3.
+
+Learners can choose to be assessed on either acting or design.
+
+Learners work in groups of between two and four actors. Each group may have up to two
+designers, each offering a different design skill.
+
+© WJEC CBAC Ltd.2025.
+
+6
+
+Delivery Guide GCSE Drama
+
+The length of this piece of theatre will depend on the number of actors in the group and
+should be as follows:
+
+•  Group of two actors:   5-10 minutes
+•  Group of three actors:  7-12 minutes
+•  Group of four actors:   9-14 minutes
+
+Each actor must interact with other actors and/or the audience for a minimum of five
+minutes. The number of designers in a group does not impact on the length of the piece.
+
+Viva
+
+The viva is non-assessed and will occur after the performance. All learners opting for design must
+give a 3-5 minute presentation of their design to the examiner. It is an opportunity for learners to
+explain and present their design to the examiner.
+
+This unit will be completed in the final year of study.
+
+The assessment contributes to 30% of the overall qualification. The unit will be marked out of total of
+72 marks.
+
+This unit will be assessed by a visiting examiner.
+
+© WJEC CBAC Ltd.2025.
+
+7
+
+Delivery Guide GCSE Drama
+
+Unit 3
+Interpreting Theatre
+
+Digital only examination, marked by WJEC
+30% of qualification
+72 marks
+
+Overview of unit
+
+The purpose of this unit is to:
+
+•  demonstrate and apply knowledge and understanding of how drama is designed,
+developed and performed through the context of prepared and unprepared works
+
+•  develop learners’ creative skills as an actor, designer and director through the context of
+
+prepared and unprepared works
+reflect on and analyse the work of others through the context of unprepared work.
+
+•
+
+This unit will focus on:
+
+•  exploring – learners will have the opportunity to explore various theatrical viewpoints and
+experiences. This should include a range of techniques, forms, styles and contexts. This
+exploration will be linked to their chosen set text as well as a range of theatrical
+productions of contrasting styles/genres, contrasting periods/contexts, works created in or
+inspired by Wales and works written by a diverse range of writers, including those from
+Black, Asian and minority ethnic backgrounds. Learners should have the opportunity for
+theatrical exploration as an actor, designer and director gathering ideas from a variety of
+sources to enhance their understanding of drama.
+
+•  responding and reflecting – linked to live and/or recorded/live streamed performances as
+possible theatrical influences for the set texts and unprepared works. As learners make
+progress in Unit 3 they increasingly evaluate and create more sophisticated responses,
+independently to live and/or pre-recorded theatre. Their evaluation of work of others
+reflects a developing understanding of theatrical experience enabling them to form
+effective critique.
+
+The texts chosen for Units 2 and 3 must be different.
+
+© WJEC CBAC Ltd.2025.
+
+8
+
+Summary of assessment
+
+Delivery Guide GCSE Drama
+
+Unit 1: Devising Theatre
+Practical non-examination assessment
+40% of qualification
+
+ 96 marks
+
+Summary of assessment
+Response to a stimuli set by WJEC, assessed by the centre and
+moderated by WJEC. The stimuli will be available on the WJEC
+Portal during the September of the first year of study. The stimuli
+will be changed annually.
+Learners can choose either acting or design. Learners will create,
+refine and perform a piece of theatre. Learners will also produce a
+Reflective Log of the process in a non-prescribed format.
+Learners can work in groups of between two and five actors. Up
+to four additional learners, each working on a different design
+skill, may work with each performing group.
+
+Unit 2: Performance from a Text
+Practical non-examination assessment
+30% of qualification
+
+72 marks
+
+Summary of assessment
+Marked by visiting examiner. Learners can choose either acting
+or design.
+Each actor must interact with other actors and/or the audience for
+a minimum of five minutes. Designers will give a non-assessed
+viva outlining their ideas.
+Learners can work in groups of between two and four actors.
+Up to two additional learners, each working on a different design
+skill, may work with each performing group.
+
+Unit 3: Interpreting Theatre
+On-screen examination: 2 hours
+30% of qualification
+
+Summary of assessment
+Questions requiring objective responses, short and extended
+answers, in response to set text and unseen texts.
+
+72 marks
+
+This is a linear qualification.
+
+The qualification is not tiered.
+
+There is no hierarchy in the order in which the units are presented. The order does not imply
+the teaching order of the units.
+
+© WJEC CBAC Ltd.2025.
+
+9
+
+Delivery Guide GCSE Drama
+
+Assessment Objectives
+
+AO1
+Demonstrate and apply knowledge and understanding of how drama is developed, designed
+and performed
+
+AO2
+Develop and apply performance and/or design skills
+
+AO3
+Reflect on, analyse and evaluate their own work and the work of others
+
+AO4
+Create and develop ideas to communicate meaning in theatrical designs and/or
+performances
+
+Unit 1
+The distribution of the assessment objectives for this unit is:
+
+ AO1
+
+-
+
+AO2
+
+22.5%
+
+AO3
+
+5%
+
+AO4
+
+12.5%
+
+Unit 2
+The distribution of the assessment objectives for this unit is:
+
+ AO1
+
+-
+
+AO2
+
+22.5%
+
+AO3
+
+-
+
+Unit 3
+The distribution of the assessment objectives for this unit is:
+
+ AO1
+
+20%
+
+AO2
+
+-
+
+AO3
+
+10%
+
+AO4
+
+7.5%
+
+AO4
+
+-
+
+Total
+
+40%
+
+Total
+
+30%
+
+Total
+
+30%
+
+© WJEC CBAC Ltd.2025.
+
+10
+
+Delivery Guide GCSE Drama
+
+Specification and Assessment Pack
+
+When we develop new qualifications, we produce the following documents:
+
+•  Specification – this covers all the information and skills that learners are expected to
+
+know by the end of their course.
+
+•  Assessment Pack – this contains the Sample Assessment Materials (SAMs) i.e.: sample
+exam papers and sample NEA tasks, relevant controls for the NEA and, mark schemes
+This guide builds upon the information in the specification and assessment pack to help
+further your understanding of said documents.
+
+Understanding the specification amplification
+
+Learners should be made aware of:
+
+the specification stems
+
+•
+•  what the specification stems mean.
+
+Specification Stems
+
+When you look through the specification you will notice in the amplification column, we use a
+variety of wording before the list of content learners need to know; we call this a stem:
+
+Specification
+Stem
+
+Amplification
+
+Learners are
+required to
+
+develop and apply their performance or design skills within a live
+performance.
+
+Learners should
+be able to
+
+reflect on, analyse and evaluate their own work
+
+Each stem is used for a slightly different reason
+
+Specification
+Stem
+
+Learners should
+know
+
+Learners are
+required to
+
+Learners should
+understand
+
+When it is used
+
+When learners are required to use direct recall.
+
+When learners show the requirements of individual units.
+
+When learners are required to demonstrate greater depth than
+straight identification or recall, for example they can apply
+knowledge to familiar or unfamiliar contexts and can synthesise and
+evaluate information for a given purpose.
+
+Learners should
+be able to
+
+When learners need to apply their knowledge and understanding to
+a practical situation or demonstrate application of practical skills and
+techniques.
+
+© WJEC CBAC Ltd.2025.
+
+11
+
+Delivery Guide GCSE Drama
+
+Command words
+
+Learners should be made aware of:
+
+•  what command words are
+•  what each command word means
+•  what each command word assesses.
+
+Command words are the words and phrases used in assessments that tell learners how they
+should answer the question or complete the task. Command words direct the learner through
+the question or task and indicate the nature of the response required.
+
+(a)
+
+Describe the character of MABLI in the extract.
+
+Command
+word
+
+The following tables are not exhaustive, but will give you a good idea of the command words
+we typically use:
+
+Command words for direct recall
+
+Command Word
+
+Describe
+
+Requirements of response
+
+Identify distinctive features and give descriptive, factual detail.
+This is one of the most widely used command words. If an explanation is
+required then use two command words: ‘describe and explain’.
+
+Drag and drop
+
+Move to another part of a screen using a mouse or similar device.
+
+Give
+
+Produce an answer from recall.
+
+Identify/ Tick/ Click /
+Circle
+
+Point out and name from a number of possibilities.
+
+Label
+
+Name
+
+Outline
+
+State
+
+To designate with a name.
+
+Identify or make a list.
+
+Set out the main characteristics.
+
+Express in clear terms.
+
+© WJEC CBAC Ltd.2025.
+
+12
+
+Delivery Guide GCSE Drama
+
+Command words for application/ demonstration of skills:
+
+Command Word
+
+Requirements of response
+
+Demonstrate
+
+Exemplify, describe with reference to examples.
+
+Design
+
+Discuss
+
+Explain
+
+Propose
+
+Decide upon the look and functioning of something by making or drawing
+plans.
+
+Present key points.
+
+Give reasons or causes. Show an understanding of how or why
+something has occurred.
+
+Suggest a course of action based on supported reasons.
+
+Select/Choose
+
+Make an appropriate choice from a range of options.
+
+Suggest
+
+Put forward an idea, reason or course of action.
+
+Command words for synthesis and evaluation
+
+Command Word
+
+Requirements of response
+
+Analyse
+
+Compare
+
+Consider
+
+Discuss
+
+Evaluate
+
+Justify
+
+Reflect
+
+Suggest
+
+Separate information into components identify their characteristics.
+
+Identify similarities.
+
+Review and respond to given info.
+
+Examine an issue in detail in a structured way, taking into account
+different ideas.
+
+Judge from available evidence.
+
+Support case with evidence.
+
+To consider thoughts, experiences, situation or issue.
+
+State a possible reason or course of action.
+
+© WJEC CBAC Ltd.2025.
+
+13
+
+Delivery Guide GCSE Drama
+
+Mark Schemes
+
+Mark schemes and/or assessment criteria test the intended learning outcomes for a
+component. They describe the knowledge and skills (and possibly attitude) that a candidate
+is expected to demonstrate in their responses and they are then used in marking the work.
+
+Objective based mark scheme:
+For very short answer questions requiring one correct response.
+
+Question
+
+Answer
+
+1.
+
+A Midsummer Night’s Dream William Shakespeare
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+(c)
+
+(i)  Name these two stages
+
+2
+
+2
+
+AO1
+Demonstrate knowledge and understanding of how drama and theatre is developed and
+performed
+
+Award one mark for each correctly named stage up to a maximum of 2 marks.
+•  Diagram A- Thrust stage
+•  Diagram B- Proscenium Arch stage
+
+Points based mark scheme
+For short answer questions with a range of possible responses
+
+Question  Answer
+
+AO1  AO2  AO3
+
+2.
+
+The Glass Menagerie, Tennessee Williams
+
+(a)
+
+(iii)  Briefly describe the tone and tempo that could be
+
+2
+
+used when speaking your chosen line.
+
+Total
+Mark
+
+2
+
+AO1
+Demonstrate knowledge and understanding of how drama and theatre is developed and
+performed
+
+•  Award one mark for a suitable tone and one mark for a suitable tempo.
+•  The response should link with the given line in the previous question.
+•  Answers must refer to both tone and tempo to be awarded the maximum 2 marks. If only one is
+
+discussed, answers will be marked out of a maximum of 1 mark.
+
+Indicative content
+
+These are examples only and all valid alternatives should be considered and marked appropriately.
+•  An angry tone and a fast tempo to emphasise his anger at Amanda
+•  A sneering tone and fast tempo to show his dislike of Amanda and how she treats him
+•  A spiteful tone and slow tempo to put Amanda in her place
+•  An incredulous tone and a fast tempo to show he can’t believe Amanda would confiscate his
+
+books.
+
+© WJEC CBAC Ltd.2025.
+
+14
+
+Levels based mark schemes
+For questions requiring extended responses
+
+Question
+
+Answer
+
+3.
+
+Blue Remembered Hills, Dennis Potter
+
+Delivery Guide GCSE Drama
+
+AO1  AO2  AO3
+
+Total
+Mark
+
+(d)  As an actor you have been asked to perform the role of
+
+15
+
+15
+
+JOHN in a production of Blue Remembered Hills. Choose
+one extract from the play and explain how you could
+communicate the character to the audience.
+
+Do not use the extract used for questions 3(a)-3(c)
+
+In your answer refer to:
+•  character motivation
+•  voice
+•  movement
+interaction.
+•
+
+Band
+
+AO1 Demonstrate knowledge and understanding of how drama and theatre is
+developed and performed
+
+13-15 marks
+
+•  Perceptive explanation of character motivation within the chosen extract
+•  Perceptive knowledge and understanding of how voice can be used to
+
+communicate the character in the chosen extract
+
+•  Perceptive knowledge and understanding of how movement can be used to
+
+5
+
+communicate character within the chosen extract
+
+•  Perceptive knowledge and understanding of how interaction can be used to
+
+communicate character within the chosen extract
+
+•  Highly detailed references to the extract to support the vocal/movement/interaction
+
+skills suggested
+
+•  Highly relevant knowledge, understanding and use of drama terminology.
+
+10-12 marks
+
+•  Detailed explanation of character motivation within the chosen extract
+•  Detailed knowledge and understanding of how voice can be used to communicate
+
+the character in the chosen extract
+
+•  Detailed knowledge and understanding of how movement can be used to
+
+4
+
+communicate character within the chosen extract
+
+•  Detailed knowledge and understanding of how interaction can be used to
+
+communicate character within the chosen extract
+
+•  Detailed references to the extract to support the vocal/movement/interaction skills
+
+suggested
+
+•  Relevant knowledge, understanding and use of drama terminology.
+
+© WJEC CBAC Ltd.2025.
+
+15
+
+Delivery Guide GCSE Drama
+
+7-9 marks
+
+•  Satisfactory explanation of character motivation within the chosen extract
+•  Satisfactory knowledge and understanding of how voice can be used to
+
+communicate the character in the chosen extract
+
+•  Satisfactory knowledge and understanding of how movement can be used to
+
+3
+
+communicate character within the chosen extract.
+
+•  Satisfactory knowledge and understanding of how interaction can be used to
+
+communicate character within the chosen extract
+
+•  General references to the extract to support the vocal/movement/interaction skills
+
+suggested
+
+•  Generally relevant knowledge, understanding and use of drama terminology.
+
+4-6 marks
+
+•  Basic explanation of character motivation within the chosen extract
+•  Basic knowledge and understanding of how voice can be used to communicate the
+
+character in the chosen extract
+
+•  Basic knowledge and understanding of how movement can be used to
+
+2
+
+communicate character within the chosen extract
+
+•  Basic knowledge and understanding of how interaction can be used to
+
+communicate character within the chosen extract
+
+•  Some references to the extract to support the vocal/movement/interaction skills
+
+suggested
+
+•  Some relevant knowledge, understanding and use of drama terminology.
+
+1-3 marks
+
+•  Limited explanation of character motivation within the chosen extract
+•  Limited knowledge and understanding of how voice can be used to communicate
+
+the character in the chosen extract
+
+•  Limited knowledge and understanding of how movement can be used to
+
+1
+
+communicate character within the chosen extract
+
+•  Limited knowledge and understanding of how interaction can be used to
+
+communicate character within the chosen extract
+
+•  Limited references to the extract to support the vocal/movement/interaction skills
+
+suggested
+
+•  Limited knowledge, understanding and use of relevant drama terminology.
+
+0 marks
+
+•  Response not credit worthy / not attempted
+
+© WJEC CBAC Ltd.2025.
+
+16
+
+Delivery Guide GCSE Drama
+
+Indicative content
+
+The following are examples only and all valid alternatives should be considered and marked
+appropriately according to the chosen scene.
+
+If candidates use the same extract as in Question 1(a) – 1(c) they cannot score higher than
+band 2.
+
+John’s character
+Fair-minded, not afraid to challenge bullies
+
+Character motivation
+The character’s motivation should be understood within the context of the chosen extract.
+
+Voice
+Candidates may consider: accent, tone, tempo, volume, pause, silence, subtext.
+
+Movement:
+Candidates may consider: quality of movement, gestures, facial expressions, movement involving
+props, set, costume. Candidates could refer to the use of the acting space and refer to the proxemics
+with other characters.
+
+Interaction
+With the other characters, audience, set/props.
+
+All the above should be linked closely to characters/moments within the chosen extract
+
+© WJEC CBAC Ltd.2025.
+
+17
+
+Important Dates
+
+First Teaching of WJEC GCSE subject
+
+First assessment for Unit 2 (external assessment)
+
+First assessment for Unit 3 (external assessment)
+
+First release of Unit 1 NEA assignment brief
+
+First submission of Unit 1 NEA
+
+First submission of Unit 2 NEA
+
+First Certification
+
+Delivery Guide GCSE Drama
+
+2025
+
+Summer 2027
+
+Summer 2027
+
+September 2025
+
+May 2027
+
+May 2027
+
+2027
+
+© WJEC CBAC Ltd.2025.
+
+18
+
+Delivery Guide GCSE Drama
+
+Appendix A: Theatre Practitioners and Genres
+
+The following list contains suggestions of theatre practitioners and genres which can be
+used to develop work. Learners may choose a different practitioner or genre if
+they wish. If in doubt about the appropriacy of the chosen practitioner or genre, please
+contact WJEC.
+
+•  Stanislavski
+•  Brecht
+•  Berkoff
+•  Emma Rice
+•  Katie Mitchell
+•  Eddie Ladd
+•  Theatre in Education
+•  Physical Theatre
+•  Musical Theatre.
+
+The following list outlines some of the main techniques of each practitioner or characteristics
+of each genre. The list is not exhaustive and neither is it expected that learners must
+demonstrate all characteristics in their work. It is recommended that learners aim to use
+between four and six techniques or characteristics in their work.
+Stanislavski:
+
+three dimensional characters.
+
+the fourth wall
+feeling of truth
+the magic ‘if’
+
+•
+•
+•
+•  emotional memory
+•  muscular memory
+•  circles of attention
+intonation and pauses
+•
+restraint and control
+•
+•  naturalistic movement
+•
+•  Brecht:
+•  direct address
+•  narrator
+•  multi-roling
+•  gestus
+•  placards
+•  music and songs
+•  distancing
+•  episodic structure
+•  political perspectives.
+
+© WJEC CBAC Ltd.2025.
+
+19
+
+Delivery Guide GCSE Drama
+
+Berkoff:
+
+•  stylised movement (slow motion/robotic)
+•  exaggerated facial expressions
+•  direct address
+•  exaggerated vocal work
+•
+•  mask
+•  ensemble playing
+•  minimalism
+•  exaggerated and stylised mime.
+
+tableaux
+
+Emma Rice:
+
+•  community theatre
+•  mixed performance styles
+•  music/songs
+•  comedy
+•  circus tricks
+•  physical theatre
+•  ensemble work.
+
+Katie Mitchell:
+
+•  Stanislavskian method of creating a character
+•  use of technology to enhance the performance
+•  stage imagery important
+importance of narrative.
+•
+
+Eddie Ladd:
+
+text in Welsh and English
+
+•  dance/physical theatre
+•
+•  political emphasis
+•  use of technology to lead work
+•  site specific on occasion.
+•  Theatre in Education:
+target audience
+•
+topic
+•
+•  multi-roling
+•  educational information
+•  direct address
+•  narrator
+•  message
+•  audience participation.
+
+© WJEC CBAC Ltd.2025.
+
+20
+
+Delivery Guide GCSE Drama
+
+Physical Theatre:
+
+•  movement
+•  gesture and body language
+•  ensemble
+•  commedia dell’arte
+•  mime
+•  status
+•  proximity
+•
+•  physicalising emotional states.
+
+the use of masks
+
+Musical Theatre:
+
+•  song
+•  dialogue
+•  dance
+•  monologue
+•  humour
+•  pathos
+•  anger or hate
+•  chorus.
+
+© WJEC CBAC Ltd.2025.
+
+21
+
+Delivery Guide GCSE Drama
+
+Appendix B: Glossary of Terminology
+
+The following is a glossary of terminology which is designed to assist centres in preparing
+learners for the non-examination assessment within Units 1 and 2, and the examined
+assessment within Unit 3.
+
+They are not aligned to specific assessment criteria within individual units but are designed
+to aid learners in articulating their ideas using subject-specific terminology as well as offering
+a range of concepts, terms and ideas for content that learners might wish to consider and/or
+include in the exploration and preparation of their practical and theoretical work. This list isn’t
+exhaustive and centres/learners may explore other appropriate performance/design
+techniques and/or conventions.
+
+Vocal skills
+Pitch
+Pace/tempo
+Tone
+Pause
+Accent
+Volume
+Clarity
+Musicality
+Intonation
+Rhythm
+
+Physical skills
+Gesture
+Stillness
+Fluency
+Expression
+Posture
+Facial expressions
+Movement
+Proxemics
+
+Interaction
+Eye contact
+Listening and responding
+Pace
+Fluency
+Motivation
+Positioning
+Status
+
+© WJEC CBAC Ltd.2025.
+
+22
+
+Delivery Guide GCSE Drama
+
+Development/Rehearsal
+Conscience corridor (also known as 'conscience alley' or 'thought tunnel')
+Emotional memory
+Freeze-frame/tableau(x)
+Hot seating
+Improvisation
+Role reversal
+Role transfer
+Role on the wall
+Sculpting
+Subtext improvisation
+Thoughts in the head or thought tracking
+
+Lighting design
+Intensity
+Blackout
+Snap
+Fade (in/out)
+Fade
+Crossfade
+Spotlight
+Flood light
+Follow spot
+Lights up
+Lights down
+Preset
+House lights
+Lighting cue
+Projections
+Lanterns
+Cold wash
+Warm wash
+Gobos
+Specials
+Strobe
+Cue sheets
+Smoke machine
+Gauze (scrim)
+
+© WJEC CBAC Ltd.2025.
+
+23
+
+Delivery Guide GCSE Drama
+
+Sound design
+Music
+Sound effects
+Sound cue
+Live sounds
+Recorded sounds
+Volume
+Reverb/echo
+Sound sources
+Surround sound
+Amplification
+Microphones
+Ambience
+Filter
+Sample
+Fade (in/out)
+Soundscape
+Diegetic/non-diegetic
+Distortion
+Feedback
+Cue sheets
+White noise
+Underscore
+Leitmotif
+
+© WJEC CBAC Ltd.2025.
+
+24
+
+Delivery Guide GCSE Drama
+
+Set design/staging
+Entrances/exits
+Proscenium Arch
+Apron
+Theatre in the round
+Thrust stage
+Traverse stage
+End-on stage
+Promenade
+Site-specific
+Fly in/out
+Revolve
+Raked stage
+Trapdoor
+Gauze
+Ground plan
+Sight lines
+Stage left
+Stage right
+Up stage
+Down stage
+Centre stage
+Backdrop/cyclorama
+Site specific
+Wings/flats
+Set dressing
+Props
+Furniture
+Projection
+Texture/fabrics
+Model set
+Levels
+Furniture
+
+Costume design (including hair and make-up)
+Accessories
+Materials/fabrics
+Garments
+Hairstyles
+Wigs
+Contouring
+Pattern
+Period
+Style
+
+© WJEC CBAC Ltd.2025.
+
+25
+
+Delivery Guide GCSE Drama
+
+Performance Styles
+Naturalistic
+Epic Theatre/Brechtian
+Non-naturalistic
+Physical Theatre
+Artaudian/Theatre of Cruelty
+Berkoffian
+Theatre in Education
+Theatre of the Oppressed/Boal/Total Theatre
+Musical Theatre
+
+Design styles
+Naturalistic
+Epic Theatre / Brechtian
+Non-naturalistic
+Expressionistic
+Minimalistic
+Realism
+
+© WJEC CBAC Ltd.2025.
+
+26
+

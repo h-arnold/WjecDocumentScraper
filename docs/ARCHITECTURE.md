@@ -45,6 +45,36 @@ Python >= 3.12. Dependencies are managed with uv (see `docs/UV_GUIDE.md`).
      - Drives the end-to-end process for a subject.
      - Calls `reporter(label, destination, url)` for progress if provided.
 
+## Post-processing pipeline
+
+Once PDFs have been downloaded, the optional organiser lives in `postprocess_documents.py` and can be triggered from the CLI via `--post-process` or `--post-process-only`.
+
+1. Subject discovery
+   - `find_subject_directories(root: Path) -> list[Path]`
+     - Returns all direct subdirectories (one per subject) under the chosen output root.
+
+2. File layout
+   - `copy_root_pdfs(subject_dir: Path, pdf_directory: Path) -> list[Path]`
+     - Copies any PDFs in the subject root into the dedicated `pdfs/` subdirectory, removing originals after a successful copy.
+
+3. Markdown conversion
+   - `convert_pdf_to_markdown(converter: MarkItDown, pdf_path: Path, markdown_directory: Path) -> Path`
+     - Uses [MarkItDown](https://pypi.org/project/markitdown/) to create a Markdown rendition for each PDF inside `markdown/`.
+
+4. Orchestration
+   - `process_subject(subject_dir: Path) -> SubjectResult`
+     - Copies PDFs, then converts each to Markdown, accumulating counts and per-file errors.
+   - `run(root: Path, max_workers: int | None = None) -> list[SubjectResult]`
+     - Executes each subject in a `ThreadPoolExecutor`, respecting the optional worker limit and emitting simple progress prints.
+   - CLI integration happens in `main.py` via `perform_post_processing(...)`, which prints aggregate totals and maps exit codes to success (0), “no directories” (1), or error (2).
+
+### Post-processing invariants
+
+- Each subject directory contains `pdfs/` and `markdown/` subdirectories after processing; the root directory remains untouched aside from removing PDFs that were relocated.
+- Markdown files mirror the PDF stem (`name.md`), preserving hyphenated filenames produced during download.
+- Concurrency is opt-in; when using multiple workers, per-subject work must remain independent so that shared resources (e.g., MarkItDown instances) are not reused across threads.
+- Failures in conversion are logged and recorded, but other files continue processing; exit code aggregates whether any subject produced errors.
+
 ## Public API (contracts)
 
 Keep function names, parameter orders, and behaviors stable unless you update all call sites and the CLI accordingly.
@@ -94,6 +124,12 @@ Keep function names, parameter orders, and behaviors stable unless you update al
 
 - Performance
   - Current implementation is synchronous and acceptable for the expected dataset size. If adding concurrency, ensure deterministic filenames and avoid race conditions when writing files.
+  - Post-processing uses threads per subject; keep operations per subject independent so that shared state is not mutated unsafely.
+
+- Post-processing
+  - Preserve the `SubjectResult` dataclass fields (`copied`, `converted`, `errors`) so CLI summaries remain accurate.
+  - Keep progress prints (`Starting...` / `Finished...`) concise; they are relied upon when running with many subjects.
+  - If changing the Markdown conversion strategy, ensure conversion exceptions are caught and recorded without halting other subjects.
 
 ## When to update this document
 
@@ -101,3 +137,4 @@ Keep function names, parameter orders, and behaviors stable unless you update al
 - You change filename or directory normalization.
 - You modify how subjects are configured or matched.
 - You change link-discovery strategies or title selection rules.
+- You alter the post-processing pipeline (new steps, different outputs, CLI behavior changes).

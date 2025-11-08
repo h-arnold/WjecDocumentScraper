@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Iterable
 from urllib.parse import urlparse
 
+from postprocess_documents import run as run_postprocess
 from wjec_scraper import QUALIFICATION_URLS, download_subject_pdfs, iter_subject_pdf_links
 
 
@@ -36,6 +37,22 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Show which files would be downloaded without saving them.",
     )
+    parser.add_argument(
+        "--post-process",
+        action="store_true",
+        help="After downloading, organise PDFs into subject subfolders and convert them to Markdown.",
+    )
+    parser.add_argument(
+        "--post-process-only",
+        action="store_true",
+        help="Skip downloading and only run the post-processing step on the output directory.",
+    )
+    parser.add_argument(
+        "--post-process-workers",
+        type=int,
+        default=None,
+        help="Maximum number of subject folders to post-process concurrently.",
+    )
     return parser
 
 
@@ -55,12 +72,57 @@ def resolve_subjects(subject_args: list[str] | None) -> tuple[dict[str, str], se
     return selected, missing
 
 
+def perform_post_processing(output_root: Path, max_workers: int | None) -> int:
+    """Invoke the post-processing pipeline and print a concise summary."""
+    results = run_postprocess(output_root, max_workers)
+    if not results:
+        print(f"No subject folders found in {output_root.resolve()}")
+        return 1
+
+    total_copied = sum(result.copied for result in results)
+    total_converted = sum(result.converted for result in results)
+    total_errors = sum(len(result.errors) for result in results)
+
+    for result in sorted(results, key=lambda item: item.subject_dir.name.lower()):
+        message = (
+            f"{result.subject_dir.name}: copied {result.copied} PDF(s), converted {result.converted} to Markdown"
+        )
+        if result.errors:
+            message += f" ({len(result.errors)} error(s); check logs)"
+        print(message)
+
+    print(
+        f"\nPost-processing complete. Copied {total_copied} PDF(s) and generated {total_converted} Markdown file(s)."
+    )
+    if total_errors:
+        print(f"Encountered {total_errors} error(s); see log output for details.")
+        return 2
+    return 0
+
+
 def run_cli(args: argparse.Namespace) -> int:
     if args.list_subjects:
         print("Available subjects:")
         for subject in sorted(QUALIFICATION_URLS):
             print(f" - {subject}")
         return 0
+
+    if args.post_process_workers is not None and args.post_process_workers < 1:
+        print("--post-process-workers must be at least 1")
+        return 1
+
+    post_process_only = args.post_process_only
+    should_post_process = args.post_process or post_process_only
+
+    if post_process_only and args.dry_run:
+        print("--dry-run cannot be combined with --post-process-only")
+        return 1
+
+    output_root = Path(args.output)
+
+    if post_process_only:
+        print("Running post-processing without downloading new files...\n")
+        return perform_post_processing(output_root, args.post_process_workers)
 
     selected_subjects, missing = resolve_subjects(args.subjects)
     if missing:
@@ -72,7 +134,6 @@ def run_cli(args: argparse.Namespace) -> int:
         print("No subjects selected. Exiting.")
         return 1
 
-    output_root = Path(args.output)
     if not args.dry_run:
         output_root.mkdir(parents=True, exist_ok=True)
 
@@ -106,10 +167,18 @@ def run_cli(args: argparse.Namespace) -> int:
 
     if args.dry_run:
         print(f"\nDry run complete. {total_downloaded} PDF(s) would be downloaded.")
-    else:
-        print(f"\nFinished. Downloaded {total_downloaded} PDF(s) into {output_root.resolve()}")
+        if should_post_process:
+            print("Post-processing is skipped during a dry run.")
+        return 0
 
-    return 0
+    print(f"\nFinished. Downloaded {total_downloaded} PDF(s) into {output_root.resolve()}")
+
+    exit_code = 0
+    if should_post_process:
+        print("\nRunning post-processing...\n")
+        exit_code = max(exit_code, perform_post_processing(output_root, args.post_process_workers))
+
+    return exit_code
 
 
 def main() -> int:

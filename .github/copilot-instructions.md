@@ -18,6 +18,7 @@ Read this primer first, then consult the linked focus docs before changing code 
 - Language/runtime: Python >= 3.12 (see pyproject.toml)
 - Entry points: `main.py` (CLI), `wjec_scraper.py` (reusable API)
 - Default output: `Documents/` (created by the CLI unless `--dry-run`)
+- Post-processing: optional organiser+Markdown conversion pipeline in `postprocess_documents.py` (invoked via CLI `--post-process*` flags; uses MarkItDown)
 
 ## Key contracts and invariants (do not break)
 
@@ -35,6 +36,7 @@ If you need details or examples for any of the above, see docs/ARCHITECTURE.md (
 - Add/remove subjects: Edit `QUALIFICATION_URLS` in `wjec_scraper.py` (keep exact subject strings; CLI matches case-insensitively).
 - Adjust parsing or fetching: Update functions in `wjec_scraper.py` (see docs/ARCHITECTURE.md for the data flow and parsing rules, including React-props parsing and the optional key-documents endpoint).
 - CLI behavior or options: Modify `main.py` (keep `--subjects`, `--list-subjects`, `--dry-run`, `-o/--output`).
+- Post-processing workflow: Edit `postprocess_documents.py` (ThreadPool orchestrator that copies PDFs into `pdfs/`, converts them to Markdown via MarkItDown, and surfaces errors). Keep CLI worker limits and summary messaging consistent with `main.py`.
 
 ## Must-consult reference docs
 
