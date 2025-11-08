@@ -52,6 +52,8 @@ DEFAULT_IGNORED_WORDS = {
     "mbps",
     "gbps",
     "bps",
+    "MiTM",
+    "MITM",
 
     # audio / connectors / formats
     "SPDIF",
@@ -61,7 +63,6 @@ DEFAULT_IGNORED_WORDS = {
     # core / cpu descriptors
     "quad-core",
     "hexa-core",
-    "hexacore",
     "octa-core",
     "deca-core",
 

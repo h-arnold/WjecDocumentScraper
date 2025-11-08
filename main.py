@@ -8,7 +8,12 @@ from typing import Iterable
 from urllib.parse import urlparse
 
 from postprocess_documents import run as run_postprocess
-from wjec_scraper import QUALIFICATION_URLS, download_subject_pdfs, iter_subject_pdf_links
+from wjec_scraper import (
+    QUALIFICATION_URLS,
+    download_subject_pdfs,
+    iter_subject_pdf_links,
+    subject_directory_name,
+)
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -78,9 +83,14 @@ def resolve_subjects(subject_args: list[str] | None) -> tuple[dict[str, str], se
     return selected, missing
 
 
-def perform_post_processing(output_root: Path, max_workers: int | None, converter_type: str = "markitdown") -> int:
+def perform_post_processing(
+    output_root: Path,
+    max_workers: int | None,
+    converter_type: str = "markitdown",
+    subject_filters: set[str] | None = None,
+) -> int:
     """Invoke the post-processing pipeline and print a concise summary."""
-    results = run_postprocess(output_root, max_workers, converter_type)
+    results = run_postprocess(output_root, max_workers, converter_type, subject_filters)
     if not results:
         print(f"No subject folders found in {output_root.resolve()}")
         return 1
@@ -124,21 +134,30 @@ def run_cli(args: argparse.Namespace) -> int:
         print("--dry-run cannot be combined with --post-process-only")
         return 1
 
-    output_root = Path(args.output)
-
-    if post_process_only:
-        print("Running post-processing without downloading new files...\n")
-        return perform_post_processing(output_root, args.post_process_workers, args.converter)
-
     selected_subjects, missing = resolve_subjects(args.subjects)
     if missing:
         print("Warning: some requested subjects were not recognised:")
         for item in sorted(missing):
             print(f"  - {item}")
 
-    if not selected_subjects:
+    if args.subjects and not selected_subjects:
         print("No subjects selected. Exiting.")
         return 1
+
+    subject_filters: set[str] | None = None
+    if args.subjects:
+        subject_filters = {subject_directory_name(subject) for subject in selected_subjects}
+
+    output_root = Path(args.output)
+
+    if post_process_only:
+        print("Running post-processing without downloading new files...\n")
+        return perform_post_processing(
+            output_root,
+            args.post_process_workers,
+            args.converter,
+            subject_filters,
+        )
 
     if not args.dry_run:
         output_root.mkdir(parents=True, exist_ok=True)
@@ -182,7 +201,15 @@ def run_cli(args: argparse.Namespace) -> int:
     exit_code = 0
     if should_post_process:
         print("\nRunning post-processing...\n")
-        exit_code = max(exit_code, perform_post_processing(output_root, args.post_process_workers, args.converter))
+        exit_code = max(
+            exit_code,
+            perform_post_processing(
+                output_root,
+                args.post_process_workers,
+                args.converter,
+                subject_filters,
+            ),
+        )
 
     return exit_code
 

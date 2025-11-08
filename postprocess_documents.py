@@ -89,9 +89,17 @@ def process_subject(subject_dir: Path, converter_type: str = "markitdown") -> Su
     return result
 
 
-def run(root: Path, max_workers: int | None = None, converter_type: str = "markitdown") -> list[SubjectResult]:
+def run(
+    root: Path,
+    max_workers: int | None = None,
+    converter_type: str = "markitdown",
+    allowed_subject_dirs: set[str] | None = None,
+) -> list[SubjectResult]:
     """Process each subject directory and return per-subject results."""
     subject_dirs = find_subject_directories(root)
+    if allowed_subject_dirs is not None:
+        allowed = {name.lower() for name in allowed_subject_dirs}
+        subject_dirs = [path for path in subject_dirs if path.name.lower() in allowed]
     if not subject_dirs:
         logger.info("No subject directories found under %s", root)
         return []
