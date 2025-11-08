@@ -171,11 +171,219 @@ def test_ignored_words_filtering(tmp_path: Path) -> None:
         root,
         report_path=report_path,
         tool=tool,
-        ignored_words={"wjec", "cbac"},
+        ignored_words={"WJEC", "CBAC"},  # Case-sensitive: must match exact casing
     )
 
     # Check that issues were filtered
     report_text = report_path.read_text(encoding="utf-8")
     assert "Total issues found: 0" in report_text
+
+
+def test_case_sensitive_ignored_words_uppercase(tmp_path: Path) -> None:
+    """Test that uppercase acronyms are filtered when in the ignore list."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("This document mentions WJEC and CPU.", encoding="utf-8")
+
+    # Create matches for WJEC and CPU (both uppercase)
+    wjec_match = DummyMatch()
+    wjec_match.matchedText = "WJEC"
+    
+    cpu_match = DummyMatch()
+    cpu_match.matchedText = "CPU"
+
+    tool = DummyTool([wjec_match, cpu_match])
+    report_path = root / "report.md"
+    
+    # Both WJEC and CPU are in DEFAULT_IGNORED_WORDS (uppercase)
+    # so they should be filtered out
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    assert "Total issues found: 0" in report_text
+
+
+def test_case_sensitive_ignored_words_lowercase_not_filtered(tmp_path: Path) -> None:
+    """Test that lowercase variants are NOT filtered when only uppercase is in the list."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("This mentions wjec and cpu in lowercase.", encoding="utf-8")
+
+    # Create matches for lowercase variants
+    wjec_match = DummyMatch()
+    wjec_match.matchedText = "wjec"
+    
+    cpu_match = DummyMatch()
+    cpu_match.matchedText = "cpu"
+
+    tool = DummyTool([wjec_match, cpu_match])
+    report_path = root / "report.md"
+    
+    # Only uppercase WJEC and CPU are in DEFAULT_IGNORED_WORDS
+    # lowercase "wjec" and "cpu" should NOT be filtered (case-sensitive)
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    # Both issues should still be present (not filtered)
+    assert "Total issues found: 2" in report_text
+    assert "wjec" in report_text.lower()
+    assert "cpu" in report_text.lower()
+
+
+def test_case_sensitive_ignored_words_mixed_case_not_filtered(tmp_path: Path) -> None:
+    """Test that mixed case (Titlecase) is NOT filtered when only uppercase is in the list."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("References to Wjec and Cpu.", encoding="utf-8")
+
+    # Create matches for Titlecase variants
+    wjec_match = DummyMatch()
+    wjec_match.matchedText = "Wjec"
+    
+    cpu_match = DummyMatch()
+    cpu_match.matchedText = "Cpu"
+
+    tool = DummyTool([wjec_match, cpu_match])
+    report_path = root / "report.md"
+    
+    # Only uppercase WJEC and CPU are in DEFAULT_IGNORED_WORDS
+    # Titlecase "Wjec" and "Cpu" should NOT be filtered
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    # Both issues should still be present (not filtered)
+    assert "Total issues found: 2" in report_text
+
+
+def test_case_sensitive_ignored_words_with_plural(tmp_path: Path) -> None:
+    """Test that plural forms with trailing 's' are handled correctly."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("Multiple NICs are needed.", encoding="utf-8")
+
+    # Create match for "NICs" (plural)
+    nics_match = DummyMatch()
+    nics_match.matchedText = "NICs"
+
+    tool = DummyTool([nics_match])
+    report_path = root / "report.md"
+    
+    # "NICs" is in DEFAULT_IGNORED_WORDS, so it should be filtered
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    assert "Total issues found: 0" in report_text
+
+
+def test_case_sensitive_ignored_words_singular_strips_s(tmp_path: Path) -> None:
+    """Test that singular acronym (NIC) is also filtered when plural (NICs) is in list."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("One NIC is sufficient.", encoding="utf-8")
+
+    # Create match for "NIC" (singular)
+    nic_match = DummyMatch()
+    nic_match.matchedText = "NIC"
+
+    tool = DummyTool([nic_match])
+    report_path = root / "report.md"
+    
+    # "NIC" is in DEFAULT_IGNORED_WORDS, so it should be filtered
+    # Also tests that the code checks both with and without trailing 's'
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    assert "Total issues found: 0" in report_text
+
+
+def test_case_sensitive_with_explicit_ignored_words(tmp_path: Path) -> None:
+    """Test that explicitly passed ignored_words merge with defaults (case-sensitive)."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("CustomWord and WJEC appear here.", encoding="utf-8")
+
+    # Create matches
+    custom_match = DummyMatch()
+    custom_match.matchedText = "CustomWord"
+    
+    wjec_match = DummyMatch()
+    wjec_match.matchedText = "WJEC"
+
+    tool = DummyTool([custom_match, wjec_match])
+    report_path = root / "report.md"
+    
+    # Pass "CustomWord" as an additional ignored word (case-sensitive)
+    # WJEC should be filtered from DEFAULT_IGNORED_WORDS
+    # CustomWord should be filtered from the explicit list
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+        ignored_words={"CustomWord"},
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    assert "Total issues found: 0" in report_text
+    
+    
+def test_case_sensitive_explicit_wrong_case_not_filtered(tmp_path: Path) -> None:
+    """Test that wrong case in explicit ignored_words doesn't filter the match."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("CustomWord appears here.", encoding="utf-8")
+
+    # Create match for "CustomWord" (mixed case)
+    custom_match = DummyMatch()
+    custom_match.matchedText = "CustomWord"
+
+    tool = DummyTool([custom_match])
+    report_path = root / "report.md"
+    
+    # Pass "customword" (all lowercase) - should NOT match "CustomWord"
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+        ignored_words={"customword"},  # Wrong case!
+    )
+
+    report_text = report_path.read_text(encoding="utf-8")
+    # Issue should still be present (not filtered due to case mismatch)
+    assert "Total issues found: 1" in report_text
+
 
 

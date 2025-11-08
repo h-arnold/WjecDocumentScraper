@@ -59,7 +59,7 @@ def build_language_tool(
 	Args:
 		language: Language code (e.g., "en-GB")
 		disabled_rules: Set of rule IDs to disable
-		ignored_words: Set of words to add to the spell-check whitelist (case-insensitive)
+		ignored_words: Set of words to add to the spell-check whitelist (case-sensitive)
 	"""
 	
 	# Merge with defaults
@@ -212,16 +212,16 @@ def check_document(
 		)
 		return DocumentReport(subject=subject, path=document_path, issues=[failure])
 
-	# Filter out issues for ignored words.
+	# Filter out issues for ignored words using case-sensitive matching.
 	# Behaviour:
 	# - If the token in the document appears to be an acronym (uppercase
 	#   letters, possibly with a trailing 's' for plural or punctuation), we
-	#   only ignore it when the lowercase form is in the ignore list. This
-	#   prevents ignoring Titlecase names like "Nic" while still ignoring
-	#   "NIC" and "NICs".
-	# - If the token appears entirely lowercase in the document, we ignore
-	#   it when its lowercase form is in the ignore list (preserves existing behaviour
-	#   for words like "ethernet").
+	#   only ignore it when the exact form (case-sensitive) is in the ignore list.
+	#   This prevents ignoring Titlecase names like "Nic" while still ignoring
+	#   "NIC" and "NICs" when those exact forms are in the list.
+	# - For non-acronym tokens, we ignore them only when the exact (case-sensitive)
+	#   form is in the ignore list. This preserves case-specific entries like
+	#   "Ethernet" while not suppressing "ethernet" unless explicitly listed.
 	filtered_matches = []
 	for match in matches:
 		if hasattr(match, "matchedText"):
@@ -536,7 +536,7 @@ def parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
 		"--ignore-word",
 		action="append",
 		dest="ignored_words",
-		help="Add a word to the spell-check ignore list (case-insensitive, can be specified multiple times). "
+		help="Add a word to the spell-check ignore list (case-sensitive, can be specified multiple times). "
 		     f"Default ignored words: {', '.join(sorted(DEFAULT_IGNORED_WORDS))}",
 	)
 	parser.add_argument(
