@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from dataclasses import dataclass, field
 
-from markitdown import MarkItDown, MarkItDownException
+from converters import PdfToMarkdownConverter, create_converter
 
 logger = logging.getLogger(__name__)
 
@@ -47,7 +47,9 @@ def copy_root_pdfs(subject_dir: Path, pdf_directory: Path) -> list[Path]:
     return copied
 
 
-def convert_pdf_to_markdown(converter: MarkItDown, pdf_path: Path, markdown_directory: Path) -> Path:
+def convert_pdf_to_markdown(
+    converter: PdfToMarkdownConverter, pdf_path: Path, markdown_directory: Path
+) -> Path:
     """Convert a PDF to Markdown and return the output path."""
     markdown_directory.mkdir(parents=True, exist_ok=True)
     result = converter.convert(pdf_path)
@@ -56,7 +58,7 @@ def convert_pdf_to_markdown(converter: MarkItDown, pdf_path: Path, markdown_dire
     return markdown_path
 
 
-def process_subject(subject_dir: Path) -> SubjectResult:
+def process_subject(subject_dir: Path, converter_type: str = "markitdown") -> SubjectResult:
     """Copy PDFs and render Markdown for a single subject directory."""
     pdf_directory = subject_dir / "pdfs"
     markdown_directory = subject_dir / "markdown"
@@ -66,21 +68,28 @@ def process_subject(subject_dir: Path) -> SubjectResult:
     copied_paths = copy_root_pdfs(subject_dir, pdf_directory)
     result.copied = len(copied_paths)
 
-    converter = MarkItDown()
-    for pdf_path in sorted(pdf_directory.glob("*.pdf")):
-        try:
-            convert_pdf_to_markdown(converter, pdf_path, markdown_directory)
-            result.converted += 1
-        except (MarkItDownException, OSError) as exc:
-            logger.warning("Failed to convert %s: %s", pdf_path, exc)
-            result.errors.append(f"{pdf_path.name}: {exc}")
-        except Exception as exc:  # pragma: no cover - defensive guard
-            logger.exception("Unexpected error converting %s", pdf_path)
-            result.errors.append(f"{pdf_path.name}: {exc}")
+    converter = create_converter(converter_type)
+    try:
+        for pdf_path in sorted(pdf_directory.glob("*.pdf")):
+            try:
+                convert_pdf_to_markdown(converter, pdf_path, markdown_directory)
+                result.converted += 1
+            except OSError as exc:
+                # File I/O errors
+                logger.warning("Failed to convert %s: %s", pdf_path, exc)
+                result.errors.append(f"{pdf_path.name}: {exc}")
+            except Exception as exc:
+                # Catch converter-specific exceptions (e.g., MarkItDownException)
+                # and any other unexpected errors
+                logger.warning("Failed to convert %s: %s", pdf_path, exc)
+                result.errors.append(f"{pdf_path.name}: {exc}")
+    finally:
+        converter.close()
+    
     return result
 
 
-def run(root: Path, max_workers: int | None = None) -> list[SubjectResult]:
+def run(root: Path, max_workers: int | None = None, converter_type: str = "markitdown") -> list[SubjectResult]:
     """Process each subject directory and return per-subject results."""
     subject_dirs = find_subject_directories(root)
     if not subject_dirs:
@@ -94,7 +103,7 @@ def run(root: Path, max_workers: int | None = None) -> list[SubjectResult]:
         futures = {}
         for subject_dir in subject_dirs:
             print(f"Starting post-processing for {subject_dir.name}...")
-            futures[executor.submit(process_subject, subject_dir)] = subject_dir
+            futures[executor.submit(process_subject, subject_dir, converter_type)] = subject_dir
         for future in as_completed(futures):
             subject_dir = futures[future]
             try:
@@ -133,6 +142,12 @@ def build_parser() -> argparse.ArgumentParser:
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
         help="Logging verbosity (default: INFO).",
     )
+    parser.add_argument(
+        "--converter",
+        default="markitdown",
+        choices=["markitdown", "marker"],
+        help="Converter to use for PDF to Markdown conversion (default: markitdown).",
+    )
     return parser
 
 
@@ -145,7 +160,7 @@ def main() -> int:
 
     logging.basicConfig(level=getattr(logging, args.log_level))
 
-    results = run(args.root, args.max_workers)
+    results = run(args.root, args.max_workers, args.converter)
 
     if not results:
         print(f"No subject folders found in {args.root.resolve()}")

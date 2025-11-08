@@ -53,6 +53,12 @@ def build_parser() -> argparse.ArgumentParser:
         default=None,
         help="Maximum number of subject folders to post-process concurrently.",
     )
+    parser.add_argument(
+        "--converter",
+        default="markitdown",
+        choices=["markitdown", "marker"],
+        help="Converter to use for PDF to Markdown conversion during post-processing (default: markitdown).",
+    )
     return parser
 
 
@@ -72,9 +78,9 @@ def resolve_subjects(subject_args: list[str] | None) -> tuple[dict[str, str], se
     return selected, missing
 
 
-def perform_post_processing(output_root: Path, max_workers: int | None) -> int:
+def perform_post_processing(output_root: Path, max_workers: int | None, converter_type: str = "markitdown") -> int:
     """Invoke the post-processing pipeline and print a concise summary."""
-    results = run_postprocess(output_root, max_workers)
+    results = run_postprocess(output_root, max_workers, converter_type)
     if not results:
         print(f"No subject folders found in {output_root.resolve()}")
         return 1
@@ -122,7 +128,7 @@ def run_cli(args: argparse.Namespace) -> int:
 
     if post_process_only:
         print("Running post-processing without downloading new files...\n")
-        return perform_post_processing(output_root, args.post_process_workers)
+        return perform_post_processing(output_root, args.post_process_workers, args.converter)
 
     selected_subjects, missing = resolve_subjects(args.subjects)
     if missing:
@@ -176,7 +182,7 @@ def run_cli(args: argparse.Namespace) -> int:
     exit_code = 0
     if should_post_process:
         print("\nRunning post-processing...\n")
-        exit_code = max(exit_code, perform_post_processing(output_root, args.post_process_workers))
+        exit_code = max(exit_code, perform_post_processing(output_root, args.post_process_workers, args.converter))
 
     return exit_code
 

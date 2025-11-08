@@ -58,13 +58,18 @@ Once PDFs have been downloaded, the optional organiser lives in `postprocess_doc
      - Copies any PDFs in the subject root into the dedicated `pdfs/` subdirectory, removing originals after a successful copy.
 
 3. Markdown conversion
-   - `convert_pdf_to_markdown(converter: MarkItDown, pdf_path: Path, markdown_directory: Path) -> Path`
-     - Uses [MarkItDown](https://pypi.org/project/markitdown/) to create a Markdown rendition for each PDF inside `markdown/`.
+   - The conversion system uses a pluggable architecture defined in `converters.py`:
+     - `PdfToMarkdownConverter` - Abstract base class for all converters
+     - `MarkItDownConverter` - Uses [MarkItDown](https://pypi.org/project/markitdown/) (default)
+     - `MarkerConverter` - Uses [marker](https://github.com/datalab-to/marker) for advanced OCR and layout detection
+     - `create_converter(converter_type: str) -> PdfToMarkdownConverter` - Factory function to create converters
+   - `convert_pdf_to_markdown(converter: PdfToMarkdownConverter, pdf_path: Path, markdown_directory: Path) -> Path`
+     - Uses the provided converter to create a Markdown rendition for each PDF inside `markdown/`.
 
 4. Orchestration
-   - `process_subject(subject_dir: Path) -> SubjectResult`
-     - Copies PDFs, then converts each to Markdown, accumulating counts and per-file errors.
-   - `run(root: Path, max_workers: int | None = None) -> list[SubjectResult]`
+   - `process_subject(subject_dir: Path, converter_type: str = "markitdown") -> SubjectResult`
+     - Copies PDFs, then converts each to Markdown using the specified converter, accumulating counts and per-file errors.
+   - `run(root: Path, max_workers: int | None = None, converter_type: str = "markitdown") -> list[SubjectResult]`
      - Executes each subject in a `ThreadPoolExecutor`, respecting the optional worker limit and emitting simple progress prints.
    - CLI integration happens in `main.py` via `perform_post_processing(...)`, which prints aggregate totals and maps exit codes to success (0), “no directories” (1), or error (2).
 
@@ -72,8 +77,9 @@ Once PDFs have been downloaded, the optional organiser lives in `postprocess_doc
 
 - Each subject directory contains `pdfs/` and `markdown/` subdirectories after processing; the root directory remains untouched aside from removing PDFs that were relocated.
 - Markdown files mirror the PDF stem (`name.md`), preserving hyphenated filenames produced during download.
-- Concurrency is opt-in; when using multiple workers, per-subject work must remain independent so that shared resources (e.g., MarkItDown instances) are not reused across threads.
+- Concurrency is opt-in; when using multiple workers, per-subject work must remain independent so that converter instances are created per subject to avoid thread-safety issues.
 - Failures in conversion are logged and recorded, but other files continue processing; exit code aggregates whether any subject produced errors.
+- Converters must implement the `PdfToMarkdownConverter` interface with `convert(pdf_path: Path) -> ConversionResult` and `close() -> None` methods.
 
 ## Public API (contracts)
 
