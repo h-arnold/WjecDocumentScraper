@@ -24,6 +24,9 @@ DEFAULT_DISABLED_RULES = {
 	"WHITESPACE_RULE",
 	"CONSECUTIVE_SPACES",
 	"SENTENCE_WHITESPACE",
+    "OXFORD_SPELLING_Z_NOT_S",
+    "UPPERCASE_SENTENCE_START",
+    "HYPHEN_TO_EN"
 }
 
 # Default words to ignore (case-insensitive, can be extended via command-line)
@@ -153,7 +156,7 @@ def _make_issue(match: object, filename: str) -> LanguageIssue:
 	issue_type = getattr(match, "ruleIssueType", "unknown") or "unknown"
 	replacements = list(getattr(match, "replacements", []) or [])
 	context = getattr(match, "context", "")
-	context_offset = int(getattr(match, "contextoffset", 0))
+	context_offset = int(getattr(match, "offsetInContext", 0))
 	error_length = int(getattr(match, "errorLength", 0))
 	highlighted_context = _highlight_context(context, context_offset, error_length)
 	return LanguageIssue(
@@ -307,15 +310,15 @@ def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
 
 		lines.append(f"Found {len(report.issues)} issue(s).")
 		lines.append("")
-		lines.append("| Line | Column | Rule | Type | Message | Suggestions | Context |")
-		lines.append("| --- | --- | --- | --- | --- | --- | --- |")
+		lines.append("| Filename | Line | Column | Rule | Type | Message | Suggestions | Context |")
+		lines.append("| --- | --- | --- | --- | --- | --- | --- | --- |")
 		for issue in report.issues:
 			message = issue.message.replace("|", "\\|")
 			suggestions = ", ".join(issue.replacements) if issue.replacements else "—"
 			suggestions = suggestions.replace("|", "\\|")
 			context = issue.highlighted_context.replace("|", "\\|") if issue.highlighted_context else "—"
 			lines.append(
-				f"| {issue.line} | {issue.column} | `{issue.rule_id}` | {issue.issue_type} | {message} | {suggestions} | {context} |"
+				f"| {issue.filename} | {issue.line} | {issue.column} | `{issue.rule_id}` | {issue.issue_type} | {message} | {suggestions} | {context} |"
 			)
 
 	return "\n".join(lines)
@@ -323,7 +326,7 @@ def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
 
 def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
 	"""Convert the collected document reports into CSV data.
-	
+
 	Returns a list of rows, where each row is a list of string values.
 	The first row contains the column headers.
 	"""
@@ -345,7 +348,7 @@ def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
 	
 	# Sort reports by subject and filename
 	report_list = sorted(
-		reports, 
+		reports,
 		key=lambda item: (item.subject.lower(), item.path.name.lower())
 	)
 	
@@ -353,7 +356,7 @@ def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
 	for report in report_list:
 		for issue in report.issues:
 			suggestions = ", ".join(issue.replacements) if issue.replacements else ""
-			context = issue.context if issue.context else ""
+			context = issue.highlighted_context if issue.highlighted_context else ""
 			
 			rows.append([
 				report.subject,
