@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Iterable
 from urllib.parse import urlparse
 
+from language_check import run_language_checks
 from postprocess_documents import run as run_postprocess
 from wjec_scraper import QUALIFICATION_URLS, download_subject_pdfs, iter_subject_pdf_links
 
@@ -52,6 +53,28 @@ def build_parser() -> argparse.ArgumentParser:
         type=int,
         default=None,
         help="Maximum number of subject folders to post-process concurrently.",
+    )
+    parser.add_argument(
+        "--check-language",
+        action="store_true",
+        help="Run spelling and grammar checks on generated Markdown documents.",
+    )
+    parser.add_argument(
+        "--check-language-only",
+        action="store_true",
+        help="Skip downloading and post-processing; only run the language checks.",
+    )
+    parser.add_argument(
+        "--language-workers",
+        type=int,
+        default=None,
+        help="Maximum number of Markdown documents to check concurrently.",
+    )
+    parser.add_argument(
+        "--language-report",
+        type=Path,
+        default=None,
+        help="Output path for the language check report (default: <output>/language-report.md).",
     )
     return parser
 
@@ -100,6 +123,39 @@ def perform_post_processing(output_root: Path, max_workers: int | None) -> int:
     return 0
 
 
+def perform_language_checks(
+    output_root: Path,
+    report_path: Path | None,
+    max_workers: int | None,
+) -> int:
+    """Run language checks and print a concise summary."""
+    if report_path is not None and not report_path.is_absolute():
+        report_path = output_root / report_path
+
+    results = run_language_checks(output_root, report_path, max_workers)
+    report_target = results.report_path.resolve()
+
+    if not results.subjects:
+        print(f"No Markdown documents found under {output_root.resolve()}.")
+        print(f"Report written to {report_target}")
+        return 0
+
+    for subject in results.subjects:
+        print(
+            f"{subject.subject_dir.name}: checked {subject.total_documents()} Markdown file(s); "
+            f"{subject.total_grammar()} grammar issue(s), {subject.total_spelling()} spelling issue(s)"
+        )
+
+    print(
+        f"\nLanguage checks complete. Examined {results.total_documents()} document(s)."
+        f" Grammar issues: {results.total_grammar()}, spelling issues: {results.total_spelling()}."
+    )
+    if results.total_issues() == 0:
+        print("No spelling or grammar issues were detected.")
+    print(f"Report written to {report_target}")
+    return 0
+
+
 def run_cli(args: argparse.Namespace) -> int:
     if args.list_subjects:
         print("Available subjects:")
@@ -110,19 +166,44 @@ def run_cli(args: argparse.Namespace) -> int:
     if args.post_process_workers is not None and args.post_process_workers < 1:
         print("--post-process-workers must be at least 1")
         return 1
+    if args.language_workers is not None and args.language_workers < 1:
+        print("--language-workers must be at least 1")
+        return 1
 
     post_process_only = args.post_process_only
     should_post_process = args.post_process or post_process_only
+    check_language_only = args.check_language_only
+    should_check_language = args.check_language or check_language_only
 
     if post_process_only and args.dry_run:
         print("--dry-run cannot be combined with --post-process-only")
         return 1
+    if check_language_only and args.dry_run:
+        print("--dry-run cannot be combined with --check-language-only")
+        return 1
+    if check_language_only and args.post_process:
+        print("--check-language-only cannot be combined with --post-process")
+        return 1
+    if check_language_only and args.post_process_only:
+        print("--check-language-only cannot be combined with --post-process-only")
+        return 1
 
     output_root = Path(args.output)
 
+    if check_language_only:
+        print("Running language checks without downloading or post-processing...\n")
+        return perform_language_checks(output_root, args.language_report, args.language_workers)
+
     if post_process_only:
         print("Running post-processing without downloading new files...\n")
-        return perform_post_processing(output_root, args.post_process_workers)
+        exit_code = perform_post_processing(output_root, args.post_process_workers)
+        if should_check_language:
+            print("\nRunning language checks...\n")
+            exit_code = max(
+                exit_code,
+                perform_language_checks(output_root, args.language_report, args.language_workers),
+            )
+        return exit_code
 
     selected_subjects, missing = resolve_subjects(args.subjects)
     if missing:
@@ -169,6 +250,8 @@ def run_cli(args: argparse.Namespace) -> int:
         print(f"\nDry run complete. {total_downloaded} PDF(s) would be downloaded.")
         if should_post_process:
             print("Post-processing is skipped during a dry run.")
+        if should_check_language:
+            print("Language checks are skipped during a dry run.")
         return 0
 
     print(f"\nFinished. Downloaded {total_downloaded} PDF(s) into {output_root.resolve()}")
@@ -177,6 +260,12 @@ def run_cli(args: argparse.Namespace) -> int:
     if should_post_process:
         print("\nRunning post-processing...\n")
         exit_code = max(exit_code, perform_post_processing(output_root, args.post_process_workers))
+    if should_check_language:
+        print("\nRunning language checks...\n")
+        exit_code = max(
+            exit_code,
+            perform_language_checks(output_root, args.language_report, args.language_workers),
+        )
 
     return exit_code
 
