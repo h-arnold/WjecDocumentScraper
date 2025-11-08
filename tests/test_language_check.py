@@ -22,6 +22,7 @@ class DummyMatch:
         self.replacements = ["This"]
         self.context = "Thiss is a test"
         self.contextoffset = 0
+        self.offsetInContext = 0
         self.errorLength = 4
 
 
@@ -220,9 +221,16 @@ def test_case_sensitive_ignored_words_lowercase_not_filtered(tmp_path: Path) -> 
     # Create matches for lowercase variants
     wjec_match = DummyMatch()
     wjec_match.matchedText = "wjec"
+    wjec_context = "This mentions wjec and cpu in lowercase."
+    wjec_match.context = wjec_context
+    wjec_match.offsetInContext = wjec_context.index("wjec")
+    wjec_match.errorLength = len("wjec")
     
     cpu_match = DummyMatch()
     cpu_match.matchedText = "cpu"
+    cpu_match.context = wjec_context
+    cpu_match.offsetInContext = wjec_context.index("cpu")
+    cpu_match.errorLength = len("cpu")
 
     tool = DummyTool([wjec_match, cpu_match])
     report_path = root / "report.md"
