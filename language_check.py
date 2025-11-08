@@ -1,344 +1,351 @@
-"""Asynchronous spelling and grammar checks for post-processed Markdown documents."""
+"""Language quality checks for downloaded Markdown documents.
+
+This module scans the generated subject folders, runs spelling and grammar
+checks using a British English dictionary, and writes a Markdown report that
+summarises the findings per subject and per document.
+"""
 
 from __future__ import annotations
 
+import argparse
 import logging
-import re
-import threading
-from collections import defaultdict
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from dataclasses import dataclass, field
-from datetime import datetime
+from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable
+from typing import Iterable, Optional
 
-from language_tool_python import LanguageTool
-from spellchecker import SpellChecker
+import language_tool_python
 
-logger = logging.getLogger(__name__)
 
-_WORD_PATTERN = re.compile(r"[A-Za-z][A-Za-z'\-]*")
-_CONTEXT_RADIUS = 40
+LOGGER = logging.getLogger(__name__)
 
 
 @dataclass
-class GrammarIssue:
-    line: int
-    column: int
-    message: str
-    rule_id: str
-    replacements: list[str]
-    context: str
+class LanguageIssue:
+	"""Represents a single language issue detected in a document."""
+
+	line: int
+	column: int
+	rule_id: str
+	message: str
+	issue_type: str
+	replacements: list[str]
+	context: str
+	highlighted_context: str
 
 
 @dataclass
-class SpellingIssue:
-    line: int
-    column: int
-    word: str
-    suggestions: list[str]
-    context: str
+class DocumentReport:
+	"""Compilation of issues for a specific document."""
+
+	subject: str
+	path: Path
+	issues: list[LanguageIssue]
 
 
-@dataclass
-class DocumentIssues:
-    path: Path
-    grammar_issues: list[GrammarIssue] = field(default_factory=list)
-    spelling_issues: list[SpellingIssue] = field(default_factory=list)
-    errors: list[str] = field(default_factory=list)
+def build_language_tool(language: str) -> language_tool_python.LanguageTool | language_tool_python.LanguageToolPublicAPI:
+	"""Instantiate a LanguageTool checker for the requested language.
 
-    def total_issues(self) -> int:
-        return len(self.grammar_issues) + len(self.spelling_issues)
+	Falls back to the public API when the local Java runtime is unavailable.
+	"""
 
-
-@dataclass
-class SubjectIssues:
-    subject_dir: Path
-    documents: list[DocumentIssues] = field(default_factory=list)
-
-    def total_documents(self) -> int:
-        return len(self.documents)
-
-    def total_grammar(self) -> int:
-        return sum(len(doc.grammar_issues) for doc in self.documents)
-
-    def total_spelling(self) -> int:
-        return sum(len(doc.spelling_issues) for doc in self.documents)
-
-    def total_issues(self) -> int:
-        return sum(doc.total_issues() for doc in self.documents)
+	try:
+		return language_tool_python.LanguageTool(language)
+	except language_tool_python.JavaError:
+		LOGGER.warning("Falling back to LanguageTool public API for %s", language)
+		return language_tool_python.LanguageToolPublicAPI(language)
 
 
-@dataclass
-class LanguageCheckResults:
-    subjects: list[SubjectIssues]
-    report_path: Path
+def iter_markdown_documents(root: Path, *, subject_path: Path | None = None) -> list[tuple[str, Path]]:
+	"""Return a sorted list of (subject, document path) pairs under ``root``."""
 
-    def total_documents(self) -> int:
-        return sum(subject.total_documents() for subject in self.subjects)
+	documents: list[tuple[str, Path]] = []
+	if not root.exists():
+		return documents
 
-    def total_issues(self) -> int:
-        return sum(subject.total_issues() for subject in self.subjects)
+	if subject_path is not None:
+		subject_dirs: Iterable[Path] = (subject_path,)
+	else:
+		subject_dirs = (item for item in root.iterdir() if item.is_dir())
 
-    def total_grammar(self) -> int:
-        return sum(subject.total_grammar() for subject in self.subjects)
-
-    def total_spelling(self) -> int:
-        return sum(subject.total_spelling() for subject in self.subjects)
-
-
-class _WorkerResources:
-    """Thread-local pool for expensive checker instances."""
-
-    def __init__(self, language: str) -> None:
-        self.language = language
-        self._local = threading.local()
-
-    def language_tool(self) -> LanguageTool:
-        if not hasattr(self._local, "tool"):
-            self._local.tool = LanguageTool(self.language)
-        return self._local.tool
-
-    def spell_checker(self) -> SpellChecker:
-        if not hasattr(self._local, "spell"):
-            self._local.spell = SpellChecker()
-        return self._local.spell
+	for subject_dir in sorted(subject_dirs, key=lambda path: path.name.lower()):
+		if not subject_dir.is_dir():
+			continue
+		markdown_dir = subject_dir / "markdown"
+		if not markdown_dir.is_dir():
+			continue
+		for document_path in sorted(markdown_dir.glob("*.md")):
+			documents.append((subject_dir.name, document_path))
+	return documents
 
 
-def _offset_to_position(text: str, offset: int) -> tuple[int, int]:
-    """Return a 1-based (line, column) tuple for the character offset."""
-    line = text.count("\n", 0, offset) + 1
-    last_newline = text.rfind("\n", 0, offset)
-    if last_newline == -1:
-        column = offset + 1
-    else:
-        column = offset - last_newline
-    return line, column
+def _highlight_context(context: str, context_offset: int, error_length: int) -> str:
+	if not context:
+		return ""
+	start = max(0, min(len(context), context_offset))
+	end = max(start, min(len(context), start + max(error_length, 1)))
+	return f"{context[:start]}**{context[start:end]}**{context[end:]}"
 
 
-def _context_snippet(text: str, offset: int, length: int) -> str:
-    start = max(0, offset - _CONTEXT_RADIUS)
-    end = min(len(text), offset + length + _CONTEXT_RADIUS)
-    snippet = text[start:end]
-    return snippet.replace("\n", " ")
+def _make_issue(match: object) -> LanguageIssue:
+	line = int(getattr(match, "line", 0)) + 1
+	column = int(getattr(match, "column", 0)) + 1
+	rule_id = getattr(match, "ruleId", "UNKNOWN") or "UNKNOWN"
+	message = str(getattr(match, "message", "")).strip()
+	issue_type = getattr(match, "ruleIssueType", "unknown") or "unknown"
+	replacements = list(getattr(match, "replacements", []) or [])
+	context = getattr(match, "context", "")
+	context_offset = int(getattr(match, "contextoffset", 0))
+	error_length = int(getattr(match, "errorLength", 0))
+	highlighted_context = _highlight_context(context, context_offset, error_length)
+	return LanguageIssue(
+		line=line,
+		column=column,
+		rule_id=rule_id,
+		message=message,
+		issue_type=issue_type,
+		replacements=replacements,
+		context=context,
+		highlighted_context=highlighted_context,
+	)
 
 
-def _check_document(path: Path, resources: _WorkerResources) -> DocumentIssues:
-    issues = DocumentIssues(path=path)
-    try:
-        text = path.read_text(encoding="utf-8")
-    except OSError as exc:
-        issues.errors.append(f"Failed to read file: {exc}")
-        return issues
+def check_document(document_path: Path, subject: str, tool: object) -> DocumentReport:
+	"""Run language checks on a single Markdown document."""
 
-    tool = resources.language_tool()
-    spell = resources.spell_checker()
+	text = document_path.read_text(encoding="utf-8")
+	try:
+		matches = tool.check(text)
+	except Exception as exc:  # LanguageTool can raise generic RuntimeError/IOError
+		LOGGER.exception("Language check failed for %s", document_path)
+		failure = LanguageIssue(
+			line=1,
+			column=1,
+			rule_id="CHECK_FAILURE",
+			message=f"Language check failed: {exc}",
+			issue_type="error",
+			replacements=[],
+			context="",
+			highlighted_context="",
+		)
+		return DocumentReport(subject=subject, path=document_path, issues=[failure])
 
-    try:
-        matches = tool.check(text)
-    except Exception as exc:  # pragma: no cover - defensive guard
-        logger.exception("Grammar check failed for %s", path)
-        issues.errors.append(f"Grammar check failed: {exc}")
-        matches = []
-
-    for match in matches:
-        offset = match.offset
-        length = match.errorLength or len(match.context)
-        line, column = _offset_to_position(text, offset)
-        replacements = [replacement for replacement in match.replacements][:5]
-        issues.grammar_issues.append(
-            GrammarIssue(
-                line=line,
-                column=column,
-                message=match.message,
-                rule_id=match.ruleId,
-                replacements=replacements,
-                context=_context_snippet(text, offset, length),
-            )
-        )
-
-    words = list(_WORD_PATTERN.finditer(text))
-    unknown = spell.unknown(word.group().lower() for word in words)
-
-    for match in words:
-        word = match.group()
-        lower_word = word.lower()
-        if any(char.isdigit() for char in word):
-            continue
-        if "-" in word or "'" in word:
-            continue
-        if word.isupper():
-            continue
-        if lower_word not in unknown:
-            continue
-        offset = match.start()
-        line, column = _offset_to_position(text, offset)
-        candidates = [candidate for candidate in spell.candidates(lower_word) if candidate != lower_word]
-        suggestions = sorted(candidates)[:5]
-        issues.spelling_issues.append(
-            SpellingIssue(
-                line=line,
-                column=column,
-                word=word,
-                suggestions=suggestions,
-                context=_context_snippet(text, offset, len(word)),
-            )
-        )
-
-    return issues
+	issues = [_make_issue(match) for match in matches]
+	return DocumentReport(subject=subject, path=document_path, issues=issues)
 
 
-def _find_markdown_files(subject_dir: Path) -> Iterable[Path]:
-    markdown_dir = subject_dir / "markdown"
-    if not markdown_dir.is_dir():
-        return []
-    return sorted(markdown_dir.glob("*.md"))
+def derive_subject_from_path(document_path: Path) -> str:
+	"""Infer the subject directory name from a Markdown document path."""
+
+	if document_path.parent.name == "markdown" and document_path.parent.parent.name:
+		return document_path.parent.parent.name
+	return document_path.parent.name
 
 
-def _collect_subject_directories(root: Path) -> list[Path]:
-    if not root.is_dir():
-        return []
-    return sorted(path for path in root.iterdir() if path.is_dir())
+def check_single_document(
+	document_path: Path,
+	*,
+	subject: Optional[str] = None,
+	language: str = "en-GB",
+	tool: object | None = None,
+) -> DocumentReport:
+	"""Convenience wrapper that runs checks for a single document."""
+
+	resolved_subject = subject or derive_subject_from_path(document_path)
+	created_tool = tool is None
+	tool_instance = tool or build_language_tool(language)
+	try:
+		return check_document(document_path, resolved_subject, tool_instance)
+	finally:
+		if created_tool and hasattr(tool_instance, "close"):
+			tool_instance.close()
 
 
-def _build_report_contents(results: LanguageCheckResults) -> str:
-    lines: list[str] = []
-    lines.append("# Language Quality Report")
-    lines.append("")
-    lines.append(f"Generated on {datetime.now().isoformat(timespec='seconds')}")
-    lines.append("")
+def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
+	"""Convert the collected document reports into Markdown output."""
 
-    if not results.subjects:
-        lines.append("No subject directories were found.")
-        return "\n".join(lines)
+	report_list = list(reports)
+	total_documents = len(report_list)
+	total_issues = sum(len(report.issues) for report in report_list)
 
-    overall_docs = results.total_documents()
-    lines.append(
-        f"Checked {overall_docs} Markdown document(s) across {len(results.subjects)} subject(s)."
-    )
-    lines.append(
-        f"Detected {results.total_grammar()} grammar issue(s) and {results.total_spelling()} spelling issue(s)."
-    )
-    lines.append("")
+	subject_totals: dict[str, int] = {}
+	subject_documents: dict[str, int] = {}
+	for report in report_list:
+		subject_totals[report.subject] = subject_totals.get(report.subject, 0) + len(report.issues)
+		subject_documents[report.subject] = subject_documents.get(report.subject, 0) + 1
 
-    for subject in results.subjects:
-        lines.append(f"## {subject.subject_dir.name}")
-        lines.append("")
-        if not subject.documents:
-            lines.append("No Markdown documents found.")
-            lines.append("")
-            continue
-        lines.append(
-            f"Checked {subject.total_documents()} file(s); found {subject.total_grammar()} grammar issue(s) and {subject.total_spelling()} spelling issue(s)."
-        )
-        lines.append("")
-        for document in subject.documents:
-            relative_path = document.path.relative_to(subject.subject_dir)
-            lines.append(f"### {relative_path}")
-            lines.append("")
-            if document.errors:
-                lines.append("- Errors:")
-                for error in document.errors:
-                    lines.append(f"  - {error}")
-                lines.append("")
-                continue
-            if document.total_issues() == 0:
-                lines.append("No issues found.")
-                lines.append("")
-                continue
-            if document.grammar_issues:
-                lines.append(
-                    f"Grammar issues ({len(document.grammar_issues)}):"
-                )
-                for issue in document.grammar_issues:
-                    replacements = (
-                        f" Suggestions: {', '.join(issue.replacements)}."
-                        if issue.replacements
-                        else ""
-                    )
-                    lines.append(
-                        f"- Line {issue.line}, column {issue.column} [{issue.rule_id}]: {issue.message}.{replacements}"
-                    )
-                    lines.append(f"  Context: {issue.context}")
-                lines.append("")
-            if document.spelling_issues:
-                lines.append(
-                    f"Spelling issues ({len(document.spelling_issues)}):"
-                )
-                for issue in document.spelling_issues:
-                    replacements = (
-                        f" Suggestions: {', '.join(issue.suggestions)}."
-                        if issue.suggestions
-                        else ""
-                    )
-                    lines.append(
-                        f"- Line {issue.line}, column {issue.column}: '{issue.word}'.{replacements}"
-                    )
-                    lines.append(f"  Context: {issue.context}")
-                lines.append("")
-        lines.append("")
-    return "\n".join(lines).rstrip() + "\n"
+	lines: list[str] = []
+	lines.append("# Language Check Report")
+	lines.append("")
+	lines.append(f"- Checked {total_documents} document(s)")
+	lines.append(f"- Total issues found: {total_issues}")
+
+	lines.append("")
+	lines.append("## Totals by Subject")
+	if subject_totals:
+		running_total = 0
+		for subject in sorted(subject_totals):
+			running_total += subject_totals[subject]
+			doc_count = subject_documents[subject]
+			lines.append(
+				f"- {subject}: {subject_totals[subject]} issue(s) across {doc_count} document(s) "
+				f"(running total: {running_total})"
+			)
+	else:
+		lines.append("- No subject folders found.")
+
+	lines.append("")
+	lines.append("---")
+	lines.append("")
+	lines.append("## Document Details")
+	if not report_list:
+		lines.append("")
+		lines.append("_No documents found for checking._")
+		return "\n".join(lines)
+
+	for report in sorted(report_list, key=lambda item: (item.subject.lower(), item.path.name.lower())):
+		lines.append("")
+		lines.append(f"### {report.subject} / {report.path.name}")
+		lines.append("")
+		if not report.issues:
+			lines.append("_No issues found._")
+			continue
+
+		lines.append(f"Found {len(report.issues)} issue(s).")
+		lines.append("")
+		lines.append("| Line | Column | Rule | Type | Message | Suggestions | Context |")
+		lines.append("| --- | --- | --- | --- | --- | --- | --- |")
+		for issue in report.issues:
+			message = issue.message.replace("|", "\\|")
+			suggestions = ", ".join(issue.replacements) if issue.replacements else "—"
+			suggestions = suggestions.replace("|", "\\|")
+			context = issue.highlighted_context.replace("|", "\\|") if issue.highlighted_context else "—"
+			lines.append(
+				f"| {issue.line} | {issue.column} | `{issue.rule_id}` | {issue.issue_type} | {message} | {suggestions} | {context} |"
+			)
+
+	return "\n".join(lines)
 
 
 def run_language_checks(
-    root: Path,
-    report_path: Path | None = None,
-    max_workers: int | None = None,
-    language: str = "en-GB",
-) -> LanguageCheckResults:
-    """Check all Markdown files under the Documents root and write a Markdown report."""
-    subject_dirs = _collect_subject_directories(root)
-    if report_path is None:
-        report_path = root / "language-report.md"
+	root: Path,
+	*,
+	report_path: Optional[Path] = None,
+	language: str = "en-GB",
+	subject: Path | str | None = None,
+	document: Path | None = None,
+	tool: object | None = None,
+) -> Path:
+	"""Run language checks across all Markdown documents and write a report."""
 
-    executor_kwargs = {"max_workers": max_workers} if max_workers else {}
-    resources = _WorkerResources(language)
-    subject_map: dict[Path, list[DocumentIssues]] = defaultdict(list)
+	if document is not None:
+		document_path = document if document.is_absolute() else (root / document)
+		document_path = document_path.resolve()
+		if not document_path.is_file():
+			raise FileNotFoundError(f"Document not found: {document_path}")
+		resolved_subject = subject or derive_subject_from_path(document_path)
+		if isinstance(resolved_subject, Path):
+			subject_name = resolved_subject.name
+		else:
+			subject_name = str(resolved_subject)
+		documents: list[tuple[str, Path]] = [(subject_name, document_path)]
+	else:
+		subject_path: Path | None = None
+		if subject is not None:
+			subject_path = subject if isinstance(subject, Path) else Path(subject)
+			if not subject_path.is_absolute():
+				subject_path = (root / subject_path).resolve()
+			if not subject_path.is_dir():
+				raise FileNotFoundError(f"Subject folder not found: {subject_path}")
+		documents = iter_markdown_documents(root, subject_path=subject_path)
 
-    markdown_paths = [
-        (subject_dir, markdown_path)
-        for subject_dir in subject_dirs
-        for markdown_path in _find_markdown_files(subject_dir)
-    ]
+	if subject is not None and document is not None:
+		subject_path = subject if isinstance(subject, Path) else Path(subject)
+		if not subject_path.is_absolute():
+			subject_path = (root / subject_path).resolve()
+		if subject_path not in document_path.parents:
+			LOGGER.warning("Document %s is not inside subject folder %s", document_path, subject_path)
 
-    if not markdown_paths:
-        logger.info("No Markdown documents found under %s", root)
-        results = LanguageCheckResults(subjects=[], report_path=report_path)
-        report_path.parent.mkdir(parents=True, exist_ok=True)
-        report_path.write_text(_build_report_contents(results), encoding="utf-8")
-        return results
+	created_tool = tool is None
+	tool_instance = tool or build_language_tool(language)
+	try:
+		reports: list[DocumentReport] = []
+		running_total = 0
+		for subject_name, document_path in documents:
+			LOGGER.info("Checking %s / %s", subject_name, document_path.name)
+			report = check_document(document_path, subject_name, tool_instance)
+			running_total += len(report.issues)
+			LOGGER.info(
+				"Completed %s / %s: %d issue(s) (running total: %d)",
+				subject_name,
+				document_path.name,
+				len(report.issues),
+				running_total,
+			)
+			reports.append(report)
+	finally:
+		if created_tool and hasattr(tool_instance, "close"):
+			tool_instance.close()
 
-    with ThreadPoolExecutor(**executor_kwargs) as executor:
-        futures = {
-            executor.submit(_check_document, markdown_path, resources): (subject_dir, markdown_path)
-            for subject_dir, markdown_path in markdown_paths
-        }
-        for future in as_completed(futures):
-            subject_dir, markdown_path = futures[future]
-            try:
-                document_issues = future.result()
-            except Exception as exc:  # pragma: no cover - defensive guard
-                logger.exception("Language check failed for %s", markdown_path)
-                document_issues = DocumentIssues(path=markdown_path)
-                document_issues.errors.append(str(exc))
-            subject_map[subject_dir].append(document_issues)
+	if report_path is None:
+		report_path = root / "language-check-report.md"
 
-    subjects = [
-        SubjectIssues(subject_dir=subject, documents=sorted(docs, key=lambda item: item.path.name))
-        for subject, docs in sorted(subject_map.items(), key=lambda item: item[0].name.lower())
-    ]
-
-    results = LanguageCheckResults(subjects=subjects, report_path=report_path)
-    report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(_build_report_contents(results), encoding="utf-8")
-    return results
+	report_markdown = build_report_markdown(reports)
+	report_path.parent.mkdir(parents=True, exist_ok=True)
+	report_path.write_text(report_markdown, encoding="utf-8")
+	return report_path
 
 
-__all__ = [
-    "GrammarIssue",
-    "SpellingIssue",
-    "DocumentIssues",
-    "SubjectIssues",
-    "LanguageCheckResults",
-    "run_language_checks",
-]
+def parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
+	parser = argparse.ArgumentParser(description="Run British English language checks on Markdown documents.")
+	parser.add_argument(
+		"--root",
+		type=Path,
+		default=Path("Documents"),
+		help="Root directory containing subject folders (default: Documents)",
+	)
+	parser.add_argument(
+		"--report",
+		type=Path,
+		default=None,
+		help="Path to write the Markdown report (default: <root>/language-check-report.md)",
+	)
+	parser.add_argument(
+		"--language",
+		default="en-GB",
+		help="Language code to use for LanguageTool (default: en-GB)",
+	)
+	parser.add_argument(
+		"--subject",
+		type=Path,
+		default=None,
+		help="Subject folder to check (relative to root unless absolute).",
+	)
+	parser.add_argument(
+		"--document",
+		type=Path,
+		default=None,
+		help="Single Markdown document to check (relative to root unless absolute).",
+	)
+	return parser.parse_args(list(argv) if argv is not None else None)
+
+
+def main(argv: Optional[Iterable[str]] = None) -> int:
+	logging.basicConfig(level=logging.INFO)
+	args = parse_args(argv)
+	try:
+		report_path = run_language_checks(
+			args.root,
+			report_path=args.report,
+			language=args.language,
+			subject=args.subject,
+			document=args.document,
+		)
+	except FileNotFoundError as exc:
+		LOGGER.error("%s", exc)
+		return 1
+	print(f"Language check report written to {report_path.resolve()}")
+	return 0
+
+
+if __name__ == "__main__":
+	raise SystemExit(main())
