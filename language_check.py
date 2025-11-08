@@ -8,6 +8,7 @@ summarises the findings per subject and per document.
 from __future__ import annotations
 
 import argparse
+import csv
 import logging
 from dataclasses import dataclass
 from pathlib import Path
@@ -23,6 +24,7 @@ LOGGER = logging.getLogger(__name__)
 class LanguageIssue:
 	"""Represents a single language issue detected in a document."""
 
+	filename: str
 	line: int
 	column: int
 	rule_id: str
@@ -86,7 +88,7 @@ def _highlight_context(context: str, context_offset: int, error_length: int) -> 
 	return f"{context[:start]}**{context[start:end]}**{context[end:]}"
 
 
-def _make_issue(match: object) -> LanguageIssue:
+def _make_issue(match: object, filename: str) -> LanguageIssue:
 	line = int(getattr(match, "line", 0)) + 1
 	column = int(getattr(match, "column", 0)) + 1
 	rule_id = getattr(match, "ruleId", "UNKNOWN") or "UNKNOWN"
@@ -98,6 +100,7 @@ def _make_issue(match: object) -> LanguageIssue:
 	error_length = int(getattr(match, "errorLength", 0))
 	highlighted_context = _highlight_context(context, context_offset, error_length)
 	return LanguageIssue(
+		filename=filename,
 		line=line,
 		column=column,
 		rule_id=rule_id,
@@ -113,11 +116,13 @@ def check_document(document_path: Path, subject: str, tool: object) -> DocumentR
 	"""Run language checks on a single Markdown document."""
 
 	text = document_path.read_text(encoding="utf-8")
+	filename = document_path.name
 	try:
 		matches = tool.check(text)
 	except Exception as exc:  # LanguageTool can raise generic RuntimeError/IOError
 		LOGGER.exception("Language check failed for %s", document_path)
 		failure = LanguageIssue(
+			filename=filename,
 			line=1,
 			column=1,
 			rule_id="CHECK_FAILURE",
@@ -129,7 +134,7 @@ def check_document(document_path: Path, subject: str, tool: object) -> DocumentR
 		)
 		return DocumentReport(subject=subject, path=document_path, issues=[failure])
 
-	issues = [_make_issue(match) for match in matches]
+	issues = [_make_issue(match, filename) for match in matches]
 	return DocumentReport(subject=subject, path=document_path, issues=issues)
 
 
@@ -226,6 +231,55 @@ def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
 	return "\n".join(lines)
 
 
+def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
+	"""Convert the collected document reports into CSV data.
+	
+	Returns a list of rows, where each row is a list of string values.
+	The first row contains the column headers.
+	"""
+	
+	rows: list[list[str]] = []
+	
+	# CSV header
+	rows.append([
+		"Subject",
+		"Filename",
+		"Line",
+		"Column",
+		"Rule ID",
+		"Type",
+		"Message",
+		"Suggestions",
+		"Context"
+	])
+	
+	# Sort reports by subject and filename
+	report_list = sorted(
+		reports, 
+		key=lambda item: (item.subject.lower(), item.path.name.lower())
+	)
+	
+	# Add each issue as a row
+	for report in report_list:
+		for issue in report.issues:
+			suggestions = ", ".join(issue.replacements) if issue.replacements else ""
+			context = issue.context if issue.context else ""
+			
+			rows.append([
+				report.subject,
+				issue.filename,
+				str(issue.line),
+				str(issue.column),
+				issue.rule_id,
+				issue.issue_type,
+				issue.message,
+				suggestions,
+				context
+			])
+	
+	return rows
+
+
 def run_language_checks(
 	root: Path,
 	*,
@@ -289,9 +343,18 @@ def run_language_checks(
 	if report_path is None:
 		report_path = root / "language-check-report.md"
 
+	# Write Markdown report
 	report_markdown = build_report_markdown(reports)
 	report_path.parent.mkdir(parents=True, exist_ok=True)
 	report_path.write_text(report_markdown, encoding="utf-8")
+	
+	# Write CSV report
+	csv_path = report_path.with_suffix(".csv")
+	csv_rows = build_report_csv(reports)
+	with csv_path.open("w", encoding="utf-8", newline="") as csv_file:
+		writer = csv.writer(csv_file)
+		writer.writerows(csv_rows)
+	
 	return report_path
 
 
@@ -343,7 +406,9 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
 	except FileNotFoundError as exc:
 		LOGGER.error("%s", exc)
 		return 1
+	csv_path = report_path.with_suffix(".csv")
 	print(f"Language check report written to {report_path.resolve()}")
+	print(f"CSV report written to {csv_path.resolve()}")
 	return 0
 
 

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import csv
 import sys
 from pathlib import Path
 
@@ -55,6 +56,7 @@ def test_check_single_document(tmp_path: Path) -> None:
     assert len(report.issues) == 1
 
     issue = report.issues[0]
+    assert issue.filename == "example.md"
     assert issue.rule_id == "TEST_RULE"
     assert "**This**" in issue.highlighted_context
     assert tool.captured_text == "Thiss is a test."
@@ -86,3 +88,57 @@ def test_run_language_checks_document_filter(tmp_path: Path) -> None:
     report_text = report_path.read_text(encoding="utf-8")
     assert "example-one.md" in report_text
     assert "example-two.md" not in report_text
+
+
+def test_csv_report_generated(tmp_path: Path) -> None:
+    """Test that CSV report is created with correct structure and content."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("Thiss is a test.", encoding="utf-8")
+
+    match = DummyMatch()
+    tool = DummyTool([match])
+
+    report_path = root / "report.md"
+    run_language_checks(
+        root,
+        report_path=report_path,
+        tool=tool,
+    )
+
+    # Check that CSV file was created
+    csv_path = root / "report.csv"
+    assert csv_path.is_file()
+
+    # Read and verify CSV content
+    with csv_path.open("r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        rows = list(reader)
+
+    # Check header row
+    assert rows[0] == [
+        "Subject",
+        "Filename",
+        "Line",
+        "Column",
+        "Rule ID",
+        "Type",
+        "Message",
+        "Suggestions",
+        "Context"
+    ]
+
+    # Check data row
+    assert len(rows) == 2  # header + 1 issue
+    assert rows[1][0] == "Subject"  # subject
+    assert rows[1][1] == "test-doc.md"  # filename
+    assert rows[1][2] == "1"  # line
+    assert rows[1][3] == "1"  # column
+    assert rows[1][4] == "TEST_RULE"  # rule_id
+    assert rows[1][5] == "misspelling"  # type
+    assert "spelling mistake" in rows[1][6]  # message
+    assert "This" in rows[1][7]  # suggestions
+    assert "Thiss is a test" in rows[1][8]  # context
+
