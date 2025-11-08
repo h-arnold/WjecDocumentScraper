@@ -5,6 +5,7 @@ from __future__ import annotations
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Any
 
 
 @dataclass
@@ -14,7 +15,7 @@ class ConversionResult:
     markdown: str
     """The converted markdown text."""
 
-    metadata: dict[str, any] | None = None
+    metadata: dict[str, Any] | None = None
     """Optional metadata about the conversion."""
 
 

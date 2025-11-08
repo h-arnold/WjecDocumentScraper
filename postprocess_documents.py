@@ -74,7 +74,13 @@ def process_subject(subject_dir: Path, converter_type: str = "markitdown") -> Su
             try:
                 convert_pdf_to_markdown(converter, pdf_path, markdown_directory)
                 result.converted += 1
+            except OSError as exc:
+                # File I/O errors
+                logger.warning("Failed to convert %s: %s", pdf_path, exc)
+                result.errors.append(f"{pdf_path.name}: {exc}")
             except Exception as exc:
+                # Catch converter-specific exceptions (e.g., MarkItDownException)
+                # and any other unexpected errors
                 logger.warning("Failed to convert %s: %s", pdf_path, exc)
                 result.errors.append(f"{pdf_path.name}: {exc}")
     finally:
