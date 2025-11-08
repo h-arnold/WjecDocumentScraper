@@ -7,7 +7,7 @@ This document defines how the scraper works, the public contracts you must prese
 The tool downloads GCSE PDF documents from WJEC “Made for Wales” qualification pages. It can be used via:
 - CLI: `main.py`
 - Library API: `wjec_scraper.py`
-- Gemini helper: `gemini_llm.py`
+- Gemini helper: `gemini_llm.py` — wraps the Google GenAI client, reads system instructions from Markdown, and loads `.env` values (such as `GEMINI_API_KEY`).
 
 Python >= 3.12. Dependencies are managed with uv (see `docs/UV_GUIDE.md`).
 

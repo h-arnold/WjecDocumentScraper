@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 from google.genai import types
@@ -49,3 +50,21 @@ def test_system_prompt_property_returns_file_contents(tmp_path: Path) -> None:
     llm = GeminiLLM(system_prompt_path=system_prompt_path, client=client)
 
     assert llm.system_prompt == "Obey orders."
+
+
+def test_loads_dotenv_when_path_provided(tmp_path: Path) -> None:
+    system_prompt_path = tmp_path / "system.md"
+    system_prompt_path.write_text("System prompt", encoding="utf-8")
+    dotenv_path = tmp_path / ".env"
+    dotenv_path.write_text("GEMINI_API_KEY=from-dotenv\n", encoding="utf-8")
+    previous_value = os.environ.pop("GEMINI_API_KEY", None)
+    client = _DummyClient()
+
+    try:
+        GeminiLLM(system_prompt_path=system_prompt_path, client=client, dotenv_path=dotenv_path)
+        assert os.environ["GEMINI_API_KEY"] == "from-dotenv"
+    finally:
+        if previous_value is None:
+            os.environ.pop("GEMINI_API_KEY", None)
+        else:
+            os.environ["GEMINI_API_KEY"] = previous_value

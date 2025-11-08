@@ -2032,6 +2032,7 @@ dependencies = [
     { name = "marker-pdf" },
     { name = "markitdown", extra = ["pdf"] },
     { name = "pyspellchecker" },
+    { name = "python-dotenv" },
     { name = "requests" },
 ]
 
@@ -2048,6 +2049,7 @@ requires-dist = [
     { name = "marker-pdf", git = "https://github.com/datalab-to/marker.git" },
     { name = "markitdown", extras = ["pdf"], specifier = ">=0.1.3" },
     { name = "pyspellchecker", specifier = ">=0.8.3" },
+    { name = "python-dotenv", specifier = ">=1.2.1" },
     { name = "requests", specifier = ">=2.32.5" },
 ]
 
