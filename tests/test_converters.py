@@ -17,6 +17,7 @@ from converters import (
     PdfToMarkdownConverter,
     MarkItDownConverter,
     MarkerConverter,
+    _normalise_marker_markdown,
     create_converter,
 )
 
@@ -184,3 +185,28 @@ def test_marker_converter_falls_back_to_renderer(monkeypatch, tmp_path: Path) ->
         assert result.metadata == {"metadata": {"renderer": "used"}}
     finally:
         converter.close()
+
+
+def test_normalise_marker_markdown_preserves_tables_without_breaks() -> None:
+    """Normalisation should leave tables without <br> untouched."""
+
+    markdown = "| A | B |\n| - | - |\n| 1 | 2 |"
+    assert _normalise_marker_markdown(markdown) == markdown
+
+
+def test_normalise_marker_markdown_converts_breaks_to_lists() -> None:
+    """Normalisation should replace marker <br> sequences while preserving structure."""
+
+    raw = (
+        "| Section | Amplification |" "\n"
+        "| --- | --- |" "\n"
+        "| 2.2.3a<br>Wave properties | Learners should understand:<br>•<br>use and draw graphical representations of waves from<br>given values of amplitude and wavelength<br>•<br>use the equation:<br>wave speed = frequency x<br>wavelength. |"
+    )
+
+    expected = (
+        "| Section | Amplification |" "\n"
+        "| --- | --- |" "\n"
+        "| 2.2.3a Wave properties | Learners should understand: <ul><li>use and draw graphical representations of waves from given values of amplitude and wavelength</li><li>use the equation: wave speed = frequency x wavelength.</li></ul> |"
+    )
+
+    assert _normalise_marker_markdown(raw) == expected
