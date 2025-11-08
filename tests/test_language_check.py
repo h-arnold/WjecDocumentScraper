@@ -14,8 +14,6 @@ from language_check import check_single_document, run_language_checks
 
 class DummyMatch:
     def __init__(self) -> None:
-        self.line = 0
-        self.column = 0
         self.ruleId = "TEST_RULE"
         self.message = "Possible spelling mistake"
         self.ruleIssueType = "misspelling"
@@ -24,6 +22,7 @@ class DummyMatch:
         self.contextoffset = 0
         self.offsetInContext = 0
         self.errorLength = 4
+        self.matchedText = "Thiss"
 
 
 class DummyTool:
@@ -122,8 +121,6 @@ def test_csv_report_generated(tmp_path: Path) -> None:
     assert rows[0] == [
         "Subject",
         "Filename",
-        "Line",
-        "Column",
         "Rule ID",
         "Type",
         "Message",
@@ -135,13 +132,11 @@ def test_csv_report_generated(tmp_path: Path) -> None:
     assert len(rows) == 2  # header + 1 issue
     assert rows[1][0] == "Subject"  # subject
     assert rows[1][1] == "test-doc.md"  # filename
-    assert rows[1][2] == "1"  # line
-    assert rows[1][3] == "1"  # column
-    assert rows[1][4] == "TEST_RULE"  # rule_id
-    assert rows[1][5] == "misspelling"  # type
-    assert "spelling mistake" in rows[1][6]  # message
-    assert "This" in rows[1][7]  # suggestions
-    assert "Thiss is a test" in rows[1][8]  # context
+    assert rows[1][2] == "TEST_RULE"  # rule_id
+    assert rows[1][3] == "misspelling"  # type
+    assert "spelling mistake" in rows[1][4]  # message
+    assert "This" in rows[1][5]  # suggestions
+    assert "Thiss is a test" in rows[1][6]  # context
 
 
 def test_ignored_words_filtering(tmp_path: Path) -> None:

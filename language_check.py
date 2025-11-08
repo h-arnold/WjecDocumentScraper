@@ -27,8 +27,6 @@ class LanguageIssue:
 	"""Represents a single language issue detected in a document."""
 
 	filename: str
-	line: int
-	column: int
 	rule_id: str
 	message: str
 	issue_type: str
@@ -145,8 +143,6 @@ def _format_suggestions(replacements: list[str] | None, max_suggestions: int = 3
 
 
 def _make_issue(match: object, filename: str) -> LanguageIssue:
-	line = int(getattr(match, "line", 0)) + 1
-	column = int(getattr(match, "column", 0)) + 1
 	rule_id = getattr(match, "ruleId", "UNKNOWN") or "UNKNOWN"
 	message = str(getattr(match, "message", "")).strip()
 	issue_type = getattr(match, "ruleIssueType", "unknown") or "unknown"
@@ -157,8 +153,6 @@ def _make_issue(match: object, filename: str) -> LanguageIssue:
 	highlighted_context = _highlight_context(context, context_offset, error_length)
 	return LanguageIssue(
 		filename=filename,
-		line=line,
-		column=column,
 		rule_id=rule_id,
 		message=message,
 		issue_type=issue_type,
@@ -201,8 +195,6 @@ def check_document(
 		LOGGER.exception("Language check failed for %s", document_path)
 		failure = LanguageIssue(
 			filename=filename,
-			line=1,
-			column=1,
 			rule_id="CHECK_FAILURE",
 			message=f"Language check failed: {exc}",
 			issue_type="error",
@@ -334,8 +326,8 @@ def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
 
 		lines.append(f"Found {len(report.issues)} issue(s).")
 		lines.append("")
-		lines.append("| Filename | Line | Column | Rule | Type | Message | Suggestions | Context |")
-		lines.append("| --- | --- | --- | --- | --- | --- | --- | --- |")
+		lines.append("| Filename | Rule | Type | Message | Suggestions | Context |")
+		lines.append("| --- | --- | --- | --- | --- | --- |")
 		for issue in report.issues:
 			message = issue.message.replace("|", "\\|")
 			# Truncate suggestions to a small, readable number
@@ -343,7 +335,7 @@ def build_report_markdown(reports: Iterable[DocumentReport]) -> str:
 			suggestions = suggestions.replace("|", "\\|")
 			context = issue.highlighted_context.replace("|", "\\|") if issue.highlighted_context else "—"
 			lines.append(
-				f"| {issue.filename} | {issue.line} | {issue.column} | `{issue.rule_id}` | {issue.issue_type} | {message} | {suggestions} | {context} |"
+				f"| {issue.filename} | `{issue.rule_id}` | {issue.issue_type} | {message} | {suggestions} | {context} |"
 			)
 
 	return "\n".join(lines)
@@ -362,8 +354,6 @@ def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
 	rows.append([
 		"Subject",
 		"Filename",
-		"Line",
-		"Column",
 		"Rule ID",
 		"Type",
 		"Message",
@@ -391,8 +381,6 @@ def build_report_csv(reports: Iterable[DocumentReport]) -> list[list[str]]:
 			rows.append([
 				report.subject,
 				issue.filename,
-				str(issue.line),
-				str(issue.column),
 				issue.rule_id,
 				issue.issue_type,
 				issue.message,
