@@ -1,0 +1,22 @@
+{
+  "name": "WjecDocumentScraper",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-azuretools.vscode-docker"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/workspace/.venv/bin/python"
+      }
+    }
+  },
+  "postCreateCommand": "bash -lc '.devcontainer/post_create.sh'",
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspace"
+}
