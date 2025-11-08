@@ -44,14 +44,14 @@ The CLI can tidy downloaded folders and convert PDFs to Markdown using your choi
 
 - `--post-process` runs the organiser once downloads finish (skipped during `--dry-run`).
 - `--post-process-only` skips downloading and processes the existing output directory.
-- `--post-process-workers N` limits how many subject folders are handled concurrently.
+- `--post-process-workers N` limits how many subject folders are handled concurrently (ignored for the `marker` converter, which always runs a single worker).
 - `--converter {markitdown,marker}` selects the PDF to Markdown converter (default: `markitdown`).
 
 #### Available Converters
 
 **MarkItDown** (default): Fast, reliable converter using Microsoft's MarkItDown library. Suitable for most use cases.
 
-**Marker**: Advanced converter using the [marker](https://github.com/datalab-to/marker) library with superior OCR and layout detection capabilities. Requires downloading ML models on first use and may need GPU resources for optimal performance.
+**Marker**: Advanced converter using the [marker](https://github.com/datalab-to/marker) library with superior OCR and layout detection capabilities. Requires downloading ML models on first use and may need GPU resources for optimal performance. Post-processing always runs with a single worker to avoid duplicate model downloads, even if a higher worker count is requested.
 
 Examples:
 
@@ -62,6 +62,6 @@ uv run python main.py --subjects Geography --post-process
 # Use marker for higher quality conversion
 uv run python main.py --subjects Geography --post-process --converter marker
 
-# Only re-run the organiser against an existing output directory with marker
-uv run python main.py --output Documents --post-process-only --post-process-workers 4 --converter marker
+# Only re-run the organiser against an existing output directory with marker (single worker enforced)
+uv run python main.py --output Documents --post-process-only --converter marker
 ```

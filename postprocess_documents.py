@@ -96,7 +96,19 @@ def run(root: Path, max_workers: int | None = None, converter_type: str = "marki
         logger.info("No subject directories found under %s", root)
         return []
 
-    executor_kwargs = {"max_workers": max_workers} if max_workers else {}
+    converter_key = converter_type.lower()
+    effective_workers = max_workers
+    if converter_key == "marker":
+        if max_workers not in (None, 1):
+            logger.info(
+                "Marker converter runs with a single worker; overriding max_workers=%s to 1.",
+                max_workers,
+            )
+        effective_workers = 1
+
+    executor_kwargs = {}
+    if effective_workers is not None:
+        executor_kwargs["max_workers"] = effective_workers
     results: list[SubjectResult] = []
 
     with ThreadPoolExecutor(**executor_kwargs) as executor:
