@@ -2027,6 +2027,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "beautifulsoup4" },
+    { name = "google-genai" },
     { name = "language-tool-python" },
     { name = "marker-pdf" },
     { name = "markitdown", extra = ["pdf"] },
@@ -2042,6 +2043,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.14.2" },
+    { name = "google-genai", specifier = ">=1.49.0" },
     { name = "language-tool-python", specifier = ">=2.9.5" },
     { name = "marker-pdf", git = "https://github.com/datalab-to/marker.git" },
     { name = "markitdown", extras = ["pdf"], specifier = ">=0.1.3" },

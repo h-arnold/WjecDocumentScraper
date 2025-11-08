@@ -65,3 +65,27 @@ uv run python main.py --subjects Geography --post-process --converter marker
 # Only re-run the organiser against an existing output directory with marker (single worker enforced)
 uv run python main.py --output Documents --post-process-only --converter marker
 ```
+
+## Gemini LLM helper
+
+The `GeminiLLM` helper in `gemini_llm.py` wraps the Google GenAI SDK so you can reuse system prompts stored in Markdown files when calling the Gemini API.
+
+- Reads the system instruction from a Markdown file when instantiated.
+- Joins user prompt fragments with newlines before sending them to the API.
+- Calls the `gemini-flash-2.5` model with the maximum supported thinking budget (24,576 tokens) via `google.genai.types.ThinkingConfig`.
+- Expects `GEMINI_API_KEY` to be present in the environment, matching [Google's Python quickstart](https://ai.google.dev/gemini-api/docs/get-started/python).
+
+Example:
+
+```python
+from gemini_llm import GeminiLLM
+
+llm = GeminiLLM("prompts/system.md")
+response = llm.generate([
+	"Summarise the recent downloads.",
+	"Highlight any missing PDFs."
+])
+print(response.text)
+```
+
+Refer to the [Gemini text generation guide](https://ai.google.dev/gemini-api/docs/text-generation) for additional configuration options.
