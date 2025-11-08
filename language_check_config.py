@@ -12,7 +12,8 @@ DEFAULT_DISABLED_RULES = {
     "OXFORD_SPELLING_Z_NOT_S",
     "UPPERCASE_SENTENCE_START",
     "HYPHEN_TO_EN",
-    "COMMA_PARENTHESIS_WHITESPACE"
+    "COMMA_PARENTHESIS_WHITESPACE",
+    "PROBLEM_SOLVE_HYPHEN"
 }
 
 # Default words to ignore (case-sensitive; can be extended via command-line)
