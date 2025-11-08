@@ -72,22 +72,20 @@ class MarkerConverter(PdfToMarkdownConverter):
 
     def convert(self, pdf_path: Path) -> ConversionResult:
         """Convert a PDF using marker."""
-        # The marker converter returns a Document object
-        result = self._converter(str(pdf_path))
+        from marker.renderers.markdown import MarkdownRenderer
         
-        # Get the markdown from the result
-        # The result should have a markdown property or method to get the markdown
-        if hasattr(result, 'markdown'):
-            markdown = result.markdown
-        elif hasattr(result, 'to_markdown'):
-            markdown = result.to_markdown()
-        else:
-            # Fallback: try to render it
-            from marker.renderers import MarkdownRenderer
-            renderer = MarkdownRenderer()
-            markdown = renderer(result)
+        # The converter returns a Document object
+        document = self._converter(str(pdf_path))
+        
+        # Use the MarkdownRenderer to convert the document to markdown
+        renderer = MarkdownRenderer()
+        result = renderer(document)
 
-        return ConversionResult(markdown=markdown)
+        # MarkdownOutput has markdown, images, and metadata fields
+        return ConversionResult(
+            markdown=result.markdown,
+            metadata={"images": result.images, "metadata": result.metadata}
+        )
 
     def close(self) -> None:
         """Clean up marker resources if needed."""
