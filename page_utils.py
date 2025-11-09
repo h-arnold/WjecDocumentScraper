@@ -182,7 +182,7 @@ def extract_page_text(text: str, page_number: int | None = None,
     # Find the next marker after end_marker to know where to stop
     next_marker_pos = len(text)  # Default to end of text
     for marker in markers:
-        if marker.page_number > end_page:
+        if marker.position > end_marker.position:
             next_marker_pos = marker.position
             break
     
