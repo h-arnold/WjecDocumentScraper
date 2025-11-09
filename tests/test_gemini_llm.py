@@ -41,7 +41,7 @@ def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
     system_text = "## System\nFollow the rules."
     system_prompt_path.write_text(system_text, encoding="utf-8")
     client = _DummyClient()
-    llm = GeminiLLM(system_prompt_path=system_prompt_path, client=cast(genai.Client, client))
+    llm = GeminiLLM(system_prompt=system_prompt_path, client=cast(genai.Client, client))
 
     result = llm.generate(["Line one", "Line two"])
 
@@ -63,7 +63,7 @@ def test_system_prompt_property_returns_file_contents(tmp_path: Path) -> None:
     system_prompt_path.write_text("Obey orders.", encoding="utf-8")
     client = _DummyClient()
 
-    llm = GeminiLLM(system_prompt_path=system_prompt_path, client=cast(genai.Client, client))
+    llm = GeminiLLM(system_prompt=system_prompt_path, client=cast(genai.Client, client))
 
     assert llm.system_prompt == "Obey orders."
 
@@ -78,7 +78,7 @@ def test_loads_dotenv_when_path_provided(tmp_path: Path) -> None:
 
     try:
         GeminiLLM(
-            system_prompt_path=system_prompt_path,
+            system_prompt=system_prompt_path,
             client=cast(genai.Client, client),
             dotenv_path=dotenv_path,
         )
@@ -96,7 +96,7 @@ def test_generate_returns_repaired_json_when_filter_enabled(tmp_path: Path) -> N
     response_text = "Noise before {\"key\": \"value\",} and after"
     client = _DummyClient(response_text=response_text)
     llm = GeminiLLM(
-        system_prompt_path=system_prompt_path,
+        system_prompt=system_prompt_path,
         client=cast(genai.Client, client),
         filter_json=True,
     )
@@ -111,7 +111,7 @@ def test_generate_raises_when_json_delimiters_missing(tmp_path: Path) -> None:
     system_prompt_path.write_text("System", encoding="utf-8")
     client = _DummyClient(response_text="No JSON here")
     llm = GeminiLLM(
-        system_prompt_path=system_prompt_path,
+        system_prompt=system_prompt_path,
         client=cast(genai.Client, client),
         filter_json=True,
     )
@@ -125,7 +125,7 @@ def test_generate_raises_when_response_has_no_text(tmp_path: Path) -> None:
     system_prompt_path.write_text("System", encoding="utf-8")
     client = _DummyClient(response_text=None)
     llm = GeminiLLM(
-        system_prompt_path=system_prompt_path,
+        system_prompt=system_prompt_path,
         client=cast(genai.Client, client),
         filter_json=True,
     )

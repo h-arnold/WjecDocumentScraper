@@ -11,21 +11,42 @@ from json_repair import repair_json
 
 
 class GeminiLLM:
-    """Wrapper around the Gemini SDK with file-backed system instructions."""
+    """Wrapper around the Gemini SDK with system instructions.
+    
+    The system prompt can be provided either as a string directly or as a Path to a file.
+    """
 
     MODEL = "gemini-flash-2.5"
     MAX_THINKING_BUDGET = 24_576
 
     def __init__(
         self,
-        system_prompt_path: str | Path,
+        system_prompt: str | Path,
         *,
         client: genai.Client | None = None,
         dotenv_path: str | Path | None = None,
         filter_json: bool = False,
     ) -> None:
-        self._system_prompt_path = Path(system_prompt_path)
-        self._system_prompt = self._system_prompt_path.read_text(encoding="utf-8")
+        # Accept either a direct string or a path to a file containing the prompt
+        if isinstance(system_prompt, (str, Path)):
+            # Try to interpret as path first if it looks like a path
+            if isinstance(system_prompt, Path) or (isinstance(system_prompt, str) and ("\n" not in system_prompt and len(system_prompt) < 500)):
+                try:
+                    prompt_path = Path(system_prompt)
+                    if prompt_path.exists() and prompt_path.is_file():
+                        self._system_prompt = prompt_path.read_text(encoding="utf-8")
+                    else:
+                        # Treat as direct string prompt
+                        self._system_prompt = str(system_prompt)
+                except (OSError, ValueError):
+                    # If path operations fail, treat as direct string
+                    self._system_prompt = str(system_prompt)
+            else:
+                # Multi-line or long string - treat as direct prompt
+                self._system_prompt = system_prompt
+        else:
+            raise TypeError(f"system_prompt must be str or Path, got {type(system_prompt)}")
+            
         if dotenv_path is not None:
             load_dotenv(dotenv_path=Path(dotenv_path))
         else:
