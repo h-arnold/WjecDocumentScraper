@@ -14,7 +14,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from postprocess_documents import (
+from src.postprocessing import (
     SinglePdfResult,
     SubjectResult,
     copy_root_pdfs,
@@ -69,7 +69,7 @@ class TestProcessSinglePdf:
         pdf_in_root = subject_dir / "sample.pdf"
         pdf_in_root.write_bytes(sample_pdf.read_bytes())
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_single_pdf(pdf_in_root, "markitdown")
         
         # Verify PDF was copied to pdfs/ subdirectory
@@ -104,7 +104,7 @@ class TestProcessSinglePdf:
         pdf_in_subdir = pdf_subdir / "sample.pdf"
         pdf_in_subdir.write_bytes(sample_pdf.read_bytes())
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_single_pdf(pdf_in_subdir, "markitdown")
         
         # Verify PDF stays in pdfs/ subdirectory
@@ -132,7 +132,7 @@ class TestProcessSinglePdf:
         # Make converter raise an exception
         mock_converter.convert.side_effect = Exception("Conversion failed")
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_single_pdf(pdf_path, "markitdown")
         
         # Verify result indicates failure
@@ -151,8 +151,8 @@ class TestProcessSinglePdf:
         pdf_in_root = subject_dir / "sample.pdf"
         pdf_in_root.write_bytes(sample_pdf.read_bytes())
         
-        with patch("postprocess_documents.shutil.copy2", side_effect=OSError("Permission denied")):
-            with patch("postprocess_documents.create_converter") as mock_create:
+        with patch("src.postprocessing.shutil.copy2", side_effect=OSError("Permission denied")):
+            with patch("src.postprocessing.create_converter") as mock_create:
                 result = process_single_pdf(pdf_in_root, "markitdown")
         
         # Verify result indicates failure
@@ -167,7 +167,7 @@ class TestProcessSinglePdf:
         """Test handling of nonexistent PDF file."""
         nonexistent = temp_docs_dir / "Art-and-Design" / "nonexistent.pdf"
         
-        with patch("postprocess_documents.create_converter") as mock_create:
+        with patch("src.postprocessing.create_converter") as mock_create:
             result = process_single_pdf(nonexistent, "markitdown")
         
         # Verify result indicates failure
@@ -185,7 +185,7 @@ class TestProcessSinglePdf:
         pdf_path = pdf_subdir / "sample.pdf"
         pdf_path.write_bytes(sample_pdf.read_bytes())
         
-        with patch("postprocess_documents.create_converter") as mock_create:
+        with patch("src.postprocessing.create_converter") as mock_create:
             mock_converter = Mock()
             mock_result = Mock()
             mock_result.markdown = "# Test"
@@ -209,7 +209,7 @@ class TestProcessSinglePdf:
         assert not pdf_subdir.exists()
         assert not markdown_dir.exists()
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_single_pdf(pdf_in_root, "markitdown")
         
         # Verify directories were created
@@ -223,7 +223,7 @@ class TestProcessSinglePdf:
         pdf_at_root = temp_docs_dir / "sample.pdf"
         pdf_at_root.write_bytes(sample_pdf.read_bytes())
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_single_pdf(pdf_at_root, "markitdown")
         
         # Should fail because it's not in a valid subject directory
@@ -350,7 +350,7 @@ class TestProcessSubject:
         (subject_dir / "file1.pdf").write_bytes(b"%PDF-1.4")
         (subject_dir / "file2.pdf").write_bytes(b"%PDF-1.5")
         
-        with patch("postprocess_documents.create_converter", return_value=mock_converter):
+        with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_subject(subject_dir, "markitdown")
         
         assert result.subject_dir == subject_dir

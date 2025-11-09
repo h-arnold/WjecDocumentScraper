@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from dataclasses import dataclass, field
 
-from converters import PdfToMarkdownConverter, create_converter
+from ..converters import PdfToMarkdownConverter, create_converter
 
 logger = logging.getLogger(__name__)
 
