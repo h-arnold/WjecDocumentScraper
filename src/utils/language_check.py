@@ -16,8 +16,8 @@ from typing import Iterable, Optional
 
 import language_tool_python
 
-from language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
-from page_utils import build_page_number_map
+from .language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
+from .page_utils import build_page_number_map
 
 
 LOGGER = logging.getLogger(__name__)

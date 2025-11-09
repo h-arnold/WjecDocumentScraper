@@ -153,7 +153,7 @@ def process_pdf_file(
     # Import here to avoid issues with path setup
     sys.path.insert(0, str(cwd))
     try:
-        from postprocess_documents import process_single_pdf
+        from src.postprocessing import process_single_pdf
         
         result = process_single_pdf(pdf_file, converter)
         

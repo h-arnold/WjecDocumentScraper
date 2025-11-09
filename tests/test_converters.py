@@ -12,7 +12,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from types import SimpleNamespace
 
-from converters import (
+from src.converters.converters import (
     ConversionResult,
     PdfToMarkdownConverter,
     MarkItDownConverter,
