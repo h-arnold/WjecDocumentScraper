@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Iterable
 from urllib.parse import urlparse
 
-from postprocess_documents import run as run_postprocess
+from postprocess_documents import process_single_pdf, run as run_postprocess
 from wjec_scraper import (
     QUALIFICATION_URLS,
     download_subject_pdfs,
@@ -51,6 +51,12 @@ def build_parser() -> argparse.ArgumentParser:
         "--post-process-only",
         action="store_true",
         help="Skip downloading and only run the post-processing step on the output directory.",
+    )
+    parser.add_argument(
+        "--post-process-file",
+        type=Path,
+        metavar="PDF_FILE",
+        help="Process a single PDF file (copy to pdfs/ if needed, convert to Markdown). Cannot be combined with --post-process or --post-process-only.",
     )
     parser.add_argument(
         "--post-process-workers",
@@ -122,6 +128,33 @@ def run_cli(args: argparse.Namespace) -> int:
         for subject in sorted(QUALIFICATION_URLS):
             print(f" - {subject}")
         return 0
+    
+    # Handle --post-process-file option
+    if args.post_process_file:
+        if args.post_process or args.post_process_only:
+            print("--post-process-file cannot be combined with --post-process or --post-process-only")
+            return 1
+        if args.dry_run:
+            print("--dry-run cannot be combined with --post-process-file")
+            return 1
+        
+        pdf_path = args.post_process_file
+        if not pdf_path.exists():
+            print(f"Error: PDF file does not exist: {pdf_path}")
+            return 1
+        if not pdf_path.is_file():
+            print(f"Error: Path is not a file: {pdf_path}")
+            return 1
+        
+        print(f"Processing single PDF: {pdf_path}")
+        result = process_single_pdf(pdf_path, args.converter)
+        
+        if result.success:
+            print(f"✓ Successfully converted to: {result.markdown_path}")
+            return 0
+        else:
+            print(f"✗ Failed to process PDF: {result.error}")
+            return 1
 
     if args.post_process_workers is not None and args.post_process_workers < 1:
         print("--post-process-workers must be at least 1")

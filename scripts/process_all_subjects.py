@@ -1,44 +1,76 @@
 #!/usr/bin/env python3
-"""Process all subjects incrementally with git-based checkpointing.
+"""Post-process PDF files incrementally with git-based checkpointing.
 
-This script is designed for long-running operations (potentially days) on a server.
-It processes WJEC subject folders one at a time, committing changes after each subject
+This script is designed for long-running post-processing operations (potentially days) on a server.
+It converts PDF files to Markdown one at a time, committing changes after each file
 completes, allowing resumption if interrupted.
+
+The script assumes PDFs have already been downloaded (e.g., via main.py).
 
 Features:
 - Creates or checks out a git branch for processed documents
-- Maintains a state file (unprocessedSubjects.txt) tracking remaining work
-- Processes subjects sequentially using main.py --post-process-only
-- Commits changes after each subject completion
+- Maintains a state file (unprocessedFiles.txt) tracking remaining work
+- Processes PDF files sequentially using process_single_pdf from postprocess_documents
+- Commits changes after each file completion
 - Can resume from where it left off if interrupted
+- Skips PDFs that already have a corresponding Markdown file
 """
 
 from __future__ import annotations
 
 import argparse
-import shlex
 import subprocess
 import sys
 from pathlib import Path
 
 
-def find_subject_directories(root: Path) -> list[str]:
-    """Return sorted list of subject directory names under the provided root."""
+def find_pdf_files(root: Path) -> list[Path]:
+    """Return sorted list of PDF file paths (relative to root) that need to be converted to Markdown.
+    
+    This looks for:
+    1. PDFs in subject root (will be copied to pdfs/ and converted)
+    2. PDFs in pdfs/ subdirectory that don't have a corresponding .md file in markdown/
+    """
     if not root.exists() or not root.is_dir():
         return []
-    return sorted(p.name for p in root.iterdir() if p.is_dir() and not p.name.startswith('.'))
+    
+    pdf_files: list[Path] = []
+    
+    # Find all subject directories
+    for subject_dir in sorted(root.iterdir()):
+        if not subject_dir.is_dir() or subject_dir.name.startswith('.'):
+            continue
+        
+        markdown_dir = subject_dir / "markdown"
+        
+        # Look for PDFs in subject root (these always need processing)
+        for pdf_path in subject_dir.glob("*.pdf"):
+            # Store relative path from root
+            pdf_files.append(pdf_path.relative_to(root))
+        
+        # Look for PDFs in pdfs/ subdirectory that haven't been converted yet
+        pdfs_subdir = subject_dir / "pdfs"
+        if pdfs_subdir.exists() and pdfs_subdir.is_dir():
+            for pdf_path in pdfs_subdir.glob("*.pdf"):
+                # Check if corresponding markdown file exists
+                markdown_path = markdown_dir / f"{pdf_path.stem}.md"
+                if not markdown_path.exists():
+                    # This PDF needs to be converted
+                    pdf_files.append(pdf_path.relative_to(root))
+    
+    return sorted(pdf_files)
 
 
 def read_state_file(state_file: Path) -> list[str]:
-    """Read subjects from state file, one per line."""
+    """Read PDF file paths from state file, one per line."""
     if not state_file.exists():
         return []
     return [line.strip() for line in state_file.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
-def write_state_file(state_file: Path, subjects: list[str]) -> None:
-    """Write subjects to state file, one per line."""
-    state_file.write_text("\n".join(subjects) + "\n" if subjects else "", encoding="utf-8")
+def write_state_file(state_file: Path, pdf_files: list[str]) -> None:
+    """Write PDF file paths to state file, one per line."""
+    state_file.write_text("\n".join(pdf_files) + "\n" if pdf_files else "", encoding="utf-8")
 
 
 def git_command(args: list[str], cwd: Path) -> tuple[int, str]:
@@ -82,8 +114,8 @@ def ensure_branch(branch_name: str, cwd: Path) -> bool:
     return True
 
 
-def commit_changes(subject: str, cwd: Path) -> bool:
-    """Commit all changes with a message about the processed subject. Returns True on success."""
+def commit_changes(pdf_file: str, cwd: Path) -> bool:
+    """Commit all changes with a message about the processed PDF file. Returns True on success."""
     # Add all changes
     exit_code, output = git_command(["add", "."], cwd)
     if exit_code != 0:
@@ -94,73 +126,57 @@ def commit_changes(subject: str, cwd: Path) -> bool:
     exit_code, output = git_command(["diff", "--cached", "--quiet"], cwd)
     if exit_code == 0:
         # No changes to commit
-        print(f"No changes to commit for subject '{subject}'")
+        print(f"No changes to commit for PDF '{pdf_file}'")
         return True
     
     # Commit changes
-    commit_message = f"Process subject: {subject}"
+    commit_message = f"Process PDF: {pdf_file}"
     exit_code, output = git_command(["commit", "-m", commit_message], cwd)
     if exit_code != 0:
         print(f"Failed to commit changes: {output}", file=sys.stderr)
         return False
     
-    print(f"Committed changes for subject '{subject}'")
+    print(f"Committed changes for PDF '{pdf_file}'")
     return True
 
 
-def process_subject(
-    subject: str,
-    root: Path,
+def process_pdf_file(
+    pdf_file: Path,
     converter: str,
-    uv_cmd: str,
     cwd: Path,
 ) -> bool:
-    """Process a single subject using main.py. Returns True on success."""
-    # Build the command as a list for safety
-    parts = [*shlex.split(uv_cmd), 'main.py', '--post-process-only', '--subjects', subject, '--output', str(root), '--converter', converter]
-    
+    """Process a single PDF file using process_single_pdf from postprocess_documents. Returns True on success."""
     print(f"\n{'='*60}")
-    print(f"Processing subject: {subject}")
-    print(f"Command: {' '.join(shlex.quote(arg) for arg in parts)}")
+    print(f"Processing PDF: {pdf_file}")
     print(f"{'='*60}\n")
     
-    # Run the command
+    # Import here to avoid issues with path setup
+    sys.path.insert(0, str(cwd))
     try:
-        proc = subprocess.Popen(
-            parts,
-            cwd=cwd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.STDOUT,
-            text=True,
-        )
+        from postprocess_documents import process_single_pdf
         
-        # Stream output in real-time
-        assert proc.stdout is not None
-        for line in proc.stdout:
-            print(line, end="")
+        result = process_single_pdf(pdf_file, converter)
         
-        proc.wait()
-        
-        if proc.returncode != 0:
-            print(f"\nError: Processing failed for subject '{subject}' with exit code {proc.returncode}", file=sys.stderr)
+        if result.success:
+            print(f"\n✓ Successfully converted to: {result.markdown_path}")
+            return True
+        else:
+            print(f"\n✗ Failed to process PDF: {result.error}", file=sys.stderr)
             return False
-        
-        print(f"\nSuccessfully processed subject '{subject}'")
-        return True
-        
+    
     except Exception as exc:
-        print(f"\nException while processing subject '{subject}': {exc}", file=sys.stderr)
+        print(f"\nException while processing PDF '{pdf_file}': {exc}", file=sys.stderr)
         return False
 
 
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     parser = argparse.ArgumentParser(
-        description="Process all WJEC subjects incrementally with git-based checkpointing.",
+        description="Post-process WJEC PDF files incrementally with git-based checkpointing. Converts PDFs to Markdown one at a time. Assumes PDFs have already been downloaded.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Start processing all subjects (or resume if previously interrupted)
+  # Start post-processing all PDF files (or resume if previously interrupted)
   uv run python scripts/process_all_subjects.py
 
   # Use a different branch name
@@ -193,8 +209,8 @@ Examples:
     parser.add_argument(
         "--state-file",
         type=Path,
-        default=Path("unprocessedSubjects.txt"),
-        help="State file tracking unprocessed subjects (default: unprocessedSubjects.txt)",
+        default=Path("unprocessedFiles.txt"),
+        help="State file tracking unprocessed PDF files (default: unprocessedFiles.txt)",
     )
     
     parser.add_argument(
@@ -202,12 +218,6 @@ Examples:
         default="marker",
         choices=["markitdown", "marker"],
         help="Converter to use for PDF to Markdown conversion (default: marker)",
-    )
-    
-    parser.add_argument(
-        "--uv-cmd",
-        default="uv run python",
-        help="Command prefix to run Python via uv (default: 'uv run python')",
     )
     
     parser.add_argument(
@@ -219,7 +229,7 @@ Examples:
     parser.add_argument(
         "--reset",
         action="store_true",
-        help="Reset state file to start from scratch (rediscover all subjects)",
+        help="Reset state file to start from scratch (rediscover all PDF files)",
     )
     
     return parser
@@ -251,29 +261,34 @@ def main(argv: list[str] | None = None) -> int:
         print("State file reset")
     
     # Read or initialize state file
-    subjects = read_state_file(state_file)
+    pdf_files_str = read_state_file(state_file)
     
-    if not subjects:
-        # Discover subjects from directory
-        print(f"Discovering subjects in '{args.root}'...")
-        subjects = find_subject_directories(args.root)
+    if not pdf_files_str:
+        # Discover PDF files from directory
+        print(f"Discovering PDF files in '{args.root}'...")
+        pdf_files = find_pdf_files(args.root)
         
-        if not subjects:
-            print(f"No subject directories found in '{args.root}'")
+        if not pdf_files:
+            print(f"No PDF files found in '{args.root}'")
             return 1
         
-        print(f"Found {len(subjects)} subject(s)")
+        print(f"Found {len(pdf_files)} PDF file(s)")
+        
+        # Convert to strings for state file
+        pdf_files_str = [str(p) for p in pdf_files]
         
         # Write initial state file
-        write_state_file(state_file, subjects)
-        print(f"Initialized state file '{state_file}' with {len(subjects)} subject(s)")
+        write_state_file(state_file, pdf_files_str)
+        print(f"Initialized state file '{state_file}' with {len(pdf_files_str)} PDF file(s)")
     else:
-        print(f"Resuming from state file '{state_file}' with {len(subjects)} subject(s) remaining")
+        print(f"Resuming from state file '{state_file}' with {len(pdf_files_str)} PDF file(s) remaining")
     
-    # Show subjects to be processed
-    print(f"\nSubjects to process:")
-    for subject in subjects:
-        print(f"  - {subject}")
+    # Show first few files to be processed
+    print(f"\nPDF files to process:")
+    for pdf_file in pdf_files_str[:10]:
+        print(f"  - {pdf_file}")
+    if len(pdf_files_str) > 10:
+        print(f"  ... and {len(pdf_files_str) - 10} more")
     
     if args.dry_run:
         print("\nDry run mode: no changes will be made")
@@ -283,51 +298,50 @@ def main(argv: list[str] | None = None) -> int:
     if not ensure_branch(args.branch, repo_root):
         return 2
     
-    # Process subjects one by one
+    # Process PDF files one by one
     processed_count = 0
-    failed_subjects = []
+    failed_files = []
     
-    while subjects:
-        current_subject = subjects[0]
+    while pdf_files_str:
+        current_pdf_str = pdf_files_str[0]
+        current_pdf = args.root / current_pdf_str
         
-        # Process the subject
-        success = process_subject(
-            current_subject,
-            args.root,
+        # Process the PDF file
+        success = process_pdf_file(
+            current_pdf,
             args.converter,
-            args.uv_cmd,
             repo_root,
         )
         
         if not success:
-            print(f"\nWarning: Failed to process subject '{current_subject}'", file=sys.stderr)
-            failed_subjects.append(current_subject)
+            print(f"\nWarning: Failed to process PDF '{current_pdf_str}'", file=sys.stderr)
+            failed_files.append(current_pdf_str)
             # Remove from list anyway to avoid infinite loop
-            subjects.pop(0)
-            write_state_file(state_file, subjects)
+            pdf_files_str.pop(0)
+            write_state_file(state_file, pdf_files_str)
             continue
         
         # Commit changes
-        if not commit_changes(current_subject, repo_root):
-            print(f"\nWarning: Failed to commit changes for subject '{current_subject}'", file=sys.stderr)
+        if not commit_changes(current_pdf_str, repo_root):
+            print(f"\nWarning: Failed to commit changes for PDF '{current_pdf_str}'", file=sys.stderr)
             # Continue anyway
         
         # Remove from unprocessed list
-        subjects.pop(0)
-        write_state_file(state_file, subjects)
+        pdf_files_str.pop(0)
+        write_state_file(state_file, pdf_files_str)
         processed_count += 1
         
-        print(f"\nProgress: {processed_count} completed, {len(subjects)} remaining")
+        print(f"\nProgress: {processed_count} completed, {len(pdf_files_str)} remaining")
     
     # Final summary
     print(f"\n{'='*60}")
     print("Processing complete!")
-    print(f"Successfully processed: {processed_count} subject(s)")
+    print(f"Successfully processed: {processed_count} PDF file(s)")
     
-    if failed_subjects:
-        print(f"Failed to process: {len(failed_subjects)} subject(s)")
-        for subject in failed_subjects:
-            print(f"  - {subject}")
+    if failed_files:
+        print(f"Failed to process: {len(failed_files)} PDF file(s)")
+        for pdf_file in failed_files:
+            print(f"  - {pdf_file}")
         return 2
     
     # Clean up state file

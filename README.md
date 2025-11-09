@@ -44,6 +44,7 @@ The CLI can tidy downloaded folders and convert PDFs to Markdown using your choi
 
 - `--post-process` runs the organiser once downloads finish (skipped during `--dry-run`).
 - `--post-process-only` skips downloading and processes the existing output directory.
+- `--post-process-file <path>` processes a single PDF file (copy to pdfs/ if needed, convert to Markdown). Cannot be combined with `--post-process` or `--post-process-only`.
 - `--post-process-workers N` limits how many subject folders are handled concurrently (ignored for the `marker` converter, which always runs a single worker).
 - `--converter {markitdown,marker}` selects the PDF to Markdown converter (default: `markitdown`).
 
@@ -64,6 +65,9 @@ uv run python main.py --subjects Geography --post-process --converter marker
 
 # Only re-run the organiser against an existing output directory with marker (single worker enforced)
 uv run python main.py --output Documents --post-process-only --converter marker
+
+# Process a single PDF file
+uv run python main.py --post-process-file Documents/Art-and-Design/sample.pdf --converter markitdown
 ```
 
 ### Long-running batch processing
