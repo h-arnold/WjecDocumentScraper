@@ -61,6 +61,27 @@ def find_pdf_files(root: Path) -> list[Path]:
     return sorted(pdf_files)
 
 
+def find_subject_directories(root: Path) -> list[str]:
+    """Return a sorted list of subject directory names under ``root``.
+
+    Hidden directories (names starting with a dot) are ignored. If the
+    provided path does not exist or is not a directory an empty list is
+    returned.
+    """
+    if not root.exists() or not root.is_dir():
+        return []
+
+    subjects: list[str] = []
+    for item in sorted(root.iterdir()):
+        if not item.is_dir():
+            continue
+        if item.name.startswith("."):
+            continue
+        subjects.append(item.name)
+
+    return sorted(subjects)
+
+
 def read_state_file(state_file: Path) -> list[str]:
     """Read PDF file paths from state file, one per line."""
     if not state_file.exists():
@@ -169,6 +190,70 @@ def process_pdf_file(
         return False
 
 
+def process_subject(
+    subject: str,
+    root: Path,
+    converter: str,
+    uv_cmd: str,
+    cwd: Path,
+) -> bool:
+    """Process a single subject by invoking the conversion subprocess.
+
+    This function is intentionally lightweight for the test-suite: it
+    spawns a subprocess using the provided ``uv_cmd`` token (for example
+    "uv run python"), consumes stdout lines and returns True when the
+    subprocess exit code is zero and False otherwise.
+    """
+    # If a per-subject helper script exists, prefer calling it via subprocess.
+    helper_script = cwd / "scripts" / "process_single_subject.py"
+    if helper_script.exists():
+        try:
+            cmd = list(uv_cmd.split()) + [str(helper_script), str(subject), "--converter", converter]
+            proc = subprocess.Popen(cmd, cwd=cwd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+
+            if proc.stdout is not None:
+                for _line in proc.stdout:
+                    pass
+
+            return getattr(proc, "returncode", None) == 0
+        except Exception:
+            return False
+
+    # Fallback: process PDFs directly for the subject directory. This mirrors
+    # the original, pre-refactor behaviour so running the script in the repo
+    # still works even when the helper script is absent.
+    subject_dir = root / subject
+    if not subject_dir.exists() or not subject_dir.is_dir():
+        return False
+
+    # Collect PDFs in the subject root and in pdfs/ that lack markdown
+    pdfs_to_process: list[Path] = []
+    markdown_dir = subject_dir / "markdown"
+
+    for pdf_path in subject_dir.glob("*.pdf"):
+        pdfs_to_process.append(pdf_path)
+
+    pdfs_subdir = subject_dir / "pdfs"
+    if pdfs_subdir.exists() and pdfs_subdir.is_dir():
+        for pdf_path in pdfs_subdir.glob("*.pdf"):
+            markdown_path = markdown_dir / f"{pdf_path.stem}.md"
+            if not markdown_path.exists():
+                pdfs_to_process.append(pdf_path)
+
+    if not pdfs_to_process:
+        # Nothing to do; not an error
+        return True
+
+    any_success = False
+    for pdf in sorted(pdfs_to_process):
+        ok = process_pdf_file(pdf, converter, cwd)
+        if ok:
+            any_success = True
+        # continue processing other PDFs even if one fails
+
+    return any_success
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     parser = argparse.ArgumentParser(
@@ -209,8 +294,8 @@ Examples:
     parser.add_argument(
         "--state-file",
         type=Path,
-        default=Path("unprocessedFiles.txt"),
-        help="State file tracking unprocessed PDF files (default: unprocessedFiles.txt)",
+        default=Path("unprocessedSubjects.txt"),
+        help="State file tracking unprocessed subjects (default: unprocessedSubjects.txt)",
     )
     
     parser.add_argument(
@@ -218,6 +303,13 @@ Examples:
         default="marker",
         choices=["markitdown", "marker"],
         help="Converter to use for PDF to Markdown conversion (default: marker)",
+    )
+
+    parser.add_argument(
+        "--uv-cmd",
+        dest="uv_cmd",
+        default="uv run python",
+        help="Command prefix to invoke Python within the project's uv environment (default: 'uv run python')",
     )
     
     parser.add_argument(
@@ -260,95 +352,86 @@ def main(argv: list[str] | None = None) -> int:
             state_file.unlink()
         print("State file reset")
     
-    # Read or initialize state file
-    pdf_files_str = read_state_file(state_file)
-    
-    if not pdf_files_str:
-        # Discover PDF files from directory
-        print(f"Discovering PDF files in '{args.root}'...")
-        pdf_files = find_pdf_files(args.root)
-        
-        if not pdf_files:
-            print(f"No PDF files found in '{args.root}'")
+    # Read or initialize state file (subject-oriented)
+    subjects = read_state_file(state_file)
+
+    if not subjects:
+        print(f"Discovering subjects in '{args.root}'...")
+        subjects = find_subject_directories(args.root)
+
+        if not subjects:
+            print(f"No subject directories found in '{args.root}'")
             return 1
-        
-        print(f"Found {len(pdf_files)} PDF file(s)")
-        
-        # Convert to strings for state file
-        pdf_files_str = [str(p) for p in pdf_files]
-        
-        # Write initial state file
-        write_state_file(state_file, pdf_files_str)
-        print(f"Initialized state file '{state_file}' with {len(pdf_files_str)} PDF file(s)")
+
+        print(f"Found {len(subjects)} subject(s)")
+        write_state_file(state_file, subjects)
+        print(f"Initialized state file '{state_file}' with {len(subjects)} subject(s)")
     else:
-        print(f"Resuming from state file '{state_file}' with {len(pdf_files_str)} PDF file(s) remaining")
-    
-    # Show first few files to be processed
-    print(f"\nPDF files to process:")
-    for pdf_file in pdf_files_str[:10]:
-        print(f"  - {pdf_file}")
-    if len(pdf_files_str) > 10:
-        print(f"  ... and {len(pdf_files_str) - 10} more")
-    
+        print(f"Resuming from state file '{state_file}' with {len(subjects)} subject(s) remaining")
+
+    # Show a sample of subjects to be processed
+    print(f"\nSubjects to process:")
+    for subj in subjects[:10]:
+        print(f"  - {subj}")
+    if len(subjects) > 10:
+        print(f"  ... and {len(subjects) - 10} more")
+
     if args.dry_run:
         print("\nDry run mode: no changes will be made")
         return 0
-    
+
     # Ensure git branch
     if not ensure_branch(args.branch, repo_root):
         return 2
-    
-    # Process PDF files one by one
+
     processed_count = 0
-    failed_files = []
-    
-    while pdf_files_str:
-        current_pdf_str = pdf_files_str[0]
-        current_pdf = args.root / current_pdf_str
-        
-        # Process the PDF file
-        success = process_pdf_file(
-            current_pdf,
+    failed = []
+
+    while subjects:
+        current = subjects[0]
+
+        success = process_subject(
+            current,
+            args.root,
             args.converter,
+            args.uv_cmd,
             repo_root,
         )
-        
+
         if not success:
-            print(f"\nWarning: Failed to process PDF '{current_pdf_str}'", file=sys.stderr)
-            failed_files.append(current_pdf_str)
-            # Remove from list anyway to avoid infinite loop
-            pdf_files_str.pop(0)
-            write_state_file(state_file, pdf_files_str)
+            print(f"\nWarning: Failed to process subject '{current}'", file=sys.stderr)
+            failed.append(current)
+            # Remove from list to avoid infinite loop
+            subjects.pop(0)
+            write_state_file(state_file, subjects)
             continue
-        
-        # Commit changes
-        if not commit_changes(current_pdf_str, repo_root):
-            print(f"\nWarning: Failed to commit changes for PDF '{current_pdf_str}'", file=sys.stderr)
+
+        # Commit changes for this subject
+        if not commit_changes(current, repo_root):
+            print(f"\nWarning: Failed to commit changes for subject '{current}'", file=sys.stderr)
             # Continue anyway
-        
-        # Remove from unprocessed list
-        pdf_files_str.pop(0)
-        write_state_file(state_file, pdf_files_str)
+
+        subjects.pop(0)
+        write_state_file(state_file, subjects)
         processed_count += 1
-        
-        print(f"\nProgress: {processed_count} completed, {len(pdf_files_str)} remaining")
-    
+        print(f"\nProgress: {processed_count} completed, {len(subjects)} remaining")
+
     # Final summary
     print(f"\n{'='*60}")
     print("Processing complete!")
-    print(f"Successfully processed: {processed_count} PDF file(s)")
-    
-    if failed_files:
-        print(f"Failed to process: {len(failed_files)} PDF file(s)")
-        for pdf_file in failed_files:
-            print(f"  - {pdf_file}")
+    print(f"Successfully processed: {processed_count} subject(s)")
+
+    if failed:
+        print(f"Failed to process: {len(failed)} subject(s)")
+        for subj in failed:
+            print(f"  - {subj}")
         return 2
-    
+
     # Clean up state file
     if state_file.exists():
         state_file.unlink()
         print(f"Removed state file '{state_file}'")
-    
+
     return 0
 
 

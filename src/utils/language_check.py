@@ -51,7 +51,7 @@ def build_language_tool(
 	*,
 	disabled_rules: set[str] | None = None,
 	ignored_words: set[str] | None = None,
-) -> language_tool_python.LanguageTool | language_tool_python.LanguageToolPublicAPI:
+) -> Any:
 	"""Instantiate a LanguageTool checker for the requested language.
 
 	Falls back to the public API when the local Java runtime is unavailable.
@@ -95,11 +95,17 @@ def build_language_tool(
 			_internal = getattr(tool, "_ignore_words", None)
 			if _internal is not None and hasattr(_internal, "update"):
 				_internal.update(words_to_ignore)
-			elif hasattr(tool, "addIgnoreTokens"):
-				try:
-					tool.addIgnoreTokens(list(words_to_ignore))
-				except Exception:
-					pass
+			else:
+				# Prefer calling a public API if present. Use getattr to avoid
+				# static-analysis errors when the upstream stubs don't include
+				# this method name or when different implementations expose
+				# different method names.
+				_add = getattr(tool, "addIgnoreTokens", None)
+				if callable(_add):
+					try:
+						_add(list(words_to_ignore))
+					except Exception:
+						pass
 			LOGGER.info("Ignoring words: %s", ", ".join(sorted(words_to_ignore)))
 		except Exception:
 			LOGGER.info("Will filter ignored words in post-processing: %s", ", ".join(sorted(words_to_ignore)))
@@ -215,7 +221,7 @@ def _make_issue(match: object, filename: str, text: str = "", page_map: dict[int
 def check_document(
 	document_path: Path,
 	subject: str,
-	tool: object,
+	tool: Any,
 	*,
 	ignored_words: set[str] | None = None,
 ) -> DocumentReport:
@@ -311,7 +317,7 @@ def check_single_document(
 	*,
 	subject: Optional[str] = None,
 	language: str = "en-GB",
-	tool: object | None = None,
+	tool: Any | None = None,
 	disabled_rules: set[str] | None = None,
 	ignored_words: set[str] | None = None,
 ) -> DocumentReport:
@@ -455,7 +461,7 @@ def run_language_checks(
 	language: str = "en-GB",
 	subject: Path | str | None = None,
 	document: Path | None = None,
-	tool: object | None = None,
+	tool: Any | None = None,
 	disabled_rules: set[str] | None = None,
 	ignored_words: set[str] | None = None,
 ) -> Path:
