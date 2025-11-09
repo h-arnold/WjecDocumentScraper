@@ -248,54 +248,68 @@ class TestCommitChanges:
 
 class TestProcessSubject:
     """Tests for process_subject function."""
-    
-    @patch("subprocess.Popen")
-    def test_successful_processing(self, mock_popen, tmp_path):
-        # Mock successful subprocess
-        mock_proc = MagicMock()
-        mock_proc.stdout = iter(["line 1\n", "line 2\n"])
-        mock_proc.returncode = 0
-        mock_popen.return_value = mock_proc
-        
+    def test_successful_processing(self, tmp_path):
+        # Prepare a real subject directory containing the sample PDF fixture
+        docs = tmp_path / "Documents"
+        docs.mkdir()
+        subject_dir = docs / "Test-Subject"
+        subject_dir.mkdir()
+
+        fixture_pdf = Path(__file__).resolve().parent / "fixtures" / "sample-short.pdf"
+        target_pdf = subject_dir / "sample-short.pdf"
+        # Copy the fixture PDF into the subject directory
+        target_pdf.write_bytes(fixture_pdf.read_bytes())
+
+        # Run processing (uses process_pdf_file fallback). Use the project
+        # root as the cwd so imports for `src` resolve correctly.
+        repo_root = Path(__file__).resolve().parents[1]
         result = process_subject(
             "Test-Subject",
-            tmp_path / "Documents",
-            "marker",
+            docs,
+            "markitdown",
             "uv run python",
-            tmp_path,
+            repo_root,
         )
-        
+
         assert result is True
-    
-    @patch("subprocess.Popen")
-    def test_failed_processing(self, mock_popen, tmp_path):
-        mock_proc = MagicMock()
-        mock_proc.stdout = iter(["error\n"])
-        mock_proc.returncode = 1
-        mock_popen.return_value = mock_proc
-        
+        # Confirm that a markdown file was created
+        md = subject_dir / "markdown" / "sample-short.md"
+        assert md.exists()
+        content = md.read_text(encoding="utf-8")
+        assert content.strip() != ""
+
+    def test_failed_processing(self, tmp_path):
+        # Nonexistent subject should return False
+        docs = tmp_path / "Documents"
+        docs.mkdir()
+
+        repo_root = Path(__file__).resolve().parents[1]
         result = process_subject(
-            "Test-Subject",
-            tmp_path / "Documents",
-            "marker",
+            "NoSuchSubject",
+            docs,
+            "markitdown",
             "uv run python",
-            tmp_path,
+            repo_root,
         )
-        
+
         assert result is False
-    
-    @patch("subprocess.Popen")
-    def test_exception_during_processing(self, mock_popen, tmp_path):
-        mock_popen.side_effect = Exception("Test exception")
-        
+
+    def test_exception_during_processing(self, tmp_path):
+        # Create a file with the subject name (not a directory) to provoke a failure
+        docs = tmp_path / "Documents"
+        docs.mkdir()
+        bad_subject = docs / "Bad-Subject"
+        bad_subject.write_text("not a directory")
+
+        repo_root = Path(__file__).resolve().parents[1]
         result = process_subject(
-            "Test-Subject",
-            tmp_path / "Documents",
-            "marker",
+            "Bad-Subject",
+            docs,
+            "markitdown",
             "uv run python",
-            tmp_path,
+            repo_root,
         )
-        
+
         assert result is False
 
 
