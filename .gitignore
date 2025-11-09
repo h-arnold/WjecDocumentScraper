@@ -11,4 +11,4 @@ wheels/
 
 # Script state files
 unprocessedSubjects.txt
-unprocessed
+unprocessedFiles.txt
