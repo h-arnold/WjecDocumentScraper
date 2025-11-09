@@ -116,17 +116,16 @@ def process_subject(
     cwd: Path,
 ) -> bool:
     """Process a single subject using main.py. Returns True on success."""
-    # Build the command
-    cmd = f'{uv_cmd} main.py --post-process-only --subjects "{subject}" --output {shlex.quote(str(root))} --converter {converter}'
+    # Build the command as a list for safety
+    parts = [*shlex.split(uv_cmd), 'main.py', '--post-process-only', '--subjects', subject, '--output', str(root), '--converter', converter]
     
     print(f"\n{'='*60}")
     print(f"Processing subject: {subject}")
-    print(f"Command: {cmd}")
+    print(f"Command: {' '.join(shlex.quote(arg) for arg in parts)}")
     print(f"{'='*60}\n")
     
     # Run the command
     try:
-        parts = shlex.split(cmd)
         proc = subprocess.Popen(
             parts,
             cwd=cwd,
