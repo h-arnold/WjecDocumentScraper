@@ -112,7 +112,7 @@ def run(
                 "Marker converter runs with a single worker; overriding max_workers=%s to 1.",
                 max_workers,
             )
-        effective_workers = 2
+        effective_workers = 1
 
     executor_kwargs = {}
     if effective_workers is not None:
