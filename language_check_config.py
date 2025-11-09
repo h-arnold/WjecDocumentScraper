@@ -86,6 +86,46 @@ DEFAULT_IGNORED_WORDS = {
     "nano",
 }
 
+# Additional words observed in the language-check report that are valid
+# terms or proper nouns for WJEC documents. These are case-sensitive
+# entries because the spellchecker configuration preserves casing.
+ADDITIONAL_IGNORED = {
+    # Welsh / domain-specific
+    "cynefin",
+    "Cynefin",
+
+    # Education / resource names
+    "Bitesize",
+    "Eduqas",
+
+    # Museums / organisations and acronyms seen in reports
+    "MoMA",
+    "MOMA",
+    "Mostyn",
+    "Presteigne",
+    "UWTSD",
+    "NSEAD",
+
+    # People / names encountered
+    "Lubaina",
+    "Himid",
+    "Yinka",
+    "Shonibare",
+
+    # Other acronyms and subject-specific tokens
+    "CWRE",
+    "AOs",
+    "SAMs",
+    "SAM",
+
+    # Vendor / product names
+    "kitronik",
+    "Kitronik",
+}
+
+# Merge the additional set into the main default set
+DEFAULT_IGNORED_WORDS.update(ADDITIONAL_IGNORED)
+
 # Welsh words frequently seen in WJEC documents; add both common case variants
 # and hyphenated forms found in the language report so the checker won't flag them.
 DEFAULT_IGNORED_WELSH = {
