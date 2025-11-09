@@ -379,8 +379,8 @@ Examples:
     parser.add_argument(
         "--state-file",
         type=Path,
-        default=Path("unprocessedFiles.txt"),
-        help="State file tracking unprocessed PDF paths (default: unprocessedFiles.txt)",
+        default=Path("unprocessedSubjects.txt"),
+        help="State file tracking unprocessed subjects (default: unprocessedSubjects.txt)",
     )
     
     parser.add_argument(
@@ -439,32 +439,29 @@ def main(argv: list[str] | None = None) -> int:
             state_file.unlink()
         print("State file reset")
     
-    # Read or initialize state file (file-oriented)
-    pdf_entries = read_state_file(state_file)
+    # Read or initialize state file (subject-oriented)
+    subjects = read_state_file(state_file)
 
-    if not pdf_entries:
-        print(f"Discovering PDF files in '{args.root}'...")
-        pdf_paths = find_pdf_files(args.root)
+    if not subjects:
+        print(f"Discovering subjects in '{args.root}'...")
+        subjects = find_subject_directories(args.root)
 
-        if not pdf_paths:
-            print(f"No PDF files found in '{args.root}'")
+        if not subjects:
+            print(f"No subject directories found in '{args.root}'")
             return 1
 
-        # find_pdf_files returns Path objects relative to the root; store as strings
-        pdf_entries = [str(p) for p in pdf_paths]
-
-        print(f"Found {len(pdf_entries)} PDF file(s)")
-        write_state_file(state_file, pdf_entries)
-        print(f"Initialized state file '{state_file}' with {len(pdf_entries)} PDF(s)")
+        print(f"Found {len(subjects)} subject(s)")
+        write_state_file(state_file, subjects)
+        print(f"Initialized state file '{state_file}' with {len(subjects)} subject(s)")
     else:
-        print(f"Resuming from state file '{state_file}' with {len(pdf_entries)} PDF(s) remaining")
+        print(f"Resuming from state file '{state_file}' with {len(subjects)} subject(s) remaining")
 
-    # Show a sample of PDFs to be processed
-    print(f"\nPDFs to process:")
-    for entry in pdf_entries[:10]:
-        print(f"  - {entry}")
-    if len(pdf_entries) > 10:
-        print(f"  ... and {len(pdf_entries) - 10} more")
+    # Show a sample of subjects to be processed
+    print(f"\nSubjects to process:")
+    for subj in subjects[:10]:
+        print(f"  - {subj}")
+    if len(subjects) > 10:
+        print(f"  ... and {len(subjects) - 10} more")
 
     if args.dry_run:
         print("\nDry run mode: no changes will be made")
@@ -477,40 +474,34 @@ def main(argv: list[str] | None = None) -> int:
     processed_count = 0
     failed = []
 
-    # Process PDF files one by one (state file contains relative PDF paths)
-    while pdf_entries:
-        current = pdf_entries[0]
+    while subjects:
+        current = subjects[0]
 
-        # Build absolute path to the PDF
-        pdf_path = args.root / Path(current)
-
-        success = process_pdf_file(pdf_path, args.converter, repo_root)
+        success = process_subject(
+            current,
+            args.root,
+            args.converter,
+            args.uv_cmd,
+            repo_root,
+        )
 
         if not success:
-            print(f"\nWarning: Failed to process PDF '{current}'", file=sys.stderr)
+            print(f"\nWarning: Failed to process subject '{current}'", file=sys.stderr)
             failed.append(current)
             # Remove from list to avoid infinite loop
-            pdf_entries.pop(0)
-            write_state_file(state_file, pdf_entries)
+            subjects.pop(0)
+            write_state_file(state_file, subjects)
             continue
 
-        # Commit changes for the subject that contains this PDF (markdown files)
-        # Determine subject name from the PDF relative path. The first path component
-        # should be the subject directory name.
-        try:
-            subject_name = Path(current).parts[0]
-        except Exception:
-            subject_name = ""
+        # Commit changes for this subject
+        if not commit_changes(current, repo_root):
+            print(f"\nWarning: Failed to commit changes for subject '{current}'", file=sys.stderr)
+            # Continue anyway
 
-        if subject_name:
-            if not commit_changes(subject_name, args.root, repo_root):
-                print(f"\nWarning: Failed to commit changes for subject '{subject_name}'", file=sys.stderr)
-                # Continue anyway
-
-        pdf_entries.pop(0)
-        write_state_file(state_file, pdf_entries)
+        subjects.pop(0)
+        write_state_file(state_file, subjects)
         processed_count += 1
-        print(f"\nProgress: {processed_count} completed, {len(pdf_entries)} remaining")
+        print(f"\nProgress: {processed_count} completed, {len(subjects)} remaining")
 
     # Final summary
     print(f"\n{'='*60}")

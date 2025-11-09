@@ -95,11 +95,17 @@ def build_language_tool(
 			_internal = getattr(tool, "_ignore_words", None)
 			if _internal is not None and hasattr(_internal, "update"):
 				_internal.update(words_to_ignore)
-			elif hasattr(tool, "addIgnoreTokens"):
-				try:
-					tool.addIgnoreTokens(list(words_to_ignore))
-				except Exception:
-					pass
+			else:
+				# Prefer calling a public API if present. Use getattr to avoid
+				# static-analysis errors when the upstream stubs don't include
+				# this method name or when different implementations expose
+				# different method names.
+				_add = getattr(tool, "addIgnoreTokens", None)
+				if callable(_add):
+					try:
+						_add(list(words_to_ignore))
+					except Exception:
+						pass
 			LOGGER.info("Ignoring words: %s", ", ".join(sorted(words_to_ignore)))
 		except Exception:
 			LOGGER.info("Will filter ignored words in post-processing: %s", ", ".join(sorted(words_to_ignore)))
