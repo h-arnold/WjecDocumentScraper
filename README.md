@@ -66,6 +66,41 @@ uv run python main.py --subjects Geography --post-process --converter marker
 uv run python main.py --output Documents --post-process-only --converter marker
 ```
 
+### Long-running batch processing
+
+For processing all subjects over an extended period (potentially days), use the `scripts/process_all_subjects.py` script. This script is designed for unattended operation on a server with automatic progress tracking and resumption capabilities.
+
+Features:
+- **Git-based checkpointing**: Creates or checks out a branch (default: `processedDocuments`) and commits after each subject completes
+- **State file tracking**: Maintains `unprocessedSubjects.txt` to track remaining subjects
+- **Resumable**: Can be interrupted and resumed from where it left off
+- **Sequential processing**: Processes subjects one at a time to avoid resource exhaustion
+- **Robust error handling**: Continues processing if a single subject fails
+
+Usage:
+
+```bash
+# Start processing all subjects (or resume if previously interrupted)
+uv run python scripts/process_all_subjects.py
+
+# Preview what would be processed without making changes
+uv run python scripts/process_all_subjects.py --dry-run
+
+# Reset and start from scratch
+uv run python scripts/process_all_subjects.py --reset
+
+# Use a different branch name
+uv run python scripts/process_all_subjects.py --branch my-processed-docs
+
+# Use markitdown converter instead of marker
+uv run python scripts/process_all_subjects.py --converter markitdown
+
+# Specify custom paths
+uv run python scripts/process_all_subjects.py --root ./MyDocuments --state-file ./state.txt
+```
+
+The script discovers all subject directories in the Documents folder, processes each one using `main.py --post-process-only`, and commits the changes to a dedicated branch. If interrupted (e.g., server restart), simply run the script again to continue from where it left off.
+
 ## Gemini LLM helper
 
 The `GeminiLLM` helper in `gemini_llm.py` wraps the Google GenAI SDK so you can reuse system prompts stored in Markdown files when calling the Gemini API.
