@@ -1,139 +1,58 @@
-WHY CHOOSE GCSE
-Dance?
+# WHY CHOOSE GCSE Dance?
 
-The WJEC GCSE Dance qualiﬁcation will support
-you to:
+![](_page_0_Picture_1.jpeg)
 
-•  build  physical,  technical,  and  expressive
-skills  to  develop  performance  and  to  show
-choreographic intent
+# The WJEC GCSE Dance qualification will support you to:
 
-•
+- build physical, technical, and expressive skills to develop performance and to show choreographic intent
+- create and refine original choreography using a variety of stimuli
+- learn about different dance styles, techniques, and ways of presenting dance to an audience to communicate meaning
+- reflect on and evaluate your own and others' work, considering context and technique
 
-•
+# WHAT WILL I STUDY?
 
-•
+The GCSE Dance qualification will allow you to explore and respond to stimuli, create, and reflect on your own work, develop your own creativity and engage with many different styles of dance. You will observe and interpret professional dance works and build on your understanding and application of technical and expressive skills in performance.
 
-create  and  reﬁne  original  choreography
-using a variety of stimuli
+## HOW WILL I BE ASSESSED?
 
-learn
-styles,
-about  different  dance
-techniques, and ways of presenting dance to
-an audience to communicate meaning
+### Unit 1 – Choreography
 
-reﬂect on and evaluate your own and others’
-work, considering context and technique
+Practical non-exam assessment 40% of qualification: 96 marks
 
-WHAT WILL I STUDY?
+One choreographed piece in response to a chosen stimulus, from a given selection. You will create either a solo dance or dance for a group of two to five dancers.
 
-The  GCSE  Dance  qualiﬁcation  will  allow  you  to
-explore and respond to stimuli, create, and reﬂect on
-your  own  work,  develop  your  own  creativity  and
-engage with many different styles of dance. You will
-observe and interpret professional dance works and
-build  on  your  understanding  and  application  of
-technical and expressive skills in performance.
+#### Unit 2 – Performance
 
-HOW WILL I BE ASSESSED?
+Practical non-exam assessment 30% of qualification: 72 marks
 
-Unit 1 – Choreography
-Practical non-exam assessment
-40% of qualiﬁcation: 96 marks
+You will perform two pieces of repertoire from different styles/genres of your choice. One performance must be a solo, the second performance can be a solo or a group performance of between two and five dancers.
 
-One  choreographed  piece  in  response  to  a  chosen
-stimulus, from a given selection. You will create either
-a  solo  dance  or  dance  for  a  group  of  two  to  ﬁve
-dancers.
+#### Unit 3 – Dance Appreciation
 
-Unit 2 – Performance
-Practical non-exam assessment
-30% of qualiﬁcation: 72 marks
+Assessment Type: Digital exam (1 hour 45 mins) 30% of qualification: 72 marks
 
-You  will  perform  two  pieces  of  repertoire  from
-different  styles/genres  of  your  choice.  One
-performance  must  be  a
-second
-performance can be a solo or a group performance
-of between two and ﬁve dancers.
+The exam is broken into four sections and will ask questions on:
 
-solo,
+## WHAT SKILLS WILL I DEVELOP?
 
-the
+Exploratory Skills: you will have the opportunity to explore, experience and interpret many different styles and genres of dance linked to different cultures in Wales and the world. You will be able to build on these ideas and experiences to create and develop your own technical, creative and choreographic skills and to underpin your own expressive skills in performance.
 
-Unit 3 – Dance Appreciation
-Assessment Type: Digital exam (1 hour 45 mins)
-30% of qualiﬁcation: 72 marks
+Creative Skills: in Unit 1, you will choreograph your own original dance work in response to a stimulus and in a style/genre of your choice.
 
-The  exam  is  broken  into  four  sections  and  will  ask
-questions on:
+Evaluation Skills: you will be able to recount, evaluate and refine your choreographic and performance work through self-reflection and feedback from others. You will also be able to evaluate and analyse the work of others to inform your own creativity and appreciation of dance.
 
-A.  the compulsory set dance work
-B.
-the longer set dance work (from a choice)
-C.
-the shorter set dance work (from a choice)
-D.  an excerpt of a professional dance work that
-you will be able to watch in the exam.
+Practical Dance Skills: in Unit 2 you will develop your dance skills such as technical and expressive skills, through rehearsal and final performances of two pieces of repertoire.
 
-WHAT SKILLS WILL I DEVELOP?
+Analytical Skills: you will enjoy watching and interpreting professional dance works gaining an understanding of the artistic, cultural, emotional, and technical elements.
 
-Exploratory  Skills:  you  will  have  the  opportunity  to
-explore, experience and interpret many different styles
-and  genres  of  dance  linked  to  different  cultures  in
-Wales and the world. You will be able to build on these
-ideas and experiences to create and develop your own
-technical,  creative  and  choreographic  skills  and  to
-underpin your own expressive skills in performance.
+#### CAREERS IN DANCE
 
-Creative Skills: in Unit 1, you will choreograph your own
-original dance work in response to a stimulus and in a
-style/genre of your choice.
+This qualification provides an excellent foundation for the study of Dance at A-level and Level 3. It will also provide a satisfying and worthwhile course of study for you if you choose not to study further.
 
-Evaluation Skills: you will be able to recount, evaluate
-and reﬁne your choreographic and performance work
-through self-reﬂection and feedback from others. You
-will also be able to evaluate and analyse the work of
-others to inform your own creativity and appreciation
-of dance.
+Importantly, studying Dance will develop many transferable skills including communication, presentation skills, team working, leadership, focus, refinement, creativity, and self-confidence. The career options that come from studying Dance are extensive, but here are a few of those options:
 
-Practical Dance Skills: in Unit 2 you will develop your
-dance  skills  such  as  technical  and  expressive  skills,
-through  rehearsal  and  ﬁnal  performances  of  two
-pieces of repertoire.
-
-Analytical  Skills:  you  will  enjoy  watching  and
-interpreting  professional  dance  works  gaining  an
-understanding of the artistic, cultural, emotional, and
-technical elements.
-
-CAREERS IN DANCE
-
-This qualiﬁcation provides an excellent foundation for
-the study of Dance at A-level and Level 3. It will also
-provide a satisfying and worthwhile course of study for
-you if you choose not to study further.
-
-skills
-
-Importantly,  studying  Dance  will  develop  many
-transferable
-communication,
-presentation  skills,  team  working,  leadership,  focus,
-reﬁnement, creativity, and self-conﬁdence. The career
-options that come from studying Dance are extensive,
-but here are a few of those options:
-
-including
-
-Professional  Dancer,  Choreographer,  Dance  Captain,
-Rehearsal  Director,  Dance  Teacher,  Dance  Lecturer,
-Workshop Leader, Dance Movement Therapist, Sports
-Therapist,  Dance  Fitness  Instructor,  Yoga  Instructor,
-Stage  Manager,  Physiotherapist,  Dance  Critic,  Dance
-Journalist,  Content  Creator,  Video  Editor,  Producer,
-Learning and Participation Lead.
+Professional Dancer, Choreographer, Dance Captain, Rehearsal Director, Dance Teacher, Dance Lecturer, Workshop Leader, Dance Movement Therapist, Sports Therapist, Dance Fitness Instructor, Yoga Instructor, Stage Manager, Physiotherapist, Dance Critic, Dance Journalist, Content Creator, Video Editor, Producer, Learning and Participation Lead.
 
 FIND OUT MORE -TALK TO YOUR TEACHER TODAY!
 
+![](_page_0_Picture_30.jpeg)
