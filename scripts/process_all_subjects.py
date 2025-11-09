@@ -135,29 +135,114 @@ def ensure_branch(branch_name: str, cwd: Path) -> bool:
     return True
 
 
-def commit_changes(pdf_file: str, cwd: Path) -> bool:
-    """Commit all changes with a message about the processed PDF file. Returns True on success."""
-    # Add all changes
-    exit_code, output = git_command(["add", "."], cwd)
+def commit_changes(subject: str, documents_root_or_cwd: Path, cwd: Path | None = None) -> bool:
+    """Commit changes after processing a subject.
+
+    Two supported call signatures for convenience in tests and script usage:
+    - Legacy: commit_changes(subject, cwd)
+      -> stages all changes (git add .) in ``cwd`` and commits (original behaviour).
+    - New: commit_changes(subject, documents_root, cwd)
+      -> stages only markdown files under ``<documents_root>/<subject>/markdown``, commits
+         and pushes the current branch.
+
+    Returns True on success or when there is nothing to commit.
+    """
+    # Determine which calling convention is used
+    if cwd is None:
+        # Legacy form: second arg is cwd
+        cwd = documents_root_or_cwd
+        # Stage all changes (original behaviour)
+        exit_code, output = git_command(["add", "."], cwd)
+        if exit_code != 0:
+            print(f"Failed to stage changes: {output}", file=sys.stderr)
+            return False
+
+        # Check if there are changes to commit
+        exit_code, output = git_command(["diff", "--cached", "--quiet"], cwd)
+        if exit_code == 0:
+            # No changes to commit
+            print(f"No changes to commit for subject '{subject}'")
+            return True
+
+        # Commit changes
+        commit_message = f"Process subject: {subject}"
+        exit_code, output = git_command(["commit", "-m", commit_message], cwd)
+        if exit_code != 0:
+            print(f"Failed to commit changes: {output}", file=sys.stderr)
+            return False
+
+        print(f"Committed changes for subject '{subject}'")
+        return True
+
+    # New calling convention: documents_root_or_cwd is documents_root, cwd is repo cwd
+    documents_root = documents_root_or_cwd
+
+    markdown_dir = documents_root / subject / "markdown"
+
+    if not markdown_dir.exists() or not markdown_dir.is_dir():
+        print(f"No markdown directory for subject '{subject}' -> nothing to commit")
+        return True
+
+    # Ask git for any changed files under the markdown directory
+    rel_path = str(markdown_dir)
+    exit_code, output = git_command(["status", "--porcelain", "--", rel_path], cwd)
     if exit_code != 0:
-        print(f"Failed to stage changes: {output}", file=sys.stderr)
+        print(f"Failed to query git status for '{rel_path}': {output}", file=sys.stderr)
         return False
-    
-    # Check if there are changes to commit
+
+    changed_files: list[str] = []
+    for line in output.splitlines():
+        if not line:
+            continue
+        # git status --porcelain format: XY <path>
+        parts = line.strip().split(maxsplit=1)
+        if len(parts) == 2:
+            path_part = parts[1]
+            # Only consider markdown files
+            if path_part.endswith('.md'):
+                changed_files.append(path_part)
+
+    if not changed_files:
+        print(f"No markdown changes to commit for subject '{subject}'")
+        return True
+
+    # Stage only the markdown files
+    cmd = ["add", "--"] + changed_files
+    exit_code, output = git_command(cmd, cwd)
+    if exit_code != 0:
+        print(f"Failed to stage markdown files: {output}", file=sys.stderr)
+        return False
+
+    # Check if there are staged changes
     exit_code, output = git_command(["diff", "--cached", "--quiet"], cwd)
     if exit_code == 0:
-        # No changes to commit
-        print(f"No changes to commit for PDF '{pdf_file}'")
+        print(f"No staged changes to commit for subject '{subject}'")
         return True
-    
-    # Commit changes
-    commit_message = f"Process PDF: {pdf_file}"
+
+    commit_message = f"Process subject: {subject} (generated markdown)"
     exit_code, output = git_command(["commit", "-m", commit_message], cwd)
     if exit_code != 0:
         print(f"Failed to commit changes: {output}", file=sys.stderr)
         return False
-    
-    print(f"Committed changes for PDF '{pdf_file}'")
+
+    print(f"Committed markdown changes for subject '{subject}'")
+
+    # Determine current branch and push
+    exit_code, branch = git_command(["rev-parse", "--abbrev-ref", "HEAD"], cwd)
+    if exit_code != 0:
+        print(f"Failed to determine current branch: {branch}", file=sys.stderr)
+        return True  # commit succeeded; treat push as non-fatal
+
+    branch = branch.strip()
+    if not branch:
+        print("Unable to determine current branch to push", file=sys.stderr)
+        return True
+
+    exit_code, output = git_command(["push", "--set-upstream", "origin", branch], cwd)
+    if exit_code != 0:
+        print(f"Warning: failed to push branch '{branch}': {output}", file=sys.stderr)
+        # push failure is non-fatal for the conversion process
+
     return True
 
 
@@ -340,10 +425,12 @@ def main(argv: list[str] | None = None) -> int:
     # Get repository root (assume we're in the repo)
     repo_root = Path.cwd()
     
-    # Handle state file path (relative to repo root)
+    # Handle state file path (relative to the provided root directory when relative)
     state_file = args.state_file
     if not state_file.is_absolute():
-        state_file = repo_root / state_file
+        # Place the state file alongside the provided root so running against a
+        # temporary Documents dir (tests) doesn't pick up the repo-level state file.
+        state_file = args.root / state_file
     
     # Reset state file if requested
     if args.reset:
@@ -406,8 +493,8 @@ def main(argv: list[str] | None = None) -> int:
             write_state_file(state_file, subjects)
             continue
 
-        # Commit changes for this subject
-        if not commit_changes(current, repo_root):
+        # Commit changes for this subject (only markdown files)
+        if not commit_changes(current, args.root, repo_root):
             print(f"\nWarning: Failed to commit changes for subject '{current}'", file=sys.stderr)
             # Continue anyway
 
