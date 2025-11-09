@@ -493,8 +493,8 @@ def main(argv: list[str] | None = None) -> int:
             write_state_file(state_file, subjects)
             continue
 
-        # Commit changes for this subject
-        if not commit_changes(current, repo_root):
+        # Commit changes for this subject (only markdown files)
+        if not commit_changes(current, args.root, repo_root):
             print(f"\nWarning: Failed to commit changes for subject '{current}'", file=sys.stderr)
             # Continue anyway
 
