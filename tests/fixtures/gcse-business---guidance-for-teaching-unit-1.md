@@ -1,0 +1,851 @@
+
+
+{0}------------------------------------------------
+
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+# WJEC GCSE Business
+
+Approved by Qualifications Wales
+
+Guidance for Teaching: Unit 1
+
+Teaching from 2025 For award from 2027
+
+![](_page_0_Picture_6.jpeg)
+
+Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
+
+Made for Wales.
+
+{1}------------------------------------------------
+
+![](_page_1_Picture_0.jpeg)
+
+{2}------------------------------------------------
+
+# Contents
+
+| Introduction                                                     | 1  |
+|------------------------------------------------------------------|----|
+| Aims of the Guidance for Teaching                                | 1  |
+| Additional ways that WJEC can offer support:                     | 1  |
+| Qualification Structure                                          | 2  |
+| Assessment                                                       | 2  |
+| Summary of Assessment                                            | 2  |
+| Overview of Unit 1                                               | 3  |
+| Unit 1 Assessment objectives and weightings                      | 4  |
+| Unit 1 Teacher Guidance                                          | 5  |
+| 1.1 Business Fundamentals                                        | 5  |
+| 1.2 Careers and Business                                         | 11 |
+| 1.3 Different Scales of Business Activity                        | 13 |
+| 1.4 Stakeholders                                                 | 15 |
+| 1.5 Business Ownership and models                                | 17 |
+| 1.6 The Supply Chain                                             | 19 |
+| 1.7 Revenue, Costs and Break-even                                | 21 |
+| 1.8 Location and Site                                            | 23 |
+| Learning Experiences                                             | 25 |
+| Opportunities for embedding elements of the Curriculum for Wales | 27 |
+| Glossary for Unit 1                                              | 45 |
+
+{3}------------------------------------------------
+
+### <span id="page-3-0"></span>Introduction
+
+The WJEC GCSE Business has been approved by Qualifications Wales and is available to all centres in Wales. It will be awarded for the first time in Summer 2027, using grades A\* to G.
+
+#### <span id="page-3-1"></span>Aims of the Guidance for Teaching
+
+The principal aim of the Guidance for Teaching is to support teachers in the delivery of WJEC GCSE Business and to offer guidance on the requirements of the qualification and the assessment process. The Guidance for Teaching is **not intended as a comprehensive reference**, but as support for teachers to develop stimulating and exciting courses tailored to the needs and skills of their learners. The guide offers possible classroom activities and links to useful resources (including our own, freely available digital materials and some from external sources) to provide ideas for immersive and engaging lessons.
+
+#### <span id="page-3-2"></span>Additional ways that WJEC can offer support:
+
+- sample assessment materials and mark schemes
+- professional learning events
+- examiners' reports on each unit
+- direct access to the subject officer
+- free online resources
+- Exam Results Analysis
+- Online Examination Review.
+
+{4}------------------------------------------------
+
+# <span id="page-4-0"></span>Qualification Structure
+
+WJEC GCSE Business consists of 4 units. The qualification is unitised and does not contain tiering. There is no hierarchy to the order the units should be taught.
+
+|        | Unit title                         | Type of Assessment         | Weighting |
+|--------|------------------------------------|----------------------------|-----------|
+| Unit 1 | Introduction to the Business World | Written examination        | 30%       |
+| Unit 2 | Key Business Considerations        | Non-examination assessment | 15%       |
+| Unit 3 | Business Strategies for Success    | Written examination        | 30%       |
+| Unit 4 | Business Creation                  | Non-examination assessment | 25%       |
+
+# <span id="page-4-1"></span>Assessment
+
+# <span id="page-4-2"></span>Summary of Assessment
+
+**Unit 1: Introduction to the Business World**
+
+Written examination: 1 hour 15 minutes
+
+**30% of qualification**
+
+**60 marks**
+
+Questions requiring objective responses, short and extended answers, with some based around applied situations.
+
+{5}------------------------------------------------
+
+# <span id="page-5-0"></span>Overview of Unit 1
+
+Introduction to the Business World 30% of the qualification 60 marks
+
+#### The purpose of this unit is to:
+
+- introduce learners to the key concepts to be explored throughout the course
+- introduce learners to skills
+- introduce learners to business fundamentals
+- introduce the business world and build up knowledge to allow for meaningful analysis and investigation of the themes that follow.
+
+#### The unit will be based on the following concepts:
+
+- business and society
+- business fundamentals
+- economies
+- enterprise
+- innovation
+- opportunities and challenges
+- sustainability.
+
+| 1.1.1 | The purpose of business activity                             |
+|-------|--------------------------------------------------------------|
+| 1.1.2 | The nature of business enterprise                            |
+| 1.1.3 | Types of business aims                                       |
+| 1.1.4 | Different markets                                            |
+| 1.1.5 | Different business sectors                                   |
+| 1.1.6 | The role of the consumer                                     |
+| 1.1.7 | Sustainability                                               |
+| 1.2.1 | Business careers and employment                              |
+| 1.2.2 | Exploring job market trends in Wales, UK and the wider world |
+| 1.3.1 | Different scales of business operation                       |
+| 1.3.2 | The challenge of globalisation                               |
+| 1.3.3 | The nature of multinational business                         |
+| 1.4.1 | Internal and external stakeholders                           |
+| 1.4.2 | The impact of stakeholders on business success               |
+| 1.4.3 | The impact of business on stakeholders                       |
+
+{6}------------------------------------------------
+
+| 1.4.4 | Types of conflict between stakeholders and business           |
+|-------|---------------------------------------------------------------|
+| 1.5.1 | The features of limited and unlimited liability organisations |
+| 1.5.2 | The features of purpose driven businesses                     |
+| 1.5.3 | Deciding on business ownership and models                     |
+| 1.6.1 | The importance of effective supply chain management           |
+| 1.6.2 | The features of the green and circular economy                |
+| 1.7.1 | Revenue, costs and profit                                     |
+| 1.7.2 | The purpose of break-even                                     |
+| 1.7.3 | Break-even and contribution                                   |
+| 1.8.1 | Influences on location |
+| 1.8.2 | The impact of technology on business location                 |
+
+# <span id="page-6-0"></span>Unit 1 Assessment objectives and weightings
+
+| AO1 | Demonstrate knowledge and understanding of business terms, concepts, and theories. | 15% |
+|-----|----------------------------------------------------------------------------------------------------------------------|-----|
+| AO2 | Apply knowledge and understanding of business terms, concepts, and theories to different contexts. | 10% |
+| AO3 | Analyse, evaluate, or make judgements on business issues using business concepts, theories, and business data. | 5% |
+| AO4 | Select, use and apply skills and techniques in practice to undertake enquiries relevant to business. | - |
+
+{7}------------------------------------------------
+
+# Unit 1 Teacher Guidance
+
+<span id="page-7-1"></span><span id="page-7-0"></span>
+
+| 1.1 Business Fundamentals                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |  |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Content Amplification                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |  |
+| 1.1.1 The purpose of business activity | Learners should understand: <ul><li>the purpose of business activity, including its role in:</li><li>opportunities for prosperity</li><li>the provision of goods and services</li><li>satisfying wants and needs</li><li>the nature of business activity, including the:</li><li>competitive environment</li><li>dynamic environment</li><li>innovative environment</li><li>the role of the private sector and public sector. Learners should be aware of examples of public sector organisations.</li></ul> | Teacher led explanation on the purpose of business activity. Business purposes starter – show pictures of a variety of businesses and learners to explain what the purpose of each business is. Learners to generate ideas of local businesses in your area that are created for each purpose. Paired work – learners to be given definitions of wants and needs and then make a list of their own wants and needs. Then clearly categorise into wants and needs. Learners to create a list of local businesses and identify the products and services they offer and if they provide needs or wants. Classification activity – learners asked to distinguish between a variety of goods and services. Learners to create thought showers on goods and services, to include types of: <ul><li>consumer goods – single use and durable</li><li>producer/capital goods</li><li>personal and commercial services. Teacher led explanation of the difference between the private and public sector. Learners to distinguish the difference by providing examples of organisations in each sector.</li></ul> |  |
+
+{8}------------------------------------------------
+
+|  |  | Stretch and challenge - apply knowledge of the private and public sectors to select the types of good and services which are most likely to be produced by each sector. Teacher led explanation on the competitive/dynamic and innovative environment and impact on businesses. Paired work - learners to identify products and services that have changed over time. Use PESTLE framework on Tesco to explore how the business reacts to competition, adapts to changes and looks for opportunities to be innovative. https://businessmodelanalyst.com/tesco-pestle-analysis/ |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1.2 The nature of business enterprise | Learners should know what is meant by business enterprise. Learners should understand: <ul><li>the reasons for starting a business</li><li>why people become entrepreneurs</li><li>the importance of identifying and responding to business opportunities.</li></ul> | Teacher led explanation of business enterprise and class discussion into the variety of reasons for wanting to start a business. Learners to identify a business idea of their own and explain why they would like to be an entrepreneur. Show learners pictures of famous entrepreneurs and ask them to guess their names. Use a variety of different entrepreneurs – famous, local, male, women, young, Black, Asian and minority ethnic – to include different groups within society. Learners to read articles below: https://employmenthero.com/uk/blog/welsh-business-leaders/ https://www.ceotodaymagazine.com/2022/07/jeff-bezos-the inspirational-success-story-of-amazons-founder/ Learners to discuss how the entrepreneurs in the articles identified new opportunities in the business environment. |
+
+{9}------------------------------------------------
+
+|  |  | Research task – learners to research an entrepreneur of their choice and write a short news article on what their business is, how they began and why they are successful. |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1.3 Types of business aims | Learners should understand the main types of business aims, including: <ul><li>customer satisfaction</li><li>environmental and sustainability</li><li>ethical</li><li>growth</li><li>market share</li><li>profit maximisation</li><li>social/community</li><li>survival. Learners should be aware of:</li><li>the growing importance of ethical and environmental aims</li><li>how business aims differ for different businesses</li><li>how business aims can change in a competitive and dynamic environment.</li></ul> | Starter activity – using white boards, learners to write down three of their own aims for this academic year. Teacher led explanation on definition of aims and how they are used by businesses. Class activity - teacher to display list of business aims on board. Use WJEC knowledge organisers to ensure all listed aims are explained. Split class into groups of 2-4 and provide learners with either an example of a local/national or international business. Learners to select two main aims for their given business and share with the class. Teacher led explanation of how business aims differ for different businesses depending on the size of the business, level of competition faced and type of business (not-for-profit organisations). Read articles Learners should be aware of competitive and dynamic environment. https://www.theguardian.com/business/2015/mar/16/uk-high-streets more-shops-close-than-open-net-closures Learners should be aware of growing importance of environmental aims. https://www.theguardian.com/environment/2015/dec/05/plastic-bag usage-down-78-since-introduction-of-5p-charge-says-tesco Research task – learners to investigate one business that has environmental and sustainability aims or social/community aims and produce a short report outlining the purpose of the business and how |
+
+they try to achieve the aims.
+
+{10}------------------------------------------------
+
+| 1.1.4 Different markets | Learners should know: <ul><li>different markets, including:</li><li>local</li><li>national</li><li>global</li><li>business-to-business (B2B)</li><li>business-to-consumer (B2C)</li><li>mass</li><li>niche</li><li>seasonal</li><li>the difference between consumer and producer goods.</li></ul> | Teacher led - introduce the different markets and provide activities for the learners to be able to identify examples of businesses, products and services provided in each market. Learners to produce a poster or PowerPoint/Sway presentation categorising the different markets. Paired work – discuss the difference between consumer and producer goods, give a few examples and report back to the whole class. Research task – visit a local retail hub and make a list of all the businesses and categorise them into local, national and global |
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1.5 Different business sectors | Learners should be aware of the following business sectors at local, national and global levels: <ul><li>agriculture</li><li>construction</li><li>energy</li><li>healthcare</li><li>hospitality</li><li>manufacturing</li><li>retail</li><li>science</li><li>technology</li><li>tourism</li><li>transport.</li></ul> | Teacher led – introduce the range of business sectors in Wales and learners to provide examples in their local areas. Provide research opportunities for learners to explore the sectors at a national level and global level and identify which are in decline or on an increase. Learners to create a fact sheet of the main business sectors in the local/regional area. Identify examples of employment opportunities in those sectors. |
+
+{11}------------------------------------------------
+
+#### 1.1.6 The role of the consumer
+
+Learners should understand:
+
+- the diverse nature of consumers
+- the role the consumer plays, such as:
+  - consumer feedback
+  - creating demand
+  - end user
+  - knowing consumer rights
+  - making informed buying choices
+  - paying for goods
+  - the growth of consumer choice and power.
+
+**Starter** – in groups create a thought shower to ask, 'How have I been a consumer today'?
+
+What food/drink have they consumed? What technology have they used? What transport have they taken? What clothes are they wearing?
+
+Teacher to discuss findings and introduce the diversity of consumer behaviour to include age, gender, income, lifestyle, culture and trends.
+
+Identify how different consumers will have different wants and needs.
+
+Discuss how different businesses consider diversity and culture and how they cater for variety of consumer needs.
+
+**Paired work** – learners to discuss each role the consumer plays listed in the specification and evaluate why consumers are important.
+
+**Teacher led** – provide a range of businesses which sell goods and services. Learners to identify examples of consumer actions under each role as a consumer.
+
+For example:
+
+| Consumer Role      | Example                                    |
+|--------------------|--------------------------------------------|
+| Providing Feedback | Writing a review when a product is bought. |
+|                    | Completing a survey on customer service.   |
+
+{12}------------------------------------------------
+
+#### 1.1.7 Sustainability
+
+Learners should know what is meant by sustainability. Learners should understand the three pillars of sustainability (economic, environmental and social).
+
+**Starter** – learners to define 'sustainability' in no more than 10 words.
+
+**Teacher led** – provide a clear definition and diagram of the three pillars of sustainability. Divide the class into three groups and give each group notes on one pillar. Each group to produce a summary of the core aspects of each pillar.
+
+**Paired work** – think of a business that promotes sustainability and explain how they do this.
+
+[https://www.energylivenews.com/2024/07/16/wales-launches-publicly](https://www.energylivenews.com/2024/07/16/wales-launches-publicly-owned-renewable-energy-company/)[owned-renewable-energy-company/](https://www.energylivenews.com/2024/07/16/wales-launches-publicly-owned-renewable-energy-company/)
+
+[https://www.merthyr.gov.uk/resident/bins-and-recycling/reuse-waste](https://www.merthyr.gov.uk/resident/bins-and-recycling/reuse-waste-prevention/)[prevention/](https://www.merthyr.gov.uk/resident/bins-and-recycling/reuse-waste-prevention/)
+
+<https://pasturerestaurant.com/sustainability/>
+
+Learners present to the class a short verbal presentation on the importance of sustainability to the business and society.
+
+Teacher to create fact finding activities centred around 'The Well being of Future Generations Act' and 'The UN 17 Sustainable Development Goals (SDG's)'.
+
+Learners can create posters/educational videos to raise awareness of a chosen UN goal. Explore opportunities to display in school and raise awareness at KS3 assemblies.
+
+{13}------------------------------------------------
+
+<span id="page-13-0"></span>
+
+|                                                | 1.2 Careers and Business                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |  |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|                                                | Content Amplification                                                                                                                                                                                                                                                                                                    | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |  |
+| 1.2.1 Business careers and employment | Learners should know: <ul><li>different business careers and employment opportunities available in:</li><li>private sector and public sector</li><li>different business sectors</li><li>what careers advice and guidance are available, such as:</li><li>Careers Wales</li><li>National Careers Service</li><li>UCAS.</li></ul> | Classification activity of careers into private or public sector. Learners are provided with the business sectors listed in 1.1.5 and asked to create a thought shower of employment opportunities within in each sector. Opportunity to arrange careers talk or fayre/University open days/Public sector organisations. Learners to create a leaflet on careers advice available in Wales for Year 11 leavers, including the support they offer, contact details and how to make an enquiry. Learners to make a list of their own top three career choices and how they can get guidance on these choices. |  |
+
+{14}------------------------------------------------
+
+#### 1.2.2 Exploring job market trends in Wales, UK and the wider world
+
+Learners should be aware of:
+
+- current job market trends in Wales, UK and the wider world
+- how the changing workplace can impact the skills needed by businesses and employers in the future.
+
+**Starter** - create a table and list five jobs that were common in the past, five jobs that are present today, and five jobs that you think will be invented in the future.
+
+#### ONS - [Wales Industry Data](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/industryandoccupationenglandandwales/census2021)
+
+The above website shows the latest job market trends.
+
+Explore the growth of Women in Innovation – teachers could create case study material here.
+
+<https://iuk.ktn-uk.org/programme/women-in-innovation/>
+
+[https://iuk.ktn-uk.org/casestudy/women-in-innovation-success-stories](https://iuk.ktn-uk.org/casestudy/women-in-innovation-success-stories-deborah-coughlin/)[deborah-coughlin/](https://iuk.ktn-uk.org/casestudy/women-in-innovation-success-stories-deborah-coughlin/)
+
+Teachers can show the latest information and use whole class discussion to identify trends in the current job market in Wales.
+
+Teachers can print off graphs/raw data from the ONS and create a question and answer worksheet.
+
+**Whole class discussion** into the reasons for changes in job market trends and how such changes can impact skills needed by employers in the future. This may include hybrid working and skills required to work from home.
+
+{15}------------------------------------------------
+
+<span id="page-15-0"></span>
+
+|                                                          | 1.3 Different Scales of Business Activity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |  |
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+|                                                          | Content Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |  |  |
+| 1.3.1 Different scales of business operation | Learners should know that businesses can operate at different scales. Learners should understand: <ul><li>the characteristics of businesses operating at local, national and global scales</li><li>the challenges and opportunities at each scale.</li></ul> | Teacher led – clearly classify the different scales of business operation and get learners to produce a one-sided poster to show the three different scales and the characteristics of each scale. Learner activity – identify local businesses by sketching the main street/industrial area of their local town, identifying businesses from different business sectors, the scale of operation, the types of products and services they provide. Paired work – compare and contrast the challenges and opportunities of two businesses in the same sector but operating at different scales. |  |  |
+| 1.3.2 The challenge of globalisation | Learners should understand globalisation, including: <ul><li>increased international trade</li><li>development of multinational companies</li><li>global brands and the free movement of goods and services, labour and capital across international borders. Learners should know:</li><li>the opportunities of global business, such as:</li><li>entering new markets</li><li>growth</li><li>increased sales and profits</li><li>the challenges of global business, such as:</li><li>cultural and language differences</li><li>ethical and environmental damage</li><li>international regulations and laws</li><li>supply chain issues</li><li>what is meant by deglobalisation.</li></ul> | Teacher led – define key terms and investigate UK's main imports and exports and its main trading partners. Paired work – some pairs to identify a range of different global brands and some pairs to identify multinational businesses. Each pair to produce a collage to display in the classroom. Use graphical/numerical data on global market sales and revenues to illustrate the opportunities of operating globally. Teacher led – identify and explain the opportunities and challenges of globalisation to different businesses. Watch the Failure of Tesco in America Why wasn't Tesco successful abroad? Critical thinking - learners to evaluate the reasons why Tesco failed to launch in America – why are they so successful here in the UK? |  |  |
+
+{16}------------------------------------------------
+
+|  |  | Teacher can provide examples of 'Famous slogans lost in translation' and the importance of cultural and language barriers. Research task – use the internet to find out what is meant by deglobalisation and give examples. |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.3.3 The nature of multinational business | Learners should know what is meant by a multinational business. Learners should understand: <ul><li>reasons why businesses wish to become a multinational business, such as:</li><li>avoiding trade barriers</li><li>cheaper production costs</li><li>increasing market share, profit and revenue</li><li>the positive impacts of multinationals setting up in Wales and the rest of the UK, such as:</li><li>contributing to economic growth</li><li>multiplier effect</li><li>creation of jobs (skilled and unskilled)</li><li>increased consumer choice</li><li>introducing new technology and innovation</li><li>the negative impacts of multinationals setting up in Wales and the rest of the UK, such as:</li><li>deskilling jobs</li><li>environmental damage</li><li>exploitation of labour</li><li>profits not staying in Wales and the UK</li><li>reduction in cultural identity.</li></ul> | Teacher led – definition of a multinational business. Paired work – learners to investigate the activities of a multinational business and identify the reasons for their success. From each pair - one learner to explain the benefits to the researched business of operating in more than one country. One learner to evaluate the impact of the business on the countries in which they operate. Including positive and negative impacts. Research task – selecting a multinational business that operates in their local area, each learner to create a thought shower of its products and services, how it contributes to the local community and possible negative impacts on the local community. |
+
+{17}------------------------------------------------
+
+<span id="page-17-0"></span>
+
+| 1.4 Stakeholders                                                    |                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                     | Content Amplification                                                                                                                                                                                                                                                                           | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 1.4.1 Internal and external stakeholders | Learners should know: <ul><li>internal stakeholders, such as:</li><li>employees and managers</li><li>owners and shareholders</li><li>external stakeholders, such as:</li><li>competitors</li><li>customers</li><li>government</li><li>local communities</li><li>suppliers</li><li>trade unions.</li></ul> | Independent starter – learners to identify all the stakeholders of their school and why they have an interest in the activities of the school. Teacher led - outline the definition of a stakeholder and explain why various stakeholders are interested in business activity. Discuss internal and external stakeholders and how their interests differ. Learner activity – select a business in the local area and identify its internal and external stakeholders. Give an outline of each stakeholder. |
+| 1.4.2 The impact of stakeholders on business success | Learners should understand the impact of stakeholders on business success, including: <ul><li>aims</li><li>costs</li><li>decision-making</li><li>operational issues</li><li>profits</li><li>sales</li><li>social, ethical and environmental actions.</li></ul> | Teacher led – whole class discussion and worksheet to include list of stakeholders. Learners can discuss and explain how each stakeholder can impact business success. Use https://www.bbc.co.uk/bitesize/guides/z6scbdm/revision/4 as a guide. Learners to extend knowledge by explaining how stakeholders can influence business success and activity. Learners to use examples to exemplify their explanations. Research task – learners to research one business and identify the stakeholders and describe how these stakeholders impact the business. |
+
+{18}------------------------------------------------
+
+#### 1.4.3 The impact of business on stakeholders
+
+Learners should understand the impact of business on stakeholders, including:
+
+- employment
+- environmental
+- ethical
+- financial
+- operational
+- products and services
+- social.
+
+1.4.4 Types of conflict between stakeholders and business
+
+Learners should be aware of types of disagreement and conflict between businesses and stakeholders and between different stakeholders, such as:
+
+- acting ethically
+- environmental damage
+- low prices
+- low wages
+- maximising profit
+- quality of products.
+
+**Teacher led** explanation on how business activity and decisions can impact stakeholders.
+
+**Learner activity** – create a table listing all internal and external stakeholders and explain how each stakeholder can be impacted by a business' activities and actions.
+
+A variety of scenarios can be provided to learners.
+
+For example, a national or global retail/food outlet opens in the local area and learners can discuss how this can affect the variety of stakeholders, to include impacts on employment/environment/ ethics/financial and operational implication/the variety of products and services and its social impact.
+
+Read [https://www.walesonline.co.uk/whats-on/food-drink-news/burger](https://www.walesonline.co.uk/whats-on/food-drink-news/burger-van-opposite-new-five-23282401)[van-opposite-new-five-23282401](https://www.walesonline.co.uk/whats-on/food-drink-news/burger-van-opposite-new-five-23282401)
+
+What impact did a global food restaurant have on a local business/community?
+
+**Starter:** Teacher gives three possible conflicts, for example:
+
+- maximising profit vs price rise for products.
+- low wages vs acting ethically
+- quality of products vs low prices.
+
+**In pairs** - learners to link these to different stakeholders and explain the conflict.
+
+Read article:<https://www.bbc.co.uk/news/health-43659124>
+
+What has the government done to try to restrict the issue of sugar in fizzy drinks? How does this show stakeholder conflict?
+
+**Research task** – use the internet to find out one recent business example of conflict between different stakeholders
+
+{19}------------------------------------------------
+
+<span id="page-19-0"></span>
+
+| 1.5 Business Ownership and models                                                  |                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                    | Content Amplification                                                                                                                                                                                                                                                                                                                       | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 1.5.1 The features of limited and unlimited liability organisations | Learners should understand the: <ul><li>concept of limited and unlimited liability</li><li>main features of unlimited liability business organisations including sole traders and partnerships</li><li>main features of limited liability business organisations including private limited companies and public limited companies.</li></ul> | Teacher led – give learners a blank diagram/chart with the headings of the four different types of business ownership and a space to record the features of each type. Teacher to go through each ownership highlighting its features and learners to record these on the diagram/chart. In pairs – learners to define the concept of limited and unlimited liability. Group work – learners to work in groups of three to research one form of ownership using different resources e.g. textbooks, internet, a case study. The group each identifies and defines key terms and the advantages and disadvantages of that ownership model. Learner activity – use past paper questions or other questions to answer extended response questions on the features of different types of business ownership. Any group research information could be done on google jam board or an interactive Canva whiteboard. https://www.canva.com/online whiteboard/templates/. |
+
+{20}------------------------------------------------
+
+#### 1.5.2 The features of purpose driven businesses
+
+Learners should know what is meant by a purpose driven business.
+
+Learners should understand the main features of:
+
+- benefit corporations (B Corps)
+- charities
+- co-operatives
+- social enterprises.
+
+**Teacher led** – explanation on purpose driven businesses. PowerPoint to outline features of B Corps/charities/co-operatives and social enterprises.
+
+**Paired work** – Learners to brainstorm ideas on starting a social enterprise in the local area.
+
+Using '*Six thinking hats'* as a tool for creativity and innovation, learners are to brainstorm what factors need to be considered for starting a social enterprise in the local area. This tool will enable learners to assess aims/ownership, benefits and impact on local community.
+
+**Research task** – investigate one purpose driven business in the local area and summarise its activities and purpose.
+
+#### 1.5.3 Deciding on business ownership and models
+
+Learners should understand the:
+
+- advantages and disadvantages of choosing different business ownership and models
+- impacts of business ownership and models on business success.
+
+**Whole class Q&A** session to reinforce learning from 1.5.2 and 1.5.3 to assess advantages and disadvantages of business ownership and models.
+
+Provide a variety of different scenarios/case studies/past paper questions in terms of business sectors, aims, ownership and scale – learners to decide which form of ownership would be most suitable and provide reasons to justify their decision.
+
+Discuss why a business might decide to change its ownership from:
+
+- a sole trader to a partnership
+- an unlimited liability business to a limited liability business
+- a private limited company to a public limited company.
+
+**Paired work** – learners to explain the reasons why a new business would choose to be a purpose driven business.
+
+**Learner activity** – learners to produce a table/diagram that summaries all business ownerships and models and includes a summary on:
+
+- two key features
+- two advantages
+- two disadvantages.
+
+{21}------------------------------------------------
+
+<span id="page-21-0"></span>
+
+| 1.6 The Supply Chain                                                     |                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Content Amplification                                                    |                                                                                                                                                                                                                                                                                                                                                                                                         | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 1.6.1 The importance of effective supply chain management | Learners should know: <ul><li>the role of procurement, logistics and stock control stages of the supply chain</li><li>how the supply chain will differ for businesses:</li><li>selling different goods and services</li><li>operating at different scales. Learners should understand the impact on businesses and its stakeholders of having an appropriate and effective supply chain.</li></ul> | Teacher led – key terms and explanation of the role of procurement/logistics and stock control and how this makes up the supply chain. Learner activity – create a flow chart that summarise the stages of the supply chain. Select one business and add examples of its supply chain to the flowchart. Learners list the main procurement and logistics decisions they would need to make if they were running a small café – buying food, ensuring delivery of food, replacing broken plates, etc. For each decision they should identify the impact on the café. Watch the video about Coca-Cola's supply chain (YouTube) and summarise Coca-Cola's supply chain. Give each learner a business or product and get them to create a pictorial representation of its possible supply chain. Teacher led – use examples to illustrate how the supply chain will differ for businesses selling different types of products and operate at different scales. Discuss Fairtrade products and the supply chain for cocoa beans and bananas. https://www.fairtrade.org.uk/for-business/fairtrade-sourcing/ The Story of Fairtrade footballs https://www.youtube.com/watch?app=desktop&v=wTrFOLLvlGs Teacher to highlight the importance of having an effective supply chain and how this can impact its stakeholders. |
+
+{22}------------------------------------------------
+
+#### 1.6.2 The features of the green and circular economy
+
+Learners should know the features of the green and circular economy.
+
+Learners should understand the importance of the green and circular economy for:
+
+- businesses
+- people
+- the economy
+- the environment.
+
+**Teacher led** – introduce the key terms and definition of the green and circular economy. An image to show this is suggested to reinforce understanding.
+
+**Learner activity** – produce a poster/leaflet/blog to promote the aims of the green economy.
+
+Watch<https://youtu.be/lhMooyLGWkc> and summarise the key features of the circular economy.
+
+Teacher to bring into class some plastic bottles and ask the class to investigate how these can be reused to make other products.
+
+**Research task** – investigate how one business has changed its processes to use circular economy principles.
+
+#### Example of Welsh business:
+
+[https://www.merthyr.gov.uk/news-and-events/latest-news/give-items-a](https://www.merthyr.gov.uk/news-and-events/latest-news/give-items-a-new-lease-of-life-at-merthyr-tydfil-s-newest-re-use-shop/)[new-lease-of-life-at-merthyr-tydfil-s-newest-re-use-shop/](https://www.merthyr.gov.uk/news-and-events/latest-news/give-items-a-new-lease-of-life-at-merthyr-tydfil-s-newest-re-use-shop/)
+
+**Thought shower** - learners to discuss the importance of the green and circular economy for different stakeholders and identify the opportunities and challenges:
+
+- businesses
+- local community
+- economy
+- environment.
+
+{23}------------------------------------------------
+
+<span id="page-23-0"></span>
+
+| 1.7 Revenue, Costs and Break-even        |                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                          | Content Amplification                                                                                                                                                                                                                                                                                                                                                                                                       | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 1.7.1 Revenue, costs and profit | Learners should know what is meant by: <ul><li>revenue</li><li>costs</li><li>profit</li><li>loss. Learners should be able to:</li><li>use and interpret</li><li>fixed costs</li><li>variable costs</li><li>calculate and interpret:</li><li>total costs</li><li>total revenue</li><li>profit/loss. Learners should understand the impact of revenues, costs and profits/losses on a business and its stakeholders.</li></ul> | Teacher led – introduce the key terms relating to revenue and costs. Match terms and definitions activity. Learner activity – teacher to provide data/case studies/past paper questions on revenue, fixed costs, variable costs, total costs and get learners to identify the different types of costs. Learners to use the data to calculate total costs, total revenue and profit. Paired work – learners to be given quantitative and qualitative data on revenue, costs and profits for a business and summarise what the data shows. Collaborative thought shower (jam board). Give data on a business. Discuss ways in which the business could improve profit levels, increase sales or reduce costs and how this could impact its different stakeholders. |
+| 1.7.2 The purpose of break even | Learners should understand the purpose of break-even and how it helps a business understand its costs, revenues and potential profit to inform business decisions. | Teacher led activity on an introduction and purpose of break-even. Watch https://www.bbc.co.uk/bitesize/guides/znf88xs/revision/2 and summarise how break-even can help a business. (Learners do not need to know how to draw a break-even chart.) |
+
+{24}------------------------------------------------
+
+| 1.7.3 Break-even | Learners should be able to calculate and interpret break even through the contribution method. | Learners will not be expected to draw or refer to a break-even chart. |
+|---------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| and contribution |  | Teacher led – definition and explanation of contribution: selling price – variable costs |
+|  |  | Teacher led - demonstration on calculating break-even using contribution method. Learners to calculate break-even per unit using the formula: |
+|  |  | Fixed costs Contribution per unit. |
+|  |  | Learner activity – teacher to provide opportunities using a variety of scenarios for learners to practice this calculation. |
+|  |  | Teacher led - teacher to explain how the calculations from the contribution method can be interpreted and used by a business. |
+
+{25}------------------------------------------------
+
+<span id="page-25-0"></span>
+
+| 1.8 Location and Site                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+|                                                                                                                                                          | Content Amplification                                                                                                                                                                                                                                                                                                              | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |  |
+| 1.8.1 Influences on <ul><li>location including:</li><li>costs</li><li>costs</li><li>footfall</li><li>size.</li></ul> | Learners should understand: the factors influencing the location of a business, infrastructure labour supply proximity to market supplies/materials the factors influencing the siting of a business within a location, including: accessibility personal reasons proximity/closeness to competitors | Teacher led – teacher to outline the factors affecting location and siting of different types of business including manufacturers, retailers and online businesses. Use of PowerPoint and worksheets. Teacher to make clear the difference between location and site. Learner activity – produce a diagram that clearly shows the difference between location and site and the relative factors. Learner activity – give learners a few scenarios of businesses with different needs and get them to describe the factors that were important for them in choosing a location. Paired work – learners to discuss and report back to the class what location factors would be important for the following businesses: <ul><li>Multinational manufacturer of cars</li><li>Online-only UK wide retail shop selling furniture</li><li>A local entrepreneur wanting to open a new restaurant Learner activity – learners to select a local business and summarise the factors that influenced its site. Research task – learners to think of a business idea in their local area and choose a suitable site, giving the reason for their choice of site. Paired work – give each pair a different business from different business sectors and operating at different scales and get them to plot on a local map where they would site the business. Learners write a paragraph justifying their siting decision for the business explaining clearly why they have chosen the location and any issues that they may face.</li></ul> |  |  |
+
+{26}------------------------------------------------
+
+| 1.8.2 The impact | Learners should know the impact of using the following technology on business location: | Teacher led – definitions and examples of e-commerce, m-commerce and remote working. |
+|------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| of technology on business location | <ul><li>e-commerce/m-commerce</li><li>remote working.</li></ul> | Paired work – learners to consider how the growth in e-commerce, m commerce and remote working have impacted on business location. |
+|  |  | Research task – learners to investigate how one business has been impacted by the growth in e-commerce, m-commerce and remote working and produce a summary or present back to the class. |
+
+{27}------------------------------------------------
+
+#### <span id="page-27-1"></span><span id="page-27-0"></span>Learning Experiences
+
+Learners should be encouraged to consider the following learning experiences and skills to further develop their understanding, appreciation and awareness of the subject content. Information in the table below provides opportunities for teachers to integrate the learning experiences into delivery.
+
+| Learning experience                                                                                       | Exemplification of Learning Experience                                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| engage in out of classroom learning (either in person or online) in contrasting business sectors | 1.1.7, 1.2.1 Teachers could visit/invite local businesses in for talks and workshops. This collaboration would allow learners to hear first hand how business owners/managers have ensured that their business is one that is sustainable. |
+|  | They will also learn the impact that this has had on not only the business but the local community. |
+|  | Learners could research a number of different careers through Careers Wales, and The National Careers Service, including those classed as 'green jobs'. |
+|  | This research could involve looking at careers within both private and public sectors, and the skills and qualifications needed for those that interest them. |
+|  | Learners could undertake online 'career match quizzes', or 'skills assessments', giving them more insight into future careers. |
+| explore enterprise and innovation in action, for example through engaging | 1.2.2 Teachers could collaborate with local businesses and arrange visits/invite businesses in for talks and workshops. |
+| with business mentors in person or online | Technocamps work closely with secondary schools in Wales to deliver (in-person or online) their STEM Enrichment programme, delivering a range of computer science and STEM based activities and workshops. This could be an opportunity for AoLE's to collaborate and work together to offer learners the opportunity to gain insight into innovating businesses. |
+| develop confidence to take risks and overcome creative challenges | 1.2.2, 1.5.2 Learners could use a new creative tool 'six thinking hats' to develop a Social Enterprise idea. |
+|  | This way of learning ensures that learners explore ideas and plans in their entirety, encouraging them to take risks that are calculated and balanced in order to overcome challenges. |
+
+{28}------------------------------------------------
+
+| develop empathy, tolerance, compassion, and curiosity through engaging with different and diverse business contexts, and perspectives | 1.2.2, 1.5.2 With the support of Careers Wales, teachers could invite guest speakers into the classroom from diverse backgrounds and life experiences to talk about their journey into the business world, and any challenges they have faced along the way. Teachers should ensure that case studies include B-corp organisations/social enterprises and charities from a wide range of businesses and services to ensure there are a |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                      | variety of business contexts.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| engage in collaborative working | 1.1.3, 1.1.6, 1.1.7 There are opportunities for collaborative working throughout Unit 1. Specifically in areas where learners can use collaborative digital tools such as Canva, Google Jamboard, etc. |
+|  | During collaboration learners should be able to show they are responsive to feedback and use it to show any adaptations and improvements. |
+| gain awareness and appreciation of some of the different careers and work related areas, linked to the subject content | 1.2.1, 1.2.2 Learners could research jobs of the past, present and future using the ONS website, in particularly, the Business, Industry and Trade section, producing statistics regarding employment types and societal needs, both locally and nationally. |
+|  | Learners could also explore the skills required for any future career opportunities and make considered predictions on industry needs in the future. |
+
+{29}------------------------------------------------
+
+#### Opportunities for embedding elements of the Curriculum for Wales
+
+<span id="page-29-0"></span>
+
+| Curriculum for Wales Strands                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                           |                                                                                                                                                                        |  |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Cross-cutting Themes                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                           |                                                                                                                                                                        |  |
+|  | There are many opportunities to include Local, National and International Contexts in GCSE Business. These opportunities are important to learners because the variety of contexts will enable learners to become more self-aware citizens and understand how the nature of businesses have helped to shape society and communities. This will allow learners to develop a sense of cynefin. Below are some examples of how local, national and international contexts can be embedded into teaching and learning: |  |  |  |
+|  | Specification Reference | Amplification | Example |  |
+| Local, National & International Contexts | 1.1.4 | Internal and external stakeholders | Learners can focus on businesses from within their cynefin, Wales, nationally and internationally when examining businesses. |  |
+|  | 1.3.1 | Different scales of business operation | Learners can use case studies, articles and videos that provide examples of local, national and global businesses and how the products and services differ in |  |
+|  | 1.3.3 | The nature of multinational business | each market. They can research the rise of local Welsh businesses and examine their context and the reasons for success. |  |
+|  |  |  | Learners could also look at current employment opportunities in their local area via local job searches. |  |
+
+{30}------------------------------------------------
+
+| There are many opportunities to include Sustainability in GCSE Business. These opportunities    |
+|-------------------------------------------------------------------------------------------------|
+| are important to learners because they help learners understand the importance of sustainable   |
+| business practices on the environment, economy and society. This will help them reflect on      |
+| business decisions as well as their own decisions and explore how they align with the three     |
+| pillars of sustainability. They will be able to explore the Wales Future Generations Act and UN |
+| sustainable development goals and think about creative and innovative solutions to tackle       |
+| climate change and related global issues.                                                       |
+|                                                                                                 |
+
+**Below are some examples of how Sustainability can be embedded into teaching and learning:**
+
+|  | Specification Reference | Amplification | Example |
+|----------------|----------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  | 1.1.7 | Sustainability | Teachers should encourage learners to identify the features, growth and benefits of the green and circular economy. |
+| Sustainability |  |  | Learners could look at the importance of the three pillars of sustainability and apply these to local business in Wales. |
+|  | 1.6.2 | The features of the green and circular economy | Learners could look at renewable energy (also known as green energy) and research how it used in restaurants within their local area, as well as those restaurants that are national and international. Many restaurants, such as 'Nando's', promote their policies and practices on sustainability. A number of these could be researched, with differences and similarities being a point for discussion for learners. |
+|  |  |  | Learning opportunities could be given based on information from Wales Future Generations Act and/or UN Sustainable Development Goals. |
+
+{31}------------------------------------------------
+
+|  |  |  | This could include researching the Wales Future Generations Act 'sustainable development principle' and using this guidance to look at the steps a public body has taken in order to meet the 'laws' of that Act, in relation to sustainability. |  |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|  | There are many opportunities to include Relationships and Sexuality Education (RSE) in GCSE Business. These opportunities are important to learners because it allows them to explore how businesses include and promote inclusivity in the workplace. It also allows them to assess the dynamics of current societal developments and how these can be used to explore business opportunities. Below are some examples of how RSE can be embedded into teaching and learning: |  |  |  |
+|  | Specification Reference | Amplification | Example |  |
+| Relationships and Sexuality Education | 1.1.6 1.2.2 | The role of the consumer Exploring job market trends in Wales, UK and the wider world | Teachers should aim to enable learners to see how diversity is embraced and used to explore business opportunities within the UK. The explosion of online purchasing has enabled consumers to be targeted on a global basis. Learners could explore the diverse nature of |  |
+|  | 1.1.4 | Different markets | consumers from both within the UK as well as from a global market. Learners could be made aware of the 9 protected characteristics of the Equality Act 2010 and discuss how businesses can ensure that discrimination isn't experienced by anybody holding these characteristics. |  |
+
+{32}------------------------------------------------
+
+Learners could explore diversity in society and the positive impact it has had on business growth. They could look at job market trends and how these have changed in line with the changing family structures within society and the changing norms of sexuality and gender over time, including the lives of LGBTQ+.
+
+<span id="page-32-0"></span>Learners could be given the opportunity to explore the growth of women in innovation and STEM subjects, as well as the recent growth of professional sports careers for women, such as with the Welsh Rugby Union: [Welsh Rugby Union](https://www.wru.wales/2024/09/new-professional-contracts-for-wales-women/)  [| Wales & Regions | New professional contracts](https://www.wru.wales/2024/09/new-professional-contracts-for-wales-women/)  [for Wales Women.](https://www.wru.wales/2024/09/new-professional-contracts-for-wales-women/)
+
+{33}------------------------------------------------
+
+|  | There are many opportunities to include Human Rights Education and Diversity in GCSE Business. These opportunities are important to learners because it will allow them to see how they can contribute to being ethical citizens, and how to promote these into businesses in the future. They will also be able to explore how they themselves as consumers have rights and what this means when purchasing goods and services. Below are some examples of how Human Rights Education and Diversity can be embedded into teaching and learning: |  |  |  |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|  | Specification Reference | Amplification | Example |  |
+|  | 1.1.6 | The role of the consumer | Teachers should demonstrate how diversity is celebrated and embraced, and how it is used to explore business opportunities within the UK, showing |  |
+| Human Rights Education and Diversity | 1.2.2 | Exploring job market trends in Wales, UK and the wider world | their learners examples of success. Learners should research different trends regarding the growth of diversity within society and the positive impact that this has had on business growth. Learners could explore the growth of women in innovation and STEM subjects and careers (see above). |  |
+|  |  |  | Learners could research and understand their rights as a consumer, and how they are protected when buying good and services. This could spark discussion over when they feel their rights have not been met, and how this should be addressed. |  |
+|  |  |  | Further discussion could also be had on the rights of companies and the risk that is posed to their success if these consumer rights aren't withheld. |  |
+
+{34}------------------------------------------------
+
+**There are many opportunities to include Career and Work-Related Experiences (CWRE) in GCSE Business. These opportunities are important to learners because they will start to critically evaluate the pathways available for them in the future. It will provide information on what support and guidance is available and help with making decisions for further study or employment.**
+
+**Learners will be able to assess current job market trends and use this to reflect on their currents skill set and explore what skills may be needed in the future. This will enable them plan and prepare before they start making decisions on a suitable future pathway.**
+
+**Below are some examples of how CWRE can be embedded into teaching and learning:**
+
+|  | Specification Reference | Amplification | Example |
+|-----------------------------------------|----------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Careers and Work-Related Experiences | 1.2.1 | Business careers and employment | Learners should explore the employment trends in Wales and the UK and begin to identify possible future pathways for themselves. |
+|  | 1.2.2 | Exploring job market trends in Wales, UK and the wider world | As stated in the learning experience above, learners could begin to identify employment prospects and future learning/career pathways. Using Careers Wales, and The National Careers Service, learners could research a number of different careers. This research could involve looking at careers within both private and public sectors, and the skills and qualifications needed for those that interest them. Learners could undertake online 'career match quizzes', or 'skills assessments', giving them more insight into future careers. |
+
+{35}------------------------------------------------
+
+|  |  |  |  | As learners start to think about their own employment opportunities, they will learn where to seek guidance to support them to reach their destination. |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cross-curricular Skills - | Literacy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |  |         |                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|  | There are many opportunities to include Literacy in GCSE Business. These opportunities are important to learners because they support development in communication and written skills, collaboration and understanding of key business concepts. Learners will be able to critically assess and evaluate business decisions and case study scenarios to support them with assessments and examinations. Below are some examples of how Literacy can be embedded into teaching and learning: |  |  |  |
+|                           | Specification Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |  | Example |                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Listening | All areas |  |  | Learners should have the opportunity to attend a talk given by a local business owner/manager. This will require learners to listen for key messages that they can use when completing tasks following the visits. This will allow learners to not only apply their theoretical understanding in a real-world context, but also develop a greater understanding of subject-specific technical language used. |
+|  |  |  |  | In teacher led explanations/Q&A sessions and video resources, learners should be actively listening to teacher content and video resources to reinforce their understanding of business concepts. They show their use of listening skills when using them to perform key instructions in specific tasks throughout Unit 1. |
+
+{36}------------------------------------------------
+
+|          | Specification Reference | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reading | All areas | Teachers should use recent news articles (such as BBC news) and case studies, to engage learners in developing independent reading and research. Learners should summarise and synthesise these news articles and case studies in areas such as globalisation (1.3.2), supply chain management (1.6.1) and the green and circular economy (1.6.2). Teachers could have set questions following the study of these articles to ensure learners have absorbed the necessary information, and they are able to search through texts to find relevant sources of information. |
+|          | Specification Reference | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Speaking | All areas | Q&A sessions and group collaborative working and feedback. Teachers should be using Q&A sessions in all topic areas, both in small groups, as well as a class. This not only enhances understanding for the learners, but builds their confidence in speaking in front of others, expressing their opinion. Teachers could facilitate a collaborative, group working opportunity when teaching 'The features of limited and unlimited |
+|  |  | liability organisations' (1.5.1). Within the teaching of this topic, learners could work in groups to explore the features of limited and unlimited liability organisations. |
+
+{37}------------------------------------------------
+
+|         | Specification Reference | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Writing | All areas | Learners will use a variety of writing techniques when performing different tasks such as: <ul><li>summarising</li><li>synthesising</li><li>informative writing</li><li>evaluation techniques. When tackling 'Sustainability' (1.1.7), learners could create a sustainability poster to raise awareness for younger learners in the school. It is imperative that learners use different language (formal and informal) when targeting specific audiences.</li></ul> |
+
+{38}------------------------------------------------
+
+#### **Cross-curricular Skills - Numeracy**
+
+**There are many opportunities to include Numeracy in GCSE Business. These opportunities are important to learners because the ability to work with numbers and use mathematical equations and formulas will enable learners to understand how businesses can manage their finances effectively to become efficient and profitable. It will also enable learners to identify patterns and spot trends, helping with making business decisions.** 
+
+**Below are some examples of how Numeracy can be embedded into teaching and learning:**
+
+| Developing Mathematical Proficiency |
+|----------------------------------------|
+|                                        |
+
+| Specification Reference | Amplification | Example |
+|----------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.7.1 | Revenue, costs and profit | Learners should develop proficiency in calculating break-even and understand how this can be used when businesses have to make decisions. |
+| 1.7.2 | The purpose of break even | Learners could use a case study on a local business. When researching this business, learners could calculate revenue, costs and profit. |
+| 1.7.3 | Break-even and contribution | Learners will calculate break-even using the contribution method and use raw data from teacher developed case studies. |
+
+{39}------------------------------------------------
+
+|  | Specification Reference | Amplification | Example |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Understanding the number system helps us to represent and compare relationships between numbers and quantities | 1.2.2 | Exploring job market trends in Wales, UK and the wider world | Learners should be able to identify trends, comparisons and patterns in Wales economic environment; employment and industry figures. Learners should exploring the ONS website, reviewing relevant, up-to date data on factors such as employment figures and trends in sectors of industry. These figures could be reported showcasing the relationship between each element explored. Further opportunities could be to look at the demographic data and the impact that this has/may have on the business world. |
+| Learning about geometry helps | Specification Reference | Amplification | Example |
+| us understand shape, space and position and learning about measurement helps us quantify in the real world | 1.8.1 | Influences on location | Teachers could outline the factors which influence business location. Learners could research and plot a range of businesses on a local map, considering the |
+|  | 1.6.1 | The importance of effective supply chain management | factors which have influenced specific business locations. This can then be reinforced when studying a business' supply chain. |
+
+{40}------------------------------------------------
+
+|  | Specification Reference | Amplification | Example |
+|-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Learning that statistics represent data and that probability models chance help us make informed | 1.7.1 | Revenue, costs and profit | Learners should develop proficiency in calculating break-even, and be able to explain how this can be used for a businesses decision-making. |
+| inferences and decisions | 1.7.2 | The purpose of break even | Learners could use a case study on a local business to calculate revenue, costs and profit, calculating break-even, using the contribution method. They |
+|  | 1.7.3 | Break-even and contribution | could use raw data from case studies that the teacher has developed to manipulate outcomes. |
+
+{41}------------------------------------------------
+
+#### **Cross-curricular Skills - Digital Competence** Citizenship **There are many opportunities to include Digital Competence in GCSE Business. These opportunities are important to learners because this will enable learners in becoming digital citizens and to navigate the world of technology in safe and informed manner. Learners will be encouraged to utilise digital tools to present work and collaborate as well as identifying innovative business solutions in the dynamic environment. Below are some examples of how Digital Competence can be embedded into teaching and learning:** *Specification Reference Amplification Example 1.1.6 1.2.1 The role of the consumer Business careers and employment* Learners should understand how consumer protection and rights reinforces the importance of the role of the consumer. Learners should understand the importance of social media on employment prospects, and how to use it responsibly. They could use advice platforms from agencies such as [Careers Wales,](https://careerswales.gov.wales/) and [The National](https://nationalcareers.service.gov.uk/) [Careers Service,](https://nationalcareers.service.gov.uk/) on how to use social media effectively when securing/searching for employment, and, from a business perspective, when recruiting.
+
+{42}------------------------------------------------
+
+|  | Specification Reference | Amplification | Example |
+|------------------------------------|----------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Interacting and Collaborating | 1.5.1 | The features of limited and unlimited liability organisations | Learners could work in groups, or as a class, using, Google Jamboard or Canva interactive whiteboard. Tasks could involve learners brainstorm ideas to collaborate on a project and to provide collaborative feedback to others. |
+|  | 1.5.2 | The features of purpose driven businesses | Learners could work in pairs/groups and look at the features of both limited and unlimited liability organisations (1.5.1). Following this, they could |
+|  | 1.5.3 | Deciding on business ownership and models | present their findings to a group/the class highlighting the strengths and weaknesses of each type of organisation. |
+|  | Specification Reference | Amplification | Example |
+| Data and Computational Thinking | 1.1.1 | The purpose of business activity | Computational thinking involves a combination of scientific enquiry, problem-solving and thinking skills. Learners need to be made aware of the importance of data, exploring collection, what it represents and how it's analysed. |
+|  | 1.1.3 | Types of business aims | Learners could be presented with a case study, whereby a business aim is not being satisfied. This could be its growth, market share, customer satisfaction, etc. They could then analyse the data available in order to offer a number of manageable solutions to solving it. This data can be presented using digital flowcharts or spreadsheets, clearly showing data as evidence for possible solutions. |
+|  |  |  | Learners could use a PESTLE and STEEPLE framework to assess the external environmental factors and the impact this has on businesses. |
+
+{43}------------------------------------------------
+
+| Integral Skills           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                              |                                                                                                                                                                                                                                                                                                   |  |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|  | There are many opportunities to include Creativity and Innovation in GCSE Business. These opportunities are important to learners because learners are able to broaden their perspectives and promotes potential to draw out positive aspects of business concepts. These skills enable learners to generate original complex business ideas and develop creative solutions to business problems. Below are some examples of how Creativity and Innovation can be embedded into teaching |  |  |  |
+|                           | and learning:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                              |                                                                                                                                                                                                                                                                                                   |  |
+|  | Specification Reference | Amplification | Example |  |
+|  | 1.1.7 | Sustainability | Learners could brainstorm ideas for social enterprise business ideas, incorporating the three pillars of sustainability into those ideas. These ideas would then be |  |
+| Creativity and Innovation | 1.5.2 | The features of purpose driven businesses | developed and presented to younger learners in the school/between classes/groups, raising awareness of sustainability within the school setting. The younger learners could then vote on the most sustainable social enterprise business idea. |  |
+|  |  |  | Learners could use the 'Six Thinking Hats' creative tool to explore ideas for a social enterprise in their local area. The use of this tool would ensure that each idea is investigating from a variety of perspectives and approaches, allowing for creativity to be enhanced. |  |
+|  |  |  | Learners should have opportunities to use a range of innovative digital tools (e.g. Canva's free online business video maker) to raise awareness of sustainability. |  |
+
+{44}------------------------------------------------
+
+|  | There are many opportunities to include Critical Thinking and Problem Solving in GCSE Business. These opportunities are important to learners because they will be provided with the tools to diagnose problems and identify possible solutions. Critical thinking and problem-solving skills enable learners to undertake research in the ever-changing business environment, and use information and data to draw conclusions from this. Below are some examples of how Critical Thinking and Problem Solving can be embedded into teaching and learning: |  |  |  |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|  | Specification Reference | Amplification | Example |  |
+| Critical Thinking and Problem Solving | 1.1.1 | The purpose of business activity | PESTLE and STEEPLE analysis tools can be used to assess the external environment and offer potential solutions. |  |
+|  | 1.3.1 | Different scales of business operation | Learners could explore a large multinational company such as Tesco. They could use PESTLE or STEEPLE |  |
+|  | 1.3.2 | The challenge of globalisation | as a critical thinking and problem-solving tool to critically assess how the external environment could impact on Tesco's success. |  |
+|  |  |  | Teachers could ask meaningful questions such as who/what/where/how/why to encourage learners critical thinking to assess Tesco's failure in America. |  |
+
+{45}------------------------------------------------
+
+**There are many opportunities to include Planning and Organisation in GCSE Business. These opportunities are important to learners because it will allow learners to understand the importance of how planning leads to efficiency and productivity in any workplace. Planning strategies enable learners to identify, plan and carry out a project achieving planned outcomes.**
+
+**Below are some examples of how Planning and Organisation can be embedded into teaching** 
+
+|                           | and learning:              |                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------------------|----------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  | Specification Reference | Amplification | Example |
+|  | 1.1.3 | Types of business aims | Learners could discuss and gain understanding of the types of business aims, recognising how these provide |
+| Planning and Organisation | 1.4 | Stakeholders | purpose to businesses and identify plans for success. Aims should include: <ul><li>customer satisfaction</li><li>environmental and sustainability</li><li>ethical</li><li>growth</li><li>market share</li><li>profit maximisation</li><li>social/community</li><li>survival. This information could then be linked to how businesses define priorities and success criteria to satisfy the range of internal and external stakeholders. Learners could link how each aim impacts the various types of stakeholders in a given business and present their findings to the class.</li></ul> |
+
+{46}------------------------------------------------
+
+|  | There are many opportunities to include Personal Effectiveness in GCSE Business. These opportunities are important to learners because it will enable learners to see how self-reflection and evaluation is essential to satisfaction and performance. It will allow learners to see how businesses are able to better adapt to any unexpected changes in the environment and how this can lead to improved performance in the future. Below are some examples of how Personal Effectiveness can be embedded into teaching and learning: |  |  |  |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|  | Specification Reference | Amplification | Example |  |
+|  | 1.1.3 | Types of business aims | Learners need to understand the importance of a business' ability to reflect and adapt to the needs of the consumer and changes in the environment, in |  |
+| Personal Effectiveness | 1.8.2 | The impact of technology on business location | order for it to succeed. |  |
+|  |  |  | Learners could research B Corps and how businesses can become certified. They could also investigate B Corp organisations to identify ways in which they behave in an ethical way. |  |
+|  |  |  | Learners could research companies and assess how each business has adapted and changed to succeed in a competitive and dynamic environment. |  |
+|  |  |  | Learners could identify companies in the UK and/or Wales, that are now able to reach further consumers via digital technology, for example, GymShark/YBL/Haia. |  |
+
+{47}------------------------------------------------
+
+#### <span id="page-47-1"></span><span id="page-47-0"></span>Glossary for Unit 1
+
+| Term                          | Definition                                                                                                                                                          |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Benefit Corporation | Sometimes called B-corp, is a corporation that commits to create a positive impact on society and the environment. |
+| Break-even | The point at which revenue and total costs are the same, meaning the business is making neither a profit nor a loss. |
+| Business (ethics) | This involves a business doing what is morally right for its stakeholders. Behaving ethically in business is widely regarded as good business practice. |
+| Business aims | This is the long-term objective of the business. Its aim might be to become more sustainable in the next 5 years. |
+| Business enterprise | Business enterprise refers to a person spotting a business opportunity and setting up a business. |
+| Business location | The geographical area where businesses may be found. Specific factors considered when deciding location could be costs, transport links and infrastructure |
+| Business sectors | The sector made up of all businesses in the economy. It is responsible for production and service activities to satisfy human needs and wants. |
+| Business siting | This is the site or specific place within a business location that is chosen and may depend on customer footfall and accessibility. |
+| Business to business (B2B) | A type of transaction that takes place between one business and another, such as wholesaler and retailer. |
+| Business to customer (B2C) | A type of transaction between a business and a customer, such as purchased goods and services. |
+| Careers advice | Advice from professionals to explore ideas and possibilities about future pathways. |
+| Careers Wales | Careers Wales provides independent and impartial careers, advice and guidance services for Wales. |
+| Charity | Not for profit businesses, whose aim is to raise money for good causes, or to help people, animals and the environment. |
+| Circular economy | This is a model used for production and consumption. It bases its principals on reusing, repairing and recycling existing materials to prolong its lifecycle. |
+| Competitive (environment) | How a business is affected by its competition and how it adapts its business practices to enable it to compete effectively. |
+| Consumer                      | Person/s who purchases goods and/or services.                                                                                                                       |
+| Consumer good                 | Goods which are produced for the final customer.                                                                                                                    |
+
+{48}------------------------------------------------
+
+<span id="page-48-0"></span>
+
+| Consumer rights | Aims to protect consumers against poor quality products and services and poor business practices. |  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Contribution | Contribution looks at the profit made on individual products. It is calculated using: |  |
+|  | selling price per unit – variable cost per unit |  |
+| Co-operative | A business which is owned and run jointly by its members, who share the profits or benefits. |  |
+| Costs | The monetary value spent by a company for the production of goods and services. |  |
+| Customer satisfaction | This relies on how well a customer's products, services and overall customer experience meet customer expectations. Satisfied customers will continue to use a product or service and become repeat customers. |  |
+| Deglobalisation | A movement towards a less connected world where trade and investment between countries decline. |  |
+| Dynamic (environment) | A business environment that is rapidly changing. Businesses have to adapt quickly to changes and develop new ideas, products and services to keep up with technology and new trends. |  |
+| E-commerce                          | The buying and selling of goods and services via the internet.                                                                                                                                                                               |  |
+| End user | A person who makes use of the goods and services produced by businesses. |  |
+| Entrepreneur | Someone who starts their own company or business. They often take risks by introducing new products or services or look for new opportunities in new markets. |  |
+| Environmental and sustainability | Any actions taken by businesses to reduce any adverse impact on the environment and local community. This also includes what measures can be developed to prevent the depletion of natural resources so that they remain available. |  |
+| Ethical | Being ethical involves the moral principles, policies and values a business holds and helps in building trust between a business and its customers. |  |
+| External stakeholder | A person/group of people/organisation outside the business that has an interest in the activities of a business. |  |
+| Fixed Costs                         | Costs that do not vary with output.                                                                                                                                                                                                          |  |
+| Footfall | The number of people passing close to the business. These are potential customers of that business. |  |
+| Global brands | An international image that identifies a product and differentiates it from its competitors. |  |
+| Global market | A market which operates on an international scale to provide goods and services. A wide variety of goods and services are sold across the world in a global market. |  |
+
+{49}------------------------------------------------
+
+| Global scales | Businesses operating on an international scale to provide goods and services. |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Globalisation | Operating on an international scale to provide or produce goods and services. It is the process that enables markets to operate across the globe. |
+| Goods | A good is a tangible or physical product that someone will buy. Businesses sell goods to consumers who will then buy them. |
+| Green economy | A model which reduces the impact of production and consumption on the environment. |
+| Growth | Business growth is the process of expanding and increasing operations over time. This can be achieved through increasing sales or developing new products or services. |
+| Infrastructure | Infrastructure refers to the facilities that support everyday economic activities. |
+| Innovative (environment) | How a business responds and adapts to changes in technology and new ways of working. |
+| Internal stakeholder | A person, group of people or organisation inside the business that has an interest in the activities of a business. |
+| International Trade | The process of a business or country buying and selling products to and from other countries. This is often referred to as importing and exporting. |
+| Job market trends | Examining trends and patterns in the job market over time to predict any future changes. |
+| Labour supply | This refers to the number of hours employees are willing/able to supply at a given rate of pay. |
+| Limited Liability | The owners of a business are not responsible for the debts of a business. The owners, however, will lose the money they invested if it fails. |
+| Local market | These are markets where buyers and sellers are in close proximity to each other. Certain businesses such as takeaways and corner shops need to be accessible to their local target market. |
+| Local scale | Businesses that operate in a specific place or small area such as a neighbourhood, community or town. |
+| Logistics | Involves the management of the movement of goods from where they are to where they are needed. |
+| Loss | If a business' costs are greater than its revenue, they have made a loss. |
+| Market | A market is any place that brings buyers and sellers together so that an exchange of goods or services can take place. |
+| Market share | This is the share of the total market that is owned by a business, product or brand. |
+
+{50}------------------------------------------------
+
+<span id="page-50-0"></span>
+
+| Mass market | Mass market is where goods and services are produced on a large scale for a wider range of consumers. |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| M-commerce | Involves buying goods and services through handheld mobile devices such as smartphones. |
+| Multinational | Businesses with their headquarters in one country but operate in other offices, factories and shops. |
+| Multiplier effect | This occurs when there is new demand in an economy. This leads to an injection of more income, which leads to economic growth. This leads to more jobs being created, higher incomes and more spending in the economy. |
+| National Careers Service | The National Careers Service offers free careers advice, information and guidance to 13+ years old so that they are equipped with the right information to make decisions about their future pathways. |
+| National market | A national market is where buyers and sellers all operate within the same country. The businesses here provide goods and services within the boundaries of the country. |
+| National scale               | Businesses that operate throughout a home country.                                                                                                                                                                                             |
+| Needs | Needs are required by individuals to survive and can be seen as a necessity. |
+| Niche | A smaller part of a large market, with products tailored to specific customer needs. |
+| Partnerships | Businesses owned by between 2 and 20 people who generally have unlimited liability. |
+| PESTLE | A tool used to analyse the competitive environment within which a business operates. The acronym stands for Political, Economic, Social, Technological, Legal and Environmental. |
+| Private limited companies | Businesses which are owned by shareholders who have limited liability. Their shares are not available to others except with the agreement of other shareholders. They are generally recognised with 'Ltd' after the business name. |
+| Private Sector | Businesses that are set up by individuals or groups of individuals. |
+| Procurement | Involves obtaining or buying of goods and services from an external source. These are to be used in the production process or are to be sold on. |
+| Producer good | Goods which are produced for other businesses to be able to produce other goods and services. |
+| Profit | This is the difference between the total revenue of a business and the total costs of a business, when revenue is greater than cost. |
+| Profit maximisation | This is when a business aims to make as much profit as possible. They can do this by finding the right balance between costs incurred and the selling price of their products or services. |
+
+{51}------------------------------------------------
+
+<span id="page-51-2"></span><span id="page-51-1"></span><span id="page-51-0"></span>
+
+| Proximity to market | This refers to the physical distance between a business and its target market. |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Public limited companies | Businesses which are owned by shareholders who have limited liability. Their shares are available to others by selling to the general public often at the Stock Exchange. They are generally recognised with 'plc' after the business name. |
+| Public Sector               | Organisations owned and controlled by the government.                                                                                                                                                                                                   |
+| Remote working | The practice of an employee working at their home, or in some other place that is not a business' usual place of business: |
+| Renewable energy | Renewable energy (or green energy) is energy from renewable natural resources that are replenished on a human timescale. The most widely used renewable energy types are solar energy, wind power, and hydropower. |
+| Revenue | The amount of money taken in by a business when selling goods/services. |
+| Seasonal market | A market where certain products and services and produced and marketed to consumers. |
+| Services | Services are intangible items that consumers will access over a period of time. Businesses provide services to consumers; examples are hairdressers and transport services. |
+| Social Enterprise | Businesses which operate for the benefit of the community or its workers or as a charity. |
+| Social/community | The community is made up of the people living in the same area where the business is located. They may share similar interests or want to achieve the same goals, but may also have different backgrounds and experiences. |
+| Sole traders | A sole trader is a business that is owned and run by one person who has unlimited liability. Other people can be employed but there is only one owner. |
+| STEEPLE | A tool to analyse aspects of a business' external environment. The acronym stands for Social, Technological. Environmental, Economic, Political, Legal and Ethical. |
+| Stock control | The processes and controls used by a business to ensure that it has sufficient stock to satisfy demand and its customers. |
+| Supply Chain Management | A complex system of businesses, people, activities, information and resources involved in moving a good or service from source to customer. |
+| Survival | Survival refers to keeping the business operating for a certain period of time. Businesses will assess aims and objectives during critical times to ensure they survive. |
+| Sustainability | Businesses acting in a responsible manner to ensure that our environment and resources are available for future generations to enjoy. |
+
+{52}------------------------------------------------
+
+| Three pillars of sustainability | Sustainable development recognises three interconnecting pillars – the economy, society and the environment. |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Total costs | The fixed costs plus the variable costs of a business. The calculation used is: |
+|                                    | Total costs = Fixed Costs + Variable Costs.                                                                               |
+| Trade barriers                     | Any regulation or policy that restricts international trade.                                                              |
+| UCAS | University and Colleges Admissions Service is an independent charity and UK's admissions service for higher education. |
+| Unlimited liability | The owners of a business are responsible for all of the debts of a business. |
+| Variable Costs                     | Costs that change with output, such as raw materials.                                                                     |
+| Wants | Wants are items that an individual would like to have but do not require for survival. |

@@ -17,6 +17,7 @@ from typing import Iterable, Optional
 import language_tool_python
 
 from language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
+from page_utils import build_page_number_map
 
 
 LOGGER = logging.getLogger(__name__)
@@ -143,64 +144,13 @@ def _format_suggestions(replacements: list[str] | None, max_suggestions: int = 3
 	return f"{visible} (+{remaining} more)"
 
 
-def _build_page_number_map(text: str) -> dict[int, int]:
-	"""Build a map from character position to page number.
-	
-	Scans the text for page markers in the format {N}------------------------------------------------
-	and creates a mapping where each character position maps to its page number.
-	
-	Args:
-		text: The document text to scan
-		
-	Returns:
-		A dictionary mapping character positions to page numbers
-	"""
-	import re
-	
-	# Find all page markers and their positions
-	page_pattern = re.compile(r'^\{(\d+)\}[-]+\s*$', re.MULTILINE)
-	page_markers: list[tuple[int, int]] = []  # (position, page_number)
-	
-	for match in page_pattern.finditer(text):
-		page_num = int(match.group(1))
-		position = match.start()
-		page_markers.append((position, page_num))
-	
-	# Sort by position to ensure correct ordering
-	page_markers.sort(key=lambda x: x[0])
-	
-	# Build position-to-page map
-	# Strategy: find which page each position belongs to by finding the last marker before it
-	position_to_page: dict[int, int] = {}
-	
-	if not page_markers:
-		# No page markers found
-		return position_to_page
-	
-	# Everything before the first marker is on the first page found (or implicitly page 0)
-	# Everything after a marker until the next marker is on that page
-	for i in range(len(text)):
-		# Find the last marker that comes before or at this position
-		current_page = None
-		for pos, page_num in page_markers:
-			if pos <= i:
-				current_page = page_num
-			else:
-				break
-		
-		if current_page is not None:
-			position_to_page[i] = current_page
-	
-	return position_to_page
-
-
 def _get_page_number_for_match(match: object, text: str, page_map: dict[int, int]) -> int | None:
 	"""Determine the page number for a language issue match.
 	
 	Args:
 		match: The LanguageTool match object
 		text: The full document text
-		page_map: Map from character position to page number
+		page_map: Map from character position to page number (from page_utils.build_page_number_map)
 		
 	Returns:
 		The page number where the match occurs, or None if not found
@@ -272,7 +222,7 @@ def check_document(
 	filename = document_path.name
 	
 	# Build page number map from the document text
-	page_map = _build_page_number_map(text)
+	page_map = build_page_number_map(text)
 	
 	# Merge ignored words with defaults.
 	# NOTE: matching is case-sensitive — we use the words as provided in the
