@@ -85,23 +85,15 @@ def build_page_number_map(text: str) -> dict[int, int]:
         # No page markers found
         return {}
     
-    # Build position-to-page map
-    # Strategy: find which page each position belongs to by finding the last marker before it
+    # Build position-to-page map in a single pass
     position_to_page: dict[int, int] = {}
     
-    # Everything before the first marker is on the first page found (or implicitly page 0)
-    # Everything after a marker until the next marker is on that page
-    for i in range(len(text)):
-        # Find the last marker that comes before or at this position
-        current_page = None
-        for marker in markers:
-            if marker.position <= i:
-                current_page = marker.page_number
-            else:
-                break
-        
-        if current_page is not None:
-            position_to_page[i] = current_page
+    # For each marker, fill the range from its position up to the next marker (or end of text)
+    for idx, marker in enumerate(markers):
+        start = marker.position
+        end = markers[idx + 1].position if idx + 1 < len(markers) else len(text)
+        for i in range(start, end):
+            position_to_page[i] = marker.page_number
     
     return position_to_page
 
