@@ -22,243 +22,119 @@ DEFAULT_DISABLED_RULES = {
 
 }
 
+
 # Default words to ignore (case-sensitive; can be extended via command-line)
 # The set below intentionally preserves casing because many entries are
 # case-specific (e.g. organisation names, acronyms, product names).
 DEFAULT_IGNORED_WORDS = {
-    # prominent names / proper nouns
-    "WJEC",
-    "CBAC",
-    "Fitzalan",
-    "Llanwern",
-    "GCSE",
-    "tkinter",
+    # --- Prominent names / proper nouns ---
+    "WJEC", "CBAC", "Fitzalan", "Llanwern", "GCSE", "tkinter",
 
-    # hardware / acronyms
-    "CPU",
-    "GPU",
-    "RAM",
-    "NIC",
-    "NICs",
-    "HDD",
-    "SSD",
-    "SD",
-    "SDS",
-    "DVD",
-    "PC",
-    "SCSI",
-    "USB",
-    "HDMI",
-    "RCA",
+    # --- Hardware / acronyms ---
+    "CPU", "GPU", "RAM", "NIC", "NICs", "HDD", "SSD", "SD", "SDS", "DVD", "PC", "SCSI", "USB", "HDMI", "RCA",
 
-    # networking / bandwidth
-    "LAN",
-    "WAN",
-    "Ethernet",
-    "Wi-Fi",
-    "kbps",
-    "mbps",
-    "gbps",
-    "bps",
-    "MiTM",
-    "MITM",
+    # --- Networking / bandwidth ---
+    "LAN", "WAN", "Ethernet", "Wi-Fi", "kbps", "mbps", "gbps", "bps", "MiTM", "MITM",
 
-    # audio / connectors / formats
-    "SPDIF",
-    "S/PDIF",
-    "TOSLINK",
+    # --- Audio / connectors / formats ---
+    "SPDIF", "S/PDIF", "TOSLINK",
 
-    # core / cpu descriptors
-    "quad-core",
-    "hexa-core",
-    "octa-core",
-    "deca-core",
+    # --- Core / CPU descriptors ---
+    "quad-core", "hexa-core", "octa-core", "deca-core",
 
-    # image / bit-depth / throughput
-    "BPC",
-    "BPP",
-    "bits-per-channel",
-    "bit-depth",
+    # --- Image / bit-depth / throughput ---
+    "BPC", "BPP", "bits-per-channel", "bit-depth",
 
-    # hyphen / multi-word variants
-    "multitasking",
-    "multi-tasking",
-    "high-speed",
+    # --- Hyphen / multi-word variants ---
+    "multitasking", "multi-tasking", "high-speed",
 
-    # misc
-    "white-hat",
-    "whitehat",
-    "nano",
-}
+    # --- Misc ---
+    "white-hat", "whitehat", "nano",
 
-# Additional words observed in the language-check report that are valid
-# terms or proper nouns for WJEC documents. These are case-sensitive
-# entries because the spellchecker configuration preserves casing.
-ADDITIONAL_IGNORED = {
-    # Welsh / domain-specific
-    "cynefin",
-    "Cynefin",
+    # --- Welsh / domain-specific ---
+    "cynefin", "Cynefin",
 
-    # Education / resource names
-    "Bitesize",
-    "Eduqas",
+    # --- Education / resource names ---
+    "Bitesize", "Eduqas",
 
-    # Museums / organisations and acronyms seen in reports
-    "MoMA",
-    "MOMA",
-    "Mostyn",
-    "Presteigne",
-    "UWTSD",
-    "NSEAD",
+    # --- Museums / organisations and acronyms seen in reports ---
+    "MoMA", "MOMA", "Mostyn", "Presteigne", "UWTSD", "NSEAD",
 
-    # People / names encountered
-    "Lubaina",
-    "Himid",
-    "Yinka",
-    "Shonibare",
+    # --- People / names encountered ---
+    "Lubaina", "Himid", "Yinka", "Shonibare",
 
-    # Other acronyms and subject-specific tokens
-    "CWRE",
-    "AOs",
-    "SAMs",
-    "SAM",
+    # --- Other acronyms and subject-specific tokens ---
+    "CWRE", "AOs", "SAMs", "SAM",
 
-    # Vendor / product names
-    "kitronik",
-    "Kitronik",
+    # --- Vendor / product names ---
+    "kitronik", "Kitronik",
 
-    # Place names, people and tokens seen in language-check reports
-    # (added as case-sensitive entries to avoid masking real errors)
-    "Machynlleth",
-    "Hwb",
-    "Cynon",
-    "Piech",
-    "Bracewell",
-    "Heatherwick",
-    "Kéré",
-    "Tregwynt",
-    "Melin",
-    "Haf",
-    "Weighton",
-    "Blant",
-    "Byd",
-    "Fairey",
-    "Hickman",
-    "Delita",
-    "Rego",
-    "Ekta",
-    "Kaul",
-    "Adfer",
-    "Felin",
-    "Fons",
-}
+    # --- Place names, people and tokens seen in language-check reports ---
+    "Machynlleth", "Hwb", "Cynon", "Piech", "Bracewell", "Heatherwick", "Kéré", "Tregwynt", "Melin", "Haf", "Weighton", "Blant", "Byd", "Fairey", "Hickman", "Delita", "Rego", "Ekta", "Kaul", "Adfer", "Felin", "Fons",
 
-# Merge the additional set into the main default set
-DEFAULT_IGNORED_WORDS.update(ADDITIONAL_IGNORED)
+    # --- Release / build terms ---
+    "prerelease", "pre-release",
 
-# Additional false positives observed in recent language-check reports
-# (added here so the checker won't flag common technical tokens, acronyms,
-# file-format labels and multi-word product/term forms used in WJEC docs).
-MORE_IGNORED = {
-    # release / build terms
-    "prerelease",
-    "pre-release",
+    # --- Security / cyber terms (variants seen in reports) ---
+    "DoS", "DOS", "cybersecurity", "cyber security", "cyberattacks", "cyber attacks", "cyberattack", "cyber attack",
 
-    # security / cyber terms (variants seen in reports)
-    "DoS",
-    "DOS",
-    "cybersecurity",
-    "cyber security",
-    "cyberattacks",
-    "cyber attacks",
-    "cyberattack",
-    "cyber attack",
-
-    # UK term seen in docs
+    # --- UK term seen in docs ---
     "Centres",
 
-    # website / multipage variants
-    "multipage",
-    "multi-page",
-    "multi page",
+    # --- Website / multipage variants ---
+    "multipage", "multi-page", "multi page",
 
-    # common long-form / product names
-    "HyperText Markup Language",
-    "Hypertext Markup Language",
+    # --- Common long-form / product names ---
+    "HyperText Markup Language", "Hypertext Markup Language",
 
-    # tools / acronyms / UI terms
-    "HUDs",
-    "rotoscoping",
-    "tweening",
-    "AutoFilter",
+    # --- Tools / acronyms / UI terms ---
+    "HUDs", "rotoscoping", "tweening", "AutoFilter",
 
-    # spreadsheet functions / tokens (uppercase as in docs)
-    "COUNTA",
-    "IF",
-    "VLOOKUP",
-    "HLOOKUP",
-    "COUNTIF",
-    "SUMIF",
-    "AVERAGEIF",
-    "SORTBY",
-    "UNIQUE",
-    "SORT",
+    # --- Spreadsheet functions / tokens (uppercase as in docs) ---
+    "COUNTA", "IF", "VLOOKUP", "HLOOKUP", "COUNTIF", "SUMIF", "AVERAGEIF", "SORTBY", "UNIQUE", "SORT",
 
-    # layout / CSS / game terms
-    "flexbox",
-    "Flexbox",
-    "multi-player",
-    "multiplayer",
+    # --- Layout / CSS / game terms ---
+    "flexbox", "Flexbox", "multi-player", "multiplayer",
 
-    # file extensions / media formats (upper+lower seen in reports)
-    "PNG",
-    "JPEG",
-    "SVG",
-    "PDF",
-    "MP4",
-    "AVI",
-    "MOV",
-    "mp4",
-    "avi",
-    "mov",
-    "png",
-    "jpeg",
-    "svg",
+    # --- File extensions / media formats (upper+lower seen in reports) ---
+    "PNG", "JPEG", "SVG", "PDF", "MP4", "AVI", "MOV", "mp4", "avi", "mov", "png", "jpeg", "svg",
 
-    # animation / video terms
-    "keyframing",
-    "key framing",
-}
+    # --- Animation / video terms ---
+    "keyframing", "key framing",
 
-# Merge these additional observed tokens in as well
-DEFAULT_IGNORED_WORDS.update(MORE_IGNORED)
+    # --- People / names / proper nouns seen in Business docs ---
+    "Elkington",
 
-# Welsh words frequently seen in WJEC documents; add both common case variants
-# and hyphenated forms found in the language report so the checker won't flag them.
-DEFAULT_IGNORED_WELSH = {
-    # acronyms / subject name
+    # --- Internal resource / acronym forms seen in reports ---
+    "GfT", "NEA", "NEAs", "IAMIS",
+
+    # --- Organisations / program names ---
+    "Technocamps", "ActionAid", "GlobalWelsh",
+
+    # --- Subject / curriculum tokens ---
+    "AoLE", "BAME",
+
+    # --- Brands / product names used in documents ---
+    "GymShark", "McDonalds",
+
+    # --- Service / platform tokens flagged but valid in docs ---
+    "YouTube",
+
+    # --- Place names and local variants (add common forms) ---
+    "Merthyr Tydfil",
+
+    # --- Common editorial token from reports ---
+    "fayre",
+
+    # --- Welsh: acronyms / subject name ---
     "TGAU",
 
-    # hyphenated / title strings
+    # --- Welsh: hyphenated / title strings ---
     "Gwneud-i-Gymru",
 
-    # general Welsh words / proper nouns
-    "Dysgu",
-    "Proffesiynol",
-    "proffesiynol",
-    "Canolfan",
-    "Bedwyr",
-    "Termiadur",
-    "Addysg",
+    # --- Welsh: general Welsh words / proper nouns ---
+    "Dysgu", "Proffesiynol", "proffesiynol", "Canolfan", "Bedwyr", "Termiadur", "Addysg",
 
-    # scientific terminology examples seen in docs
-    "cyflymder",
-    "Cyflymder",
-    "Buanedd",
-    "buanedd",
-    "felosedd",
-    "Felosedd",
+    # --- Welsh: scientific terminology examples seen in docs ---
+    "cyflymder", "Cyflymder", "Buanedd", "buanedd", "felosedd", "Felosedd",
 }
-
-# Merge Welsh ignore words into the main default set (preserves case-sensitivity)
-DEFAULT_IGNORED_WORDS.update(DEFAULT_IGNORED_WELSH)
