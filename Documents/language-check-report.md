@@ -1,10 +1,10 @@
 # Language Check Report
 
 - Checked 2 document(s)
-- Total issues found: 54
+- Total issues found: 52
 
 ## Totals by Subject
-- Digital-Technology: 54 issue(s) across 2 document(s) (running total: 54)
+- Digital-Technology: 52 issue(s) across 2 document(s) (running total: 52)
 
 ---
 
@@ -20,7 +20,7 @@ Found 1 issue(s).
 
 ### Digital-Technology / wjec-gcse-digital-technology-specification.md
 
-Found 53 issue(s).
+Found 51 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -31,8 +31,6 @@ Found 53 issue(s).
 | wjec-gcse-digital-technology-specification.md | 18 | `CYBER_COMPOUNDS` | grammar | The word “cyberattacks” is spelled as one. | cyberattacks | ...ould know the potential consequences of **cyber attacks** on organisations, including: <ul><li>da... |
 | wjec-gcse-digital-technology-specification.md | 18 | `CYBER_COMPOUNDS` | grammar | The word “cyberattack” is spelled as one. | cyberattack | ...ge. Learners should know the purpose of **cyber attack** recovery plans, including:</li><li>busi... |
 | wjec-gcse-digital-technology-specification.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | privacy focused | ...oftware tools and technologies, such as **privacyfocused** browsers and Virtual Private Networks (... |
-| wjec-gcse-digital-technology-specification.md | 19 | `DECISION_MAKING` | uncategorized | The noun “decision-making” (= the process of deciding something) is spelled with a hyphen. | decision-making | ...tificial Intelligence (AI) in automated **decision making**.  {20}---------------------------------... |
-| wjec-gcse-digital-technology-specification.md | 21 | `DECISION_MAKING` | uncategorized | The noun “decision-making” (= the process of deciding something) is spelled with a hyphen. | decision-making | ...(AI) models, including: <ul><li>bias in **decision making**</li><li>privacy concerns</li><li>job au... |
 | wjec-gcse-digital-technology-specification.md | 21 | `CYBER_COMPOUNDS` | grammar | The word “cybersecurity” is spelled as one. | cybersecurity | .../li><li>blockchain technologies</li><li>**cyber security**</li><li>Internet of Things (IoT)</li><l... |
 | wjec-gcse-digital-technology-specification.md | 22 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e software to develop digital products. **Centres** should refer to the Decision Guide prov... |
 | wjec-gcse-digital-technology-specification.md | 22 | `ABLE_VBP` | grammar | The preposition ‘to’ is required before the verb ‘review’. | able to review | ... and organising data. Leaners should be **able review** quantitative data and use suitable spre... |

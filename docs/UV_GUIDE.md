@@ -17,14 +17,14 @@ All development, execution, and dependency management for this project uses **uv
 | Download two subjects | `uv run python main.py --subjects "Art and Design" French` |
 | Post-process existing downloads | `uv run python main.py --post-process-only --post-process-workers 4` |
 | Open REPL | `uv run python` |
-| Inline check | `uv run python -c "import wjec_scraper; print(len(wjec_scraper.QUALIFICATION_URLS))"` |
+| Inline check | `uv run python -c "from src.scraper import QUALIFICATION_URLS; print(len(QUALIFICATION_URLS))"` |
 
 ## Running Code
 
 Always prefix with `uv run`:
 ```bash
 uv run python main.py --list-subjects
-uv run python -c "from wjec_scraper import subject_directory_name; print(subject_directory_name('Cymraeg Language and Literature'))"
+uv run python -c "from src.scraper import subject_directory_name; print(subject_directory_name('Cymraeg Language and Literature'))"
 uv run python main.py --subjects Geography --post-process
 ```
 

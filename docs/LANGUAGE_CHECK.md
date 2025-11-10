@@ -1,6 +1,6 @@
 # Language Check Configuration
 
-The `language_check.py` tool checks Markdown documents for spelling and grammar issues using LanguageTool. It includes built-in filtering to reduce noise from common false positives.
+The `src.language_check.language_check` module checks Markdown documents for spelling and grammar issues using LanguageTool. It includes built-in filtering to reduce noise from common false positives.
 
 ## Default Filtering
 
@@ -27,20 +27,20 @@ The following words are **ignored** in spell-checking (case-insensitive):
 
 ```bash
 # Add additional words to ignore
-uv run python language_check.py --ignore-word "myword" --ignore-word "anotherword"
+uv run python -m src.language_check.language_check --ignore-word "myword" --ignore-word "anotherword"
 
 # Ignore only custom words (no defaults)
-uv run python language_check.py --no-default-words --ignore-word "myword"
+uv run python -m src.language_check.language_check --no-default-words --ignore-word "myword"
 ```
 
 ### Disabling Additional Rules
 
 ```bash
 # Disable additional rules
-uv run python language_check.py --disable-rule "MORFOLOGIK_RULE_EN_GB" --disable-rule "OXFORD_SPELLING_Z_NOT_S"
+uv run python -m src.language_check.language_check --disable-rule "MORFOLOGIK_RULE_EN_GB" --disable-rule "OXFORD_SPELLING_Z_NOT_S"
 
 # Disable only custom rules (no defaults)
-uv run python language_check.py --no-default-rules --disable-rule "MY_RULE"
+uv run python -m src.language_check.language_check --no-default-rules --disable-rule "MY_RULE"
 ```
 
 ### Finding Rule IDs
@@ -54,19 +54,19 @@ To find the rule ID for an issue you want to disable:
 
 ### Check with defaults
 ```bash
-uv run python language_check.py --root Documents --subject Computer-Science
+uv run python -m src.language_check.language_check --root Documents --subject Computer-Science
 ```
 
 ### Check ignoring additional words
 ```bash
-uv run python language_check.py --root Documents \
+uv run python -m src.language_check.language_check --root Documents \
   --ignore-word "python" \
   --ignore-word "ide"
 ```
 
 ### Check with custom rules disabled
 ```bash
-uv run python language_check.py --root Documents \
+uv run python -m src.language_check.language_check --root Documents \
   --disable-rule "OXFORD_SPELLING_Z_NOT_S" \
   --disable-rule "HYPHEN_TO_EN"
 ```
@@ -74,14 +74,14 @@ uv run python language_check.py --root Documents \
 ### Check with no default filters
 ```bash
 # Show all issues (no filtering)
-uv run python language_check.py --root Documents \
+uv run python -m src.language_check.language_check --root Documents \
   --no-default-rules \
   --no-default-words
 ```
 
 ## Modifying Defaults
 
-To permanently change the default ignored words or disabled rules, edit `language_check.py`:
+To permanently change the default ignored words or disabled rules, edit `src/language_check/language_check_config.py`:
 
 ```python
 # Near the top of the file

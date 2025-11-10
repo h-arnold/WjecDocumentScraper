@@ -4,10 +4,14 @@ This document defines how the scraper works, the public contracts you must prese
 
 ## Overview
 
-The tool downloads GCSE PDF documents from WJEC “Made for Wales” qualification pages. It can be used via:
-- CLI: `main.py`
-- Library API: `wjec_scraper.py`
-- Gemini helper: `gemini_llm.py` — wraps the Google GenAI client, reads system instructions from Markdown, and loads `.env` values (such as `GEMINI_API_KEY`).
+The tool downloads GCSE PDF documents from WJEC "Made for Wales" qualification pages. It can be used via:
+- CLI: `main.py` (thin wrapper that imports from `src.cli`)
+- Library API: `src.scraper` module (functions in `src/scraper/__init__.py`)
+- Post-processing: `src.postprocessing` module (functions in `src/postprocessing/__init__.py`)
+- Converters: `src.converters.converters` module (PDF to Markdown conversion)
+- Gemini helper: `src.converters.gemini_llm` module — wraps the Google GenAI client, reads system instructions from Markdown, and loads `.env` values (such as `GEMINI_API_KEY`)
+- Page utilities: `src.utils.page_utils` module (page marker extraction and navigation)
+- Language check: `src.language_check.language_check` module (spelling and grammar checking)
 
 Python >= 3.12. Dependencies are managed with uv (see `docs/UV_GUIDE.md`).
 
@@ -48,7 +52,7 @@ Python >= 3.12. Dependencies are managed with uv (see `docs/UV_GUIDE.md`).
 
 ## Post-processing pipeline
 
-Once PDFs have been downloaded, the optional organiser lives in `postprocess_documents.py` and can be triggered from the CLI via `--post-process` or `--post-process-only`.
+Once PDFs have been downloaded, the optional organiser lives in `src/postprocessing/__init__.py` and can be triggered from the CLI via `--post-process` or `--post-process-only`.
 
 1. Subject discovery
    - `find_subject_directories(root: Path) -> list[Path]`
@@ -59,7 +63,7 @@ Once PDFs have been downloaded, the optional organiser lives in `postprocess_doc
      - Copies any PDFs in the subject root into the dedicated `pdfs/` subdirectory, removing originals after a successful copy.
 
 3. Markdown conversion
-   - The conversion system uses a pluggable architecture defined in `converters.py`:
+   - The conversion system uses a pluggable architecture defined in `src/converters/converters.py`:
      - `PdfToMarkdownConverter` - Abstract base class for all converters
      - `MarkItDownConverter` - Uses [MarkItDown](https://pypi.org/project/markitdown/) (default)
      - `MarkerConverter` - Uses [marker](https://github.com/datalab-to/marker) for advanced OCR and layout detection
@@ -113,7 +117,7 @@ Keep function names, parameter orders, and behaviors stable unless you update al
   - Must call `reporter(label, destination, url)` when provided.
   - Must not crash on individual network/IO errors; continue with other files.
 
-### Page utilities (`page_utils.py`)
+### Page utilities (`src/utils/page_utils.py`)
 
 Functions for working with page markers in Markdown documents. Page markers follow the format `{N}------------------------------------------------`.
 
@@ -156,7 +160,7 @@ Functions for working with page markers in Markdown documents. Page markers foll
 ## Change guidelines (must follow)
 
 - Subjects
-  - Edit `QUALIFICATION_URLS` in `wjec_scraper.py` to add/remove subjects. Keep user-facing names stable; CLI matches case-insensitively.
+  - Edit `QUALIFICATION_URLS` in `src/scraper/__init__.py` to add/remove subjects. Keep user-facing names stable; CLI matches case-insensitively.
 
 - Filenames and directories
   - Do not change normalization logic casually. If you must, update both `sanitise_filename` and `subject_directory_name` together and verify no regressions in already-downloaded structures.
@@ -178,7 +182,7 @@ Functions for working with page markers in Markdown documents. Page markers foll
 
 ## When to update this document
 
-- You add/remove public functions in `wjec_scraper.py` or `page_utils.py`.
+- You add/remove public functions in `src/scraper/__init__.py` or `src/utils/page_utils.py`.
 - You change filename or directory normalization.
 - You modify how subjects are configured or matched.
 - You change link-discovery strategies or title selection rules.

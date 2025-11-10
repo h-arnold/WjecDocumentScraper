@@ -33,7 +33,7 @@ uv run python
 ```
 In REPL:
 ```python
-from wjec_scraper import (
+from src.scraper import (
     fetch_html,
     collect_pdf_links,
     iter_pdf_links,
@@ -49,11 +49,11 @@ filename = sanitise_filename("Sample PDF", "https://example.com/sample.pdf", set
 
 ## Working with Page Utilities
 
-The `page_utils` module provides utilities for working with page markers in Markdown documents. Page markers follow the format `{N}------------------------------------------------`.
+The `src.utils.page_utils` module provides utilities for working with page markers in Markdown documents. Page markers follow the format `{N}------------------------------------------------`.
 
 Example usage:
 ```python
-from page_utils import (
+from src.utils.page_utils import (
     find_page_markers,
     build_page_number_map,
     extract_page_text,
@@ -95,7 +95,7 @@ uv add --dev pytest
 Example tests to start with (create `tests/test_filenames.py`):
 ```python
 import re
-from wjec_scraper import sanitise_filename, subject_directory_name
+from src.scraper import sanitise_filename, subject_directory_name
 
 def test_subject_directory_name_basic():
     assert subject_directory_name("Cymraeg Language and Literature").startswith("Cymraeg-Language")

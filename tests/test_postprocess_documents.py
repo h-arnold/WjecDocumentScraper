@@ -1,4 +1,4 @@
-"""Tests for postprocess_documents.py module."""
+"""Tests for src.postprocessing module."""
 
 from __future__ import annotations
 
