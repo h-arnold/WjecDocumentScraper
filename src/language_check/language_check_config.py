@@ -63,6 +63,9 @@ DEFAULT_IGNORED_WORDS = {
     # --- People / names encountered ---
     "Lubaina", "Himid", "Yinka", "Shonibare",
 
+    # --- Dance subject proper nouns and technical terms (added from report) ---
+    "Rygbi", "Annwyl", "Fearghus", "Conchúir", "ZooNation", "Avant", "Garde", "Chor", "Adigun", "Vardimon", "Xin", "Boyz", "Motionhouse", "ronde", "jambe", "ABACADA", "choreographics",
+
     # --- Other acronyms and subject-specific tokens ---
     "CWRE", "AOs", "SAMs", "SAM",
 
