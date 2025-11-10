@@ -156,6 +156,83 @@ ADDITIONAL_IGNORED = {
 # Merge the additional set into the main default set
 DEFAULT_IGNORED_WORDS.update(ADDITIONAL_IGNORED)
 
+# Additional false positives observed in recent language-check reports
+# (added here so the checker won't flag common technical tokens, acronyms,
+# file-format labels and multi-word product/term forms used in WJEC docs).
+MORE_IGNORED = {
+    # release / build terms
+    "prerelease",
+    "pre-release",
+
+    # security / cyber terms (variants seen in reports)
+    "DoS",
+    "DOS",
+    "cybersecurity",
+    "cyber security",
+    "cyberattacks",
+    "cyber attacks",
+    "cyberattack",
+    "cyber attack",
+
+    # UK term seen in docs
+    "Centres",
+
+    # website / multipage variants
+    "multipage",
+    "multi-page",
+    "multi page",
+
+    # common long-form / product names
+    "HyperText Markup Language",
+    "Hypertext Markup Language",
+
+    # tools / acronyms / UI terms
+    "HUDs",
+    "rotoscoping",
+    "tweening",
+    "AutoFilter",
+
+    # spreadsheet functions / tokens (uppercase as in docs)
+    "COUNTA",
+    "IF",
+    "VLOOKUP",
+    "HLOOKUP",
+    "COUNTIF",
+    "SUMIF",
+    "AVERAGEIF",
+    "SORTBY",
+    "UNIQUE",
+    "SORT",
+
+    # layout / CSS / game terms
+    "flexbox",
+    "Flexbox",
+    "multi-player",
+    "multiplayer",
+
+    # file extensions / media formats (upper+lower seen in reports)
+    "PNG",
+    "JPEG",
+    "SVG",
+    "PDF",
+    "MP4",
+    "AVI",
+    "MOV",
+    "mp4",
+    "avi",
+    "mov",
+    "png",
+    "jpeg",
+    "svg",
+
+    # animation / video terms
+    "keyframing",
+    "key framing",
+}
+
+# Merge these additional observed tokens in as well
+DEFAULT_IGNORED_WORDS.update(MORE_IGNORED)
+
 # Welsh words frequently seen in WJEC documents; add both common case variants
 # and hyphenated forms found in the language report so the checker won't flag them.
 DEFAULT_IGNORED_WELSH = {
