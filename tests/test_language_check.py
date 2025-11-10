@@ -9,7 +9,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.utils.language_check import check_single_document, run_language_checks
+from src.language_check import check_single_document, run_language_checks
 
 
 class DummyMatch:

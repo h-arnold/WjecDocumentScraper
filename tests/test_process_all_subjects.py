@@ -42,7 +42,7 @@ def temp_dir(tmp_path):
 @pytest.fixture
 def state_file(tmp_path):
     """Create a temporary state file."""
-    return tmp_path / "unprocessedSubjects.txt"
+    return tmp_path / "unprocessedFiles.txt"
 
 
 class TestFindSubjectDirectories:
@@ -322,7 +322,7 @@ class TestBuildParser:
         
         assert args.root == Path("Documents")
         assert args.branch == "processedDocuments"
-        assert args.state_file == Path("unprocessedSubjects.txt")
+        assert args.state_file == Path("unprocessedFiles.txt")
         assert args.converter == "marker"
         assert args.uv_cmd == "uv run python"
         assert args.dry_run is False
