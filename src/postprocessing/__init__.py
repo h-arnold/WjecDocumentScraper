@@ -51,9 +51,9 @@ def copy_root_pdfs(subject_dir: Path, pdf_directory: Path) -> list[Path]:
             try:
                 pdf_path.unlink()
             except OSError as exc:
-                logger.warning("Failed to remove original %s after copy: %s", pdf_path, exc)
+                logger.warning("Failed to remove original %s after copy: %s", pdf_path, exc, exc_info=True)
         except OSError as exc:  # pragma: no cover - defensive guard
-            logger.warning("Failed to copy %s -> %s: %s", pdf_path, destination, exc)
+            logger.warning("Failed to copy %s -> %s: %s", pdf_path, destination, exc, exc_info=True)
     return copied
 
 
@@ -132,9 +132,10 @@ def process_single_pdf(pdf_path: Path, converter_type: str = "markitdown") -> Si
                 try:
                     pdf_path.unlink()
                 except OSError as exc:
-                    logger.warning("Failed to remove original %s after copy: %s", pdf_path, exc)
+                    logger.warning("Failed to remove original %s after copy: %s", pdf_path, exc, exc_info=True)
             except OSError as exc:
                 result.error = f"Failed to copy PDF to pdfs/ directory: {exc}"
+                logger.exception("Failed to copy PDF to pdfs/ directory: %s -> %s", pdf_path, final_pdf_path)
                 return result
         
         # Convert to markdown
@@ -146,7 +147,7 @@ def process_single_pdf(pdf_path: Path, converter_type: str = "markitdown") -> Si
             result.success = True
         except Exception as exc:
             result.error = f"Failed to convert PDF to markdown: {exc}"
-            logger.warning("Failed to convert %s: %s", final_pdf_path, exc)
+            logger.exception("Failed to convert %s to markdown", final_pdf_path)
     
     except Exception as exc:
         # Catch any unexpected errors
@@ -177,12 +178,12 @@ def process_subject(subject_dir: Path, converter_type: str = "markitdown") -> Su
                 result.converted += 1
             except OSError as exc:
                 # File I/O errors
-                logger.warning("Failed to convert %s: %s", pdf_path, exc)
+                logger.exception("Failed to convert %s (I/O error)", pdf_path)
                 result.errors.append(f"{pdf_path.name}: {exc}")
             except Exception as exc:
                 # Catch converter-specific exceptions (e.g., MarkItDownException)
                 # and any other unexpected errors
-                logger.warning("Failed to convert %s: %s", pdf_path, exc)
+                logger.exception("Failed to convert %s", pdf_path)
                 result.errors.append(f"{pdf_path.name}: {exc}")
     finally:
         converter.close()
