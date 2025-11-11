@@ -200,8 +200,7 @@ def run(
     """Process each subject directory and return per-subject results."""
     subject_dirs = find_subject_directories(root)
     if allowed_subject_dirs is not None:
-        allowed = {name.lower() for name in allowed_subject_dirs}
-        subject_dirs = [path for path in subject_dirs if path.name.lower() in allowed]
+        subject_dirs = [path for path in subject_dirs if path.name in allowed_subject_dirs]
     if not subject_dirs:
         logger.info("No subject directories found under %s", root)
         return []
