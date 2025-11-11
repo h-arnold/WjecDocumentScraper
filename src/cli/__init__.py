@@ -27,10 +27,10 @@ def build_parser() -> argparse.ArgumentParser:
         help="Optional list of subject names to download (defaults to all configured subjects).",
     )
     parser.add_argument(
-        "-o",
-        "--output",
-        default="Documents",
-        help="Root directory where subject folders will be saved.",
+        "--root",
+        type=Path,
+        default=Path("Documents"),
+        help="Root directory where subject folders will be saved (default: Documents).",
     )
     parser.add_argument(
         "--list-subjects",
@@ -181,7 +181,7 @@ def run_cli(args: argparse.Namespace) -> int:
     if args.subjects:
         subject_filters = {subject_directory_name(subject) for subject in selected_subjects}
 
-    output_root = Path(args.output)
+    output_root = args.root
 
     if post_process_only:
         print("Running post-processing without downloading new files...\n")
