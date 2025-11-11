@@ -103,6 +103,7 @@ class TestPostprocessingErrorLogging:
         # Mock converter to raise an exception
         mock_converter = Mock()
         mock_converter.convert.side_effect = RuntimeError("Test subject error")
+        mock_converter.close = Mock()
         
         with patch("src.postprocessing.create_converter", return_value=mock_converter):
             result = process_subject(subject_dir, "markitdown")
