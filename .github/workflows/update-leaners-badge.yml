@@ -1,0 +1,36 @@
+name: Update Leaners Badge
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Generate badge
+        run: python scripts/count_leaners.py --word "leaners" --output badges/leaners.svg
+
+      - name: Commit badge if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add badges/leaners.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update leaners badge count"
+            git push
+          else
+            echo "No changes to commit"
+          fi
