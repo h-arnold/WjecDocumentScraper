@@ -77,6 +77,7 @@ class TestPostprocessingErrorLogging:
         with patch("src.postprocessing.shutil.copy2", side_effect=OSError("Permission denied")):
             with patch("src.postprocessing.create_converter") as mock_create:
                 mock_converter = Mock()
+                mock_converter.close = Mock()
                 mock_create.return_value = mock_converter
                 result = process_single_pdf(pdf_path, "markitdown")
         
