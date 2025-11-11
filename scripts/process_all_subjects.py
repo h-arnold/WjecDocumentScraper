@@ -19,6 +19,7 @@ Features:
 from __future__ import annotations
 
 import argparse
+import os
 import subprocess
 import sys
 import traceback
@@ -95,16 +96,26 @@ def write_state_file(state_file: Path, pdf_files: list[str]) -> None:
     state_file.write_text("\n".join(pdf_files) + "\n" if pdf_files else "", encoding="utf-8")
 
 
-def git_command(args: list[str], cwd: Path) -> tuple[int, str]:
-    """Run a git command and return (exit_code, output)."""
+def git_command(args: list[str], cwd: Path, *, allow_prompts: bool = False) -> tuple[int, str]:
+    """Run a git command and return (exit_code, output).
+
+    Interactive prompts are disabled by default so that commands like
+    ``git push`` fail fast when credentials are missing instead of waiting
+    for hidden terminal input.
+    """
     cmd = ["git"] + args
     try:
+        env = None
+        if not allow_prompts:
+            env = os.environ.copy()
+            env.setdefault("GIT_TERMINAL_PROMPT", "0")
         result = subprocess.run(
             cmd,
             cwd=cwd,
             capture_output=True,
             text=True,
             check=False,
+            env=env,
         )
         return result.returncode, result.stdout + result.stderr
     except Exception as exc:
@@ -239,6 +250,7 @@ def commit_changes(subject: str, documents_root_or_cwd: Path, cwd: Path | None =
         print("Unable to determine current branch to push", file=sys.stderr)
         return True
 
+    print(f"Pushing branch '{branch}' to origin...")
     exit_code, output = git_command(["push", "--set-upstream", "origin", branch], cwd)
     if exit_code != 0:
         print(f"Warning: failed to push branch '{branch}': {output}", file=sys.stderr)
