@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import subprocess
 import sys
+import traceback
 from pathlib import Path
 
 
@@ -271,7 +272,6 @@ def process_pdf_file(
             return False
     
     except Exception as exc:
-        import traceback
         print(f"\nException while processing PDF '{pdf_file}': {exc}", file=sys.stderr)
         print(f"Stack trace:\n{traceback.format_exc()}", file=sys.stderr)
         return False
@@ -305,7 +305,6 @@ def process_subject(
             proc.wait()
             return proc.returncode == 0
         except Exception as exc:
-            import traceback
             print(f"\nException while processing subject '{subject}' via subprocess: {exc}", file=sys.stderr)
             print(f"Stack trace:\n{traceback.format_exc()}", file=sys.stderr)
             return False
