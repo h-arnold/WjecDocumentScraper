@@ -36,7 +36,7 @@ For **each reported error**, you must:
 
 You must output your findings as a **single JSON object**. Do not include any text, backticks, or `json` labels before or after the JSON. The entire output must be one single, valid JSON block.
 
-The structure must be a **nested object** organised by page number at the top level, with filenames nested under each page.
+The structure must be a **nested object** organised by page number at the top level.
 
 **Structure Example:**
 
