@@ -20,6 +20,7 @@ import language_tool_python
 from .language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
 from .page_utils import build_page_number_map
 from .report_utils import build_report_csv, build_report_markdown
+from .language_issue import LanguageIssue
 
 
 LOGGER = logging.getLogger(__name__)
@@ -129,20 +130,6 @@ def _retry_with_backoff(
 		raise last_exception
 	raise RuntimeError("Retry logic completed without returning or raising")
 
-
-@dataclass
-class LanguageIssue:
-	"""Represents a single language issue detected in a document."""
-
-	filename: str
-	rule_id: str
-	message: str
-	issue_type: str
-	replacements: list[str]
-	context: str
-	highlighted_context: str
-	issue: str
-	page_number: int | None = None
 
 
 @dataclass

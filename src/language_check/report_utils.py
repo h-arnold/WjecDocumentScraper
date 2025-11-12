@@ -10,7 +10,8 @@ from __future__ import annotations
 from typing import Iterable, TYPE_CHECKING
 
 if TYPE_CHECKING:  # pragma: no cover - typing only
-    from .language_check import DocumentReport, LanguageIssue
+    from .language_check import DocumentReport
+    from .language_issue import LanguageIssue
 
 
 def _format_suggestions(replacements: list[str] | None, max_suggestions: int = 3) -> str:
