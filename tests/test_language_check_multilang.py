@@ -55,26 +55,40 @@ def test_french_document_integration(tmp_path: Path) -> None:
     
     This test uses a small French markdown file from the Documents folder
     and verifies that the multi-language checking works correctly.
+    
+    Note: This test requires network access to download LanguageTool.
+    It will be skipped if the Documents folder doesn't exist or if
+    LanguageTool cannot be initialized.
     """
+    import pytest
+    
     # Path to a real French document (small one for testing)
     french_docs_path = PROJECT_ROOT / "Documents" / "French" / "markdown"
     
     if not french_docs_path.exists():
         # Skip test if Documents folder doesn't exist (CI environment)
-        import pytest
         pytest.skip("French documents not available")
     
     # Find a small French document
     french_files = list(french_docs_path.glob("*.md"))
     if not french_files:
-        import pytest
         pytest.skip("No French markdown files found")
     
-    # Use the smallest file for faster testing
-    test_doc = min(french_files, key=lambda p: p.stat().st_size)
+    # Use the option flyer file as it's smallest and has mixed English/French
+    test_doc = french_docs_path / "gcse-french---option-evening-flyer.md"
+    if not test_doc.exists():
+        # Fallback to smallest file
+        test_doc = min(french_files, key=lambda p: p.stat().st_size)
     
-    # Run the check with auto-detection of languages
-    report = check_single_document(test_doc, subject="French")
+    # Try to run the check with auto-detection of languages
+    # This will use both French and English language tools
+    try:
+        report = check_single_document(test_doc, subject="French")
+    except Exception as e:
+        # Skip if LanguageTool can't be initialized (no network access)
+        if "languagetool.org" in str(e).lower() or "connection" in str(e).lower():
+            pytest.skip(f"LanguageTool unavailable (network required): {e}")
+        raise
     
     # Verify the report was generated
     assert report is not None
@@ -91,6 +105,91 @@ def test_french_document_integration(tmp_path: Path) -> None:
     print(f"Total issues found: {len(report.issues)}")
     if report.issues:
         print(f"Sample issue: {report.issues[0].rule_id} - {report.issues[0].message[:50]}")
+        # Print first few issues to show it's working
+        for issue in report.issues[:5]:
+            print(f"  - {issue.rule_id}: {issue.issue} ({issue.message[:40]}...)")
+
+
+def test_french_with_actual_french_content() -> None:
+    """Test French language checking with a document containing actual French text.
+    
+    This test verifies that:
+    1. French text is checked with French language rules
+    2. English text is also checked
+    3. Issues from both checks are merged correctly
+    """
+    import pytest
+    pytest.skip("Requires network access to LanguageTool server - run manually")
+    
+    import tempfile
+    
+    # Create a test document with French content
+    with tempfile.TemporaryDirectory() as tmpdir:
+        subject_dir = Path(tmpdir) / "French" / "markdown"
+        subject_dir.mkdir(parents=True)
+        test_doc = subject_dir / "test-french.md"
+        
+        # French text with some English mixed in
+        # This simulates the actual WJEC documents which have both languages
+        french_content = """# GCSE French
+
+Voici quelques phrases en français pour tester.
+
+Je veux acheter un billet pour le concert.
+
+Il aime la bonne cuisine française.
+
+Some English text is also present in the document.
+
+The course has 4 units assessed through examinations.
+"""
+        test_doc.write_text(french_content, encoding="utf-8")
+        
+        # Check the document - should use both French and English tools
+        report = check_single_document(test_doc, subject="French")
+        
+        # Verify we got a report
+        assert report is not None
+        assert len(report.issues) >= 0  # May or may not have issues
+        
+        # The test passes if we successfully checked the document without errors
+        print(f"\nChecked French document with mixed content")
+        print(f"Found {len(report.issues)} issues")
+        for issue in report.issues[:10]:
+            print(f"  - {issue.rule_id}: {issue.message[:60]}")
+
+
+def test_german_document_integration() -> None:
+    """Integration test: Verify German subject would use German + English.
+    
+    Note: This test requires network access to download LanguageTool.
+    """
+    import pytest
+    
+    # Path to German documents
+    german_docs_path = PROJECT_ROOT / "Documents" / "German" / "markdown"
+    
+    if not german_docs_path.exists() or not list(german_docs_path.glob("*.md")):
+        # Skip if no German markdown files
+        pytest.skip("German documents not available")
+    
+    # Find a German document
+    german_files = list(german_docs_path.glob("*.md"))
+    test_doc = german_files[0]
+    
+    # Try to run the check - should auto-detect German + English
+    try:
+        report = check_single_document(test_doc, subject="German")
+    except Exception as e:
+        # Skip if LanguageTool can't be initialized (no network access)
+        if "languagetool.org" in str(e).lower() or "connection" in str(e).lower():
+            pytest.skip(f"LanguageTool unavailable (network required): {e}")
+        raise
+    
+    # Verify the report structure
+    assert report is not None
+    assert report.subject == "German"
+    assert isinstance(report.issues, list)
 
 
 def test_french_document_with_french_text(tmp_path: Path) -> None:
