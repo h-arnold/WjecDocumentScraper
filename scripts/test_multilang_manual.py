@@ -8,7 +8,7 @@ Run this script when you have network access to LanguageTool to verify
 the multi-language support is working correctly.
 
 Usage:
-    python3 scripts/test_multilang_manual.py
+    uv run python scripts/test_multilang_manual.py
 """
 
 from pathlib import Path
@@ -32,8 +32,8 @@ def test_language_detection():
     print("=" * 60)
     
     test_cases = [
-        ("French", ["fr", "en-GB"]),
-        ("German", ["de", "en-GB"]),
+        ("French", ["en-GB", "fr"]),
+        ("German", ["en-GB", "de"]),
         ("Computer-Science", ["en-GB"]),
         ("History", ["en-GB"]),
     ]
@@ -88,7 +88,7 @@ Students will develop language skills through various activities.
         print()
         
         try:
-            print("Running multi-language check (French + English)...")
+            print("Running multi-language check (English + French)...")
             report = check_single_document(test_doc, subject="French")
             
             print(f"✓ Check completed successfully")
@@ -135,7 +135,7 @@ def test_german_vs_english():
         try:
             print("Checking German document...")
             german_report = check_single_document(german_doc, subject="German")
-            print(f"✓ German document checked (would use German + English)")
+            print(f"✓ German document checked (English + German)")
             print(f"  Issues: {len(german_report.issues)}")
             
             print("\nChecking English document...")

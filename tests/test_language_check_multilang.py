@@ -21,15 +21,15 @@ from src.language_check import (
 
 
 def test_get_languages_for_subject_french() -> None:
-    """Test that French subject returns both French and English."""
+    """Test that French subject returns both English and French."""
     languages = get_languages_for_subject("French")
-    assert languages == ["fr", "en-GB"]
+    assert languages == ["en-GB", "fr"]
 
 
 def test_get_languages_for_subject_german() -> None:
-    """Test that German subject returns both German and English."""
+    """Test that German subject returns both English and German."""
     languages = get_languages_for_subject("German")
-    assert languages == ["de", "en-GB"]
+    assert languages == ["en-GB", "de"]
 
 
 def test_get_languages_for_subject_other() -> None:
@@ -218,7 +218,7 @@ Je veux acheter un billet pour le concert.
 Il y a une erreur ici: "Je vais à le magasin" (should be "au magasin").
 
 Some English text that should also be checked.
-This sentance has a spelling error.
+This sentence has a spelling error.
 """
     test_doc.write_text(french_content, encoding="utf-8")
     
@@ -243,12 +243,12 @@ def test_build_language_tools_for_french() -> None:
     
     tools = build_language_tools_for_subject("French")
     
-    # Should create tools for French and English
+    # Should create tools for English and French
     assert len(tools) == 2
     
-    # Verify the languages (order: French first, then English)
-    assert tools[0].language == "fr"
-    assert tools[1].language == "en-GB"
+    # Verify the languages (order: English first, then French)
+    assert tools[0].language == "en-GB"
+    assert tools[1].language == "fr"
     
     # Clean up
     for tool in tools:

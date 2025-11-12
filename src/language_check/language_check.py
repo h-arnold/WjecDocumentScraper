@@ -36,23 +36,25 @@ SUBJECT_LANGUAGE_MAP = {
 def get_languages_for_subject(subject: str) -> list[str]:
 	"""Determine which languages to check for a given subject.
 	
-	For language subjects (French, German), returns both the subject's language
-	and English. For all other subjects, returns only English.
+	English (``en-GB``) is always checked first because the specification
+	documents are primarily written in English. For language subjects such as
+	French or German, the relevant language is appended so mixed-language
+	sections benefit from both dictionaries. All other subjects use English only.
 	
 	Args:
 		subject: Subject name (e.g., "French", "German", "Computer-Science")
 		
 	Returns:
-		List of language codes to check, with primary language first
+		List of language codes to check, with English first
 	"""
-	# Always include English
+	# Always include English as the primary language
 	languages = ["en-GB"]
 	
 	# Add subject-specific language if it's a language subject
 	if subject in SUBJECT_LANGUAGE_MAP:
 		subject_lang = SUBJECT_LANGUAGE_MAP[subject]
-		# Put subject language first, English second (as additional check)
-		languages = [subject_lang, "en-GB"]
+		if subject_lang != "en-GB" and subject_lang not in languages:
+			languages.append(subject_lang)
 	
 	return languages
 
@@ -67,6 +69,7 @@ TRANSIENT_ERRORS = (
 	TimeoutError,
 	OSError,  # Covers socket.error and other OS-level issues
 )
+
 
 
 def _retry_with_backoff(
@@ -124,6 +127,7 @@ def _retry_with_backoff(
 	# Should not reach here, but just in case
 	if last_exception:
 		raise last_exception
+	raise RuntimeError("Retry logic completed without returning or raising")
 
 
 @dataclass
@@ -350,39 +354,53 @@ def check_document(
 	
 	# Collect matches from all tools
 	all_matches = []
+	failure_records: list[tuple[str, Exception, bool]] = []
+	successful_check = False
 	for tool_instance in tools:
+		language_code = getattr(tool_instance, "language", None)
+		language_label = language_code or getattr(tool_instance, "lang", "unknown")
 		try:
 			# Retry with exponential backoff for transient connection errors
 			matches = _retry_with_backoff(tool_instance.check, text, max_retries=3, base_delay=1.0)
-			all_matches.extend(matches)
+			successful_check = True
+			all_matches.extend(matches or [])
 		except TRANSIENT_ERRORS as exc:
-			# Connection error after all retries exhausted
-			LOGGER.exception("Language check failed for %s after all retries", document_path)
-			failure = LanguageIssue(
-				filename=filename,
-				rule_id="CHECK_FAILURE",
-				message=f"Language check failed due to connection error: {exc}",
-				issue_type="error",
-				replacements=[],
-				context="",
-				highlighted_context="",
-				issue="",
+			LOGGER.exception(
+				"Language check failed for %s (language: %s) after all retries",
+				document_path,
+				language_label,
 			)
-			return DocumentReport(subject=subject, path=document_path, issues=[failure])
+			failure_records.append((str(language_label), exc, True))
+			continue
 		except Exception as exc:  # Other unexpected errors
-			LOGGER.exception("Language check failed for %s", document_path)
-			failure = LanguageIssue(
+			LOGGER.exception(
+				"Language check failed for %s (language: %s)",
+				document_path,
+				language_label,
+			)
+			failure_records.append((str(language_label), exc, False))
+			continue
+
+	# If every tool failed, surface the failures as before
+	if not successful_check and failure_records:
+		issues = [
+			LanguageIssue(
 				filename=filename,
 				rule_id="CHECK_FAILURE",
-				message=f"Language check failed: {exc}",
+				message=(
+					f"Language check failed for language '{language}'"
+					f" due to {'connection error' if is_transient else 'error'}: {exc}"
+				),
 				issue_type="error",
 				replacements=[],
 				context="",
 				highlighted_context="",
 				issue="",
 			)
-			return DocumentReport(subject=subject, path=document_path, issues=[failure])
-	
+			for language, exc, is_transient in failure_records
+		]
+		return DocumentReport(subject=subject, path=document_path, issues=issues)
+
 	# Use all_matches instead of matches for the rest of the function
 	matches = all_matches
 
@@ -424,6 +442,25 @@ def check_document(
 		filtered_matches.append(match)
 	
 	issues = [_make_issue(match, filename, text, page_map) for match in filtered_matches]
+	
+	if failure_records:
+		for language, exc, is_transient in failure_records:
+			issues.append(
+				LanguageIssue(
+					filename=filename,
+					rule_id="CHECK_PARTIAL_FAILURE",
+					message=(
+						f"Language check for language '{language}' experienced "
+						f"a {'connection error' if is_transient else 'runtime error'}: {exc}"
+					),
+					issue_type="warning",
+					replacements=[],
+					context="",
+					highlighted_context="",
+					issue="",
+				)
+			)
+
 	return DocumentReport(subject=subject, path=document_path, issues=issues)
 
 
@@ -481,7 +518,17 @@ def check_single_document(
 	"""Convenience wrapper that runs checks for a single document.
 	
 	For language subjects (French, German), automatically checks with both
-	the subject language and English.
+	the subject language and English. The ``language`` parameter is kept for
+	backward compatibility but is ignored because language detection is derived
+	from ``subject``.
+
+	Args:
+		document_path: Markdown document to check.
+		subject: Optional subject name. When omitted, derived from the path.
+		language: Language code (deprecated; ignored - language now auto-detected).
+		tool: Optional pre-configured LanguageTool instance (bypasses auto-detection).
+		disabled_rules: Additional LanguageTool rules to disable.
+		ignored_words: Additional words to ignore during checking.
 	"""
 
 	resolved_subject = subject or derive_subject_from_path(document_path)
@@ -512,6 +559,27 @@ def check_single_document(
 				t.close()
 
 
+def _run_check_with_logging(
+	subject_name: str,
+	document_path: Path,
+	tool_arg: Any | list[Any],
+	ignored_words: set[str] | None,
+	running_total: int,
+) -> tuple[DocumentReport, int]:
+	"""Run a check and emit consistent progress logging."""
+	LOGGER.info("Checking %s / %s", subject_name, document_path.name)
+	report = check_document(document_path, subject_name, tool_arg, ignored_words=ignored_words)
+	running_total += len(report.issues)
+	LOGGER.info(
+		"Completed %s / %s: %d issue(s) (running total: %d)",
+		subject_name,
+		document_path.name,
+		len(report.issues),
+		running_total,
+	)
+	return report, running_total
+
+
 def run_language_checks(
 	root: Path,
 	*,
@@ -528,7 +596,7 @@ def run_language_checks(
 	Args:
 		root: Root directory containing subject folders
 		report_path: Path to write the Markdown report
-		language: Language code for LanguageTool
+		language: Language code (deprecated; retained for backward compatibility and ignored when auto-detecting subjects)
 		subject: Subject folder to check
 		document: Single document to check
 		tool: Pre-configured LanguageTool instance (optional)
@@ -564,32 +632,24 @@ def run_language_checks(
 		if subject_path not in document_path.parents:
 			LOGGER.warning("Document %s is not inside subject folder %s", document_path, subject_path)
 
+	reports: list[DocumentReport] = []
+	running_total = 0
+
 	# If tool is provided, use it directly (backward compatibility for single-language checking)
 	if tool is not None:
-		try:
-			reports: list[DocumentReport] = []
-			running_total = 0
-			for subject_name, document_path in documents:
-				LOGGER.info("Checking %s / %s", subject_name, document_path.name)
-				report = check_document(document_path, subject_name, tool, ignored_words=ignored_words)
-				running_total += len(report.issues)
-				LOGGER.info(
-					"Completed %s / %s: %d issue(s) (running total: %d)",
-					subject_name,
-					document_path.name,
-					len(report.issues),
-					running_total,
-				)
-				reports.append(report)
-		finally:
-			# Don't close externally provided tools
-			pass
+		for subject_name, document_path in documents:
+			report, running_total = _run_check_with_logging(
+				subject_name,
+				document_path,
+				tool,
+				ignored_words,
+				running_total,
+			)
+			reports.append(report)
 	else:
 		# Create tools per subject for multi-language support
-		reports: list[DocumentReport] = []
-		running_total = 0
-		current_subject = None
-		current_tools = None
+		current_subject: str | None = None
+		current_tools: list[Any] | None = None
 		
 		try:
 			for subject_name, document_path in documents:
@@ -609,16 +669,14 @@ def run_language_checks(
 						ignored_words=ignored_words
 					)
 				
-				LOGGER.info("Checking %s / %s", subject_name, document_path.name)
 				# Pass tools as list or single tool depending on count
+				assert current_tools is not None  # for type checkers
 				tool_arg = current_tools[0] if len(current_tools) == 1 else current_tools
-				report = check_document(document_path, subject_name, tool_arg, ignored_words=ignored_words)
-				running_total += len(report.issues)
-				LOGGER.info(
-					"Completed %s / %s: %d issue(s) (running total: %d)",
+				report, running_total = _run_check_with_logging(
 					subject_name,
-					document_path.name,
-					len(report.issues),
+					document_path,
+					tool_arg,
+					ignored_words,
 					running_total,
 				)
 				reports.append(report)

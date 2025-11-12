@@ -8,8 +8,8 @@ The `src.language_check.language_check` module checks Markdown documents for spe
 
 ### Supported Language Subjects
 
-- **French**: Documents are checked with both French (fr) and English (en-GB) dictionaries
-- **German**: Documents are checked with both German (de) and English (en-GB) dictionaries
+- **French**: Documents are checked with English (en-GB) plus French (fr) dictionaries
+- **German**: Documents are checked with English (en-GB) plus German (de) dictionaries
 - **All other subjects**: Documents are checked with English (en-GB) only
 
 This multi-language approach helps catch:
@@ -22,10 +22,10 @@ This multi-language approach helps catch:
 When you run the language check on a subject folder:
 
 ```bash
-# French documents will be checked with both French and English
+# French documents are checked with English first, then French
 uv run python -m src.language_check.language_check --root Documents --subject French
 
-# German documents will be checked with both German and English
+# German documents are checked with English first, then German
 uv run python -m src.language_check.language_check --root Documents --subject German
 
 # Other subjects will be checked with English only
@@ -93,7 +93,7 @@ uv run python -m src.language_check.language_check --root Documents --subject Co
 
 ### Check French documents (multi-language)
 ```bash
-# French documents will be checked with both French and English
+# French documents are checked with English and French dictionaries
 uv run python -m src.language_check.language_check --root Documents --subject French
 ```
 
@@ -147,7 +147,6 @@ DEFAULT_IGNORED_WORDS = {
     "fitzalan",
     # Add your words here
 }
-```
 
 ### Adding Support for Additional Languages
 
@@ -166,10 +165,9 @@ SUBJECT_LANGUAGE_MAP = {
 After adding a language mapping:
 1. The subject name must match the folder name exactly (case-sensitive)
 2. Use the appropriate LanguageTool language code (e.g., "es" for Spanish, "it" for Italian)
-3. Documents in that subject will be checked with both the specified language and English
+3. Documents in that subject will be checked with English plus the specified additional language
 
 For a list of supported LanguageTool language codes, see: [LanguageTool Languages](https://languagetool.org/languages)
-```
 
 ## Output
 

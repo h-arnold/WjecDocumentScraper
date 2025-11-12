@@ -12,7 +12,7 @@ This directory contains a manual test script for verifying the multi-language la
 
 ```bash
 # From the project root
-python3 scripts/test_multilang_manual.py
+uv run python scripts/test_multilang_manual.py
 ```
 
 ## What It Tests
@@ -20,8 +20,8 @@ python3 scripts/test_multilang_manual.py
 The manual test script verifies:
 
 1. **Language Detection**: Tests that subject names correctly map to language codes
-   - French → fr + en-GB
-   - German → de + en-GB
+   - French → en-GB + fr
+   - German → en-GB + de
    - Other subjects → en-GB only
 
 2. **French Document Checking**: Creates a test document with French and English content,
@@ -35,8 +35,8 @@ The manual test script verifies:
 When run with network access:
 - The script will download LanguageTool components (may take a minute on first run)
 - Each test section will show ✓ for success or ✗ for failure
-- French documents will be checked with both French and English dictionaries
-- German documents will be checked with both German and English dictionaries
+- French documents will be checked with English and French dictionaries
+- German documents will be checked with English and German dictionaries
 - Other subjects will only use English
 
 ## Without Network Access
@@ -45,7 +45,7 @@ If you don't have network access, the automated unit tests provide coverage:
 
 ```bash
 # Run all language check tests
-python3 -m pytest tests/test_language_check.py tests/test_language_check_multilang.py -v
+uv run pytest tests/test_language_check.py tests/test_language_check_multilang.py -v
 
 # Tests will skip integration tests that require network
 # All unit tests should pass
