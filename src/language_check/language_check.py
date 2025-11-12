@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import csv
 import logging
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable, Optional
@@ -22,6 +23,75 @@ from .report_utils import build_report_csv, build_report_markdown
 
 
 LOGGER = logging.getLogger(__name__)
+
+
+# Transient errors that should trigger a retry
+TRANSIENT_ERRORS = (
+	ConnectionError,
+	ConnectionResetError,
+	ConnectionAbortedError,
+	ConnectionRefusedError,
+	BrokenPipeError,
+	TimeoutError,
+	OSError,  # Covers socket.error and other OS-level issues
+)
+
+
+def _retry_with_backoff(
+	func: Any,
+	func_arg: Any,
+	max_retries: int = 3,
+	base_delay: float = 1.0,
+	max_delay: float = 60.0,
+) -> Any:
+	"""Execute a function with exponential backoff retry logic.
+	
+	Args:
+		func: The function to call (e.g., tool.check)
+		func_arg: The argument to pass to func (e.g., text)
+		max_retries: Maximum number of retry attempts (total attempts = max_retries + 1)
+		base_delay: Initial delay in seconds
+		max_delay: Maximum delay in seconds
+	
+	Returns:
+		The return value of func
+	
+	Raises:
+		The last exception if all retries fail
+	"""
+	last_exception = None
+	
+	for attempt in range(max_retries + 1):
+		try:
+			return func(func_arg)
+		except TRANSIENT_ERRORS as exc:
+			last_exception = exc
+			
+			if attempt >= max_retries:
+				# No more retries; re-raise the exception
+				LOGGER.error(
+					"Language check failed after %d attempt(s): %s",
+					attempt + 1,
+					exc,
+				)
+				raise
+			
+			# Calculate delay with exponential backoff
+			delay = base_delay * (2 ** attempt)
+			delay = min(delay, max_delay)  # Cap at max_delay
+			
+			LOGGER.warning(
+				"Language check attempt %d failed (transient error: %s); "
+				"retrying in %.1f second(s)...",
+				attempt + 1,
+				type(exc).__name__,
+				delay,
+			)
+			time.sleep(delay)
+	
+	# Should not reach here, but just in case
+	if last_exception:
+		raise last_exception
 
 
 @dataclass
@@ -243,8 +313,23 @@ def check_document(
 		words_to_ignore.update(ignored_words)
 	
 	try:
-		matches = tool.check(text)
-	except Exception as exc:  # LanguageTool can raise generic RuntimeError/IOError
+		# Retry with exponential backoff for transient connection errors
+		matches = _retry_with_backoff(tool.check, text, max_retries=3, base_delay=1.0)
+	except TRANSIENT_ERRORS as exc:
+		# Connection error after all retries exhausted
+		LOGGER.exception("Language check failed for %s after all retries", document_path)
+		failure = LanguageIssue(
+			filename=filename,
+			rule_id="CHECK_FAILURE",
+			message=f"Language check failed due to connection error: {exc}",
+			issue_type="error",
+			replacements=[],
+			context="",
+			highlighted_context="",
+			issue="",
+		)
+		return DocumentReport(subject=subject, path=document_path, issues=[failure])
+	except Exception as exc:  # Other unexpected errors
 		LOGGER.exception("Language check failed for %s", document_path)
 		failure = LanguageIssue(
 			filename=filename,
