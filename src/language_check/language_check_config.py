@@ -31,7 +31,7 @@ DEFAULT_DISABLED_RULES = {
 # case-specific (e.g. organisation names, acronyms, product names).
 DEFAULT_IGNORED_WORDS = {
     # --- Prominent names / proper nouns ---
-    "WJEC", "CBAC", "Fitzalan", "Llanwern", "GCSE", "tkinter",
+    "WJEC", "CBAC", "Fitzalan", "Llanwern", "GCSE", "tkinter", "TKINTER"
 
     # --- Hardware / acronyms ---
     "CPU", "GPU", "RAM", "NIC", "NICs", "HDD", "SSD", "SD", "SDS", "DVD", "PC", "SCSI", "USB", "HDMI", "RCA",

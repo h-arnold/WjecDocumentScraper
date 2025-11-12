@@ -16,6 +16,9 @@
       }
     }
   },
+  "containerEnv": {
+    "JAVA_TOOL_OPTIONS": "-Djava.awt.headless=true"
+  },
   "postCreateCommand": "bash -lc \"${containerWorkspaceFolder}/.devcontainer/post_create.sh\"",
   "remoteUser": "vscode",
   "workspaceFolder": "${containerWorkspaceFolder}"
