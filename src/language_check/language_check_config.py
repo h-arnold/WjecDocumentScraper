@@ -182,4 +182,10 @@ DEFAULT_IGNORED_WORDS = {
     # --- Technical / other terms ---
     "creditworthy", "DeMorgan's", "microfinance", "nonexamination", "pseudocode", "Raspbian",
     "Translanguage",
+
+    # --- Drama: proper nouns (practitioners, writers, companies) ---
+    "Adelayo", "Adedayo", "Artaud", "Artaudian", "Ayling", "Berkoff", "Berkoffian", "Boal", "Brecht", "Brechtian", "Buether", "Chickenshed", "Complicité", "Goch", "Habte", "Hijinx", "Kizer", "Lionboy", "Lolfa", "Macmillian", "Peakes", "Rafi", "RashDash", "Ravenhill", "Stanislavski", "Theatr", "Trezise", "Tsion", "Tunley", "Vickery", "Woyzeck", "Woza", "Wyddfa", "Zizou",
+
+    # --- Drama: technical / production terms ---
+    "arte", "berliner-ensemble", "crossfade", "Dramaturg", "freezeframes", "gestus", "gobo", "gobos", "multi-roling", "realia",
 }
