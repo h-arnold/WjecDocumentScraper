@@ -124,6 +124,7 @@ def test_csv_report_generated(tmp_path: Path) -> None:
         "Page",
         "Rule ID",
         "Type",
+        "Issue",
         "Message",
         "Suggestions",
         "Context"
@@ -136,9 +137,10 @@ def test_csv_report_generated(tmp_path: Path) -> None:
     # rows[1][2] is page number (could be empty if no page markers)
     assert rows[1][3] == "TEST_RULE"  # rule_id
     assert rows[1][4] == "misspelling"  # type
-    assert "spelling mistake" in rows[1][5]  # message
-    assert "This" in rows[1][6]  # suggestions
-    assert "Thiss is a test" in rows[1][7]  # context
+    assert rows[1][5] == "This"  # issue (extracted text)
+    assert "spelling mistake" in rows[1][6]  # message
+    assert "This" in rows[1][7]  # suggestions
+    assert "Thiss is a test" in rows[1][8]  # context
 
 
 def test_ignored_words_filtering(tmp_path: Path) -> None:
