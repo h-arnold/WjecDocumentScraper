@@ -73,10 +73,14 @@ def build_language_tool(
 
 	try:
 		tool = language_tool_python.LanguageTool(language)
-	except Exception:
-		# Fallback when a local Java runtime isn't available or other errors occur
-		LOGGER.warning("Falling back to LanguageTool public API for %s", language)
-		tool = language_tool_python.LanguageToolPublicAPI(language)
+	except Exception as exc:
+		# Do not silently fall back to the public API. If a local Java runtime
+		# isn't available or another error occurs, surface the original
+		# exception so the caller can decide how to proceed. This prevents
+		# unexpected use of the public LanguageTool API in environments where
+		# network access or rate limits are undesired.
+		LOGGER.exception("Failed to create local LanguageTool for %s: %s", language, exc)
+		raise
 	
 	# Disable specified rules
 	if rules_to_disable:

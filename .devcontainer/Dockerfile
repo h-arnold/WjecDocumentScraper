@@ -11,6 +11,7 @@ RUN apt-get update \
     zlib1g-dev \
     curl \
     unzip \
+    default-jdk-headless \
  && rm -rf /var/lib/apt/lists/*
 
 ENV PIP_NO_CACHE_DIR=1
