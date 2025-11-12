@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'  # Daily at 00:00 UTC
+  push:
+    branches:
+      - master  # Run when PR is merged to master
 
 permissions:
   contents: write
@@ -21,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Generate badge
-        run: python scripts/count_leaners.py --word "leaners" --output badges/leaners.svg
+        run: uv run python scripts/count_leaners.py --word "leaners" --output badges/leaners.svg
 
       - name: Commit badge if changed
         run: |
