@@ -169,6 +169,17 @@ DEFAULT_IGNORED_WORDS = {
     "protéger", "pu", "puissant", "qu'", "que", "regarder", "répéter", "savoir", "se",
     "sûr", "tâche", "tien", "travailler", "visiter", "voyager",
 
+    # --- Additional false-positives / capitalised French words requested by user ---
+    # examples and commonly-flagged tokens (keeps both lower and capitalised forms where useful)
+    "oracy", "Oracy",  # reported in language-check outputs
+    "timetabled",  # British English word flagged by spellchecker in some reports
+    "Cymraeg",  # Welsh language name (seen in reports)
+
+    # Capitalised / correctly-spelled French tokens to ignore (examples from reports)
+    "Il", "Je", "Moi", "Lucien", "Béatrice", "Béa", "étranger", "expérience",
+    "compétences", "informatiques", "employeurs", "emploi", "université", "Quelquefois",
+    "passe-temps",
+
     # --- Sports / arts / media terms ---
     "Boccia", "Camogie", "Goalball", "Trampolining", "storyboarding", "livestreamed", "food-related",
 
