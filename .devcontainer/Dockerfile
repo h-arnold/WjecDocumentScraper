@@ -16,5 +16,8 @@ RUN apt-get update \
 
 ENV PIP_NO_CACHE_DIR=1
 
+# Set working directory before switching to non-root user
+WORKDIR /workspaces/WjecDocumentScraper
+
 # Use non-root vscode user from base image
 USER vscode
