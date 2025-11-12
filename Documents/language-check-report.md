@@ -1,26 +1,26 @@
 # Language Check Report
 
 - Checked 143 document(s)
-- Total issues found: 10663
+- Total issues found: 10233
 
 ## Totals by Subject
-- Art-and-Design: 186 issue(s) across 8 document(s) (running total: 186)
-- Business: 395 issue(s) across 13 document(s) (running total: 581)
-- Computer-Science: 207 issue(s) across 10 document(s) (running total: 788)
-- Dance: 16 issue(s) across 2 document(s) (running total: 804)
-- Design-and-Technology: 53 issue(s) across 2 document(s) (running total: 857)
-- Digital-Media-and-Film: 32 issue(s) across 2 document(s) (running total: 889)
-- Digital-Technology: 17 issue(s) across 2 document(s) (running total: 906)
-- Drama: 593 issue(s) across 13 document(s) (running total: 1499)
-- English-Language-and-Literature: 876 issue(s) across 22 document(s) (running total: 2375)
-- Food-and-Nutrition: 836 issue(s) across 19 document(s) (running total: 3211)
-- French: 5376 issue(s) across 13 document(s) (running total: 8587)
-- Geography: 2 issue(s) across 1 document(s) (running total: 8589)
-- History: 911 issue(s) across 6 document(s) (running total: 9500)
-- Level-2-Additional-Mathematics: 99 issue(s) across 3 document(s) (running total: 9599)
-- Mathematics-and-Numeracy: 596 issue(s) across 14 document(s) (running total: 10195)
-- Music: 433 issue(s) across 11 document(s) (running total: 10628)
-- Physical-Education-and-Health: 35 issue(s) across 2 document(s) (running total: 10663)
+- Art-and-Design: 155 issue(s) across 8 document(s) (running total: 155)
+- Business: 289 issue(s) across 13 document(s) (running total: 444)
+- Computer-Science: 186 issue(s) across 10 document(s) (running total: 630)
+- Dance: 12 issue(s) across 2 document(s) (running total: 642)
+- Design-and-Technology: 52 issue(s) across 2 document(s) (running total: 694)
+- Digital-Media-and-Film: 31 issue(s) across 2 document(s) (running total: 725)
+- Digital-Technology: 17 issue(s) across 2 document(s) (running total: 742)
+- Drama: 548 issue(s) across 13 document(s) (running total: 1290)
+- English-Language-and-Literature: 810 issue(s) across 22 document(s) (running total: 2100)
+- Food-and-Nutrition: 783 issue(s) across 19 document(s) (running total: 2883)
+- French: 5339 issue(s) across 13 document(s) (running total: 8222)
+- Geography: 1 issue(s) across 1 document(s) (running total: 8223)
+- History: 857 issue(s) across 6 document(s) (running total: 9080)
+- Level-2-Additional-Mathematics: 97 issue(s) across 3 document(s) (running total: 9177)
+- Mathematics-and-Numeracy: 590 issue(s) across 14 document(s) (running total: 9767)
+- Music: 432 issue(s) across 11 document(s) (running total: 10199)
+- Physical-Education-and-Health: 34 issue(s) across 2 document(s) (running total: 10233)
 
 ---
 
@@ -28,12 +28,7 @@
 
 ### Art-and-Design / art-and-design---option-evening-flyer.md
 
-Found 2 issue(s).
-
-| Filename | Page | Rule | Type | Message | Suggestions | Context |
-| --- | --- | --- | --- | --- | --- | --- |
-| art-and-design---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ...l models (to name a few possibilities). **You** will learn how to develop creative proc... |
-| art-and-design---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ...p the visual outcomes that you choose.  **You** will also learn and understand about wo... |
+_No issues found._
 
 ### Art-and-Design / gcse-art-and-design---delivery-guide.md
 
@@ -54,7 +49,7 @@ Found 1 issue(s).
 
 ### Art-and-Design / gcse-art-and-design---guidance-for-teaching.md
 
-Found 74 issue(s).
+Found 64 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -69,18 +64,12 @@ Found 74 issue(s).
 | gcse-art-and-design---guidance-for-teaching.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | self-imposed, self imposed | ...nd identify something to work on with a **selfimposed** deadline, giving experience of decision... |
 | gcse-art-and-design---guidance-for-teaching.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | self-discipline, self discipline | ...iving experience of decision making and **selfdiscipline**.  #### **Teacher formative feedback [JC... |
 | gcse-art-and-design---guidance-for-teaching.md | 23 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SALON_DES_REFUSES` | misspelling | ‘Salon des Refuses’ is an imported foreign name or expression, which originally has a diacritic. | Salon des Refusés | ...liam Blake - The Impressionists and the **Salon des Refuses** - Gwen John: amongst men - The avant-ga... |
-| gcse-art-and-design---guidance-for-teaching.md | 23 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...tiracist print work of Paul Peter Piech **(**an arranged visit to the [Cynon](https:/... |
-| gcse-art-and-design---guidance-for-teaching.md | 23 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...1/11/05/the-work-of-paul-peter-piech/)  **[**Valley Museum\)](https://cynonvalleymuse... |
-| gcse-art-and-design---guidance-for-teaching.md | 23 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...k-of-paul-peter-piech/)  [Valley Museum\**)**](https://cynonvalleymuseum.wales/2021/1... |
 | gcse-art-and-design---guidance-for-teaching.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | work related | ...ponses to potential career pathways and **workrelated** experiences.  Each of the pathways with... |
 | gcse-art-and-design---guidance-for-teaching.md | 26 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | centres', centre's | ...e likely to use digital technology at a **centres** discretion.  Digital technology is appl... |
 | gcse-art-and-design---guidance-for-teaching.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | web-based, web based | ...ned focus period, candidates can access **webbased** software applications, however no other... |
 | gcse-art-and-design---guidance-for-teaching.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | JC, CQ, JCB (+16 more) | ...ific area of the centre's IT network [\(**JCQ**\)](https://www.jcq.org.uk/exams-office/... |
 | gcse-art-and-design---guidance-for-teaching.md | 28 | `EN_MULTITOKEN_SPELLING_TWO` | misspelling | Possible spelling mistake found. | Paul Gauguin | ...riate way).  #### Examples could be:  - **Paul Gaugin** and the Tahitian women that he painted,... |
 | gcse-art-and-design---guidance-for-teaching.md | 30 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Herald | ...ork. They could look at the work of Amy **Sherald**, who explores contemporary life and sto... |
-| gcse-art-and-design---guidance-for-teaching.md | 32 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... influence that this group of designers **(**see [Herbert Bayer\)](https://www.moma.o... |
-| gcse-art-and-design---guidance-for-teaching.md | 32 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...uence that this group of designers (see **[**Herbert Bayer\)](https://www.moma.org/ar... |
-| gcse-art-and-design---guidance-for-teaching.md | 32 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... group of designers (see [Herbert Bayer\**)**](https://www.moma.org/artists/399) had ... |
 | gcse-art-and-design---guidance-for-teaching.md | 33 | `EN_COMPOUNDS_NON_TOXIC` | misspelling | This expression is normally spelled as one or with a hyphen. | non-toxic | .../li><li>Using eco-friendly pigments and **non toxic** materials wherever possible.</li><li>Wo... |
 | gcse-art-and-design---guidance-for-teaching.md | 33 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘or’ if it connects two independent clauses (unless they are closely connected and short). | , or | ...encourage learners to take this approach** or** we risk the methods and materials that ... |
 | gcse-art-and-design---guidance-for-teaching.md | 34 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Each, Face, Fact (+17 more) | ...terest. Textile specialists like [Felin **Fach**](https://www.felinfach.com/pages/natura... |
@@ -89,8 +78,6 @@ Found 74 issue(s).
 | gcse-art-and-design---guidance-for-teaching.md | 35 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | products', product's | ...work that they create. - Consider their **products** life cycle how are materials sourced, h... |
 | gcse-art-and-design---guidance-for-teaching.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ref, pref, HEF (+1 more) | ...ls from sustainable sources such as: <a **href**="eco-craft">eco-craft</a> and <a href="... |
 | gcse-art-and-design---guidance-for-teaching.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ref, pref, HEF (+1 more) | ...a href="eco-craft">eco-craft</a> and <a **href**="kitronik">kitronik</a>. - Use CAD tech... |
-| gcse-art-and-design---guidance-for-teaching.md | 35 | `EN_COMPOUNDS_MOCK_UPS` | misspelling | This word is normally spelled with a hyphen. | mock-ups | ...use of early development paper and card **mock ups**.  #### **Graphic Communication Example:... |
-| gcse-art-and-design---guidance-for-teaching.md | 36 | `EN_COMPOUNDS_MOCK_UPS` | misspelling | This word is normally spelled with a hyphen. | mock-ups | ... size of the work to be displayed – can **mock ups** or maquettes be used as an alternative<... |
 | gcse-art-and-design---guidance-for-teaching.md | 36 | `EN_COMPOUNDS_TWO_DIMENSIONAL` | misspelling | This word is normally spelled with a hyphen. | two-dimensional | ...Photography relies on the transfer of a **two dimensional** light                                  ... |
 | gcse-art-and-design---guidance-for-teaching.md | 37 | `ALL_AND_ALL` | misspelling | This phrase is nonstandard. Did you mean “all in all” (=after all, nevertheless)? | all in all | ...tant to Learners because RSE affects us **all and all** learners should take the opportunity to... |
 | gcse-art-and-design---guidance-for-teaching.md | 38 | `APOSTROPHE_IN_DATES` | typographical | Apostrophes aren’t needed for decades. | 1980s | ...f stigma around sexual health since the **1980's** when the 'Don't Die of Ignorance' campa... |
@@ -109,7 +96,6 @@ Found 74 issue(s).
 | gcse-art-and-design---guidance-for-teaching.md | 46 | `WHETHER` | style | Consider shortening this phrase to just ‘whether’, unless you mean ‘regardless of whether’. | whether | ...e learner has approached their project, **whether or not** the \|  <span id="page-46-0"></span><sup... |
 | gcse-art-and-design---guidance-for-teaching.md | 47 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...mes taken for granted. The size of paper** and** it's orientation and relationship to th... |
 | gcse-art-and-design---guidance-for-teaching.md | 47 | `NEITHER_NOR` | grammar | Use “nor” with neither. | nor | ...clusive. This helps neither the learner **or** subject and should be challenged.</li><... |
-| gcse-art-and-design---guidance-for-teaching.md | 48 | `SALVADOR_DALI` | uncategorized | Did you mean the Spanish surrealist artist “Salvador Dalí”? | Salvador Dalí | ...sts)</li><li>Giorgio de Chirico</li><li>**Salvador Dali**</li><li>Rene Magritte</li><li>Bridget R... |
 | gcse-art-and-design---guidance-for-teaching.md | 49 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | triptychs, tryptic | ...of stories from the Bible (sometimes as **tryptichs**), the sculptural forms of Barbara Hepwo... |
 | gcse-art-and-design---guidance-for-teaching.md | 50 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Planimetric, Plano metric | ...i>Isometric</li><li>Axonometric</li><li>**Planometric**</li><li>Perspective</li><li>First or th... |
 | gcse-art-and-design---guidance-for-teaching.md | 50 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | model making | ...le', whether through drawing or through **modelmaking**, using appropriate scales from 1:2 for ... |
@@ -117,7 +103,6 @@ Found 74 issue(s).
 | gcse-art-and-design---guidance-for-teaching.md | 50 | `EN_COMPOUNDS_THREE_DIMENSIONAL` | misspelling | This word is normally spelled with a hyphen. | three-dimensional | ...graphy), using perspective to represent **three dimensional** shapes on a 2 dimensional plan (paper, ... |
 | gcse-art-and-design---guidance-for-teaching.md | 50 | `EN_COMPOUNDS___DIMENSIONAL` | misspelling | This word is normally spelled with a hyphen. | 2-dimensional | ...represent three dimensional shapes on a **2 dimensional** plan (paper, canvas etc) is a technique... |
 | gcse-art-and-design---guidance-for-teaching.md | 51 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | ...s in this area are developing frequently** and** communication design is a popular degre... |
-| gcse-art-and-design---guidance-for-teaching.md | 51 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Way finding | ...li>Experience design</li><li>UX</li><li>**Wayfinding** design. A solid understanding of how to... |
 | gcse-art-and-design---guidance-for-teaching.md | 53 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | future-proof, future proof | ...>Emerging materials and technologies to **futureproof** product development. Learners should sh... |
 | gcse-art-and-design---guidance-for-teaching.md | 57 | `COMPRISED_OF` | misspelling | Did you mean “comprises” or “consists of”? | comprises, consists of | ...xtile Design within GCSE Art and Design **comprises of** the creation of designs and products fo... |
 | gcse-art-and-design---guidance-for-teaching.md | 58 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...ond to.  An example of this might be:  ***'**A new boutique hotel is opening which wi... |
@@ -179,7 +164,7 @@ Found 23 issue(s).
 
 ### Art-and-Design / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -188,32 +173,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -285,13 +251,11 @@ _No issues found._
 
 ### Business / gcse-business---guidance-for-teaching-unit-1.md
 
-Found 18 issue(s).
+Found 16 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-business---guidance-for-teaching-unit-1.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | inspirational-success-story-of-Amazons-founder | ...odaymagazine.com/2022/07/jeff-bezos-the **inspirational-success-story-of-amazons-founder**/ Learners to discuss how the entreprene... |
-| gcse-business---guidance-for-teaching-unit-1.md | 11 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...nsumed? What technology have they used? **What** transport have they taken? What clothes... |
-| gcse-business---guidance-for-teaching-unit-1.md | 11 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...y used? What transport have they taken? **What** clothes are they wearing?  Teacher to d... |
 | gcse-business---guidance-for-teaching-unit-1.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Deborah-coughlin, deborah-Coughlin | ...tion-success-stories-deborah-coughlin/)[**deborah-coughlin**/](https://iuk.ktn-uk.org/casestudy/wome... |
 | gcse-business---guidance-for-teaching-unit-1.md | 19 | `GOOGLE_PRODUCTS` | uncategorized | The name of this company should be capitalized. | Google | ...p research information could be done on **google** jam board or an interactive Canva white... |
 | gcse-business---guidance-for-teaching-unit-1.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | new-lease-of-life-at-Merthyr-tydfil-s-newest-re-use-shop | ...t-merthyr-tydfil-s-newest-re-use-shop/)[**new-lease-of-life-at-merthyr-tydfil-s-newest-re-use-shop**/](https://www.merthyr.gov.uk/news-and-e... |
@@ -310,7 +274,7 @@ Found 18 issue(s).
 
 ### Business / gcse-business---guidance-for-teaching-unit-2.md
 
-Found 45 issue(s).
+Found 41 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -322,9 +286,6 @@ Found 45 issue(s).
 | gcse-business---guidance-for-teaching-unit-2.md | 9 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...erstand what they mean. They could then **'**diamond 9 ' them as to which they believ... |
 | gcse-business---guidance-for-teaching-unit-2.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | learners, lea RERS | ...eaders-and-trailblazers/)  Teachers and **lea rners** could use these websites to highlight s... |
 | gcse-business---guidance-for-teaching-unit-2.md | 11 | `WHEN_WHERE` | style | It might be better to use ‘years’ with the time-relative pronoun ‘when’. (Alternatively, use ‘in/on which’.) | years when | ...There have been several cases in recent **years where** international brands have been accused ... |
-| gcse-business---guidance-for-teaching-unit-2.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...appropriate tax contributions in the UK **(**e.g. [Starbucks](https://www.theguardian... |
-| gcse-business---guidance-for-teaching-unit-2.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...rofit-administrative-expenses-royalties)**[**/Google\)](https://www.theguardian.com/b... |
-| gcse-business---guidance-for-teaching-unit-2.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...inistrative-expenses-royalties)[/Google\**)**](https://www.theguardian.com/business/2... |
 | gcse-business---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. ‘aging’ is American English. | ageing | ...d marketing strategies. For example, an **aging** population may lead companies to develo... |
 | gcse-business---guidance-for-teaching-unit-2.md | 17 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Stats wales | ...ve them justify their interpretations. [**Statswales**](https://statswales.gov.wales/Catalogue... |
 | gcse-business---guidance-for-teaching-unit-2.md | 18 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘judgment’ and ‘judgement’) within a single text. | judgements | ... to analyse, draw conclusions, and make **judgments** based on their findings. This could inv... |
@@ -352,7 +313,6 @@ Found 45 issue(s).
 | gcse-business---guidance-for-teaching-unit-2.md | 39 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | businesses', business's | ...2.3.1b \| Environmental issues caused by **businesses** activity \| For climate change, learners... |
 | gcse-business---guidance-for-teaching-unit-2.md | 41 | `NOUN_VERB_CONFUSION` | grammar | The word “feedback” is a noun. The verb is spelled with a space. | feed back | ...ronmental benefits. Learners could then **feedback** to the class explaining how their ideas... |
 | gcse-business---guidance-for-teaching-unit-2.md | 45 | `DIVERSITY_OF` | grammar | The word “of” is missing between “diversity” and “action”. | diversity of action, diverse action | ...rs create a mock business and develop a **diversity action** plan. They should outline how they will... |
-| gcse-business---guidance-for-teaching-unit-2.md | 52 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...discussions about emerging technologies **(**like AI, blockchain,</li></ul> \|  {53}--... |
 | gcse-business---guidance-for-teaching-unit-2.md | 58 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | decision-making, decision making | ...ectives and feelings of others in their **decisionmaking** processes.**  #### Personal Effectivene... |
 | gcse-business---guidance-for-teaching-unit-2.md | 61 | `EN_COMPOUNDS_PRO_ACTIVE` | misspelling | This word is normally spelled as one. | proactive | ...lity Pledge helps Welsh businesses take **pro-active** steps towards creating an inclusive, fa... |
 | gcse-business---guidance-for-teaching-unit-2.md | 63 | `EN_A_VS_AN` | misspelling | Use “a” instead of ‘an’ if the following word doesn’t start with a vowel sound, e.g. ‘a sentence’, ‘a university’. | a | ..., and procedures put in place to manage **an** business's financial resources effectiv... |
@@ -362,48 +322,17 @@ Found 45 issue(s).
 
 ### Business / gcse-business---guidance-for-teaching-unit-3.md
 
-Found 90 issue(s).
+Found 41 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| gcse-business---guidance-for-teaching-unit-3.md | 7 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... and feedback their ideas to the class. **Learners** could select a business to research fro... |
-| gcse-business---guidance-for-teaching-unit-3.md | 7 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... 'word cloud' or a 'diamond 9' ranking. **Learners** could discuss features of their local a... |
-| gcse-business---guidance-for-teaching-unit-3.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... Sustainable Development Goals of Wales **(**such as Welsh government support for the... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Learners, Lea RERS | ...--------------------------------------  **Lea rners** can be given one regulatory body and as... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...learn how government s generate income. **(**Use information for Wales [How is the](h... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Ended, Send, Seed (+23 more) | ...-spending-its-budget-in-2024-25/) -25? (**senedd**.wales) and the UK Spring Budget 2023 (H... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...e UK Spring Budget 2023 (HTML) - GOV.UK **[**\(www.gov.uk](http://www.gov.uk/) ) .  •... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...UK Spring Budget 2023 (HTML) - GOV.UK [\**(**www.gov.uk](http://www.gov.uk/) ) .  • G... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...udget 2023 (HTML) - GOV.UK [\(www.gov.uk**]**(http://www.gov.uk/) ) .  • Government s... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...V.UK [\(www.gov.uk](http://www.gov.uk/) **)** .  • Government spending: Learners coul... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `UNLIKELY_OPENING_PUNCTUATION` | uncategorized | Loose punctuation mark. |  | ...ducation, healthcare, transport , etc . **,** and their own estimates can be compared... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | development bank | .../developmentbank.wales/)  - Dev Bank [\(**developmentbank**.wales\)](https://developmentbank.wales/... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Learners, Lea RERS | ...g businesses and those seeking to grow. **Lea rners** could be provided with case studies fro... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...with case studies from their local area **[**\(Case Studies, Helping](https://develop... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...th case studies from their local area [\**(**Case Studies, Helping](https://developme... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...heir local area [\(Case Studies, Helping**]**(https://developmentbank.wales/resources... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | .../case-studies)  Businesses Like Yours - **[**Dev Bank \(developmentbank.wales\)\)](ht... |
 | gcse-business---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | development bank | ...s)  Businesses Like Yours - [Dev Bank \(**developmentbank**.wales\)\)](https://developmentbank.wale... |
-| gcse-business---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...s - [Dev Bank \(developmentbank.wales\)\**)**](https://developmentbank.wales/resource... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... Sustainable Development Goals of Wales **(**such as Welsh Government support for the... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...rnment support for the circular economy **(**e.g. [beyond-recycling-strategy-document... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...eyond-recycling-strategy-document.pdf)  **[**\(gov.wales\)\)](https://www.gov.wales/s... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...-strategy-document.pdf)  [\(gov.wales\)\**)**](https://www.gov.wales/sites/default/fi... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...t, hospitality, retail and agriculture. **[**\(What impact has Brexit had on the UK](... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... hospitality, retail and agriculture. [\**(**What impact has Brexit had on the UK](ht... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ... [\(What impact has Brexit had on the UK**]**(https://www.bbc.co.uk/news/business-644... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...n%20particularly%20hard%20hit.) BBC News**)**.  Also, how changes to immigration law ... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...rs such as retail, hospitality and care **[**\(Changes to UK visa requirements: Key](... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... such as retail, hospitality and care [\**(**Changes to UK visa requirements: Key](ht... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ... [\(Changes to UK visa requirements: Key**]**(https://www.bbc.co.uk/news/uk-politics-... |
-| gcse-business---guidance-for-teaching-unit-3.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...o.uk/news/uk-politics-67623131) BBC News**)**.  Learners to research one recent UK Go... |
 | gcse-business---guidance-for-teaching-unit-3.md | 12 | `CONSEQUENCES_OF_FOR` | grammar | The usual preposition to use after “consequences” is not “to”. Did you mean “consequences of”, “consequences for”, or “consequences on”? | consequences of, consequences for, consequences on | ...r video clips could be used to show the **consequences to** employers of failing to pay the specifi... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ... in the workplace using the HSE website **[**\(Safety signs and signals. The Health a... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...n the workplace using the HSE website [\**(**Safety signs and signals. The Health and... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...signs and signals. The Health and Safety**]**(https://www.hse.gov.uk/pubns/priced/l64... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...//www.hse.gov.uk/pubns/priced/l64.pdf)  **[**Regulations L64 \(hse.gov.uk\)\).](https... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...4.pdf)  [Regulations L64 \(hse.gov.uk\)\**)**.](https://www.hse.gov.uk/pubns/priced/l... |
-| gcse-business---guidance-for-teaching-unit-3.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...pdf)  [Regulations L64 \(hse.gov.uk\)\).**]**(https://www.hse.gov.uk/pubns/priced/l64... |
 | gcse-business---guidance-for-teaching-unit-3.md | 12 | `A_NNS` | grammar | The plural noun “learners” cannot be used with the article “a”. Did you mean “a trade union learner” or “trade union learners”? | a trade union learner, trade union learners | ...quirements are met. - The right to join **a trade union learners** should know that they have a legal righ... |
 | gcse-business---guidance-for-teaching-unit-3.md | 13 | `WHETHER` | style | Consider shortening this phrase to just “whether”, or rephrase the sentence to avoid “as to”. | whether | ...had been dismissed and giving a verdict **as to whether** it was 'fair' or 'unfair' with their re... |
 | gcse-business---guidance-for-teaching-unit-3.md | 13 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...n) can be allocated to pairs of learners** and** they can research and produce a summary... |
@@ -413,29 +342,12 @@ Found 90 issue(s).
 | gcse-business---guidance-for-teaching-unit-3.md | 14 | `EN_COMPOUNDS_NET_ZERO` | misspelling | This word is normally spelled with a hyphen. | net-zero | ...s in their local area. - The journey to **net zero** [WG44621 Working together to reach Net]... |
 | gcse-business---guidance-for-teaching-unit-3.md | 14 | `EN_COMPOUNDS_NET_ZERO` | misspelling | This word is normally spelled with a hyphen. | net-zero | ...local organisations are working towards **net zero**. Using some of the suggestions for orga... |
 | gcse-business---guidance-for-teaching-unit-3.md | 16 | `EN_COMPOUNDS_HIRE_PURCHASE` | misspelling | This word is normally spelled with a hyphen. | hire-purchase | ...i><li>government grants</li><li>leasing/**hire purchase**</li><li>new investors</li><li>share iss... |
-| gcse-business---guidance-for-teaching-unit-3.md | 17 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...lly covered costs, revenue and profit.  **Learners** should be presented with a simple examp... |
-| gcse-business---guidance-for-teaching-unit-3.md | 19 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...dually give a description to the class. **Learners** could be given a matching activity to l... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nes, for example changes to the VW Golf **[**\(VW Golf Evolution & Heritage \|](https:... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...s, for example changes to the VW Golf [\**(**VW Golf Evolution & Heritage \|](https://... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...W Golf [\(VW Golf Evolution & Heritage \|**]**(https://www.volkswagen.co.uk/en/yourwag... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wagen/magazine/vw-golf-evolution.html)  **[**Volkswagen UK\),](https://www.volkswagen... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...vw-golf-evolution.html)  [Volkswagen UK\**)**,](https://www.volkswagen.co.uk/en/yourw... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...-golf-evolution.html)  [Volkswagen UK\),**]**(https://www.volkswagen.co.uk/en/yourwag... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ine/vw-golf-evolution.html) Ford Fiesta **[**\(The Complete History of the Ford](http... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e/vw-golf-evolution.html) Ford Fiesta [\**(**The Complete History of the Ford](https:... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...esta [\(The Complete History of the Ford**]**(https://www.evanshalshaw.com/blog/histo... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ....com/blog/history-of-the-ford-fiesta/)  **[**Fiesta \(evanshalshaw.com\)\)](https://w... |
-| gcse-business---guidance-for-teaching-unit-3.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...-fiesta/)  [Fiesta \(evanshalshaw.com\)\**)**](https://www.evanshalshaw.com/blog/hist... |
 | gcse-business---guidance-for-teaching-unit-3.md | 21 | `PLURAL_THAT_AGREEMENT` | grammar | Possible subject-verb agreement error detected. | have | ...ovated over time and what benefits that **has** brought to the business. - Product port... |
-| gcse-business---guidance-for-teaching-unit-3.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... and then augmented reality visualisers **(**for example for paint colours [Dulux Vis... |
 | gcse-business---guidance-for-teaching-unit-3.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Du lux | ...alisers (for example for paint colours [**Dulux** Visualizer App –](https://www.dulux.co.... |
 | gcse-business---guidance-for-teaching-unit-3.md | 22 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘visualizer’ and ‘visualiser’) within a single text. | Visualiser | ...s (for example for paint colours [Dulux **Visualizer** App –](https://www.dulux.co.uk/en/artic... |
 | gcse-business---guidance-for-teaching-unit-3.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Du lux | ...sualizer-app) Colour Match [Your Home \| **Dulux**,](https://www.dulux.co.uk/en/articles/d... |
 | gcse-business---guidance-for-teaching-unit-3.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Picture IT | ...rticles/dulux-visualizer-app) flooring [**PictureIT**, the flooring visualiser \| Tapi](https:... |
 | gcse-business---guidance-for-teaching-unit-3.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | TAPI, Tape, Taxi (+439 more) | ...g [PictureIT, the flooring visualiser \| **Tapi**](https://www.tapi.co.uk/visualiser)  [C... |
-| gcse-business---guidance-for-teaching-unit-3.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ww.tapi.co.uk/visualiser) and furniture **[**Virtual Sofa Tool \| DFS\).](https://www.... |
-| gcse-business---guidance-for-teaching-unit-3.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... and furniture [Virtual Sofa Tool \| DFS\**)**.](https://www.dfs.co.uk/content/virtual... |
-| gcse-business---guidance-for-teaching-unit-3.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...nd furniture [Virtual Sofa Tool \| DFS\).**]**(https://www.dfs.co.uk/content/virtual-s... |
 | gcse-business---guidance-for-teaching-unit-3.md | 23 | `EN_COMPOUNDS_MULTI_CHANNEL` | misspelling | This word is normally spelled as one. | multichannel | ...ution   - retailing   - wholesalers   - **multi-channel** distribution - the growing importance o... |
 | gcse-business---guidance-for-teaching-unit-3.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | commerce, Commerce, ecommerce (+1 more) | ...he growing importance of e-commerce and **mcommerce** in the distribution of goods.  Learners... |
 | gcse-business---guidance-for-teaching-unit-3.md | 23 | `EN_COMPOUNDS_MULTI_CHANNEL` | misspelling | This word is normally spelled as one. | multichannel | ...uce a diagram to illustrate and explain **multi-channel** distribution. - Learners could examine ... |
@@ -444,7 +356,6 @@ Found 90 issue(s).
 | gcse-business---guidance-for-teaching-unit-3.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | deskilling | ... technology and the changing workplace (**reskilling**)</li><li>upskilling.</li></ul> \| Teache... |
 | gcse-business---guidance-for-teaching-unit-3.md | 27 | `A_NNS` | grammar | The plural noun “businesses” cannot be used with the article “a”. | a range business, range businesses | ...d market share. Learners could focus on **a range businesses** from their local area that are known fo... |
 | gcse-business---guidance-for-teaching-unit-3.md | 29 | `BOTH_AS_WELL_AS` | grammar | Probable usage error. Use “and” after ‘both’. | and | ...ners can explore both their own cynefin **as well as** other areas nationally to further their... |
-| gcse-business---guidance-for-teaching-unit-3.md | 31 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... Sustainable Development Goals of Wales **(**such as Welsh government support for the... |
 | gcse-business---guidance-for-teaching-unit-3.md | 37 | `EN_COMPOUNDS_PROOF_READING` | misspelling | This word is normally spelled as one. | proofreading | ...ng, punctuation and grammar, as well as **proof-reading** content to show professionalism and \| \|... |
 | gcse-business---guidance-for-teaching-unit-3.md | 38 | `EN_COMPOUNDS_HIRE_PURCHASE` | misspelling | This word is normally spelled with a hyphen. | hire-purchase | ...ompare rates of interest on overdrafts, **hire purchase** and loans to understand how the costs o... |
 | gcse-business---guidance-for-teaching-unit-3.md | 40 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | commerce, Commerce, ecommerce (+1 more) | ...e-commerce, knowledge of e-commerce and **mcommerce** platforms and digital marketing strateg... |
@@ -459,39 +370,24 @@ Found 90 issue(s).
 
 ### Business / gcse-business---guidance-for-teaching-unit-4.md
 
-Found 34 issue(s).
+Found 19 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-business---guidance-for-teaching-unit-4.md | 6 | `EN_COMPOUNDS_HAND_WRITTEN` | misspelling | This word is normally spelled as one. | handwritten | ...ust be submitted digitally (they may be **hand written** and scanned, or completed digitally).  ... |
-| gcse-business---guidance-for-teaching-unit-4.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...nt characteristics for an entrepreneur. **Learners** could consider a range of international... |
 | gcse-business---guidance-for-teaching-unit-4.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Kazan, Mani, Romani (+20 more) | ...t, Mark Zuckerberg, Sara Davies, Mahmud **Kamani** and Elon Musk, or more established trad... |
 | gcse-business---guidance-for-teaching-unit-4.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Touched, Touches, Tourer (+2 more) | ...s such as Richard Branson, Peter Jones, **Touker** Suleymen and Deborah Meaden. Learners s... |
 | gcse-business---guidance-for-teaching-unit-4.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Suleiman, Salesmen, Supermen | ...as Richard Branson, Peter Jones, Touker **Suleymen** and Deborah Meaden. Learners should con... |
 | gcse-business---guidance-for-teaching-unit-4.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Meade, Leaden, Deaden (+1 more) | ...eter Jones, Touker Suleymen and Deborah **Meaden**. Learners should consider how the entre... |
-| gcse-business---guidance-for-teaching-unit-4.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...es, Touker Suleymen and Deborah Meaden. **Learners** should consider how the entrepreneur sh... |
-| gcse-business---guidance-for-teaching-unit-4.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ows one of more of the characteristics. **Learners** could interview owner(s) of a local ent... |
-| gcse-business---guidance-for-teaching-unit-4.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...hey used the skills of an entrepreneur. **Learners** could use Startups 100 – the UK's Hotte... |
-| gcse-business---guidance-for-teaching-unit-4.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...le, Planet) and explain what they mean. **Learners** watch Elkington's Triple Bottom Line (C... |
 | gcse-business---guidance-for-teaching-unit-4.md | 9 | `NUMBERS_IN_WORDS` | misspelling | Possible typo detected. | tutor, tutors | ... (CSR)   Reference Library   Business   **tutor2u** and summarise the main points. Learners... |
-| gcse-business---guidance-for-teaching-unit-4.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... tutor2u and summarise the main points. **Learners** give examples of how enterprises can ad... |
-| gcse-business---guidance-for-teaching-unit-4.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ree elements of the triple bottom line. **Learners** apply the triple bottom line to enterpr... |
-| gcse-business---guidance-for-teaching-unit-4.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ents and developed reasoned judgements. **Learners** could consider: <ul><li>Profit- Economi... |
 | gcse-business---guidance-for-teaching-unit-4.md | 9 | `EN_SPLIT_WORDS_HYPHEN` | misspelling | This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. | Profit-Economic, Profit - Economic | ...ments. Learners could consider: <ul><li>**Profit- Economic** Performance - for example: Is the enter... |
 | gcse-business---guidance-for-teaching-unit-4.md | 9 | `EN_SPLIT_WORDS_HYPHEN` | misspelling | This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. | People-Social, People - Social | ...t? What could be improved? How?</li><li>**People- Social** Performance - for example: Focus on the... |
-| gcse-business---guidance-for-teaching-unit-4.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...f recycling can the enterprise achieve? **How** sustainable is the enterprise? What is ... |
 | gcse-business---guidance-for-teaching-unit-4.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...t? Teachers could use resources such as **Bizconsesh** with learners to illustrate how element... |
 | gcse-business---guidance-for-teaching-unit-4.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Fuel, Duel, Hull (+9 more) | ...es such as Ben and Jerry's, North Face, **Huel** and many other Corp [B certified compan... |
-| gcse-business---guidance-for-teaching-unit-4.md | 10 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ..., as well as profit related objectives. **Learners** could create a Venn diagram for one of ... |
-| gcse-business---guidance-for-teaching-unit-4.md | 13 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...is meant by an appropriate sample size. **Learners** to consider an appropriate sample for a... |
-| gcse-business---guidance-for-teaching-unit-4.md | 13 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...fferent entrepreneurial opportunities.  **Learners** identify appropriate secondary research... |
 | gcse-business---guidance-for-teaching-unit-4.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Two Teachers | ...ld recap knowledge using videos such as **TwoTeachers** Marketing mix. Teachers could provide a... |
-| gcse-business---guidance-for-teaching-unit-4.md | 15 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ixes for entrepreneurial opportunities. **Learners** could consider potential success and ch... |
 | gcse-business---guidance-for-teaching-unit-4.md | 16 | `OUTSIDE_OF` | style | This phrase is redundant. Consider using “outside”. | outside | ...n be carried out live and face to face, **outside of** the educational setting. \| \|  \| Learner... |
 | gcse-business---guidance-for-teaching-unit-4.md | 23 | `NUMBERS_IN_WORDS` | misspelling | Possible typo detected. | tutor, tutors | ...-line)  [Reference Library \| Business \| **tutor2u**](https://www.tutor2u.net/business/refer... |
 | gcse-business---guidance-for-teaching-unit-4.md | 28 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘judgment’ and ‘judgement’) within a single text. | judgements | ...nd asked to use these to draw supported **judgments** and conclusions for the business, this ... |
-| gcse-business---guidance-for-teaching-unit-4.md | 33 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...eas and consider promotional campaigns. **Learners** should consider the ethical implication... |
-| gcse-business---guidance-for-teaching-unit-4.md | 33 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ow these impact businesses and society. **Learners** could research promotional campaigns th... |
 | gcse-business---guidance-for-teaching-unit-4.md | 37 | `BACK_ABACK` | misspelling | Did you mean ‘taken aback’ (=surprised or shocked)? | aback | ...ayment means that the good can be taken **back** by the lender. \| \|---------------------... |
 | gcse-business---guidance-for-teaching-unit-4.md | 38 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | ...e from other products the business sells** and** the products offered by other businesse... |
 | gcse-business---guidance-for-teaching-unit-4.md | 40 | `FREE_GIFT` | style | This phrase is redundant. Consider using “gifts”. | gifts | ...ic period of time such as competitions, **free gifts** and special offers to give a short-term... |
@@ -500,18 +396,15 @@ Found 34 issue(s).
 
 ### Business / gcse-business---option-evening-flyer.md
 
-Found 4 issue(s).
+Found 1 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| gcse-business---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ...tically about businesses in your area.  **You** will also reflect on business activity ... |
-| gcse-business---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ... of the environment and sustainability. **You** will study the impact business has on s... |
-| gcse-business---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ...udy the impact business has on society. **You** will explore job market trends and unde... |
 | gcse-business---option-evening-flyer.md | 0 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘judgment’ and ‘judgement’) within a single text. | judgements | ...siness information to make decisions or **judgments**. - Personal Effectiveness Skills achiev... |
 
 ### Business / gcse-business---unit-1-introduction-to-the-business-world.md
 
-Found 31 issue(s).
+Found 28 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -533,8 +426,6 @@ Found 31 issue(s).
 | gcse-business---unit-1-introduction-to-the-business-world.md | 9 | `EN_CONTRACTION_SPELLING` | misspelling | Possible spelling mistake found. | She's | ...                        \|     \| \|     \| **Shes**   \| sells the blanket boxes for £200 ea... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 10 | `MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE` | uncategorized | A comma is probably missing here. | 1998, | ...uses, began in 1971 in Seattle, USA. In **1998** it opened its first coffeehouse in the ... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 12 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | ...omers.  Demand for the gym has increased** and** the gym is often full, with all the fit... |
-| gcse-business---unit-1-introduction-to-the-business-world.md | 12 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...technology available to her customers.  **Fiona** previously worked with Tomas, an experi... |
-| gcse-business---unit-1-introduction-to-the-business-world.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...<li>Reduces waste/use of raw materials. **Award** two marks for a more developed assessme... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 21 | `CAFE_DIACRITIC` | typographical | ‘Cafe’ is a foreign word which originally has a diacritic. | café | ...  \|                                 \| A **cafe** sold the following products last week: ... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Asia, ASA, USDA (+11 more) | ...National supermarkets such as Tesco and **Asda** have a range of different types of cons... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 22 | `BUY_TWO_GET_ONE_FREE` | grammar | It appears that a comma is missing. | buy one, get one | ...s could be a pricing strategy such as a **buy one get one** free (BOGOF) offer. Credit any other va... |
@@ -545,7 +436,6 @@ Found 31 issue(s).
 | gcse-business---unit-1-introduction-to-the-business-world.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | inshore, in-store, in store (+1 more) | ...d. - Customers are able to buy products **instore**, online, or through an app so that it i... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 27 | `MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE` | uncategorized | A comma is probably missing here. | 1998, | ...uses, began in 1971 in Seattle, USA. In **1998** it opened its first coffeehouse in the ... |
 | gcse-business---unit-1-introduction-to-the-business-world.md | 29 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | ...omers.  Demand for the gym has increased** and** the gym is often full, with all the fit... |
-| gcse-business---unit-1-introduction-to-the-business-world.md | 29 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...technology available to her customers.  **Fiona** previously worked with Tomas, an experi... |
 
 ### Business / gcse-business---unit-2-key-business-considerations-sample.md
 
@@ -567,7 +457,7 @@ Found 11 issue(s).
 
 ### Business / gcse-business---unit-3-business-strategies-for-success.md
 
-Found 57 issue(s).
+Found 48 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -588,15 +478,6 @@ Found 57 issue(s).
 | gcse-business---unit-3-business-strategies-for-success.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | mining, dining, inning (+8 more) | ... s. \| bakery or using \| on-me-job tra \| **ining** for new \| [4] \| \|----------\|-----------... |
 | gcse-business---unit-3-business-strategies-for-success.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Manu | ...                      \| children's bike **manuf**                                        ... |
 | gcse-business---unit-3-business-strategies-for-success.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | event, cement, emend | ... table below shows \| the income state \| **ement** for Brat \| s Bikes for 2024 \|  \| \|  \|  ... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...          \|                  \|     \| \| a**)** \| Describe v \| Total expenses  Net prof... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** \| Describe v \| Total expenses Net profi... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...? \| 400 000 500 000 41.7% \|  \| [2] \| \| a**)** b) \|  \| Total expenses Net profit Net p... |
-| gcse-business---unit-3-business-strategies-for-success.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... 400 000 500 000 41.7% \|  \| [2] \| \| a) b**)** \|  \| Total expenses Net profit Net prof... |
 | gcse-business---unit-3-business-strategies-for-success.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | such, sub, sum (+58 more) | ...margin \| 600 000 400 000 ? for business **suc** \| 400 000 500 000 41.7% \|  \| [2] \| \|  \|... |
 | gcse-business---unit-3-business-strategies-for-success.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | such, sub, sum (+58 more) | ...ortant \| 600 000 400 000 ? for business **suc** \| 400 000 500 000 41.7% \|  \|  \|  {12}--... |
 | gcse-business---unit-3-business-strategies-for-success.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Eden Harvest | ...-------------------------------  **9.** **EdenHarvest** is a zero-waste food retailer. It opene... |
@@ -642,7 +523,7 @@ Found 4 issue(s).
 
 ### Business / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -651,32 +532,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -721,7 +583,7 @@ Found 72 issue(s).
 
 ### Business / wjec-gcse-business-specification.md
 
-Found 25 issue(s).
+Found 23 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -742,12 +604,10 @@ Found 25 issue(s).
 | wjec-gcse-business-specification.md | 24 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | businesses', business's | ...\| 2.3.1b Environmental issues caused by **businesses** activity \| Learners should understand h... |
 | wjec-gcse-business-specification.md | 28 | `EN_COMPOUNDS_NET_ZERO` | misspelling | This word is normally spelled with a hyphen. | net-zero | ...egulations 2024)</li><li>the journey to **net zero** (such as the Environment (Wales) Act 20... |
 | wjec-gcse-business-specification.md | 29 | `EN_COMPOUNDS_HIRE_PURCHASE` | misspelling | This word is normally spelled with a hyphen. | hire-purchase | ...i><li>government grants</li><li>leasing/**hire purchase**</li><li>new investors</li><li>share iss... |
-| wjec-gcse-business-specification.md | 30 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...rofit margin</li><li>net profit margin. **Learners** should understand how a business can im... |
 | wjec-gcse-business-specification.md | 32 | `EN_COMPOUNDS_MULTI_CHANNEL` | misspelling | This word is normally spelled as one. | multichannel | ...ution   - retailing   - wholesalers   - **multi-channel** distribution - the growing importance o... |
 | wjec-gcse-business-specification.md | 32 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | commerce, Commerce, ecommerce (+1 more) | ...he growing importance of e-commerce and **mcommerce** in the distribution of goods.  Learners... |
 | wjec-gcse-business-specification.md | 33 | `EN_COMPOUNDS_SHORT_LISTING` | misspelling | This word is normally spelled as one. | shortlisting | ...ancies</li><li>job applications</li><li>**short-listing** and selection</li><li>references</li><l... |
 | wjec-gcse-business-specification.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | deskilling | ... technology and the changing workplace (**reskilling**)</li><li>upskilling.</li></ul> \| \| 3.5.... |
-| wjec-gcse-business-specification.md | 36 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...model to entrepreneurial opportunities. **Learners** should be able to give reasoned judgeme... |
 | wjec-gcse-business-specification.md | 40 | `EN_COMPOUNDS_HAND_WRITTEN` | misspelling | This word is normally spelled as one. | handwritten | ...ust be submitted digitally (they may be **hand written** and scanned, or completed digitally).  ... |
 | wjec-gcse-business-specification.md | 41 | `EN_COMPOUNDS_HAND_WRITTEN` | misspelling | This word is normally spelled as one. | handwritten | ...ust be submitted digitally (they may be **hand written** and scanned, or completed digitally).  ... |
 
@@ -779,7 +639,7 @@ Found 1 issue(s).
 
 ### Computer-Science / gcse-computer-science---guidance-for-teaching-unit-2.md
 
-Found 24 issue(s).
+Found 23 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -788,7 +648,6 @@ Found 24 issue(s).
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 9 | `EN_COMPOUNDS_PSEUDO_CODE` | misspelling | This word is normally spelled as one. | pseudocode | ...st appropriate to use. \| \|  \| • \| using **pseudo code**, design and document the following rout... |
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 9 | `EN_COMPOUNDS_PSEUDO_CODE` | misspelling | This word is normally spelled as one. | pseudocode | ...ners should be familiar with the use of **pseudo code** and must refrain from using any Python ... |
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Winter, Inter, Painter (+32 more) | ... basic Python library functions such as **Tkinter**. \| \|  \| <ul><li>create new and extend e... |
-| gcse-computer-science---guidance-for-teaching-unit-2.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...aken from an input, or from a list, etc.**)**</li><li>While: Used to repeatedly execu... |
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Elf, Elie, Elis (+6 more) | .... Selection:</li><li>Use of If , Else , **Elif** , Switch Statements to allow for making... |
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | data types | ...ensional Lists: Python allows different **datatypes** in the same list, e.g. int, string, rea... |
 | gcse-computer-science---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | INT, in, it (+1503 more) | ...ferent datatypes in the same list, e.g. **int**, string, real, list. Each element (item... |
@@ -818,7 +677,7 @@ Found 1 issue(s).
 
 ### Computer-Science / gcse-computer-science---unit-1-understanding-computer-science.md
 
-Found 32 issue(s).
+Found 31 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -831,7 +690,6 @@ Found 32 issue(s).
 | gcse-computer-science---unit-1-understanding-computer-science.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Implementation | ...                          \|           \| **Implementatio** \|     \|               \|  \|  \|  \| \|  \|  ... |
 | gcse-computer-science---unit-1-understanding-computer-science.md | 18 | `LICENCE_LICENSE_NOUN_PLURAL` | locale-violation | licenses must be spelled with a “c” when used as a noun in British English. Use “licences”. | licences | ...Property <ul><li>Respect copyrights and **licenses**.</li></ul> \| \|  \| Environmental Impact ... |
 | gcse-computer-science---unit-1-understanding-computer-science.md | 19 | `LICENCE_LICENSE_NOUN_PLURAL` | locale-violation | licenses must be spelled with a “c” when used as a noun in British English. Use “licences”. | licences | ...tual Property  • Respect copyrights and **licenses**, attribute sources correctly, and ensur... |
-| gcse-computer-science---unit-1-understanding-computer-science.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...d one mark for the following: 1 <ul><li>**(**or R = Not (P OR Q) 𝑅 = 𝑃 + 𝑄</li></u... |
 | gcse-computer-science---unit-1-understanding-computer-science.md | 22 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘so’ if it connects two independent clauses (unless they are closely connected and short). | , so | ... registers and program counter, is saved** so** the task can resume later without losin... |
 | gcse-computer-science---unit-1-understanding-computer-science.md | 23 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘so’ if it connects two independent clauses (unless they are closely connected and short). | , so | ...ks, handling input and output operations** so** tasks do not interfere with each other.... |
 | gcse-computer-science---unit-1-understanding-computer-science.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | clean-up, clean up | ...rvices to prevent data loss.  #### Disk **cleanup**  • Optimises disk space usage by removi... |
@@ -908,7 +766,7 @@ Found 32 issue(s).
 
 ### Computer-Science / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -917,32 +775,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -1034,7 +873,7 @@ _No issues found._
 
 ### Dance / wjec-gcse-dance-specification.md
 
-Found 16 issue(s).
+Found 12 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1043,15 +882,11 @@ Found 16 issue(s).
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | EDUCTION | ...-----------\|----\| \| 1    \| INTR       \| **ODUCTION**                                        ... |
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | SUB, SUBS, SU BJ | ...                        \| 8  \| \| 2    \| **SUBJ**       \| IECT CONTENT                   ... |
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ICT, IEC, SECT (+8 more) | ...           \| 8  \| \| 2    \| SUBJ       \| **IECT** CONTENT                                ... |
-| wjec-gcse-dance-specification.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...        \| 9  \| \|      \| Unit 2     \| <u>**)**</u>                                    ... |
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | reunites, unities, trinities (+2 more) | ...           \| 15 \| \|      \| Орро       \| **rtunities** for integration of learning experiences... |
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | HALF, MALE, MALL (+15 more) | ... assessment             \|    \| \| 4    \| **MALF**       \| PRACTICE                       ... |
 | wjec-gcse-dance-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | FINICAL | ...           \| 23 \| \| 5    \| TECH       \| **INICAL** INFORMATION                            ... |
-| wjec-gcse-dance-specification.md | 4 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...the process in a non-prescribed format. **Learners** can choose whether they perform in thei... |
-| wjec-gcse-dance-specification.md | 4 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...rform in their own choreographed piece. **Learners** can choreograph a piece for a solo or a... |
 | wjec-gcse-dance-specification.md | 15 | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | of | ...velop an understanding and appreciation **of of** how meaning is communicated through dan... |
 | wjec-gcse-dance-specification.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Die, Lie, Tie (+26 more) | ...or English National Ballet 2. Ripple by **Xie** Xin for The Ballet Boyz 3. Henge by Mot... |
-| wjec-gcse-dance-specification.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...</li><li>site specific</li><li>outdoor. **Learners** should understand the aural setting use... |
 | wjec-gcse-dance-specification.md | 26 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short). | , but | ...cles. - use or **Mirroring** like unison** but** dancers use the opposite side of the bo... |
 | wjec-gcse-dance-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. Did you mean “overlaid”, the past tense form of the verb ‘overlay’? | overlaid, overplayed | ...ue** where phrases and sequences return **overlayed**, fragmented, and developed. - **Narrati... |
 
@@ -1061,7 +896,7 @@ _No issues found._
 
 ### Design-and-Technology / wjec-gcse-design-and-technology-specification.md
 
-Found 53 issue(s).
+Found 52 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1098,7 +933,6 @@ Found 53 issue(s).
 | wjec-gcse-design-and-technology-specification.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gore-Tex | ...athable materials, for example:</li><li>**Gore-tex**.</li><li>Microfibres, including:</li><l... |
 | wjec-gcse-design-and-technology-specification.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Microfibers | ... for example:</li><li>Gore-tex.</li><li>**Microfibres**, including:</li><li>Modal®</li><li>Tact... |
 | wjec-gcse-design-and-technology-specification.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Acted, Taste, Tackle (+35 more) | ...bres, including:</li><li>Modal®</li><li>**Tactel**®. Learners should understand:</li><li>t... |
-| wjec-gcse-design-and-technology-specification.md | 23 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...><li>150cm</li><li>200cm</li><li>240cm. **Learners** should be able to:</li><li>estimate mat... |
 | wjec-gcse-design-and-technology-specification.md | 24 | `EN_COMPOUNDS_PRESS_STUDS` | misspelling | This word is normally spelled with a hyphen. | press-studs | ...s - buckles - Velcro - eyelets - ties - **press studs**. - threads:   - embroidery   - sewing  ... |
 | wjec-gcse-design-and-technology-specification.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | overlooker | ... threads:   - embroidery   - sewing   - **overlocker**   - conductive. - trims:   - lace   - b... |
 | wjec-gcse-design-and-technology-specification.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bead work | ...chine and computerised   - Appliqué   - **Beadwork**   - Patchwork   - Laser cutting and eng... |
@@ -1129,7 +963,7 @@ Found 1 issue(s).
 
 ### Digital-Media-and-Film / wjec-gcse-digital-media-and-film-specification.md
 
-Found 31 issue(s).
+Found 30 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1142,7 +976,6 @@ Found 31 issue(s).
 | wjec-gcse-digital-media-and-film-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bendix, end ix | ...                         \| 29 \| \| App \| **endix**                                        ... |
 | wjec-gcse-digital-media-and-film-specification.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bendix, end ix | ...the Curriculum for Wales \| 30 \| \| App \| **endix**                                        ... |
 | wjec-gcse-digital-media-and-film-specification.md | 7 | `PLURAL_THAT_AGREEMENT` | grammar | Possible subject-verb agreement error detected. | enable | ...es, tools, materials and practices that **enables** them to become curious and creative ind... |
-| wjec-gcse-digital-media-and-film-specification.md | 10 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... Asian and minority ethnic backgrounds. **Learners** will also explore key concepts and issu... |
 | wjec-gcse-digital-media-and-film-specification.md | 10 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘crosscut’ and ‘cross-cut’) within a single text. | cross-cutting | ...ecessary skills required to explore the **crosscutting** themes of human-rights and diversity, i... |
 | wjec-gcse-digital-media-and-film-specification.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Arnaud | ... *Persepolis* (Marjane Satrapi, Vincent **Paronnaud**, France, 2007), 12  *Pride* (Matthew Wa... |
 | wjec-gcse-digital-media-and-film-specification.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Markus, Wacks | ...ud, France, 2007), 12  *Pride* (Matthew **Warchus**, UK, 2014), 15\* **and** *Girlhood* (Ce... |
@@ -1195,16 +1028,12 @@ Found 17 issue(s).
 
 ### Drama / gcse-drama---delivery-guide.md
 
-Found 29 issue(s).
+Found 25 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-drama---delivery-guide.md | 4 | `ON-GOING` | misspelling | Did you mean “ongoing”? | ongoing | ...spond to the feedback from others as an **on-going** process throughout the development peri... |
-| gcse-drama---delivery-guide.md | 6 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ess of their chosen pathway in Unit 1.  **Learners** choosing design must choose **one** of ... |
-| gcse-drama---delivery-guide.md | 6 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...sessed on either acting **or** design.  **Learners** work in groups of between two and four ... |
 | gcse-drama---delivery-guide.md | 8 | `EN_COMPOUNDS_LIVE_STREAMED` | misspelling | This expression is normally spelled as one or with a hyphen. | live-streamed, livestreamed | ...flecting linked to live and/or recorded/**live streamed** performances as possible theatrical inf... |
-| gcse-drama---delivery-guide.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... refine and perform a piece of theatre. **Learners** will also produce a Reflective Log of t... |
-| gcse-drama---delivery-guide.md | 9 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...the process in a non-prescribed format. **Learners** can work in groups of between **two** a... |
 | gcse-drama---delivery-guide.md | 14 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...pected to demonstrate in their responses** and** they are then used in marking the work.... |
 | gcse-drama---delivery-guide.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | LY, by, my (+70 more) | ...ld be considered and marked appropriate***ly**.*  - An angry tone and a fast tempo to ... |
 | gcse-drama---delivery-guide.md | 16 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...  \|  \| \| 0 marks \| <ul><li>Response not **credit worthy** / not attempted</li></ul> \|  \|  \|  {17}... |
@@ -1231,7 +1060,7 @@ Found 29 issue(s).
 
 ### Drama / gcse-drama---faqs.md
 
-Found 12 issue(s).
+Found 10 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1240,8 +1069,6 @@ Found 12 issue(s).
 | gcse-drama---faqs.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | AJEC, WAEC, WEC | ... ✔ \| All 🕶            \| English  \| ~ \| W**JEC ** \| ~ \| \| Enter free text search \|      ... |
 | gcse-drama---faqs.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | found, round, sound (+15 more) | ...       \|   \| \| SEARCH Records for     \| **ound** 3 \|       \|   \|                        ... |
 | gcse-drama---faqs.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...candidate wishes to work as a designer, **nonassessed** performers will have to perform the dev... |
-| gcse-drama---faqs.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e stimulus materials and marking grids. **Teachers** may advise on the suitability of the ch... |
-| gcse-drama---faqs.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...n combination with the chosen stimulus. **Teachers** may also advise on the suitability of t... |
 | gcse-drama---faqs.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Mark sheet | ...I find the Unit 1 Centre Approval Form, **Marksheet** and Programme Proforma?**  A: The relev... |
 | gcse-drama---faqs.md | 3 | `PRO_RATA` | uncategorized | The Latin adjective/adverb “pro forma” is spelled as two words. | Pro forma | ... Approval Form, Marksheet and Programme **Proforma**?**  A: The relevant paperwork for Unit ... |
 | gcse-drama---faqs.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...candidate wishes to work as a designer, **nonassessed** performers will have to perform the pie... |
@@ -1250,12 +1077,10 @@ Found 12 issue(s).
 
 ### Drama / gcse-drama---guidance-for-teaching-unit-1.md
 
-Found 92 issue(s).
+Found 90 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| gcse-drama---guidance-for-teaching-unit-1.md | 5 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... refine and perform a piece of theatre. **Learners** will also produce a Reflective Log of t... |
-| gcse-drama---guidance-for-teaching-unit-1.md | 5 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...he process in a non-prescribed format.  **Learners** can work in groups of between **two** a... |
 | gcse-drama---guidance-for-teaching-unit-1.md | 6 | `ON-GOING` | misspelling | Did you mean “ongoing”? | ongoing | ...spond to the feedback from others as an **on-going** process throughout the development peri... |
 | gcse-drama---guidance-for-teaching-unit-1.md | 10 | `EN_COMPOUNDS_SELF_CONFIDENCE` | misspelling | This word is normally spelled with a hyphen. | self-confidence | ...----------------------\|--\| \| Developing **self confidence** in voice \| A series of teacher-led voic... |
 | gcse-drama---guidance-for-teaching-unit-1.md | 10 | `EN_COMPOUNDS_SELF_CONFIDENCE` | misspelling | This word is normally spelled with a hyphen. | self-confidence | ...nd singing.</li></ul> \|  \| \| Developing **self confidence** in physicality \| A series of teacher-le... |
@@ -1349,13 +1174,10 @@ Found 92 issue(s).
 
 ### Drama / gcse-drama---guidance-for-teaching-unit-2.md
 
-Found 15 issue(s).
+Found 12 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| gcse-drama---guidance-for-teaching-unit-2.md | 6 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ess of their chosen pathway in Unit 1.  **Learners** choosing design must choose **one** of ... |
-| gcse-drama---guidance-for-teaching-unit-2.md | 7 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ssessed on either acting **or** design. **Learners** work in groups of between two and four ... |
-| gcse-drama---guidance-for-teaching-unit-2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e meaning  Learners are required to:  • **(**following exploration of a range of rele... |
 | gcse-drama---guidance-for-teaching-unit-2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Stanislavsky, Stanislav ski | ...ting of practical ideas on paper. - Use **Stanislavski**'s technique of creating units based on ... |
 | gcse-drama---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | self evaluate | ...groups during the rehearsal process and **selfevaluate** and evaluate the work; this will help d... |
 | gcse-drama---guidance-for-teaching-unit-2.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Stanislavsky, Stanislav ski | .../li></ul> \| \|  \|  \| <ul><li>Introducing **Stanislavski**'s circles of attention would be a task ... |
@@ -1371,7 +1193,7 @@ Found 15 issue(s).
 
 ### Drama / gcse-drama---guidance-for-teaching-unit-3.md
 
-Found 91 issue(s).
+Found 87 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1382,7 +1204,6 @@ Found 91 issue(s).
 | gcse-drama---guidance-for-teaching-unit-3.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | potline, plot line | ...y, e.g., 5 minutes to sit and discuss a **plotline** linked to the objects.  ### Timed activ... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 9 | `KEY_WORDS` | misspelling | Did you mean “keywords”? | keywords | ...cused.  #### **Development :**  Finding **key words** from the selected scene and adding them... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 9 | `YOUTUBE` | uncategorized | The official name of this popular video platform is spelled with a capital “T”. | YouTube | ... Works: Table Top Shakespeare Trailer \(**youtube**.com\)](https://www.youtube.com/watch?v=... |
-| gcse-drama---guidance-for-teaching-unit-3.md | 10 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...cter biography in chronological order.  **Each** time a significant person from the char... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 10 | `PAST_PASTE` | misspelling | Did you mean the verb “paste” (“copy & paste”)? | paste | ... significant person from the characters **past** in mentioned they come on stage, played... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 10 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short). | , but | ...or example, every character has a mother** but** how do they feel about her and how did ... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 10 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ... a mother but how do they feel about her** and** how did they act around her?  This is a... |
@@ -1390,14 +1211,11 @@ Found 91 issue(s).
 | gcse-drama---guidance-for-teaching-unit-3.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Raft, Ravi, Raff (+9 more) | ...t, for example, Lionboy; the CEO phones **Rafi** regarding his failure to carry out orde... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 15 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...rners read the opening scene of the play** and** they stage their initial ideas for the ... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | hobos, gobs, goos | ...y colour in the scene?  Do you need any **gobos**/projections for the scene? Do you need ... |
-| gcse-drama---guidance-for-teaching-unit-3.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ed any gobos/projections for the scene? **Do** you need to use haze?  Does the LX chan... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 17 | `APOSTROPHE_IN_DATES` | typographical | Apostrophes aren’t needed for decades. | 1940s | ...rs decide their set design reflects the **1940's** , the costume should reflect this.  Cos... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bu ether | ...rn: Ink .  Tom Piper: Macbeth .  Miriam **Buether**: Stranger Things . Mark Henderson: Enro... |
-| gcse-drama---guidance-for-teaching-unit-3.md | 18 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ppropriate references to the extract .  **Highly** appropriate knowledge, understanding an... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 18 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...ecide at which point s it will be played** and** they record their ideas using a cue she... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ref, pref, HEF (+1 more) | ... the importance of sound in theatre: <a **href**="https://www.youtube.com/watch?v=MGtX9P... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 20 | `YOUTUBE` | uncategorized | The official name of this popular video platform is spelled with a capital “T”. | YouTube | ...avage Examines the Props of Hamilton! \(**youtube**.com\).](https://www.youtube.com/watch?v... |
-| gcse-drama---guidance-for-teaching-unit-3.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...two wine glasses it can suggest a bar.  **Props** can also help to show a depth of charac... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Wozzeck | ...ed: [Trailer for Splendid Productions' '**Woyzeck**' on](https://www.youtube.com/watch?v=z-... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 20 | `YOUTUBE` | uncategorized | The official name of this popular video platform is spelled with a capital “T”. | YouTube | ...m/watch?v=z-YHTBcM-VM)  [DVD \(2015\) \(**youtube**.com\)](https://www.youtube.com/watch?v=... |
 | gcse-drama---guidance-for-teaching-unit-3.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ref, pref, HEF (+1 more) | ...ate specific meaning to an audience: <a **href**="https://www.youtube.com/watch?v=x3hYpl... |
@@ -1479,7 +1297,7 @@ Found 3 issue(s).
 
 ### Drama / gcse-drama---unit-1-non-exam-assessment-pack-sample.md
 
-Found 45 issue(s).
+Found 43 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1502,7 +1320,6 @@ Found 45 issue(s).
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | esp, is p, as p (+143 more) | ...                  \|  \|  \|  \|  \| \| cting **es p** \| 2 \| 10, \|  \|  \|  \|  \|  \|  \|  \| \| tes ... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | TES, yes, ten (+1979 more) | ...es p \| 2 \| 10, \|  \|  \|  \|  \|  \|  \|  \| \| **tes** a didat \| 3 \| <i>k0</i> ) \|  \|  \|  \|  \|... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | didst, did at | ... 2 \| 10, \|  \|  \|  \|  \|  \|  \|  \| \| tes a **didat** \| 3 \| <i>k0</i> ) \|  \|  \|  \|  \|  \|  \|  ... |
-| gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...  \|  \|  \| \| tes a didat \| 3 \| <i>k0</i> **)** \|  \|  \|  \|  \|  \|  \|  \| \| didat can \| 4 ... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | didst, did at | ... \| <i>k0</i> ) \|  \|  \|  \|  \|  \|  \|  \| \| **didat** can \| 4 \|  \|  \|  \|  \|  \|  \|  \|  \| \| can... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | your, you are, or (+111 more) | ...                 \|  \|  \|  \|  \| \| n five **ur** de \| 6 \| 2, \|  \|  \|  \|  \|  \|  \|  \| \| th... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Thar, that, than (+391 more) | ...ur de \| 6 \| 2, \|  \|  \|  \|  \|  \|  \|  \| \| **thar** an fo \| 7 \|  \|  \|  \|  \|  \|  \|  \|  \| \| m... |
@@ -1518,7 +1335,6 @@ Found 45 issue(s).
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | EAD, had, end (+1895 more) | ...-----\|-------\|-----\|---\|-------\| \| Н  \| **ead** of Drama \| :     \| 120 \|   \| Date: \| \| ... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | MH, Me, My (+101 more) | ...     \|       \|     \|   \|       \| \| C2 \| **Mh**           \|       \|     \|   \|       \| \|... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 22 | `INDEPENDENTLY_FROM_OF` | grammar | The usual collocation for “independently” is “of”, not “from”. Did you mean “independently of”? | independently of | ...ive you.  It is important that you work **independently from** other candidates and the work produced ... |
-| gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 23 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, you, Likewise, you, Not only that, but you | ...luenced your final performance/design.  **You** will choose **one** stimulus from a lis... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 25 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘makeup’ and ‘make-up’) within a single text. | make-up | ...erent characters (two costume, hair and **makeup** designs in total) - sketches of both co... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 25 | `EN_COMPOUNDS_AUDIO_VISUAL` | misspelling | This word is normally spelled as one. | audiovisual | ...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro... |
 | gcse-drama---unit-1-non-exam-assessment-pack-sample.md | 30 | `EN_COMPOUNDS_WELL_DEVELOPED` | misspelling | This word is normally spelled with a hyphen. | well-developed | ...in response to the chosen stimulus, are **well developed** to produce a refined and coherent piece... |
@@ -1531,7 +1347,7 @@ Found 45 issue(s).
 
 ### Drama / gcse-drama---unit-2-non-exam-assessment-pack-sample.md
 
-Found 23 issue(s).
+Found 20 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1539,7 +1355,6 @@ Found 23 issue(s).
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 3 | `PRO_RATA` | uncategorized | The Latin adjective/adverb “pro forma” is spelled as two words. | Pro forma | ...date Mark Record Form Unit 2  Programme **Proforma** Unit 2  Unassessed Participant Declarat... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 3 | `PRO_RATA` | uncategorized | The Latin adjective/adverb “pro forma” is spelled as two words. | Pro forma | ...idate Mark Record Form Unit 2 Programme **Proforma** Unit 2 Unassessed Participant Declarati... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 3 | `PRO_RATA` | uncategorized | The Latin adjective/adverb “pro forma” is spelled as two words. | Pro forma | ...                          \| \| Programme **Proforma** Unit 2                                 ... |
-| gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 4 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ess of their chosen pathway in Unit 1.  **Learners** choosing design must choose **one** of ... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | visas, Sivas, divas (+3 more) | ...present for all performances and design **vivas**, so that the work can be authenticated.... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | visas, Sivas, divas (+3 more) | ...enticated.  All performances and design **vivas** must be audio-visually recorded by the ... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 7 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...tifying individual levels of achievement** and** they do not correlate with grade bounda... |
@@ -1553,10 +1368,8 @@ Found 23 issue(s).
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 15 | `PRO_RATA` | uncategorized | The Latin adjective/adverb “pro forma” is spelled as two words. | pro forma | ...u wish to do so, please photo-copy this **pro-forma** for additional groups. Please make sure... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 16 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...ts to complete Over 13**  • I am over 13** and** I give permission for my film/photograp... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...rence and authentication purposes, in a **noneditable** format (such as a screenshot) and provi... |
-| gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 24 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... Acting (✓ appropriate) as \| appropriate**)** Design \| skillCharacter played or desig... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | skill Character | ...appropriate) as \| appropriate) Design \| **skillCharacter** played or design skill selected \| \| act... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 24 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “or” if it connects two independent clauses (unless they are closely connected and short). | , or | ...ropriate) Design \| skillCharacter played** or** design skill selected \| \| acting per gr... |
-| gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 24 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ed. \| group \| BLOCK CAPITALS \|  \| Skill **(**✓ as \|  \| \|                             ... |
 | gcse-drama---unit-2-non-exam-assessment-pack-sample.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...signs (presented to the examiner in the **nonassessed** viva).  {29}---------------------------... |
 
 ### Drama / gcse-drama---unit-3-interpreting-theatre.md
@@ -1730,7 +1543,7 @@ Found 162 issue(s).
 
 ### Drama / gcse-drama-unit-1-nea-assessment-handbook.md
 
-Found 14 issue(s).
+Found 13 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1743,7 +1556,6 @@ Found 14 issue(s).
 | gcse-drama-unit-1-nea-assessment-handbook.md | 12 | `AGREEMENT_SENT_START` | grammar | You should probably use “have”. | have | ...mining the extent to which the learners **has** met the criteria within the relevant ba... |
 | gcse-drama-unit-1-nea-assessment-handbook.md | 12 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...tifying individual levels of achievement** and** they do not correlate with grade bounda... |
 | gcse-drama-unit-1-nea-assessment-handbook.md | 16 | `EN_COMPOUNDS_WELL_DEVELOPED` | misspelling | This word is normally spelled with a hyphen. | well-developed | ...in response to the chosen stimulus, are **well developed** to produce a refined and coherent piece... |
-| gcse-drama-unit-1-nea-assessment-handbook.md | 18 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...s Basic interpretation of character(s). **Basic** communication with the audience. \| • • ... |
 | gcse-drama-unit-1-nea-assessment-handbook.md | 20 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘makeup’ and ‘make-up’) within a single text. | make-up | ...erent characters (two costume, hair and **makeup** designs in total) - sketches of both co... |
 | gcse-drama-unit-1-nea-assessment-handbook.md | 37 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘makeup’ and ‘make-up’) within a single text. | make-up | ... contribution through costume, hair and **makeup** design to the performance. - The overal... |
 | gcse-drama-unit-1-nea-assessment-handbook.md | 38 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘makeup’ and ‘make-up’) within a single text. | make-up | ... contribution through costume, hair and **makeup** design to the performance. - The overal... |
@@ -1766,7 +1578,7 @@ Found 8 issue(s).
 
 ### Drama / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1775,32 +1587,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -1845,7 +1638,7 @@ Found 72 issue(s).
 
 ### Drama / wjec-gcse-drama-specification.md
 
-Found 27 issue(s).
+Found 22 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1858,16 +1651,11 @@ Found 27 issue(s).
 | wjec-gcse-drama-specification.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | WA, A, Was (+94 more) | ...elements of the Curriculum for \|    \| \| **Wa**  \| les                           \|     ... |
 | wjec-gcse-drama-specification.md | 2 | `LES_LESS` | misspelling | Did you mean “less” instead of the French article “les”? | less | ...ts of the Curriculum for \|    \| \| Wa  \| **les**                           \|            ... |
 | wjec-gcse-drama-specification.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | end, ends, EDI (+8 more) | ...                         \| 23 \| \| App \| **endi**                          \| x B: Glossar... |
-| wjec-gcse-drama-specification.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... refine and perform a piece of theatre. **Learners** will also produce a Reflective Log of t... |
-| wjec-gcse-drama-specification.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...the process in a non-prescribed format. **Learners** can work in groups of between **two** a... |
-| wjec-gcse-drama-specification.md | 4 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...mmer series of the final year of study. **Unit** 2 and Unit 3 must be completed in the f... |
 | wjec-gcse-drama-specification.md | 6 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...developing artistic skills and knowledge** and** it enables learners to become curious a... |
 | wjec-gcse-drama-specification.md | 9 | `ON-GOING` | misspelling | Did you mean “ongoing”? | ongoing | ...spond to the feedback from others as an **on-going** process throughout the development peri... |
-| wjec-gcse-drama-specification.md | 11 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ess of their chosen pathway in Unit 1.  **Learners** choosing design must choose **one** of ... |
 | wjec-gcse-drama-specification.md | 13 | `EN_COMPOUNDS_LIVE_STREAMED` | misspelling | This expression is normally spelled as one or with a hyphen. | live-streamed, livestreamed | ...flecting linked to live and/or recorded/**live streamed** performances as possible theatrical inf... |
 | wjec-gcse-drama-specification.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Lion boy | ...is Potter 4. Face Benjamin Zephaniah 5. **Lionboy** Zizou Corder adapted by Marcelo Dos San... |
 | wjec-gcse-drama-specification.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Zhou, Zion, IOU (+3 more) | ...r 4. Face Benjamin Zephaniah 5. Lionboy **Zizou** Corder adapted by Marcelo Dos Santos 6.... |
-| wjec-gcse-drama-specification.md | 19 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ssessed on either acting **or** design. **Learners** work in groups of between two and four ... |
 | wjec-gcse-drama-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cross-fade, Cross fade | ...y  Blackout  Snap  Fade (in/out)  Fade  **Crossfade**  **Spotlight**   Flood light  Follow sp... |
 | wjec-gcse-drama-specification.md | 25 | `LIGHT_COMPOUNDS` | grammar | This word is usually spelled as one word: “Floodlight”. | Floodlight | .../out)  Fade  Crossfade  **Spotlight**   **Flood light**  Follow spot  Lights up  Lights down  P... |
 | wjec-gcse-drama-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Hobos, Gobs, Goos | ...ctions  Lanterns  Cold wash  Warm wash  **Gobos**  Specials  Strobe  Cue sheets  Smoke ma... |
@@ -1901,7 +1689,7 @@ Found 1 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature---unit-1-context-and-meaning.md
 
-Found 38 issue(s).
+Found 36 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1931,7 +1719,6 @@ Found 38 issue(s).
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 21 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...y the phrase "you call the shots" in 'i **wanna** be yours'? Tick one statement. <ul><li>... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 22 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...-----------  \| 5. Read lines 10-17of 'i **wanna** be yours'. Which of the [2] [2] stateme... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 24 | `WANNA` | style | The word ‘wanna’ is informal. | Want to | ...rases to affect tone and meaning in '*I **Wanna** Be Yours*'? Give examples from the poem... |
-| gcse-english-language-and-literature---unit-1-context-and-meaning.md | 24 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...here there is nothing worthy of credit. **Give** 1 mark to those who identify and commen... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | well selected, wells elected | ...out how meaning is created supported by **wellselected** examples and purposeful textual referen... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 24 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...istent • The poet repeats the phrase 'i **wanna** be yours' at the end of each stanza to ... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 25 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...ents a more positive view of love in 'i **wanna** be yours' than Carol Ann Duffy does in ... |
@@ -1940,13 +1727,12 @@ Found 38 issue(s).
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 25 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...of the unselfish aspects of love - that **'**i wanna be yours can be seen as presenti... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 25 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...the unselfish aspects of love - that 'i **wanna** be yours can be seen as presenting a le... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 25 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...ine' - that the writer's context for 'i **wanna** be yours' can be related to its tone in... |
-| gcse-english-language-and-literature---unit-1-context-and-meaning.md | 25 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...use literary and linguistic techniques. **There** will be a focus on how contextual facto... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 26 | `WANNA` | style | The word ‘wanna’ is informal. | want to | ...ents a more positive view of love in 'i **wanna** be yours' than Carol Ann Duffy does in ... |
 | gcse-english-language-and-literature---unit-1-context-and-meaning.md | 28 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...                                \| \|  \| 1**- **5 marks \| \|   \| Candidates:             ... |
 
 ### English-Language-and-Literature / gcse-english-language-and-literature---unit-2-belonging.md
 
-Found 19 issue(s).
+Found 18 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1964,7 +1750,6 @@ Found 19 issue(s).
 | gcse-english-language-and-literature---unit-2-belonging.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | timetable, timetables, time tabled | ...mes and must be stored securely between **timetabled** sessions.  #### **Supervision**  For th... |
 | gcse-english-language-and-literature---unit-2-belonging.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | cover sheet | ...warded should be completed on each unit **coversheet**.  The assessment of Task A (essay) must... |
 | gcse-english-language-and-literature---unit-2-belonging.md | 13 | `EN_COMPOUNDS_AUDIO_VISUAL` | misspelling | This word is normally spelled as one. | audiovisual | ... of the response or by listening to the **audio-visual** recording at a later time. Teachers sho... |
-| gcse-english-language-and-literature---unit-2-belonging.md | 13 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e should be awarded where appropriate.  **Where** the candidate's work just meets the des... |
 | gcse-english-language-and-literature---unit-2-belonging.md | 18 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short). | , but | ...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> \|  ... |
 | gcse-english-language-and-literature---unit-2-belonging.md | 26 | `INDEPENDENTLY_FROM_OF` | grammar | The usual collocation for “independently” is “of”, not “from”. Did you mean “independently of”? | independently of | ...ive you.  It is important that you work **independently from** other candidates and the work produced ... |
 | gcse-english-language-and-literature---unit-2-belonging.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...rence and authentication purposes, in a **noneditable** format (such as a screenshot) and provi... |
@@ -2002,7 +1787,7 @@ Found 23 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature---unit-4a-motivations.md
 
-Found 53 issue(s).
+Found 52 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2043,7 +1828,6 @@ Found 53 issue(s).
 | gcse-english-language-and-literature---unit-4a-motivations.md | 53 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Alex, Salem, Alec (+17 more) | ...he Fitzgeralds' reactions to events and **Alem**'s experiences in the foster family - th... |
 | gcse-english-language-and-literature---unit-4a-motivations.md | 53 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Alex, Salem, Alec (+17 more) | ...t of deportation - the protest scenes - **Alem**'s parents - the way Zephaniah and Sissa... |
 | gcse-english-language-and-literature---unit-4a-motivations.md | 53 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Sissy, Sis say | ... Alem's parents - the way Zephaniah and **Sissay** use structure to make events more inter... |
-| gcse-english-language-and-literature---unit-4a-motivations.md | 53 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...use literary and linguistic techniques. **There** will be a focus on how contextual facto... |
 | gcse-english-language-and-literature---unit-4a-motivations.md | 54 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Alex, Salem, Alec (+17 more) | ...se might include a consideration of:  - **Alem**'s confusion when misunderstanding the o... |
 | gcse-english-language-and-literature---unit-4a-motivations.md | 54 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Alex, Salem, Alec (+17 more) | ...h other and their changing treatment of **Alem** - Ruth's concerns for Alem - the court ... |
 | gcse-english-language-and-literature---unit-4a-motivations.md | 54 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Alex, Salem, Alec (+17 more) | ...treatment of Alem - Ruth's concerns for **Alem** - the court scenes and the writers' cho... |
@@ -2062,7 +1846,7 @@ Found 53 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature---unit-4b-motivations.md
 
-Found 118 issue(s).
+Found 115 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2076,8 +1860,6 @@ Found 118 issue(s).
 | gcse-english-language-and-literature---unit-4b-motivations.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | should have, should, should a | ...o hit him, just for the laugh.  And you **shoulda** seen his face, I mean the fear, the, it... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 11 | `THE_PUNCT` | grammar | Articles like ‘the’ are rarely followed by punctuation. A word may be missing after ‘the’, or the punctuation mark may not be necessary. | the | ...shoulda seen his face, I mean the fear, **the,** it was so, you had to laugh, the expres... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | pegging, peg gin | ...the expression, the fear…  So we're all **peggin** them. Laughing. And his face, it's just... |
-| gcse-english-language-and-literature---unit-4b-motivations.md | 11 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...arer and nearer. And one hits his head. **And** the shock on his face is so…funny. And ... |
-| gcse-english-language-and-literature---unit-4b-motivations.md | 11 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... And the shock on his face is so…funny. **And** we're all just…  just…  really chucking... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | pegging, peg gin | ...----\|-----\| \|     \|     \| "So we're all **peggin** them."                                 ... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 17 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Beggary, Beggarly, Hegarty (+1 more) | ...ly she wasn't enjoying herself. Old Joe **Meggarty**, half-drunk and goggle-eyed, had wedged... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 17 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Billing, Birding, Burling (+1 more) | ...--------------\|-----\|--\|--\| \|  \|  \| Mrs **Birling** \| (cutting in) There's no need to be di... |
@@ -2111,7 +1893,6 @@ Found 118 issue(s).
 | gcse-english-language-and-literature---unit-4b-motivations.md | 49 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Pin nock | ...ai wishes to fit into British society - **Pinnock**'s control of structure - the use of ten... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 49 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Pin nock | ... use of tension - the language and tone **Pinnock** gives her characters to use.  The most ... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 49 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Pin nock | ...the struggle to fit in are portrayed by **Pinnock**, and assured analysis of the playwright... |
-| gcse-english-language-and-literature---unit-4b-motivations.md | 49 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...second generation immigrant characters. **There** will be a particular focus on how conte... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 49 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Pin nock | ...ours, with, perhaps, a consideration of **Pinnock**'s own experiences.  Less successful res... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 50 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | pegging, peg gin | ... [1] \| \|          \|     \| "So we're all **peggin** them."                                 ... |
 | gcse-english-language-and-literature---unit-4b-motivations.md | 54 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Beggary, Beggarly, Hegarty (+1 more) | ...o a corner"</li><li>she's trapped / Joe **Meggarty** is not letting her escape Reward valid ... |
@@ -2187,7 +1968,7 @@ Found 118 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature---unit-5-continuity-and-change.md
 
-Found 21 issue(s).
+Found 20 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2204,7 +1985,6 @@ Found 21 issue(s).
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | timetable, timetables, time tabled | ...mes and must be stored securely between **timetabled** sessions.  #### **Marking**  Both Task ... |
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | cover sheet | ...warded should be completed on each unit **coversheet**.  The assessment of Task A (Shakespeare... |
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 10 | `EN_COMPOUNDS_AUDIO_VISUAL` | misspelling | This word is normally spelled as one. | audiovisual | ... of the response or by listening to the **audio-visual** recording at a later time. Teachers sho... |
-| gcse-english-language-and-literature---unit-5-continuity-and-change.md | 10 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e should be awarded where appropriate.  **Where** the candidate's work just meets the des... |
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...Guide / JCQ Instructions for conducting **nonexamination** assessment for further information on m... |
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 12 | `EN_COMPOUNDS_WELL_CHOSEN` | misspelling | This word is normally spelled with a hyphen. | well-chosen | ...nd perspectives, drawing confidently on **well chosen** evidence from the text(s).</li></ul> \| ... |
 | gcse-english-language-and-literature---unit-5-continuity-and-change.md | 14 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...--------------------------------  \|  \| 6**- **9 marks \| \|---\|-------------------------... |
@@ -2274,13 +2054,7 @@ Found 52 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature-double-award---option-evening-flyer.md
 
-Found 3 issue(s).
-
-| Filename | Page | Rule | Type | Message | Suggestions | Context |
-| --- | --- | --- | --- | --- | --- | --- |
-| gcse-english-language-and-literature-double-award---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... community, *cynefin* and citizenship.  **Unit** 3 INFLUENCE AND POWER – in Unit 3, you ... |
-| gcse-english-language-and-literature-double-award---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...power and attempt to influence others.  **Unit** 4b MOTIVATIONS – in Unit 4b, you will h... |
-| gcse-english-language-and-literature-double-award---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...for attitudes, behaviours and beliefs.  **Unit** 5 CONTINUITY AND CHANGE – in Unit 5, yo... |
+_No issues found._
 
 ### English-Language-and-Literature / gcse-english-language-and-literature-single-and-double-award---faqs.md
 
@@ -2293,27 +2067,21 @@ Found 2 issue(s).
 
 ### English-Language-and-Literature / gcse-english-language-and-literature-single-award---option-evening-flyer.md
 
-Found 3 issue(s).
+Found 1 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| gcse-english-language-and-literature-single-award---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... community, *cynefin* and citizenship.  **Unit** 3 INFLUENCE AND POWER – in Unit 3, you ... |
-| gcse-english-language-and-literature-single-award---option-evening-flyer.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...power and attempt to influence others.  **Unit** 4a MOTIVATIONS – in Unit 4a, you will s... |
 | gcse-english-language-and-literature-single-award---option-evening-flyer.md | 0 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...t text(s) and one that will assess your **oracy** skills.  #### WHAT SKILLS WILL I DEVELO... |
 
 ### English-Language-and-Literature / gcse-english-language-and-literature-unit-2-nea-handbook.md
 
-Found 17 issue(s).
+Found 13 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 3 | `EN_COMPOUNDS_AUDIO_VISUAL` | misspelling | This word is normally spelled as one. | audiovisual | ...in developing a title for this task. An **audio-visual** recording must be made for each learner... |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, Racy, O racy | ...ype of NEA           \| Essay          \| **Oracy** IRP   \| \| Suggested length      \| 750-1... |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | long list | ...ough the study of a prose text from the **longlist**. Learners will use a range of linguisti... |
-| gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ed include, but are not limited to:  - a**)** familial belonging - b) cultural belong... |
-| gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...limited to:  - a) familial belonging - b**)** cultural belonging - c) social belongin... |
-| gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... belonging - d) locational belonging - e**)** self-belonging - f) anything counter to... |
-| gcse-english-language-and-literature-unit-2-nea-handbook.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...tional belonging - e) self-belonging - f**)** anything counter to belonging such as: ... |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 5 | `OUTSIDE_OF` | style | This phrase is redundant. Consider using “outside”. | outside | ...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During... |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | timetable, timetables, time tabled | ...mes and must be stored securely between **timetabled** sessions.  If learners are provided wit... |
 | gcse-english-language-and-literature-unit-2-nea-handbook.md | 8 | `OUTSIDE_OF` | style | This phrase is redundant. Consider using “outside”. | outside | ...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During... |
@@ -2375,7 +2143,7 @@ Found 3 issue(s).
 
 ### English-Language-and-Literature / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2384,32 +2152,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -2454,18 +2203,12 @@ Found 72 issue(s).
 
 ### English-Language-and-Literature / september-2025.md
 
-Found 23 issue(s).
+Found 17 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | september-2025.md | 0 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | well-supported, well supported | ...rces into making you feel confident and **wellsupported**.  September 2024 was the final time cen... |
 | september-2025.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | brand-new, brand new | ...shop where we will introduce you to our **brandnew** Blended Learning+ platform. This brand-... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... (4-6pm) - − Unit 5: Tuesday 21 October **(**4-6pm  These events are free of charge a... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...se email the Professional Learning Team **[**\(cpd@wjec.co.uk](mailto:cpd@wjec.co.uk)... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... email the Professional Learning Team [\**(**cpd@wjec.co.uk](mailto:cpd@wjec.co.uk) /... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...essional Learning Team [\(cpd@wjec.co.uk**]**(mailto:cpd@wjec.co.uk) / [dpp@cbac.co.u... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...pd@wjec.co.uk](mailto:cpd@wjec.co.uk) / **[**dpp@cbac.co.uk\)](mailto:dpp@cbac.co.uk)... |
-| september-2025.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ailto:cpd@wjec.co.uk) / [dpp@cbac.co.uk\**)**](mailto:dpp@cbac.co.uk) to book or make... |
 | september-2025.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Prus, Plus, Prius (+518 more) | ...eam centres) - 5 May 2026: Deadline for **PRUs**, FE colleges and special schools only U... |
 | september-2025.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Wil cock | ...-3-0"></span>6. Contact us  ### Kirsten **Wilcock**  Subject Officer GCSE English Language ... |
 | september-2025.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Christened, Christie, Christine (+12 more) | ...SE English language and Literature  ### **Christelle** Bazin  Subject Support Officer GCSE Eng... |
@@ -2484,7 +2227,7 @@ Found 23 issue(s).
 
 ### English-Language-and-Literature / wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md
 
-Found 252 issue(s).
+Found 238 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2499,7 +2242,6 @@ Found 252 issue(s).
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 4 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...learned to control it. When you're a kid** and** it seems it's you versus the world, you... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Rackham, Peckham, Pack ham | ...tend to lash out."  In his early years, **Packham** thought everybody was like him. "It was... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 4 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘"’ seems to be missing | — | ...thing. I blamed myself for being broken.**"** I want to give him a hug, but that's th... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 4 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...to make lists of things I needed to do. **I** suppose it's the evolution of my maskin... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Rackham, Peckham, Pack ham | ...." You're not looking at me now, I say. **Packham** lifts his eyes from the table. I prefer... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 5 | `EN_COMPOUNDS_SO_AND_SO` | misspelling | This word is normally spelled with a hyphen. | so-and-so | ...e, soon after we met, 'Let's go and see **so and so**,' and I said, 'Why?' She said it would ... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘or’ if it connects two independent clauses (unless they are closely connected and short). | , or | ...'ve got something interesting to tell me** or** we've something to do. What's the point... |
@@ -2544,9 +2286,6 @@ Found 252 issue(s).
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | coal miners | ...48 (2) **or** a book about (.) the Igbo **coalminers** massacred in Nigeria by the British col... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | TS, to, is (+150 more) | ...xpose** it (.) and **scrub** from it i****ts** false glow** (1) when we **censor** the... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Pix ley | ...I saw a theatrical company, called the "**Pixley** Sisters," playing before crowded houses... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...heir right to be treated with dignity.  **Their** right to equality of opportunity.  Thei... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...heir right to equality of opportunity.  **Their** right to be educated.  Dear friends, on... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ns are the same. My hopes are the same. **My** dreams are the same.  Dear brothers and... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 16 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...an stop us. We will speak for our rights** and** we will bring change through our voice.... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 17 | `ALL_OF_THE` | style | Consider removing “of” to be more concise | all the | ...is a world in which every person enjoys **all of the** human rights enshrined in the Universal... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 17 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘recognise’ and ‘recognize’) within a single text. | recognized | ...imes we go beyond these internationally **recognised** standards and set our own. We led the c... |
@@ -2556,17 +2295,13 @@ Found 252 issue(s).
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | MacNamara, McNamara | ... of mine. I'm staying here with Caitlin **Macnamara** (whose writing on the envelope mother'l... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘recognise’ and ‘recognize’) within a single text. | recognize | ...ting on the envelope mother'll probably **recognise**) in a cottage lent to me by a man calle... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Winthrop, Sithole, Winthorpe (+1 more) | ...in a cottage lent to me by a man called **Sibthorp**. I suppose that I'm piling on the shock... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...ge lent to me by a man called Sibthorp. **I** suppose that I'm piling on the shocks a... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `TOO_DETERMINER` | misspelling | Did you mean “to that”? | to that | ...s very late letter, but I must tell you **too that** Caitlin and I are going to be married n... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...rash and mad scheme, but it satisfies us** and** it's all we ask for. I do hope it won't... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...uring the time I've been away from you. **I**'m completely happy at the moment, well-... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...then I'll know the exact Penzance date. **I**'m terribly terribly without money, so c... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | terribly | ... I'll know the exact Penzance date. I'm **terribly terribly** without money, so can't phone: Rayner H... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y without money, so can't phone: Rayner **Heppenstall**, who's staying with his wife a few mile... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 20 | `PRP_VBG` | grammar | An auxiliary verb seems to be missing from this progressive structure. Did you mean “you're sending”, “you are sending”, or “you were sending”? | you're sending, you are sending, you were sending | ...ckly; I would appreciate, so very much, **you sending** clothes & letters; and I'll try to be m... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 21 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘recognise’ and ‘recognize’) within a single text. | recognized | ... and emotional wellbeing, and there are **recognised** benefits for our mental health of being... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | four-legged, four legged | ...to celebrate the time we spend with our **fourlegged** friends and the positive effect it can ... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 21 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... of indoor games to play with your dog. **For** more information, visit our guide to in... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 22 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...  **Text C** is taken from the article [**'**Exploring the Differences Between Male a... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | face-to-face | ...ysical touch, want direct and dependent **face-toface** contact. We want to feel emotionally co... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | self-esteem, self esteem | ...system, hold and protect secrets, boost **selfesteem**, and lend a listening ear. Our girl tri... |
@@ -2702,15 +2437,9 @@ Found 252 issue(s).
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Urdu, URD, Urdy | ...eg)  Announce funding to re-establish ****Urdd** Youth** Theatre  ![](_page_35_Picture_2... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 37 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...** (.) **civilisation** (.) was possible** and** we wasted no time in taking advantage o... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘stabilize’ and ‘stabilise’) within a single text. | stabilised | ...t since May. Instead of legs, I move on **stabilized** wheels. Instead of a face, I have an iP... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...stead of a face, I have an iPad screen. **Instead** of eyes, a camera with no peripheral vi... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...es, a camera with no peripheral vision. **Instead** of a mouth, a speaker whose volume I ca... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `IM_I_M` | misspelling | Make sure that ‘IM’ is an abbreviation (instant message, individual medley, infectious mononucleosis). Did you mean “I'm” or “I am”? | I'm, I am | ... in San Francisco, I live in Boston. We **IM**. We talk on the phone. We tweet at each... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, we, Likewise, we, Not only that, but we | ...in Boston. We IM. We talk on the phone. **We** tweet at each other. But I am often lef... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...sing a browser interface is clunky and b**)** the hip flooring choices of WIRED's off... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...ing we remote workers often don't do!). **I** thought it would make me a novelty, a s... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `EN_WORD_COHERENCY` | uncategorized | Do not mix variants of the same word (‘realize’ and ‘realise’) within a single text. | realised | ... boot up, some of my original fears are **realized**: I'm disoriented and silly and helpless... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | WWW, Aww | ... recipient of gawking smiles that say, ***Awwww**, you're so adorably unable to take care... |
-| wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 39 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...o back. I felt so superior as my robot. **I** loved my robot.  {40}------------------... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 41 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | climate friendly | ...ll our electricity in the UK comes from **climatefriendly** energy sources like the wind, wave and ... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 41 | `EN_COMPOUNDS_NET_ZERO` | misspelling | This word is normally spelled with a hyphen. | net-zero | ...ent. The UK is legally bound to achieve **net zero** emissions by 2050.  To achieve that goa... |
 | wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md | 41 | `EN_COMPOUNDS_COST_EFFECTIVE` | misspelling | This word is normally spelled with a hyphen. | cost-effective | ...s.  #### **Are renewable energy sources **cost effective**?**  Shifting to renewable electricity w... |
@@ -2743,7 +2472,7 @@ Found 252 issue(s).
 
 ### English-Language-and-Literature / wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md
 
-Found 76 issue(s).
+Found 72 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2768,14 +2497,11 @@ Found 76 issue(s).
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | sole, stole, swore (+2 more) | ...f Montgomery. I was myriad-weary. Feets **swole** from sewing seams on a filthy fabric; t... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Buffet, Muffed, Tuffet | ...was not like they all say. Miss Liberty **Muffet** she didn't jump at the sight of me. Not... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | feet, meets, fees (+11 more) | ...ey couldn't hold me down. Long. No.  My **feets** were tired. My eyes were sore. My heart... |
-| wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 6 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...My feets were tired. My eyes were sore. **My** heart was raw from hemming dirty edges ... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Buffet, Muffed, Tuffet | ...raw from hemming dirty edges of Miss L. **Muffet**'s garment. I rode again.  {7}----------... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 7 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Buffet, Muffed, Tuffet | ... remembered when I sat down beside Miss **Muffet** of Montgomery. I said—like the joke say... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 7 | `A_MY` | grammar | A determiner cannot be combined with a possessive pronoun. Did you mean simply “This” or “my”? | This, My | ...Thief? I said—That's your curse. I said—**This my** way. She slipped her frock, disembarked... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 8 | `EN_MULTITOKEN_SPELLING_TWO` | misspelling | Possible spelling mistakes found. | Wisława Szymborska | ...-1"></span>The End and the Beginning by **Wislawa Szymborska**  This poem was published in 1993 and is... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 8 | `EN_MULTITOKEN_SPELLING_TWO` | misspelling | Possible spelling mistakes found. | Wisława Szymborska | ...is poem was published in 1993 and is by **Wislawa Szymborska**, who was a female poet from Poland. Thi... |
-| wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, someone, Likewise, someone, Not only that, but someone | ...gs, splintered glass, and bloody rags.  **Someone** has to drag in a girder to prop up a wa... |
-| wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, someone, Likewise, someone, Not only that, but someone | ... to drag in a girder to prop up a wall. **Someone** has to glaze a window, rehang a door.  ... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Grecian, Tricia | ...isława Szymborska (translated by Joanna **Trzeciak**)*  {10}--------------------------------... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Initial, India, Indian (+94 more) | ...d="page-10-0"></span>A Century Later by **Imtiaz** Dharker  This poem is from a 2014 colle... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Darker | ...-10-0"></span>A Century Later by Imtiaz **Dharker**  This poem is from a 2014 collection by... |
@@ -2794,7 +2520,6 @@ Found 76 issue(s).
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Catlin, Catkin, Catrina (+1 more) | ...ween mother and grown daughter.  #### ****Catrin****  I can remember you, child, As I stoo... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | withered, witherite | ...w, And on thy cheeks a fading rose Fast **withereth** too.  I met a lady in the meads, Full b... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | fairy, fiery, fakery | ...t a lady in the meads, Full beautiful—a **faery**'s child, Her hair was long, her foot wa... |
-| wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, I, Likewise, I, Not only that, but I | ...oot was light, And her eyes were wild.  **I** made a garland for her head, And bracel... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | fairy, fiery, fakery | ...For sidelong would she bend, and sing A **faery**'s song.  She found me roots of relish s... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 16 | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | wild | ... sighed full sore, And there I shut her **wild wild** eyes With kisses four.  {17}-----------... |
 | wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md | 17 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | lulled, pulled, culled (+7 more) | ...------------------------  And there she **lullèd** me asleep, And there I dreamed—Ah! woe ... |
@@ -2855,7 +2580,7 @@ Found 22 issue(s).
 
 ### English-Language-and-Literature / wjec-gcse-english-language-and-literature-single-and-double-award-specification.md
 
-Found 47 issue(s).
+Found 41 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2870,7 +2595,6 @@ Found 47 issue(s).
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | API, APA, APC (+1357 more) | ...orting                         \| 41 \| \| **Apı** \| pendi \| x A                          ... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Wendi, pends, pend | ...                         \| 41 \| \| Apı \| **pendi** \| x A                                  ... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | long list | ...rose text selected from a comprehensive **longlist** of suggested texts. Learners will use a... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 7 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e for the first time in November 2026.  **Unit** 4a, Unit 5 and Unit 6 will be available... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 11 | `THIS_NNS_VB` | grammar | Did you mean “these”? | These | ...oth linguistic and literary approaches. **This** makes clear the intention that learners... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | the, TH, Th (+97 more) | ...mented by additional poems from the 19****th**** and 20**th** centuries - 1.2 respond ... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | the, TH, Th (+97 more) | ...itional poems from the 19**th** and 20****th**** centuries - 1.2 respond to linked poe... |
@@ -2899,11 +2623,6 @@ Found 47 issue(s).
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 35 | `PREPOSITION_VERB` | grammar | The word ‘requires’ is not a noun. Did you mean “requirements”? | requirements | ...nutes to complete.  #### Task A  Task A **requires** learners to participate in a group disc... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 36 | `PREPOSITION_VERB` | grammar | The word ‘requires’ is not a noun. Did you mean “requirements”? | requirements | ...hours to complete.  #### Task A  Task A **requires** learners to complete an extended respon... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 36 | `EN_COMPOUNDS_AUDIO_VISUAL` | misspelling | This word is normally spelled as one. | audiovisual | ...on is 5-8 minutes. Centres must make an **audio-visual** recording of all paired discussions.  T... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 37 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ce must be reported immediately to WJEC **[**\(malpractice@wjec.co.uk](mailto:malprac... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 37 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... must be reported immediately to WJEC [\**(**malpractice@wjec.co.uk](mailto:malpracti... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 37 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...iately to WJEC [\(malpractice@wjec.co.uk**]**(mailto:malpractice@wjec.co.uk) ). If ca... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 37 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...c.co.uk](mailto:malpractice@wjec.co.uk) **)**. If candidates commit malpractice, they... |
-| wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 38 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...e for the first time in November 2026.  **Unit** 4a, Unit 5 and Unit 6 will be available... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 39 | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | in | ...sup>\*</sup> Candidates who have cashed **in in** the summer year 11 but aren't 16 when t... |
 | wjec-gcse-english-language-and-literature-single-and-double-award-specification.md | 40 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | play script | ...ingle Award) Motivations - Refugee Boy: **playscript** \| 3750UC \| \| Unit 4a (Single) \| (Single... |
 
@@ -2960,7 +2679,7 @@ Found 3 issue(s).
 
 ### Food-and-Nutrition / gcse-food-and-nutrition---guidance-for-teaching-unit-1.md
 
-Found 48 issue(s).
+Found 40 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2969,18 +2688,10 @@ Found 48 issue(s).
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 10 | `EN_COMPOUNDS_WATER_SOLUBLE` | misspelling | This word is normally spelled with a hyphen. | water-soluble | ...phasise the differences between fat and **water soluble** vitamins and learners need to know that... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Eat well | ...earners should be aware of: <ul><li>The **Eatwell** Guide and its recommendations to achiev... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Eat well | ... in place for Wales.</li><li>Using 'The **Eatwell** Guide' and its recommendations will hel... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...sk – Dietary Nutritional Analysis**  - a**)** Keep a food diary for one day. Remember... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_COMPOUNDS_SUGAR_FREE` | misspelling | This word is normally spelled with a hyphen. | sugar-free | ...utter and strawberry jam and a glass of **sugar free** orange squash. - b) Use a nutritional a... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...a glass of sugar free orange squash. - b**)** Use a nutritional analysis program to c... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...xample of a diet and missing out part 'a**)**', or by selecting the number of nutrien... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `APOS_SPACE_CONTRACTION` | typographical | There probably shouldn’t be a space before the apostrophe. | Part'd | ...ts you wish the learners to comment on. **Part 'd**)' could be included or removed dependin... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...wish the learners to comment on. Part 'd**)**' could be included or removed depending... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...ish the learners to comment on. Part 'd)**'** could be included or removed depending ... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ask – Recipe Nutritional Analysis**  - a**)** Select a recipe that you have used in o... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 11 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...d in one of your practical sessions. - b**)** Use a nutritional analysis program to c... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...rs with a recipe and missing out part 'a**)**', or by selecting the number of nutrien... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 12 | `APOS_SPACE_CONTRACTION` | typographical | There probably shouldn’t be a space before the apostrophe. | Part'd | ...ts you wish the learners to comment on. **Part 'd**)' could be included or removed dependin... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...wish the learners to comment on. Part 'd**)**' could be included or removed depending... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 12 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...ish the learners to comment on. Part 'd)**'** could be included or removed depending ... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 13 | `NUT_NOT` | misspelling | Did you mean “not”? | not | ...lad sandwich (4 slices bread) Fruit and **nut** flapjack Apple \|  \| \|                  ... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-1.md | 14 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | notes', note's | ...ow, adding your initial thoughts in the **notes** column.  \| Nutrient \| Amount \| % of rec... |
@@ -3015,15 +2726,13 @@ Found 48 issue(s).
 
 ### Food-and-Nutrition / gcse-food-and-nutrition---guidance-for-teaching-unit-2.md
 
-Found 36 issue(s).
+Found 32 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | prerelease, prereleases | ...year. Centres can choose one of the two **prereleased** briefs they would like learners to comp... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | working | ... The Learners should understand how the **working working** characteristics of ingredients contribu... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `POSSESSIVE_APOSTROPHE` | typographical | An apostrophe may be missing. | characteristics', characteristic's | ...istics of ingredients contribute to the **characteristics** success of a recipe. of ingredients in ... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...n key concepts within an investigation. **Learners** should be given opportunities to invest... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... from the practical work/investigation. **Learners** should be given the opportunity to inve... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | pH, PH, Ph (+100 more) | ...s could investigate how wheat, salt and **ph**. can influence the outcome of recipes b... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `VITAMIN_C` | uncategorized | The word ‘vitamin’ is normally not capitalized in the expression “vitamin C” | vitamin C | ...r steaming to retain colour and maximum **Vitamin C**.</li><li>Learners could use a munsel ch... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | mussel | ...Vitamin C.</li><li>Learners could use a **munsel** chart as a resource, to measure the out... |
@@ -3040,8 +2749,6 @@ Found 36 issue(s).
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | INT, in, it (+1503 more) | ...ould happen to the batter if it was put **int** the oven instead of fried? Explore pair... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 13 | `KEY_WORDS` | misspelling | Did you mean “keywords”? | keywords | ...Learners create their own word banks of **key words** to use in task.  Demonstrate sensory te... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 14 | `HAND_COMPOUNDS` | grammar | This word is normally spelled as one. | handwashing | ... Key discussion topics include: <ul><li>**hand washing**</li><li>cleanliness</li><li>danger zone... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 14 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ount of gluten affects bread structure. **Learners** can choose research questions that inte... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...s of data that they may collect such as **[**star profiles, preference tests in senso... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 19 | `EN_COMPOUNDS_COST_EFFECTIVE` | misspelling | This word is normally spelled with a hyphen. | cost-effective | ...ormed choices. Encourage Learners to be **cost effective**, by buying in season goods and use loca... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, Racy, O racy | ...ngs. \| \| Speaking \| 2.2.3 2.3.2 2.3.3 \| **Oracy** skills help learners to articulate thei... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-2.md | 21 | `STEP_BY_STEP_HYPHEN` | grammar | Did you mean the adjective or adverb “step-by-step” (spelled with hyphens)? | step-by-step | ...choices in an experiment, communicating **step by step** procedures to team members of a group o... |
@@ -3058,13 +2765,11 @@ Found 36 issue(s).
 
 ### Food-and-Nutrition / gcse-food-and-nutrition---guidance-for-teaching-unit-3.md
 
-Found 42 issue(s).
+Found 38 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | prerelease, prereleases | ...ear. Learners can choose one of the two **prereleased** briefs they would like to complete.  Th... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 5 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...rition AO3</li><li>themselves and others**)**.</li></ul> \|  \| Analyse and evaluate di... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 5 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... preparing, cooking and presenting food **(**including food and dishes made by \| 5% \|... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 7 | `VITAMIN_C` | uncategorized | The word ‘vitamin’ is normally not capitalized in the expression “vitamin D” | vitamin D | ...---  An older person would require more **Vitamin D** and Calcium rich foods such as milk, sp... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 7 | `UNLIKELY_OPENING_PUNCTUATION` | uncategorized | Loose punctuation mark. |  | ... and prepare and cook their own meals.  **:**  - Nutritional needs across life stages... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 7 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...nsume alcohol. Meat and poultry must be **'**halal ', meaning that the animals have b... |
@@ -3082,10 +2787,8 @@ Found 42 issue(s).
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Reseeding | ...r mashed, then they could be lumpy. \| \| **Deseeding** ** \| Seeds are removed from foods \| Tom... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 14 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | .... A range of textures have been provided** and** the lunchbox meets the requirements of ... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Eat well | ... lunchbox meets the requirements of the **Eatwell** Guide.  Extension – learners could expl... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 16 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...h but also three or more food outcomes. **Learners** should be able to select a recipe for a... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | mile, rise, mine (+23 more) | ... includes three clear sections: <ul><li>**mise** en place</li><li>cooking</li><li>presen... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 17 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | mile, rise, mine (+23 more) | ...suring that they have 3 clear sections (**mise** en place, cooking and presenting and se... |
-| gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 17 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...in Appendix A within the Specification. **Learners** should be encouraged to keep a checklis... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 18 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SAUTEING` | misspelling | ‘Sauteing’ is an imported foreign name or expression, which originally has a diacritic. | Sautéing | ...ng * \| Slicing ** Peeling * Dicing ** \| **Sauteing** ** Boiling * \| \| Chilli con carne with ... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | care, cane, crane (+15 more) | ... \| Sauteing ** Boiling * \| \| Chilli con **carne** with rice \| Meat sauce: Knife skills – ... |
 | gcse-food-and-nutrition---guidance-for-teaching-unit-3.md | 18 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SAUTEING` | misspelling | ‘Sauteing’ is an imported foreign name or expression, which originally has a diacritic. | Sautéing | ...g ** \| Slicing ** Peeling * Dicing ** \| **Sauteing** ** Boiling * \| \| Apple crumble & custar... |
@@ -3196,7 +2899,7 @@ Found 11 issue(s).
 
 ### Food-and-Nutrition / gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md
 
-Found 41 issue(s).
+Found 38 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3216,9 +2919,6 @@ Found 41 issue(s).
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. ‘trialing’ is American English. | trialling | ...nvestigate the chosen brief (to include **trialing** and testing).  Research should link to ... |
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 19 | `THE_SUPERLATIVE` | grammar | Use “the” before the superlative. | the | ...linked to the chosen brief and includes **a** least three suitable factors that influ... |
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 21 | `ALL_OF_THE` | style | Consider removing “of” to be more concise | ALL the | ...niments, as appropriate, which includes **ALL of the** points referred to above, in the bullet... |
-| gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... demonstrate a wide range of techniques **(**preparation and knife and cooking (See A... |
-| gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...which demonstrate a range of techniques **(**preparation, knife and cooking (see Appe... |
-| gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...hosen which demonstrate some techniques **(**either preparation or knife or cooking (... |
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 22 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...                         \|  \| \| 0 \| Not **credit worthy** or not attempted.                      ... |
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 24 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...                            \| \| 0 \| Not **credit worthy** or not attempted.                      ... |
 | gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md | 27 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...              \| \|                 \| Not **credit worthy** or not attempted.                      ... |
@@ -3244,7 +2944,7 @@ Found 41 issue(s).
 
 ### Food-and-Nutrition / gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md
 
-Found 41 issue(s).
+Found 38 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3264,9 +2964,6 @@ Found 41 issue(s).
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. ‘trialing’ is American English. | trialling | ...nvestigate the chosen brief (to include **trialing** and testing).  Research should link to ... |
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 19 | `THE_SUPERLATIVE` | grammar | Use “the” before the superlative. | the | ...linked to the chosen brief and includes **a** least three suitable factors that influ... |
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 21 | `ALL_OF_THE` | style | Consider removing “of” to be more concise | ALL the | ...niments, as appropriate, which includes **ALL of the** points referred to above, in the bullet... |
-| gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... demonstrate a wide range of techniques **(**preparation and knife and cooking (See A... |
-| gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...which demonstrate a range of techniques **(**preparation, knife and cooking (see Appe... |
-| gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...hosen which demonstrate some techniques **(**either preparation or knife or cooking (... |
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 22 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...                         \|  \| \| 0 \| Not **credit worthy** or not attempted.                      ... |
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 24 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...                            \| \| 0 \| Not **credit worthy** or not attempted.                      ... |
 | gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md | 27 | `WORTHY_COMPOUNDS` | grammar | This adjective is normally spelled as one word. | creditworthy | ...              \| \|                 \| Not **credit worthy** or not attempted.                      ... |
@@ -3292,7 +2989,7 @@ Found 41 issue(s).
 
 ### Food-and-Nutrition / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3301,32 +2998,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -3624,7 +3302,7 @@ Found 246 issue(s).
 
 ### Food-and-Nutrition / techniques-summary.md
 
-Found 94 issue(s).
+Found 92 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3638,7 +3316,6 @@ Found 94 issue(s).
 | techniques-summary.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Lasagna | ...--\|----------------------------\| \| Beef **Lasagne** (or any \| Meat ragu: Knife skills –    ... |
 | techniques-summary.md | 3 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_RAGU` | misspelling | ‘ragu’ is an imported foreign name or expression, which originally has a diacritic. | ragù | ...--------\| \| Beef Lasagne (or any \| Meat **ragu**: Knife skills –                        ... |
 | techniques-summary.md | 3 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SAUTEING` | misspelling | ‘Sauteing’ is an imported foreign name or expression, which originally has a diacritic. | Sautéing | ...     \| Weighing **       \| Dicing **  \| **Sauteing** **                \| \| meat or vegetable... |
-| techniques-summary.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ... \|  \| Fresh pasta: Making a \| dough) *****)** \|  \| for roux*** \| \|                   ... |
 | techniques-summary.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Roux, roué, doux (+236 more) | ... pasta: Making a \| dough) ***) \|  \| for **roux***** \| \|                      \| pasta dou... |
 | techniques-summary.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Roux, roué, doux (+236 more) | ...    \|                            \| \|  \| **roux**. Thickening without lumps – sauce shoul... |
 | techniques-summary.md | 3 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_RAGU` | misspelling | ‘ragu’ is an imported foreign name or expression, which originally has a diacritic. | ragù | ...\|  \| \|                      \| layers of **ragu**, pasta and                             ... |
@@ -3699,7 +3376,6 @@ Found 94 issue(s).
 | techniques-summary.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bake well | ...------------------------------------\| \| **Bakewell** tart (raspberry) \| Correct viscosity Sh... |
 | techniques-summary.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Short crust | ...ll tart (raspberry) \| Correct viscosity **Shortcrust** pastry/pate sucree: Rubbing-in Mixing F... |
 | techniques-summary.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | scree, Sucre | ...orrect viscosity Shortcrust pastry/pate **sucree**: Rubbing-in Mixing Forming dough of cor... |
-| techniques-summary.md | 22 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...olling out and lining tin \| Shaping *** **(**pastry     \|                 \|          ... |
 | techniques-summary.md | 22 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_BLACK_FOREST_GATEAU` | misspelling | ‘Black Forest gateau’ is an imported foreign name or expression, which originally has a diacritic. | Black Forest gâteau | ...          \|                         \| \| **Black Forest gateau**      \| Cake base made from        \| Wei... |
 | techniques-summary.md | 22 | `EN_DIACRITICS_REPLACE_ORTHOGRAPHY_GATEAU` | misspelling | ‘gateau’ is an imported foreign name or expression, which originally has a diacritic. | gâteau | ...ative finishes        \| Shaping (of the **gateau**) \|                 \|                   ... |
 | techniques-summary.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bain, main, brain (+638 more) | ...lding                   \| Melting using **bain** \|                    \|                 ... |
@@ -3725,7 +3401,7 @@ Found 94 issue(s).
 
 ### Food-and-Nutrition / unit-2---work-smarter-not-harder.md
 
-Found 28 issue(s).
+Found 26 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3743,8 +3419,6 @@ Found 28 issue(s).
 | unit-2---work-smarter-not-harder.md | 9 | `RB_RB_COMMA` | uncategorized | Consider adding a comma between these intensifiers. | really, really, really | ...9_Picture_5.jpeg)  Munsell charts are a **really really** good tool for showing results. But, the... |
 | unit-2---work-smarter-not-harder.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Chou | ... a variable. For example bread, pastry, **choux**, biscuits, green vegetables. Use your o... |
 | unit-2---work-smarter-not-harder.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Russell, Mussel, Mussels (+11 more) | ...iscuits, green vegetables. Use your own **Munsell** chart instead.  {10}-------------------... |
-| unit-2---work-smarter-not-harder.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... star-diagram-for-foodinvestigation.xls **(**live.com  ![](_page_10_Figure_5.jpeg)  h... |
-| unit-2---work-smarter-not-harder.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...gure_7.jpeg)  star-chart-ws-1114c2.docx **(**live.com  {11}--------------------------... |
 | unit-2---work-smarter-not-harder.md | 11 | `EN_COMPOUNDS_CUP_CAKES` | misspelling | This word is normally spelled as one. | cupcakes | ... – not so much. Get yourself a batch of **cup cakes**, a desk lamp, different coloured plates... |
 | unit-2---work-smarter-not-harder.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | soft wear | ...ks well, or wrap text, depending on the **softwear** you have in school. How would you label... |
 | unit-2---work-smarter-not-harder.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | class books | ...om wall or make a sheet to put in their **classbooks** to complete every time they cook.  {13}... |
@@ -3791,7 +3465,7 @@ Found 24 issue(s).
 
 ### Food-and-Nutrition / unit-3---upskilling.md
 
-Found 42 issue(s).
+Found 41 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3803,7 +3477,6 @@ Found 42 issue(s).
 | unit-3---upskilling.md | 0 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo... |
 | unit-3---upskilling.md | 0 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | BYD, by, bye (+1297 more) | ...peg)  Yn arbennig i Gymru. Yn barod i'r **byd**.  Made for Wales. Ready for the world. ... |
 | unit-3---upskilling.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Ta's, Ta, TAS (+2095 more) | ...----------------------  ## TGAU GCSE  \| **Tas** \| k 3                                  ... |
-| unit-3---upskilling.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ble cooking techniques (see Appendix A) **[**9 marks \|                               ... |
 | unit-3---upskilling.md | 4 | `DOUBLE_PUNCTUATION` | typographical | Two consecutive dots | ., … | ...g. \|  This is for the cooking techniques**..** You can see that the MS notes the need ... |
 | unit-3---upskilling.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | testing, resting, nesting (+4 more) | ...oving, shredding, sieving, tenderizing, **zesting**. - \*\* creaming, dehydrating, folding,... |
 | unit-3---upskilling.md | 5 | `SPACE_BEFORE_PARENTHESIS` | typographical | It appears that a white space is missing. |  ( | ...ing, rolling, rub-in, skinning, toasting**(**nuts/seeds), weighing. - \*\*\* crimping... |
@@ -3840,7 +3513,7 @@ Found 42 issue(s).
 
 ### Food-and-Nutrition / wjec-gcse-food-and-nutrition-specification.md
 
-Found 31 issue(s).
+Found 24 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3853,17 +3526,10 @@ Found 31 issue(s).
 | wjec-gcse-food-and-nutrition-specification.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | prerelease, prereleases | ...ear. Learners can choose one of the two **prereleased** briefs they would like learners to comp... |
 | wjec-gcse-food-and-nutrition-specification.md | 7 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | sociocultural | ...e economic, environmental, ethical, and **socio-cultural** influences on food availability, produc... |
 | wjec-gcse-food-and-nutrition-specification.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | sociocultural | ...tional, and international cuisines, and **socio-cultural** influences on food availability.  <span... |
-| wjec-gcse-food-and-nutrition-specification.md | 13 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... energy and nutritional values in food. **Learners** should be aware of:</li><li>The Eatwell... |
 | wjec-gcse-food-and-nutrition-specification.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Eat well | ...earners should be aware of:</li><li>The **Eatwell** Guide and its recommendations to achiev... |
-| wjec-gcse-food-and-nutrition-specification.md | 14 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...i>health and wellbeing</li><li>society. **Learners** should be aware of:</li><li>the contrib... |
 | wjec-gcse-food-and-nutrition-specification.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | EcoRI, Ecole, Emboli (+1 more) | ...a, including Campylobacter, Salmonella, **E-coli**, Staphylococcus Norovirus and Listeria<... |
-| wjec-gcse-food-and-nutrition-specification.md | 18 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... groups within ingredients in a recipe. **Learners** should be aware of:</li><li>current tre... |
 | wjec-gcse-food-and-nutrition-specification.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | deaminization, defeminization, desalinization (+2 more) | ...:  # Carbohydrates:  - caramelisation - **dextrinization** - gelatinisation - Maillard reaction.  ... |
 | wjec-gcse-food-and-nutrition-specification.md | 19 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | -g elation, - relation, - gelatin (+3 more) | ... and mechanical action - foam formation **- gelation** - gluten formation - Maillard reaction ... |
-| wjec-gcse-food-and-nutrition-specification.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...a food experiment to test a hypothesis. **Learners** should be aware of the complimentary ac... |
-| wjec-gcse-food-and-nutrition-specification.md | 20 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...pply sensory descriptors appropriately. **Learners** should be aware of how to test sensory ... |
-| wjec-gcse-food-and-nutrition-specification.md | 21 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...nd reliability when collecting results. **Learners** should be able to present results for a... |
-| wjec-gcse-food-and-nutrition-specification.md | 21 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...s</li><li>star diagrams</li><li>tables. **Learners** should understand how to analyse the re... |
 | wjec-gcse-food-and-nutrition-specification.md | 31 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | baton, Barton, Eaton (+14 more) | ...inating (pastry)***</li></ul> \| <ul><li>**bâton****</li><li>brunoise***</li><li>chiffonad... |
 | wjec-gcse-food-and-nutrition-specification.md | 31 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | bruise | ...***</li></ul> \| <ul><li>bâton**</li><li>**brunoise*****</li><li>chiffonade**</li><li>choppin... |
 | wjec-gcse-food-and-nutrition-specification.md | 31 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | chiffon, chiffonier, chiffons | ...<li>bâton**</li><li>brunoise***</li><li>**chiffonade****</li><li>chopping*</li><li>deboning***... |
@@ -3951,7 +3617,7 @@ Found 66 issue(s).
 
 ### French / gcse-french---guidance-for-teaching-unit-1.md
 
-Found 402 issue(s).
+Found 398 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3964,7 +3630,6 @@ Found 402 issue(s).
 | gcse-french---guidance-for-teaching-unit-1.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...candidates with guidance and prompts in **Cymraeg**/English on the responses that are requi... |
 | gcse-french---guidance-for-teaching-unit-1.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | timetable, timetables, time tabled | ...pared two weeks in advance of the first **timetabled** assessment. The presentation can be on ... |
 | gcse-french---guidance-for-teaching-unit-1.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | timetable, timetables, time tabled | ...esentation two weeks prior to the first **timetabled** assessment.  Candidates are not permitt... |
-| gcse-french---guidance-for-teaching-unit-1.md | 8 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... the preparation of their presentation. **Candidates** may refer to prepared bullet points to ... |
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...nformation (prompted, for example, by '***Pourquoi*** ?' Or '*Pourquoi pas* ?'). - Where pos... |
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...ed, for example, by '*Pourquoi* ?' Or '***Pourquoi** pas* ?'). - Where possible, more open q... |
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Palermo | ...openers for extended answers could be '***Parle-moi** de*…', '*Décrismoi*…'or '*Que penses-tu... |
@@ -3972,7 +3637,6 @@ Found 402 issue(s).
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Decision, Derision | ...d answers could be '*Parle-moi de*…', '***Décrismoi***…'or '*Que penses-tu de*…?' for example... |
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `EN_UNPAIRED_QUOTES` | typographical | Unpaired symbol: ‘'’ seems to be missing | — | ...ould be '*Parle-moi de*…', '*Décrismoi*…**'**or '*Que penses-tu de*…?' for example.  ... |
 | gcse-french---guidance-for-teaching-unit-1.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | densest, tensest, pentest (+1 more) | ...Parle-moi de*…', '*Décrismoi*…'or '*Que **penses-tu** de*…?' for example.  **Total time for c... |
-| gcse-french---guidance-for-teaching-unit-1.md | 10 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... be allocated a role play from Theme 1. **If** the candidate's choice of presentations... |
 | gcse-french---guidance-for-teaching-unit-1.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | read-aloud, read aloud | ...inutes preparation time, practising the **readaloud** sub-vocally, making notes on what to sa... |
 | gcse-french---guidance-for-teaching-unit-1.md | 12 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short). | , but | ...and role play is approximately 2 minutes** but** this will depend on each candidate. The... |
 | gcse-french---guidance-for-teaching-unit-1.md | 13 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, Racy, O racy | ...3-1"></span><span id="page-13-0"></span>**Oracy** Speaking and Listening **Content Amplif... |
@@ -4026,13 +3690,11 @@ Found 402 issue(s).
 | gcse-french---guidance-for-teaching-unit-1.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...ld also allow learners to develop their **translanguaging** as they read instructions in Cymraeg/En... |
 | gcse-french---guidance-for-teaching-unit-1.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...languaging as they read instructions in **Cymraeg**/English and formulate appropriate state... |
 | gcse-french---guidance-for-teaching-unit-1.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...standing and skills in both English and **Cymraeg** to further develop their understanding ... |
-| gcse-french---guidance-for-teaching-unit-1.md | 23 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, they, Likewise, they, Not only that, but they | ...a series of questions that you provide. **They** could then work in groups to plan and p... |
 | gcse-french---guidance-for-teaching-unit-1.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...mbassadors from Routes into Languages – **Llwybrau** at ieithoedd Cymru who are French-speak... |
 | gcse-french---guidance-for-teaching-unit-1.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...rom Routes into Languages – Llwybrau at **ieithoedd** Cymru who are French-speakers, currentl... |
 | gcse-french---guidance-for-teaching-unit-1.md | 24 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...  \| <ul><li>Learners could take part in **oracy** games such as a running dictation which... |
 | gcse-french---guidance-for-teaching-unit-1.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | French-speaking, French speaking | ...encing sessions with school pupils in a **Frenchspeaking** country to provide information about th... |
 | gcse-french---guidance-for-teaching-unit-1.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...the 3 Themes. Learners could develop an **oracy** project with school pupils in a French-... |
-| gcse-french---guidance-for-teaching-unit-1.md | 25 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...ol pupils in a French-speaking country. **Learners** would make use of online technology to ... |
 | gcse-french---guidance-for-teaching-unit-1.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...in confidence and independence in their **oracy**.**  **Below are some examples of how Pe... |
 | gcse-french---guidance-for-teaching-unit-1.md | 29 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Estate, Entice, ESTAC (+1 more) | ...pan>Language for leisure and wellbeing  **Est-ce** que la famille est importante pour toi ... |
 | gcse-french---guidance-for-teaching-unit-1.md | 29 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Que, due, cue (+907 more) | ...guage for leisure and wellbeing  Est-ce **que** la famille est importante pour toi ?  C... |
@@ -4360,7 +4022,7 @@ Found 402 issue(s).
 
 ### French / gcse-french---guidance-for-teaching-unit-2.md
 
-Found 80 issue(s).
+Found 78 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4376,7 +4038,6 @@ Found 80 issue(s).
 | gcse-french---guidance-for-teaching-unit-2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | -O racy, - Tracy, - Racy (+1 more) | ...odd one out for characters, themes etc. **- Oracy** tasks – despite being a text -based uni... |
 | gcse-french---guidance-for-teaching-unit-2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...unit there are opportunities to provide **oracy** practice through study such as; if this... |
 | gcse-french---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...y responding in French to a task set in **Cymraeg**/English. Learners will ultimately need ... |
-| gcse-french---guidance-for-teaching-unit-2.md | 12 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...rench to a task set in Cymraeg/English. **Learners** will ultimately need to demonstrate the... |
 | gcse-french---guidance-for-teaching-unit-2.md | 12 | `EN_COMPOUNDS_SUB_TITLES` | misspelling | This word is normally spelled as one. | subtitles | ...lel or tangled texts, watch a film with **sub-titles** or voiceover, and / or provide supporti... |
 | gcse-french---guidance-for-teaching-unit-2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ovide supporting resources in English / **Cymraeg** whilst studying the work. In preparatio... |
 | gcse-french---guidance-for-teaching-unit-2.md | 12 | `EN_COMPOUNDS_SUB_HEADINGS` | misspelling | This word is normally spelled as one. | subheadings | ...ividual notes can include the following **sub-headings** to provide opportunity to introduce and... |
@@ -4427,7 +4088,6 @@ Found 80 issue(s).
 | gcse-french---guidance-for-teaching-unit-2.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | roster, rested, Lester (+13 more) | ...an the journey. (sample verbs voyager / **rester** / visiter / manger / travailler etc.) -... |
 | gcse-french---guidance-for-teaching-unit-2.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | visited, visitor | ...urney. (sample verbs voyager / rester / **visiter** / manger / travailler etc.) - Learners ... |
 | gcse-french---guidance-for-teaching-unit-2.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | traveller, travailed | ...s voyager / rester / visiter / manger / **travailler** etc.) - Learners plan the trip within t... |
-| gcse-french---guidance-for-teaching-unit-2.md | 23 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | .../ what they will do when they are there.**)**  Arrange to meet up and discuss the cho... |
 | gcse-french---guidance-for-teaching-unit-2.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Tracy, racy, o racy | ...ges / snaps for the outcome rather than **oracy**)  {24}---------------------------------... |
 | gcse-french---guidance-for-teaching-unit-2.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | iMovie's, iMovie, movies | ...be animate from audio / ppt animation / **iMovies**, learners can prepare a simple script a... |
 | gcse-french---guidance-for-teaching-unit-2.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Canva, canvas, canna (+154 more) | ...lary could represent the quote. - Use '[**canva**](https://www.canva.com/en_gb/?msockid=3... |
@@ -4447,7 +4107,7 @@ Found 80 issue(s).
 
 ### French / gcse-french---guidance-for-teaching-unit-3.md
 
-Found 82 issue(s).
+Found 79 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4466,9 +4126,6 @@ Found 82 issue(s).
 | gcse-french---guidance-for-teaching-unit-3.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Her, Heir, Hire (+16 more) | ...– e.g. La semaine dernière/ À l'avenir/ **Hier**/ Demain etc.</li><li>Learners could wor... |
 | gcse-french---guidance-for-teaching-unit-3.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Remain, Domain, Detain (+1 more) | ... La semaine dernière/ À l'avenir/ Hier/ **Demain** etc.</li><li>Learners could work in pai... |
 | gcse-french---guidance-for-teaching-unit-3.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ws - respond to a range of questions in **Cymraeg**/English. - There are several websites t... |
-| gcse-french---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... several websites that have free videos **(**e.g. [www.1jour1actu.com\)](http://www.1... |
-| gcse-french---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...al websites that have free videos (e.g. **[**www.1jour1actu.com\)](http://www.1jour1a... |
-| gcse-french---guidance-for-teaching-unit-3.md | 10 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...e free videos (e.g. [www.1jour1actu.com\**)**](http://www.1jour1actu.com/) of contemp... |
 | gcse-french---guidance-for-teaching-unit-3.md | 10 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before “and” if it connects two independent clauses (unless they are closely connected and short). | , and | ...s can have subtitles added automatically** and** the speed can be adjusted to suit learn... |
 | gcse-french---guidance-for-teaching-unit-3.md | 11 | `MISSING_HYPHEN` | uncategorized | Did you mean the adjective “French-speaking”? | French-speaking | ... incorporate the culture and society of **French speaking** countries, not only France across all t... |
 | gcse-french---guidance-for-teaching-unit-3.md | 11 | `MISSING_HYPHEN` | uncategorized | Did you mean the adjective “French-speaking”? | French-speaking | ... explore cultural aspects of France and **French speaking** countries. <ul><li>https://www.lumni.fr... |
@@ -4536,7 +4193,7 @@ Found 82 issue(s).
 
 ### French / gcse-french---guidance-for-teaching-unit-4.md
 
-Found 324 issue(s).
+Found 323 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4790,7 +4447,6 @@ Found 324 issue(s).
 | gcse-french---guidance-for-teaching-unit-4.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Marc, Marco, Maros | ...extended to include the superlative (Le **Maroc** est le plus beau pays francophone).  Un... |
 | gcse-french---guidance-for-teaching-unit-4.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | LE, Le, he (+125 more) | ...o include the superlative (Le Maroc est **le** plus beau pays francophone).  Understan... |
 | gcse-french---guidance-for-teaching-unit-4.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Canva, canvas, canna (+154 more) | ...e document/PowerPoint/presentation over **canva**/adobe/OneNote or similar apps. \| \|  \| <... |
-| gcse-french---guidance-for-teaching-unit-4.md | 23 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... requirements to practise core language **(**nom/prenom/age/lieu/yeux /cheveux/taille... |
 | gcse-french---guidance-for-teaching-unit-4.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | phenom | ...irements to practise core language (nom/**prenom**/age/lieu/yeux /cheveux/taille/albums/tu... |
 | gcse-french---guidance-for-teaching-unit-4.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | year, you, yes (+98 more) | ...tise core language (nom/prenom/age/lieu/**yeux** /cheveux/taille/albums/tubes, etc</li><... |
 | gcse-french---guidance-for-teaching-unit-4.md | 23 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | chevet, chevets | ...ore language (nom/prenom/age/lieu/yeux /**cheveux**/taille/albums/tubes, etc</li></ul> \| \| ... |
@@ -4878,7 +4534,7 @@ Found 4 issue(s).
 
 ### French / gcse-french---unit-1-oracy.md
 
-Found 897 issue(s).
+Found 896 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4893,7 +4549,6 @@ Found 897 issue(s).
 | gcse-french---unit-1-oracy.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Palermo | ...openers for extended answers could be '***Parle-moi** de…'*, '*Décris-moi…'* or *'Que penses-... |
 | gcse-french---unit-1-oracy.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Debris-moi, Décris-MOI | ...d answers could be '*Parle-moi de…'*, '***Décris-moi**…'* or *'Que penses-tu de…?'* for exampl... |
 | gcse-french---unit-1-oracy.md | 6 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | densest, tensest, pentest (+1 more) | ...rle-moi de…'*, '*Décris-moi…'* or *'Que **penses-tu** de…?'* for example.  **Total time for c... |
-| gcse-french---unit-1-oracy.md | 7 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... be allocated a role play from Theme 1. **If** the candidate's choice of presentation ... |
 | gcse-french---unit-1-oracy.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | read-aloud, read aloud | ...inutes preparation time, practising the **readaloud** sub-vocally, making notes on what to sa... |
 | gcse-french---unit-1-oracy.md | 8 | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘but’ if it connects two independent clauses (unless they are closely connected and short). | , but | ...and role play is approximately 2 minutes** but** this will depend on each candidate. The... |
 | gcse-french---unit-1-oracy.md | 10 | `OUTSIDE_OF` | style | This phrase is redundant. Consider using “outside”. | outside | ...cess evidence they have been developing **outside of** supervised activities.  {11}-----------... |
@@ -7104,7 +6759,7 @@ Found 7 issue(s).
 
 ### French / overview-of-consultation-findings.md
 
-Found 72 issue(s).
+Found 53 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -7113,32 +6768,13 @@ Found 72 issue(s).
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...15 \| \| Level 2 Award in Additional Core **Cymraeg**                         \| 15        \| \|... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...                   \| 15        \| \| GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 1 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...uble)         \| 15        \| \| GCSE Core **Cymraeg**                                        ... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...-Wales GCSEs and related qualifications **[**\(https://qualifications.wales/regulatio... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ales GCSEs and related qualifications [\**(**https://qualifications.wales/regulation]... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...(https://qualifications.wales/regulation**]**(https://qualifications.wales/regulation... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria)**[**reform/reforming/qualified-for-the-futur... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | made-for-wales-GCSEs | ...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica... |
-| overview-of-consultation-findings.md | 2 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...made-for-wales-gcses/#approval-criteria\**)**](https://qualifications.wales/regulatio... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...ul><li>Level 2 Award in Additional Core **Cymraeg**</li><li>GCSE Art and Design</li><li>GCS... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Computer Science</li><li>GCSE Core **Cymraeg**</li><li>GCSE Drama</li><li>GCSE French,... |
 | overview-of-consultation-findings.md | 2 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ...GCSE Geography</li></ul> \| <ul><li>GCSE **Cymraeg** Language and Literature (Single and Dou... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cymae | ... Language and Literature, History, Core **Cymraeg** and The Sciences – but comments made by... |
 | overview-of-consultation-findings.md | 3 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...y prevalent in qualifications where the **nonexamination** assessment is either new or significant... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ssessment-related workload for schools' **(**[https://qualifications.wales/media/dkci... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ultation-report-january-2024-update.pdf)**[**for-wales-gcses-main-consultation-report... |
-| overview-of-consultation-findings.md | 3 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ultation-report-january-2024-update.pdf\**)**](https://qualifications.wales/media/dkc... |
-| overview-of-consultation-findings.md | 3 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...tation-report-january-2024-update.pdf). **Qualifications** Wales has asked us to ensure manageabil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...nce on well-being, equity and inclusion **[**\(https://hwb.gov.wales/evaluation-impro... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e on well-being, equity and inclusion [\**(**https://hwb.gov.wales/evaluation-improve... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...hwb.gov.wales/evaluation-improvement-and**]**(https://hwb.gov.wales/evaluation-improv... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...source/well-being-equity-and-inclusion/)**[**resource/well-being-equity-and-inclusion... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...source/well-being-equity-and-inclusion/\**)**](https://hwb.gov.wales/evaluation-impro... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...background. Some stakeholders felt that **nonexamination** assessment can further disadvantage som... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ducation in Wales: Our national mission **[**\(https://www.gov.wales/sites/default/fi... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...cation in Wales: Our national mission [\**(**https://www.gov.wales/sites/default/file... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | .../files/publications/2023-03/our-national**]**(https://www.gov.wales/sites/default/fil... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...standards-and-aspirations-for-all_0.pdf)**[**mission-high-standards-and-aspirations-f... |
-| overview-of-consultation-findings.md | 4 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...andards-and-aspirations-for-all\\_0.pdf\**)**](https://www.gov.wales/sites/default/fi... |
 | overview-of-consultation-findings.md | 4 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | maximalist, maximalism | ...ather than coursework or mini-tests, to **maximalise** equity. This group felt that controls s... |
 | overview-of-consultation-findings.md | 5 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ... is the case, scanning and uploading of **nonexamination** assessment could be time-consuming, par... |
 | overview-of-consultation-findings.md | 5 | `COMMA_COMPOUND_SENTENCE` | uncategorized | Use a comma before ‘and’ if it connects two independent clauses (unless they are closely connected and short). | , and | ...greater detail with Qualifications Wales** and** we will also be discussing the issue wi... |
@@ -7183,7 +6819,7 @@ Found 72 issue(s).
 
 ### French / wjec-gcse-french-specification.md
 
-Found 2155 issue(s).
+Found 2148 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -7243,13 +6879,11 @@ Found 2155 issue(s).
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | DES, Des, yes (+2049 more) | ... (a/an) \|  \| \|  \| partitive: du, de la, **des**, de l' (some) \|  \| \|                \| i... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | DE, De, he (+136 more) | ...  \| \|                \| including use of **de** after negatives                        ... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bon, on, born (+1846 more) | ...the noun: beau (lovely / handsome (m)), **bon** (good (m) bonne (good (f)), grand (big,... |
-| wjec-gcse-french-specification.md | 25 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...noun: beau (lovely / handsome (m)), bon **(**good (m) bonne (good (f)), grand (big, t... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | bone, borne, bonnet (+14 more) | ... (lovely / handsome (m)), bon (good (m) **bonne** (good (f)), grand (big, tall), jeune (y... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | June, jejune | ...m) bonne (good (f)), grand (big, tall), **jeune** (young), joli (pretty), vieux, vieil (o... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Joni, jolt, Jolo (+3 more) | ...(f)), grand (big, tall), jeune (young), **joli** (pretty), vieux, vieil (old (m) vieille... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | view, views, virus (+14 more) | ...g, tall), jeune (young), joli (pretty), **vieux**, vieil (old (m) vieille (old (f)) \|  \| ... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | veil, vigil | ...), jeune (young), joli (pretty), vieux, **vieil** (old (m) vieille (old (f)) \|  \| \|  \| po... |
-| wjec-gcse-french-specification.md | 25 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ne (young), joli (pretty), vieux, vieil **(**old (m) vieille (old (f)) \|  \| \|  \| poss... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | visible, virile | ...), joli (pretty), vieux, vieil (old (m) **vieille** (old (f)) \|  \| \|  \| possessive: mon (my... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Mon, MON, on (+1605 more) | ...vieille (old (f)) \|  \| \|  \| possessive: **mon** (my (m)), ma (my (f)), mes (my (plural)... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | MES, me, yes (+2072 more) | ... possessive: mon (my (m)), ma (my (f)), **mes** (my (plural)) ton (your (m) singular), ... |
@@ -7258,7 +6892,6 @@ Found 2155 issue(s).
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | SES, set, yes (+2169 more) | ...ur plural) son (his (m)), sa (her (f)), **ses** (his / her / its plural) vos (your plur... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | vs, vows, SOS (+62 more) | ...(her (f)), ses (his / her / its plural) **vos** (your plural), votre (your (formal) nos... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | vote, voter, Notre (+1 more) | ... / her / its plural) vos (your plural), **votre** (your (formal) nos (our plural), notre ... |
-| wjec-gcse-french-specification.md | 25 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ... / its plural) vos (your plural), votre **(**your (formal) nos (our plural), notre (o... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Notre, note, nitre (+103 more) | ... votre (your (formal) nos (our plural), **notre** (our (m / f)) leur (their), leurs (thei... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | EUR, Lear, lemur (+6 more) | ...) nos (our plural), notre (our (m / f)) **leur** (their), leurs (their plural) \|  \| \|  \|... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | lemurs, leers, lehrs (+1 more) | ...ral), notre (our (m / f)) leur (their), **leurs** (their plural) \|  \| \|  \| interrogative:... |
@@ -7289,10 +6922,8 @@ Found 2155 issue(s).
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | LE, Le, he (+125 more) | ...atives: le / la meilleur(e) (the best), **le** pire (the worst) \|  \|  {26}------------... |
 | wjec-gcse-french-specification.md | 25 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | PIRE, fire, pure (+677 more) | ...ves: le / la meilleur(e) (the best), le **pire** (the worst) \|  \|  {26}-----------------... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CE, Ce, he (+139 more) | ...------------------  \|  \| demonstrative: **ce** (this / that (m), cet (this / that (m) ... |
-| wjec-gcse-french-specification.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...---------------  \|  \| demonstrative: ce **(**this / that (m), cet (this / that (m) be... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CET, get, set (+1893 more) | ...  \| demonstrative: ce (this / that (m), **cet** (this / that (m) before a vowel), cette... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bette, CETE | ..., cet (this / that (m) before a vowel), **cette** (this / that (f), ces (these / those (p... |
-| wjec-gcse-french-specification.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...(this / that (m) before a vowel), cette **(**this / that (f), ces (these / those (plu... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CES, yes, CDs (+2269 more) | ...efore a vowel), cette (this / that (f), **ces** (these / those (plural)) \|  \| \|--------... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | cheque, claque | ...---------------\|-----\| \|  \| indefinite: **chaque** (each, every), quelque (a few, some) \| ... |
 | wjec-gcse-french-specification.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | queue, pulque, Quilpué | ... \|  \| indefinite: chaque (each, every), **quelque** (a few, some) \|  \| \|  \| those which cha... |
@@ -7371,7 +7002,6 @@ Found 2155 issue(s).
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Dans, days, fans (+916 more) | ...before), avec (with), contre (against), **dans** (in), derrière (behind), devant (in fro... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Levant, deviant, decant (+3 more) | ...against), dans (in), derrière (behind), **devant** (in front of), entre (between, among), ... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | centre, entire, enter (+5 more) | ...errière (behind), devant (in front of), **entre** (between, among), pendant (during), sou... |
-| wjec-gcse-french-specification.md | 27 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...between, among), pendant (during), sous **(**under(neath), sur (on), en (in), par (by... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | SUR, Sur, sure (+1471 more) | ..., pendant (during), sous (under(neath), **sur** (on), en (in), par (by / through), pour... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | salon, Seton, melon (+3 more) | .../ through), pour (for), sans (without), **selon** (according to), vers (towards) voici (h... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | very, verse, verb (+23 more) | ..., sans (without), selon (according to), **vers** (towards) voici (here / there is), chez... |
@@ -7396,7 +7026,6 @@ Found 2155 issue(s).
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | vows, vols, nous (+4 more) | ... (you), il (he), elle (she), nous (we), **vous** (you plural), ils (they (m) or mixed gr... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | ILS, is, its (+1733 more) | ...le (she), nous (we), vous (you plural), **ils** (they (m) or mixed group), elles (they ... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. Did you mean “ells”, the plural form of the noun ‘ell’? | ells, Ellen, Ellis (+7 more) | ...plural), ils (they (m) or mixed group), **elles** (they (f) \|  \| \|  \| impersonal: on (one... |
-| wjec-gcse-french-specification.md | 27 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...), ils (they (m) or mixed group), elles **(**they (f) \|  \| \|  \| impersonal: on (one /... |
 | wjec-gcse-french-specification.md | 27 | `EN_SPECIFIC_CASE` | misspelling | If the term is a proper noun, use initial capitals. | Le Monde | ... impersonal: on (one / we / they), tout **le monde** (everyone) reflexive: se relative: qui ... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | see, SE, Se (+142 more) | ...y), tout le monde (everyone) reflexive: **se** relative: qui (who), que (that, which),... |
 | wjec-gcse-french-specification.md | 27 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | quit, quiz, GUI (+17 more) | ...onde (everyone) reflexive: se relative: **qui** (who), que (that, which), où (where) di... |
@@ -9345,11 +8974,10 @@ Found 2155 issue(s).
 
 ### Geography / cardiff-metropolitan-university-teacher-survey.md
 
-Found 2 issue(s).
+Found 1 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
-| cardiff-metropolitan-university-teacher-survey.md | 0 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | Furthermore, we, Likewise, we, Not only that, but we | ...rch interventions later in the project. **We** plan to donate money to some Welsh char... |
 | cardiff-metropolitan-university-teacher-survey.md | 0 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Via, Aviv, VIP (+38 more) | ...ch for your time.  Dr Tom Breeze and Dr **Viv** John from Cardiff Metropolitan Universi... |
 
 ### History / frequently-asked-questions.md
@@ -9691,7 +9319,7 @@ Found 284 issue(s).
 
 ### History / gcse-history---guidance-for-teaching-unit-1-option-1.2.md
 
-Found 492 issue(s).
+Found 445 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9722,11 +9350,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Llewellyn | ...yn's uprising against Edward Longshanks **Llywelyn** Bren - Cardiff Castle \| 3 hours \|  {9}-... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 8 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Been, Ben, Bred (+14 more) | ...sing against Edward Longshanks Llywelyn **Bren** - Cardiff Castle \| 3 hours \|  {9}------... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Launch, Lagoon, Laugh (+23 more) | ...by the end of the 14th century.  [Owain **Lawgoch**](https://www.castlewales.com/lawgoch.ht... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...onarchs](https://youtu.be/f47dhuyb_bY)  **[**King Richard II \(1367-](https://youtu.b... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...outu.be/f47dhuyb_bY)  [King Richard II \**(**1367-](https://youtu.be/S-wCTP741bI) [14... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...e/f47dhuyb_bY)  [King Richard II \(1367-**]**(https://youtu.be/S-wCTP741bI) [1400\)](... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ... \(1367-](https://youtu.be/S-wCTP741bI) **[**1400\)](https://youtu.be/S-wCTP741bI)  {... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 9 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...7-](https://youtu.be/S-wCTP741bI) [1400\**)**](https://youtu.be/S-wCTP741bI)  {10}---... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Huddle, Huddled, Huddling (+5 more) | ... 1277 \|  \| \| Wales after the Statute of **Rhuddlan** 1284 \|  \| \| Book(s): Curriculum for Wal... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...es, Chapters 13, 14 and 15 \|  \| \| Owain **Glyndwr**, the story of the last Prince of Wales,... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 10 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bremerton | ...y of the last Prince of Wales, by Terry **Breverton**, Chapter 1 \|  \| \| The Welsh Wars of Ind... |
@@ -9736,7 +9359,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Life, Like, Line (+22 more) | ...ttps://www.castlewales.com/march.html) [**Lise** Hull](https://www.castlewales.com/march... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 11 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ..._Ages#Castles_and_Towns)  [14th Century **Crickhowell**](https://www.crickhowell.com/14th-centu... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 12 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...and Britain in the Medieval World c.1000**- **1500) by Hefin Mathias, Chapters 11, 12,... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 12 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...itain in the Medieval World c.1000- 1500**)** by Hefin Mathias, Chapters 11, 12, 13 a... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Hein, He fin | ... in the Medieval World c.1000- 1500) by **Hefin** Mathias, Chapters 11, 12, 13 and 16 \| \|... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...nd 16 \| \|  \| The Rise and Fall of Owain **Glyndwr** by Gideon Brough, Introduction \|  {13}-... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 12 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Brought, Borough, Rough (+3 more) | ...ise and Fall of Owain Glyndwr by Gideon **Brough**, Introduction \|  {13}------------------... |
@@ -9792,11 +9414,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Hammer, Hander, Hanger (+2 more) | ...C5%B5r#Early_life_and_marriage)  [David **Hanmer**](https://en.wikipedia.org/wiki/David_Ha... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...#History)  #### **Podcast(s):**  [Owain **Glyndwr**](https://shows.acast.com/dansnowshistor... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...n-glyndwr-and-the-welsh-revolt)  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen to](https://shows... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen to](https://shows.acast.com/halfa... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...-revolt) Half-[Arsed History \(Listen to**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**5:20\)](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...in-glyndwr-and-the-welsh-revolt)  [5:20\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 15 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-welsh-revolt)  # **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...---------------------  \|  \|  \|  \| Owain **Glyndwr**, the story of the last Prince of Wales,... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bremerton | ...y of the last Prince of Wales, by Terry **Breverton**, Chapter 2 \|  \| \|----------------------... |
@@ -9841,11 +9458,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...earners to discuss to what extent Owain **Glyndwr**'s relationship with Henry Bolingbroke w... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...arners can draw conclusions about Owain **Glyndwr**'s relationship with Henry Bolingbroke i... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...episodes/the-hundred-years-war)  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 5.20-8.20\)](https://shows.acast.co... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...-and-the-welsh-revolt)  [from 5.20-8.20\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-welsh-revolt)  # **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...ales* by R.R. Davies, Chapter 1  *Owain **Glyndwr**, the story of the last Prince of Wales*... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bremerton | ... of the last Prince of Wales*, by Terry **Breverton**, Chapter 2  {21}-----------------------... |
@@ -9864,23 +9476,12 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Chart, Charts, Jakarta (+14 more) | ...hieved by the time of his retirement to **Sycharth** in the 1390s.  #### **Website(s):**  [B... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Rad cot | ...390s.  #### **Website(s):**  [Battle of **Radcot** Bridge](https://en.wikipedia.org/wiki/B... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Chart, Charts, Jakarta (+14 more) | ...middle_ages/richardii_reign_01.shtml)  [**Sycharth** Castle](https://www.castlewales.com/syc... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...s://www.castlewales.com/sycharth.html)  **[**Iolo Goch \(c.1320](https://biography.wa... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Solo, Polo, Colo (+6 more) | ...://www.castlewales.com/sycharth.html)  [**Iolo** Goch \(c.1320](https://biography.wales/... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gogh, Loch, Goth (+8 more) | ...w.castlewales.com/sycharth.html)  [Iolo **Goch** \(c.1320](https://biography.wales/artic... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...lewales.com/sycharth.html)  [Iolo Goch \**(**c.1320](https://biography.wales/article/... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ....com/sycharth.html)  [Iolo Goch \(c.1320**]**(https://biography.wales/article/arc_s-I... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...aphy.wales/article/arc_s-IOLO-GOC-1320) **[**c.1398\), poet](https://biography.wales/... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...es/article/arc_s-IOLO-GOC-1320) [c.1398\**)**, poet](https://biography.wales/article/... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...cle/arc_s-IOLO-GOC-1320) [c.1398\), poet**]**(https://biography.wales/article/arc_s-I... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...es/article/arc_s-IOLO-GOC-1320)  [Owain **Glyndwr**'s Court](https://www.owain-glyndwr.wale... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Solo, Polo, Colo (+6 more) | ...pdf_files/IoloGochPoemSycharth.pdf)  [\(**Iolo** Goch\)](https://www.owain-glyndwr.wales... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gogh, Loch, Goth (+8 more) | ...iles/IoloGochPoemSycharth.pdf)  [\(Iolo **Goch**\)](https://www.owain-glyndwr.wales/pdf_... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...ycharth.pdf)  # **Podcast(s):**  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 5.20-8.30\)](https://shows.acast.co... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...-and-the-welsh-revolt)  [from 5.20-8.30\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-welsh-revolt)  # **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...---------------------------  \|  \| Owain **Glyndwr**, the story of the last Prince of Wales,... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 22 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bremerton | ...y of the last Prince of Wales, by Terry **Breverton**, Chapter 2 \| \|--\|----------------------... |
@@ -9936,11 +9537,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...rs can draw conclusions about how Owain **Glyndwr** and his supporters were able to achieve... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...against considerable obstacles.  [Owain **Glyndwr**](https://shows.acast.com/dansnowshistor... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...n-glyndwr-and-the-welsh-revolt)  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 8.30-20.35\)](https://shows.acast.c... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...and-the-welsh-revolt)  [from 8.30-20.35\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...elsh-revolt)  #### **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...Chapter 17  *The Rise and Fall of Owain **Glyndwr*** by Gideon Brough, Chapter 2  *Owain Gl... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 26 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Brought, Borough, Rough (+3 more) | ...se and Fall of Owain Glyndwr* by Gideon **Brough**, Chapter 2  *Owain Glyndwr, the story o... |
@@ -9969,11 +9565,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...TQRuY0u-aOQ)  # **Podcast(s):**  [Owain **Glyndwr**, The Last](https://www.anthologyofheroe... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-last-prince-of-wales-part-2/)  [Owain **Glyndwr**](https://shows.acast.com/dansnowshistor... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...n-glyndwr-and-the-welsh-revolt)  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 20.35-25.45\)](https://shows.acast.... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...nd-the-welsh-revolt)  [from 20.35-25.45\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...elsh-revolt)  #### **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ... Chapter 2  *The Rise and Fall of Owain **Glyndwr*** by Gideon Brough, Chapter 3  *Owain Gl... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 28 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Brought, Borough, Rough (+3 more) | ...se and Fall of Owain Glyndwr* by Gideon **Brough**, Chapter 3  *Owain Glyndwr, the story o... |
@@ -10034,11 +9625,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Penal, Penial, Pinnal | ....  #### **Video(s):**  [Owain Glyndwr's **Pennal**](https://youtu.be/36xS0deWWdA)  [Letter... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...-popes.html)  # **Podcast(s):**  [Owain **Glyndwr**, The Last](https://www.anthologyofheroe... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-last-prince-of-wales-part-2/)  [Owain **Glyndwr** and the](https://shows.acast.com/halfar... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 20.45-28.30\)](https://shows.acast.... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...nd-the-welsh-revolt)  [from 20.45-28.30\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Triparted | ...d-the-welsh-revolt)  #### **Map(s):**  [**Triparte**](https://commons.wikimedia.org/wiki/Fil... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ....png) and Wales  # **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 33 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...est* by R.R. Davies, Chapter 17  *Owain **Glyndwr**, the story of the last Prince of Wales,... |
@@ -10074,11 +9660,6 @@ Found 492 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Melon, Melvyn, Melan | ...w.youtube.com/embed/canH5lzkWCk)  [Pwll **Melyn**, Battle of Usk](https://youtu.be/xBzO2C... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...xBzO2COncC4)  # **Podcast(s):**  [Owain **Glyndwr**](https://shows.acast.com/dansnowshistor... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...](https://youtu.be/Jqvzm28iP5M)  [Owain **Glyndwr**](https://shows.acast.com/halfarsedhisto... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...wain-glyndwr-and-the-welsh-revolt) Half-**[**Arsed History \(Listen](https://shows.ac... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...-the-welsh-revolt) Half-[Arsed History \**(**Listen](https://shows.acast.com/halfarse... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...lsh-revolt) Half-[Arsed History \(Listen**]**(https://shows.acast.com/halfarsedhistor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...03-owain-glyndwr-and-the-welsh-revolt)  **[**from 28.30\)](https://shows.acast.com/ha... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...ndwr-and-the-welsh-revolt)  [from 28.30\**)**](https://shows.acast.com/halfarsedhisto... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 35 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...e-welsh-revolt)  # **Book(s):**  *Owain **Glyndwr**, Prince of Wales* by R.R. Davies, Chapt... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 36 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gender, Gland, Glands (+34 more) | ...------------------------------  \| Owain **Glyndwr**, the story of the last Prince of Wales,... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.2.md | 36 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Bremerton | ...y of the last Prince of Wales, by Terry **Breverton**, Chapters 9, 10 and 11 \| \|-------------... |
@@ -10190,7 +9771,7 @@ Found 492 issue(s).
 
 ### History / gcse-history---guidance-for-teaching-unit-1-option-1.3.md
 
-Found 110 issue(s).
+Found 103 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10207,7 +9788,6 @@ Found 110 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 9 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Selwyn, Ellyn | ...udor Wales by Trevor Herbert and Gareth **Elwyn** Jones Tudor Wales : Herbert, Trevor : F... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 9 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ... Wales: English Conquest of Wales c.1200** - **1415 \| 2 hours \|  {10}------------------... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 10 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...mas (Chapter 2) A history of Wales, 1485**- **1660 : Thomas, Hugh, 1923- : Free Downlo... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 13 | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...was known for lawlessness and conflict. **Understand** the responsibilities of the council and... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 13 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...omas, Chapter 3 A history of Wales, 1485**- **1660 : Thomas, Hugh, 1923- : Free Downlo... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gruff, Ruffed, Ruffled (+9 more) | ...uding Sir Rhys ap Thomas and William ap **Gruffudd** to control large areas of Wales.  Under... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 14 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gruff, Ruffed, Ruffled (+9 more) | ...rtance of Rhys ap Thomas and William ap **Gruffudd** in solidifying Henry's power in Wales. ... |
@@ -10230,10 +9810,6 @@ Found 110 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Glamour, Grantor, Landor (+1 more) | ...l and Reformation : Wales c. 1415-1642, **Glanmor** Williams – Pages 254, 257-259 Renewal a... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 16 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Glamour, Grantor, Landor (+1 more) | ...mation : Wales c. 1415-1642 : Williams, **Glanmor** : Free Download, Borrow, and Streaming ... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 16 | `DASH_RULE` | typographical | If you want to indicate numerical ranges or time ranges, consider using an en dash. | – | ...mas, Chapter 3. A history of Wales, 1485**- **1660 : Thomas, Hugh, 1923- : Free Downlo... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 17 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘]’ seems to be missing | — | ...ife-story/princess-of-wales-1525-1531)  **[**\(Princess of Wales 1525-](https://tudor... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 17 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...e-story/princess-of-wales-1525-1531)  [\**(**Princess of Wales 1525-](https://tudorti... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 17 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘[’ seems to be missing | — | ...s-1525-1531)  [\(Princess of Wales 1525-**]**(https://tudortimes.co.uk/people/mary-i-... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 17 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘(’ seems to be missing | — | ...-story/princess-of-wales-1525-1531) 1531**)** - [Tudor Times](https://tudortimes.co.u... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gruff, Ruffed, Ruffled (+9 more) | ...nificance of the protest of Sir Rhys ap **Gruffudd**, including:   - grievances over Henry V... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gruff, Ruffed, Ruffled (+9 more) | ... dealt with.  The events of Sir Rhys ap **Gruffudd**'s protest against the crown in 1529, th... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 18 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Gruff, Ruffed, Ruffled (+9 more) | ...heritance disputes over how Sir Rhys ap **Gruffudd**'s lands were administered and taxed und... |
@@ -10258,8 +9834,6 @@ Found 110 issue(s).
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Glamour, Grantor, Landor (+1 more) | ...de/2up)  *Wales and the Reformation* by **Glanmor** Williams (1997) [Wales and the](https:/... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Glamour, Grantor, Landor (+1 more) | ...org/details/walesreformation0000will)  [**Glanmor** : Free](https://archive.org/details/wal... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 20 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake. ‘Valor’ is American English. | Valour | ...mation0000will)  #### **Website(s):**  [**Valor** Ecclesiasticus -](https://www.nationala... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...*Website(s):**  [Valor Ecclesiasticus -]**(**https://www.nationalarchives.gov.uk/educ... |
-| gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 20 | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...alue%20of%20the) [The National Archives]**(**https://www.nationalarchives.gov.uk/educ... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | In, On, An (+49 more) | ...sh language and the first Welsh book – ***Yn** y Llyfr Hwn*, 1547.  Understand the rea... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Layer, Flyer, Glyph (+6 more) | ...nguage and the first Welsh book – *Yn y **Llyfr** Hwn*, 1547.  Understand the reasons for... |
 | gcse-history---guidance-for-teaching-unit-1-option-1.3.md | 21 | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Own, Hugh, Hen (+16 more) | ... and the first Welsh book – *Yn y Llyfr **Hwn***, 1547.  Understand the reasons for res... |
@@ -10359,7 +9933,7 @@ Found 29 issue(s).
 
 ### Level-2-Additional-Mathematics / wjec-level-2-additional-mathematics-specification.md
 
-Found 61 issue(s).
+Found 59 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10415,10 +9989,8 @@ Found 61 issue(s).
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CBC, CBA, CAC (+9 more) | ...) = 𝜎2 = ∑ 𝑥2P(𝑋 = 𝑥) − 𝜇2  © WJEC CBAC **Ltd **2025.  LEVEL 2 ADDITIONAL MATHEMAT... |
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | AJEC, WAEC, WEC | ...?²  +  2𝑎𝑠  𝑠 =  1 2  (𝑢 + 𝑣)𝑡  © WJEC C**BAC **Ltd 2025.  LEVEL 2 ADDITIONAL MAT... |
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CBC, CBA, CAC (+9 more) | ...  2𝑎𝑠  𝑠 =  1 2  (𝑢 + 𝑣)𝑡  © WJEC CBAC L**td 2**025.  LEVEL 2 ADDITIONAL MATHEMAT... |
-| wjec-level-2-additional-mathematics-specification.md | — | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ..., in a sub list. Write down the pivot.  **Write** down the remaining items (greater that ... |
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Crustal, Krystal, Kushal | ...5.  LEVEL 2 ADDITIONAL MATHEMATICS 33  **Kruskal**’s algorithm  Sort all the edges into as... |
 | wjec-level-2-additional-mathematics-specification.md | — | `CONDITIONAL_CLAUSE` | grammar | Consider removing ‘would’. (Usually, ‘would’ does not occur in a conditional clause, unless to make a request or give a polite order.) | formed | ...er the next edge of least weight. If it **would form** a cycle with those edges already select... |
-| wjec-level-2-additional-mathematics-specification.md | — | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ...s not form a cycle, add it to the tree. **If** there is a choice of equal edges, choos... |
 | wjec-level-2-additional-mathematics-specification.md | — | `EN_SPLIT_WORDS_HYPHEN` | misspelling | This word seems to be formatted incorrectly. Consider fixing the spacing or removing the hyphen completely. | Work-Related, Work - Related | ...ights Education  Diversity  Careers and **Work- Related** Experiences  Listening  Reading  Speaki... |
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...merical value (weight) assigned to it.  **Subgraph**  A graph G’ whose vertices and edges be... |
 | wjec-level-2-additional-mathematics-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...graph with no cycles.  Spanning tree  A **subgraph** of G that includes all vertices and is ... |
@@ -10437,7 +10009,7 @@ Found 3 issue(s).
 
 ### Mathematics-and-Numeracy / gcse-mathematics-and-numeracy---guidance-for-teaching.md
 
-Found 70 issue(s).
+Found 69 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10465,7 +10037,6 @@ Found 70 issue(s).
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | APR's, APR, APRS (+564 more) | ...es.  In examination questions involving **APRs** (including mortgages), any formulae nee... |
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Cary's, Cary, Caries (+13 more) | ...be given in the question.  For example: **Carys** is buying a new caravan, priced at £20 ... |
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `UNLIKELY_OPENING_PUNCTUATION` | uncategorized | Loose punctuation mark. |  | ...33 12  M =   × 18000  - 4×12  0.033 12  **)**  1.9 Rational and irrational numbers  1... |
-| gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ....9 Rational and irrational numbers  1 - **(**1+  © WJEC CBAC Ltd. 2025  1. Number  S... |
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `UNLIKELY_OPENING_PUNCTUATION` | uncategorized | Loose punctuation mark. |  | ...ll NOT ask learners to simplify  3  √2  **,** for example, as the only way to simply ... |
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `EN_A_VS_AN` | misspelling | Use “an” instead of ‘a’ if the following word starts with a vowel sound, e.g. ‘an article’, ‘an hour’. | an | ...ve your answer in the form π : a, where **a** is an integer.  1.9.7  use surds in exa... |
 | gcse-mathematics-and-numeracy---guidance-for-teaching.md | — | `THE_PUNCT` | grammar | Articles like ‘a’ are rarely followed by punctuation. A word may be missing after ‘a’, or the punctuation mark may not be necessary. | a | ... y in place of 1y •  a2 in place of a × **a,** •  a3 in place of a × a × a, •  a2b in ... |
@@ -10813,7 +10384,7 @@ Found 66 issue(s).
 
 ### Mathematics-and-Numeracy / gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md
 
-Found 65 issue(s).
+Found 62 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10855,15 +10426,12 @@ Found 65 issue(s).
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `THE_SUPERLATIVE` | grammar | A determiner may be missing. | the nearest | ...4. Allow use of ‘their area’ rounded to **nearest** whole or rounded to 1 d.p. For referenc... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CAN, CAR, CAP (+74 more) | ...  For arranging the 7 numbers in order. **CAO** Unsupported 1.7 gains M1 A1  5.(b)(ii) ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CAN, CAR, CAP (+74 more) | ...7 numbers.  m1 A1  E1  FT ‘their total’ **CAO**  FT ‘their derived mean’ in part (b)(ii... |
-| gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...(a)(i) 8a  8.(a)(ii) b – 7  8.(b)(i) 45 **(**  8.(b)(ii) – 68  Award B1 B1 B0 for one... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | B1 | ...7  8.(b)(i) 45 (  8.(b)(ii) – 68  Award **B1 B1** B0 for one of the following: •  a refle... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Wilhelm, Pellmell | ...have been drawn.  Position at 260 from **Pwllheli** Position at 310 from Fishguard Positio... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Fish guard | ...60 from Pwllheli Position at 310 from **Fishguard** Position marked or two intersecting lin... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | M1 | ...ition marked or two intersecting lines  **M1 M1** A1  FT if at least M1 previously awarde... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `OF_ANY_OF` | style | Consider simply using “of” instead. | of | ...    22 + 48 + 62 + 34 + 14 + 10)  Sight **of any of** the following:  (80% of 190 =) 152 (cal... |
-| gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...re than 30 seconds =) 58 (calls)  •  •  **(**132 calls =  × 100 = 69.4(7..)%  (58 cal... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `DOUBLE_PUNCTUATION` | typographical | Two consecutive dots | ., … | ...lls)  •  •  (132 calls =  × 100 = 69.4(7**..**)%  (58 calls =  × 100 = 30.5(2..)%  132... |
-| gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...•  •  (132 calls =  × 100 = 69.4(7..)%  **(**58 calls =  × 100 = 30.5(2..)%  132 190 ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `DOUBLE_PUNCTUATION` | typographical | Two consecutive dots | ., … | ... 69.4(7..)%  (58 calls =  × 100 = 30.5(2**..**)%  132 190 58 190           Conclusion ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `SPACE_BEFORE_PARENTHESIS` | typographical | It appears that a white space is missing. |  ( | ...considers the trend of players up to 122**(**kg)” “out of range”  E1  Allow “the heig... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md | — | `UNLIKELY_OPENING_PUNCTUATION` | uncategorized | Loose punctuation mark. |  | ...e step left to carry out.   or 15.9(96… **)**    or any other  𝜋  WJEC GCSE Mathemat... |
@@ -10885,7 +10453,7 @@ Found 65 issue(s).
 
 ### Mathematics-and-Numeracy / gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md
 
-Found 84 issue(s).
+Found 82 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -10925,9 +10493,7 @@ Found 84 issue(s).
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `ENGLISH_WORD_REPEAT_RULE` | duplication | Possible typo: you repeated a word. | B0 | ... = k Unsupported correct answer implies **B0 B0** B1. Award B1B1B0 for a final answer of ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CAN, CAR, CAP (+74 more) | ...                          112 (km)  A1  **CAO**.  Organisation and Communication.  OC1 ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `OF_ANY_OF` | style | Consider simply using “of” instead. | of | ...Check the graph for answers.  B1  Sight **of any of** the following:  (80% of 190=) 152 (call... |
-| gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...ore than 30 seconds=) 58 (calls)  •  •  **(**132 calls =  × 100 = 69.4(7..)%  (58 cal... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `DOUBLE_PUNCTUATION` | typographical | Two consecutive dots | ., … | ...lls)  •  •  (132 calls =  × 100 = 69.4(7**..**)%  (58 calls =  × 100 = 30.5(2..)%  132... |
-| gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `EN_UNPAIRED_BRACKETS` | typographical | Unpaired symbol: ‘)’ seems to be missing | — | ...•  •  (132 calls =  × 100 = 69.4(7..)%  **(**58 calls =  × 100 = 30.5(2..)%  132 190 ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `DOUBLE_PUNCTUATION` | typographical | Two consecutive dots | ., … | ... 69.4(7..)%  (58 calls =  × 100 = 30.5(2**..**)%  132 190 58 190           Conclusion ... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `SPACE_BEFORE_PARENTHESIS` | typographical | It appears that a white space is missing. |  ( | ...considers the trend of players up to 122**(**kg)” “out of range”.  E1  Allow “the hei... |
 | gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | CAN, CAR, CAP (+74 more) | ... 7 cm ± 2 mm  (906 + 664.02 = 1570.02)  **CAO**  For W1, candidates will be expected to... |
@@ -11149,7 +10715,7 @@ Found 10 issue(s).
 
 ### Music / gcse-music---guidance-for-teaching.md
 
-Found 35 issue(s).
+Found 34 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11159,7 +10725,6 @@ Found 35 issue(s).
 | gcse-music---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...roviding additional harmonies •  adding **countermelodic** material •  adding backing ideas.  Asse... |
 | gcse-music---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...gs in harmony with other  vocalists  •  **countermelodic** ideas or weaving of parts between the  ... |
 | gcse-music---guidance-for-teaching.md | — | `COMMA_COMPOUND_SENTENCE_2` | uncategorized | Use a comma before ‘so’ if it connects two independent clauses (unless they are closely connected and short). | , so | ...ent, as the scores are readily available** so** teachers may prefer to guide learners t... |
-| gcse-music---guidance-for-teaching.md | — | `ENGLISH_WORD_REPEAT_BEGINNING_RULE` | style | Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym. | — | ... the change in the pitch and/or rhythm. **If** the performance is more improvisatory i... |
 | gcse-music---guidance-for-teaching.md | — | `EN_COMPOUNDS_BEAT_BOX` | misspelling | This word is normally spelled as one. | beatbox | ...at matching effectively.  •  Scores for **beat-box** performances can be notated in a simila... |
 | gcse-music---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | talk, tale, tall (+20 more) | ...tterns, melodic patterns, rhythms, rag, **tala**, scales (such as Blues scale etc.). The... |
 | gcse-music---guidance-for-teaching.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | DJing | ...idance on the difficulty of standards.  **DJ-ing** – things to consider • •  Utilise of a ... |
@@ -11650,7 +11215,7 @@ Found 12 issue(s).
 
 ### Physical-Education-and-Health / wjec-gcse-physical-education-and-health-specification.md
 
-Found 23 issue(s).
+Found 22 issue(s).
 
 | Filename | Page | Rule | Type | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -11676,4 +11241,3 @@ Found 23 issue(s).
 | wjec-gcse-physical-education-and-health-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Boccie | ...t feature on the approved list (such as **Boccia** and Goalball), any of the other sports ... |
 | wjec-gcse-physical-education-and-health-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Goal ball | ...n the approved list (such as Boccia and **Goalball**), any of the other sports or physical a... |
 | wjec-gcse-physical-education-and-health-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | — | ...nclude:  Blind Cricket  Blind Football  **Polybat**  Powerchair Football  Sitting Volleybal... |
-| wjec-gcse-physical-education-and-health-specification.md | — | `MORFOLOGIK_RULE_EN_GB` | misspelling | Possible spelling mistake found. | Power chair | ...Blind Cricket  Blind Football  Polybat  **Powerchair** Football  Sitting Volleyball  Table Cri... |
