@@ -17,7 +17,8 @@ DEFAULT_DISABLED_RULES = {
     "UP_TO_DATE_HYPHEN",
     "PHRASE_REPETITION",
     "IN_A_X_MANNER",
-    "DECISION_MAKING"
+    "DECISION_MAKING",
+    "EN_UNPAIRED_BRACKETS"
 
 
 }
@@ -140,4 +141,21 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- Welsh: scientific terminology examples seen in docs ---
     "cyflymder", "Cyflymder", "Buanedd", "buanedd", "felosedd", "Felosedd",
+
+    # --- Additional validated names and technical tokens discovered in
+    #     recent language-check reports. These are correct terms or proper
+    #     nouns that should not be flagged as misspellings or style issues.
+    # Art & design: artists, designers and common proper nouns
+    "Gauguin", "Paul Gauguin", "Herbert Bayer", "Amy Sherald", "Bridget Riley", "Banksy",
+    "Salvador Dalí", "Salvador Dali", "Dali", "Paul Peter Piech",
+
+    # Layout / UI / design terms and variants
+    "Wayfinding", "mock-ups", "mockups", "mock ups",
+    "two-dimensional", "three-dimensional", "2-dimensional",
+
+    # Sport / disability sport terms seen in specs
+    "Powerchair", "Powerchair Football",
+
+    # Photography / film / animation terms seen in reports
+    "time-lapse", "rotoscoping", "tweening",
 }
