@@ -36,27 +36,27 @@ SUBJECT_LANGUAGE_MAP = {
 def get_languages_for_subject(subject: str) -> list[str]:
 	"""Determine which languages to check for a given subject.
 	
-	English (``en-GB``) is always checked first because the specification
-	documents are primarily written in English. For language subjects such as
-	French or German, the relevant language is appended so mixed-language
-	sections benefit from both dictionaries. All other subjects use English only.
+	**Important**: LanguageTool does not support checking mixed-language documents
+	by running multiple language checkers. Running both English and French checkers
+	on a mixed-language document will generate hundreds of false positives because:
+	- The English checker will flag all French words as spelling errors
+	- The French checker will flag all English words as spelling errors
+	
+	The correct approach is to use **language auto-detection** with a preferred
+	variant (en-GB for British English). This allows LanguageTool to detect the
+	primary language of the document while preferring British English when English
+	is detected. Foreign language words in embedded examples should be added to
+	the ignore list.
 	
 	Args:
 		subject: Subject name (e.g., "French", "German", "Computer-Science")
 		
 	Returns:
-		List of language codes to check, with English first
+		List containing 'auto' for automatic language detection
 	"""
-	# Always include English as the primary language
-	languages = ["en-GB"]
-	
-	# Add subject-specific language if it's a language subject
-	if subject in SUBJECT_LANGUAGE_MAP:
-		subject_lang = SUBJECT_LANGUAGE_MAP[subject]
-		if subject_lang != "en-GB" and subject_lang not in languages:
-			languages.append(subject_lang)
-	
-	return languages
+	# Use auto-detection - it will detect the primary language of the document
+	# The preferred variant (en-GB) is set in build_language_tool()
+	return ["auto"]
 
 
 # Transient errors that should trigger a retry
@@ -165,7 +165,7 @@ def build_language_tool(
 	Falls back to the public API when the local Java runtime is unavailable.
 	
 	Args:
-		language: Language code (e.g., "en-GB")
+		language: Language code (e.g., "en-GB", "auto" for auto-detection)
 		disabled_rules: Set of rule IDs to disable
 		ignored_words: Set of words to add to the spell-check whitelist (case-sensitive)
 	"""
@@ -180,7 +180,14 @@ def build_language_tool(
 		words_to_ignore.update(ignored_words)
 
 	try:
+		# When using auto-detection, we'll set preferred variants after creation
 		tool = language_tool_python.LanguageTool(language)
+		
+		# For auto-detection, set preferred variant to British English
+		# This ensures spell-checking works correctly for English documents
+		if language == "auto":
+			tool.preferred_variants = {'en-GB'}
+			LOGGER.info("Using automatic language detection with preferred variant: en-GB")
 	except Exception as exc:
 		# Do not silently fall back to the public API. If a local Java runtime
 		# isn't available or another error occurs, surface the original

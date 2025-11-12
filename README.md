@@ -1,11 +1,12 @@
 # WJEC Document Scraper
 
-A command-line which:
+A command-line tool that:
 
- - scrapes all WJEC GCSE Made-for-Wales qualification pages for linked PDF documents
- - converts them into Markdown format for easier reading and processing
- - uses [Language Tool](https://languagetool.org/) to check the converted documents for spelling and grammar issues, with multi-language support for French and German subjects and soon, Spanish.
- - uses LLMs to 
+ - Scrapes WJEC GCSE "Made-for-Wales" qualification pages for linked PDF documents.
+ - Converts PDFs to Markdown for easier reading and processing.
+ - Uses LanguageTool to check converted documents for spelling and grammar issues, with multi-language support for French and German (Spanish support coming soon).
+ - Uses LLMs to help categorise and prioritise issues and to assist with advanced proofreading.
+
 ## Why does this tool need to exist?
 
 [See the comment thread on LinkedIn that started all of this off.](https://www.linkedin.com/feed/update/urn:li:ugcPost:7386346400038682624?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7386346400038682624%2C7386507884081270784%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287386507884081270784%2Curn%3Ali%3AugcPost%3A7386346400038682624%29).
@@ -14,11 +15,39 @@ Because it's clear that the WJEC do not have any quality assurance process for t
 
 At the moment, no one with any power to do anything seems to care. It's too easy to fob off concerns by pretending that it's an isolated incident. I intend to change that by demonstrating that this is a systemic issue across *all* WJEC GCSE Made-for-Wales qualification materials and I will make some pretty graphs to prove it.
 
+Speaking of pretty graphs, here's a sneak preview of what's to come:
 
+Leaner count so far: <img src="badges/leaners.svg" alt="Leaner count" />
+American spellings found: <img src="badges/ize-suffixes.svg" alt="Ize suffixes count" />
 
+### Why count the word 'Leaner'?
 
-Tagging the press in that thread has achieved nothing as of the time of this scrape, all the errors are still there!
+'Leaner' and 'leaners' are common misspellings of 'learner' and 'learners' in educational documents. 'Learners' are referred to often; 'leaners' rarely. This makes it an easy metric for whether basic proofreading has taken place — one of the first things someone should do on receiving a draft is use `Ctrl` + `F` to find and replace any instances of 'leaner' with 'learner'.
 
+## The Process
+
+### Document Acquisition and Processing
+
+1. ✅ [COMPLETE] Scrape all WJEC GCSE Made-for-Wales qualification pages for linked PDF documents.
+2. ⏳ [IN PROGRESS] Convert PDFs to Markdown format for easier reading and processing. See the [processedDocuments](https://github.com/h-arnold/WjecDocumentScraper/tree/processedDocuments) for progress.
+
+### Multi-pass copyediting and proofreading
+
+3. ⏳ [IN PROGRESS] Use [Language Tool](https://languagetool.org/) to check the converted documents for spelling and grammar issues and create an ignore and exception list to reduce false positives. The data is currently *very* noisy.
+4. ⏳ [IN PROGRESS] Use LLMs to categorise the issues identified in 3. 
+5. ❌ [NOT STARTED] Use LLMs to proofread documents in small chunks (maximum 10 pages to reduce hallucinations) to spot issues missed by traditional grammar and spell checkers like incorrect homophones, missing words, and contextually incorrect phrases.
+6. ❌ [NOT STARTED] Use LLMs to check for factual errors.
+
+### Consistency Checking
+
+7. ❌ [NOT Started] Check style guide adherence. I don't have access to the WJEC style guide, so I will need to settle for internal consistency checks instead. 
+8. ❌ [NOT STARTED] Use LLMs to check for factual consistency *within documents*. E.g. all Unit weightings are consistent within the document.
+9. ❌ [NOT STARTED] **Stretch Goal**: Construct a 'truth document' by aggregating the data from all the documents for a subject and identify inconsistencies between documents for the same subject.
+
+### The pretty graphs
+
+10. ❌ [NOT STARTED] Take the eventual json file containing the fully cleansed data and create some pretty graphs to illustrate the issues found.
+11. ❌ [NOT STARTED] Send this report to the Welsh Education Minister and the national press.
 
 # Technical Details
 
