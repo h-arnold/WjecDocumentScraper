@@ -12,11 +12,11 @@
         "ms-azuretools.vscode-docker"
       ],
       "settings": {
-        "python.defaultInterpreterPath": "/workspace/.venv/bin/python"
+        "python.defaultInterpreterPath": "${containerWorkspaceFolder}/.venv/bin/python"
       }
     }
   },
-  "postCreateCommand": "bash -lc '.devcontainer/post_create.sh'",
+  "postCreateCommand": "bash -lc \"${containerWorkspaceFolder}/.devcontainer/post_create.sh\"",
   "remoteUser": "vscode",
-  "workspaceFolder": "/workspace/WjecDocumentScraper"
+  "workspaceFolder": "${containerWorkspaceFolder}"
 }

@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Generate badge
-        run: uv run python scripts/count_ize_suffixes.py --output badges/ize-suffixes.svg
+        run: python3 scripts/count_ize_suffixes.py --output badges/ize-suffixes.svg
 
       - name: Commit badge if changed
         run: |
