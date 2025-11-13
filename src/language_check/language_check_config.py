@@ -20,7 +20,8 @@ DEFAULT_DISABLED_RULES = {
     "DECISION_MAKING",
     "EN_UNPAIRED_BRACKETS",
     "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
-    "DASH_RULE"
+    "DASH_RULE",
+    "ADMIT_ENJOY_VB"
 
 
 }
@@ -222,12 +223,14 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- History: people and places seen in reports ---
     "Glyndwr", "Gruffudd", "Süleyman", "Sonni", "Jahan", "Askia", "Temujin", "Tyerman", "Babur", "Hardrada", "Llywelyn", "Cnut", "Nur", "Gruffydd", "Turvey", "Culpin", "Hanmer", "Breverton", "Genghis", "Swayer", "Deheubarth", "Songhai", "Harlech", "Khwarazmian", "Tondibi",
+    # --- Additional proper nouns / place names discovered in recent language-check reports ---
+    "Ghengis", "Gwenllian", "Tewdwr", "Hefin", "Dinefwr", "Kidwelly", "Crogen", "Ewloe", "Crug", "Crug Mawr", "Tenby", "Cadwaladr", "Maredudd", "Maelgwn", "Gryg", "Gethin", "Iorwerth", "Llansteffan", "Haverfordwest", "Laugharne", "Nevern", "Painscastle", "Colwyn", "Rhys", "Owain",
     # --- Additional Welsh historical names and variants requested from recent reports ---
     "Brough", "Pwll", "Melyn", "Ddu", "Dafydd", "Gam", "Hanmers", "Darogan", "Cadw", "Pennal", "Tywysog", "Mid Wales", "Mid-Wales",
     # --- Further tokens from recent language-check outputs (history / place names) ---
     "Hyddgen", "Ruthin", "Chevauchée", "Chevauchee", "Mynydd", "Glas", "Bryn Glas", "Brynglas", "Pilleth", "Ferch", "Triparte", "Elwyn", "Veysey", "Herberts", "Magor", "Glanmor", "Henrician", "Tintern", "Tretower", "Plas", "Mawr", "Plas Mawr", "Artemus", "Hywel", "Dda",
     # --- Additional historical / place names requested to be ignored ---
-    "Henrician", "Forkbeard", "Harthacnut", "Jorvik", "Hyddgen", "Mynydd", "Djenne", "Panipat", "Byrom", "Woff",
+    "Forkbeard", "Harthacnut", "Jorvik", "Djenne", "Panipat", "Byrom", "Woff",
 
     # --- Food-and-Nutrition ---
     "Yn", "yn", "bwyd", "Gymru", "arbennig", "ddefnyddiol", "eu", "ardystio", "gan", "ond", "efallai", "byd", "Bwyd", "barod", "ar", "Adnoddau", "Gwyddor", "Eatwell",
