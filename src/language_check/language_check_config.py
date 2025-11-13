@@ -34,10 +34,10 @@ DEFAULT_IGNORED_WORDS = {
     "WJEC", "CBAC", "Fitzalan", "Llanwern", "GCSE", "tkinter", "TKINTER",
 
     # --- Hardware / acronyms ---
-    "CPU", "GPU", "RAM", "NIC", "NICs", "HDD", "SSD", "SD", "SDS", "DVD", "PC", "SCSI", "USB", "HDMI", "RCA",
+    "CPU", "GPU", "RAM", "NIC", "NICs", "HDD", "SSD", "SD", "DVD", "PC", "SCSI", "USB", "HDMI", "RCA",
 
     # --- Networking / bandwidth ---
-    "LAN", "WAN", "Ethernet", "Wi-Fi", "kbps", "mbps", "gbps", "bps", "MiTM", "MITM",
+    "LAN", "WAN", "Ethernet", "Wi-Fi", "kbps", "mbps", "gbps", "bps", "MITM",
 
     # --- Audio / connectors / formats ---
     "SPDIF", "S/PDIF", "TOSLINK",
@@ -67,7 +67,7 @@ DEFAULT_IGNORED_WORDS = {
     "Lubaina", "Himid", "Yinka", "Shonibare",
 
     # --- Dance subject proper nouns and technical terms (added from report) ---
-    "Rygbi", "Annwyl", "Fearghus", "Conchúir", "ZooNation", "Avant", "Garde", "Chor", "Adigun", "Vardimon", "Xin", "Boyz", "Motionhouse", "ronde", "jambe", "ABACADA", "choreographics",
+    "Rygbi", "Annwyl", "Fearghus", "Conchúir", "Conchuir", "ZooNation", "Avant-Garde", "Chor", "Chór", "Adigun", "Vardimon", "Xin", "Boyz", "Motionhouse", "rond de jambe", "jambe", "ABACADA",
 
     # --- Other acronyms and subject-specific tokens ---
     "CWRE", "AOs", "SAMs", "SAM",
@@ -121,7 +121,7 @@ DEFAULT_IGNORED_WORDS = {
     "AoLE", "BAME",
 
     # --- Brands / product names used in documents ---
-    "GymShark", "McDonalds",
+    "GymShark", "McDonald's",
 
     # --- Service / platform tokens flagged but valid in docs ---
     "YouTube",
@@ -149,17 +149,17 @@ DEFAULT_IGNORED_WORDS = {
     #     nouns that should not be flagged as misspellings or style issues.
     # Art & design: artists, designers and common proper nouns
     "Gauguin", "Paul Gauguin", "Herbert Bayer", "Amy Sherald", "Bridget Riley", "Banksy",
-    "Salvador Dalí", "Salvador Dali", "Dali", "Paul Peter Piech",
+    "Salvador Dalí", "Dali", "Paul Peter Piech",
 
     # Layout / UI / design terms and variants
-    "Wayfinding", "mock-ups", "mockups", "mock ups",
-    "two-dimensional", "three-dimensional", "2-dimensional",
+    "Wayfinding", "mockups",
+    "two-dimensional", "three-dimensional",
 
     # Sport / disability sport terms seen in specs
     "Powerchair", "Powerchair Football",
 
     # Photography / film / animation terms seen in reports
-    "time-lapse", "rotoscoping", "tweening",
+    "time-lapse",
 
     # --- French words / common French tokens (flagged by MORFOLOGIK) ---
     "acheter", "adorer", "aimer", "allais", "avec", "bien", "Bienvenue", "célébrer",
@@ -188,10 +188,10 @@ DEFAULT_IGNORED_WORDS = {
     "Sirkka-Liisa",
 
     # --- Acronyms / abbreviations ---
-    "Aos", "JCQ", "TNCs", "mpl",
+    "Aos", "JCQ", "TNCs",
 
     # --- Technical / other terms ---
-    "creditworthy", "DeMorgan's", "microfinance", "nonexamination", "pseudocode", "Raspbian",
+    "creditworthy", "De Morgan's", "microfinance", "nonexamination", "pseudocode", "Raspbian",
     "Translanguage",
 
     # --- Drama: proper nouns (practitioners, writers, companies) ---
@@ -205,12 +205,12 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- Food-and-Nutrition ---
     "Yn", "yn", "bwyd", "Gymru", "arbennig", "ddefnyddiol", "eu", "ardystio", "gan", "ond", "efallai", "byd", "Bwyd", "barod", "ar", "Adnoddau", "Gwyddor", "Eatwell",
-    "wholewheat", "Wholewheat", "roux", "Shortcrust", "trialing", "zesting", "prereleased", "sucree", "griddling", "spatchcock", "deseeding", "chiffonade",
+    "wholewheat", "Wholewheat", "roux", "Shortcrust", "trialing", "zesting", "prereleased", "sucrée", "griddling", "spatchcock", "deseeding", "chiffonade",
 
     # --- English-Language-and-Literature ---
     "Alem", "Birling", "Iola", "Pinnock", "Meggarty", "Packham", "Conran", "Miquita", "Riz", "Atta", "Sissay", "Brumley", "Dharker", "Imtiaz", "Muffet", "Catrin", "Killay", "Miz", "Alys", "Taffia", "aloo", "parathas", "longlist", "coversheet", "PRUs",
 
     # --- Geography ---
-    "Borth", "Abermule", "Forden", "Berriew", "Twyni", "Rheidol", "Conwy", "Hina", "Blaenau", "Hafren", "Ystwyth", "Bannau", "Teleferico", "Ferrel", "Digimap",
+    "Borth", "Abermule", "Forden", "Berriew", "Twyni", "Rheidol", "Conwy", "Hina", "Blaenau", "Hafren", "Ystwyth", "Bannau", "Teleférico", "Ferrel", "Digimap",
     "LICs", "HICs", "Groynes", "OEBPS", "UNHDR", "isoline", "Throughflow", "skillset", "cumecs", "quadrats", "housebuilding",
 }
