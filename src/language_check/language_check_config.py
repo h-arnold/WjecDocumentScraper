@@ -168,6 +168,8 @@ DEFAULT_IGNORED_WORDS = {
     "le", "manger", "moins", "nager", "parler", "partager", "parisien", "préférer",
     "protéger", "pu", "puissant", "qu'", "que", "regarder", "répéter", "savoir", "se",
     "sûr", "tâche", "tien", "travailler", "visiter", "voyager",
+    # Additional French tokens requested to be ignored
+    "bain", "marie", "bain-marie", "patissière", "bâton", "brunoise",
 
     # --- Additional false-positives / capitalised French words requested by user ---
     # examples and commonly-flagged tokens (keeps both lower and capitalised forms where useful)
@@ -202,15 +204,17 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- History: people and places seen in reports ---
     "Glyndwr", "Gruffudd", "Süleyman", "Sonni", "Jahan", "Askia", "Temujin", "Tyerman", "Babur", "Hardrada", "Llywelyn", "Cnut", "Nur", "Gruffydd", "Turvey", "Culpin", "Hanmer", "Breverton", "Genghis", "Swayer", "Deheubarth", "Songhai", "Harlech", "Khwarazmian", "Tondibi",
+    # --- Additional historical / place names requested to be ignored ---
+    "Henrician", "Forkbeard", "Harthacnut", "Jorvik", "Hyddgen", "Mynydd", "Djenne", "Panipat", "Byrom", "Woff",
 
     # --- Food-and-Nutrition ---
     "Yn", "yn", "bwyd", "Gymru", "arbennig", "ddefnyddiol", "eu", "ardystio", "gan", "ond", "efallai", "byd", "Bwyd", "barod", "ar", "Adnoddau", "Gwyddor", "Eatwell",
-    "wholewheat", "Wholewheat", "roux", "Shortcrust", "trialing", "zesting", "prereleased", "sucrée", "griddling", "spatchcock", "deseeding", "chiffonade",
+    "wholewheat", "Wholewheat", "roux", "Shortcrust", "trialing", "zesting", "Zesting", "dextrinization", "prereleased", "sucrée", "griddling", "spatchcock", "deseeding", "chiffonade",
 
     # --- English-Language-and-Literature ---
     "Alem", "Birling", "Iola", "Pinnock", "Meggarty", "Packham", "Conran", "Miquita", "Riz", "Atta", "Sissay", "Brumley", "Dharker", "Imtiaz", "Muffet", "Catrin", "Killay", "Miz", "Alys", "Taffia", "aloo", "parathas", "longlist", "coversheet", "PRUs",
 
     # --- Geography ---
     "Borth", "Abermule", "Forden", "Berriew", "Twyni", "Rheidol", "Conwy", "Hina", "Blaenau", "Hafren", "Ystwyth", "Bannau", "Teleférico", "Ferrel", "Digimap",
-    "LICs", "HICs", "Groynes", "OEBPS", "UNHDR", "isoline", "Throughflow", "skillset", "cumecs", "quadrats", "housebuilding",
+    "LICs", "HICs", "Groynes", "OEBPS", "UNHDR", "isoline", "Throughflow", "skillset", "cumecs", "quadrats", "housebuilding", "socio-cultural", "skillfully", "Lasagne", "coginio",
 }
