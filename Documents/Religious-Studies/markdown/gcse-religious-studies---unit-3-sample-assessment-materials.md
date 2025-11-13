@@ -1,0 +1,1768 @@
+
+
+{0}------------------------------------------------
+
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_1.jpeg)
+
+# WJEC GCSE Religious Studies
+
+Approved by Qualifications Wales
+
+# Sample Assessment Materials
+
+Unit 3: Roles, rights and responsibilities
+
+Teaching from 2025
+
+For award from 2027
+
+![](_page_0_Picture_8.jpeg)
+
+Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
+
+Made for Wales.
+
+{1}------------------------------------------------
+
+![](_page_1_Picture_0.jpeg)
+
+{2}------------------------------------------------
+
+# Contents
+
+| Question paper | 1  |
+|----------------|----|
+| Mark scheme    | 35 |
+| Mapping grid   | 78 |
+
+![](_page_2_Picture_2.jpeg)
+
+#### **Copyright**
+
+© WJEC CBAC Limited 2025.
+
+{3}------------------------------------------------
+
+| Surname | Centre number | Candidate number |
+|---------------|------------------|---------------------|
+| First name(s) |                  | 0                   |
+
+![](_page_3_Picture_1.jpeg)
+
+# **GCSE**
+
+# **3150UG0-1 – 3150UM0-1**
+
+# **GCSE Religious Studies – Unit 3 Roles, rights and responsibilities**
+
+**Christianity and non-religious and philosophical beliefs**
+
+# 1 hour 15 minutes
+
+# **SAMPLE ASSESSMENT MATERIALS**
+
+#### **Instructions to candidates**
+
+Use black ink or black ball-point pen. Do **not** use gel pen or correction fluid.
+
+Write your name, centre number and candidate number in the spaces provided at the top of this page.
+
+Answer **all** questions.
+
+Write your answers in the spaces in this booklet. If you need more space, use the additional page(s) at the back of this booklet. Number the question(s) correctly.
+
+#### **Information for candidates**
+
+The number of marks is given in brackets at the end of each question or part-question.
+
+The total number of marks available is **60**.
+
+You should think carefully about how you use your time.
+
+Your responses must be clear, accurate and well presented.
+
+|          | For examiner's use only |                 |  |
+|----------|-------------------------|-----------------|--|
+| Question | Maximum mark | Mark awarded |  |
+| 1.       | 6                       |                 |  |
+| 2.       | 10                      |                 |  |
+| 3.       | 10                      |                 |  |
+| 4.       | 8                       |                 |  |
+| 5.       | 4                       |                 |  |
+| 6.       | 6                       |                 |  |
+| 7.       | 6                       |                 |  |
+| 8.       | 10                      |                 |  |
+| Total    | 60                      |                 |  |
+
+{4}------------------------------------------------
+
+# a - Christianity and non-religious perspectives
+
+Answer all questions.
+
+|    | Answer all questions.                                       |     |                |
+|----|-------------------------------------------------------------|-----|----------------|
+| 1. | Describe three Christian beliefs about what makes us human. | [6] | Examin only |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+|    |                                                             |     |                |
+
+{5}------------------------------------------------
+
+| abortion. |      |       |
+|-----------|------|-------|
+|  |  |  |
+|           |      |       |
+|           |      |       |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  | ····· |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|  |  |  |
+|           |      |       |
+|  |  |  |
+|           |      |       |
+
+{6}------------------------------------------------
+
+| Discuss this statement using conclusion. You must refer to the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the conclusion of the con | ng reasoned arguments and reach a justified to Christian beliefs and teachings in your answer. |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Johnston. Tou must refer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | to offistian beliefs and teachings in your answer.                                             |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                |
+
+{7}------------------------------------------------
+
+| Y |  |
+|---|--|
+|   |  |
+|   |  |
+
+{8}------------------------------------------------
+
+# **b** – Catholic Christianity and non-religious perspectives
+
+Answer all questions.
+
+|    | Answer an questions.                                       |     |                |
+|----|------------------------------------------------------------|-----|----------------|
+| 1. | Describe three Catholic beliefs about what makes us human. | [6] | Examin only |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+|    |                                                            |     |                |
+
+{9}------------------------------------------------
+
+| Explain Catholic beliefs and teachings and non-religious perspectives about abortion. | [1 |
+|---------------------------------------------------------------------------------------|----|
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+|                                                                                       |    |
+
+{10}------------------------------------------------
+
+| 3. | 'All Catholics believe that animals deserve the right to life.'                                                                                    | [10] |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|    | Discuss this statement using reasoned arguments and reach a justified conclusion. You must refer to Catholic beliefs and teachings in your answer. |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+|    |                                                                                                                                                    |      |
+
+{11}------------------------------------------------
+
+| freedom of religio | • |      |  |
+|--------------------|---|------|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|                    |   |      |  |
+|                    |   |      |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|                    |   |      |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | , |  |  |
+|                    |   |      |  |
+|                    |   |      |  |
+
+{12}------------------------------------------------
+
+# a – World religions – Buddhism
+
+|    | Answer <b>all</b> questions.                                |     |                |  |
+|----|-------------------------------------------------------------|-----|----------------|--|
+| 5. | Describe <b>two</b> Buddhist teachings about Buddha-nature. | [4] | Examir only |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+|    |                                                             |     |                |  |
+
+{13}------------------------------------------------
+
+| Explair | why Buddhists may treat the natural world with respect. | [6] | Examin only |
+|---------|---------------------------------------------------------|-----|----------------|
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+|         |                                                         |     |                |
+
+{14}------------------------------------------------
+
+| 7. | Explain how Buddhists may be influenced by Buddhist teachings on freedom of religious expression. | [6] | Examiner only |
+|----|---------------------------------------------------------------------------------------------------|-----|------------------|
+|    |                                                                                                   |     | l                |
+|    |                                                                                                   |     | l                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | l                |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | l                |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | l                |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     | İ                |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     | 1                |
+|    |                                                                                                   |     | İ                |
+
+{15}------------------------------------------------
+
+| 8. | Analyse and evaluate Buddhist beliefs and teachings on the use of personal wealth. | [10] |
+|----|------------------------------------------------------------------------------------|------|
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+|    |                                                                                    |      |
+
+{16}------------------------------------------------
+
+| Question number | Additional page, if required. Write the question number(s) in the left-hand margin. |
+|-----------------|-------------------------------------------------------------------------------------|
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+
+{17}------------------------------------------------
+
+# b – World religions – Hinduism
+
+| Answer all questions. |                                               |     |               |
+|-----------------------|-----------------------------------------------|-----|---------------|
+| 5.                    | Describe two Hindu teachings about the Gunas. | [4] | Examiner only |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+|                       |                                               |     |               |
+
+{18}------------------------------------------------
+
+| 6. | Explain why Hindus may treat the natural world with respect. | [6] | Examiner only |
+|----|--------------------------------------------------------------|-----|---------------|
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+|    |                                                              |     |               |
+
+{19}------------------------------------------------
+
+| <b>7.</b> | Explain how Hindus may be influenced by beliefs about freedom of religious expression. | [6] | Examiner only |
+|-----------|----------------------------------------------------------------------------------------|-----|------------------|
+|           |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+| •         |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+| •         |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+| •         |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+|           |                                                                                        |     |                  |
+
+{20}------------------------------------------------
+
+| Analyse and evaluate Hindu beliefs and teachings on the use of personal wealth. |  |
+|---------------------------------------------------------------------------------|--|
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+|                                                                                 |  |
+
+{21}------------------------------------------------
+
+| Question number | Additional page, if required. Write the question number(s) in the left-hand margin. |
+|--------------------|-------------------------------------------------------------------------------------|
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+
+{22}------------------------------------------------
+
+# c - World religions - Islam
+
+|    | Answer all questions.                                          |     |                |
+|----|----------------------------------------------------------------|-----|----------------|
+| 5. | Describe <b>two</b> Islamic beliefs about what makes us human. | [4] | Examin only |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+|    |                                                                |     |                |
+
+{23}------------------------------------------------
+
+| Explain why Muslims should treat the natural world with respect. | [6] |
+|------------------------------------------------------------------|-----|
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+|                                                                  |     |
+
+{24}------------------------------------------------
+
+| . 1 | Explain how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression. | [6] | Exami only |
+|-----|------------------------------------------------------------------------------------------------------------|-----|---------------|
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+| •   |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+|     |                                                                                                            |     |               |
+
+{25}------------------------------------------------
+
+| Ana   | lyse and evaluate Muslim beliefs and teachings on the use of personal wealth. |
+|-------|-------------------------------------------------------------------------------|
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+| ••••• |                                                                               |
+| ••••  |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+|       |                                                                               |
+
+{26}------------------------------------------------
+
+| Question number | Additional page, if required. Write the question number(s) in the left-hand margin. |
+|-----------------|-------------------------------------------------------------------------------------|
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+
+{27}------------------------------------------------
+
+# d – World religions – Judaism
+
+|    | Answer all questions.                                |     |                |
+|----|------------------------------------------------------|-----|----------------|
+| 5. | Describe <b>two</b> Jewish teachings about abortion. | [4] | Examin only |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+|    |                                                      |     |                |
+
+{28}------------------------------------------------
+
+| 6. | Demonstrate how Jews observe Tu B'Shevat to celebrate the renewal of nature. | [6] | Examiner only |
+|----|------------------------------------------------------------------------------|-----|------------------|
+|    |                                                                              | ļ   |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+|    |                                                                              |     |                  |
+
+{29}------------------------------------------------
+
+| explain how, according to Judaism, being created in the image of God gives umans dignity. | [6] |
+|-------------------------------------------------------------------------------------------|-----|
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+|                                                                                           |     |
+
+{30}------------------------------------------------
+
+| 8. | Analyse and evaluate Jewish beliefs and teachings about the use of personal wealth. | [10] |
+|----|-------------------------------------------------------------------------------------|------|
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+|    |                                                                                     |      |
+
+{31}------------------------------------------------
+
+| Question number | Additional page, if required. Write the question number(s) in the left-hand margin. |
+|--------------------|-------------------------------------------------------------------------------------|
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+|                    |                                                                                     |
+
+{32}------------------------------------------------
+
+# e - World religions - Sikhism
+
+Answer all questions.
+
+| Describe <b>two</b> examples when a Sikh guru fought for freedom of religious expression. | [4] | Examine only |
+|-------------------------------------------------------------------------------------------|-----|--------------|
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+|                                                                                           |     |              |
+
+{33}------------------------------------------------
+
+| 6. | Demonstrate how the work of Eco Sikh UK reflects Sikh beliefs about caring for the natural world. | [6] | Examiner only |
+|----|---------------------------------------------------------------------------------------------------|-----|------------------|
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+|    |                                                                                                   |     |                  |
+
+{34}------------------------------------------------
+
+| 7. | Explain Sikh perspectives about the use of animals for medical research. | [6] | Examiner only |
+|----|--------------------------------------------------------------------------|-----|---------------|
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+|    |                                                                          |     |               |
+
+{35}------------------------------------------------
+
+| Allaly | se and evaluate Sikh beliefs and teachings about abortion. |
+|--------|------------------------------------------------------------|
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+| .,     |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+|        |                                                            |
+
+{36}------------------------------------------------
+
+| Question number | Additional page, if required. Write the question number(s) in the left-hand margin. |
+|-----------------|-------------------------------------------------------------------------------------|
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+| 4               |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+|                 |                                                                                     |
+
+{37}------------------------------------------------
+
+#### **MARK SCHEME**
+
+#### **Guidance for examiners**
+
+#### **Generic marking principles**
+
+- Marks awarded are always whole marks (not half marks, or other fractions).
+- Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited according to the quality of the candidate responses seen).
+- Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in mind.
+
+# **Positive marking**
+
+It should be remembered that candidates are writing under examination conditions and credit should be given for what the candidate writes, rather than adopting the approach of penalising candidates for any omissions. It should be possible for a very good response to achieve full marks and a very poor one to achieve zero marks. Marks should not be deducted for a less than perfect answer if it satisfies the criteria of the mark scheme.
+
+For questions that are objective or points-based, the mark scheme should be applied precisely. Marks should be awarded as indicated and no further subdivision made.
+
+Mark schemes often list points which may be included in candidates' answers. The list is not exhaustive. The inclusion of *'Credit any other valid response.*' (or similar instruction) within mark schemes allows for the possible variation in candidates' responses. Credit should be given according to the accuracy and relevance of candidates' answers.
+
+Appropriate terminology is reflected in exemplar responses in mark schemes. However, unless there is a specific requirement within a question, candidates may be awarded marks where the answer is accurate but expressed in their own words.
+
+#### **Banded mark schemes**
+
+For band marked questions mark schemes are in two parts; the indicative content and the assessment grid.
+
+The indicative content suggests the range of points and issues which may be included in candidates' answers. It can be used to assess the quality of the candidate's response. As noted above, indicative content is not intended to be exhaustive and candidates do not have to include all the indicative content to reach the highest level of the mark scheme.
+
+However, to reach the highest level of the mark scheme a candidate must meet the requirements of the highest mark band. Where a response is not creditworthy, that is, it contains nothing of any significance to the mark scheme, or where no response has been provided, no marks should be awarded.
+
+{38}------------------------------------------------
+
+The marking of banded mark questions should always be positive. This means that, for each candidate's response, marks are accumulated for the demonstration of relevant skills, knowledge and understanding: they are not deducted from a maximum on the basis of errors or omissions.
+
+#### **Stage 1 – Deciding on the band**
+
+Beginning at the lowest band, examiners should look at the candidate's answer and check whether it matches the descriptors for that band. If the descriptors at the lowest band are satisfied, examiners should move up to the next band and repeat this process for each band until the descriptor most closely matches the work.
+
+# **Stage 2 – Deciding on the mark**
+
+Having determined the appropriate band, deciding on the mark within a band will be made on the basis of a 'best fit' procedure, weaknesses in some areas being compensated for by strengths in others.
+
+Examiners should use the full range of marks available to them. Marking should be positive, rewarding achievement rather that penalising failure or omissions. The awarding of marks must be directly related to the marking criteria, and all responses must be marked according to the banded levels provided for each question.
+
+Standardising material that has already been awarded a mark will be provided during standardising and this should be used as a reference material when assessing work. Examiners are reminded of the need to revisit the standardising material as they apply the mark scheme in order to confirm that the band and the mark allocated is appropriate to the work submitted.
+
+This mark scheme instructs examiners to look for and reward valid alternatives where indicative content is suggested for an answer. This is not a checklist for expected content in an answer, or set out as a 'model answer', as responses must be marked in the banded levels of response provided for each question. Where a candidate provides a response that contains aspects or approaches not included in the indicative content, examiners should use their professional judgement to determine the validity of the response in light of the task and reward as directed by the bands. Candidates are free to choose any approach that is relevant to the set task. Candidates can (and will most likely) incorporate ideas other than those mentioned in the mark scheme.
+
+{39}------------------------------------------------
+
+#### **a – Christianity and non-religious perspectives**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 1. | Describe three Christian beliefs about what makes us human. |  |  |  |  |
+|          | Answers may refer to the following:                                                                                                                                                                                                | 6   |     |     | 6             |
+|  | Award one mark for each basic description of Christian beliefs about what makes us human, up to a maximum of six marks. |  |  |  |  |
+|  | A basic description could include one of the following: |  |  |  |  |
+|  | <ul><li>Humans are created in God's image</li><li>Humans have a soul that connects to God</li><li>Humans have a spiritual dimension</li></ul> |  |  |  |  |
+|  | Award two marks for each developed description of Christian beliefs about what makes us human, up to a maximum of six marks. |  |  |  |  |
+|  | A developed description could include one of the following: |  |  |  |  |
+|  | <ul><li>Humans possess autonomy and free will (Genesis 3) meaning they can make good and bad decisions and are responsible for their actions</li></ul> |  |  |  |  |
+|  | <ul><li>Humans have moral awareness and responsibility (Romans 2:14-15) meaning they have the capacity to understand the rightness and wrongness of their actions</li></ul> |  |  |  |  |
+|  | <ul><li>Humans fall into sin but are able to be redeemed through belief in Jesus (Genesis 3, John 3:16). All humans could be seen to be born with Original Sin but are able to be saved because Jesus died for human sin.</li></ul> |  |  |  |  |
+|          | Credit any other valid response.                                                                                                                                                                                                   |     |     |     |               |
+
+{40}------------------------------------------------
+
+| Question | Answer                                                                                       |
+|----------|----------------------------------------------------------------------------------------------|
+| 2. | Explain Christian beliefs and teachings and non-religious perspectives about abortion. |
+
+#### Answers may refer to the following:
+
+- Christians vary considerably in their perspectives towards abortion
+- Many Christians believe that life begins at conception and immediately the embryo is a fully human person that should not be harmed
+- Christians believe that humans are created by God, in his image and, therefore, all human life is sacred regardless of the stage of life it is at (Genesis 1:26)
+- Many Christians argue that the commandment 'Do not kill' applies to all human life (Exodus 20:13)
+- Christians believe that God has a plan for each human life and that abortion destroys this plan (Jeremaih 1:5)
+- Many Christians support adoption as an alternative to abortion because life will not be lost
+- Many Christians are concerned about a 'slippery slope' where abortion is so widely accepted that it becomes a method of contraception
+- Some Christians argue that an embryo is not a fully human person until birth and might allow abortion in certain circumstances
+- Some Christians would accept the need for abortion in situations where the mother's life it at risk or in cases of rape or incest
+- Some Christians would accept the need for abortion if the foetus had severe abnormalities and was likely to be born disabled
+- People who hold non-religious beliefs differ considerably in their perspectives towards abortion. Many are pro-choice, but some are pro-life
+- Many would argue that an embryo is not a fully human person until birth
+- Some argue that the woman should have complete autonomy over her body and that abortion should be free, legal and widely available
+- Many argue that abortion should be available to protect women's health
+- Many value quality of life as they do not believe in sanctity of life. They would consider the longerterm consequences of having an abortion on the mother and the child
+- Some might also be concerned about a 'slippery slope' where abortion is used too freely
+- Adoption may be considered an alternative to abortion, offering infertile individuals or couples the opportunity to become parents while improving the child's life and creating a loving family environment.
+
+{41}------------------------------------------------
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                                                          |  |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 5 | 9-10 marks <ul><li>excellent application of knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about abortion</li><li>response comprehensively and effectively explains Christian beliefs and teachings and non-religious perspectives towards abortion using detailed, relevant examples</li></ul> |  |
+| 4 | 7-8 marks <ul><li>good application of knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about abortion</li><li>response comprehensively explains Christian beliefs and teachings and non religious perspectives towards abortion using relevant examples</li></ul> |  |
+| 3 | 5-6 marks <ul><li>satisfactory application of knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about abortion</li><li>response adequately explains Christian beliefs and teachings and non-religious perspectives towards abortion using relevant examples</li></ul> |  |
+| 2 | 3-4 marks <ul><li>basic application of knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about abortion</li><li>response superficially explains Christian beliefs and teachings and non-religious perspectives towards abortion using examples</li></ul> |  |
+| 1 | 1-2 marks <ul><li>limited application of knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about abortion</li><li>response loosely explains Christian beliefs and teachings and non-religious perspectives towards abortion</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{42}------------------------------------------------
+
+| Question | Answer                                                                                                                                                       |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3.       | 'All Christians believe that animals deserve the right to life.'                                                                                             |
+|  | Discuss this statement using reasoned arguments and reach a justified conclusion. You must refer to Christian beliefs and teachings in your answer. |
+
+Answers may refer to the following:
+
+- Many Christians would say animals do deserve the same right to life as people because they were also created by God (Genesis 1:31)
+- The Book of Genesis instructs humankind to be stewards over all creation, including the animals, and some believe this gives animals the right to life
+- The Bible instructs humankind to be compassionate to animals (Proverbs 12:10) but some Christians would argue that this does not necessarily mean they have the right to life
+- Some Christian denominations would argue that, as sentient beings, animals have the same rights as people
+- Some Christians are vegetarian or vegan because they believe that animals have the same right to life as people
+- Many Christians would argue that animals don't deserve the same rights as people because they do not have souls or moral reasoning
+- The Book of Genesis instructs humankind to have dominion over the natural world (Genesis 1:26-28), so some Christians would say that humans have the right to kill animals for the benefit of humankind
+- Christians believe that animals were created by God and he declared all creation 'very good' (Genesis 1:31), so for some Christians this justifies their view that animals have the same right to life as people
+- Many Christians would use certain Bible teachings to justify their belief that animals do not have the same right to life as people and that humans are more valuable, **'**Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care. And even the very hairs of your head are all numbered. So don't be afraid; you are worth more than many sparrows.' (Matthew 10:29-31).
+
+{43}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 5 | 9-10 marks <ul><li>an excellent discussion of the statement based on excellent knowledge and understanding of Christian beliefs and teachings about animals' right to life</li><li>response comprehensively and effectively examines views about animals' right to life in a well-structured way using reasoned arguments</li><li>an excellent conclusion is comprehensively and effectively justified by relevant examples</li></ul> |  |
+| 4 | 7-8 marks <ul><li>a good discussion of the statement based on good knowledge and understanding of Christian beliefs and teachings about animals' right to life</li><li>response comprehensively examines views about animals' right to life in a structured way using reasoned arguments</li><li>a good conclusion is comprehensively justified by relevant examples</li></ul> |  |
+| 3 | 5-6 marks <ul><li>a satisfactory discussion of the statement based on satisfactory knowledge and understanding of Christian beliefs and teachings about animals' right to life</li><li>response adequately examines views about animals' right to life using basic arguments</li><li>a satisfactory conclusion is adequately justified by examples</li></ul> |  |
+| 2 | 3-4 marks <ul><li>a basic discussion of the statement based on basic knowledge and understanding of Christian beliefs and teachings about animals' right to life</li><li>response superficially examines views about animals' right to life</li><li>a basic conclusion is superficially justified</li></ul> |  |
+| 1 | 1-2 marks <ul><li>a limited discussion of the statement based on limited knowledge and understanding of Christian beliefs and teachings about animals' right to life</li><li>response loosely examines views about animals' right to life</li><li>a limited conclusion is reached</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{44}------------------------------------------------
+
+| Question | Answer                                                                                                                 |
+|----------|------------------------------------------------------------------------------------------------------------------------|
+| 4. | Discuss Christian beliefs and teachings and non-religious perspectives about freedom of religious expression. |
+
+Answers may refer to the following:
+
+- The Christian Bible instructs Christians to share their faith with others (Matthew 28:19-20), so Christians believe in the importance of freedom of religious expression
+- Many Christians believe it is a duty from God to share the Christian faith
+- Historically, Christianity was a missionary religion that tried to convert people through the Missionary Society, so many Christians would argue that freedom of religious expression is fundamental to their faith
+- Christians have been persecuted throughout history and many believe it is important to challenge those who would prevent them from expressing their beliefs
+- In many places in the world today, Christians are oppressed and persecuted, so many Christians believe it is important to stand up for their right to express their beliefs
+- Many Christians believe it is important to nurture faith through denominational schools that promote faith
+- Many Christians believe it is important for people of all faiths to be able to express their beliefs
+- Many Christians believe that inter-faith dialogue is important where people of all faiths can express themselves
+- People who hold non-religious beliefs might suggest that religious expression promotes individual autonomy and dignity
+- Many would argue that expressing religious belief is a fundamental human right
+- Many argue that expressing religious belief should be limited where it conflicts with civil laws, for example prohibiting forced marriage in the UK
+- Many support a pluralistic society but would oppose proselytization preventing religious believers from sharing their views forcefully
+- Many support a clear separation between religion and the government opposing compulsory religious education in schools as they feel this is almost a form of indoctrination
+- Many argue that denominational (faith) schools are divisive and exclusive and should be prohibited as the view taught will be biased
+- Many would restrict religious symbols or actions in public spaces arguing religion should be a private rather than public affair and that people should be able to choose whether they see such symbols or not
+
+{45}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |  |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 4 | 7-8 marks <ul><li>an excellent discussion based on detailed knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response comprehensively and effectively examines different views in a well structured way 5-6 marks</li><li>a good discussion based on good knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response comprehensively examines different views in a structured way 3-4 marks</li><li>a satisfactory discussion based on satisfactory knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response adequately examines different views in a structured way 1-2 marks</li><li>a basic discussion based on basic knowledge and understanding of Christian beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response superficially examines different views 0 marks Response not creditworthy or not attempted.</li></ul> |  |
+| 3    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
+| 2    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
+| 1    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
+| 0    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
+
+{46}------------------------------------------------
+
+#### **b – Catholic Christianity and non-religious perspectives**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 1. | Describe three Catholic beliefs about what makes us human. |  |  |  |  |
+|          | Answers may refer to the following:                                                                                                                                                                                                                                                                                                                                                                                                                                 | 6   |     |     | 6             |
+|  | Award one mark for each basic description of Catholic beliefs about what makes us human, up to a maximum of six marks. |  |  |  |  |
+|  | A basic description could include one of the following: |  |  |  |  |
+|  | <ul><li>Humans are created in God's image</li><li>Humans have a soul that connects them to God</li><li>Humans have a spiritual dimension</li></ul> |  |  |  |  |
+|  | Award two marks for each developed description of Catholic beliefs about what makes us human, up to a maximum of six marks. |  |  |  |  |
+|  | A developed description could include one of the following: |  |  |  |  |
+|  | <ul><li>Humans possess autonomy and free will meaning they can make good and bad decisions and are responsible for their actions</li><li>Humans have moral awareness and responsibility meaning they have the capacity to understand the rightness and wrongness of their actions</li><li>All humans commit sins but are able to gain redemption and be restored to a right relationship with God through belief in the saving sacrifice of Jesus</li></ul> |  |  |  |  |
+|          | Credit any other valid response.                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |     |     |               |
+
+{47}------------------------------------------------
+
+| Question | Answer                                                                                |
+|----------|---------------------------------------------------------------------------------------|
+| 2.       | Explain Catholic beliefs and teachings and non-religious perspectives about abortion. |
+
+#### Answers may refer to the following:
+
+- Catholics believe that human life begins at conception and the embryo is considered a human person from this moment. It has inherent dignity and worth and should be protected
+- Catholics believe that abortion is a grave moral wrong, as stated by Pope John Paul II in Evangelium Vitae
+- All humans are created by God, in his image, and therefore all human life is sacred from the moment of conception (Genesis 1:26)
+- The Catechism of the Catholic Church states that life is a fundamental human right from conception to natural death
+- Abortion is the taking of an innocent life. This is forbidden in the Ten Commandments (Exodus 20:13)
+- Catholics believe that God has a plan for each human life and that abortion destroys this plan (Jeremiah 1:5)
+- Many Catholics support adoption as an alternative to abortions so that life is saved
+- The Doctrine of Double Effect allows procedures that may also lead to abortion, but only under very specific circumstances. This allows the unintentional termination of the foetus as a consequence of attempting to save the mother's life
+- People who hold non-religious beliefs differ considerably in their perspectives towards abortion. Many are pro-choice, but some are pro-life
+- Many would argue that an embryo is not a fully human person until birth.
+- Some argue that the woman should have complete autonomy over her body and that abortion should be free, legal and widely available
+- Many would argue that abortion should be available to protect women's health
+- Many value quality of life as they do not believe in sanctity of life. They would consider the longer-term consequences of having an abortion on the mother
+- Some might also be concerned about a 'slippery slope' where abortion is used too freely
+- adoption may be considered an alternative to abortion, offering infertile individuals or couples the opportunity to become parents while improving the child's life and creating a loving family environment
+
+{48}------------------------------------------------
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                                                   |  |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 5 | 9-10 marks <ul><li>excellent application of knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about abortion</li><li>response comprehensively and effectively explains Catholic beliefs and teachings and non-religious perspectives about abortion using detailed, relevant examples</li></ul> |  |
+| 4 | 7-8 marks <ul><li>good application of knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about abortion</li><li>response comprehensively explains Catholic beliefs and teachings and non religious perspectives about abortion using relevant examples</li></ul> |  |
+| 3 | 5-6 marks <ul><li>satisfactory application of knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about abortion</li><li>response adequately explains Catholic beliefs and teachings and non-religious perspectives about abortion using relevant examples</li></ul> |  |
+| 2 | 3-4 marks <ul><li>basic application of knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about abortion</li><li>response superficially explains Catholic beliefs and teachings and non-religious perspectives about abortion using examples</li></ul> |  |
+| 1 | 1-2 marks <ul><li>limited application of knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about abortion</li><li>response loosely explains Catholic beliefs and teachings and non-religious perspectives about abortion</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{49}------------------------------------------------
+
+| Question | Answer                                                                                                                                                         |  |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3.       | 'All Catholics believe that animals deserve the right to life.'                                                                                                |  |
+|  | Discuss this statement using reasoned arguments and reach a justified conclusion. You must refer to Catholic beliefs and teachings in your answer. |  |
+
+Answers may refer to the following:
+
+- Many Catholics would suggest that animals do deserve the right to life as they were created by God in Genesis 1:31
+- In the Book of Genesis, God declares all of creation including animals 'very good'. Therefore, animals may deserve the right to life
+- Some Catholics would suggest that animals deserve the right to life because, in the Book of Genesis, humans were given the role of stewardship, which includes the care of animals
+- The Bible instructs humans to be compassionate to animals (Proverbs 12:10) but some Catholics would suggest that this does not necessarily mean they have the right to life
+- Many Catholics would suggest that animals were given to humans for food (Genesis 9:3)
+- Many Christians would argue that animals don't deserve the same rights as people because they do not have souls, free will or moral reasoning
+- The Book of Genesis instructs humankind to have dominion over the natural world (Genesis 1:26-28), so some Catholics would say that humans have the right to kill animals for the benefit of humankind
+- Many Catholics would want to balance the use of animals to benefit humankind with the need to avoid unnecessary harm. The Catechism of the Catholic Church (CCC 2418) states 'it is contrary to human dignity to cause animals to suffer or die needlessly.'
+- Many Catholics would use certain Bible teachings to justify their belief that animals do not have the same right to life as people and that humans are more valuable, 'Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care. And even the very hairs of your head are all numbered. So don't be afraid; you are worth more than many sparrows.' (Matthew 10:29-31).
+
+{50}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                                                                                                                          |  |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 5 | 9-10 marks <ul><li>an excellent discussion of the statement based on excellent knowledge and understanding of Catholic beliefs and teachings about animals' right to life</li><li>response comprehensively and effectively examines views about animals' right to life in a well-structured way using reasoned arguments</li><li>an excellent conclusion is comprehensively and effectively justified by relevant examples</li></ul> |  |
+| 4 | 7-8 marks <ul><li>a good discussion of the statement based on good knowledge and understanding of Catholic beliefs and teachings about animals' right to life</li><li>response comprehensively examines views about animals' right to life in a structured way using reasoned arguments</li><li>a good conclusion is comprehensively justified by relevant examples</li></ul> |  |
+| 3 | 5-6 marks <ul><li>a satisfactory discussion of the statement based on satisfactory knowledge and understanding of Catholic beliefs and teachings about animals' right to life</li><li>response adequately examines views about animals' right to life using basic arguments</li><li>a satisfactory conclusion is adequately justified by examples</li></ul> |  |
+| 2 | 3-4 marks <ul><li>a basic discussion of the statement based on basic knowledge and understanding of Catholic beliefs and teachings about animals' right to life</li><li>response superficially examines views about animals' right to life</li><li>a basic conclusion is superficially justified</li></ul> |  |
+| 1 | 1-2 marks <ul><li>a limited discussion of the statement based on limited knowledge and understanding of Catholic beliefs and teachings about animals' right to life</li><li>response loosely examines views about animals' right to life</li><li>a limited conclusion is reached</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{51}------------------------------------------------
+
+| Question | Answer                                                                                                             |
+|----------|--------------------------------------------------------------------------------------------------------------------|
+| 4. | Discuss Catholic beliefs and teachings and non-religious perspectives about freedom of religious expression. |
+
+# Answers may refer to the following:
+
+- Catholics believe it is important to express their faith to others because of the Great Commission in Matthew's Gospel, this is Jesus' instruction to share faith with others (Matthew 28:19-20)
+- Catholics believe that God has given humanity free will and so they are free to share their faith with others if they choose to
+- Catholics are instructed to evangelise by Pope Francis in Evangelii Gaudium (15, 48-49, 197-198, 264-265)
+- Catholics have been persecuted throughout history and many believe it is important to challenge those who would prevent them from expressing their beliefs
+- In many places in the world, Christians are oppressed and persecuted, so many Catholics believe it is important to stand up for their right to express their beliefs
+- Many Catholics believe it is important to nurture faith through denominational schools that promote and share faith
+- Many Catholics believe it is important for people of all faiths to be able to express their beliefs. Matthew 7:12 states "So in everything, do to others what you would have them do to you." This implies that if Catholics want the right to religious expression then the same right should apply to people other faiths
+- Many Catholics believe that interfaith dialogue is essential in allowing people of all faiths to express themselves
+- People who hold non-religious beliefs might suggest that religious expression promotes individual autonomy and dignity
+- Many would argue that expressing religious belief is a fundamental human right
+- Many argue that expressing religious belief should be limited where it conflicts with civil laws for example prohibiting forced marriage in the UK
+- Many support a pluralistic society but would oppose proselytization preventing religious believers from sharing their views forcefully
+- Many support a clear separation between religion and the government opposing compulsory religious education in schools as they feel this is almost a form of indoctrination.
+- Many argue that denominational (faith) schools are divisive and exclusive and should be prohibited as the view taught will be biased.
+- Many would restrict religious symbols or actions in public spaces arguing religion should be a private rather than public affair and that people should be able to choose whether they see such symbols or not.
+
+{52}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                     |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 | 7-8 marks <ul><li>an excellent discussion based on detailed knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response comprehensively and effectively examines different perspectives in a well-structured way</li></ul> |
+| 3 | 5-6 marks <ul><li>a good discussion based on good knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response comprehensively examines different perspectives in a structured way</li></ul> |
+| 2 | 3-4 marks <ul><li>a satisfactory discussion based on satisfactory knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response adequately examines different perspectives in a structured way</li></ul> |
+| 1 | 1-2 marks <ul><li>a basic discussion based on basic knowledge and understanding of Catholic beliefs and teachings and non-religious perspectives about freedom of religious expression</li><li>response superficially examines different perspectives</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{53}------------------------------------------------
+
+#### **a – World religions – Buddhism**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 5. | Describe two Buddhist teachings about Buddha-nature. |  |  |  |  |
+|  | Award one mark for each basic description of Buddhist teachings about Buddha-nature, up to a maximum of four marks. | 4 |  |  | 4 |
+|  | A basic description could include one of the following: |  |  |  |  |
+|  | <ul><li>All have the potential to achieve Nirvana (enlightenment)</li></ul> |  |  |  |  |
+|  | <ul><li>The state of enlightenment achieved by a Buddha</li><li>The state of enlightenment achieved by an arhat</li></ul> |  |  |  |  |
+|  | Award two marks for each developed description of Buddhist teachings about Buddha-nature, up to a maximum of four marks. |  |  |  |  |
+|  | A developed description could include one of the following: |  |  |  |  |
+|  | <ul><li>The ability to recognise the true nature of reality as the Three Marks of Existence; anicca, anatta and dukkha</li></ul> |  |  |  |  |
+|  | <ul><li>The ability to seek Nirvana through The Three Jewels; Buddha (Siddhartha Gautama), Dharma (Buddha's teachings) and Sangha (the community)</li></ul> |  |  |  |  |
+|  | <ul><li>Since all beings possess Buddha-nature, Mahayana Buddhism encourages universal compassion and respect. If all beings are potential Buddhas, it becomes essential to treat each person with dignity.</li></ul> |  |  |  |  |
+|          | Credit any other valid response.                                                                                                                                                                                  |     |     |     |               |
+
+{54}------------------------------------------------
+
+| Question | Answer                                                             |
+|----------|--------------------------------------------------------------------|
+| 6. | Explain why Buddhists may treat the natural world with respect. |
+
+# Answers may refer to the following:
+
+- All living things are inter-related (pratityasamutpada), this means that harming the environment ultimately harms all beings, including ourselves, since we are deeply interconnected with nature
+- The concept of karma teaches that positive actions towards the natural world result in positive karma, for example a Buddhist may believe that planting trees would gain good karma
+- The concept of Right Action in the Eightfold Path teaches Buddhists to avoid harming the environment, for example by not polluting
+- The second of the Five Precepts, warns against taking what is not freely given, Buddhists may endeavour to treat the world in a sustainable way
+- Zen and Tibetan Buddhism teach a general reverence for all forms of life as part of a wider respect for the environment. For example, monks often practise non-harming principles (ahimsa) that discourage unnecessary destruction of plants, trees, or ecosystems
+- Karuna encourages care for all sentient beings. Although plants and ecosystems are not sentient, destroying nature harms countless animals, humans and future generations.
+
+| Band | AO2                                                                                                                                                                                                                                                      |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains why Buddhists may treat the natural world with respect</li><li>uses detailed, relevant examples of why Buddhists may treat the natural world with respect</li></ul> |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains why Buddhists may treat the natural world with respect</li><li>uses relevant examples of why Buddhists may treat the natural world with respect</li></ul> |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains why Buddhists may treat the natural world with respect</li><li>uses examples of why Buddhists may treat the natural world with respect</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{55}------------------------------------------------
+
+| Question | Answer                                                                                                  |
+|----------|---------------------------------------------------------------------------------------------------------|
+| 7. | Explain how Buddhists may be influenced by Buddhist teachings on freedom of religious expression. |
+
+Answers may refer to the following:
+
+- Buddhists believe that words are very powerful and must be used skilfully in a way that gains positive karma, for example by ensuring that freedom of expression is used sensitively, causing no harm
+- Right Speech encourages telling the truth, so Buddhists would speak about their truths (dharma), encouraging freedom of religious expression
+- Right Speech discourages trying to undermine other people's right to religious expression by saying offensive or cruel words, or by lying or exaggerating
+- Right Speech can also mean knowing when to be silent which may allow others the freedom to express their religious views
+- Right Action encourages peaceful conduct and an awareness of others, so Buddhists would be tolerant and respectful of other people's rights to express their beliefs
+- The principle of karuna teaches Buddhists to guard against using freedom of religious expression unskilfully, for example Buddhists would not share their beliefs forcefully
+- The principle of metta teaches Buddhists to show loving-kindness to others, discouraging them from using freedom of religious expression unwisely.
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                                      |  |  |  |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li><li>uses detailed, relevant examples of how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li></ul> |  |  |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li><li>uses relevant examples of how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li></ul> |  |  |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li><li>uses examples of how Buddhists may be influenced by Buddhist teachings on freedom of religious expression</li></ul> |  |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |  |
+
+{56}------------------------------------------------
+
+| Question | Answer                                                                             |
+|----------|------------------------------------------------------------------------------------|
+| 8.       | Analyse and evaluate Buddhist beliefs and teachings on the use of personal wealth. |
+
+Answers may refer to the following:
+
+- Buddhists do not think that wealth is necessarily a bad thing, the Buddha himself lived a life of luxury in his father's palace until he was an adult
+- When the Buddha became an ascetic, he realised that extreme poverty and austerity did not lead to enlightenment
+- Many Buddhists would argue that a certain amount of money is necessary to provide basic needs and enhance quality of life
+- The Buddha taught The Middle Way between the extremes of wealth and poverty. Buddhists may say that poverty causes suffering, misery, crime, violence and immorality, so having some money is a good thing (Anguttara Nikaya 4.62)
+- Buddhists believe that it is the attachment to material wealth (tanha) that causes dukkha (dissatisfaction), not wealth itself. If wealth and material possessions become a person's entire focus, they have a deluded sense of reality
+- Another line of argument might be that the Buddhist Four Noble Truths are too harsh because they contradict the way our society works. Many Buddhists believe it is very difficult to avoid feeling that you should aspire to be wealthy and that wealth will lead to happiness
+- Rather than holding the Buddhist view about anicca, that great wealth is meaningless because, like all things it is temporary, impermanence might actually encourage people to want to gain wealth before they become old and can't work anymore
+- Buddhist monks and nuns have no possessions and do not handle money. In this way they avoid attachment and can focus on spirituality. They rely on the generosity (dana) of the community (sangha) to provide them with the essentials
+- Many Buddhists would agree that money should not be obtained through immoral or illegal means e.g. through crime. However, some would question what 'immoral' means. For example, would making money by selling alcohol be considered immoral? People have different views on 'immorality'
+- Buddhism teaches that money should be used for the welfare of others (Anguttara Nikaya 1.80)
+- Many Buddhists may agree that money does not bring happiness or satisfaction, because other things such as health and relationships are much more important.
+
+{57}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                                   |  |  |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+| 5 | 9-10 marks <ul><li>excellent analysis and evaluation based on detailed knowledge and understanding of Buddhist beliefs and teachings on the use of personal wealth</li><li>comprehensively and effectively analyses and evaluates Buddhist beliefs and teachings on the use of personal wealth using detailed, relevant examples</li></ul> |  |  |
+| 4 | 7-8 marks <ul><li>good analysis and evaluation based on good knowledge and understanding of Buddhist beliefs and teachings on the use of personal wealth</li><li>comprehensively analyses and evaluates Buddhist beliefs and teachings on the use of personal wealth using relevant examples</li></ul> |  |  |
+| 3 | 5-6 marks <ul><li>satisfactory analysis and evaluation based on satisfactory knowledge and understanding of Buddhist beliefs and teachings on the use of personal wealth</li><li>adequately analyses and evaluates Buddhist beliefs and teachings on the use of personal wealth using examples</li></ul> |  |  |
+| 2 | 3-4 marks <ul><li>basic analysis and evaluation based on basic knowledge and understanding of Buddhist beliefs and teachings on the use of personal wealth</li><li>superficially analyses and evaluates Buddhist beliefs and teachings on the use of personal wealth using examples</li></ul> |  |  |
+| 1 | 1-2 marks <ul><li>limited analysis and evaluation based on limited knowledge and understanding of Buddhist beliefs and teachings on the use of personal wealth</li><li>loosely analyses and evaluates Buddhist beliefs and teachings on the use of personal wealth</li></ul> |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |
+
+{58}------------------------------------------------
+
+#### **b – World religions – Hinduism**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 5.       | Describe two Hindu teachings about the Gunas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |     |     |     |               |
+|  | Award one mark for each basic description of Hindu teachings about the Gunas, up to a maximum of four marks. | 4 |  |  | 4 |
+|  | A basic description could include one of the following: <ul><li>The nature of everything is called prakriti which has three qualities or Gunas</li><li>The Gunas are known as Triguna because there are three – sattva, rajas and tamas</li><li>The Gunas are in everything in nature, plants, animals and humans Award two marks for each developed description of Hindu teachings about the Gunas, up to a maximum of four marks. A developed description could include one of the following:</li><li>Sattva is described as purity or goodness, which gives humans their creativity, intelligence, happiness and a balance in their nature. It is a positive Guna. People with dominant sattva follow their dharma</li><li>Rajas is described as passion or activity, and gives humans their action, energy and restlessness. People with dominant rajas are those with selfish desires</li><li>Tamas is described as darkness which is seen in ignorance, laziness and attachment. It is a negative Guna. People with dominant tamas may be regarded as sinners by some Hindus</li><li>Only humans can alter the balance of Gunas. We cannot separate them or remove them from our bodies, but we can act upon them to increase the more positive Guna of sattva and decrease the effect of the more negative ones.</li></ul> |  |  |  |  |
+
+{59}------------------------------------------------
+
+| Question | Answer                                                       |
+|----------|--------------------------------------------------------------|
+| 6.       | Explain why Hindus may treat the natural world with respect. |
+
+Answers may refer to the following:
+
+- Hindus believe that the natural world is provided by, and belongs to God, so they should be grateful for everything in the natural world
+- Using natural resources in a selfish way that damages the environment is seen as theft. 'The gods will give you the food of your desire. Whoever enjoys their gift, yet gives nothing, is a thief, no more, no less', Bhagavad Gita 3.12
+- Hindu beliefs in karuna (compassion) may lead to Hindus living in a more sustainable way to ensure there's enough resources for everyone
+- Hindu beliefs in dharma (duty) which may lead to Hindus supporting charities such as the UK based Hindu Climate Action
+- Hindus follow ahimsa or non-violence to all living beings, meaning showing respect for all of nature including humans, animals and vegetation. Hindus are expected to protect animals, especially cows because they are revered, so many Hindus will be vegetarian
+- The belief in rebirth (samsara) depending on their karma from previous lives, means a person could be reborn as a human, animal, bird or insect so they will respect these forms of life
+- When Hindus practice yoga and meditation they often connect with nature, such as the Surya Namaskar or Sun Salutation.
+
+| Band | AO2                                                                                                                                                                                                                                                   |  |  |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains why Hindus may treat the natural world with respect</li><li>uses detailed, relevant examples of why Hindus may treat the natural world with respect</li></ul> |  |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains why Hindus may treat the natural world with respect</li><li>uses relevant examples of why Hindus may treat the natural world with respect</li></ul> |  |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains why Hindus may treat the natural world with respect</li><li>uses examples of why Hindus may treat the natural world with respect</li></ul> |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |
+
+{60}------------------------------------------------
+
+| Question | Answer                                                                                 |
+|----------|----------------------------------------------------------------------------------------|
+| 7.       | Explain how Hindus may be influenced by beliefs about freedom of religious expression. |
+
+Answers may refer to the following:
+
+- The belief in the concept of Sarva Dharma and Sama Bhava, means that all dharmas or religious truths are equal, which influences Hindus to respect other faiths
+- The quote 'all religions are the same' used by various Hindu reformers (e.g. Vivekananda and Gandhi) over the last two hundred years, means all religions are regarded as being equally valid ways of knowing God, so encouraging freedom of religious expression
+- The belief in Sarva Dharma and Sama Bhava means that followers of all religions should be able to live in peaceful co-existence
+- Gandhi's use of Sarva Dharma, Sama Bhava and ahimsa, in his efforts to stop inter-religious violence in India in the twentieth century, may influence Hindus today when faced with religious intolerance
+- Krishna's teaching that all religions lead to God by whatever name they choose is found in the Bhagavad Gita – 4.11, 'In whatever way men approach Me, in that same way do I return their love.'
+- Hindus may choose their own religious path, which deity to worship and which beliefs to follow, in the knowledge that all are simply different paths to God
+- The belief in ahimsa (non-violence) should influence Hindus to live peacefully alongside people of other faiths
+- Hinduism accepts that there are many different religious views on Brahman and atman, e.g. Advaita and Dvaita Vedanta which has encouraged dialogue and debate.
+
+![](_page_60_Picture_12.jpeg)
+
+{61}------------------------------------------------
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                               |  |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains how Hindus may be influenced by Hindu beliefs about the freedom of religious expression</li><li>uses detailed, relevant examples of how Hindus may be influenced by Hindu beliefs about the freedom of religious expression.</li></ul> |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains how Hindus may be influenced by Hindu beliefs about the freedom of religious expression</li><li>uses relevant examples of how Hindus may be influenced by Hindu beliefs about the freedom of religious expression.</li></ul> |  |
+| 1 | 1-2 marks <ul><li>A basic explanation that superficially explains how Hindus may be influenced by Hindu beliefs about the freedom of religious expression</li><li>uses examples of how Hindus may be influenced by Hindu beliefs about the freedom of religious expression.</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{62}------------------------------------------------
+
+| Question | Answer                                                                          |
+|----------|---------------------------------------------------------------------------------|
+| 8.       | Analyse and evaluate Hindu beliefs and teachings on the use of personal wealth. |
+
+# Answers may refer to the following:
+
+- Hindus do not think that wealth is necessarily a bad thing, dharma (duty) encourages Hindus to work hard and earn money. This is in keeping with one of the four Purusharthas (aims or goals) of life: artha – pursuit of material wealth
+- Hindus may believe accumulating personal wealth can be regarded as a good thing. Artha is about gaining wealth by honest and lawful means, therefore, it must be earned honestly
+- Hindus believe unethical practices should not be used to gain wealth so certain occupations are seen as immoral. Likewise, gaining wealth through criminal means is not acceptable
+- It is a Hindu's dharma to earn money to provide for their family, live a comfortable lifestyle and to support the economy. This is particularly important in the householder (Grihastha) stage (ashrama)
+- Hindus are encouraged to be selfless and to give generously to charity without expecting anything in return. Donating personal wealth (dana) will earn positive karma. Being generous means a person isn't attached to material possessions
+- Hindu scriptures state that a person has no right to possess anything more than they need. Some scriptures state that a third of all personal wealth should be given as dana
+- Artha or wealth should not be something that is accumulated out of greed as this will have a negative effect on karma and prevent the attainment of moksha. 'One may amass wealth with hundreds of hands but one should also distribute it with thousands of hands. If someone keeps all that he accumulates for himself and does not give it to others, the hoarded wealth will eventually prove to be the cause of ruin.', Rig Veda 10-177-6
+- Vairaga (detachment) from wealth and material possessions is taught in the Bhagavad Gita where Krishna states Hindus should do their duty without any attachment to the results. 'You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.', Bhagavad Gita 2.47
+- The sadhus in India have no personal wealth, having renounced all earthly attachments in order to pursue a spiritual path. However, they are content to depend on the charity (dana) of others and it is a part of a Hindu's dharma to support the sadhus.
+
+{63}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                             |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5 | 9-10 marks <ul><li>excellent analysis and evaluation based on detailed knowledge and understanding of Hindu beliefs and teachings on the use of personal wealth</li><li>comprehensively and effectively analyses and evaluates Hindu beliefs and teachings on the use of personal wealth using detailed, relevant examples</li></ul> |
+| 4 | 7-8 marks <ul><li>good analysis and evaluation based on good knowledge and understanding of Hindu beliefs and teachings on the use of personal wealth</li><li>comprehensively analyses and evaluates Hindu beliefs and teachings on the use of personal wealth using relevant examples</li></ul> |
+| 3 | 5-6 marks <ul><li>satisfactory analysis and evaluation based on satisfactory knowledge and understanding of Hindu beliefs and teachings on the use of personal wealth</li><li>adequately analyses and evaluates Hindu beliefs and teachings on the use of personal wealth using examples</li></ul> |
+| 2 | 3-4 marks <ul><li>basic analysis and evaluation based on basic knowledge and understanding of Hindu beliefs and teachings on the use of personal wealth</li><li>superficially analyses and evaluates Hindu beliefs and teachings on the use of personal wealth using examples</li></ul> |
+| 1 | 1-2 marks <ul><li>limited analysis and evaluation based on limited knowledge and understanding of Hindu beliefs and teachings on the use of personal wealth</li><li>loosely analyses and evaluates Hindu beliefs and teachings on the use of personal wealth</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{64}------------------------------------------------
+
+#### **c – World religions – Islam**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 5.       | Describe two Islamic beliefs about what makes us human.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |     |     |     |               |
+|  | Award one mark for each basic description of Islamic beliefs about what makes us human, up to a maximum of four marks. | 4 |  |  | 4 |
+|  | A basic description could include one of the following: <ul><li>Muslims believe humans were created by Allah to be unique and special</li><li>Muslims believe humans were made with a soul</li><li>Muslims believe humans have freewill</li><li>Muslims believe humans have a sense of morality – right and wrong Award two marks for each developed description of Islamic beliefs about what makes us human, up to a maximum of four marks. A developed description could include one of the following:</li><li>Muslims believe Allah chose to make humans uniquely different from all other things he created by giving them physical, intellectual and spiritual capabilities</li><li>Muslims believe that humans were given special</li></ul> |  |  |  |  |
+|  | responsibilities by Allah such as stewardship because they are the greatest part of his creation <ul><li>Muslims believe that humans have a sense of knowing what is right and wrong, given to them by Allah and have a duty as Muslims to submit to his will. Credit any other valid response.</li></ul> |  |  |  |  |
+
+{65}------------------------------------------------
+
+| Question | Answer                                                           |
+|----------|------------------------------------------------------------------|
+| 6.       | Explain why Muslims should treat the natural world with respect. |
+
+Answers may refer to the following:
+
+- Muslims believe that the world was created by Allah, and they have a responsibility to take care of his creation
+- Muslims believe that the world does not belong to humans, but it belongs to Allah. This means that they should treat it with respect by caring for it and return it in the way it was given to them to enjoy
+- Islam teaches that humans are seen as khalifahs (stewards) and they should maintain the balance in the world (mizan)
+- Muslims believe they should live in harmony with the environment as they should sustain what Allah has created by caring for it rather than exploiting it
+- Muslims believe that caring for the world is essential in ensuring it is there for future generations. This encourages them to be sustainable
+- Muslims are taught that on the Day of Judgement, one of the things they will be judged on is how they looked after Allah's creation.
+
+| Band | AO2                                                                                                                                                                                                                                                        |  |  |  |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains why Muslims should treat the natural world with respect</li><li>uses detailed, relevant examples of why Muslims may treat the natural world with respect</li></ul> |  |  |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains why Muslims should treat the natural world with respect</li><li>uses relevant examples of why Muslims may treat the natural world with respect</li></ul> |  |  |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains why Muslims should treat the natural world with respect</li><li>uses examples of why Muslims may treat the natural world with respect</li></ul> |  |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |  |
+
+{66}------------------------------------------------
+
+| Question | Answer                                                                                                        |
+|----------|---------------------------------------------------------------------------------------------------------------|
+| 7. | Explain how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression. |
+
+Answers may refer to the following:
+
+- Islam teaches that religious belief should be a choice and people should have the freedom to choose whether to be religious, which religion to follow and how to express their beliefs
+- There is guidance from sources of authority in Islam, including the Qur'an, that Muslims will follow that suggests they should respect freedom of religious expression, for example Qur'an 2:256 shows that people have the freedom to choose their religion
+- Islam teaches that Muslims should be willing to share and explain their beliefs with others, but non-Muslims should not be forced to convert to Islam
+- Islam teaches Muslims to respect those who are known as 'People of the Book'; this means respecting Christians and Jews as they have much in common with Islam, such as some common sacred texts and prophets
+- Muslims are instructed to respect Jews and Christians and their scriptures. Qur'an 29:46 teaches Muslims to not argue with people of scripture as they have also had sacred texts revealed to them
+- Muslims perform many practices that show they are Muslim; this can be seen through reciting the Shahadah.
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                                                                 |  |  |  |  |  |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li><li>uses detailed, relevant examples of how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li></ul> |  |  |  |  |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li><li>uses relevant examples of how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li></ul> |  |  |  |  |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li><li>uses examples of how Muslims may be influenced by Islamic beliefs and teachings on freedom of religious expression</li></ul> |  |  |  |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |  |  |  |
+
+{67}------------------------------------------------
+
+| Question | Answer                                                                              |
+|----------|-------------------------------------------------------------------------------------|
+| 8. | Analyse and evaluate Muslim beliefs and teachings on the use of personal wealth. |
+
+# Answers may refer to the following:
+
+- Muslims generally believe that having wealth is not a bad thing. Islamic teachings tell Muslims that personal wealth is a gift or blessing from Allah
+- Muslims are encouraged to earn a living honestly in order to be able to provide for their family
+- Muslims may see the use of personal wealth as a test from Allah will they use it wisely to help others and not selfishly?
+- Muslims believe they should use their money for good and not waste nor use it for evil purposes; for example, Muslims will not gamble as this is seen as immoral in Islam
+- Islam teaches that Muslims should avoid extravagance and excessive use of personal wealth in negative ways (israf). Muslims believe they should follow the example of Muhammad who used money to help others and established systems of charity in Islam intended to help support the poor and needy
+- Muslims will perform the third pillar of Islam by giving 2.5% of their wealth annually in zakah, if they can afford to do so. This is a duty they are expected to carry out which shows care for others and allows wealth to be purified as Muslims will not get attached to money and will value what they have more
+- Many Muslims will choose to perform acts of sadaqah which may include giving food, money or time to help those in need. This shows sharing of extra wealth and other voluntary actions which is not a duty but given by Muslims because they morally think it is important to do this when they are able
+- Shi'a Muslims will give khums which is 20% tax on earnings. This is an obligatory action for Shi'a Muslims to perform that started in the time of Muhammad where a proportion of gain from war was given to him as their leader. Today, this money is used to help charities support education projects or the poor in society who Muhammad always taught deserved respect and care
+- Islam teaches that Muslims should not make money through interest so they will avoid this action. As it is considered an unjust practice, Muslims may access Islamic banks which allow them to borrow money without paying interest.
+
+{68}------------------------------------------------
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                         |  |  |  |  |  |  |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|
+| 5 | 9-10 marks <ul><li>excellent analysis and evaluation based on detailed knowledge and understanding of Muslim beliefs and teachings on the use of personal wealth</li><li>comprehensively and effectively analyses and evaluates Muslim beliefs and teachings on the use of personal wealth using detailed, relevant examples</li></ul> |  |  |  |  |  |  |
+| 4 | 7-8 marks <ul><li>good analysis and evaluation based on good knowledge and understanding of Muslim beliefs and teachings on the use of personal wealth</li><li>comprehensively analyses and evaluates Muslim beliefs and teachings on the use of personal wealth using relevant examples</li></ul> |  |  |  |  |  |  |
+| 3 | 5-6 marks <ul><li>satisfactory analysis and evaluation based on satisfactory knowledge and understanding of Muslim beliefs and teachings on the use of personal wealth</li><li>adequately analyses and evaluates Muslim beliefs and teachings on the use of personal wealth using examples</li></ul> |  |  |  |  |  |  |
+| 2 | 3-4 marks <ul><li>basic analysis and evaluation based on basic knowledge and understanding of Muslim beliefs and teachings on the use of personal wealth</li><li>superficially analyses and evaluates Muslim beliefs and teachings on the use of personal wealth using examples</li></ul> |  |  |  |  |  |  |
+| 1 | 1-2 marks <ul><li>limited analysis and evaluation based on limited knowledge and understanding of Muslim beliefs and teachings on the use of personal wealth</li><li>loosely analyses and evaluates Muslim beliefs and teachings on the use of personal wealth</li></ul> |  |  |  |  |  |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |  |  |  |  |  |
+
+{69}------------------------------------------------
+
+#### **d – World religions – Judaism**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |  |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|--|
+| 5. | Describe two Jewish teachings about abortion. |  |  |  |  |  |
+|  | Award one mark for each basic description of Jewish teachings about abortion, up to a maximum of four marks. | 4 |  |  | 4 |  |
+|  | A basic description could include one of the following: <ul><li>The Talmud allows it if the mother's life is in danger</li><li>Pikuach nefesh must be considered</li><li>'Do not kill' does not apply to a foetus</li><li>There is no specific teaching prohibiting abortion in Jewish scripture. Award two marks for each developed description of Jewish teachings about abortion, up to a maximum of four marks. A developed description could include one of the following:</li><li>In Orthodox Judaism, abortion is generally permitted if the pregnancy endangers the life or health of the mother; Talmud - Ohalot 7:6-8</li><li>The teaching of pikuach nefesh (sanctity of life) means other mitzvot may be broken in order to save a life</li><li>A foetus is not considered a full person until birth according to the Talmud, meaning the commandment not to kill does not apply. Credit any other valid response.</li></ul> |  |  |  |  |  |
+
+{70}------------------------------------------------
+
+| Question | Answer                                                                          |
+|----------|---------------------------------------------------------------------------------|
+| 6. | Demonstrate how Jews observe Tu B'Shevat to celebrate the renewal of nature. |
+
+Answers may refer to the following:
+
+- Tu B'Shevat is the Jewish New Year of the Trees, celebrated around January/February when the soil is ideal for planting new trees. This aligns with the theme of renewal as Jews actively plant trees to mark the occasion. Planting trees serves as a practical reminder of the Jewish teaching of *Tikkun Olam*—the responsibility to repair the world
+- Jews often collect money during Tu B'Shevat, which is used to fund the planting of new trees in Israel, supporting both environmental restoration and the connection to the Holy Land. The act of planting and fundraising reflects the celebration of nature's renewal and environmental stewardship
+- A key tradition is eating fruits of the seven species mentioned in the Torah: pomegranates, grapes, dates, figs, olives, wheat, and barley. Eating these fruits symbolizes gratitude for the earth's produce and reminds Jews of the Holy Land and the importance of sustaining life
+- Tu B'Shevat is also seen by some as an "Earth Day" for environmental awareness. It offers an opportunity for Jews to commit to living environmentally responsible lives. The Torah emphasises the importance of trees, instructing Jews to care for them even during war. This reinforces the idea that preserving nature and celebrating its renewal are central to Jewish values.
+
+| Band | AO2                                                                                                                                                                                                                                                                                           |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively demonstrates how Jews observe Tu B'Shevat to celebrate the renewal of nature</li><li>uses detailed, relevant examples of how Jews observe Tu B'Shevat to celebrate the renewal of nature</li></ul> |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively demonstrates how Jews observe Tu B'Shevat to celebrate the renewal of nature</li><li>uses relevant examples of how Jews observe Tu B'Shevat to celebrate the renewal of nature</li></ul> |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially demonstrates how Jews observe Tu B'Shevat to celebrate the renewal of nature</li><li>uses examples of how Jews observe Tu B'Shevat to celebrate the renewal of nature</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{71}------------------------------------------------
+
+| Question | Answer                                                                                        |
+|----------|-----------------------------------------------------------------------------------------------|
+| 7. | Explain how, according to Judaism, being created in the image of God gives humans dignity. |
+
+# Answers may refer to the following:
+
+- Judaism teaches that being created in the image of God (*Imago Dei*) gives humans inherent dignity because it reflects their divine origin and purpose. According to Genesis 1:27, 'God created mankind in His own image', which signifies that every human has unique worth and value, regardless of their status or role in society
+- Being made in God's image means humans are blessed with qualities such as rationality, creativity and the ability to make moral choices. For example, the gift of free will allows humans to discern between right and wrong, emphasising their responsibility to act ethically and uphold the dignity of others
+- This divine image also gives humans a responsibility to care for the world. Genesis 1:28 teaches that humans are to 'rule over' creation, but this dominion is not about exploitation; it involves stewardship and respect for life. Judaism highlights that this responsibility is a privilege bestowed by God and further reflects human dignity
+- Since life belongs to God as its Creator, Judaism emphasises that only God has the authority to decide when life begins or ends. This belief reinforces the sacredness of human life and the duty to protect it
+- Because all humans bear God's image, they should treat one another with respect and compassion. This principle underpins Jewish values such as *tzedakah* (charity) and *tikkun olam* (repairing the world), demonstrating that dignity comes not only from being created in God's image but also in honouring that image in others.
+
+![](_page_71_Picture_9.jpeg)
+
+{72}------------------------------------------------
+
+| Band | AO2                                                                                                                                                                                                                                                                                                                        |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains how, according to Judaism, being created in the image of God gives humans dignity</li><li>uses detailed, relevant examples of how, according to Judaism, being created in the image of God gives humans dignity</li></ul> |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains how, according to Judaism, being created in the image of God gives humans dignity</li><li>uses relevant examples of how, according to Judaism, being created in the image of God gives humans dignity</li></ul> |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains how, according to Judaism, being created in the image of God gives humans dignity</li><li>uses examples of how, according to Judaism, being created in the image of God gives humans dignity</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{73}------------------------------------------------
+
+| Question | Answer                                                                                 |
+|----------|----------------------------------------------------------------------------------------|
+| 8. | Analyse and evaluate Jewish beliefs and teachings about the use of personal wealth. |
+
+Answers may refer to the following:
+
+- Jews believe that personal wealth is not necessarily a bad thing; what Jews do with their money is important
+- Money should be gained through honest work and not through unethical behaviour 'A faithful person will be richly blessed, but one eager to get rich will not go unpunished. To show partiality is not good – yet a person will do wrong for a piece of bread. The stingy are eager to get rich and are unaware that poverty awaits them.', Proverbs 28:20-22
+- Jews believe that God gives them the power to acquire wealth 'for it is he who gives you the ability to produce wealth, and so confirms his covenant, which he swore to your ancestors, as it is today.', Deuteronomy 8:18
+- Jews may believe they should use their wealth for the greater good, through Tikkun Olam 'repair the world', however, some Jews may not see this as a priority
+- Jews believe that everyone has a responsibility to help those who are suffering from poverty.
+- Charity is seen as a form of justice treating others fairly not just out of a sense of generosity, but because all are parts of God's creation
+- Jews believe that wealth should be used for the benefit of the community, therefore they will give ten percent of their annual income to charity as a ma'aser (tithe)
+- The belief in tzedakah means that Jews will use their personal wealth to promote justice and fairness in society, however, this does not always have to be through charitable donation as the greatest level of charity is through helping someone and this does not always have to involve money
+- Some Jewish homes have a pushke box, in their home, to collect money for charity, showing the importance of donating rather than gaining personal wealth.
+
+| Band | AO3                                                                                                                                                                                                                                                                                                                                            |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5 | 9-10 marks <ul><li>excellent analysis and evaluation based on detailed knowledge and understanding of Jewish beliefs and teachings about the use of personal wealth</li><li>comprehensively and effectively analyses and evaluates Jewish beliefs and teachings about the use of personal wealth using detailed, relevant examples</li></ul> |
+| 4 | 7-8 marks <ul><li>good analysis and evaluation based on good knowledge and understanding of Jewish beliefs and teachings about the use of personal wealth</li><li>comprehensively analyses and evaluates Jewish beliefs and teachings about the use of personal wealth using relevant examples</li></ul> |
+
+{74}------------------------------------------------
+
+| 3 | 5-6 marks <ul><li>satisfactory analysis and evaluation based on satisfactory knowledge and understanding of Jewish beliefs and teachings about the use of personal wealth</li><li>adequately analyses and evaluates Jewish beliefs and teachings about the use of personal wealth using examples</li></ul> |  |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 2 | 3-4 marks <ul><li>basic analysis and evaluation based on basic knowledge and understanding of Jewish beliefs and teachings about the use of personal wealth</li><li>superficially analyses and evaluates Jewish beliefs and teachings about the use of personal wealth using examples</li></ul> |  |
+| 1 | 1-2 marks <ul><li>limited analysis and evaluation based on limited knowledge and understanding of Jewish beliefs and teachings about the use of personal wealth</li><li>loosely analyses and evaluates Jewish beliefs and teachings about the use of personal wealth</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted |  |
+
+{75}------------------------------------------------
+
+#### **e – World religions – Sikhism**
+
+| Question | Answer | AO1 | AO2 | AO3 | Total Mark |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|---------------|
+| 5.       | Describe two examples when a Sikh guru fought for freedom of religious expression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |               |
+|  | Award one mark for each basic description of when a Sikh guru fought for freedom of religious expression, up to a maximum of four marks. | 4 |  |  | 4 |
+|  | A basic description could include one of the following: |  |  |  |  |
+|  | <ul><li>Guru Tegh Bahadur sacrificed his life to protect the religious freedom of Hindus</li><li>Guru Tegh Bahadur was beheaded for refusing to convert to Islam</li><li>Guru Gobind Singh instructed Sikhs to wear the turban</li><li>Guru Arjan was martyred as he refused to compromise his Sikh beliefs Award two marks for each developed description of when a Sikh guru fought for freedom of religious expression, up to a maximum of four marks</li></ul> |  |  |  |  |
+|  | A developed description could include one of the following: <ul><li>Guru Tegh Bahadur sacrificed his life to protect the religious freedom of Hindus and was also beheaded for refusing to convert to Islam</li><li>Guru Gobind Singh instructed Sikhs to wear the turban as a sign of religious identity and as an act of defiance against religious persecution at the time</li><li>Guru Arjan was martyred as he refused to compromise his Sikh beliefs; the Mughal emperor at the time was trying to get him to convert to Islam. Credit any other valid response.</li></ul> |  |  |  |  |
+
+{76}------------------------------------------------
+
+| Question | Answer                                                                                                     |  |  |
+|----------|------------------------------------------------------------------------------------------------------------|--|--|
+| 6. | Demonstrate how the work of Eco Sikh UK reflects Sikh beliefs about caring for the natural world. |  |  |
+
+Answers may refer to the following:
+
+- Sikhism teaches the entire universe is a manifestation of Waheguru and deserves respect; (Guru Granth Sahib 8; 723) and so planting trees and caring for the natural world through litter picking
+- The Guru Granth Sahib contains numerous hymns that celebrate nature as expressions of Waheguru's greatness and so Eco Sikh UKs 'boota parshad' encourages Sikhs to plant flowers that bloom and demonstrate the beauty of God's creation
+- Sikhism teaches that all forms of life are interconnected, and so caring for the natural world will be caring for one another; including future generations who inherit what we leave. Eco Sikh UK encourages Sikhs to plant bulbs which attract bees; critical for continuation of eco systems
+- Eco Sikh UK engages in inter-faith dialogue and demonstrate the concept of Sarbat da Bhala (the well-being of all) and highlights that this includes the well-being of the planet and all its inhabitants
+- It is believed harming nature is seen as harming a part of God's creation, so Eco Sikh UK aims to educate people about ways to care for the natural world and combat climate change
+- Sikhs are encouraged to live simply, avoiding excessive consumption and wastefulness and so Eco Sikh UK campaigns to raise awareness of the impact our actions have on global warming and climate change.
+
+| Band | AO2                                                                                                                                                                                                                                                                                                               |  |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains how the work of Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li><li>uses detailed, relevant examples of how Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li></ul> |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains how the work of Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li><li>uses relevant examples of how Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li></ul> |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains how the work of Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li><li>uses examples of how Eco Sikh UK reflects Sikh beliefs about caring for the natural world</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{77}------------------------------------------------
+
+| Question | Answer                                                                      |
+|----------|-----------------------------------------------------------------------------|
+| 7. | Explain Sikh perspectives about the use of animals for medical research. |
+
+Answers may refer to the following:
+
+- There is no explicit prohibition against using animals in scientific and medical research as Sikhism recognises the need for advancements in health and science
+- Many Sikhs see human life as ultimately of more value than animal life because human life is seen as a spiritual blessing enabling an individual to study scripture and connect with God meaning use of animals for medical research would be permitted
+- Any research using animals would need to be balanced against the Sikh value of ahimsa (nonviolence). This requires minimising harm and ensuring animals are treated with respect
+- Any suffering must be justified by significant benefits to human life and health. This aligns with the belief that actions should have a meaningful and have a moral purpose leading to support of using animals for medical, but not cosmetic, research
+- Sikhs might support the use of alternative research methods that avoid harming animals, such as using computer models, whenever these alternatives are available
+- Compassion (daya) towards animal life is a duty of all and so animals should not be exploited unnecessarily
+- Any unnecessary pain caused to animals may cause negative karma to those responsible which could affect one's spiritual progress and future lives.
+
+| Band | AO2                                                                                                                                                                                                                                                                                           |  |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3 | 5-6 marks <ul><li>an excellent explanation that comprehensively and effectively explains Sikh perspectives about the use of animals for medical research</li><li>uses detailed, relevant examples to exemplify Sikh perspectives about the use of animals for medical research</li></ul> |  |
+| 2 | 3-4 marks <ul><li>a good explanation that comprehensively explains Sikh perspectives about the use of animals for medical research</li><li>uses relevant examples to exemplify Sikh perspectives about the use of animals for medical research</li></ul> |  |
+| 1 | 1-2 marks <ul><li>a basic explanation that superficially explains Sikh perspectives about the use of animals for medical research</li><li>uses examples to exemplify Sikh perspectives about the use of animals for medical research</li></ul> |  |
+| 0 | 0 marks Response not creditworthy or not attempted. |  |
+
+{78}------------------------------------------------
+
+| Question | Answer                                                             |
+|----------|--------------------------------------------------------------------|
+| 8. | Analyse and evaluate Sikh beliefs and teachings about abortion. |
+
+Answers may refer to the following:
+
+- Sikh ethics recognise the complexity of moral dilemmas, such as abortion, and encourage individuals to weigh decisions carefully, considering both scripture and compassion
+- Sikhism places a strong emphasis on personal autonomy and free will in moral decision-making. Decisions about abortion are often left to the conscience of the individual, ideally made with prayer, reflection, and consultation with trusted advisors or family members
+- Sikh teachings emphasise the cycle of samsara, where life is continuous and sacred, abortion would be interfering with this process and lead to negative karma
+- There is no point at which a foetus or embryo is not 'living'. The reborn atma enters at the moment of conception, this makes abortion morally questionable; Guru Granth Sahib 74
+- Life is sacred and seen as a divine gift from Waheguru. Ending life through abortion could be regarded as interfering with God's will, Guru Granth Sahib 921
+- Abortion might be considered acceptable in cases where daya (compassion) dictates prioritising the mother's well-being and mental or physical health over that of the foetus
+- On the other hand, daya (compassion) may also apply to the unborn foetus, as it is innocent and should not suffer due to the circumstances of its conception or parental choices
+- Sikhism teaches that the intention behind an action is critical. Abortion might be justified if undertaken with a pure and selfless intention, such as to prevent greater suffering
+- The concept of miri-piri stresses balancing religious teachings with practical realities. In some cases, a decision may involve both spiritual reflection and practical considerations of the consequences of any abortion.
+
+| Band | AO3                                                                                                                                                                                                                                                                                                    |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5 | 9-10 marks <ul><li>excellent analysis and evaluation based on detailed knowledge and understanding of Sikh beliefs and teachings about abortion</li><li>comprehensively and effectively analyses and evaluates Sikh beliefs and teachings about abortion using detailed, relevant examples</li></ul> |
+| 4 | 7-8 marks <ul><li>good analysis and evaluation based on good knowledge and understanding of Sikh beliefs and teachings about abortion</li><li>comprehensively analyses and evaluates Sikh beliefs and teachings about abortion using relevant examples</li></ul> |
+
+{79}------------------------------------------------
+
+| 3 | 5-6 marks <ul><li>satisfactory analysis and evaluation based on satisfactory knowledge and understanding of Sikh beliefs and teachings about abortion</li><li>adequately analyses and evaluates Sikh beliefs and teachings about abortion using examples</li></ul> |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 | 3-4 marks <ul><li>basic analysis and evaluation based on basic knowledge and understanding of Sikh beliefs and teachings about abortion</li><li>superficially analyses and evaluates Sikh beliefs and teachings about abortion using examples</li></ul> |
+| 1 | 1-2 marks <ul><li>limited analysis and evaluation based on limited knowledge and understanding of Sikh beliefs and teachings about abortion</li><li>loosely analyses and evaluates Sikh beliefs and teachings about abortion</li></ul> |
+| 0 | 0 marks Response not creditworthy or not attempted. |
+
+{80}------------------------------------------------
+
+Mapping of questions to specification content and assessment objectives: Unit 3
+
+|  | a – Christianity and non-religious perspectives |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|-------------|----------------------------------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|-------|-------|-------|-------|
+|             | 3.1a                                               |        | 3.2a   |        | 3.3a   |        | 3.8   |       | 3.9   |       | Total | AO1   | AO2   | AO3   |
+| Question    | 3.1.1a                                             | 3.1.2a | 3.2.1a | 3.2.2a | 3.3.1a | 3.3.2a | 3.8.1 | 3.8.2 | 3.9.1 | 3.9.2 | Marks | Marks | Marks | Marks |
+| 1           |                                                    |        | x      |        |        |        |       |       |       |       | 6     | 6     |       |       |
+| 2           |                                                    |        |        | x      |        |        |       | x     |       |       | 10    |       | 10    |       |
+| 3           |                                                    | x      |        |        |        |        |       |       |       |       | 10    |       |       | 10    |
+| 4           | x                                                  |        |        |        |        |        |       |       | x     |       | 8     |       |       | 8     |
+| Total marks |                                                    |        |        |        |        |        |       |       |       |       | 34    | 6     | 10    | 18    |
+
+|  | b – Catholic Christianity and non-religious perspectives |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|-------------|-------------------------------------------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|-------|-------|-------|-------|
+|             | 3.1b                                                        |        | 3.2b   |        | 3.3b   |        | 3.8   |       | 3.9   |       | Total | AO1   | AO2   | AO3   |
+| Question    | 3.1.1b                                                      | 3.1.2b | 3.2.1b | 3.2.2b | 3.3.1b | 3.3.2b | 3.8.1 | 3.8.2 | 3.9.1 | 3.9.2 | Marks | Marks | Marks | Marks |
+| 1           |                                                             |        | x      |        |        |        |       |       |       |       | 6     | 6     |       |       |
+| 2           |                                                             |        |        | x      |        |        |       | x     |       |       | 10    |       | 10    |       |
+| 3           |                                                             | x      |        |        |        |        |       |       |       |       | 10    |       |       | 10    |
+| 4           | x                                                           |        |        |        |        |        |       |       | x     |       | 8     |       |       | 8     |
+| Total marks |                                                             |        |        |        |        |        |       |       |       |       | 34    | 6     | 10    | 18    |
+
+{81}------------------------------------------------
+
+|             | a – World religions – Buddhism |        |        |        |        |        |       |       |       |       |  |  |
+|-------------|--------------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|--|--|
+|             | 3.4a                           |        | 3.5a   |        | 3.     | Total  | AO1   | AO2   | AO3   |       |  |  |
+| Question    | 3.4.1a                         | 3.4.2a | 3.5.1a | 3.5.2a | 3.6.1a | 3.6.2a | Marks | Marks | Marks | Marks |  |  |
+| 5           |                                |        | x      |        |        |        | 4     | 4     |       |       |  |  |
+| 6           | x                              |        |        |        |        |        | 6     |       | 6     |       |  |  |
+| 7           |                                |        |        |        | x      |        | 6     |       | 6     |       |  |  |
+| 8           |                                |        |        |        |        | х      | 10    |       |       | 10    |  |  |
+| Total marks |                                |        |        |        |        |        | 26    | 4     | 12    | 10    |  |  |
+
+|             | b - World religions - Hinduism |        |        |        |        |        |       |       |       |       |
+|-------------|--------------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|
+|             | 3.4b                           |        | 3.5b   |        | 3.6b   |        | Total | AO1   | AO2   | AO3   |
+| Question    | 3.4.1b                         | 3.4.2b | 3.5.1b | 3.5.2b | 3.6.1b | 3.6.2b | Marks | Marks | Marks | Marks |
+| 5           |                                |        | x      |        |        |        | 4     | 4     |       |       |
+| 6           | х                              |        |        |        |        |        | 6     |       | 6     |       |
+| 7           |                                |        |        |        | x      |        | 6     |       | 6     |       |
+| 8           |                                |        |        |        |        | x      | 10    |       |       | 10    |
+| Total marks |                                |        |        |        |        |        | 26    | 4     | 12    | 10    |
+
+{82}------------------------------------------------
+
+|             | c – World religions – Islam |        |        |        |        |        |       |       |       |       |  |
+|-------------|-----------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|--|
+|             | 3.                          | 4c     | 3.5    | 5c     | 3.6c   |        | Total | AO1   | AO2   | AO3   |  |
+| Question    | 3.4.1c                      | 3.4.2c | 3.5.1c | 3.5.2c | 3.6.1c | 3.6.2c | Marks | Marks | Marks | Marks |  |
+| 5           |                             |        | x      |        |        |        | 4     | 4     |       |       |  |
+| 6           | x                           |        |        |        |        |        | 6     |       | 6     |       |  |
+| 7           |                             |        |        |        | x      |        | 6     |       | 6     |       |  |
+| 8           |                             |        |        |        |        | x      | 10    |       |       | 10    |  |
+| Total marks |                             |        |        |        |        |        | 26    | 4     | 12    | 10    |  |
+
+|             | d – World religions – Judaism |        |        |        |        |        |       |     |     |       |  |
+|-------------|-------------------------------|--------|--------|--------|--------|--------|-------|-----|-----|-------|--|
+|             | 3.4d                          |        | 3.5d   |        | 3.6d   |        | Total | AO1 | AO2 | AO3   |  |
+| Question    | 3.4.1d                        | 3.4.2d | 3.5.1d | 3.5.2d | 3.6.1d | 3.6.2d | Marks |     |     | Marks |  |
+| 5           |                               |        |        | x      |        |        | 4     | 4   |     |       |  |
+| 6           | x                             |        |        |        |        |        | 6     |     | 6   |       |  |
+| 7           |                               |        |        |        | x      |        | 6     |     | 6   |       |  |
+| 8           |                               |        |        |        |        | х      | 10    |     |     | 10    |  |
+| Total marks |                               |        |        |        |        |        | 26    | 4   | 12  | 10    |  |
+
+{83}------------------------------------------------
+
+|             | e – World religions – Sikhism |        |        |        |        |        |       |       |       |       |  |
+|-------------|-------------------------------|--------|--------|--------|--------|--------|-------|-------|-------|-------|--|
+|             | 3.                            | .4e    | 3.5    | je     | 3.6e   |        | Total | AO1   | AO2   | AO3   |  |
+| Question    | 3.4.1e                        | 3.4.2e | 3.5.1e | 3.5.2e | 3.6.1e | 3.6.2e | Marks | Marks | Marks | Marks |  |
+| 5           |                               |        |        |        | x      |        | 4     | 4     |       |       |  |
+| 6           | х                             |        |        |        |        |        | 6     |       | 6     |       |  |
+| 7           |                               | х      |        |        |        |        | 6     |       | 6     |       |  |
+| 8           |                               |        | х      |        |        |        | 10    |       |       | 10    |  |
+| Total marks |                               |        |        |        |        |        | 26    | 4     | 12    | 10    |  |
