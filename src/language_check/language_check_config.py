@@ -199,4 +199,18 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- Drama: technical / production terms ---
     "arte", "berliner-ensemble", "crossfade", "Dramaturg", "freezeframes", "gestus", "gobo", "gobos", "multi-roling", "realia",
+
+    # --- History: people and places seen in reports ---
+    "Glyndwr", "Gruffudd", "Süleyman", "Sonni", "Jahan", "Askia", "Temujin", "Tyerman", "Babur", "Hardrada", "Llywelyn", "Cnut", "Nur", "Gruffydd", "Turvey", "Culpin", "Hanmer", "Breverton", "Genghis", "Swayer", "Deheubarth", "Songhai", "Harlech", "Khwarazmian", "Tondibi",
+
+    # --- Food-and-Nutrition ---
+    "Yn", "yn", "bwyd", "Gymru", "arbennig", "ddefnyddiol", "eu", "ardystio", "gan", "ond", "efallai", "byd", "Bwyd", "barod", "ar", "Adnoddau", "Gwyddor", "Eatwell",
+    "wholewheat", "Wholewheat", "roux", "Shortcrust", "trialing", "zesting", "prereleased", "sucree", "griddling", "spatchcock", "deseeding", "chiffonade",
+
+    # --- English-Language-and-Literature ---
+    "Alem", "Birling", "Iola", "Pinnock", "Meggarty", "Packham", "Conran", "Miquita", "Riz", "Atta", "Sissay", "Brumley", "Dharker", "Imtiaz", "Muffet", "Catrin", "Killay", "Miz", "Alys", "Taffia", "aloo", "parathas", "longlist", "coversheet", "PRUs",
+
+    # --- Geography ---
+    "Borth", "Abermule", "Forden", "Berriew", "Twyni", "Rheidol", "Conwy", "Hina", "Blaenau", "Hafren", "Ystwyth", "Bannau", "Teleferico", "Ferrel", "Digimap",
+    "LICs", "HICs", "Groynes", "OEBPS", "UNHDR", "isoline", "Throughflow", "skillset", "cumecs", "quadrats", "housebuilding",
 }
