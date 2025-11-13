@@ -51,6 +51,8 @@ American spellings found: <img src="badges/ize-suffixes.svg" alt="Ize suffixes c
 
 # Technical Details
 
+American spellings found: <img src="badges/ize-suffixes.svg" alt="Ize suffixes count" />
+
 Command-line tool for downloading PDF documents exposed on the WJEC GCSE Made-for-Wales qualification pages. The scraping logic lives in `src/scraper/__init__.py` and can be reused programmatically, while `main.py` provides a friendly CLI.
 
 ## Setup

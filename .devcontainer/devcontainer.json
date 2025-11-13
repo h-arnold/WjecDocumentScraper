@@ -14,14 +14,12 @@
       ],
       "settings": {
         "python.defaultInterpreterPath": "${containerWorkspaceFolder}/.venv/bin/python"
-        "python.defaultInterpreterPath": "${containerWorkspaceFolder}/.venv/bin/python"
       }
     }
   },
   "containerEnv": {
     "JAVA_TOOL_OPTIONS": "-Djava.awt.headless=true"
   },
-  "postCreateCommand": "cd /workspaces/WjecDocumentScraper && bash /workspaces/WjecDocumentScraper/.devcontainer/post_create.sh",
-  "remoteUser": "vscode",
-  "workspaceFolder": "/workspaces/WjecDocumentScraper"
+  "postCreateCommand": "cd ~ && bash ~/.devcontainer/post_create.sh",
+  "remoteUser": "vscode"
 }
