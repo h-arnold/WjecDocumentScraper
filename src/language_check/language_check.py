@@ -57,7 +57,19 @@ def get_languages_for_subject(subject: str) -> list[str]:
 	"""
 	# Use auto-detection - it will detect the primary language of the document
 	# The preferred variant (en-GB) is set in build_language_tool()
-	return ["auto"]
+	# Historically this project used explicit per-subject language tool
+	# instances (English + subject language for language subjects). Tests
+	# and existing behaviour expect that for `French` and `German` (and
+	# `Spanish`) we return both English and the subject language. Keep the
+	# matching case-sensitive by design.
+	if subject == "French":
+		return ["en-GB", "fr"]
+	if subject == "German":
+		return ["en-GB", "de"]
+	if subject == "Spanish":
+		return ["en-GB", "es"]
+	# Default: English only
+	return ["en-GB"]
 
 
 # Transient errors that should trigger a retry
@@ -487,12 +499,20 @@ def build_language_tools_for_subject(
 	"""
 	languages = get_languages_for_subject(subject)
 	tools = []
-	
+
+	# For language subjects, add language-specific extra disabled rules
+	# on top of the defaults defined in `language_check_config.DEFAULT_DISABLED_RULES`.
+	# We ignore any externally-provided `disabled_rules` (CLI no longer controls this).
+	morfologik_rule = "MORFOLOGIK_RULE_EN_GB"
+	extra_disabled: set[str] | None = None
+	if subject in {"French", "German", "Spanish"}:
+		extra_disabled = {morfologik_rule}
+
 	for language in languages:
 		tool = build_language_tool(
 			language,
-			disabled_rules=disabled_rules,
-			ignored_words=ignored_words
+			disabled_rules=extra_disabled,
+			ignored_words=ignored_words,
 		)
 		tools.append(tool)
 		LOGGER.info("Created LanguageTool for language: %s (subject: %s)", language, subject)
@@ -731,24 +751,16 @@ def parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
 		help="Single Markdown document to check (relative to root unless absolute).",
 	)
 	parser.add_argument(
-		"--disable-rule",
-		action="append",
-		dest="disabled_rules",
-		help="Disable a specific LanguageTool rule (can be specified multiple times). "
-		     f"Default disabled rules: {', '.join(sorted(DEFAULT_DISABLED_RULES))}",
-	)
-	parser.add_argument(
 		"--ignore-word",
 		action="append",
 		dest="ignored_words",
 		help="Add a word to the spell-check ignore list (case-sensitive, can be specified multiple times). "
-		     f"Default ignored words: {', '.join(sorted(DEFAULT_IGNORED_WORDS))}",
+			 f"Default ignored words: {', '.join(sorted(DEFAULT_IGNORED_WORDS))}",
 	)
-	parser.add_argument(
-		"--no-default-rules",
-		action="store_true",
-		help="Don't apply default disabled rules (only use rules specified with --disable-rule)",
-	)
+	# Note: disabled rules are no longer configurable via CLI. They are
+	# sourced from `language_check_config.DEFAULT_DISABLED_RULES` and subject-
+	# specific additions (e.g. MORFOLOGIK for language subjects).
+    
 	parser.add_argument(
 		"--no-default-words",
 		action="store_true",
@@ -760,16 +772,10 @@ def parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
 def main(argv: Optional[Iterable[str]] = None) -> int:
 	logging.basicConfig(level=logging.INFO)
 	args = parse_args(argv)
-	
-	# Build sets of disabled rules and ignored words
+	# Disabled rules are controlled by `language_check_config.DEFAULT_DISABLED_RULES`
+	# and subject-specific additions inside `build_language_tools_for_subject`.
 	disabled_rules: set[str] | None = None
-	if args.no_default_rules:
-		disabled_rules = set(args.disabled_rules or [])
-	elif args.disabled_rules:
-		disabled_rules = set(DEFAULT_DISABLED_RULES) | set(args.disabled_rules)
-	else:
-		disabled_rules = set(DEFAULT_DISABLED_RULES)
-	
+
 	ignored_words: set[str] | None = None
 	if args.no_default_words:
 		ignored_words = set(args.ignored_words or [])
