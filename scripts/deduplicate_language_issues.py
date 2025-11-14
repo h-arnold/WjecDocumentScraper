@@ -8,9 +8,9 @@ column showing how many duplicates were collapsed.
 Usage (command line):
   python scripts/deduplicate_language_issues.py input.csv -o output.csv
 
-For convenience the default keys are the same column names used in the
-language check CSV: Subject, Filename, Page, Rule ID, Type, Issue, Message,
-Suggestions, Context.
+For convenience the default key has been narrowed to just `Issue`.  This
+collapses identical spelling suggestions by token while leaving the
+`--keys` flag available for custom behaviour.
 """
 
 from __future__ import annotations
@@ -124,9 +124,13 @@ def run_cli(argv: list[str] | None = None) -> int:
     # issues with spelling issues.
     rows = [r for r in rows if (r.get("Rule ID") or "") == "MORFOLOGIK_RULE_EN_GB"]
 
-    # Determine default key columns if none provided
+    # Determine default key columns if none provided.
+    # Historically we de-duplicated across many language-check columns; this
+    # project now prefers a much narrower default key of `Issue` so we collapse
+    # identical spelling suggestions by token alone.  This keeps the output
+    # compact while leaving the `--keys` flag available for other uses.
     if args.keys == ",":
-        key_columns = [col for col in DEFAULT_HEADERS if col in header]
+        key_columns = ["Issue"] if "Issue" in header else [col for col in DEFAULT_HEADERS if col in header]
     else:
         key_columns = [text.strip() for text in args.keys.split(",") if text.strip()]
 

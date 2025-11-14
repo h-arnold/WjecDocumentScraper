@@ -93,3 +93,32 @@ def test_run_cli_filters_non_morfolok(tmp_path: Path) -> None:
     h, table = read_csv_rows(out_path)
     # Every row in the output should have Rule ID MORFOLOGIK_RULE_EN_GB
     assert all((r.get("Rule ID") or "") == "MORFOLOGIK_RULE_EN_GB" for r in table)
+
+
+def test_run_cli_default_key_issue(tmp_path: Path) -> None:
+    """When --keys is omitted, de-duplication should use the `Issue` column.
+
+    This test writes 3 rows: two with identical `Issue` and one with a different
+    `Issue`. After running the CLI with no --keys flag, the output should have
+    two rows (unique Issue tokens) because `Issue` is the default key.
+    """
+
+    csv_path = tmp_path / "report.csv"
+    out_path = tmp_path / "out.csv"
+    header = DEFAULT_HEADERS
+
+    rows = [
+        ["Subject", "a.md", "", "MORFOLOGIK_RULE_EN_GB", "misspelling", "Thiss", "typo", "This", "ctx"],
+        ["Subject", "b.md", "", "MORFOLOGIK_RULE_EN_GB", "misspelling", "Thiss", "typo", "This", "ctx2"],
+        ["Subject", "a.md", "", "MORFOLOGIK_RULE_EN_GB", "misspelling", "Other", "typo", "Other", "ctx3"],
+    ]
+
+    _write_csv(csv_path, header, rows)
+
+    rc = run_cli([str(csv_path), "-o", str(out_path)])
+    assert rc == 0
+    h, table = read_csv_rows(out_path)
+
+    # There should be only two unique `Issue` values: 'Thiss' and 'Other'
+    issues = {r.get("Issue") for r in table}
+    assert issues == {"Thiss", "Other"}

@@ -763,6 +763,7 @@ DEFAULT_IGNORED_WORDS = {
     "png",
     "jpeg",
     "svg",
+    "PBPS",
 
     # --- Computer Science (Proper Noun) ---
     "Fitzalan",
@@ -771,6 +772,10 @@ DEFAULT_IGNORED_WORDS = {
     "Bitesize",
     "Eduqas",
     "Elkington",
+    "Tkinter",
+    "Parc",
+    "Glyncoed",
+    "Pentre",
 
     # --- Computer Science (Technical Term) ---
     "tkinter",
@@ -814,9 +819,16 @@ DEFAULT_IGNORED_WORDS = {
     "multiplayer",
     "keyframing",
     "key framing",
+    "Elif",
+    "datatypes",
+    "int",
+    "cleanup",
+    "defragmenter",
+    "addProc",
 
     # --- Computer Science (Other) ---
     "Centres",
+    "Ysgol",
 
     # --- Art and Design (Initialism/Acronym) ---
     "MoMA",
@@ -847,6 +859,21 @@ DEFAULT_IGNORED_WORDS = {
     "Mustaph",
     "Pinnock",
     "Sissay",
+    "Fach",
+    "IDEO",
+    "Aedas",
+    "Kantha",
+    "Cas",
+    "Konttinen",
+    "Milroy",
+    "Thiebaud",
+    "Anatsui",
+    "Popham",
+    "Conteh",
+    "Mashigo",
+    "Gursky",
+    "Issy",
+    "Miyake",
 
     # --- Art and Design (Technical Term) ---
     "Wayfinding",
@@ -861,10 +888,13 @@ DEFAULT_IGNORED_WORDS = {
     "food-related",
     "kissogram",
     "longlist",
+    "Hallyu",
+    "Planometric",
 
     # --- Art and Design (Other) ---
     "cortina",
     "peggin",
+    "ie",
 
     # --- Dance (Proper Noun) ---
     "Rygbi",
@@ -885,6 +915,8 @@ DEFAULT_IGNORED_WORDS = {
     "Chór",
     "rond de jambe",
     "jambe",
+    "choreographics",
+    "ronde",
 
     # --- Dance (Initialism/Acronym) ---
     "ABACADA",
@@ -899,6 +931,18 @@ DEFAULT_IGNORED_WORDS = {
     "kitronik",
     "prerelease",
     "pre-release",
+    "renewability",
+    "anthropometrics",
+    "polylactic",
+    "piezo",
+    "vero",
+    "persulfate",
+    "lyocell",
+    "Geotextiles",
+    "Microfibres",
+    "Anthropometrics",
+    "toiles",
+    "Vee",
 
     # --- Design and Technology (Proper Noun) ---
     "Kitronik",
@@ -924,6 +968,11 @@ DEFAULT_IGNORED_WORDS = {
     "Adfer",
     "Felin",
     "Fons",
+    "Rober",
+    "Herpen",
+    "Alessi",
+    "Kevlar",
+    "Gore-tex",
 
     # --- Business (Initialism/Acronym) ---
     "GfT",
@@ -935,6 +984,7 @@ DEFAULT_IGNORED_WORDS = {
     "Aos",
     "JCQ",
     "TNCs",
+    "YBL",
 
     # --- Business (Proper Noun) ---
     "Technocamps",
@@ -944,17 +994,40 @@ DEFAULT_IGNORED_WORDS = {
     "McDonald's",
     "YouTube",
     "Merthyr Tydfil",
+    "Deborah-Coughlin",
+    "Nando",
+    "Haia",
+    "Statswales",
+    "Rikke",
+    "Tippex",
+    "Dulux",
+    "PictureIT",
+    "Tapi",
+    "Kamani",
+    "Touker",
+    "Suleymen",
+    "Meaden",
+    "Bizconsesh",
+    "Huel",
+    "Asda",
 
     # --- Business (Other) ---
     "creditworthy",
     "De Morgan's",
     "microfinance",
     "nonexamination",
+    "Cariad",
 
     # --- Business (Technical Term) ---
     "pseudocode",
     "Raspbian",
     "Translanguage",
+    "fayre",
+    "ecoconscious",
+    "fairtrade",
+    "developmentbank",
+    "mcommerce",
+    "reskilling",
 
     # --- Core Cymraeg (Initialism/Acronym) ---
     "TGAU",
@@ -1253,6 +1326,12 @@ DEFAULT_IGNORED_WORDS = {
     "Pite",
     "NonMarvel",
     "Ubsworth",
+    "Placey",
+    "Eccleston",
+    "Magdalen",
+    "Goodfellow",
+    "Whitchurch",
+    "Alaw",
 
     # --- Drama (Technical Term) ---
     "Artaudian",
@@ -1277,10 +1356,19 @@ DEFAULT_IGNORED_WORDS = {
     "spass",
     "Metatheatrical",
     "brechtian",
+    "metatheatrical",
+    "plotlines",
+    "sightlines",
+    "Vivas",
+    "plotline",
+    "sitespecific",
+    "socio",
+    "videoed",
 
     # --- Drama (Initialism/Acronym) ---
     "UOR",
     "OLV",
+    "SAMS",
 
     # --- Drama (Other) ---
     "aufhaltsame",
@@ -1419,5 +1507,21 @@ DEFAULT_IGNORED_WORDS = {
     "Fideos",
     "Canllawiau",
     "Addysgu",
+
+    # --- Digital Media and Film (Proper Noun) ---
+    "Paronnaud",
+    "Warchus",
+    "Wadjda",
+    "Hafiaa",
+    "Al-Mansour",
+    "Sugarman",
+    "Twomey",
+    "Sŵn",
+    "Chwarel",
+    "Triongl",
+
+    # --- Digital Media and Film (Initialism/Acronym) ---
+    "EPK",
+    "EPKs",
 
 }

@@ -47,7 +47,7 @@ Usage example (from script docstring):
   python scripts/deduplicate_language_issues.py input.csv -o output.csv
 
 Flags of note:
-  - `--keys` — comma-separated list of header names to use as the dedupe key. When omitted the script uses the language-check defaults: `Subject, Filename, Page, Rule ID, Type, Issue, Message, Suggestions, Context`.
+  - `--keys` — comma-separated list of header names to use as the dedupe key. When omitted the script uses a narrow default: `Issue` (this collapses identical spelling suggestions by token).  Specify other columns with `--keys` when different behaviour is desired.
   - `--ignore-case` — ignore case when comparing keys.
   - `--keep` — `first` or `last`, to choose which row is kept.
   - `--count` — add an `Occurrences` column showing how many rows were collapsed for the dedupe key.
