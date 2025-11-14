@@ -149,7 +149,25 @@ def build_language_tool(
 		tool_language = "en-GB"
 		if language != tool_language:
 			LOGGER.debug("Overriding requested language %s with %s", language, tool_language)
-		tool = language_tool_python.LanguageTool(tool_language)
+
+		# Use LanguageTool configuration options to improve local performance
+		# and caching as described in the upstream library docs.
+		# - maxCheckThreads: number of threads to use during checks
+		# - pipelineCaching: enable caching of processing pipeline to speed up repeated checks
+		# Note: LanguageTool's config keys use camelCase. The authoritative
+		# keys are documented in language_tool_python; use `maxCheckThreads`
+		# rather than snake_case.
+		config = {"maxCheckThreads": 6, "pipelineCaching": True}
+
+		# Some language_tool_python versions accept a 'config' keyword to control
+		# underlying pipeline options. If this fails (older versions), fall back to
+		# the simple constructor to preserve compatibility.
+		try:
+			tool = language_tool_python.LanguageTool(tool_language, config=config)
+		except TypeError:
+			# Older versions may not accept config; try without it
+			LOGGER.info("LanguageTool does not accept 'config' — falling back to default constructor")
+			tool = language_tool_python.LanguageTool(tool_language)
 	except Exception as exc:
 		# Do not silently fall back to the public API. If a local Java runtime
 		# isn't available or another error occurs, surface the original

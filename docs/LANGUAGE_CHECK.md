@@ -36,6 +36,19 @@ The language detection is automatic based on the subject folder name. Subject na
 - "French" (not "french" or "FRENCH")
 - "German" (not "german" or "GERMAN")
 
+### Under the hood / performance
+
+To improve throughput when checking many documents, the local LanguageTool is
+instantiated with a small performance-oriented configuration where supported:
+
+- `max_check_threads`: set to 6 to use up to six threads during checking
+- `pipelineCaching`: set to `true` to avoid re-building the processing pipeline
+  between checks
+
+If the installed version of `language_tool_python` does not support the
+`config` argument, the code will fall back to the default constructor; behaviour
+remains unchanged but without the performance tuning.
+
 ## Default Filtering
 
 ### Disabled Rules
