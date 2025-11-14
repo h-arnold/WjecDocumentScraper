@@ -65,6 +65,3 @@ The project includes comprehensive automated tests that don't require network ac
 
 - `tests/test_language_check.py` - Core language checking tests
 - `tests/test_language_check_multilang.py` - Multi-language support tests
-
-These tests use mocked LanguageTool instances and skip integration tests when
-network is unavailable.

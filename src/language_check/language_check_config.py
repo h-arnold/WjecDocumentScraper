@@ -269,4 +269,13 @@ DEFAULT_IGNORED_WORDS = {
     "McLynn", "Godwinson", "Sheppey", "Manzikert", "Ivar", "Ubba",
     "Halfdan", "Ragnarsson", "Lodbrok", "Lionheart", "WASPs", "Duranty",
     "Trueman", "Franklin D Roosevelt", "Kornilov", "Moorhouse", "Nimni", "OAAU",
+
+    # --- History (Proper Noun) ---
+    "Cynan",
+    "Boudicca",
+    "Madog",
+    # --- History (Other) ---
+    "ferch",
+    # --- History (Technical Term) ---
+    "motte",
 }

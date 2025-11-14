@@ -52,6 +52,7 @@ If you need details or examples for any of the above, see docs/ARCHITECTURE.md (
 - docs/ARCHITECTURE.md — architecture, API contracts, data flow, parsing rules, invariants. You must read this before changing `src/scraper/__init__.py` or anything affecting filenames/subjects.
 - docs/UV_GUIDE.md — how to run code, manage dependencies, sync/lock the environment. You must use these uv commands for all workflows.
 - docs/DEV_WORKFLOWS.md — quick checks, debugging, and testing patterns. Read before adding tests or doing parsing diagnostics.
+- docs/manage_language_ignore.md — new guide for amending `DEFAULT_IGNORED_WORDS`. Read before editing `scripts/manage_language_ignore.py` or its payload JSON.
 
 ## Notes on edge cases (already handled)
 
