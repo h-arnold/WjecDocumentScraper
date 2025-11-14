@@ -840,6 +840,13 @@ DEFAULT_IGNORED_WORDS = {
     "Salvador Dalí",
     "Dali",
     "Paul Peter Piech",
+    "Alem",
+    "Birling",
+    "Dribs",
+    "Meggarty",
+    "Mustaph",
+    "Pinnock",
+    "Sissay",
 
     # --- Art and Design (Technical Term) ---
     "Wayfinding",
@@ -852,6 +859,12 @@ DEFAULT_IGNORED_WORDS = {
     "storyboarding",
     "livestreamed",
     "food-related",
+    "kissogram",
+    "longlist",
+
+    # --- Art and Design (Other) ---
+    "cortina",
+    "peggin",
 
     # --- Dance (Proper Noun) ---
     "Rygbi",
