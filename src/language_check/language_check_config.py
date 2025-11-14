@@ -223,8 +223,19 @@ DEFAULT_IGNORED_WORDS = {
 
     # --- History: people and places seen in reports ---
     "Glyndwr", "Gruffudd", "Süleyman", "Sonni", "Jahan", "Askia", "Temujin", "Tyerman", "Babur", "Hardrada", "Llywelyn", "Cnut", "Nur", "Gruffydd", "Turvey", "Culpin", "Hanmer", "Breverton", "Genghis", "Swayer", "Deheubarth", "Songhai", "Harlech", "Khwarazmian", "Tondibi",
+    # --- Additional history tokens discovered in later report chunks ---
+    # Crusades / Middle East / Anatolia
+    "Western Europe", "Byzantine Empire", "Alexius", "Alexios", "Komnenos", "Zengi", "Zengid", "Hattin", "Nur ad-Din", "Nurad", "Imad al-Din", "al-Din",
+    # Ayyubid / Mamluk / related names and places
+    "Ayyubid", "Ayyubids", "Mamluk", "Mamluks", "Baybars", "Baibars", "Akko",
+    # Central Asian / West African names seen in reports
+    "Central Asia", "Songhay", "Djenné", "Djenne", "Djinguereber", "Sankoré", "Mansa", "Mansa Munsa",
+    # Mughal / South Asian tokens
+    "Baburnama", "Babur", "Humayun", "Humayan", "Sher Shah", "Sher Shah Suri", "Suri", "Kannauj", "Akbarnama", "Fatehpur", "Fatehpur Sikri", "Mansabdars", "Zamindars", "Abul Fazl", "Abul", "Ibadat Khana", "Ustad Mansur", "Mansur", "Chittorgarh", "Akbar", "Taj", "Taj Mahal", "Shikoh", "Shikoh",
+    # Scholars / modern authors
+    "Truschke",
     # --- Additional proper nouns / place names discovered in recent language-check reports ---
-    "Ghengis", "Gwenllian", "Tewdwr", "Hefin", "Dinefwr", "Kidwelly", "Crogen", "Ewloe", "Crug", "Crug Mawr", "Tenby", "Cadwaladr", "Maredudd", "Maelgwn", "Gryg", "Gethin", "Iorwerth", "Llansteffan", "Haverfordwest", "Laugharne", "Nevern", "Painscastle", "Colwyn", "Rhys", "Owain",
+    "Ghengis", "Gwenllian", "Tewdwr", "Hefin", "Dinefwr", "Kidwelly", "Crogen", "Ewloe", "Crug", "Crug Mawr", "Tenby", "Cadwaladr", "Maredudd", "Maelgwn", "Gryg", "Gethin", "Iorwerth", "Llansteffan", "Haverfordwest", "Laugharne", "Nevern", "Painscastle", "Colwyn", "Rhys", "Owain", "Anarawd", "Historynet", "Wiston", "Llandeilo", "Jamukha", "Ong", "Naiman", "Togrul", "Toghrul", "Anda", "Börte", "Borte", "Chinggis", "Merkit", "Kuchlug", "Ögodei", "Ogodei", "Baljuna", "Chakirmaut", "Kurultai", "Burkhan", "Yassa", "Kheshig", "Nokor", "Nökör", "Khitai", "Xianzong", "Zhangzong", "Tangut", "Tumen", "Mingghan", "Khwarazmians", "Khwarazm",
     # --- Additional Welsh historical names and variants requested from recent reports ---
     "Brough", "Pwll", "Melyn", "Ddu", "Dafydd", "Gam", "Hanmers", "Darogan", "Cadw", "Pennal", "Tywysog", "Mid Wales", "Mid-Wales",
     # --- Further tokens from recent language-check outputs (history / place names) ---
@@ -242,4 +253,20 @@ DEFAULT_IGNORED_WORDS = {
     # --- Geography ---
     "Borth", "Abermule", "Forden", "Berriew", "Twyni", "Rheidol", "Conwy", "Hina", "Blaenau", "Hafren", "Ystwyth", "Bannau", "Teleférico", "Ferrel", "Digimap",
     "LICs", "HICs", "Groynes", "OEBPS", "UNHDR", "isoline", "Throughflow", "skillset", "cumecs", "quadrats", "housebuilding", "socio-cultural", "skillfully", "Lasagne", "coginio",
+
+    # --- Additions from language-check-report (chunk lines 1501-2000) ---
+    # Proper nouns and tokens found in the report that should not be flagged
+    "Wolgemut", "Stigand", "Eadmer", "Rubenstein", "Tinchebrai", "Patcham",
+    "Warenne", "Cutestornes", "Phillipa", "Domesday", "Gytha", "Thorkilsdottir",
+    "Malet", "Orderic", "Vitalis", "Orderic Vitalis", "Historia Ecclesiastica",
+    "Brynmawr", "NUWSS", "WSPU", "Newsround", "Radway", "Whiskerd", "Pankhursts",
+    "Kilkeel", "Bygott", "Hereward", "Malcom", "Leyser", "Seebohm", "Whyman",
+    "Wykes", "Vreeland", "Econlib", "Pathé",
+
+    # --- Additions from language-check-report (chunk lines 2001-EOF) ---
+    # Proper nouns and tokens found in the final chunk of the report
+    "Jizya", "Ilahi", "llahi", "Ibadat", 
+    "McLynn", "Godwinson", "Sheppey", "Manzikert", "Ivar", "Ubba",
+    "Halfdan", "Ragnarsson", "Lodbrok", "Lionheart", "WASPs", "Duranty",
+    "Trueman", "Franklin D Roosevelt", "Kornilov", "Moorhouse", "Nimni", "OAAU",
 }
