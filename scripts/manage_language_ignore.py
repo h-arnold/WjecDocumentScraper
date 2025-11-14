@@ -160,7 +160,7 @@ def find_set_bounds(text: str) -> tuple[int, int]:
     if not match:
         raise ValueError(f"Could not find {SET_VARIABLE} definition in config.")
     brace_level = 0
-    start = match.end()
+    start = match.end()  # Position right after the opening brace
     for idx in range(match.end() - 1, len(text)):
         char = text[idx]
         if char == "{":
@@ -168,7 +168,7 @@ def find_set_bounds(text: str) -> tuple[int, int]:
         elif char == "}":
             brace_level -= 1
             if brace_level == 0:
-                return start, idx
+                return start, idx  # start is after '{', idx is at '}'
     raise ValueError("Malformed config: unmatched braces.")
 
 
@@ -188,8 +188,11 @@ def parse_existing_blocks(text: str) -> list[IgnoreBlock]:
             current = IgnoreBlock(subject=match.group("subject"), category=match.group("category"), words=[])
             blocks.append(current)
             continue
-        if current and stripped.startswith('"') and stripped.endswith('",'):
-            current.words.append(stripped[1:-2])
+        # Handle both "word", and "word" formats (with or without trailing comma)
+        if current and stripped.startswith('"'):
+            word_match = re.match(r'"([^"]+)",?$', stripped)
+            if word_match:
+                current.words.append(word_match.group(1))
     return blocks
 
 
@@ -267,13 +270,14 @@ def apply_updates(config_path: Path, data_path: Path, *, dry_run: bool) -> None:
         print("No new words to add.")
         return
     start, end = find_set_bounds(config_text)
-    set_text = config_text[start:end]
-    blocks = parse_existing_blocks(set_text)
+    # Parse blocks from the entire config text to find comment headers
+    blocks = parse_existing_blocks(config_text)
     if not merge_new_entries(blocks, new_entries):
         print("No new words to add.")
         return
     insert_text = format_ignore_blocks(blocks)
-    updated = config_text[:end] + insert_text + config_text[end:]
+    # Insert between the opening brace (start) and closing brace (end)
+    updated = config_text[:start] + insert_text + config_text[end:]
     if dry_run:
         print("Dry run: would add the following block:")
         print(format_new_entries_block(new_entries))
