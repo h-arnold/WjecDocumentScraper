@@ -16,6 +16,7 @@ dependencies = [
     "requests>=2.32.5",
     "pystache>=0.5.0",
     "pydantic>=2.12.4",
+    "mistralai>=1.9.11",
 ]
 
 [tool.uv.sources]
