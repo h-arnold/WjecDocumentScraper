@@ -28,9 +28,10 @@ from src.scraper import QUALIFICATION_URLS
 
 DEFAULT_CONFIG_PATH = Path("src/language_check/language_check_config.py")
 SET_VARIABLE = "DEFAULT_IGNORED_WORDS"
-MAX_WORD_LENGTH = 0
-ALLOWED_PUNCTUATION = {".", "-", " ", "'", "’"}
+MAX_WORD_LENGTH = 64
+ALLOWED_PUNCTUATION = {".", "-", " ", "'", "’", "/"}
 VALID_SUBJECT_MAP = {subject.lower(): subject for subject in QUALIFICATION_URLS}
+HEADER_RE = re.compile(r"# --- (?P<subject>[^()]+) \((?P<category>[^)]+)\) ---")
 
 
 def is_allowed_char(char: str) -> bool:
@@ -45,6 +46,13 @@ class IgnoreEntry:
     subject: str
     category: str
     word: str
+
+
+@dataclass
+class IgnoreBlock:
+    subject: str
+    category: str
+    words: list[str]
 
 
 class InputWord(BaseModel):
@@ -147,7 +155,69 @@ def collect_existing_words(text: str) -> set[str]:
     return set(match.group(1) for match in re.finditer(r'"([^"\n]+?)"', set_text))
 
 
-def format_insert_block(entries: list[IgnoreEntry]) -> str:
+def parse_existing_blocks(text: str) -> list[IgnoreBlock]:
+    blocks: list[IgnoreBlock] = []
+    current: IgnoreBlock | None = None
+    for line in text.splitlines():
+        stripped = line.strip()
+        match = HEADER_RE.match(stripped)
+        if match:
+            current = IgnoreBlock(subject=match.group("subject"), category=match.group("category"), words=[])
+            blocks.append(current)
+            continue
+        if current and stripped.startswith('"') and stripped.endswith('",'):
+            current.words.append(stripped[1:-2])
+    return blocks
+
+
+def insert_block_after_subject(blocks: list[IgnoreBlock], block: IgnoreBlock) -> None:
+    for idx in range(len(blocks) - 1, -1, -1):
+        if blocks[idx].subject == block.subject:
+            blocks.insert(idx + 1, block)
+            return
+    blocks.append(block)
+
+
+def merge_new_entries(blocks: list[IgnoreBlock], entries: list[IgnoreEntry]) -> bool:
+    block_map = {(block.subject, block.category): block for block in blocks}
+    pending_blocks: dict[tuple[str, str], IgnoreBlock] = {}
+    pending_order: list[tuple[str, str]] = []
+    added = False
+
+    for entry in entries:
+        key = (entry.subject, entry.category)
+        block = block_map.get(key)
+        if block:
+            if entry.word not in block.words:
+                block.words.append(entry.word)
+                added = True
+            continue
+        pending = pending_blocks.get(key)
+        if pending is None:
+            pending = IgnoreBlock(subject=entry.subject, category=entry.category, words=[])
+            pending_blocks[key] = pending
+            pending_order.append(key)
+        if entry.word not in pending.words:
+            pending.words.append(entry.word)
+            added = True
+
+    for key in pending_order:
+        insert_block_after_subject(blocks, pending_blocks[key])
+
+    return added
+
+
+def format_ignore_blocks(blocks: list[IgnoreBlock]) -> str:
+    lines = ["\n"]
+    for block in blocks:
+        lines.append(f"    # --- {block.subject} ({block.category}) ---\n")
+        for word in block.words:
+            lines.append(f"    \"{word}\",\n")
+        lines.append("\n")
+    return "".join(lines)
+
+
+def format_new_entries_block(entries: list[IgnoreEntry]) -> str:
     if not entries:
         return ""
     groups: dict[tuple[str, str], list[str]] = {}
@@ -165,9 +235,7 @@ def format_insert_block(entries: list[IgnoreEntry]) -> str:
 def apply_updates(config_path: Path, data_path: Path, *, dry_run: bool) -> None:
     config_text = config_path.read_text()
     existing = collect_existing_words(config_text)
-    longest_existing = max((len(word) for word in existing), default=0)
-    global MAX_WORD_LENGTH
-    MAX_WORD_LENGTH = max(longest_existing, 1)
+    # MAX_WORD_LENGTH is now fixed at 64 (see top of file)
 
     input_data = json.loads(data_path.read_text())
     raw_entries = parse_input(input_data)
@@ -175,15 +243,17 @@ def apply_updates(config_path: Path, data_path: Path, *, dry_run: bool) -> None:
     if not new_entries:
         print("No new words to add.")
         return
-    insert_text = format_insert_block(new_entries)
-    if not insert_text:
-        print("No formatted block to insert.")
-        return
     start, end = find_set_bounds(config_text)
+    set_text = config_text[start:end]
+    blocks = parse_existing_blocks(set_text)
+    if not merge_new_entries(blocks, new_entries):
+        print("No new words to add.")
+        return
+    insert_text = format_ignore_blocks(blocks)
     updated = config_text[:end] + insert_text + config_text[end:]
     if dry_run:
         print("Dry run: would add the following block:")
-        print(insert_text)
+        print(format_new_entries_block(new_entries))
         return
     config_path.write_text(updated)
     print(f"Inserted {len(new_entries)} new words into {config_path}.")

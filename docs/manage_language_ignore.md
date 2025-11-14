@@ -16,7 +16,7 @@ Prepare a JSON manifest (e.g., `data/language-ignore/<subject>.json`) that follo
 [{
   "subject": "History",
   "words": [
-    {"word": "Cynan", "category": "Proper Noun"},
+    {"word": "Cynan", "category": "Proper Noun"}, #Note - must be capitalised.
     {"word": "ferch", "category": "other"},
     {"word": "motte", "category": "Technical Term"}
   ]
