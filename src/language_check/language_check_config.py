@@ -984,7 +984,6 @@ DEFAULT_IGNORED_WORDS = {
     "Tyrd",
     "Dafydd",
     "Efa",
-    "Fforestfach",
     "Ifor",
     "Nain",
     "Radyr",
@@ -1249,6 +1248,11 @@ DEFAULT_IGNORED_WORDS = {
     "Woza",
     "Wyddfa",
     "Zizou",
+    "Penmaenmawr",
+    "Nóg",
+    "Pite",
+    "NonMarvel",
+    "Ubsworth",
 
     # --- Drama (Technical Term) ---
     "Artaudian",
@@ -1264,6 +1268,24 @@ DEFAULT_IGNORED_WORDS = {
     "gobos",
     "multi-roling",
     "realia",
+    "appropriacy",
+    "Stanislavskian",
+    "commedia",
+    "Crossfade",
+    "Gobos",
+    "Marksheet",
+    "spass",
+    "Metatheatrical",
+    "brechtian",
+
+    # --- Drama (Initialism/Acronym) ---
+    "UOR",
+    "OLV",
+
+    # --- Drama (Other) ---
+    "aufhaltsame",
+    "Aufstieg",
+    "des",
 
     # --- Food and Nutrition (Proper Noun) ---
     "Eatwell",
