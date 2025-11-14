@@ -1265,4 +1265,51 @@ DEFAULT_IGNORED_WORDS = {
     "multi-roling",
     "realia",
 
+    # --- Food and Nutrition (Proper Noun) ---
+    "Eatwell",
+    "MyFitnessPal",
+    "Nadiya",
+
+    # --- Food and Nutrition (Technical Term) ---
+    "Bâton",
+    "Brunoise",
+    "Carne",
+    "Chiffonade",
+    "Deseeding",
+    "Dextrinisation",
+    "dextrinization",
+    "Gelation",
+    "Gliadin",
+    "Glutenin",
+    "Griddling",
+    "Haemoglobin",
+    "Lacto-ovo",
+    "lacto-ovo",
+    "Lasagne",
+    "Mise",
+    "mise",
+    "Mycoprotein",
+    "Ovo",
+    "ovo",
+    "Roux",
+    "Shortcrust",
+    "shortcrust",
+    "Spatchcock",
+    "Stanols",
+    "Sucree",
+    "Tikka",
+    "Zesting",
+    "zesting",
+
+    # --- Food and Nutrition (Initialism/Acronym) ---
+    "BOGOF",
+    "DRVs",
+    "EHOs",
+    "NMES",
+    "RNI",
+
+    # --- Food and Nutrition (Other) ---
+    "Socio-cultural",
+    "Soya",
+
 }
