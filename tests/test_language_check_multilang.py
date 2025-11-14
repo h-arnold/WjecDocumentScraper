@@ -1,7 +1,7 @@
-"""Tests for multi-language support in language checking.
+"""Tests for language selection in language checking.
 
-This module tests the ability to check documents with multiple language
-dictionaries simultaneously, particularly for French and German subjects.
+This module verifies that the checker consistently uses the expected
+LanguageTool configuration for each subject.
 """
 
 from __future__ import annotations
@@ -20,41 +20,33 @@ from src.language_check import (
 )
 
 
-def test_get_languages_for_subject_french() -> None:
-    """Test that French subject returns both English and French."""
-    languages = get_languages_for_subject("French")
-    assert languages == ["en-GB", "fr"]
 
-
-def test_get_languages_for_subject_german() -> None:
-    """Test that German subject returns both English and German."""
-    languages = get_languages_for_subject("German")
-    assert languages == ["en-GB", "de"]
-
-
-def test_get_languages_for_subject_other() -> None:
-    """Test that non-language subjects return only English."""
-    # Test various subject names
-    for subject in ["Computer-Science", "Mathematics", "History", "Art-and-Design"]:
+def test_get_languages_for_subject_all_subjects_use_en_gb() -> None:
+    """Every subject currently maps to British English."""
+    for subject in [
+        "French",
+        "German",
+        "Spanish",
+        "Computer-Science",
+        "Mathematics",
+        "History",
+        "Art-and-Design",
+    ]:
         languages = get_languages_for_subject(subject)
-        assert languages == ["en-GB"], f"Subject {subject} should only use English"
+        assert languages == ["en-GB"], f"Subject {subject} should use en-GB"
 
 
-def test_get_languages_for_subject_case_sensitive() -> None:
-    """Test that subject name matching is case-sensitive."""
-    # Lowercase should not match
-    languages = get_languages_for_subject("french")
-    assert languages == ["en-GB"]
-    
-    languages = get_languages_for_subject("german")
-    assert languages == ["en-GB"]
+def test_get_languages_for_subject_is_case_sensitive() -> None:
+    """Case-sensitive names still resolve to the same default language."""
+    assert get_languages_for_subject("french") == ["en-GB"]
+    assert get_languages_for_subject("german") == ["en-GB"]
 
 
 def test_french_document_integration(tmp_path: Path) -> None:
     """Integration test: Check a French document with actual content.
     
     This test uses a small French markdown file from the Documents folder
-    and verifies that the multi-language checking works correctly.
+    and verifies that the en-GB checker handles it without errors.
     
     Note: This test requires network access to download LanguageTool.
     It will be skipped if the Documents folder doesn't exist or if
@@ -80,8 +72,7 @@ def test_french_document_integration(tmp_path: Path) -> None:
         # Fallback to smallest file
         test_doc = min(french_files, key=lambda p: p.stat().st_size)
     
-    # Try to run the check with auto-detection of languages
-    # This will use both French and English language tools
+    # Try to run the check with the standard en-GB configuration
     try:
         report = check_single_document(test_doc, subject="French")
     except Exception as e:
@@ -237,18 +228,15 @@ This sentence has a spelling error.
 
 
 def test_build_language_tools_for_french() -> None:
-    """Test that building tools for French creates two tools."""
+    """Test that building tools for French returns the en-GB tool."""
     import pytest
     pytest.skip("Requires network access to LanguageTool server")
     
     tools = build_language_tools_for_subject("French")
     
-    # Should create tools for English and French
-    assert len(tools) == 2
-    
-    # Verify the languages (order: English first, then French)
+    # Should create only the English tool
+    assert len(tools) == 1
     assert tools[0].language == "en-GB"
-    assert tools[1].language == "fr"
     
     # Clean up
     for tool in tools:
@@ -287,7 +275,7 @@ def test_backward_compatibility_with_single_tool(tmp_path: Path) -> None:
     match = DummyMatch()
     tool = DummyTool([match])
     
-    # Check with explicit tool (should bypass multi-language logic)
+    # Check with explicit tool (bypasses subject-specific tool creation)
     report = check_single_document(test_doc, subject="French", tool=tool)
     
     # Should work as before

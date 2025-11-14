@@ -26,49 +26,16 @@ from .language_issue import LanguageIssue
 LOGGER = logging.getLogger(__name__)
 
 
-# Subject-to-language mapping for multi-language support
-# Maps subject names to additional language codes to check
-SUBJECT_LANGUAGE_MAP = {
-	"French": "fr",
-	"German": "de",
-}
-
 
 def get_languages_for_subject(subject: str) -> list[str]:
 	"""Determine which languages to check for a given subject.
-	
-	**Important**: LanguageTool does not support checking mixed-language documents
-	by running multiple language checkers. Running both English and French checkers
-	on a mixed-language document will generate hundreds of false positives because:
-	- The English checker will flag all French words as spelling errors
-	- The French checker will flag all English words as spelling errors
-	
-	The correct approach is to use **language auto-detection** with a preferred
-	variant (en-GB for British English). This allows LanguageTool to detect the
-	primary language of the document while preferring British English when English
-	is detected. Foreign language words in embedded examples should be added to
-	the ignore list.
-	
+
 	Args:
 		subject: Subject name (e.g., "French", "German", "Computer-Science")
 		
 	Returns:
-		List containing 'auto' for automatic language detection
+		List describing which language(s) to check; currently always en-GB
 	"""
-	# Use auto-detection - it will detect the primary language of the document
-	# The preferred variant (en-GB) is set in build_language_tool()
-	# Historically this project used explicit per-subject language tool
-	# instances (English + subject language for language subjects). Tests
-	# and existing behaviour expect that for `French` and `German` (and
-	# `Spanish`) we return both English and the subject language. Keep the
-	# matching case-sensitive by design.
-	if subject == "French":
-		return ["en-GB", "fr"]
-	if subject == "German":
-		return ["en-GB", "de"]
-	if subject == "Spanish":
-		return ["en-GB", "es"]
-	# Default: English only
 	return ["en-GB"]
 
 
@@ -179,21 +146,17 @@ def build_language_tool(
 		words_to_ignore.update(ignored_words)
 
 	try:
-		# When using auto-detection, we'll set preferred variants after creation
-		tool = language_tool_python.LanguageTool(language)
-		
-		# For auto-detection, set preferred variant to British English
-		# This ensures spell-checking works correctly for English documents
-		if language == "auto":
-			tool.preferred_variants = {'en-GB'}
-			LOGGER.info("Using automatic language detection with preferred variant: en-GB")
+		tool_language = "en-GB"
+		if language != tool_language:
+			LOGGER.debug("Overriding requested language %s with %s", language, tool_language)
+		tool = language_tool_python.LanguageTool(tool_language)
 	except Exception as exc:
 		# Do not silently fall back to the public API. If a local Java runtime
 		# isn't available or another error occurs, surface the original
 		# exception so the caller can decide how to proceed. This prevents
 		# unexpected use of the public LanguageTool API in environments where
 		# network access or rate limits are undesired.
-		LOGGER.exception("Failed to create local LanguageTool for %s: %s", language, exc)
+		LOGGER.exception("Failed to create local LanguageTool for %s: %s", tool_language, exc)
 		raise
 	
 	# Disable specified rules

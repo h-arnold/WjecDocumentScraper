@@ -148,26 +148,12 @@ DEFAULT_IGNORED_WORDS = {
     # Add your words here
 }
 
-### Adding Support for Additional Languages
+### Language configuration
 
-To add support for additional language subjects (e.g., Spanish, Italian), edit the `SUBJECT_LANGUAGE_MAP` in `src/language_check/language_check.py`:
-
-```python
-# Subject-to-language mapping for multi-language support
-SUBJECT_LANGUAGE_MAP = {
-    "French": "fr",
-    "German": "de",
-    "Spanish": "es",  # Add Spanish support
-    "Italian": "it",  # Add Italian support
-}
-```
-
-After adding a language mapping:
-1. The subject name must match the folder name exactly (case-sensitive)
-2. Use the appropriate LanguageTool language code (e.g., "es" for Spanish, "it" for Italian)
-3. Documents in that subject will be checked with English plus the specified additional language
-
-For a list of supported LanguageTool language codes, see: [LanguageTool Languages](https://languagetool.org/languages)
+Language checking always runs with the British English (`en-GB`) LanguageTool model. There is no
+per-subject language override in the current workflow, so every document is processed with the
+same dictionary and rule set. If you need to target another language, adjust the calls to
+`build_language_tool` in `src/language_check/language_check.py` accordingly.
 
 ## Output
 
