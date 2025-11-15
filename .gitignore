@@ -15,3 +15,6 @@ progress.log
 
 # LLM categoriser artifacts
 data/*
+
+# Environment Variables
+.env
