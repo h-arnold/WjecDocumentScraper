@@ -21,7 +21,8 @@ def build_prompts(batch: Batch) -> list[str]:
         batch: A Batch object containing issues and page context
         
     Returns:
-        A list with two strings: [system_prompt, user_prompt]
+        A list with one or two strings: [system_prompt, user_prompt] if both are present,
+        or [user_prompt] if no system prompt is found
         
     Notes:
         - The template is rendered with context including subject, filename,
