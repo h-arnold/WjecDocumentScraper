@@ -36,7 +36,7 @@ American spellings found: <img src="badges/ize-suffixes.svg" alt="Ize suffixes c
 3. ✅ [COMPLETE]  Use [Language Tool](https://languagetool.org/) to check the converted documents for spelling and grammar issues and create an ignore and exception list to reduce false positives. 
 	- Ignore list created. Still lots of false positives but it is now skimmable to find the real issues.
 4. ⏳ [IN PROGRESS] Use LLMs to categorise the issues identified in 3. 
-5. ⏳ [IN PROGRESS]  Use LLMs to proofread documents in small chunks (maximum 10 pages to reduce hallucinations) to spot issues missed by traditional grammar and spell checkers like incorrect homophones, missing words, and contextually incorrect phrases.
+5. ⏳ [IN PROGRESS] Use LLMs to proofread documents in small chunks (maximum 10 pages to reduce hallucinations) to spot issues missed by traditional grammar and spell checkers like incorrect homophones, missing words, and contextually incorrect phrases.
 6. ❌ [NOT STARTED] Use LLMs to check for factual errors.
 
 ### Consistency Checking
