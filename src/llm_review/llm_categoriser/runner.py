@@ -262,11 +262,11 @@ class CategoriserRunner:
                     
                     # Try to identify which input issue this corresponds to
                     # Match by rule_from_tool and context_from_tool
-                    for input_issue in issues:
-                        if (input_issue.rule_id == validated.rule_from_tool and
-                            input_issue.highlighted_context == validated.context_from_tool):
-                            failed_issue_ids.discard(input_issue.issue_id)
-                            break
+                    # Match by issue_id for 1:1 correspondence
+                    if hasattr(validated, "issue_id"):
+                        failed_issue_ids.discard(validated.issue_id)
+                    else:
+                        print(f"    Warning: LLM response issue missing 'issue_id' field.")
                     
                 except ValidationError as e:
                     print(f"    Warning: Validation error for issue in '{page_key}': {e}")
