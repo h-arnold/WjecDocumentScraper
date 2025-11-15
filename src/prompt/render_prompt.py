@@ -59,13 +59,9 @@ def render_template(template_name: str = "language_tool_categoriser.md", context
     # Load required partials
     partials = {}
     
-    # Load llm_reviewer_system_prompt partial
-    partial_content = _read_prompt("llm_reviewer_system_prompt.md")
-    partials["llm_reviewer_system_prompt"] = _strip_code_fences(partial_content)
-    
-    # Load authoritative_sources partial
-    partial_content = _read_prompt("authoritative_sources.md")
-    partials["authoritative_sources"] = _strip_code_fences(partial_content)
+    for partial_name in ["llm_reviewer_system_prompt", "authoritative_sources"]:
+        partial_content = _read_prompt(f"{partial_name}.md")
+        partials[partial_name] = _strip_code_fences(partial_content)
 
     renderer = pystache.Renderer(partials=partials)
     return renderer.render(template, context or {})
