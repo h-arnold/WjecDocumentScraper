@@ -9,6 +9,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 from src.prompt.render_prompt import render_template, render_prompts
+from src.language_check.report_utils import build_issue_pages
 
 if TYPE_CHECKING:
     from .batcher import Batch
@@ -43,6 +44,9 @@ def build_prompts(batch: Batch) -> list[str]:
         "filename": batch.filename,
         "issue_table": batch.markdown_table,
         "page_context": page_context_list,
+        # Structured per-page issues for templates that need both a small table
+        # per-page and the full page context (no truncation).
+        "issue_pages": build_issue_pages(batch.issues, batch.page_context),
     }
     
     # Attempt to render two separate templates if available

@@ -3,7 +3,25 @@
 
 ## Issue Batch
 
+{{#issue_pages}}
+### Page {{page_number}}
+| issue_id | issue | highlighted_context |
+| --- | --- | --- |
+{{#issues}}
+| {{issue_id}} | {{issue}} | {{highlighted_context}} |
+{{/issues}}
+
+Page context:
+```markdown
+{{{page_content}}}
+```
+
+---
+{{/issue_pages}}
+
+{{^issue_pages}}
 {{{issue_table}}}
+{{/issue_pages}}
 
 ---
 

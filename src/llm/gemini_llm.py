@@ -75,6 +75,7 @@ class GeminiLLM:
         config = types.GenerateContentConfig(
             system_instruction=self._system_prompt,
             thinking_config=types.ThinkingConfig(thinking_budget=self.MAX_THINKING_BUDGET),
+            temperature=0.2,
         )
         response = self._client.models.generate_content(
             model=self.MODEL,

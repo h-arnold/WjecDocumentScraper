@@ -61,6 +61,59 @@ def build_issue_batch_table(issues: list["LanguageIssue"]) -> str:
     return "\n".join(lines)
 
 
+def build_issue_pages(issues: list["LanguageIssue"], page_context: dict[int, str]) -> list[dict]:
+    """Group issues by page and prepare structured data for prompt rendering.
+
+    Returns a list of page dicts sorted by page number. Each page dict contains:
+        - page_number: str (human-friendly page label or "—")
+        - issues: list of dicts with keys: issue_id, issue, highlighted_context
+        - page_content: the raw page text from page_context (no truncation)
+
+    This helper is designed for use by LLM prompt templates which iterate over
+    `issue_pages` and render both a compact table (one row per issue) followed
+    by the full page context. The function escapes pipe characters to avoid
+    breaking Markdown tables but otherwise leaves Markdown content intact.
+    """
+
+    if not issues:
+        return []
+
+    # Group issues by page number. Missing page numbers (None) use 0 to match
+    # the behaviour in `iter_batches` (page 0 = whole document).
+    pages: dict[int, list["LanguageIssue"]] = {}
+    for issue in issues:
+        key = issue.page_number if issue.page_number is not None else 0
+        pages.setdefault(key, []).append(issue)
+
+    page_list: list[dict] = []
+    for page in sorted(pages.keys()):
+        page_issues = sorted(pages[page], key=lambda i: i.issue_id)
+        issue_rows = []
+        for i in page_issues:
+            issue_id = str(i.issue_id) if i.issue_id >= 0 else "—"
+            issue_text = i.issue.replace("|", "\\|") if i.issue else "—"
+            highlighted = (i.highlighted_context or "").replace("|", "\\|")
+            issue_rows.append({
+                "issue_id": issue_id,
+                "issue": issue_text,
+                "highlighted_context": highlighted,
+            })
+
+        # Page label: use em dash for unknown/0 (same as markdown table behaviour)
+        page_label = str(page) if page != 0 else "—"
+
+        page_list.append(
+            {
+                "page_number": page_label,
+                "issues": issue_rows,
+                "page_content": page_context.get(page, ""),
+                "issue_count": len(issue_rows),
+            }
+        )
+
+    return page_list
+
+
 def build_report_markdown(reports: Iterable["DocumentReport"]) -> str:
     """Convert the collected document reports into Markdown output."""
 

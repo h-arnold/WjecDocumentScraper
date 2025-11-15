@@ -17,3 +17,4 @@ progress.log
 data/llm_categoriser_state.json
 data/batch_payloads/
 Documents/*/document_reports/
+data/*
