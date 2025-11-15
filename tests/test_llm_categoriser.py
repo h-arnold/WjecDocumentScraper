@@ -18,6 +18,9 @@ from src.language_check.language_issue import LanguageIssue
 from src.llm_review.llm_categoriser.data_loader import load_issues, _parse_csv
 from src.llm_review.llm_categoriser.batcher import iter_batches
 from src.llm_review.llm_categoriser.state import CategoriserState
+from src.llm.provider import LLMQuotaError
+from src.llm.service import LLMService
+from src.llm_review.llm_categoriser.batcher import Batch
 from src.llm_review.llm_categoriser.persistence import save_batch_results, load_document_results
 from src.llm_review.llm_categoriser.runner import CategoriserRunner
 from src.models.document_key import DocumentKey
@@ -482,3 +485,54 @@ def test_runner_uses_env_toggle_for_logging(tmp_path: Path, monkeypatch: pytest.
     data = json.loads(files[0].read_text())
     assert data["issue_ids"] == [7]
     assert data["response"] == {"foo": "env"}
+
+
+def test_runner_handles_provider_quota_gracefully(tmp_path: Path) -> None:
+    """Ensure LLM quota errors can be handled and optionally abort the run.
+
+    When the provider raises an LLMQuotaError the runner should not crash by
+    default (it aborts the batch and continues). When the runner is configured
+    with fail_on_quota=True it should re-raise the error so the caller can exit.
+    """
+
+    # Create a dummy provider which raises quota
+    class _QuotaProvider:
+        name = "quota"
+
+        def generate(self, user_prompts, *, filter_json=False):
+            raise LLMQuotaError("quota reached")
+
+        def batch_generate(self, batch_payload, *, filter_json=False):
+            raise LLMQuotaError("quota reached")
+
+        def health_check(self):
+            return True
+
+    llm_service = LLMService([_QuotaProvider()])
+
+    state = CategoriserState(tmp_path / "state.json")
+    runner = CategoriserRunner(llm_service=llm_service, state=state)
+
+    issue = LanguageIssue(
+        filename="doc.md",
+        rule_id="RULE1",
+        message="msg",
+        issue_type="type",
+        replacements=[],
+        context="ctx",
+        highlighted_context="ctx",
+        issue="issue",
+        page_number=1,
+        issue_id=5,
+    )
+
+    key = DocumentKey(subject="Test", filename="doc.md")
+    batch = Batch(subject="Test", filename="doc.md", index=0, issues=[issue], page_context={1: "ctx"}, markdown_table="table")
+
+    # By default we should not raise, just return False
+    assert runner._process_batch(key, batch) is False
+
+    # When configured to fail on quota, it should raise
+    runner2 = CategoriserRunner(llm_service=llm_service, state=state, fail_on_quota=True)
+    with pytest.raises(LLMQuotaError):
+        runner2._process_batch(key, batch)

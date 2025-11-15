@@ -7,6 +7,11 @@ from typing import Any, Sequence
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+try:
+    from google.api_core import exceptions as google_exceptions
+except Exception:  # pragma: no cover - only occurs in test environment without google libs
+    google_exceptions = None
+from src.llm.provider import LLMQuotaError
 
 from .json_utils import parse_json_response
 
@@ -77,11 +82,22 @@ class GeminiLLM:
             thinking_config=types.ThinkingConfig(thinking_budget=self.MAX_THINKING_BUDGET),
             temperature=0.2,
         )
-        response = self._client.models.generate_content(
-            model=self.MODEL,
-            contents=contents,
-            config=config,
-        )
+        try:
+            response = self._client.models.generate_content(
+                model=self.MODEL,
+                contents=contents,
+                config=config,
+            )
+        except Exception as exc:
+            # Translate known google API quota/rate-limit exceptions into the
+            # project's LLMQuotaError so higher-level logic can handle provider
+            # fallbacks or fail fast depending on configuration.
+            if google_exceptions is not None and (
+                isinstance(exc, getattr(google_exceptions, "ResourceExhausted", object))
+                or isinstance(exc, getattr(google_exceptions, "TooManyRequests", object))
+            ):
+                raise LLMQuotaError("Gemini provider: quota exhausted or rate limited") from exc
+            raise
         if not apply_filter:
             return response
 

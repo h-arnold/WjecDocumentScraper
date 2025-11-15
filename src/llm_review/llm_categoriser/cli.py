@@ -51,6 +51,7 @@ Environment Variables:
   GEMINI_MIN_REQUEST_INTERVAL    Min seconds between Gemini requests (default: 0)
   LLM_PRIMARY                    Primary LLM provider (default: gemini)
   LLM_FALLBACK                   Fallback providers (comma-separated)
+    LLM_FAIL_ON_QUOTA              When set (true/1/yes/on), exit the run on quota exhaustion (default: true)
         """,
     )
     
@@ -165,6 +166,23 @@ Environment Variables:
         type=Path,
         help="Directory where raw responses should be written (default: data/llm_categoriser_responses)",
     )
+
+    # Quota behaviour: default True, can be overridden by env or CLI switch
+    parser.add_argument(
+        "--fail-on-quota",
+        dest="fail_on_quota",
+        action="store_true",
+        default=None,
+        help="Exit the run when LLM providers report quota/rate-limit exhaustion (default: true)",
+    )
+
+    parser.add_argument(
+        "--no-fail-on-quota",
+        dest="fail_on_quota",
+        action="store_false",
+        default=None,
+        help="Do not abort the whole run on quota exhaustion; continue processing other documents",
+    )
     
     return parser.parse_args(args)
 
@@ -235,6 +253,15 @@ def main(args: list[str] | None = None) -> int:
     # Create runner
     log_responses_flag = True if parsed_args.log_responses else None
     log_responses_dir = parsed_args.log_responses_dir
+    # CLI flag precedence: if the user passed --fail-on-quota/--no-fail-on-quota, prefer that.
+    if parsed_args.fail_on_quota is None:
+        try:
+            # Env var can be used to control behaviour; default to true if unspecified.
+            fail_on_quota = os.environ.get("LLM_FAIL_ON_QUOTA", "1").strip().lower() in {"1", "true", "yes", "on"}
+        except Exception:
+            fail_on_quota = True
+    else:
+        fail_on_quota = parsed_args.fail_on_quota
     runner = CategoriserRunner(
         llm_service=llm_service,
         state=state,
@@ -243,6 +270,7 @@ def main(args: list[str] | None = None) -> int:
         min_request_interval=min_interval,
         log_raw_responses=log_responses_flag,
         log_response_dir=log_responses_dir,
+        fail_on_quota=fail_on_quota,
     )
     
     # Run categorisation

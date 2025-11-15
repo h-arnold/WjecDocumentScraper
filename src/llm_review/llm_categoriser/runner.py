@@ -17,6 +17,7 @@ from pydantic import ValidationError
 
 from src.models import LanguageIssue, DocumentKey
 from src.llm.service import LLMService
+from src.llm.provider import LLMQuotaError
 
 from .batcher import Batch, iter_batches
 from .data_loader import load_issues
@@ -37,7 +38,8 @@ class CategoriserRunner:
         max_retries: int = 2,
         min_request_interval: float = 0.0,
         log_raw_responses: bool | None = None,
-        log_response_dir: Path | None = None,
+    log_response_dir: Path | None = None,
+    fail_on_quota: bool = False,
     ):
         """Initialize the runner.
         
@@ -68,6 +70,10 @@ class CategoriserRunner:
         # Initialize to 0.0 so that the first API call is not rate-limited.
         # This ensures the first request does not sleep; subsequent requests will enforce the interval.
         self._last_request_time = 0.0
+        # Whether we should abort the entire run when the LLM reports quota
+        # exhaustion. Defaults to False to preserve existing behaviour where
+        # a single failed batch does not stop the whole run.
+        self.fail_on_quota = fail_on_quota
     
     def run(
         self,
@@ -205,6 +211,13 @@ class CategoriserRunner:
             # Call LLM
             try:
                 response = self.llm_service.generate(user_prompts, filter_json=True)
+            except LLMQuotaError as exc:
+                # If providers report a quota exhaustion we may want to abort
+                # the whole run — make this configurable for tests and CLI.
+                print(f"    Provider quota exhausted: {exc}")
+                if self.fail_on_quota:
+                    raise
+                return False
             except Exception as e:
                 print(f"    Error calling LLM: {e}")
                 return False
