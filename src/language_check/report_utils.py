@@ -53,8 +53,8 @@ def build_issue_batch_table(issues: list["LanguageIssue"]) -> str:
     for issue in issues:
         issue_id_str = str(issue.issue_id) if issue.issue_id >= 0 else "—"
         page_num = str(issue.page_number) if issue.page_number is not None else "—"
-        issue_text = (issue.issue or "—").replace("|", "\\|")
-        context = (issue.highlighted_context or "—").replace("|", "\\|")
+        issue_text = issue.issue.replace("|", "\\|")
+        context = issue.highlighted_context.replace("|", "\\|")
         
         lines.append(f"| {issue_id_str} | {page_num} | {issue_text} | {context} |")
     
