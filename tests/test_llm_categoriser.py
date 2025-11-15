@@ -14,7 +14,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from src.language_check.language_issue import LanguageIssue
 from src.llm_review.llm_categoriser.data_loader import load_issues, _parse_csv
-from src.llm_review.llm_categoriser.batcher import Batch, iter_batches
+from src.llm_review.llm_categoriser.batcher import iter_batches
 from src.llm_review.llm_categoriser.state import CategoriserState
 from src.llm_review.llm_categoriser.persistence import save_batch_results, load_document_results
 from src.models.document_key import DocumentKey
