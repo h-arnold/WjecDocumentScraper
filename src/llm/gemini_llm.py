@@ -18,8 +18,8 @@ class GeminiLLM:
     """
 
     name = "gemini"
-    MODEL = "gemini-flash-2.5"
-    MAX_THINKING_BUDGET = 24_576
+    MODEL = "gemini-2.5-flash"
+    MAX_THINKING_BUDGET = 24576
 
     def __init__(
         self,

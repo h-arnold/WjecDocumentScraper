@@ -213,11 +213,9 @@ The `GeminiLLM` helper in `gemini_llm.py` wraps the Google GenAI SDK so you can 
 
 - Reads the system instruction from a Markdown file when instantiated.
 - Joins user prompt fragments with newlines before sending them to the API.
-- Calls the `gemini-flash-2.5` model with the maximum supported thinking budget (24,576 tokens) via `google.genai.types.ThinkingConfig`.
+-- Calls the `gemini-2.5-flash` model with the maximum supported thinking budget (24,576 tokens) via `google.genai.types.ThinkingConfig`.
 - Loads environment variables from a `.env` file automatically (useful for storing `GEMINI_API_KEY`).
 - Expects `GEMINI_API_KEY` to be present in the environment, matching [Google's Python quickstart](https://ai.google.dev/gemini-api/docs/get-started/python).
- - Loads environment variables from a `.env` file automatically (useful for storing `GEMINI_API_KEY`).
- - Expects `GEMINI_API_KEY` to be present in the environment, matching [Google's Python quickstart](https://ai.google.dev/gemini-api/docs/get-started/python).
 
 Example:
 
