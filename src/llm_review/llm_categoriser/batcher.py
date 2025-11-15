@@ -69,7 +69,8 @@ def iter_batches(
     try:
         markdown_content = markdown_path.read_text(encoding="utf-8")
     except (OSError, UnicodeDecodeError) as e:
-        print(f"Error reading Markdown file {markdown_path}: {e}")
+        import sys
+        print(f"Error reading Markdown file {markdown_path}: {e}", file=sys.stderr)
         return
     
     # Check if document has page markers
