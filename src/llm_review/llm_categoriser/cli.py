@@ -178,7 +178,10 @@ def main(args: list[str] | None = None) -> int:
         return 1
     
     # Get minimum request interval from environment
-    min_interval = float(os.environ.get("GEMINI_MIN_REQUEST_INTERVAL", "0"))
+    try:
+        min_interval = float(os.environ.get("GEMINI_MIN_REQUEST_INTERVAL", "0"))
+    except ValueError:
+        min_interval = 0.0
     
     # Create state manager
     state = CategoriserState(parsed_args.state_file)
