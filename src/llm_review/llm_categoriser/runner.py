@@ -190,7 +190,7 @@ class CategoriserRunner:
             for page_key, page_issues in validated.items():
                 if page_key in all_results:
                     # Avoid adding duplicate issues by issue_id
-                    existing_ids = {issue.issue_id for issue in all_results[page_key]}
+                    existing_ids = {issue["issue_id"] for issue in all_results[page_key]}
                     new_issues = [issue for issue in page_issues if issue.issue_id not in existing_ids]
                     all_results[page_key].extend(new_issues)
                 else:
