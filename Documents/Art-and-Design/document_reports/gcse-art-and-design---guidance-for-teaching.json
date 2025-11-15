@@ -1,0 +1,1013 @@
+{
+  "page_6": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "WHETHER",
+      "message": "Consider shortening this phrase to just \u2018whether\u2019, unless you mean \u2018regardless of whether\u2019.",
+      "issue_type": "style",
+      "replacements": [
+        "whether"
+      ],
+      "context": "... skills to negotiate a creative future, whether or not they continue to study Art and Design. ...",
+      "highlighted_context": "... skills to negotiate a creative future, whether or not they continue to study Art and Design. ...",
+      "issue": "... skills to negotiate a creative future, whether or not they continue to study Art and Design. ...",
+      "page_number": 6,
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The phrase 'whether or not' is grammatically correct and stylistically acceptable, though 'whether' alone could also be used."
+    }
+  ],
+  "page_12": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018or\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "or"
+      ],
+      "context": "...niques that they are knowledgeable about or they might be delivered by outside agen...",
+      "highlighted_context": "...niques that they are knowledgeable about or they might be delivered by outside agen...",
+      "issue": "...niques that they are knowledgeable about or they might be delivered by outside agen...",
+      "page_number": 12,
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'or they' is grammatically correct and maintains parallel structure in the sentence."
+    }
+  ],
+  "page_15": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "OUTSIDE_OF",
+      "message": "This phrase is redundant. Consider using \u201coutside\u201d.",
+      "issue_type": "style",
+      "replacements": [
+        "outside"
+      ],
+      "context": "...ers' work. Many learners have interests outside of the classroom into which they can be im...",
+      "highlighted_context": "...ers' work. Many learners have interests outside of the classroom into which they can be im...",
+      "issue": "...ers' work. Many learners have interests outside of the classroom into which they can be im...",
+      "page_number": 15,
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'outside of' is common, 'outside' is generally preferred in formal writing for conciseness."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018and\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "and"
+      ],
+      "context": "...ey can be immersed for their Unit 1 work and it might be in the skill of the teacher...",
+      "highlighted_context": "...ey can be immersed for their Unit 1 work and it might be in the skill of the teacher...",
+      "issue": "...ey can be immersed for their Unit 1 work and it might be in the skill of the teacher...",
+      "page_number": 15,
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'and it' correctly links two independent clauses in the sentence."
+    }
+  ],
+  "page_18": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_TWO_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "two-dimensional"
+      ],
+      "context": "... across Pathways and provision made for two dimensional as well as three dimensional work shoul...",
+      "highlighted_context": "... across Pathways and provision made for two dimensional as well as three dimensional work shoul...",
+      "issue": "... across Pathways and provision made for two dimensional as well as three dimensional work shoul...",
+      "page_number": 18,
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Two-dimensional' should be hyphenated as a compound adjective modifying 'work'."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_THREE_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "three-dimensional"
+      ],
+      "context": "...ion made for two dimensional as well as three dimensional work should be made. Every effort shoul...",
+      "highlighted_context": "...ion made for two dimensional as well as three dimensional work should be made. Every effort shoul...",
+      "issue": "...ion made for two dimensional as well as three dimensional work should be made. Every effort shoul...",
+      "page_number": 18,
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Three-dimensional' should be hyphenated as a compound adjective modifying 'work'."
+    }
+  ],
+  "page_21": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "work related"
+      ],
+      "context": "...ponses to potential career pathways and workrelated experiences. Opportunities should be gi...",
+      "highlighted_context": "...ponses to potential career pathways and workrelated experiences. Opportunities should be gi...",
+      "issue": "...ponses to potential career pathways and workrelated experiences. Opportunities should be gi...",
+      "page_number": 21,
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Work-related' is a compound adjective and requires a hyphen."
+    }
+  ],
+  "page_22": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "self-imposed",
+        "self imposed"
+      ],
+      "context": "...nd identify something to work on with a selfimposed deadline, giving experience of decision...",
+      "highlighted_context": "...nd identify something to work on with a selfimposed deadline, giving experience of decision...",
+      "issue": "...nd identify something to work on with a selfimposed deadline, giving experience of decision...",
+      "page_number": 22,
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Self-imposed' is a compound adjective and requires a hyphen."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "self-discipline",
+        "self discipline"
+      ],
+      "context": "...iving experience of decision making and selfdiscipline.  #### **Teacher formative feedback [JC...",
+      "highlighted_context": "...iving experience of decision making and selfdiscipline.  #### **Teacher formative feedback [JC...",
+      "issue": "...iving experience of decision making and selfdiscipline.  #### **Teacher formative feedback [JC...",
+      "page_number": 22,
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Self-discipline' is a compound noun that is conventionally hyphenated."
+    }
+  ],
+  "page_23": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SALON_DES_REFUSES",
+      "message": "\u2018Salon des Refuses\u2019 is an imported foreign name or expression, which originally has a diacritic.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "Salon des Refus\u00e9s"
+      ],
+      "context": "...liam Blake - The Impressionists and the Salon des Refuses - Gwen John: amongst men - The avant-ga...",
+      "highlighted_context": "...liam Blake - The Impressionists and the Salon des Refuses - Gwen John: amongst men - The avant-ga...",
+      "issue": "...liam Blake - The Impressionists and the Salon des Refuses - Gwen John: amongst men - The avant-ga...",
+      "page_number": 23,
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Refus\u00e9s' is a French proper noun and requires an acute accent over the 'e'."
+    }
+  ],
+  "page_24": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "work related"
+      ],
+      "context": "...ponses to potential career pathways and workrelated experiences.  Each of the pathways with...",
+      "highlighted_context": "...ponses to potential career pathways and workrelated experiences.  Each of the pathways with...",
+      "issue": "...ponses to potential career pathways and workrelated experiences.  Each of the pathways with...",
+      "page_number": 24,
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'work-related' should be hyphenated in UK English."
+    }
+  ],
+  "page_26": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "POSSESSIVE_APOSTROPHE",
+      "message": "An apostrophe may be missing.",
+      "issue_type": "typographical",
+      "replacements": [
+        "centres'",
+        "centre's"
+      ],
+      "context": "...e likely to use digital technology at a centres discretion.  Digital technology is appl...",
+      "highlighted_context": "...e likely to use digital technology at a centres discretion.  Digital technology is appl...",
+      "issue": "...e likely to use digital technology at a centres discretion.  Digital technology is appl...",
+      "page_number": 26,
+      "issue_id": 11,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'centres' should be 'centre's' to indicate singular possession."
+    }
+  ],
+  "page_27": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "web-based",
+        "web based"
+      ],
+      "context": "...ned focus period, candidates can access webbased software applications, however no other...",
+      "highlighted_context": "...ned focus period, candidates can access webbased software applications, however no other...",
+      "issue": "...ned focus period, candidates can access webbased software applications, however no other...",
+      "page_number": 27,
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'web-based' should be hyphenated in UK English."
+    }
+  ],
+  "page_28": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_MULTITOKEN_SPELLING_TWO",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "Paul Gauguin"
+      ],
+      "context": "...riate way).  #### Examples could be:  - Paul Gaugin and the Tahitian women that he painted,...",
+      "highlighted_context": "...riate way).  #### Examples could be:  - Paul Gaugin and the Tahitian women that he painted,...",
+      "issue": "...riate way).  #### Examples could be:  - Paul Gaugin and the Tahitian women that he painted,...",
+      "page_number": 28,
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the artist's name is 'Paul Gauguin'."
+    }
+  ],
+  "page_33": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_NON_TOXIC",
+      "message": "This expression is normally spelled as one or with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "non-toxic"
+      ],
+      "context": ".../li><li>Using eco-friendly pigments and non toxic materials wherever possible.</li><li>Wo...",
+      "highlighted_context": ".../li><li>Using eco-friendly pigments and non toxic materials wherever possible.</li><li>Wo...",
+      "issue": ".../li><li>Using eco-friendly pigments and non toxic materials wherever possible.</li><li>Wo...",
+      "page_number": 33,
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'non-toxic' should be hyphenated in UK English."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018or\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "or"
+      ],
+      "context": "...encourage learners to take this approach or we risk the methods and materials that ...",
+      "highlighted_context": "...encourage learners to take this approach or we risk the methods and materials that ...",
+      "issue": "...encourage learners to take this approach or we risk the methods and materials that ...",
+      "page_number": 33,
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'or' would improve readability as it separates two independent clauses, but its omission is not a grammatical error."
+    }
+  ],
+  "page_35": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "ALL_OF_THE",
+      "message": "Consider removing \u201cof\u201d to be more concise",
+      "issue_type": "style",
+      "replacements": [
+        "all the"
+      ],
+      "context": "... recycle, repair, rethink and refuse in all of the work that they create. - Consider their...",
+      "highlighted_context": "... recycle, repair, rethink and refuse in all of the work that they create. - Consider their...",
+      "issue": "... recycle, repair, rethink and refuse in all of the work that they create. - Consider their...",
+      "page_number": 35,
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 60,
+      "reasoning": "While 'all' could suffice, 'all of the' is grammatically correct and commonly used, making this a stylistic preference."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "POSSESSIVE_APOSTROPHE",
+      "message": "An apostrophe may be missing.",
+      "issue_type": "typographical",
+      "replacements": [
+        "products'",
+        "product's"
+      ],
+      "context": "...work that they create. - Consider their products life cycle how are materials sourced, h...",
+      "highlighted_context": "...work that they create. - Consider their products life cycle how are materials sourced, h...",
+      "issue": "...work that they create. - Consider their products life cycle how are materials sourced, h...",
+      "page_number": 35,
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Products life cycle' should be 'products' life cycle' to indicate plural possession."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "ref",
+        "pref",
+        "HEF (+1 more)"
+      ],
+      "context": "...ls from sustainable sources such as: <a href=\"eco-craft\">eco-craft</a> and <a href=\"...",
+      "highlighted_context": "...ls from sustainable sources such as: <a href=\"eco-craft\">eco-craft</a> and <a href=\"...",
+      "issue": "...ls from sustainable sources such as: <a href=\"eco-craft\">eco-craft</a> and <a href=\"...",
+      "page_number": 35,
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The 'href' attribute should contain a valid URL, not just a keyword."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "ref",
+        "pref",
+        "HEF (+1 more)"
+      ],
+      "context": "...a href=\"eco-craft\">eco-craft</a> and <a href=\"kitronik\">kitronik</a>. - Use CAD tech...",
+      "highlighted_context": "...a href=\"eco-craft\">eco-craft</a> and <a href=\"kitronik\">kitronik</a>. - Use CAD tech...",
+      "issue": "...a href=\"eco-craft\">eco-craft</a> and <a href=\"kitronik\">kitronik</a>. - Use CAD tech...",
+      "page_number": 35,
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The 'href' attribute should contain a valid URL, not just a keyword."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_MOCK_UPS",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "mock-ups"
+      ],
+      "context": "...use of early development paper and card mock ups.  #### **Graphic Communication Example:...",
+      "highlighted_context": "...use of early development paper and card mock ups.  #### **Graphic Communication Example:...",
+      "issue": "...use of early development paper and card mock ups.  #### **Graphic Communication Example:...",
+      "page_number": 35,
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'mock-up' should be hyphenated in UK English."
+    }
+  ],
+  "page_36": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_MOCK_UPS",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "mock-ups"
+      ],
+      "context": "... size of the work to be displayed \u2013 can mock ups or maquettes be used as an alternative<...",
+      "highlighted_context": "... size of the work to be displayed \u2013 can mock ups or maquettes be used as an alternative<...",
+      "issue": "... size of the work to be displayed \u2013 can mock ups or maquettes be used as an alternative<...",
+      "page_number": 36,
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'mock-up' should be hyphenated in UK English."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_TWO_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "two-dimensional"
+      ],
+      "context": "...Photography relies on the transfer of a two dimensional light                                  ...",
+      "highlighted_context": "...Photography relies on the transfer of a two dimensional light                                  ...",
+      "issue": "...Photography relies on the transfer of a two dimensional light                                  ...",
+      "page_number": 36,
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'two-dimensional' should be hyphenated."
+    }
+  ],
+  "page_37": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "ALL_AND_ALL",
+      "message": "This phrase is nonstandard. Did you mean \u201call in all\u201d (=after all, nevertheless)?",
+      "issue_type": "misspelling",
+      "replacements": [
+        "all in all"
+      ],
+      "context": "...tant to Learners because RSE affects us all and all learners should take the opportunity to...",
+      "highlighted_context": "...tant to Learners because RSE affects us all and all learners should take the opportunity to...",
+      "issue": "...tant to Learners because RSE affects us all and all learners should take the opportunity to...",
+      "page_number": 37,
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'us all and all learners' is grammatically correct and does not intend to use the idiom 'all in all'."
+    }
+  ],
+  "page_38": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "APOSTROPHE_IN_DATES",
+      "message": "Apostrophes aren\u2019t needed for decades.",
+      "issue_type": "typographical",
+      "replacements": [
+        "1980s"
+      ],
+      "context": "...f stigma around sexual health since the 1980's when the 'Don't Die of Ignorance' campa...",
+      "highlighted_context": "...f stigma around sexual health since the 1980's when the 'Don't Die of Ignorance' campa...",
+      "issue": "...f stigma around sexual health since the 1980's when the 'Don't Die of Ignorance' campa...",
+      "page_number": 38,
+      "issue_id": 24,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "An apostrophe should not be used to form the plural of a decade; it should be '1980s'."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "Women's",
+        "Women",
+        "Omens (+1 more)"
+      ],
+      "context": "...y relationships for young people. Welsh Womens Aid - Healthy Relationships |  {39}----...",
+      "highlighted_context": "...y relationships for young people. Welsh Womens Aid - Healthy Relationships |  {39}----...",
+      "issue": "...y relationships for young people. Welsh Womens Aid - Healthy Relationships |  {39}----...",
+      "page_number": 38,
+      "issue_id": 25,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Women's Aid' is a proper noun and requires an apostrophe for the possessive."
+    }
+  ],
+  "page_41": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "POSSIBILTY_POSSIBLE",
+      "message": "Before \u2018possible\u2019, use a word such as \u201cchances\u201d or \u201copportunities\u201d. Alternatively, keep \u2018possibilities\u2019 and replace \u2018possible\u2019.",
+      "issue_type": "style",
+      "replacements": [
+        "chances",
+        "opportunities"
+      ],
+      "context": "... engineering</li><li>UX designer. These possibilities are made possible through design thinki...",
+      "highlighted_context": "... engineering</li><li>UX designer. These possibilities are made possible through design thinki...",
+      "issue": "... engineering</li><li>UX designer. These possibilities are made possible through design thinki...",
+      "page_number": 41,
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The word 'possibilities' is correctly spelled and used as a plural noun at the start of a new sentence."
+    }
+  ],
+  "page_42": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "OUTSIDE_OF",
+      "message": "This phrase is redundant. Consider using \u201cinside\u201d.",
+      "issue_type": "style",
+      "replacements": [
+        "inside"
+      ],
+      "context": "...ains that the ability to find something inside of yourself to express creatively to the w...",
+      "highlighted_context": "...ains that the ability to find something inside of yourself to express creatively to the w...",
+      "issue": "...ains that the ability to find something inside of yourself to express creatively to the w...",
+      "page_number": 42,
+      "issue_id": 27,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Inside' is more concise and stylistically preferred over 'inside of' in formal writing."
+    }
+  ],
+  "page_43": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "SUBJECT_MATTER",
+      "message": "This phrase is redundant. Consider using \u201csubject\u201d to avoid wordiness.",
+      "issue_type": "style",
+      "replacements": [
+        "subject"
+      ],
+      "context": "...nent form. I find inspiration in simple subject matter, women scrubbing steps, figures sitting...",
+      "highlighted_context": "...nent form. I find inspiration in simple subject matter, women scrubbing steps, figures sitting...",
+      "issue": "...nent form. I find inspiration in simple subject matter, women scrubbing steps, figures sitting...",
+      "page_number": 43,
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Subject matter' is a correctly spelled and commonly used two-word compound noun."
+    }
+  ],
+  "page_45": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE_2",
+      "message": "Use a comma before \u201cand\u201d if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "and"
+      ],
+      "context": "...ted that feedback should remain positive and the teacher should create guidelines to...",
+      "highlighted_context": "...ted that feedback should remain positive and the teacher should create guidelines to...",
+      "issue": "...ted that feedback should remain positive and the teacher should create guidelines to...",
+      "page_number": 45,
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to link two independent clauses."
+    }
+  ],
+  "page_46": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "ALL_OF_THE",
+      "message": "Consider removing \u201cof\u201d to be more concise",
+      "issue_type": "style",
+      "replacements": [
+        "all the"
+      ],
+      "context": "...ve work | In order to successfully meet all of the Assessment Objectives, it is important ...",
+      "highlighted_context": "...ve work | In order to successfully meet all of the Assessment Objectives, it is important ...",
+      "issue": "...ve work | In order to successfully meet all of the Assessment Objectives, it is important ...",
+      "page_number": 46,
+      "issue_id": 30,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'all the' is more concise, 'all of the' is grammatically correct and acceptable."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "IN_THE_MOMENT",
+      "message": "Did you mean \u201cat the moment\u201d (=currently)?",
+      "issue_type": "misspelling",
+      "replacements": [
+        "at the moment"
+      ],
+      "context": "... to be in essay format \u2013 notes created 'in the moment' can have as much fluency as paragraphs...",
+      "highlighted_context": "... to be in essay format \u2013 notes created 'in the moment' can have as much fluency as paragraphs...",
+      "issue": "... to be in essay format \u2013 notes created 'in the moment' can have as much fluency as paragraphs...",
+      "page_number": 46,
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'In the moment' is a correct and idiomatic phrase used appropriately in the context."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "WHETHER",
+      "message": "Consider shortening this phrase to just \u2018whether\u2019, unless you mean \u2018regardless of whether\u2019.",
+      "issue_type": "style",
+      "replacements": [
+        "whether"
+      ],
+      "context": "...e learner has approached their project, whether or not the |  <span id=\"page-46-0\"></span><sup...",
+      "highlighted_context": "...e learner has approached their project, whether or not the |  <span id=\"page-46-0\"></span><sup...",
+      "issue": "...e learner has approached their project, whether or not the |  <span id=\"page-46-0\"></span><sup...",
+      "page_number": 46,
+      "issue_id": 32,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Whether or not' is grammatically correct and often used for emphasis, though 'whether' alone could also be used."
+    }
+  ],
+  "page_47": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018and\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "and"
+      ],
+      "context": "...mes taken for granted. The size of paper and it's orientation and relationship to th...",
+      "highlighted_context": "...mes taken for granted. The size of paper and it's orientation and relationship to th...",
+      "issue": "...mes taken for granted. The size of paper and it's orientation and relationship to th...",
+      "page_number": 47,
+      "issue_id": 33,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'It's' is a contraction of 'it is' or 'it has'; the possessive form required here is 'its'."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "NEITHER_NOR",
+      "message": "Use \u201cnor\u201d with neither.",
+      "issue_type": "grammar",
+      "replacements": [
+        "nor"
+      ],
+      "context": "...clusive. This helps neither the learner or subject and should be challenged.</li><...",
+      "highlighted_context": "...clusive. This helps neither the learner or subject and should be challenged.</li><...",
+      "issue": "...clusive. This helps neither the learner or subject and should be challenged.</li><...",
+      "page_number": 47,
+      "issue_id": 34,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct correlative conjunction for 'neither' is 'nor', not 'or'."
+    }
+  ],
+  "page_48": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "SALVADOR_DALI",
+      "message": "Did you mean the Spanish surrealist artist \u201cSalvador Dal\u00ed\u201d?",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "Salvador Dal\u00ed"
+      ],
+      "context": "...sts)</li><li>Giorgio de Chirico</li><li>Salvador Dali</li><li>Rene Magritte</li><li>Bridget R...",
+      "highlighted_context": "...sts)</li><li>Giorgio de Chirico</li><li>Salvador Dali</li><li>Rene Magritte</li><li>Bridget R...",
+      "issue": "...sts)</li><li>Giorgio de Chirico</li><li>Salvador Dali</li><li>Rene Magritte</li><li>Bridget R...",
+      "page_number": 48,
+      "issue_id": 35,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The correct spelling of the artist's name is 'Salvador Dal\u00ed', with an acute accent over the 'i'."
+    }
+  ],
+  "page_49": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "triptychs",
+        "tryptic"
+      ],
+      "context": "...of stories from the Bible (sometimes as tryptichs), the sculptural forms of Barbara Hepwo...",
+      "highlighted_context": "...of stories from the Bible (sometimes as tryptichs), the sculptural forms of Barbara Hepwo...",
+      "issue": "...of stories from the Bible (sometimes as tryptichs), the sculptural forms of Barbara Hepwo...",
+      "page_number": 49,
+      "issue_id": 36,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the word is 'triptychs', not 'tryptichs'."
+    }
+  ],
+  "page_50": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "model making"
+      ],
+      "context": "...le', whether through drawing or through modelmaking, using appropriate scales from 1:2 for ...",
+      "highlighted_context": "...le', whether through drawing or through modelmaking, using appropriate scales from 1:2 for ...",
+      "issue": "...le', whether through drawing or through modelmaking, using appropriate scales from 1:2 for ...",
+      "page_number": 50,
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Modelmaking' is correctly written as a single compound word in UK English."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_THREE_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "three-dimensional"
+      ],
+      "context": "...graphy), using perspective to represent three dimensional shapes on a 2 dimensional plan (paper, ...",
+      "highlighted_context": "...graphy), using perspective to represent three dimensional shapes on a 2 dimensional plan (paper, ...",
+      "issue": "...graphy), using perspective to represent three dimensional shapes on a 2 dimensional plan (paper, ...",
+      "page_number": 50,
+      "issue_id": 38,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Three-dimensional' should be hyphenated when used as a compound adjective before a noun."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS___DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "2-dimensional"
+      ],
+      "context": "...represent three dimensional shapes on a 2 dimensional plan (paper, canvas etc) is a technique...",
+      "highlighted_context": "...represent three dimensional shapes on a 2 dimensional plan (paper, canvas etc) is a technique...",
+      "issue": "...represent three dimensional shapes on a 2 dimensional plan (paper, canvas etc) is a technique...",
+      "page_number": 50,
+      "issue_id": 39,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'2-dimensional' should be hyphenated when used as a compound adjective before a noun."
+    }
+  ],
+  "page_51": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE_2",
+      "message": "Use a comma before \u201cand\u201d if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "and"
+      ],
+      "context": "...s in this area are developing frequently and communication design is a popular degre...",
+      "highlighted_context": "...s in this area are developing frequently and communication design is a popular degre...",
+      "issue": "...s in this area are developing frequently and communication design is a popular degre...",
+      "page_number": 51,
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses in the sentence."
+    }
+  ],
+  "page_53": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "future-proof",
+        "future proof"
+      ],
+      "context": "...>Emerging materials and technologies to futureproof product development. Learners should sh...",
+      "highlighted_context": "...>Emerging materials and technologies to futureproof product development. Learners should sh...",
+      "issue": "...>Emerging materials and technologies to futureproof product development. Learners should sh...",
+      "page_number": 53,
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Futureproof' is a correctly used verb meaning to design or modify to prevent obsolescence."
+    }
+  ],
+  "page_57": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMPRISED_OF",
+      "message": "Did you mean \u201ccomprises\u201d or \u201cconsists of\u201d?",
+      "issue_type": "misspelling",
+      "replacements": [
+        "comprises",
+        "consists of"
+      ],
+      "context": "...xtile Design within GCSE Art and Design comprises of the creation of designs and products fo...",
+      "highlighted_context": "...xtile Design within GCSE Art and Design comprises of the creation of designs and products fo...",
+      "issue": "...xtile Design within GCSE Art and Design comprises of the creation of designs and products fo...",
+      "page_number": 57,
+      "issue_id": 42,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb 'comprise' does not take the preposition 'of'; it should be 'comprises the creation'."
+    }
+  ],
+  "page_58": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_UNPAIRED_QUOTES",
+      "message": "Unpaired symbol: \u2018'\u2019 seems to be missing",
+      "issue_type": "typographical",
+      "replacements": [],
+      "context": "...ond to.  An example of this might be:  *'A new boutique hotel is opening which wi...",
+      "highlighted_context": "...ond to.  An example of this might be:  *'A new boutique hotel is opening which wi...",
+      "issue": "...ond to.  An example of this might be:  *'A new boutique hotel is opening which wi...",
+      "page_number": 58,
+      "issue_id": 43,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While single quotes are used here, standard UK English typically prefers double quotation marks for direct speech or examples."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_ECO_CONSCIOUS",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "eco-conscious"
+      ],
+      "context": "...ding the launch of the hotel to attract eco -conscious travellers and convey the cynefin. Imag...",
+      "highlighted_context": "...ding the launch of the hotel to attract eco -conscious travellers and convey the cynefin. Imag...",
+      "issue": "...ding the launch of the hotel to attract eco -conscious travellers and convey the cynefin. Imag...",
+      "page_number": 58,
+      "issue_id": 44,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'eco-conscious' requires a hyphen without a space."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_UNPAIRED_QUOTES",
+      "message": "Unpaired symbol: \u2018'\u2019 seems to be missing",
+      "issue_type": "typographical",
+      "replacements": [],
+      "context": "...ithin the hotel as large format images. '*  Learners must demonstrate the ability...",
+      "highlighted_context": "...ithin the hotel as large format images. '*  Learners must demonstrate the ability...",
+      "issue": "...ithin the hotel as large format images. '*  Learners must demonstrate the ability...",
+      "page_number": 58,
+      "issue_id": 45,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While single quotes are used here, standard UK English typically prefers double quotation marks for direct speech or examples."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_TIME_LAPSE",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "time-lapse"
+      ],
+      "context": "...igital processes and techniques such as time -lapse photography, video, photomontage and di...",
+      "highlighted_context": "...igital processes and techniques such as time -lapse photography, video, photomontage and di...",
+      "issue": "...igital processes and techniques such as time -lapse photography, video, photomontage and di...",
+      "page_number": 58,
+      "issue_id": 46,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'time-lapse' requires a hyphen without a space."
+    }
+  ],
+  "page_59": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "GENERAL_XX",
+      "message": "Consider using only \u201cpublic\u201d to avoid wordiness.",
+      "issue_type": "style",
+      "replacements": [
+        "public"
+      ],
+      "context": "...r scales which can be difficult for the general public to visualise. Learners will need to be ...",
+      "highlighted_context": "...r scales which can be difficult for the general public to visualise. Learners will need to be ...",
+      "issue": "...r scales which can be difficult for the general public to visualise. Learners will need to be ...",
+      "page_number": 59,
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'General public' is a standard and correct phrase in English."
+    }
+  ],
+  "page_62": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "OUTSIDE_OF",
+      "message": "This phrase is redundant. Consider using \u201coutside\u201d.",
+      "issue_type": "style",
+      "replacements": [
+        "outside"
+      ],
+      "context": "...ng, learner independence, opportunities outside of the classroom and engaging alternative ...",
+      "highlighted_context": "...ng, learner independence, opportunities outside of the classroom and engaging alternative ...",
+      "issue": "...ng, learner independence, opportunities outside of the classroom and engaging alternative ...",
+      "page_number": 62,
+      "issue_id": 48,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'outside of' is common, 'outside the classroom' is often preferred for conciseness and formality."
+    }
+  ],
+  "page_63": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_SKETCH_BOOK",
+      "message": "This word is normally spelled as one.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "sketchbook"
+      ],
+      "context": "...otation or more formal writing in their sketch book or preparatory work. It is much, much m...",
+      "highlighted_context": "...otation or more formal writing in their sketch book or preparatory work. It is much, much m...",
+      "issue": "...otation or more formal writing in their sketch book or preparatory work. It is much, much m...",
+      "page_number": 63,
+      "issue_id": 49,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Sketchbook' is typically written as a single, closed compound word in UK English."
+    }
+  ],
+  "page_64": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "A_NNS",
+      "message": "The plural noun \u201coutcomes\u201d cannot be used with the article \u201can\u201d. Did you mean \u201can outcome\u201d or \u201coutcomes\u201d?",
+      "issue_type": "grammar",
+      "replacements": [
+        "an outcome",
+        "outcomes"
+      ],
+      "context": "...hievements, where they are pleased with an outcomes, where things have gone wrong and how t...",
+      "highlighted_context": "...hievements, where they are pleased with an outcomes, where things have gone wrong and how t...",
+      "issue": "...hievements, where they are pleased with an outcomes, where things have gone wrong and how t...",
+      "page_number": 64,
+      "issue_id": 50,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The indefinite article 'an' is incorrectly used before the plural noun 'outcomes'."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_UNPAIRED_QUOTES",
+      "message": "Unpaired symbol: \u2018'\u2019 seems to be missing",
+      "issue_type": "typographical",
+      "replacements": [],
+      "context": "... where there is a formal requirement to 'reflect on own work, and record ideas, o...",
+      "highlighted_context": "... where there is a formal requirement to 'reflect on own work, and record ideas, o...",
+      "issue": "... where there is a formal requirement to 'reflect on own work, and record ideas, o...",
+      "page_number": 64,
+      "issue_id": 51,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a standard single quote."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_UNPAIRED_QUOTES",
+      "message": "Unpaired symbol: \u2018'\u2019 seems to be missing",
+      "issue_type": "typographical",
+      "replacements": [],
+      "context": "...levant to intentions as work progresses '. This is assessed across the whole port...",
+      "highlighted_context": "...levant to intentions as work progresses '. This is assessed across the whole port...",
+      "issue": "...levant to intentions as work progresses '. This is assessed across the whole port...",
+      "page_number": 64,
+      "issue_id": 52,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a standard single quote."
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018or\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "or"
+      ],
+      "context": "...ing and reflecting on design development or they could be diarised entries into a b...",
+      "highlighted_context": "...ing and reflecting on design development or they could be diarised entries into a b...",
+      "issue": "...ing and reflecting on design development or they could be diarised entries into a b...",
+      "page_number": 64,
+      "issue_id": 53,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'or' in a compound sentence is often a stylistic choice for clarity but not a grammatical requirement here."
+    }
+  ],
+  "page_69": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "GENERAL_XX",
+      "message": "Consider using only \u201cpublic\u201d to avoid wordiness.",
+      "issue_type": "style",
+      "replacements": [
+        "public"
+      ],
+      "context": "...n of printed banners in a space for the general public in an art, craft and design submission....",
+      "highlighted_context": "...n of printed banners in a space for the general public in an art, craft and design submission....",
+      "issue": "...n of printed banners in a space for the general public in an art, craft and design submission....",
+      "page_number": 69,
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'General public' is a correct and standard noun phrase in English and does not require hyphenation."
+    }
+  ]
+}
