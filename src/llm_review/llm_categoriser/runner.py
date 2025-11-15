@@ -282,25 +282,13 @@ class CategoriserRunner:
         error_messages: dict[object, list[str]] = {issue.issue_id: [] for issue in issues}
         error_messages.setdefault("batch_errors", [])
 
-        # Normalise provider response: prefer flat list but support old dict-of-pages format.
-        response_groups: list[tuple[str | None, list[Any]]] = []
-        if isinstance(response, list):
-            response_groups = [(None, response)]
-        elif isinstance(response, dict):
-            if self._is_page_grouped_response(response):
-                response_groups = list(response.items())
-            elif self._looks_like_issue_payload(response):
-                response_groups = [(None, [response])]
-            else:
-                msg = (
-                    "Dict response must be either page-grouped (page_x -> list) "
-                    "or a single issue object"
-                )
-                print(f"    Error: {msg}")
-                error_messages.setdefault("batch_errors", []).append(msg)
-                return validated_results, failed_issue_ids, error_messages
-        else:
-            msg = f"Response is not a list or dict (got {type(response)})"
+        # Only accept a top-level JSON array of objects from the LLM.
+        # Minimal validation: ensure top-level is a list, each entry is a JSON
+        # object, then try to create a LanguageIssue for each entry. Any
+        # ValidationError raised by Pydantic will be reported and the issue
+        # will remain in the failed set.
+        if not isinstance(response, list):
+            msg = "Expected top-level JSON array of objects"
             print(f"    Error: {msg}")
             error_messages.setdefault("batch_errors", []).append(msg)
             return validated_results, failed_issue_ids, error_messages
@@ -308,115 +296,82 @@ class CategoriserRunner:
         # Get filename from first issue (all issues in a batch are from same document)
         filename = issues[0].filename if issues else ""
 
-        if not response_groups:
+        if not response:
             msg = "Response is empty; no issues to validate"
             print(f"    Warning: {msg}")
             error_messages.setdefault("batch_errors", []).append(msg)
             return validated_results, failed_issue_ids, error_messages
 
-        # Process each group in the response
-        for page_key, page_issues in response_groups:
-            if not isinstance(page_issues, list):
-                label = page_key if page_key is not None else "response"
-                warn = f"Entry '{label}' is not a list"
+        # Build a map of original issues indexed by issue_id for merging LLM
+        # categorisation with the existing detection fields.
+        issue_map = {issue.issue_id: issue for issue in issues}
+
+        # Process the flat response list
+        for issue_dict in response:
+            # Only accept dictionaries
+            if not isinstance(issue_dict, dict):
+                warn = "Entry in response array is not a JSON object"
                 print(f"    Warning: {warn}")
                 error_messages.setdefault("batch_errors", []).append(warn)
                 continue
 
-            for issue_dict in page_issues:
-                try:
-                    # Allow minimal LLM output — only categorisation fields — and
-                    # map it back to the original detection row using issue_id.
-                    # If the provider returns the full tool fields, fall back to
-                    # the previous behaviour.
-                    if isinstance(issue_dict, dict) and issue_dict.get("issue_id") is not None and (
-                        issue_dict.get("error_category") is not None or issue_dict.get("categories") is not None
-                    ):
-                        # Find the original input issue by issue_id
-                        iid_val = issue_dict.get("issue_id")
-                        if iid_val is None:
-                            raise ValueError(f"Missing issue_id in response: {issue_dict!r}")
-                        try:
-                            iid = int(iid_val)
-                        except Exception:
-                            raise ValueError(f"Invalid issue_id: {iid_val!r}")
-                        original = None
-                        for inp in issues:
-                            if inp.issue_id == iid:
-                                original = inp
-                                break
+            # Try to construct a LanguageIssue from the LLM response. When the
+            # LLM returns only categorisation fields (no tool fields), we
+            # merge those fields into the original LanguageIssue for the
+            # final stored result. This ensures the resulting object has the
+            # detection fields present.
+            try:
+                iid = issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
 
-                        # Build a merged payload containing original detection fields
-                        # plus the new LLM fields from the provider.
-                        if original is None:
-                            raise ValueError(f"No input issue found for issue_id {iid}")
+                if iid is not None and iid in issue_map:
+                    # Merge categoriser results into the original detection
+                    # issue so we end up with a fully-populated LanguageIssue.
+                    orig = issue_map[iid]
+                    merged = {
+                        "filename": orig.filename,
+                        "rule_id": orig.rule_id,
+                        "message": orig.message,
+                        "issue_type": orig.issue_type,
+                        "replacements": orig.replacements,
+                        "context": orig.context,
+                        "highlighted_context": orig.highlighted_context,
+                        "issue": orig.issue,
+                        "page_number": orig.page_number,
+                        "issue_id": orig.issue_id,
+                        # LLM fields
+                        "error_category": issue_dict.get("error_category"),
+                        "confidence_score": issue_dict.get("confidence_score"),
+                        "reasoning": issue_dict.get("reasoning"),
+                    }
+                    validated = LanguageIssue(**merged)
+                else:
+                    # Fall back to creating from full LLM response mapping
+                    validated = LanguageIssue.from_llm_response(issue_dict, filename=filename)
+                validated_results.append(validated.model_dump())
 
-                        # Map provider synonyms to canonical keys
-                        categories = issue_dict.get("error_category") or issue_dict.get("categories")
-                        # Allow categories to be a list; take the first element if so
-                        if isinstance(categories, list) and categories:
-                            categories = categories[0]
+                # If the LLM supplied an explicit issue_id, mark it as validated.
+                if validated.issue_id >= 0:
+                    failed_issue_ids.discard(validated.issue_id)
 
-                        confidence = issue_dict.get("confidence_score")
-                        if confidence is None:
-                            # Allow confidence as a float between 0..1 under key 'confidence'
-                            conf = issue_dict.get("confidence")
-                            if isinstance(conf, float) and 0 <= conf <= 1:
-                                confidence = round(conf * 100)
-                            elif isinstance(conf, (int, float)):
-                                confidence = int(round(conf))
-
-                        merged = {
-                            "rule_from_tool": original.rule_id,
-                            "message_from_tool": original.message,
-                            "type_from_tool": original.issue_type,
-                            "suggestions_from_tool": original.replacements,
-                            "context_from_tool": original.context,
-                            "highlighted_context": original.highlighted_context,
-                            "issue": original.issue,
-                            "page_number": original.page_number,
-                            "issue_id": iid,
-                            "error_category": categories,
-                            "confidence_score": confidence,
-                            "reasoning": issue_dict.get("reasoning"),
-                        }
-
-                        validated = LanguageIssue.from_llm_response(merged, filename=filename)
-                    else:
-                        validated = LanguageIssue.from_llm_response(issue_dict, filename=filename)
-                    validated_results.append(validated.model_dump())
-
-                    if validated.issue_id >= 0:
-                        failed_issue_ids.discard(validated.issue_id)
-                    else:
-                        # Fallback: try to match by rule_id and context
-                        for input_issue in issues:
-                            if (input_issue.rule_id == validated.rule_id and
-                                input_issue.highlighted_context == validated.highlighted_context):
-                                failed_issue_ids.discard(input_issue.issue_id)
-                                break
-
-                except ValidationError as e:
-                    label = page_key if page_key is not None else "response"
-                    msg = f"Validation error for entry '{label}': {e}"
-                    print(f"    Warning: {msg}")
-                    iid = issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
-                    if iid is not None:
-                        error_messages.setdefault(iid, []).append(str(e))
-                    else:
-                        error_messages.setdefault("batch_errors", []).append(str(e))
-                    continue
-                except Exception as e:
-                    msg = f"Unexpected error validating issue: {e}"
-                    print(f"    Warning: {msg}")
-                    iid = issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
-                    if iid is not None:
-                        error_messages.setdefault(iid, []).append(str(e))
-                    else:
-                        error_messages.setdefault("batch_errors", []).append(str(e))
-                    continue
+            except ValidationError as e:
+                # Validation errors are expected when required detection fields
+                # are missing — attach the message to the specific issue id if
+                # present, otherwise add to batch-level errors.
+                iid = issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
+                if iid is not None:
+                    error_messages.setdefault(iid, []).append(str(e))
+                else:
+                    error_messages.setdefault("batch_errors", []).append(str(e))
+                continue
+            except Exception as e:
+                iid = issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
+                if iid is not None:
+                    error_messages.setdefault(iid, []).append(str(e))
+                else:
+                    error_messages.setdefault("batch_errors", []).append(str(e))
+                continue
         if not validated_results:
-            msg = "Response contained no issue objects; expected at least one categorised issue"
+            msg = "Response contained no valid issue objects"
             error_messages.setdefault("batch_errors", []).append(msg)
 
         return validated_results, failed_issue_ids, error_messages

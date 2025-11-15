@@ -338,7 +338,7 @@ def test_persistence_deduplicates_on_merge(tmp_path: Path) -> None:
 
 
 def test_runner_accepts_single_issue_dict_response(tmp_path: Path) -> None:
-    """Ensure _validate_response accepts flat dict payloads."""
+    """Ensure _validate_response requires a top-level array (not a bare dict)."""
     runner = CategoriserRunner(
         llm_service=MagicMock(),
         state=CategoriserState(tmp_path / "state.json"),
@@ -366,9 +366,53 @@ def test_runner_accepts_single_issue_dict_response(tmp_path: Path) -> None:
 
     validated, failed, errors = runner._validate_response(response, [issue])
 
-    assert failed == set()
+    # Now we only accept arrays, not a single dict
+    assert validated == []
+    assert failed == {0}
+    assert any("Expected top-level JSON array" in msg for msg in errors.get("batch_errors", []))
+
+
+def test_runner_array_of_issue_dicts_validates_using_model(tmp_path: Path) -> None:
+    """When passed an array we attempt to construct a LanguageIssue for each item.
+
+    The model should raise when required attributes for the detection fields are missing.
+    """
+    runner = CategoriserRunner(
+        llm_service=MagicMock(),
+        state=CategoriserState(tmp_path / "state.json"),
+    )
+
+    issue = LanguageIssue(
+        filename="test.md",
+        rule_id="RULE1",
+        message="msg",
+        issue_type="type",
+        replacements=[],
+        context="ctx",
+        highlighted_context="ctx",
+        issue="issue",
+        page_number=1,
+        issue_id=0,
+    )
+
+    # Minimal LLM payload without tool fields should fail model validation
+    response = [
+        {
+            "issue_id": 0,
+            "error_category": "SPELLING_ERROR",
+            "confidence_score": 75,
+            "reasoning": "Because",
+        }
+    ]
+
+    validated, failed, errors = runner._validate_response(response, [issue])
+
+    # We should merge LLM labels with the original detection issue, so the
+    # final object is fully populated and validation succeeds.
     assert len(validated) == 1
-    assert errors.get("batch_errors") == []
+    assert failed == set()
+    # No error messages recorded
+    assert not errors.get(0)
 
 
 def test_runner_logs_raw_response_when_enabled(tmp_path: Path) -> None:
