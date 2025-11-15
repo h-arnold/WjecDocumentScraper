@@ -74,17 +74,27 @@ Environment Variables:
     )
     
     # Batch configuration
+    # Robustly parse environment variables for batch size and max retries
+    try:
+        batch_size_default = int(os.environ.get("LLM_CATEGORISER_BATCH_SIZE", "10"))
+    except ValueError:
+        batch_size_default = 10
+    try:
+        max_retries_default = int(os.environ.get("LLM_CATEGORISER_MAX_RETRIES", "2"))
+    except ValueError:
+        max_retries_default = 2
+
     parser.add_argument(
         "--batch-size",
         type=int,
-        default=int(os.environ.get("LLM_CATEGORISER_BATCH_SIZE", "10")),
+        default=batch_size_default,
         help="Number of issues per batch (default: 10 or LLM_CATEGORISER_BATCH_SIZE)",
     )
     
     parser.add_argument(
         "--max-retries",
         type=int,
-        default=int(os.environ.get("LLM_CATEGORISER_MAX_RETRIES", "2")),
+        default=max_retries_default,
         help="Maximum validation retries per batch (default: 2 or LLM_CATEGORISER_MAX_RETRIES)",
     )
     
