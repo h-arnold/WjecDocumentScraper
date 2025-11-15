@@ -1,0 +1,17 @@
+[
+  {
+  "subject": "Level 2 Additional Mathematics",
+    "words": [
+      {"word": "Eulerian", "category": "Technical Term"},
+      {"word": "semi-Eulerian", "category": "Technical Term"},
+      {"word": "subgraph", "category": "Technical Term"},
+      {"word": "non-Eulerian", "category": "Technical Term"},
+      {"word": "Kruskal", "category": "Proper Noun"},
+      {"word": "databanks", "category": "Technical Term"},
+      {"word": "fx", "category": "Technical Term"},
+      {"word": "ut", "category": "Technical Term"},
+      {"word": "Subgraph", "category": "Technical Term"},
+      {"word": "Semi-Eulerian", "category": "Technical Term"}
+    ]
+  }
+]

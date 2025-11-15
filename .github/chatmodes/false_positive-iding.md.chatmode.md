@@ -71,7 +71,6 @@ For each token:
 
 ## Work and Interaction Flow (Batch Processing Protocol — 50-line batches)
 
-**IMPORTANT**: You must keep working until you reach the end of the file. Only ask for user confirmation at **step 2**
 
 For each batch of up to 50 tokens (process strictly in order; do not parallelise):
 1. Classify each token and add a one-line rationale (source-based).
@@ -87,6 +86,8 @@ For each batch of up to 50 tokens (process strictly in order; do not parallelise
    - >40% of the batch is AMBIGUOUS, or
    - >25% of proposed inclusions lack an authoritative rationale.
 7. Repeat steps 1–6 for subsequent batches until the input is exhausted. **You must only stop working to seek confirmation at step 2**
+
+**IMPORTANT**: You must keep working until you reach the end of the file. Stop once at each iteration at **step 2** *only*.
 
 ## Rationale Requirements
 

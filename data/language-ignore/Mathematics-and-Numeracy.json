@@ -1,0 +1,53 @@
+[
+  {
+  "subject": "Mathematics and Numeracy",
+    "words": [
+      {"word": "kx", "category": "Technical Term"},
+      {"word": "kf", "category": "Technical Term"},
+      {"word": "ax", "category": "Technical Term"},
+      {"word": "Num", "category": "Technical Term"},
+      {"word": "Ind", "category": "Technical Term"},
+      {"word": "div", "category": "Technical Term"},
+      {"word": "Frac", "category": "Technical Term"},
+      {"word": "Sali", "category": "Proper Noun"},
+      {"word": "MaPS", "category": "Initialism/Acronym"},
+      {"word": "AERs", "category": "Technical Term"},
+      {"word": "ISAs", "category": "Technical Term"},
+      {"word": "Banc", "category": "Proper Noun"},
+      {"word": "Seren", "category": "Proper Noun"},
+      {"word": "APRs", "category": "Technical Term"},
+      {"word": "Carys", "category": "Proper Noun"},
+      {"word": "Alg", "category": "Technical Term"}
+      ,{"word": "sqrt", "category": "Technical Term"}
+        ,{"word": "Saundersfoot", "category": "Proper Noun"}
+        ,{"word": "Govan", "category": "Proper Noun"}
+        ,{"word": "Rhoscrowther", "category": "Proper Noun"}
+        ,{"word": "Ceri", "category": "Proper Noun"}
+        ,{"word": "Ddwysaint", "category": "Proper Noun"}
+        ,{"word": "Nerys", "category": "Proper Noun"}
+        ,{"word": "CAO", "category": "Initialism/Acronym"}
+        ,{"word": "ISW", "category": "Initialism/Acronym"}
+        ,{"word": "Qn", "category": "Technical Term"}
+        ,{"word": "Hisako", "category": "Proper Noun"}
+        ,{"word": "Siar", "category": "Proper Noun"}
+        ,{"word": "Hatkins", "category": "Proper Noun"}
+        ,{"word": "Bobl", "category": "Proper Noun"}
+        ,{"word": "cdot", "category": "Technical Term"}
+        ,{"word": "Fn", "category": "Technical Term"}
+        ,{"word": "perc", "category": "Technical Term"}
+        ,{"word": "sys", "category": "Technical Term"}
+        ,{"word": "samp", "category": "Technical Term"}
+        ,{"word": "strat", "category": "Technical Term"}
+        ,{"word": "Siôn", "category": "Proper Noun"}
+        ,{"word": "Ceryn", "category": "Proper Noun"}
+        ,{"word": "Abdi", "category": "Proper Noun"}
+        ,{"word": "ABCD", "category": "Technical Term"}
+        ,{"word": "DEFG", "category": "Technical Term"}
+        ,{"word": "Delyth", "category": "Proper Noun"}
+        ,{"word": "Gwenda", "category": "Proper Noun"}
+        ,{"word": "num", "category": "Technical Term"}
+        ,{"word": "BIDMAS", "category": "Technical Term"}
+        ,{"word": "XPY", "category": "Technical Term"}
+    ]
+  }
+]
