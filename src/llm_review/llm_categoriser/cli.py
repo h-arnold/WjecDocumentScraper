@@ -142,6 +142,15 @@ Environment Variables:
         action="store_true",
         help="Write batch payloads to data/batch_payloads/ and exit (for manual testing)",
     )
+
+    parser.add_argument(
+        "--emit-prompts",
+        action="store_true",
+        help=(
+            "Write plain-text prompts (system + user) to files under data/prompt_payloads/ "
+            "and exit (useful for manual testing in AI Studio)"
+        ),
+    )
     
     return parser.parse_args(args)
 
@@ -165,6 +174,10 @@ def main(args: list[str] | None = None) -> int:
     # Handle --emit-batch-payload mode
     if parsed_args.emit_batch_payload:
         return emit_batch_payloads(parsed_args)
+
+    # Handle --emit-prompts mode
+    if parsed_args.emit_prompts:
+        return emit_prompts(parsed_args)
     
     # Create LLM service
     try:
@@ -316,6 +329,73 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
             payload_count += 1
     
     print(f"\nEmitted {payload_count} batch payload(s) to {output_dir}")
+    return 0
+
+
+def emit_prompts(parsed_args: argparse.Namespace) -> int:
+    """Emit prompts as plain-text files for AI studio testing.
+
+    For each batch this writes a system file (if present) and a user file.
+    """
+    from .data_loader import load_issues
+    from .batcher import iter_batches
+    from .prompt_factory import build_prompts
+
+    print("Emitting prompts (plain text)...")
+
+    try:
+        grouped_issues = load_issues(
+            parsed_args.from_report,
+            subjects=set(parsed_args.subjects) if parsed_args.subjects else None,
+            documents=set(parsed_args.documents) if parsed_args.documents else None,
+        )
+    except Exception as e:
+        print(f"Error loading issues: {e}", file=sys.stderr)
+        return 1
+
+    if not grouped_issues:
+        print("No issues found matching the filters")
+        return 0
+
+    output_dir = Path("data/prompt_payloads")
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    file_count = 0
+
+    for key, issues in grouped_issues.items():
+        markdown_path = Path("Documents") / key.subject / "markdown" / key.filename
+
+        for batch in iter_batches(
+            issues,
+            parsed_args.batch_size,
+            markdown_path,
+            subject=key.subject,
+            filename=key.filename,
+        ):
+            prompts = build_prompts(batch)
+
+            # System prompt is optional
+            system_text = prompts[0] if len(prompts) > 1 else ""
+            user_prompts = prompts[1:] if len(prompts) > 1 else prompts
+
+            safe_subject = batch.subject.replace("/", "-")
+            safe_filename = batch.filename.replace("/", "-").replace(".md", "")
+
+            # Use a simple plain-text format: one file per role
+            if system_text:
+                system_file = output_dir / f"{safe_subject}_{safe_filename}_batch{batch.index}_system.txt"
+                system_file.write_text(system_text, encoding="utf-8")
+                print(f"  Wrote {system_file}")
+                file_count += 1
+
+            # Write user prompt(s). If multiple prompts, join them with a separator.
+            user_text = "\n\n---\n\n".join(user_prompts)
+            user_file = output_dir / f"{safe_subject}_{safe_filename}_batch{batch.index}_user.txt"
+            user_file.write_text(user_text, encoding="utf-8")
+            print(f"  Wrote {user_file}")
+            file_count += 1
+
+    print(f"\nEmitted {file_count} prompt file(s) to {output_dir}")
     return 0
 
 
