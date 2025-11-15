@@ -1,8 +1,8 @@
 **LLM Categoriser – Detailed Implementation Blueprint**
 
 - **Scope**: Build a standalone categoriser that ingests `Documents/language-check-report.csv`, batches issues per document, prompts an LLM (via templates in `src/prompt/promptFiles/`) with per-batch tables and page context, retries malformed responses, and stores JSON outputs per document under `Documents/<subject>/document_reports/`.
-- **Tech Constraints**: Stay single-threaded for API requests; respect provider-specific minimum request intervals; default batch size 10 (env/CLI override); maximum two retries on JSON parse/validation failure per batch; persistence happens per batch (redo the batch if interrupted).
-- **Primary Dependencies**: `src/language_check.language_issue.LanguageIssue`, `src.utils.page_utils.extract_pages_text`, `src.prompt.render_prompt.render_template`, `src.llm.provider_registry.create_provider_chain`, `src.llm.service.LLMService`, `src.models.LlmLanguageIssue`/`ErrorCategory`.
+- **Tech Constraints**: Stay single-threaded for API requests (this is a toy project using free-tier LLMs, so no point attempting concurrency); respect provider-specific minimum request intervals; default batch size 10 (env/CLI override); maximum two retries on JSON parse/validation failure per batch; persistence happens per batch (redo the batch if interrupted).
+- **Primary Dependencies**: `src.language_check.language_issue.LanguageIssue`, `src.models.document_key.DocumentKey`, `src.utils.page_utils.extract_pages_text`, `src.prompt.render_prompt.render_template`, `src.llm.provider_registry.create_provider_chain`, `src.llm.service.LLMService`, `src.models.LlmLanguageIssue`/`ErrorCategory`.
 
 ---
 
@@ -79,54 +79,94 @@ Notes:
 
 ### Core Modules & Responsibilities
 
+- **`models/document_key.py`** (new)
+  - Frozen dataclass containing `subject: str` and `filename: str` for identifying documents.
+  - Provides `__str__()` returning `"{subject}/{filename}"` for composite keys.
+
 - **`llm_categoriser/data_loader.py`**
-  - Parse CSV into `LanguageIssue` objects grouped by `(subject, filename)`.
-  - Filters for subject/document subsets; validates corresponding Markdown exists.
+  - Parse CSV into `LanguageIssue` objects grouped by `DocumentKey`.
+  - Assign auto-incrementing `issue_id` (starting at 0) to each issue within a document.
+  - Validate corresponding Markdown files exist at `Documents/<subject>/markdown/<filename>`.
+  - Filter for subject/document subsets if requested.
+  - Error handling: If Markdown file missing, log error and skip that document; if page markers malformed, log and skip.
   - Contract: `load_issues(report_path: Path, *, subjects: set[str] | None, documents: set[str] | None) -> dict[DocumentKey, list[LanguageIssue]]`.
 
 - **`llm_categoriser/batcher.py`**
-  - Chunk issues per document (`batch_size`).
-  - Deduplicate page numbers, fetch page snippets via `extract_pages_text`, and create Markdown tables using a helper from `report_utils.py`.
-  - Contract: `iter_batches(issues: list[LanguageIssue], batch_size: int) -> Iterable[Batch]` where each `Batch` contains `subject`, `filename`, `index`, `issues`, `page_context`, `markdown_table`.
+  - Chunk issues per document by issue count (`batch_size`, default 10).
+  - For each batch: deduplicate page numbers, fetch page snippets via `extract_pages_text`.
+  - For documents with no page numbers (empty Page column in CSV), submit the entire document content as context for all batches.
+  - Create simplified Markdown tables using helper from `report_utils.py` (4 columns: issue_id, page_number, issue, highlighted_context).
+  - Contract: `iter_batches(issues: list[LanguageIssue], batch_size: int, markdown_path: Path) -> Iterable[Batch]` where each `Batch` contains `subject`, `filename`, `index`, `issues`, `page_context`, `markdown_table`.
 
 - **`llm_categoriser/prompt_factory.py`**
-  - Render prompts using the revised `language_tool_categoriser.md` template (ensure placeholders for subject, filename, issue table, and page context remain in sync with this README).
+  - Render prompts using the revised `language_tool_categoriser.md` template.
+  - Template context must provide: `subject`, `filename`, `issue_table` (simplified 4-column table), and `page_context` (list of dicts with `page_number` and `content`).
   - Contract: `build_prompts(batch: Batch) -> list[str]` returning `[system_prompt, user_prompt]`.
 
-- **`llm/json_utils.py` (new)**
+- **`llm/json_utils.py`** (new)
   - Shared JSON extraction/repair using `json-repair` plus validation helpers.
-  - Providers (e.g., `GeminiLLM`) delegate to this utility when `filter_json=True`.
+  - Extract functionality from `GeminiLLM._parse_response_json()` into this module for reuse across all providers.
+  - Contract: `parse_json_response(text: str) -> Any` - extracts JSON from text, repairs, and parses.
+  - `GeminiLLM` and future providers delegate to this utility when `filter_json=True`.
 
 - **`llm_categoriser/runner.py`**
-  - Orchestrate the workflow: call providers, apply retries, validate `LlmLanguageIssue`, and direct successful results to persistence.
-  - Respects provider min request intervals and logs quota fallbacks.
+  - Orchestrate the workflow: call providers with `filter_json=True`, apply retries using `issue_id` to track problematic issues, validate `LlmLanguageIssue`, and direct successful results to persistence.
+  - Respects provider min-request intervals and logs quota fallbacks.
+  - Logging: Use idiomatic Python print statements for progress/status reporting.
 
 - **`llm_categoriser/persistence.py`**
-  - Write per-document JSON atomically; merge batches when rerunning without `--force`.
+  - Write per-document JSON atomically (temp file + replace); merge batches when rerunning without `--force`.
+  - Create `document_reports/` directory if it doesn't exist.
 
 - **`llm_categoriser/state.py`**
-  - Maintain a JSON state file (default `data/llm_categoriser_state.json`) tracking completed batches (`"<subject>/<filename>#<batch_index>"`).
+  - Maintain a JSON state file (default `data/llm_categoriser_state.json`) with nested structure:
+    ```json
+    {
+      "version": "1.0",
+      "subjects": {
+        "Art-and-Design": {
+          "file.md": {
+            "completed_batches": [0, 1, 2],
+            "total_issues": 45
+          }
+        }
+      }
+    }
+    ```
+  - Tracks completed batches per document; cleared/reset with `--force`.
 
-- **`llm_categoriser/cli.py` & `__main__`**
-  - Provide CLI entrypoint with options for subject/document selection, batch size, retry count, provider ordering, state management, manual payload emission, and batch endpoint usage.
+- **`llm_categoriser/cli.py` & `__main__.py`**
+  - Provide CLI entrypoint: `python -m src.llm_review.llm_categoriser`
+  - Options: `--subjects`, `--documents`, `--from-report`, `--batch-size`, `--max-retries`, `--state-file`, `--force`, `--use-batch-endpoint`, `--emit-batch-payload`, `--provider`, `--dotenv`, `--dry-run`.
+  - Use British spelling throughout (e.g., "categoriser", "optimise", "behaviour").
 
 ---
 
-### Provider Adjustments
+### Provider & Template Adjustments
 
-- Extend provider wrappers (starting with Gemini) to honour a `min_request_interval` to respect provider rate limits.
-- Centralise JSON parsing in `llm/json_utils.py` so every provider behaves consistently.
-- Ensure provider errors carry context for runner logging and retry decisions.
-- When templates in `src/prompt/promptFiles/` change, adjust `prompt_factory.py` and related tests to keep placeholder names consistent.
+- **Rate Limiting**: Extend provider wrappers (starting with Gemini) to honour a `min_request_interval` to respect provider rate limits. Environment variables like `GEMINI_MIN_REQUEST_INTERVAL` control intervals.
+- **JSON Parsing**: Extract `GeminiLLM._parse_response_json()` functionality into `llm/json_utils.py` so every provider behaves consistently. All providers should delegate to this shared utility when `filter_json=True`.
+- **Error Context**: Ensure provider errors carry context for runner logging and retry decisions.
+- **Template Partials**: Update `render_prompt.py` to load both required partials:
+  ```python
+  partials = {
+      "llm_reviewer_system_prompt": _read_prompt("llm_reviewer_system_prompt.md"),
+      "authoritative_sources": _read_prompt("authoritative_sources.md")
+  }
+  renderer = pystache.Renderer(partials=partials)
+  ```
+- **Template Synchronisation**: When templates in `src/prompt/promptFiles/` change, adjust `prompt_factory.py` and related tests to keep placeholder names consistent.
 
 ---
 
 ### Retry & Error Handling
 
-1. Parse provider response via shared JSON utility.
+1. Parse provider response via shared `json_utils.parse_json_response()`.
 2. Validate each entry with `LlmLanguageIssue`.
-3. If some records fail validation, rebuild a reduced prompt with only those issues and retry (max two retries). Successful records are kept; failed ones after retries are logged and skipped.
-4. State file is only updated after a batch fully succeeds to avoid skipping unfinished work on rerun.
+3. If some records fail validation, use `issue_id` to map failed outputs back to input issues, rebuild a reduced prompt with only those issues, and retry (max two retries). Successful records are kept; failed ones after retries are printed (logged) and skipped.
+4. Malformed page markers or missing Markdown files: log error and skip the document.
+5. State file is only updated after a batch fully succeeds to avoid skipping unfinished work on rerun.
+6. Single-issue batches or batches smaller than `batch_size` are handled with standard logic.
 
 ---
 
@@ -155,33 +195,61 @@ Notes:
 
 ### Implementation Sequence
 
-1. Update `.gitignore` for state/payload files.
-2. Implement shared JSON utilities and provider rate limiting; add unit tests.
-3. Add Markdown table helper in `report_utils.py`.
-4. Scaffold new categoriser modules.
-5. Revise prompt template and implement prompt factory.
-6. Build data loader and batcher with tests.
-7. Implement state tracker, persistence, runner, and tests using fake provider responses.
-8. Implement CLI and associated tests.
-9. Run `uv run pytest -q`; perform manual `--emit-batch-payload` check.
-10. Update documentation (README, CHANGES if needed).
+1. **Create `DocumentKey` model**: Add `src/models/document_key.py` with frozen dataclass; update `src/models/__init__.py` exports.
+2. **Update `LanguageIssue`**: Add `issue_id: int` field with default value for backward compatibility.
+3. **Update CSV handling**: 
+   - Modify `report_utils.py` to use `highlighted_context` instead of `context` in CSV output.
+   - Deprecate `context` field in `LanguageIssue` (keep for backward compatibility but mark as deprecated).
+4. **Update `.gitignore`**: Add entries for:
+   - `data/llm_categoriser_state.json`
+   - `data/batch_payloads/`
+   - `Documents/*/document_reports/`
+5. **Extract JSON utilities**: Create `llm/json_utils.py` by extracting `GeminiLLM._parse_response_json()` functionality; refactor `GeminiLLM` to use shared utility; add unit tests.
+6. **Add rate limiting**: Extend providers with `min_request_interval` support and environment variable configuration.
+7. **Fix `render_prompt.py`**: Update to load both `llm_reviewer_system_prompt` and `authoritative_sources` partials.
+8. **Add Markdown table helper**: Implement `build_issue_batch_table(issues: list[LanguageIssue]) -> str` in `report_utils.py` (4 columns: issue_id, page_number, issue, highlighted_context).
+9. **Scaffold categoriser modules**: Create directory structure and empty modules with docstrings and contracts.
+10. **Implement modules with tests**: data_loader → batcher → prompt_factory → state → persistence → runner → CLI.
+11. **Integration testing**: Create `tests/llm_categoriser/` with fixtures; run `uv run pytest -q`.
+12. **Manual validation**: Use `--emit-batch-payload` to verify prompt structure and payload format.
+13. **Update documentation**: Finalise this README and update CHANGES.md if needed.
 
 ---
 
 ### Risks & Mitigations
 
-- Control token usage by limiting page context to referenced pages; consider optional guard on context length.
-- Deduplicate CSV issues before batching to avoid redundant prompts.
-- Defer state updates until after successful writes to handle retries cleanly.
-- Offer manual payload emission for troubleshooting provider issues.
+- **Token Usage**: Control by limiting page context to referenced pages only. Even the largest full documents are around 30,000 tokens, so no explicit truncation needed initially. We'll cross that bridge if we come to it.
+- **Deduplication**: Deduplicate CSV issues before batching to avoid redundant prompts.
+- **State Management**: Defer state updates until after successful writes to handle retries cleanly.
+- **Manual Testing**: Offer `--emit-batch-payload` for troubleshooting provider issues.
+- **Batch Size Edge Cases**: Handle single-issue batches and batches smaller than `batch_size` with standard logic.
 
 ---
 
 ### Documentation & Follow-up
 
 - Keep this README aligned with any future changes to prompt structure or CLI options.
-- Document state file format for resume functionality.
+- State file format is documented in the "Core Modules & Responsibilities" section above.
 - Future enhancement: optional importer for externally processed batch results.
-- Highlight single-threaded design and rate limiting rationale for maintainers.
+- Single-threaded design rationale: This is a toy project using free-tier LLMs, so there's no point attempting concurrency. Rate limiting is handled per-request with provider-specific minimum intervals.
 
-This blueprint consolidates the agreed constraints (single-threaded processing, provider-specific rate limiting, targeted retries, batch-level persistence) and lays out the module responsibilities, contracts, and sequencing required to implement the LLM categoriser successfully.
+---
+
+### Data Model Clarifications
+
+**LanguageIssue Updates:**
+- Add `issue_id: int` field (auto-incremented per document, starting at 0)
+- Deprecate `context` field in favour of `highlighted_context` (keep for backward compatibility)
+- Composite key for cross-document queries: `f"{filename}#{issue_id}"`
+
+**CSV Structure:**
+- Columns: Subject, Filename, Page, Rule ID, Type, Issue, Message, Suggestions, **Highlighted Context** (changed from Context)
+- Empty Page column: indicates single-page document; submit entire document as context for all batches
+
+**Markdown Table for LLM (simplified):**
+- 4 columns only: `issue_id`, `page_number`, `issue`, `highlighted_context`
+- Purpose: Keep token count controlled while providing essential information
+
+---
+
+This blueprint consolidates all agreed constraints and clarifications, including the document key model, issue tracking via `issue_id`, CSV updates, simplified table structure, state file format, JSON utilities extraction, rate limiting, British spelling, and single-threaded design rationale.
