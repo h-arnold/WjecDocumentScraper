@@ -9,7 +9,7 @@ from .converters import (
     MarkerConverter,
     create_converter,
 )
-from .gemini_llm import GeminiLLM
+from .llm.gemini_llm import GeminiLLM
 
 __all__ = [
     "ConversionResult",

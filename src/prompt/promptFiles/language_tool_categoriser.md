@@ -1,7 +1,5 @@
 {{> llm_reviewer_system_prompt}}
 
-
-
 ## Inputs
 
 You will be given two pieces of text:
@@ -49,6 +47,19 @@ For **each reported error** in the table, you must follow this exact process:
 -   **Stylistic Preference:** The tool's suggestion is a stylistic choice (e.g., "in order to" vs. "to"), but the original text is not incorrect.
 -   **False Positive:** The tool is wrong; the text is correct. This is often due to specialist terminology (`tweening`), proper names, complex sentences the tool misunderstands, or correct foreign-language words the tool misidentifies.
 
+### Enum usage (machine-friendly names)
+
+When you set `error_category` in the JSON output, use one of the following exact machine-friendly enum values (UPPER_SNAKE_CASE). These are the canonical values used by downstream code:
+
+- `PARSING_ERROR`
+- `SPELLING_ERROR`
+- `ABSOLUTE_GRAMMATICAL_ERROR`
+- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`
+- `STYLISTIC_PREFERENCE`
+- `FALSE_POSITIVE`
+
+Do not use natural-language variants such as "Parsing Error" or alternate naming conventions such as `False_Positive` — the consumer expects UPPER_SNAKE_CASE and will validate against those enum members.
+
 ---
 
 ## Output Format
@@ -93,7 +104,4 @@ The structure must be a **nested object** organised by page number at the top le
   "confidence_score": 0,
   "reasoning": "..."
 }
-```
-
-```
 ```
