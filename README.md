@@ -216,6 +216,8 @@ The `GeminiLLM` helper in `gemini_llm.py` wraps the Google GenAI SDK so you can 
 - Calls the `gemini-flash-2.5` model with the maximum supported thinking budget (24,576 tokens) via `google.genai.types.ThinkingConfig`.
 - Loads environment variables from a `.env` file automatically (useful for storing `GEMINI_API_KEY`).
 - Expects `GEMINI_API_KEY` to be present in the environment, matching [Google's Python quickstart](https://ai.google.dev/gemini-api/docs/get-started/python).
+ - Loads environment variables from a `.env` file automatically (useful for storing `GEMINI_API_KEY`).
+ - Expects `GEMINI_API_KEY` to be present in the environment, matching [Google's Python quickstart](https://ai.google.dev/gemini-api/docs/get-started/python).
 
 Example:
 
@@ -231,3 +233,20 @@ print(response.text)
 ```
 
 Refer to the [Gemini text generation guide](https://ai.google.dev/gemini-api/docs/text-generation) for additional configuration options.
+
+## Environment variables
+
+The project uses a few environment variables (and supports loading them from a `.env` file). These are the variables you may want to set when running the LLM or categoriser features:
+
+- GEMINI_API_KEY — Google Gemini API key used by the `GeminiLLM` wrapper. Example: `GEMINI_API_KEY=xxxx`.
+- MISTRAL_API_KEY — (Planned / optional) API key for a Mistral provider integration.
+- LLM_PRIMARY — Comma-separated primary LLM provider name(s). Default: `gemini`.
+- LLM_FALLBACK — Comma-separated fallback LLM providers. Example: `mistral`.
+- LLM_CATEGORISER_BATCH_SIZE — Batch size used by the LLM categoriser (default: 10). Adjustable via the CLI or by setting this environment variable.
+- LLM_CATEGORISER_MAX_RETRIES — Maximum retries for the categoriser when a batch fails (default: 2).
+- LLM_CATEGORISER_STATE_FILE — File path used to persist state for the categoriser (default: `data/llm_categoriser_state.json`).
+- GEMINI_MIN_REQUEST_INTERVAL — Minimum number of seconds to wait between Gemini requests (default: 0). Useful to avoid rate limits.
+
+Notes:
+- The `--dotenv` flag in the LLM categoriser CLI (`src/llm_review/llm_categoriser/cli.py`) can be used to point to a `.env` file with these variables.
+- The `google-genai` client used by `GeminiLLM` will also read `GEMINI_API_KEY` or `GOOGLE_API_KEY` from the environment; we recommend using `GEMINI_API_KEY` for clarity.
