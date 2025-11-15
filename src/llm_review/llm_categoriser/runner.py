@@ -97,6 +97,8 @@ class CategoriserRunner:
             # Clear state if force mode
             if force:
                 self.state.clear_document(key)
+                from .persistence import clear_document_results
+                clear_document_results(key)
             
             # Process batches for this document
             for batch in iter_batches(
