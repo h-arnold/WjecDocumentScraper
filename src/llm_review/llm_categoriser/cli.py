@@ -46,6 +46,8 @@ Environment Variables:
   LLM_CATEGORISER_BATCH_SIZE     Default batch size (default: 10)
   LLM_CATEGORISER_MAX_RETRIES    Maximum retries (default: 2)
   LLM_CATEGORISER_STATE_FILE     State file path (default: data/llm_categoriser_state.json)
+    LLM_CATEGORISER_LOG_RESPONSES  Set to true/1 to dump raw LLM JSON responses for each batch attempt
+    LLM_CATEGORISER_LOG_DIR        Override directory for raw response logs (default: data/llm_categoriser_responses)
   GEMINI_MIN_REQUEST_INTERVAL    Min seconds between Gemini requests (default: 0)
   LLM_PRIMARY                    Primary LLM provider (default: gemini)
   LLM_FALLBACK                   Fallback providers (comma-separated)
@@ -151,6 +153,18 @@ Environment Variables:
             "and exit (useful for manual testing in AI Studio)"
         ),
     )
+
+    parser.add_argument(
+        "--log-responses",
+        action="store_true",
+        help="Force-enable raw LLM response logging (overrides env toggle)",
+    )
+
+    parser.add_argument(
+        "--log-responses-dir",
+        type=Path,
+        help="Directory where raw responses should be written (default: data/llm_categoriser_responses)",
+    )
     
     return parser.parse_args(args)
 
@@ -219,12 +233,16 @@ def main(args: list[str] | None = None) -> int:
     state = CategoriserState(parsed_args.state_file)
     
     # Create runner
+    log_responses_flag = True if parsed_args.log_responses else None
+    log_responses_dir = parsed_args.log_responses_dir
     runner = CategoriserRunner(
         llm_service=llm_service,
         state=state,
         batch_size=parsed_args.batch_size,
         max_retries=parsed_args.max_retries,
         min_request_interval=min_interval,
+        log_raw_responses=log_responses_flag,
+        log_response_dir=log_responses_dir,
     )
     
     # Run categorisation

@@ -41,12 +41,36 @@ def parse_json_response(text: str) -> Any:
     if not isinstance(text, str):
         raise ValueError(f"Expected string input, got {type(text)}")
     
-    # Find outermost JSON object delimiters
-    start = text.find("{")
-    end = text.rfind("}")
-    
-    if start == -1 or end == -1 or end <= start:
-        raise ValueError("Response text does not contain JSON object delimiters.")
+    # Find outermost JSON fragment delimiters. Support objects ({...}) and
+    # arrays ([...]) at the top level. Choose whichever appears first in
+    # the response text (e.g. we prefer an array if it occurs before an object).
+    start_obj = text.find("{")
+    start_arr = text.find("[")
+
+    # Choose the earliest valid start index (that isn't -1), preferring
+    # arrays if they both exist at the same position.
+    if start_obj == -1 and start_arr == -1:
+        raise ValueError("Response text does not contain JSON object or array delimiters.")
+
+    if start_obj == -1:
+        start = start_arr
+        end_char = "]"
+    elif start_arr == -1:
+        start = start_obj
+        end_char = "}"
+    else:
+        # Both are present; choose whichever comes first
+        if start_arr < start_obj:
+            start = start_arr
+            end_char = "]"
+        else:
+            start = start_obj
+            end_char = "}"
+
+    end = text.rfind(end_char)
+
+    if end == -1 or end <= start:
+        raise ValueError("Response text does not contain matching JSON delimiters.")
     
     # Extract the JSON fragment
     json_fragment = text[start : end + 1]

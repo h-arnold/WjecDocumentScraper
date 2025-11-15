@@ -100,6 +100,8 @@ This README summarises each module, data flow, contracts, error handling, where 
 
 ## Error logging and debugging
 
+Set `LLM_CATEGORISER_LOG_RESPONSES=true` (or pass `--log-responses` on the CLI) to dump every raw provider reply into `data/llm_categoriser_responses/<subject>/...` (override the directory with `LLM_CATEGORISER_LOG_DIR=/path` or `--log-responses-dir`). Leave the env var empty/undefined and omit the flag to disable logging when you’re not debugging.
+
 ### Core Modules & Responsibilities
 
 - These files are stored under `data` so they are easy to inspect and debug without overwriting Documents output. They are meant to be read by the maintainers when manual inspection of LLM responses is required.

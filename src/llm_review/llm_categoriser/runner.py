@@ -9,6 +9,9 @@ from __future__ import annotations
 import time
 from pathlib import Path
 from typing import Any
+import os
+import json
+from datetime import datetime, timezone
 
 from pydantic import ValidationError
 
@@ -33,6 +36,8 @@ class CategoriserRunner:
         batch_size: int = 10,
         max_retries: int = 2,
         min_request_interval: float = 0.0,
+        log_raw_responses: bool | None = None,
+        log_response_dir: Path | None = None,
     ):
         """Initialize the runner.
         
@@ -48,6 +53,18 @@ class CategoriserRunner:
         self.batch_size = batch_size
         self.max_retries = max_retries
         self.min_request_interval = min_request_interval
+        if log_raw_responses is None:
+            env_flag = os.environ.get("LLM_CATEGORISER_LOG_RESPONSES", "")
+            log_raw_responses = env_flag.strip().lower() in {"1", "true", "yes", "on"}
+        self.log_raw_responses = log_raw_responses
+        if log_response_dir is None:
+            log_response_dir = Path(os.environ.get("LLM_CATEGORISER_LOG_DIR", "data/llm_categoriser_responses"))
+        self.log_response_dir = Path(log_response_dir)
+        if self.log_raw_responses:
+            print(
+                "Raw response logging enabled -> "
+                f"{self.log_response_dir} (subject folders will be created automatically)"
+            )
         # Initialize to 0.0 so that the first API call is not rate-limited.
         # This ensures the first request does not sleep; subsequent requests will enforce the interval.
         self._last_request_time = 0.0
@@ -191,6 +208,8 @@ class CategoriserRunner:
             except Exception as e:
                 print(f"    Error calling LLM: {e}")
                 return False
+
+            self._maybe_log_response(key, batch.index, attempt, response, remaining_issues)
             
             # Validate and collect results
             validated, failed, errors = self._validate_response(response, remaining_issues)
@@ -250,7 +269,7 @@ class CategoriserRunner:
         self,
         response: Any,
         issues: list[LanguageIssue],
-    ) -> tuple[list[dict[str, Any]], set[int], dict]:
+    ) -> tuple[list[dict[str, Any]], set[int], dict[object, list[str]]]:
         """Validate LLM response and return validated results, failed ids and error messages.
 
         Returns:
@@ -264,10 +283,22 @@ class CategoriserRunner:
         error_messages.setdefault("batch_errors", [])
 
         # Normalise provider response: prefer flat list but support old dict-of-pages format.
+        response_groups: list[tuple[str | None, list[Any]]] = []
         if isinstance(response, list):
-            response_groups: list[tuple[str | None, list[Any]]] = [(None, response)]
+            response_groups = [(None, response)]
         elif isinstance(response, dict):
-            response_groups = list(response.items())
+            if self._is_page_grouped_response(response):
+                response_groups = list(response.items())
+            elif self._looks_like_issue_payload(response):
+                response_groups = [(None, [response])]
+            else:
+                msg = (
+                    "Dict response must be either page-grouped (page_x -> list) "
+                    "or a single issue object"
+                )
+                print(f"    Error: {msg}")
+                error_messages.setdefault("batch_errors", []).append(msg)
+                return validated_results, failed_issue_ids, error_messages
         else:
             msg = f"Response is not a list or dict (got {type(response)})"
             print(f"    Error: {msg}")
@@ -277,7 +308,7 @@ class CategoriserRunner:
         # Get filename from first issue (all issues in a batch are from same document)
         filename = issues[0].filename if issues else ""
 
-        if not response:
+        if not response_groups:
             msg = "Response is empty; no issues to validate"
             print(f"    Warning: {msg}")
             error_messages.setdefault("batch_errors", []).append(msg)
@@ -384,7 +415,73 @@ class CategoriserRunner:
                     else:
                         error_messages.setdefault("batch_errors", []).append(str(e))
                     continue
+        if not validated_results:
+            msg = "Response contained no issue objects; expected at least one categorised issue"
+            error_messages.setdefault("batch_errors", []).append(msg)
+
         return validated_results, failed_issue_ids, error_messages
+
+    @staticmethod
+    def _is_page_grouped_response(response: dict[Any, Any]) -> bool:
+        """Return True if the dict looks like the legacy page-keyed format."""
+        if not response:
+            return False
+        return all(isinstance(value, list) for value in response.values())
+
+    @staticmethod
+    def _looks_like_issue_payload(response: Any) -> bool:
+        """Return True if the object appears to be a single-issue payload."""
+        if not isinstance(response, dict):
+            return False
+        required_keys = {"issue_id", "error_category", "confidence_score", "reasoning"}
+        return any(key in response for key in required_keys)
+
+    def _maybe_log_response(
+        self,
+        key: DocumentKey,
+        batch_index: int,
+        attempt: int,
+        response: Any,
+        issues: list[LanguageIssue],
+    ) -> None:
+        if not self.log_raw_responses:
+            return
+        try:
+            self._log_raw_response(key, batch_index, attempt, response, issues)
+        except Exception as exc:
+            print(f"    Warning: Could not log raw response: {exc}")
+
+    def _log_raw_response(
+        self,
+        key: DocumentKey,
+        batch_index: int,
+        attempt: int,
+        response: Any,
+        issues: list[LanguageIssue],
+    ) -> None:
+        subject_dir = self.log_response_dir / key.subject
+        subject_dir.mkdir(parents=True, exist_ok=True)
+        safe_filename = key.filename.replace("/", "-")
+        current_time = datetime.now(timezone.utc)
+        timestamp = current_time.strftime("%Y%m%dT%H%M%S%fZ")
+        output_file = subject_dir / f"{safe_filename}.batch-{batch_index}.attempt-{attempt}.{timestamp}.json"
+
+        payload = {
+            "timestamp": current_time.isoformat().replace("+00:00", "Z"),
+            "subject": key.subject,
+            "filename": key.filename,
+            "batch_index": batch_index,
+            "attempt": attempt,
+            "issue_ids": [issue.issue_id for issue in issues],
+            "response": response,
+        }
+
+        with open(output_file, "w", encoding="utf-8") as fh:
+            json.dump(payload, fh, indent=2, default=self._fallback_json_serializer)
+
+    @staticmethod
+    def _fallback_json_serializer(obj: Any) -> str:
+        return str(obj)
     
     def _enforce_rate_limit(self) -> None:
         """Enforce minimum interval between API requests."""

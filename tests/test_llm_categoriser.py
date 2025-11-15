@@ -4,8 +4,10 @@ from __future__ import annotations
 
 import sys
 from pathlib import Path
+import json
 
 import pytest
+from unittest.mock import MagicMock
 
 # Add project root to path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -17,7 +19,9 @@ from src.llm_review.llm_categoriser.data_loader import load_issues, _parse_csv
 from src.llm_review.llm_categoriser.batcher import iter_batches
 from src.llm_review.llm_categoriser.state import CategoriserState
 from src.llm_review.llm_categoriser.persistence import save_batch_results, load_document_results
+from src.llm_review.llm_categoriser.runner import CategoriserRunner
 from src.models.document_key import DocumentKey
+from src.llm_review.llm_categoriser.state import CategoriserState
 
 
 def test_parse_csv(tmp_path: Path) -> None:
@@ -331,3 +335,106 @@ def test_persistence_deduplicates_on_merge(tmp_path: Path) -> None:
     loaded = load_document_results(key, output_dir=tmp_path)
     issue_ids = [row["issue_id"] for row in loaded]
     assert issue_ids == ["0", "1", "2"]
+
+
+def test_runner_accepts_single_issue_dict_response(tmp_path: Path) -> None:
+    """Ensure _validate_response accepts flat dict payloads."""
+    runner = CategoriserRunner(
+        llm_service=MagicMock(),
+        state=CategoriserState(tmp_path / "state.json"),
+    )
+
+    issue = LanguageIssue(
+        filename="test.md",
+        rule_id="RULE1",
+        message="msg",
+        issue_type="type",
+        replacements=[],
+        context="ctx",
+        highlighted_context="ctx",
+        issue="issue",
+        page_number=1,
+        issue_id=0,
+    )
+
+    response = {
+        "issue_id": 0,
+        "error_category": "SPELLING_ERROR",
+        "confidence_score": 75,
+        "reasoning": "Because",
+    }
+
+    validated, failed, errors = runner._validate_response(response, [issue])
+
+    assert failed == set()
+    assert len(validated) == 1
+    assert errors.get("batch_errors") == []
+
+
+def test_runner_logs_raw_response_when_enabled(tmp_path: Path) -> None:
+    runner = CategoriserRunner(
+        llm_service=MagicMock(),
+        state=CategoriserState(tmp_path / "state.json"),
+        log_raw_responses=True,
+        log_response_dir=tmp_path / "responses",
+    )
+
+    key = DocumentKey(subject="Test", filename="doc.md")
+    issues = [
+        LanguageIssue(
+            filename="doc.md",
+            rule_id="RULE1",
+            message="msg",
+            issue_type="type",
+            replacements=[],
+            context="ctx",
+            highlighted_context="ctx",
+            issue="issue",
+            page_number=1,
+            issue_id=5,
+        )
+    ]
+
+    runner._log_raw_response(key, batch_index=0, attempt=1, response={"foo": "bar"}, issues=issues)
+
+    subject_dir = tmp_path / "responses" / "Test"
+    files = list(subject_dir.glob("*.json"))
+    assert len(files) == 1
+    data = json.loads(files[0].read_text())
+    assert data["issue_ids"] == [5]
+    assert data["response"] == {"foo": "bar"}
+
+
+def test_runner_uses_env_toggle_for_logging(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("LLM_CATEGORISER_LOG_RESPONSES", "true")
+    log_dir = tmp_path / "env_responses"
+    monkeypatch.setenv("LLM_CATEGORISER_LOG_DIR", str(log_dir))
+
+    runner = CategoriserRunner(
+        llm_service=MagicMock(),
+        state=CategoriserState(tmp_path / "state.json"),
+    )
+
+    key = DocumentKey(subject="Env", filename="doc.md")
+    issues = [
+        LanguageIssue(
+            filename="doc.md",
+            rule_id="RULE1",
+            message="msg",
+            issue_type="type",
+            replacements=[],
+            context="ctx",
+            highlighted_context="ctx",
+            issue="issue",
+            page_number=1,
+            issue_id=7,
+        )
+    ]
+
+    runner._log_raw_response(key, batch_index=2, attempt=0, response={"foo": "env"}, issues=issues)
+
+    files = list((log_dir / "Env").glob("*.json"))
+    assert len(files) == 1
+    data = json.loads(files[0].read_text())
+    assert data["issue_ids"] == [7]
+    assert data["response"] == {"foo": "env"}

@@ -54,7 +54,7 @@ Always return the enum values exactly as written above (UPPER_SNAKE_CASE).
 
 ## Output Format
 
-Return a **single JSON array** (no surrounding object, no page keys). Do not include backticks or commentary. Each array element represents one issue from the table.
+Return a **single top-level JSON array** (no surrounding object, no page keys) and nothing else. Do not include backticks, commentary, or any text before or after the JSON. Each array element represents one issue from the table.
 
 IMPORTANT: the categoriser only needs to provide the LLM results for each issue — the detection fields are already known from the input CSV and are re-applied server-side. For each issue, return exactly the following fields and nothing more:
 
@@ -82,5 +82,20 @@ Example minimal output:
 ```
 
 Each error object **must** include only the four fields described above — `issue_id`, `error_category`, `confidence_score`, and `reasoning`. The runner will map `issue_id` back to the original detection row and attach the LLM fields to that issue.
+
+IMPORTANT: Always return a JSON array even for a single issue. For example, the array must be:
+
+```json
+[
+  {
+    "issue_id": 0,
+    "error_category": "PARSING_ERROR",
+    "confidence_score": 90,
+    "reasoning": "Short single-sentence reason"
+  }
+]
+```
+
+Do not return the single object without wrapping it in an array. Also ensure every string uses double-quotes and there are no trailing commas.
 
 ---

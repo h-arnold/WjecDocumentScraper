@@ -247,8 +247,10 @@ The project uses a few environment variables (and supports loading them from a `
 - LLM_CATEGORISER_BATCH_SIZE — Batch size used by the LLM categoriser (default: 10). Adjustable via the CLI or by setting this environment variable.
 - LLM_CATEGORISER_MAX_RETRIES — Maximum retries for the categoriser when a batch fails (default: 2).
 - LLM_CATEGORISER_STATE_FILE — File path used to persist state for the categoriser (default: `data/llm_categoriser_state.json`).
+- LLM_CATEGORISER_LOG_RESPONSES — Set to `1`, `true`, `yes`, or `on` to dump every raw LLM response to disk for debugging.
+- LLM_CATEGORISER_LOG_DIR — Directory where raw responses should be stored (default: `data/llm_categoriser_responses`).
 - GEMINI_MIN_REQUEST_INTERVAL — Minimum number of seconds to wait between Gemini requests (default: 0). Useful to avoid rate limits.
 
 Notes:
-- The `--dotenv` flag in the LLM categoriser CLI (`src/llm_review/llm_categoriser/cli.py`) can be used to point to a `.env` file with these variables.
+- The `--dotenv` flag in the LLM categoriser CLI (`src/llm_review/llm_categoriser/cli.py`) can be used to point to a `.env` file with these variables. You can also override the logging behaviour directly via `--log-responses` and `--log-responses-dir` when running the CLI.
 - The `google-genai` client used by `GeminiLLM` will also read `GEMINI_API_KEY` or `GOOGLE_API_KEY` from the environment; we recommend using `GEMINI_API_KEY` for clarity.
