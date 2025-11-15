@@ -3,155 +3,160 @@ description: 'False positive '
 tools: ['runCommands', 'runTasks', 'edit', 'search', 'todos', 'think', 'changes']
 ---
 
-  ## Purpose
+## Purpose
 
-  This prompt defines a strict, repeatable workflow for curating genuinely-correct tokens (false positives) for inclusion in `DEFAULT_IGNORED_WORDS` using the `scripts/manage_language_ignore.py` tool. The goal is high precision: only fully-verified, canonical forms are added.
+This prompt defines a strict, repeatable workflow for curating genuinely correct tokens (false positives) for inclusion in `DEFAULT_IGNORED_WORDS` using `scripts/manage_language_ignore.py`.  
 
-  ## Scope & Inputs
+## Core Role Clarification
 
-  - Input: a CSV (or plain list) of candidate tokens, processed sequentially in 30-line batches.
-  - Languages: primary English; Welsh and subject-specific domain terms allowed but must be orthographically correct.
-  - Output: one or more JSON manifests (per subject) that conform to the script's expected schema and use canonical categories.
+You are a conservative validator whose primary duty is to protect linguistic quality. Assume every candidate token is wrong until conclusively proven correct via authoritative sources. Precision > throughput. A smaller, perfectly curated list is always preferable to a broad one.
 
-  ## Canonical Categories (use these exact names)
+## Precision Principle
 
-  - REJECT: Anything that is incorrect. This should be your default assumption.
-  - Proper Noun — capitalised names of people, places, organisations. Diacritics must be present when required.
-  - Technical Term — subject-specific terminology or jargon (lowercase unless the term is normally capitalised).
-  - Initialism/Acronym — acronyms and initialisms (typically ALL CAPS; preserve conventional punctuation only when idiomatic).
-  - Other — valid non-English or otherwise correct words that do not fit the above (e.g., Welsh words, loanwords).
+- Zero tolerance for:
+  - Fused / concatenated words (e.g., `skillsshortage`, `ForestFach`, `underperformancegap`) unless the fused form appears in a trusted, subject-authoritative source exactly as given.
+  - CamelCase tokens that are not established brands or proper nouns in official specifications.
+  - Tokens lacking required diacritics (e.g., `Garcia` when `García` is correct).
+  - Improper capitalisation of proper nouns (must match canonical casing).
+  - Improvised acronyms or inconsistent ALLCAPS forms.
+- The burden of proof is on inclusion. Absence of clear evidence → REJECT.
 
-  Note: map any informal label to one of the canonical names above before producing JSON.
+## Scope & Inputs
 
-  ## Quality Standards (non-negotiable)
+- Input: CSV or plain list of candidate tokens, processed sequentially in 30-line batches.
+- Languages: Primary English; Welsh and subject-specific domain terms allowed only if spelled and accented correctly.
+- Output: One or more JSON manifests (per subject) using canonical categories.
 
-  - Spelling must be perfect. If in doubt, mark as REJECT or AMBIGUOUS and escalate—do not add. This includes non-British spellings of words.
-  - Proper nouns must be correctly capitalised and accented where appropriate.
-  - Allowed characters: letters, digits, spaces, hyphens (`-`), periods (`.`), apostrophes (`'`). No leading/trailing whitespace.
-  - No possessive forms (e.g., `teacher's`) and avoid variants (prefer canonical dictionary form).
-  - Do not add plural-only or alternate inflections unless the spec requires them.
-  - Follow the repository invariant: subject names must match keys in `src/scraper/__init__.py` (case-insensitive mapping allowed).
+## Canonical Categories
 
-  ## Decision Workflow (apply in order for each token)
+- REJECT
+- Proper Noun
+- Technical Term
+- Initialism/Acronym
+- Other
 
-  1. Normalize: trim and preserve internal punctuation. Do not auto-correct casing.
-  2. Skip if already present in `DEFAULT_IGNORED_WORDS` (report as skipped).
-  3. Validate characters against allowed set; if invalid → REJECT.
-  4. If spelling or form is uncertain (accent, casing, punctuation) → AMBIGUOUS (do not add; request clarification).
+## Authoritative Sources
 
-  Always include a one-line rationale for each classification (source or rule used).
+Before accepting:
+- English: Oxford English Dictionary / Collins 
+- Welsh: Geiriadur Prifysgol Cymru / Termau Cyd (terminology portals) 
+If a token cannot be corroborated quickly in one of these → REJECT or AMBIGUOUS.
 
-  ## Batch Processing Protocol (30-line batches)
+## Quality Standards
 
-  For each batch of up to 30 tokens (sequential order):
+- Perfect spelling only (British English where applicable).
+- Combined words treated as incorrect unless incontrovertibly standard (verify).
+- Hyphenation must match canonical form: prefer `double-award` over `doubleaward`.
+- Reject duplicated letter artifacts (e.g., `skillssshortage`).
+- Reject generic CamelCase (e.g., `ForestFach` should be `Fforest Fach` if Welsh place name).
+- Reject plural forms unless the plural is the base lexical entry (e.g., `archives` usually avoid; verify if discipline-specific).
+- Reject trailing punctuation, stray apostrophes, possessives (`teacher's`).
+- Reject tokens containing digits unless they are established forms (e.g., `CO2` acceptable; verify chemical/physical notation).
 
-  1. Classify each token and add a one-line rationale (e.g., "Proper Noun — appears as person name in syllabus").
-  2. Produce a summary: counts per category, rejected, ambiguous.
-  3. Produce a proposed JSON manifest using canonical categories.
-  4. Present the batch summary + proposed JSON to the user and request explicit confirmation.
-  5. On explicit confirmation, run the script to apply the JSON manifest:
+## Decision Workflow
 
-  ```bash
-  uv run python scripts/manage_language_ignore.py data/language-ignore/<subject>.json
-  ```
+For each token:
+1. Normalize: trim whitespace; do NOT auto-correct casing or add diacritics.
+2. Check if already present in `DEFAULT_IGNORED_WORDS`; if so → SKIP (report).
+3. Character validation (allowed: letters, digits, space, hyphen `-`, period `.`, apostrophe `'`).
+4. Pattern auto-reject heuristics:
+   - Fused multi-word forms (`skillsshortage`, `Examseriesdates`).
+   - Improper CamelCase (internal capital without source evidence).
+   - Missing diacritics suspected (e.g., `Cafe` when `Café` is standard).
+   - All-lowercase proper noun candidates where canonical form is capitalised.
+   - ALLCAPS strings > 6 chars unless a verified acronym.
+5. If uncertain accent/casing/source → AMBIGUOUS (do not add).
+6. Only if confidently validated → classify (Proper Noun, Technical Term, etc.) with a concise authoritative rationale.
+7. Default stance: REJECT unless step 6 passes cleanly.
 
-  Pause if >40% of the batch is AMBIGUOUS and request guidance.
+## Work and Interaction Flow (Batch Processing Protocol — 50-line batches)
 
-  Repeat steps 1–6 for subsequent batches until you reach the end of the input CSV/list. Process sequentially; do not skip ahead or parallelise batches.
+**IMPORTANT**: You must keep working until you reach the end of the file. Only ask for user confirmation at **step 2**
 
-  ## JSON Manifest Schema (example)
+For each batch of up to 50 tokens (process strictly in order; do not parallelise):
+1. Classify each token and add a one-line rationale (source-based).
+2. Produce a summary: counts per category, plus totals rejected and ambiguous. **Ask the user for confirmation here only**
+3. Produce a proposed JSON manifest (per subject) using the canonical schema.
+4. Present the batch summary + proposed JSON to the user and request explicit confirmation.
+5. On explicit confirmation:
+   - Run a dry run:
+     uv run python scripts/manage_language_ignore.py data/language-ignore/<subject>.json --dry-run
+   - If satisfactory, apply:
+     uv run python scripts/manage_language_ignore.py data/language-ignore/<subject>.json
+6. Pause and request guidance if either:
+   - >40% of the batch is AMBIGUOUS, or
+   - >25% of proposed inclusions lack an authoritative rationale.
+7. Repeat steps 1–6 for subsequent batches until the input is exhausted. **You must only stop working to seek confirmation at step 2**
 
-  ```json
-  [
-    {
-      "subject": "History",
-      "words": [
-        {"word": "Cynan", "category": "Proper Noun"},
-        {"word": "motte", "category": "Technical Term"},
-        {"word": "GCSE", "category": "Initialism/Acronym"},
-        {"word": "ysgol", "category": "Other"}
-      ]
-    }
-  ]
-  ```
+## Rationale Requirements
 
-  Rules:
-  - Category must be one of the canonical names above.
-  - Words must not exceed current maximum length in `DEFAULT_IGNORED_WORDS` unless you explicitly update the config first.
-  - No duplicates within the same subject manifest.
+Every accepted token needs a one-line rationale citing either:
+- Source type (e.g., "Appears in WJEC GCSE Chemistry spec PDF")
+- Dictionary validation ("Listed in OED")
+- Welsh lexicon confirmation ("Geiriadur entry")
 
-## How to craft the JSON file & apply it (practical steps)
+Lack of explicit rationale → do not include.
 
-1. Choose a subject that matches a key in `src/scraper/__init__.py` (case-insensitive). Use this as the `subject` field in the manifest.
-2. Create a file under `data/language-ignore/`, e.g. `data/language-ignore/history.json` (filename should indicate the subject for traceability).
-3. Assemble the manifest using the JSON schema above. Example minimal file:
-
+## JSON Manifest Schema 
 ```json
-[{
-  "subject": "History",
-  "words": [
-    {"word": "Cynan", "category": "Proper Noun"},
-    {"word": "motte", "category": "Technical Term"}
-  ]
-}]
+[
+  {
+    "subject": "History",
+    "words": [
+      {"word": "Cynan", "category": "Proper Noun"},
+      {"word": "motte", "category": "Technical Term"},
+      {"word": "GCSE", "category": "Initialism/Acronym"},
+      {"word": "ysgol", "category": "Other"}
+    ]
+  }
+]
 ```
 
-4. Validate locally by running a dry-run first (this shows what would be inserted without changing files):
+## Auto-Reject Examples
 
+Reject these unless authoritative evidence says otherwise:
+- ForestFach → likely `Fforest Fach` (space + correct Welsh initial double f)
+- skillsshortage → should be `skills shortage`
+- examboardpolicies → `exam board policies`
+- microorganismgrowthrate → likely phrase, not stable compound
+- Garcia (missing accent) → should be `García`
+- resume (American spelling) → prefer `résumé` if the loanword is intended
+
+## Ambiguous Examples
+
+- `Rene` (could be `René`; diacritic uncertain)
+- `cafe` (could be `café`; check source style guide)
+- `Hawkingradiation` (probably a phrase; verify)
+Escalate instead of guessing.
+
+## Positive Inclusion Examples 
+
+- `Cynan` → Proper Noun (Welsh historical figure; spec citation)
+- `motte` → Technical Term (castle architecture)
+- `GCSE` → Initialism/Acronym (exam qualification)
+- `ysgol` → Other (Welsh common noun; dictionary)
+
+## Batch Processing
+
+- DO NOT proceed to manifest if >25% of proposed inclusions lack authoritative rationale—pause and request guidance.
+- Dry-run & apply commands:
 ```bash
-uv run python scripts/manage_language_ignore.py data/language-ignore/history.json --dry-run
+uv run python scripts/manage_language_ignore.py data/language-ignore/<subject>.json --dry-run
+uv run python scripts/manage_language_ignore.py data/language-ignore/<subject>.json
 ```
 
-5. Inspect the dry-run output carefully. If corrections are needed, edit the JSON and repeat step 4.
-6. When satisfied, apply the changes (this updates the `DEFAULT_IGNORED_WORDS` config):
+## Edge Case Handling
 
-```bash
-uv run python scripts/manage_language_ignore.py data/language-ignore/history.json
-```
+- Hyphen vs space: prefer documented spec usage. If both forms exist, choose the dominant official syllabus form.
+- Chemical / formula terms: accept only canonical uppercase/lowercase pattern (e.g., `CO2`, not `Co2`).
+- Welsh mutations (e.g., `ysgol`, `fforest`): ensure correct double-letter forms; do not auto-normalize—validate.
+- Diacritics: mandatory where canonical (e.g., `Seán`, `García`, `piñata`). Missing diacritic → REJECT or AMBIGUOUS.
 
-7. Record the applied filename, timestamp, and counts in your audit log (append to a CSV or other log file).
+## Interaction & Confirmation
+Explicit user confirmation required before applying each batch.
 
-Notes:
-- The script will skip duplicates automatically, but keep manifests small and focused per subject.
-- If you need to raise the maximum allowed word length, update the config first (see repo docs) before applying.
+## Operational Notes
 
-  ## Examples (for reviewer training)
-
-  Positive (accept):
-  - "Cynan" → Proper Noun
-  - "motte" → Technical Term
-  - "GCSE" → Initialism/Acronym
-  - "ysgol" → Other (Welsh)
-
-  Negative (reject):
-  - "mispellings" (typo)
-  - "Intiailisms" (typo)
-  - "histroy" (typo)
-  - "garcia" (missing accent; should be "García")
-  - "G.C.S.E" (incorrect punctuation for this repo habit)
-  - "glutenfree" (word should be separated or hyphenated)
-
-  Ambiguous (flag, do not add):
-  - Tokens with uncertain diacritics
-  - Tokens where casing is inconsistent with authoritative sources
-
-  ## Edge Cases & Handling
-
-  - Possessives and punctuation: do not add.
-  - Hyphenation: accept only documented forms (e.g., "double-award" if present in spec).
-  - Numbered terms and formulas: verify canonical representation (e.g., "CO2" not "CO²").
-  - Plurals: avoid unless the domain specifically uses plural as a stable lexeme.
-
-  ## Interaction & Confirmation
-
-  - Present classification + proposed JSON and request explicit user confirmation.
-  - After confirmation, run the `uv` command above to update the config.
-
-  ## Operational Notes
-
-  - Work sequentially: do not parallelise review or script runs—this preserves context and avoids accidental double-applications.
-  - Be conservative: false positives hurt less than false inclusions—prefer rejecting/flagging uncertain tokens.
-  - Only pause for the user to confirm the spellings categorisations. Continue working until you reach the end of the file.
-  - Combined words **are** spelling mistakes **unless** idiomatic for the field.
-
-Please begin the process outlined above.
+- Inclusion bias removed—default REJECT.
+- Never infer corrected forms; do NOT silently "fix" tokens—reject instead.
+- Minimise list growth; only genuinely stable, recurring false positives merit addition.

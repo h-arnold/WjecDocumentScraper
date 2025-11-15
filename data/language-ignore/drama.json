@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "Drama",
+    "words": [
+      {"word": "vivas", "category": "Technical Term"},
+      {"word": "GOODFELLOW", "category": "Proper Noun"},
+      {"word": "RAFI", "category": "Proper Noun"},
+      {"word": "deafo", "category": "Other"},
+      {"word": "UBSWORTH", "category": "Proper Noun"},
+      {"word": "Complicite", "category": "Proper Noun"},
+      {"word": "Gonc", "category": "Proper Noun"},
+      {"word": "MABLI", "category": "Proper Noun"},
+      {"word": "Mabli", "category": "Proper Noun"},
+      {"word": "Superdry", "category": "Proper Noun"},
+      {"word": "puffa", "category": "Technical Term"},
+      {"word": "Headington", "category": "Proper Noun"},
+      {"word": "marksheets", "category": "Technical Term"}
+    ]
+  }
+]
