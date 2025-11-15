@@ -16,6 +16,15 @@
 - Added 7 comprehensive tests for error logging
 - Verified stack traces are captured in all error scenarios
 
+### src/llm_review/llm_categoriser/persistence.py
+- Added `save_failed_issues(..., error_messages=...)` to persist LLM validation error messages to
+	`data/llm_categoriser_errors/<subject>/<filename>.batch-<index>.errors.json` for offline debugging.
+
+### src/llm_review/llm_categoriser/runner.py
+- Collects validation error messages from LLM responses and passes them into `save_failed_issues`
+	so the saved JSON includes both failed issues and the LLM/validation error messages that explain why
+	they failed.
+
 ## Impact
 - No breaking changes
 - All 57 tests pass

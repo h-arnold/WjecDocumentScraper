@@ -1,119 +1,234 @@
-**LLM Categoriser – Detailed Implementation Blueprint**
+# LLM Categoriser**LLM Categoriser – Detailed Implementation Blueprint**
 
-- **Scope**: Build a standalone categoriser that ingests `Documents/language-check-report.csv`, batches issues per document, prompts an LLM (via templates in `src/prompt/promptFiles/`) with per-batch tables and page context, retries malformed responses, and stores JSON outputs per document under `Documents/<subject>/document_reports/`.
+
+
+This folder contains the LLM-driven categoriser for LanguageTool issues. It ingests the `Documents/language-check-report.csv`, batches the issues per-document, builds contextual prompts using templates in `src/prompt/promptFiles`, calls configured LLM providers (via `src/llm.service`), validates the JSON response using `src/models/language_issue.LanguageIssue`, and persists the categorised issues.- **Scope**: Build a standalone categoriser that ingests `Documents/language-check-report.csv`, batches issues per document, prompts an LLM (via templates in `src/prompt/promptFiles/`) with per-batch tables and page context, retries malformed responses, and stores JSON outputs per document under `Documents/<subject>/document_reports/`.
+
 - **Tech Constraints**: Stay single-threaded for API requests (this is a toy project using free-tier LLMs, so no point attempting concurrency); respect provider-specific minimum request intervals; default batch size 10 (env/CLI override); maximum two retries on JSON parse/validation failure per batch; persistence happens per batch (redo the batch if interrupted).
-- **Primary Dependencies**: `src.models.language_issue.LanguageIssue` (unified model), `src.models.document_key.DocumentKey`, `src.utils.page_utils.extract_pages_text`, `src.prompt.render_prompt.render_template`, `src.llm.provider_registry.create_provider_chain`, `src.llm.service.LLMService`, `src.models.ErrorCategory`.
 
----
+This README summarises each module, data flow, contracts, error handling, where failed validations are logged and how to run and test the code in this folder.- **Primary Dependencies**: `src.models.language_issue.LanguageIssue` (unified model), `src.models.document_key.DocumentKey`, `src.utils.page_utils.extract_pages_text`, `src.prompt.render_prompt.render_template`, `src.llm.provider_registry.create_provider_chain`, `src.llm.service.LLMService`, `src.models.ErrorCategory`.
 
-### Workflow Overview
 
-1. **Load issues**: Parse the LanguageTool CSV report into `LanguageIssue` objects grouped by subject and filename.
-2. **Batch issues**: Slice each document’s issues into manageable batches (default 10). For every batch, collect the relevant page snippets from the Markdown source so the LLM gets only the necessary context.
+
+## Overview---
+
+
+
+- Entry point: `src/llm_review/llm_categoriser/cli.py` or `python -m src.llm_review.llm_categoriser`### Workflow Overview
+
+- Top-level flow: load CSV -> batch issues -> build prompt -> call LLM -> validate -> save results
+
+- Output location: `Documents/<Subject>/document_reports/<filename>.json`1. **Load issues**: Parse the LanguageTool CSV report into `LanguageIssue` objects grouped by subject and filename.
+
+- Failed validations: written to `data/llm_categoriser_errors/<subject>/<filename>.batch-<index>.errors.json`2. **Batch issues**: Slice each document’s issues into manageable batches (default 10). For every batch, collect the relevant page snippets from the Markdown source so the LLM gets only the necessary context.
+
 3. **Render prompts**: Build a two-part prompt (system + user) using `language_tool_categoriser.md` (with partials `llm_reviewer_system_prompt.md` and `authoritative_sources.md`) that:
-   - Introduces the subject and document being reviewed.
+
+## Key modules and responsibilities   - Introduces the subject and document being reviewed.
+
    - Presents the batch as a Markdown table mirroring the CSV columns.
-   - Appends a “Page context” section listing the raw Markdown for each referenced page.
-4. **Send to LLM**: Use `LLMService` to call the configured provider (chat or batch endpoint). Enforce provider min-request intervals to respect quotas.
-5. **Validate output**: Parse the returned JSON, repair it when needed, and validate each record using `LanguageIssue.from_llm_response()`. On failure, isolate the problematic issues and re-ask the provider (up to two retries). Any remaining failures are logged and skipped.
-6. **Persist results**: Write valid responses into `Documents/<Subject>/document_reports/<filename>.json`, grouped by page (`"page_5": [ ... ]`). Track completed batches in a state file so restarts skip successful work unless `--force` is used.
-7. **Manual testing**: Optional `--emit-batch-payload` flag writes batch payloads to `data/` and exits, enabling manual submission to provider batch consoles.
 
----
+- `data_loader.py`   - Appends a “Page context” section listing the raw Markdown for each referenced page.
 
-### Error Categories
+  - Reads the language-check CSV and maps it to `LanguageIssue` objects.4. **Send to LLM**: Use `LLMService` to call the configured provider (chat or batch endpoint). Enforce provider min-request intervals to respect quotas.
 
-The LLM must classify each issue into one of these enums (defined in `src/models/enums.py`):
+  - Assigns `issue_id` per-document (auto-increment starting at 0).5. **Validate output**: Parse the returned JSON, repair it when needed, and validate each record using `LanguageIssue.from_llm_response()`. On failure, isolate the problematic issues and re-ask the provider (up to two retries). Any remaining failures are logged and skipped.
 
-- `PARSING_ERROR`: Mechanical or tokenisation mistakes such as missing hyphens (`privacyfocused`) or accidental concatenations.
+  - Validates the corresponding Markdown file exists at `Documents/<subject>/markdown/<filename>`.6. **Persist results**: Write valid responses into `Documents/<Subject>/document_reports/<filename>.json`, grouped by page (`"page_5": [ ... ]`). Track completed batches in a state file so restarts skip successful work unless `--force` is used.
+
+  - Returns a dict: `DocumentKey -> list[LanguageIssue]`.7. **Manual testing**: Optional `--emit-batch-payload` flag writes batch payloads to `data/` and exits, enabling manual submission to provider batch consoles.
+
+
+
+- `batcher.py`---
+
+  - Splits a document's issues into batches (default 10).
+
+  - Deduplicates page numbers and collects page excerpts for context.### Error Categories
+
+  - Returns `Batch` objects (dataclass) containing:
+
+    - subject, filename, index, issues (list[LanguageIssue])The LLM must classify each issue into one of these enums (defined in `src/models/enums.py`):
+
+    - page_context: mapping page number -> page markdown
+
+    - markdown_table: a simplified 4-column table used in LLM prompts- `PARSING_ERROR`: Mechanical or tokenisation mistakes such as missing hyphens (`privacyfocused`) or accidental concatenations.
+
 - `SPELLING_ERROR`: Genuine misspellings or the wrong lexical choice given context (e.g., “their” vs “there”).
-- `ABSOLUTE_GRAMMATICAL_ERROR`: Definite grammatical violations, including non-UK spelling variants that conflict with policy (“organize” vs “organise”).
-- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Grammatically debatable constructions that may be awkward or non-standard rather than strictly wrong.
-- `STYLISTIC_PREFERENCE`: Stylistic suggestions where the original text is acceptable (“in order to” vs “to”).
-- `FALSE_POSITIVE`: Legitimate text flagged incorrectly (specialist terminology, proper nouns, foreign-language usage, etc.).
 
-Each record also carries a `confidence_score` (0–100) and a single-sentence `reasoning` justification referencing authoritative sources or contextual cues.
+- `prompt_factory.py`- `ABSOLUTE_GRAMMATICAL_ERROR`: Definite grammatical violations, including non-UK spelling variants that conflict with policy (“organize” vs “organise”).
 
----
+  - Renders templates using `src/prompt/render_prompt.py`.- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Grammatically debatable constructions that may be awkward or non-standard rather than strictly wrong.
 
-### Expected Output Structure
+  - Returns `[system_prompt, user_prompt]` or just `[user_prompt]`.- `STYLISTIC_PREFERENCE`: Stylistic suggestions where the original text is acceptable (“in order to” vs “to”).
+
+  - Template context includes subject, filename, `issue_table`, `issue_pages`, and `page_context`.- `FALSE_POSITIVE`: Legitimate text flagged incorrectly (specialist terminology, proper nouns, foreign-language usage, etc.).
+
+
+
+- `runner.py`Each record also carries a `confidence_score` (0–100) and a single-sentence `reasoning` justification referencing authoritative sources or contextual cues.
+
+  - Orchestrates the categoriser: batching, prompting, LLM calls (via `LLMService`), validation & retries.
+
+  - Validation: uses `LanguageIssue.from_llm_response()` to ensure data conforms to the expected model.---
+
+  - If validation fails for some issues, re-prompts only those failures (by `issue_id`) up to the configured number of retries.
+
+  - Persists validated results per-page using `persistence.save_batch_results()`.### Expected Output Structure
+
+  - If a batch cannot be validated after retries, saves failure details with `persistence.save_failed_issues()`.
 
 The categoriser writes one JSON file per document. Example (trimmed for brevity):
 
-```json
-{
-  "page_5": [
-    {
-      "rule_from_tool": "COMMA_COMPOUND_SENTENCE",
+- `persistence.py`
+
+  - `save_batch_results()` writes document-level JSON to `Documents/<Subject>/document_reports/<filename>.json`.```json
+
+  - Writes are atomic (temp file + replace), and merging avoids duplicates.{
+
+  - `save_failed_issues()` writes failed validation logs to `data/llm_categoriser_errors/<subject>/...`.  "page_5": [
+
+    - New optional parameter: `error_messages: dict | None` where keys are `issue_id` or the string `batch_errors`.    {
+
+    - The written JSON payload now includes `errors` (mapping of issue IDs and 'batch_errors' to lists of messages) in addition to the `issues` list.      "rule_from_tool": "COMMA_COMPOUND_SENTENCE",
+
       "type_from_tool": "uncategorized",
-      "message_from_tool": "Use a comma before ‘and’...",
-      "suggestions_from_tool": [", and"],
+
+- `state.py`      "message_from_tool": "Use a comma before ‘and’...",
+
+  - Tracks progress per document in a persistable state file. This is used to avoid reprocessing completed batches.      "suggestions_from_tool": [", and"],
+
       "context_from_tool": "...they are then used in marking the work...",
-      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
-      "confidence_score": 68,
+
+- `cli.py` & `__main__.py`      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+
+  - Provide the CLI. Key options include: subject/document filters, batch size, `--max-retries`, `--state-file`, `--force`, `--emit-batch-payload` (for troubleshooting), `--dotenv` (for provider credentials), and `--dry-run`.      "confidence_score": 68,
+
       "reasoning": "Sentence is understandable without the comma; optional stylistic choice."
-    }
+
+## Error logging and debugging    }
+
   ],
-  "page_6": [
+
+- When a batch fails to validate after all retry attempts, we now write a diagnostic JSON file with extra details to `data/llm_categoriser_errors`.  "page_6": [
+
     {
-      "rule_from_tool": "EN_COMPOUNDS_USER_FRIENDLY",
-      "type_from_tool": "misspelling",
+
+- Example path:      "rule_from_tool": "EN_COMPOUNDS_USER_FRIENDLY",
+
+  - `data/llm_categoriser_errors/Art-and-Design/gcse-test.md.batch-0.errors.json`      "type_from_tool": "misspelling",
+
       "message_from_tool": "This word is normally spelled with a hyphen.",
-      "suggestions_from_tool": ["user-friendly"],
+
+- The file structure is:      "suggestions_from_tool": ["user-friendly"],
+
       "context_from_tool": "...made more user friendly?",
-      "error_category": "PARSING_ERROR",
-      "confidence_score": 90,
-      "reasoning": "Hyphenation aligns with Collins Dictionary for compound adjective." 
-    }
-  ]
-}
-```
 
-Notes:
-- Keys are always `"page_<n>"` where `<n>` is the numeric page index.
-- `suggestions_from_tool` is stored as a list (even if one suggestion was provided).
-- Multiple issues per page append to that page’s array.
-- If a batch produced no valid outputs (after retries), it is omitted and the CLI logs which rows need manual handling.
+  ```json      "error_category": "PARSING_ERROR",
 
----
+  {      "confidence_score": 90,
+
+    "timestamp": "2025-11-15T12:34:56Z",      "reasoning": "Hyphenation aligns with Collins Dictionary for compound adjective." 
+
+    "subject": "Art-and-Design",    }
+
+    "filename": "gcse-test.md",  ]
+
+    "batch_index": 0,}
+
+    "issues": [ { /* LanguageIssue.model_dump for each failed issue */ } ],```
+
+    "errors": {
+
+      "5": ["Validation error: confidence_score must be between 0 and 100"],Notes:
+
+      "batch_errors": ["Response is not a dict (got <class 'str'>)"]- Keys are always `"page_<n>"` where `<n>` is the numeric page index.
+
+    }- `suggestions_from_tool` is stored as a list (even if one suggestion was provided).
+
+  }- Multiple issues per page append to that page’s array.
+
+  ```- If a batch produced no valid outputs (after retries), it is omitted and the CLI logs which rows need manual handling.
+
+
+
+  - `issues` contains the `LanguageIssue.model_dump()` objects which include the original detection context.---
+
+  - `errors` contains the validation/LLM error messages, keyed by `issue_id` (stringified for JSON) when possible and `batch_errors` for general problems (malformed JSON, empty response, parse errors, etc.).
 
 ### Core Modules & Responsibilities
 
+- These files are stored under `data` so they are easy to inspect and debug without overwriting Documents output. They are meant to be read by the maintainers when manual inspection of LLM responses is required.
+
 - **`models/document_key.py`** (new)
-  - Frozen dataclass containing `subject: str` and `filename: str` for identifying documents.
+
+## Running & testing  - Frozen dataclass containing `subject: str` and `filename: str` for identifying documents.
+
   - Provides `__str__()` returning `"{subject}/{filename}"` for composite keys.
 
+- Run categoriser CLI (example):
+
 - **`llm_categoriser/data_loader.py`**
-  - Parse CSV into `LanguageIssue` objects grouped by `DocumentKey`.
-  - Assign auto-incrementing `issue_id` (starting at 0) to each issue within a document.
-  - Validate corresponding Markdown files exist at `Documents/<subject>/markdown/<filename>`.
+
+```bash  - Parse CSV into `LanguageIssue` objects grouped by `DocumentKey`.
+
+uv run python -m src.llm_review.llm_categoriser --documents "gcse-art-and-design---guidance-for-teaching.md"  - Assign auto-incrementing `issue_id` (starting at 0) to each issue within a document.
+
+```  - Validate corresponding Markdown files exist at `Documents/<subject>/markdown/<filename>`.
+
   - Filter for subject/document subsets if requested.
-  - Error handling: If Markdown file missing, log error and skip that document; if page markers malformed, log and skip.
+
+- `--dry-run` will skip the LLM call and validate only data loading.  - Error handling: If Markdown file missing, log error and skip that document; if page markers malformed, log and skip.
+
   - Contract: `load_issues(report_path: Path, *, subjects: set[str] | None, documents: set[str] | None) -> dict[DocumentKey, list[LanguageIssue]]`.
 
-- **`llm_categoriser/batcher.py`**
-  - Chunk issues per document by issue count (`batch_size`, default 10).
-  - For each batch: deduplicate page numbers, fetch page snippets via `extract_pages_text`.
-  - For documents with no page numbers (empty Page column in CSV), submit the entire document content as context for all batches.
-  - Create simplified Markdown tables using helper from `report_utils.py` (4 columns: issue_id, page_number, issue, highlighted_context).
-  - Contract: `iter_batches(issues: list[LanguageIssue], batch_size: int, markdown_path: Path) -> Iterable[Batch]` where each `Batch` contains `subject`, `filename`, `index`, `issues`, `page_context`, `markdown_table`.
+- `--emit-batch-payload` can be used to write the prompt payloads to `data/batch_payloads` for manual inspection and simulating provider calls.
 
-- **`llm_categoriser/prompt_factory.py`**
+- **`llm_categoriser/batcher.py`**
+
+- Tests for this module live under `tests/llm_categoriser/` and cover:  - Chunk issues per document by issue count (`batch_size`, default 10).
+
+  - `data_loader` behaviour and CSV parsing  - For each batch: deduplicate page numbers, fetch page snippets via `extract_pages_text`.
+
+  - `batcher` logic and page_context extraction  - For documents with no page numbers (empty Page column in CSV), submit the entire document content as context for all batches.
+
+  - `prompt_factory` correctness and partial handling  - Create simplified Markdown tables using helper from `report_utils.py` (4 columns: issue_id, page_number, issue, highlighted_context).
+
+  - Validation and error logging (including `save_failed_issues` changes)  - Contract: `iter_batches(issues: list[LanguageIssue], batch_size: int, markdown_path: Path) -> Iterable[Batch]` where each `Batch` contains `subject`, `filename`, `index`, `issues`, `page_context`, `markdown_table`.
+
+
+
+- Use uv for the environment: `uv run pytest tests/llm_categoriser -q`.- **`llm_categoriser/prompt_factory.py`**
+
   - Render prompts using the revised `language_tool_categoriser.md` template.
-  - Template context must provide: `subject`, `filename`, `issue_table` (simplified 4-column table), and `page_context` (list of dicts with `page_number` and `content`).
+
+## File naming and invariants  - Template context must provide: `subject`, `filename`, `issue_table` (simplified 4-column table), and `page_context` (list of dicts with `page_number` and `content`).
+
   - Contract: `build_prompts(batch: Batch) -> list[str]` returning `[system_prompt, user_prompt]`.
 
-- **`llm/json_utils.py`** (new)
-  - Shared JSON extraction/repair using `json-repair` plus validation helpers.
-  - Extract functionality from `GeminiLLM._parse_response_json()` into this module for reuse across all providers.
-  - Contract: `parse_json_response(text: str) -> Any` - extracts JSON from text, repairs, and parses.
-  - `GeminiLLM` and future providers delegate to this utility when `filter_json=True`.
+- `DocumentKey(subject, filename)` uniquely identifies a document.
 
-- **`llm_categoriser/runner.py`**
-  - Orchestrate the workflow: call providers with `filter_json=True`, apply retries using `issue_id` to track problematic issues, validate using `LanguageIssue.from_llm_response()`, and direct successful results to persistence.
-  - Respects provider min-request intervals and logs quota fallbacks.
+- `issue_id` is unique per-document.- **`llm/json_utils.py`** (new)
+
+- Page keys in JSON results always use the `page_<n>` format.  - Shared JSON extraction/repair using `json-repair` plus validation helpers.
+
+- `highlighted_context` is used in prompts instead of the older `context` column.  - Extract functionality from `GeminiLLM._parse_response_json()` into this module for reuse across all providers.
+
+  - Contract: `parse_json_response(text: str) -> Any` - extracts JSON from text, repairs, and parses.
+
+## Next steps & suggestions  - `GeminiLLM` and future providers delegate to this utility when `filter_json=True`.
+
+
+
+- Add a helper to print a friendly summary of `errors` when a batch fails: mapping between `issue_id`, `rule_id`, and the error messages for quicker CLI troubleshooting.- **`llm_categoriser/runner.py`**
+
+- Consider storing raw LLM responses for the failing batches for advanced post-mortem analysis (beware PII & size).  - Orchestrate the workflow: call providers with `filter_json=True`, apply retries using `issue_id` to track problematic issues, validate using `LanguageIssue.from_llm_response()`, and direct successful results to persistence.
+
+- Add rotation/retention policy for `data/llm_categoriser_errors` if the project runs regularly.  - Respects provider min-request intervals and logs quota fallbacks.
+
   - Logging: Use idiomatic Python print statements for progress/status reporting.
 
+If you want me to expand any of these sections into a developer-facing doc (with examples of prompt payloads or a quick CLI recipe for reproducing errors), tell me which one and I'll add it.
 - **`llm_categoriser/persistence.py`**
   - Write per-document JSON atomically (temp file + replace); merge batches when rerunning without `--force`.
   - Create `document_reports/` directory if it doesn't exist.

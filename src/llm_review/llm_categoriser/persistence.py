@@ -11,6 +11,9 @@ from pathlib import Path
 from typing import Any
 
 from src.models.document_key import DocumentKey
+from src.models.language_issue import LanguageIssue
+from datetime import datetime
+from typing import Iterable
 
 
 def save_batch_results(
@@ -136,3 +139,59 @@ def clear_document_results(
             output_file.unlink()
         except OSError as e:
             print(f"Warning: Could not delete {output_file}: {e}")
+
+
+def save_failed_issues(
+    key: DocumentKey,
+    batch_index: int,
+    failed_issues: Iterable[LanguageIssue],
+    *,
+    error_messages: dict | None = None,
+    output_dir: Path = Path("data"),
+) -> Path:
+    """Save details about failed validation attempts to a JSON file.
+
+    The file is written to: data/llm_categoriser_errors/<subject>/<filename>.batch-<index>.errors.json
+    Args:
+        error_messages: Optional mapping of issue ids (or other keys) to lists of error messages.
+        key: DocumentKey identifying the document
+        batch_index: Integer index of the batch being processed
+        failed_issues: Iterable of LanguageIssue objects that could not be validated
+        output_dir: Base directory to write to (default: data)
+        error_messages: Optional mapping of issue ids (or other keys) to lists of error messages.
+
+    Returns:
+        Path to the saved file
+    """
+    report_dir = output_dir / "llm_categoriser_errors" / key.subject
+    report_dir.mkdir(parents=True, exist_ok=True)
+
+    safe_filename = key.filename.replace("/", "-")
+    output_file = report_dir / f"{safe_filename}.batch-{batch_index}.errors.json"
+
+    payload = {
+        "timestamp": datetime.utcnow().isoformat() + "Z",
+        "subject": key.subject,
+        "filename": key.filename,
+        "batch_index": batch_index,
+        "issues": [issue.model_dump() for issue in failed_issues],
+    }
+
+    temp_file = output_file.with_suffix(".tmp")
+    # Attach any error messages to the payload before writing
+    if error_messages:
+        serialisable_errors = {str(k): v for k, v in error_messages.items()}
+        payload["errors"] = serialisable_errors
+
+    try:
+        with open(temp_file, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2)
+
+        temp_file.replace(output_file)
+    except OSError as e:
+        print(f"Error writing failed issues to {output_file}: {e}")
+        if temp_file.exists():
+            temp_file.unlink()
+        raise
+
+    return output_file
