@@ -54,7 +54,8 @@ class CategoriserState:
                 if loaded.get("version") == self.VERSION:
                     self._data = loaded
                 else:
-                    print(f"Warning: State file version mismatch, starting fresh")
+                    import sys
+                    print(f"Warning: State file version mismatch, starting fresh", file=sys.stderr)
                     
             except (json.JSONDecodeError, OSError) as e:
                 print(f"Warning: Could not load state file: {e}")
