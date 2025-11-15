@@ -15,7 +15,6 @@ import json
 import sys
 from pathlib import Path
 from typing import Any, cast
-from unittest.mock import Mock, patch
 
 import pytest
 from google import genai
@@ -30,7 +29,6 @@ from src.llm.gemini_llm import GeminiLLM
 from src.llm.service import LLMService
 from src.llm_review.llm_categoriser.runner import CategoriserRunner
 from src.llm_review.llm_categoriser.state import CategoriserState
-from src.models.document_key import DocumentKey
 
 
 class _MockResponse:
@@ -86,7 +84,7 @@ def test_gemini_llm_generates_with_correct_model_param(tmp_path: Path) -> None:
     )
     
     # Generate with the mocked client
-    result = llm.generate(["Test prompt"])
+    _ = llm.generate(["Test prompt"])
     
     # Verify the correct model name was used
     assert len(client.models.calls) == 1
@@ -106,7 +104,7 @@ def test_gemini_llm_has_thinking_config(tmp_path: Path) -> None:
         client=cast(genai.Client, client),
     )
     
-    result = llm.generate(["Prompt"])
+    _ = llm.generate(["Prompt"])
     
     # Verify thinking config is set
     call = client.models.calls[0]

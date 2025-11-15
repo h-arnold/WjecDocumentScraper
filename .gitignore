@@ -15,6 +15,10 @@ progress.log
 
 # LLM categoriser artifacts
 data/*
+# Generated document reports and JSON files from CLI output
+Documents/*/document_reports/
+Documents/*/document_reports/*.csv
+Documents/*/document_reports/*.json
 
 # Environment Variables
 .env

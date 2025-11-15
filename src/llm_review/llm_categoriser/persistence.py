@@ -150,12 +150,11 @@ def save_failed_issues(
 
     The file is written to: data/llm_categoriser_errors/<subject>/<filename>.batch-<index>.errors.json
     Args:
-        error_messages: Optional mapping of issue ids (or other keys) to lists of error messages.
         key: DocumentKey identifying the document
         batch_index: Integer index of the batch being processed
         failed_issues: Iterable of LanguageIssue objects that could not be validated
-        output_dir: Base directory to write to (default: data)
         error_messages: Optional mapping of issue ids (or other keys) to lists of error messages.
+        output_dir: Base directory to write to (default: data)
 
     Returns:
         Path to the saved file
