@@ -127,7 +127,7 @@ def _parse_csv(report_path: Path) -> Iterator[tuple[str, LanguageIssue]]:
                 yield subject, issue
                 
             except (ValueError, KeyError) as e:
-                print(f"Warning: Skipping malformed row {row_num}: {e}")
+                print(f"Warning: Skipping malformed row {row_num}: {e}", file=sys.stderr)
                 continue
 
 
