@@ -7,7 +7,6 @@ from typing import Any, cast
 
 import pytest
 from mistralai import Mistral
-from mistralai import models as mistral_models
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
