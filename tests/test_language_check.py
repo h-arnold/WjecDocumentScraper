@@ -365,7 +365,7 @@ def test_case_sensitive_with_explicit_ignored_words(tmp_path: Path) -> None:
         ignored_words={"CustomWord"},
     )
 
-    report_text = report_path.read_text(encoding="utf-8")
+    # report_text = report_path.read_text(encoding="utf-8")
     assert "Total issues found: 0" in report_text
     
     
@@ -396,6 +396,51 @@ def test_case_sensitive_explicit_wrong_case_not_filtered(tmp_path: Path) -> None
     report_text = report_path.read_text(encoding="utf-8")
     # Issue should still be present (not filtered due to case mismatch)
     assert "Total issues found: 1" in report_text
+
+ nbbbbb
+def test_tool_connection_failure_all_tools(tmp_path: Path) -> None:
+    """When all tools fail with a connection error, a CHECK_FAILURE is produced with a non-empty highlighted_context."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("This is a test.", encoding="utf-8")
+
+    class BadTool:
+        def check(self, text: str):
+            raise ConnectionError("Simulated connection reset")
+
+    tool = BadTool()
+    report = check_single_document(document, tool=tool)
+    assert len(report.issues) == 1
+    issue = report.issues[0]
+    assert issue.rule_id == "CHECK_FAILURE"
+    assert issue.highlighted_context
+
+
+def test_tool_connection_failure_partial(tmp_path: Path) -> None:
+    """When one of multiple tools fails, a CHECK_PARTIAL_FAILURE warning is appended (non-empty highlighted_context)."""
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("Thiss is a test.", encoding="utf-8")
+
+    match = DummyMatch()
+
+    class BadTool:
+        def check(self, text: str):
+            raise ConnectionError("Simulated connection reset")
+
+    ok_tool = DummyTool([match])
+    bad_tool = BadTool()
+    report = check_single_document(document, tool=[ok_tool, bad_tool], subject="Subject")
+    # The dummy match should be present, and a partial failure warning appended
+    assert any(i.rule_id == "TEST_RULE" for i in report.issues)
+    assert any(i.rule_id == "CHECK_PARTIAL_FAILURE" for i in report.issues)
+    for i in report.issues:
+        if i.rule_id == "CHECK_PARTIAL_FAILURE":
+            assert i.highlighted_context
 
 
 def test_page_number_extraction_basic(tmp_path: Path) -> None:

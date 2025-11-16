@@ -14,6 +14,7 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable, Optional
+import random
 
 from .language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
 from .language_tool_manager import LanguageToolManager
@@ -55,7 +56,7 @@ def _retry_with_backoff(
 	func: Any,
 	func_arg: Any,
 	max_retries: int = 3,
-	base_delay: float = 1.0,
+ base_delay: float = 2.0,
 	max_delay: float = 60.0,
 ) -> Any:
 	"""Execute a function with exponential backoff retry logic.
@@ -92,6 +93,9 @@ def _retry_with_backoff(
 			
 			# Calculate delay with exponential backoff
 			delay = base_delay * (2 ** attempt)
+			# Add a small random jitter to avoid a thundering herd
+			jitter = random.uniform(0.75, 1.25)
+			delay = min(delay * jitter, max_delay)  # Cap at max_delay
 			delay = min(delay, max_delay)  # Cap at max_delay
 			
 			LOGGER.warning(
@@ -193,6 +197,46 @@ def _highlight_context(context: str, context_offset: int, error_length: int) -> 
 	return f"{context[:start]}**{context[start:end]}**{context[end:]}"
 
 
+def _safe_highlight_context(context: str, context_offset: int, error_length: int, *, filename: str = "", rule_id: str = "") -> tuple[str, str]:
+	"""Safely produce a highlighted context string.
+
+	Returns a tuple: (highlighted_context, context_to_use). If highlighting fails
+	the function will return the raw context (and log a warning). If the raw
+	context is empty or missing then both values will be set to the
+	'ERROR FETCHING CONTEXT' placeholder.
+	"""
+
+	try:
+		highlighted = _highlight_context(context, context_offset, error_length)
+	except Exception:
+		LOGGER.exception(
+			"Failed to produce highlighted context for %s (rule=%s)",
+			filename,
+			rule_id,
+		)
+		if context:
+			# Fallback to the raw context text
+			return (context, context)
+		# No context available — return a descriptive placeholder
+		return ("ERROR FETCHING CONTEXT", "ERROR FETCHING CONTEXT")
+
+	# If highlighting succeeded but returned an empty string, fall back
+	if not highlighted:
+		if context:
+			LOGGER.warning(
+				"Highlight helper returned empty string for %s; using raw context instead",
+				filename,
+			)
+			return (context, context)
+		LOGGER.warning(
+			"No context provided for %s — using ERROR FETCHING CONTEXT placeholder",
+			filename,
+		)
+		return ("ERROR FETCHING CONTEXT", "ERROR FETCHING CONTEXT")
+
+	return (highlighted, context)
+
+
 def _get_page_number_for_match(match: object, text: str, page_map: dict[int, int]) -> int | None:
 	"""Determine the page number for a language issue match.
 	
@@ -229,10 +273,33 @@ def _make_issue(match: object, filename: str, text: str = "", page_map: dict[int
 	message = str(getattr(match, "message", "")).strip()
 	issue_type = getattr(match, "ruleIssueType", "unknown") or "unknown"
 	replacements = list(getattr(match, "replacements", []) or [])
-	context = getattr(match, "context", "")
-	context_offset = int(getattr(match, "offsetInContext", 0))
-	error_length = int(getattr(match, "errorLength", 0))
-	highlighted_context = _highlight_context(context, context_offset, error_length)
+	context = getattr(match, "context", "") or ""
+
+	# Safely convert offset/length to integers; LanguageTool or mocks
+	# may provide None or unexpected values.
+	try:
+		context_offset = int(getattr(match, "offsetInContext", 0) or 0)
+	except Exception:
+		LOGGER.warning(
+			"Invalid offsetInContext for %s (rule=%s) — defaulting to 0",
+			filename,
+			rule_id,
+		)
+		context_offset = 0
+
+	try:
+		error_length = int(getattr(match, "errorLength", 0) or 0)
+	except Exception:
+		LOGGER.warning(
+			"Invalid errorLength for %s (rule=%s) — defaulting to 0",
+			filename,
+			rule_id,
+		)
+		error_length = 0
+
+	highlighted_context, context = _safe_highlight_context(
+		context, context_offset, error_length, filename=filename, rule_id=rule_id
+	)
 	
 	# Extract the matched issue text from the context
 	issue = context[context_offset:context_offset + error_length] if error_length > 0 else ""
@@ -296,7 +363,9 @@ def check_document(
 		language_label = language_code or getattr(tool_instance, "lang", "unknown")
 		try:
 			# Retry with exponential backoff for transient connection errors
-			matches = _retry_with_backoff(tool_instance.check, text, max_retries=3, base_delay=1.0)
+			# Give a larger base delay so transient LanguageTool server errors
+			# have a better chance of recovery before retrying.
+			matches = _retry_with_backoff(tool_instance.check, text, max_retries=3, base_delay=3.0)
 			successful_check = True
 			all_matches.extend(matches or [])
 		except TRANSIENT_ERRORS as exc:
@@ -319,7 +388,7 @@ def check_document(
 	# If every tool failed, surface the failures as before
 	if not successful_check and failure_records:
 		issues = [
-			LanguageIssue(
+				LanguageIssue(
 				filename=filename,
 				rule_id="CHECK_FAILURE",
 				message=(
@@ -328,8 +397,8 @@ def check_document(
 				),
 				issue_type="error",
 				replacements=[],
-				context="",
-				highlighted_context="",
+					context="ERROR FETCHING CONTEXT",
+					highlighted_context="ERROR FETCHING CONTEXT",
 				issue="",
 			)
 			for language, exc, is_transient in failure_records
@@ -390,8 +459,8 @@ def check_document(
 					),
 					issue_type="warning",
 					replacements=[],
-					context="",
-					highlighted_context="",
+					context="ERROR FETCHING CONTEXT",
+					highlighted_context="ERROR FETCHING CONTEXT",
 					issue="",
 				)
 			)
