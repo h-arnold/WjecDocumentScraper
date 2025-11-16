@@ -417,6 +417,39 @@ def test_tool_connection_failure_all_tools(tmp_path: Path) -> None:
     assert issue.highlighted_context
 
 
+def test_tool_language_tool_error_retries_then_succeeds(tmp_path: Path) -> None:
+    """If LanguageToolError is raised by the underlying client, treat it as
+    transient and retry the check call until it succeeds.
+    """
+    from language_tool_python.utils import LanguageToolError
+
+    root = tmp_path
+    subject_dir = root / "Subject" / "markdown"
+    subject_dir.mkdir(parents=True)
+    document = subject_dir / "test-doc.md"
+    document.write_text("Thiss is a test.", encoding="utf-8")
+
+    class FlakyTool:
+        def __init__(self) -> None:
+            self.calls = 0
+
+        def check(self, text: str):
+            # Fail twice with LanguageToolError, then return an empty list
+            # to indicate success on the third attempt.
+            self.calls += 1
+            if self.calls < 3:
+                raise LanguageToolError("http://127.0.0.1:8081/v2/: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))")
+            return []
+
+    tool = FlakyTool()
+    # Should not raise — retry logic handles LanguageToolError
+    report = check_single_document(document, tool=tool, subject="Subject")
+    # Flaky tool called at least 3 times
+    assert tool.calls >= 3
+    # Should be treated as success (no CHECK_FAILURE)
+    assert not any(i.rule_id == "CHECK_FAILURE" for i in report.issues)
+
+
 def test_tool_connection_failure_partial(tmp_path: Path) -> None:
     """When one of multiple tools fails, a CHECK_PARTIAL_FAILURE warning is appended (non-empty highlighted_context)."""
     root = tmp_path

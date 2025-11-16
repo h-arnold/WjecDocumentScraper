@@ -17,6 +17,7 @@ from typing import Any, Iterable, Optional
 import random
 
 from .language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
+from language_tool_python.utils import LanguageToolError
 from .language_tool_manager import LanguageToolManager
 from .page_utils import build_page_number_map
 from .report_utils import build_report_csv, build_report_markdown
@@ -50,13 +51,18 @@ TRANSIENT_ERRORS = (
 	OSError,  # Covers socket.error and other OS-level issues
 )
 
+# language_tool_python wraps connection-level errors in LanguageToolError
+# (see server.py). Treat that as transient so retries are attempted when the
+# local LanguageTool server returns network-related failures.
+TRANSIENT_ERRORS = TRANSIENT_ERRORS + (LanguageToolError,)
+
 
 
 def _retry_with_backoff(
 	func: Any,
 	func_arg: Any,
 	max_retries: int = 3,
- base_delay: float = 5.0,
+ 	base_delay: float = 5.0,
 	max_delay: float = 60.0,
 ) -> Any:
 	"""Execute a function with exponential backoff retry logic.

@@ -11,8 +11,19 @@ import logging
 
 import language_tool_python
 
-_DEFAULT_CONFIG = {"requestLimitPeriodInSeconds": 60,
-                    "maxCheckTimeMillis": 2000} #{"maxCheckThreads": 2, "pipelineCaching": True}
+# Default LanguageTool server configuration.
+#
+# The default maxCheckTimeMillis was previously very low (2000 ms) which causes
+# the LanguageTool Java server to abort checks on longer documents. That leads
+# to connection resets and transient failures when checking large Markdown
+# specifications (see: Documents/Spanish/*.md). Bump the timeout so longer
+# documents can be processed reliably.
+_DEFAULT_CONFIG = {
+    "requestLimitPeriodInSeconds": 60,
+    # Allow longer checks on large documents without the server aborting.
+    # 2 minutes should be sufficient for typical specification files.
+    "maxCheckTimeMillis": 120000,
+}
 
 
 class LanguageToolManager:

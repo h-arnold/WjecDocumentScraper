@@ -16,4 +16,4 @@ Found 1 issue(s).
 
 | Filename | Page | Rule | Type | Issue | Message | Suggestions | Context |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| wjec-gcse-spanish-specification.md | — | `CHECK_FAILURE` | error | — | Language check failed for language 'en-GB' due to error: http://127.0.0.1:8081/v2/: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) | — | ERROR FETCHING CONTEXT |
+| wjec-gcse-spanish-specification.md | — | `CHECK_FAILURE` | error | — | Language check failed for language 'en-GB' due to connection error: http://127.0.0.1:8081/v2/: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) | — | ERROR FETCHING CONTEXT |
