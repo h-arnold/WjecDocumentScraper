@@ -18,11 +18,19 @@ import language_tool_python
 # to connection resets and transient failures when checking large Markdown
 # specifications (see: Documents/Spanish/*.md). Bump the timeout so longer
 # documents can be processed reliably.
+#
+# Additionally, maxTextLength and maxTextHardLength need to be increased for
+# large specification documents (some are 350KB+). The defaults are typically
+# 50,000 and 100,000 characters respectively, which is insufficient.
 _DEFAULT_CONFIG = {
     "requestLimitPeriodInSeconds": 60,
     # Allow longer checks on large documents without the server aborting.
     # 2 minutes should be sufficient for typical specification files.
     "maxCheckTimeMillis": 120000,
+    # Increase text length limits to handle large specification documents.
+    # Some documents exceed 350KB (360,000+ characters).
+    "maxTextLength": 500000,  # 500K characters
+    "maxTextHardLength": 1000000,  # 1M characters hard limit
 }
 
 

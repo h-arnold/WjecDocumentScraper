@@ -45,6 +45,20 @@ ls ~/.cache/language_tool_python/LanguageTool-*/org/languagetool/rules/en/en-GB/
 
 You should see files like `grammar.xml`, `replace.txt`, and `style.xml`.
 
+### Connection Reset / Connection Aborted on Large Documents
+
+**Symptoms:**
+```
+ConnectionResetError: [Errno 104] Connection reset by peer
+language_tool_python.utils.LanguageToolError: http://127.0.0.1:8081/v2/: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+```
+
+**Cause:** Large documents (>300KB) exceed HTTP GET request URL length limits.
+
+**Solution:** ✅ **FIXED** - The codebase now uses a POST request monkey-patch (`src/language_check/language_tool_patch.py`) that automatically handles large documents. This fix is applied when the language_check module is imported.
+
+**Details:** See [docs/LANGUAGE_CHECK_POST_FIX.md](./LANGUAGE_CHECK_POST_FIX.md) for the full technical explanation and implementation details.
+
 ## Python Environment Issues
 
 ### Module not found errors
