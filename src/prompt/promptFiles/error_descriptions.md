@@ -13,6 +13,6 @@ Always return the enum values exactly as written above (UPPER_SNAKE_CASE).
 
 When LanguageTool suggests adding a comma before a conjunction (e.g., "and", "but", "or") that separates two independent clauses, note this as:
 
-    - `STYLISTIC_PREFERENCE` if a comma would break the sentence flow but is not strictly necessary.
-    - `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR` if the lack of a comma would improve flow but is not necessary to maintain clarity.
+    - `STYLISTIC_PREFERENCE` if adding a comma wouldn't impact on flow or clarity.
+    - `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR` if the adding a comma would improve flow but is not necessary for clarity.
     - `ABSOLUTE_GRAMMATICAL_ERROR` if the absence of a comma creates ambiguity or misleads the reader.
