@@ -57,6 +57,19 @@
           0
         ],
         "total_issues": 4
+      },
+      "gcse-business---guidance-for-teaching-unit-1.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 13
+      },
+      "gcse-business---guidance-for-teaching-unit-2.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 40
       }
     },
     "Computer-Science": {
