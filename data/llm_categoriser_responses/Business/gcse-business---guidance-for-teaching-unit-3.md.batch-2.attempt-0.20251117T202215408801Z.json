@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T20:22:15.408801Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-3.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "The construction 'both... as well as' is redundant; it should be 'both... and' or simply 'as well as'."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "McDonald's is a proper noun and brand name that requires an apostrophe before the 's'."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Proofreading is typically written as one word in modern UK English."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Hire purchase is a correct and standard financial term written as two separate words."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'have had had' is a grammatical error; it should be 'have had'."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The verb 'has' does not agree with the plural subject 'challenges'; it should be 'have'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct idiom is 'with regard to' or 'as regards', not 'with regards to'."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and appropriate in this context."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma should precede the conjunction 'but' when it connects two independent clauses."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Taken back is a correct and idiomatic phrasal verb in this context."
+    }
+  ]
+}

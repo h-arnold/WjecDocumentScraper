@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T20:21:21.410611Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-2.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "For consistency and standard UK English usage, 'e-commerce' should be hyphenated, as it is elsewhere in the document."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'self-checkout' should be hyphenated without a space as a compound noun/adjective."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Learners' is a single word and should not be split."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While grammatically correct, 'all the ways' is a more concise and equally clear alternative."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'so' would improve clarity as it separates two independent clauses."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Gasoline' is American English; 'petrol' is the correct term for UK English."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'self-service' should be hyphenated without spaces as a compound adjective."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Outside' is more concise and equally clear as 'outside of'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Aging' is American English; 'ageing' is the correct spelling for UK English."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Aging' is American English; 'ageing' is the correct spelling for UK English."
+    }
+  ]
+}

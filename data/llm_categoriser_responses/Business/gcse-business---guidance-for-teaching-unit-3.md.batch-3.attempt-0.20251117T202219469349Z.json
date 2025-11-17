@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-17T20:22:19.469349Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-3.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "A comma before the coordinating conjunction 'but' would improve clarity by separating two independent clauses."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'free gifts' is grammatically correct and commonly used; no change or hyphenation is required."
+    }
+  ]
+}

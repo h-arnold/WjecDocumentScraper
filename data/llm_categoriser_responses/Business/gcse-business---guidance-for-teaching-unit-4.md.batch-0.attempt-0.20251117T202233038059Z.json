@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T20:22:33.038059Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'hand-written' requires a hyphen in UK English when preceding a noun."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'tutor2u' is a proper noun referring to a specific educational resource and is spelled correctly."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "The hyphen in 'Profit- Economic Performance' is an awkward separator; a colon or en dash would be more appropriate for clarity."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "The hyphen in 'People- Social Performance' is an awkward separator; a colon or en dash would be more appropriate for clarity."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'TwoTeachers' is a proper noun referring to a specific educational resource and is spelled correctly."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The word 'of' is redundant after 'outside' and can be omitted for conciseness in formal writing."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'tutor2u' is a proper noun referring to a specific educational resource and is spelled correctly."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the noun is 'judgements', not 'judgments'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'taken back' is grammatically correct and appropriate in this context."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is correctly used here to connect two parallel phrases without requiring a preceding comma."
+    }
+  ]
+}
