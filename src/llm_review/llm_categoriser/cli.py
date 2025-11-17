@@ -15,6 +15,7 @@ from src.llm.service import LLMService
 
 from .runner import CategoriserRunner
 from .state import CategoriserState
+from .batch_cli import add_batch_subparsers, handle_batch_create, handle_batch_fetch, handle_batch_list
 
 
 def parse_args(args: list[str] | None = None) -> argparse.Namespace:
@@ -23,7 +24,7 @@ def parse_args(args: list[str] | None = None) -> argparse.Namespace:
         description="Categorise LanguageTool issues using LLMs",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
-Examples:
+Synchronous Examples:
   # Process all issues in the default report
   python -m src.llm_review.llm_categoriser
 
@@ -42,6 +43,25 @@ Examples:
   # Dry run (validate data loading only)
   python -m src.llm_review.llm_categoriser --dry-run
 
+Batch API Examples:
+  # Create batch jobs
+  python -m src.llm_review.llm_categoriser batch-create
+
+  # Create batch jobs for specific subjects
+  python -m src.llm_review.llm_categoriser batch-create --subjects Geography
+
+  # Fetch all pending batch results
+  python -m src.llm_review.llm_categoriser batch-fetch --check-all-pending
+
+  # Fetch specific batch job
+  python -m src.llm_review.llm_categoriser batch-fetch --job-names batch-job-123
+
+  # List all batch jobs
+  python -m src.llm_review.llm_categoriser batch-list
+
+  # List only pending jobs
+  python -m src.llm_review.llm_categoriser batch-list --status pending
+
 Environment Variables:
   LLM_CATEGORISER_BATCH_SIZE     Default batch size (default: 10)
   LLM_CATEGORISER_MAX_RETRIES    Maximum retries (default: 2)
@@ -55,6 +75,10 @@ Environment Variables:
   LLM_FAIL_ON_QUOTA              When set (true/1/yes/on), exit the run on quota exhaustion (default: true)
         """,
     )
+    
+    # Add subparsers for batch commands
+    subparsers = parser.add_subparsers(dest="command", help="Command to run")
+    add_batch_subparsers(subparsers)
     
     # Input/output options
     parser.add_argument(
@@ -199,6 +223,15 @@ def main(args: list[str] | None = None) -> int:
     """
     parsed_args = parse_args(args)
     
+    # Handle batch subcommands
+    if parsed_args.command == "batch-create":
+        return handle_batch_create(parsed_args)
+    elif parsed_args.command == "batch-fetch":
+        return handle_batch_fetch(parsed_args)
+    elif parsed_args.command == "batch-list":
+        return handle_batch_list(parsed_args)
+    
+    # Continue with synchronous categorisation (default behavior)
     # Load .env early so that environment variables (especially LLM_PRIMARY and LLM_FALLBACK)
     # are available before create_provider_chain reads them
     from dotenv import load_dotenv
