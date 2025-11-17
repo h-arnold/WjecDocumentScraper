@@ -2,8 +2,8 @@
 
 - `PARSING_ERROR`: Mechanical/string issues (missing hyphen, merged words, stray spacing, words with similar shape to the misspelling e.g. `Oueen` instead of `Queen`, `vntil` instead of `until` or `ves` instead of `yes`.).
 - `SPELLING_ERROR`: Incorrect spelling or wrong word form for the context, including incorrect regional spelling variants.
-- `ABSOLUTE_GRAMMATICAL_ERROR`: Definitive grammar breach, i.e. one that is wrong in all standard English dialects.
-- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Where the grammar may be correct in some standard English dialects but would be considered sloppy or poor practice for formal academic writing (e.g., split infinitives, ending sentences with prepositions, singular "they" in formal contexts).
+- `ABSOLUTE_GRAMMATICAL_ERROR`: Definite grammar breach (agreement, tense, article/preposition misuse, apostrophe misuse) not attributable to style.
+- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Grammatically debatable or awkward; improvement advisable but optional. Might be considered 'sloppy' for formal writing.
 - `STYLISTIC_PREFERENCE`: Stylistic suggestion where the original is acceptable.
 - `FALSE_POSITIVE`: Tool misfire; terminology, proper nouns, code, or foreign words that are correct as written.
 

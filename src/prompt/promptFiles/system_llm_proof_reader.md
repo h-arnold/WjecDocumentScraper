@@ -55,10 +55,10 @@ Follow this process throughout the document:
 
 Use exactly one of the following for each reported issue:
 
-- `PARSING_ERROR` — Mechanical/formatting issues: extra/missing spaces, merged words, stray characters, broken list punctuation, incorrect hyphenation of compounds, etc.
+- `PARSING_ERROR` — Mechanical/formatting issues: extra/missing spaces, merged words, broken list punctuation and incorrect hyphenation of compound words.
 - `SPELLING_ERROR` — Incorrect spelling or wrong word form given the context (UK English).
-- `ABSOLUTE_GRAMMATICAL_ERROR` — Definite grammar breach (agreement, tense, article/preposition misuse) not attributable to style.
-- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR` — Grammatically debatable or awkward; improvement advisable but arguably optional.
+- `ABSOLUTE_GRAMMATICAL_ERROR` — Definite grammar breach (agreement, tense, article/preposition misuse, apostrophe misuse) not attributable to style.
+- `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR` — Grammatically debatable or awkward; improvement advisable but optional.
 - `STYLISTIC_IMPROVEMENT` — Style/clarity/readability improvement where the original is acceptable but a better form exists.
 - `TERMINOLOGY_INCONSISTENCY` — Inconsistent use of terms, capitalisation, hyphenation, or house-style tokens across the document.
 - `MULTILINGUAL_LANGUAGE_ERROR` — Language mix-up or misuse (e.g., Welsh/French/Spanish/German words misapplied, inconsistent accents/diacritics, incorrect code-switching).
