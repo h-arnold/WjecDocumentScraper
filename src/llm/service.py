@@ -153,11 +153,7 @@ class LLMService:
             ValueError: If provider not found or batch job not completed.
             LLMProviderError: If fetching results fails.
         """
-        # Find the provider by name
-        provider = next((p for p in self._providers if p.name == provider_name), None)
-        
-        if provider is None:
-            raise ValueError(f"Provider '{provider_name}' not found in service")
+        provider = self._find_provider(provider_name)
         
         if not hasattr(provider, 'fetch_batch_results'):
             raise NotImplementedError(
@@ -190,11 +186,7 @@ class LLMService:
             ValueError: If provider not found.
             LLMProviderError: If getting status fails.
         """
-        # Find the provider by name
-        provider = next((p for p in self._providers if p.name == provider_name), None)
-        
-        if provider is None:
-            raise ValueError(f"Provider '{provider_name}' not found in service")
+        provider = self._find_provider(provider_name)
         
         if not hasattr(provider, 'get_batch_job'):
             raise NotImplementedError(
@@ -208,6 +200,23 @@ class LLMService:
         except LLMProviderError as exc:
             self._report(provider.name, ProviderStatus.FAILURE, exc)
             raise
+
+    def _find_provider(self, provider_name: str) -> LLMProvider:
+        """Find a provider by name.
+        
+        Args:
+            provider_name: The name of the provider to find.
+        
+        Returns:
+            The provider with the given name.
+        
+        Raises:
+            ValueError: If provider not found.
+        """
+        provider = next((p for p in self._providers if p.name == provider_name), None)
+        if provider is None:
+            raise ValueError(f"Provider '{provider_name}' not found in service")
+        return provider
 
     def _report(
         self,

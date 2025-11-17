@@ -20,7 +20,7 @@ data/prompt_payloads
 
 # Generated document reports and JSON files from CLI output
 
-# Documents/*/document_reports/*.csv
+Documents/*/document_reports/*.csv
 Documents/*/document_reports/*.json
 
 # Environment Variables
