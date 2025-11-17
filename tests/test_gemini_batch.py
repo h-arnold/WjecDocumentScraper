@@ -67,7 +67,7 @@ class _DummyBatches:
         
         # Create successful responses for each request
         inlined_responses = []
-        for req in inlined_requests:
+        for _ in inlined_requests:
             response = _DummyResponse(text="mock-batch-response")
             inlined_responses.append(_DummyInlinedResponse(response=response))
         
