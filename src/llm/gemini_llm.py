@@ -172,13 +172,167 @@ class GeminiLLM:
                 raise
         
 
+    def create_batch_job(
+        self,
+        batch_payload: Sequence[Sequence[str]],
+        *,
+        filter_json: bool | None = None,
+    ) -> str:
+        """Create a batch job with multiple prompts and return the job name.
+        
+        Args:
+            batch_payload: Sequence of prompt sequences. Each inner sequence represents
+                one generation request (prompts will be joined with newlines).
+            filter_json: Whether to apply JSON filtering to responses (default: use instance setting).
+        
+        Returns:
+            The batch job name that can be used to fetch results later.
+        
+        Raises:
+            ValueError: If batch_payload is empty.
+        """
+        if not batch_payload:
+            raise ValueError("batch_payload must not be empty.")
+        
+        apply_filter = self._filter_json if filter_json is None else filter_json
+        
+        # Build InlinedRequest objects for each prompt group
+        inlined_requests = []
+        for user_prompts in batch_payload:
+            if not user_prompts:
+                raise ValueError("Each prompt sequence in batch_payload must not be empty.")
+            
+            contents = "\n".join(user_prompts)
+            config = types.GenerateContentConfig(
+                system_instruction=self._system_prompt,
+                thinking_config=types.ThinkingConfig(thinking_budget=self.MAX_THINKING_BUDGET),
+                temperature=0.2,
+            )
+            
+            # Store filter setting in metadata for later retrieval
+            metadata = {"filter_json": str(apply_filter).lower()}
+            
+            inlined_requests.append(
+                types.InlinedRequest(
+                    contents=contents,
+                    config=config,
+                    metadata=metadata,
+                )
+            )
+        
+        # Create the batch job
+        batch_job = self._client.batches.create(
+            model=self.MODEL,
+            src=inlined_requests,
+        )
+        
+        return batch_job.name
+
+    def get_batch_job(self, batch_job_name: str) -> types.BatchJob:
+        """Get the status and details of a batch job.
+        
+        Args:
+            batch_job_name: The name of the batch job to retrieve.
+        
+        Returns:
+            BatchJob object with status and results (if completed).
+        """
+        return self._client.batches.get(name=batch_job_name)
+
+    def fetch_batch_results(
+        self,
+        batch_job_name: str,
+    ) -> Sequence[Any]:
+        """Fetch and parse results from a completed batch job.
+        
+        Args:
+            batch_job_name: The name of the batch job to fetch results from.
+        
+        Returns:
+            Sequence of parsed responses in the same order as the original requests.
+            Each response is formatted the same way as generate() output.
+        
+        Raises:
+            ValueError: If the batch job is not completed or has no results.
+            LLMProviderError: If individual requests failed.
+        """
+        from .provider import LLMProviderError
+        
+        batch_job = self.get_batch_job(batch_job_name)
+        
+        if not batch_job.done:
+            raise ValueError(
+                f"Batch job {batch_job_name} is not completed yet. "
+                f"Current state: {batch_job.state}"
+            )
+        
+        if batch_job.error:
+            raise LLMProviderError(
+                f"Batch job {batch_job_name} failed: {batch_job.error}"
+            )
+        
+        if not batch_job.dest or not batch_job.dest.inlined_responses:
+            raise ValueError(
+                f"Batch job {batch_job_name} has no results. "
+                f"This may indicate the job failed or was cancelled."
+            )
+        
+        # Process each response
+        results = []
+        for idx, inlined_response in enumerate(batch_job.dest.inlined_responses):
+            if inlined_response.error:
+                raise LLMProviderError(
+                    f"Request {idx} in batch job {batch_job_name} failed: "
+                    f"{inlined_response.error}"
+                )
+            
+            response = inlined_response.response
+            if response is None:
+                raise ValueError(f"Request {idx} in batch job {batch_job_name} has no response.")
+            
+            # Check metadata to see if JSON filtering should be applied
+            # Note: metadata is from the original request, stored in batch_job.src
+            apply_filter = False
+            if (batch_job.src and 
+                batch_job.src.inlined_requests and 
+                idx < len(batch_job.src.inlined_requests)):
+                request_metadata = batch_job.src.inlined_requests[idx].metadata
+                if request_metadata:
+                    apply_filter = request_metadata.get("filter_json", "false") == "true"
+            
+            if apply_filter:
+                parsed_result = self._parse_response_json(response)
+                results.append(parsed_result)
+            else:
+                results.append(response)
+        
+        return results
+
     def batch_generate(
         self,
         batch_payload: Sequence[Sequence[str]],
         *,
         filter_json: bool = False,
     ) -> Sequence[Any]:
-        raise NotImplementedError("Gemini batch generation is not implemented yet.")
+        """Process multiple prompt groups in a single batch request.
+        
+        Note: This is a convenience wrapper that creates a batch job but does NOT wait
+        for completion. For actual batch processing, use create_batch_job() and
+        fetch_batch_results() separately.
+        
+        Args:
+            batch_payload: Sequence of prompt sequences.
+            filter_json: Whether to apply JSON filtering to responses.
+        
+        Raises:
+            NotImplementedError: Always raised since batch jobs are asynchronous
+                and require polling. Use create_batch_job() and fetch_batch_results() instead.
+        """
+        raise NotImplementedError(
+            "Gemini batch generation is asynchronous. "
+            "Use create_batch_job() to start a batch job, then poll its status "
+            "and use fetch_batch_results() to retrieve completed results."
+        )
 
     def health_check(self) -> bool:
         return True
