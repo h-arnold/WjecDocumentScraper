@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Any, Sequence
 from dataclasses import dataclass, asdict
 
-from src.models import DocumentKey, LanguageIssue
+from src.models import DocumentKey
 from src.llm.service import LLMService
 
 from .batcher import Batch, iter_batches
