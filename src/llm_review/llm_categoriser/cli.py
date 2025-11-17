@@ -46,13 +46,13 @@ Environment Variables:
   LLM_CATEGORISER_BATCH_SIZE     Default batch size (default: 10)
   LLM_CATEGORISER_MAX_RETRIES    Maximum retries (default: 2)
   LLM_CATEGORISER_STATE_FILE     State file path (default: data/llm_categoriser_state.json)
-    LLM_CATEGORISER_LOG_RESPONSES  Set to true/1 to dump raw LLM JSON responses for each batch attempt
-    LLM_CATEGORISER_LOG_DIR        Override directory for raw response logs (default: data/llm_categoriser_responses)
+  LLM_CATEGORISER_LOG_RESPONSES  Set to true/1 to dump raw LLM JSON responses for each batch attempt
+  LLM_CATEGORISER_LOG_DIR        Override directory for raw response logs (default: data/llm_categoriser_responses)
   GEMINI_MIN_REQUEST_INTERVAL    Min seconds between Gemini requests (default: 0). Also respected by GeminiLLM provider.
   GEMINI_MAX_RETRIES             Number of retry attempts for 429 rate limit errors (default: 0). Also respected by GeminiLLM provider.
   LLM_PRIMARY                    Primary LLM provider (default: gemini)
   LLM_FALLBACK                   Fallback providers (comma-separated)
-    LLM_FAIL_ON_QUOTA              When set (true/1/yes/on), exit the run on quota exhaustion (default: true)
+  LLM_FAIL_ON_QUOTA              When set (true/1/yes/on), exit the run on quota exhaustion (default: true)
         """,
     )
     
@@ -242,12 +242,6 @@ def main(args: list[str] | None = None) -> int:
         print(f"Error creating LLM service: {e}", file=sys.stderr)
         return 1
     
-    # Get minimum request interval from environment
-    try:
-        min_interval = float(os.environ.get("GEMINI_MIN_REQUEST_INTERVAL", "0"))
-    except ValueError:
-        min_interval = 0.0
-    
     # Create state manager
     state = CategoriserState(parsed_args.state_file)
     
@@ -268,7 +262,6 @@ def main(args: list[str] | None = None) -> int:
         state=state,
         batch_size=parsed_args.batch_size,
         max_retries=parsed_args.max_retries,
-        min_request_interval=min_interval,
         log_raw_responses=log_responses_flag,
         log_response_dir=log_responses_dir,
         fail_on_quota=fail_on_quota,

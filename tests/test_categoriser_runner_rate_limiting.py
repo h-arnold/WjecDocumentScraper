@@ -70,12 +70,10 @@ def test_categoriser_runner_respects_gemini_rate_limit(tmp_path: Path, monkeypat
     service = LLMService([gemini])
     state = CategoriserState(tmp_path / "state.json")
     
-    # CategoriserRunner also has rate limiting, but we set it to 0
-    # to test that GeminiLLM's rate limiting is working
+    # GeminiLLM handles its own rate limiting
     runner = CategoriserRunner(
         llm_service=service,
         state=state,
-        min_request_interval=0.0,  # Don't use runner's rate limiting
     )
     
     # Create test data
@@ -118,72 +116,3 @@ def test_categoriser_runner_respects_gemini_rate_limit(tmp_path: Path, monkeypat
         interval = call_times[i] - call_times[i-1]
         # Should respect the 0.2s minimum (with some tolerance)
         assert interval >= 0.18, f"Interval {interval} is less than expected 0.2s"
-
-
-def test_categoriser_runner_double_rate_limiting(tmp_path: Path) -> None:
-    """Test that both CategoriserRunner and GeminiLLM rate limiting work together.
-    
-    Note: Both enforce rate limiting based on the same last_request_time,
-    so the delays don't add up - only the maximum of the two is applied.
-    """
-    system_prompt_path = tmp_path / "system.md"
-    system_prompt_path.write_text("System prompt", encoding="utf-8")
-    
-    client = _TrackingClient()
-    
-    # GeminiLLM with 0.1s rate limit
-    gemini = GeminiLLM(
-        system_prompt=system_prompt_path,
-        client=cast(genai.Client, client),
-        min_request_interval=0.1,
-    )
-    
-    service = LLMService([gemini])
-    state = CategoriserState(tmp_path / "state.json")
-    
-    # CategoriserRunner also with 0.1s rate limit
-    runner = CategoriserRunner(
-        llm_service=service,
-        state=state,
-        min_request_interval=0.1,
-    )
-    
-    # Create test data
-    issues = [
-        LanguageIssue(
-            filename="test.md",
-            rule_id=f"RULE{i}",
-            message="msg",
-            issue_type="error",
-            replacements=[],
-            context="ctx",
-            highlighted_context="ctx",
-            issue="issue",
-            page_number=1,
-            issue_id=i,
-        )
-        for i in range(2)
-    ]
-    
-    key = DocumentKey(subject="Test", filename="test.md")
-    
-    # Process 2 batches
-    for i in range(2):
-        batch = Batch(
-            subject="Test",
-            filename="test.md",
-            index=i,
-            issues=[issues[i]],
-            page_context={1: "context"},
-            markdown_table="table",
-        )
-        runner._process_batch(key, batch)
-    
-    # Both runner and GeminiLLM enforce 0.1s rate limit
-    # Since they track the same last_request_time, the delay is 0.1s (not additive)
-    call_times = client.models.call_times
-    assert len(call_times) == 2
-    
-    interval = call_times[1] - call_times[0]
-    # Should be at least 0.1s (with some tolerance for timing variations)
-    assert interval >= 0.09, f"Interval {interval} is less than expected 0.1s"

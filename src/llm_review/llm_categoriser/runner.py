@@ -36,7 +36,6 @@ class CategoriserRunner:
         *,
         batch_size: int = 10,
         max_retries: int = 2,
-        min_request_interval: float = 0.0,
         log_raw_responses: bool | None = None,
     log_response_dir: Path | None = None,
     fail_on_quota: bool = False,
@@ -48,13 +47,11 @@ class CategoriserRunner:
             state: State manager for tracking progress
             batch_size: Number of issues per batch
             max_retries: Maximum retry attempts for failed validations
-            min_request_interval: Minimum seconds between API requests
         """
         self.llm_service = llm_service
         self.state = state
         self.batch_size = batch_size
         self.max_retries = max_retries
-        self.min_request_interval = min_request_interval
         if log_raw_responses is None:
             env_flag = os.environ.get("LLM_CATEGORISER_LOG_RESPONSES", "")
             log_raw_responses = env_flag.strip().lower() in {"1", "true", "yes", "on"}
@@ -67,9 +64,6 @@ class CategoriserRunner:
                 "Raw response logging enabled -> "
                 f"{self.log_response_dir} (subject folders will be created automatically)"
             )
-        # Initialize to 0.0 so that the first API call is not rate-limited.
-        # This ensures the first request does not sleep; subsequent requests will enforce the interval.
-        self._last_request_time = 0.0
         # Whether we should abort the entire run when the LLM reports quota
         # exhaustion. Defaults to False to preserve existing behaviour where
         # a single failed batch does not stop the whole run.
@@ -204,9 +198,6 @@ class CategoriserRunner:
                 user_prompts = prompts[1:]
             else:
                 user_prompts = prompts
-            
-            # Enforce rate limiting
-            self._enforce_rate_limit()
             
             # Call LLM
             try:
@@ -451,18 +442,6 @@ class CategoriserRunner:
     @staticmethod
     def _fallback_json_serializer(obj: Any) -> str:
         return str(obj)
-    
-    def _enforce_rate_limit(self) -> None:
-        """Enforce minimum interval between API requests."""
-        if self.min_request_interval <= 0:
-            return
-        
-        elapsed = time.time() - self._last_request_time
-        if elapsed < self.min_request_interval:
-            sleep_time = self.min_request_interval - elapsed
-            time.sleep(sleep_time)
-        
-        self._last_request_time = time.time()
     
     def _build_table_for_issues(self, issues: list[LanguageIssue]) -> str:
         """Build a Markdown table for a subset of issues."""
