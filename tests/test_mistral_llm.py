@@ -79,8 +79,7 @@ def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
     
     # Check thinking mode is enabled
     assert call["prompt_mode"] == "reasoning"
-
-
+    assert call["temperature"] == 0.2
 def test_mistral_api_key_is_passed_to_sdk_from_env(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
     """Ensure that MistralLLM reads MISTRAL_API_KEY and passes it to the Mistral SDK."""
     # Arrange: set the env var that MistralLLM should pick up
@@ -98,7 +97,7 @@ def test_mistral_api_key_is_passed_to_sdk_from_env(tmp_path: Path, monkeypatch: 
 
     # Act: instantiate MistralLLM (without providing a client)
     llm = MistralLLM(system_prompt="test")
-
+    MistralLLM(system_prompt="test")
     # Assert: the FakeClient received the API key from the environment
     assert captured.get("api_key") == "env-test-key-123"
 
