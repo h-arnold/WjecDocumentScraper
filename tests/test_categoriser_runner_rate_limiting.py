@@ -6,7 +6,6 @@ import sys
 import time
 from pathlib import Path
 from typing import cast
-from unittest.mock import patch
 
 import pytest
 from google import genai
