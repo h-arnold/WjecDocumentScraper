@@ -39,7 +39,7 @@ class _DummyProvider(LLMProvider):
     
     name = "dummy"
     
-    def __init__(self):
+    def __init__(self) -> None:
         self.created_jobs = []
         self.job_statuses = {}
         self.job_results = {}
