@@ -203,6 +203,7 @@ class LLMService:
         
         try:
             status = provider.get_batch_job(batch_job_name)
+            self._report(provider.name, ProviderStatus.SUCCESS)
             return status
         except LLMProviderError as exc:
             self._report(provider.name, ProviderStatus.FAILURE, exc)
