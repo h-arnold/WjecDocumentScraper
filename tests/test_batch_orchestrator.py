@@ -15,7 +15,6 @@ try:
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.models import DocumentKey
     from src.llm.provider import LLMProvider
     from src.llm.service import LLMService
 except ImportError:
@@ -27,7 +26,6 @@ except ImportError:
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.models import DocumentKey
     from src.llm.provider import LLMProvider
     from src.llm.service import LLMService
 

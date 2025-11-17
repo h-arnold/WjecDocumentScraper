@@ -126,7 +126,6 @@ class LLMService:
                 self._report(provider.name, ProviderStatus.UNSUPPORTED)
                 continue
             except LLMQuotaError as exc:
-                last_error = exc
                 self._report(provider.name, ProviderStatus.QUOTA, exc)
                 continue
             except LLMProviderError as exc:
