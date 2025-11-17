@@ -56,7 +56,7 @@ The goal of this project is to shine a light on the absence of quality assurance
 
 ### False Negatives
 
-False positives will undermine this tools credibility. There are *so* many errors across the different documents that missing a few will not affect the overall picture. Remember, that for public facing, natinal documents, the only acceptable number of errors is zero.
+False positives will undermine this tool's credibility. There are *so* many errors across the different documents that missing a few will not affect the overall picture. Remember, that for public facing, natinal documents, the only acceptable number of errors is zero.
 
 False negatives will certainly result from:
 
