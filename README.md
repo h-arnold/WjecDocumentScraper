@@ -236,12 +236,24 @@ print(response.text)
 
 Refer to the [Gemini text generation guide](https://ai.google.dev/gemini-api/docs/text-generation) for additional configuration options.
 
+## Mistral LLM helper
+
+`MistralLLM` in `src/llm/mistral_llm.py` provides both live and batch access to the Mistral API:
+
+- Live calls (`generate`) use `beta.conversations.start` with the configured system prompt and merged user prompts.
+- Batch calls (`batch_generate`) serialise each prompt group into a JSONL request file, upload it with `files.upload(purpose="batch")`, submit a job via `batch.jobs.create(endpoint="/v1/conversations")`, and poll until completion. Successful jobs download the output artefact and parse each line back into either a `ConversationResponse` or JSON payload when `filter_json=True`.
+- HTTP 429 responses are normalised into `LLMQuotaError` so the orchestrator can fall back to the next provider automatically.
+
+See `docs/LLM_PROVIDER_SPEC.md` for details on the data shapes and failure handling used by the batch implementation.
+
 ## Environment variables
 
 The project uses a few environment variables (and supports loading them from a `.env` file). These are the variables you may want to set when running the LLM or categoriser features:
 
 - GEMINI_API_KEY — Google Gemini API key used by the `GeminiLLM` wrapper. Example: `GEMINI_API_KEY=xxxx`.
-- MISTRAL_API_KEY — (Planned / optional) API key for a Mistral provider integration.
+- MISTRAL_API_KEY — API key for the Mistral provider integration. Required when `mistral` is present in `LLM_PRIMARY` or `LLM_FALLBACK`.
+- MISTRAL_BATCH_POLL_INTERVAL — Optional float (seconds) that controls how often `MistralLLM` polls the batch job status. Default: `2.0`.
+- MISTRAL_BATCH_TIMEOUT — Optional float (seconds) that caps the total wait time for a batch job before failing. Default: `900` (15 minutes).
 - LLM_PRIMARY — Comma-separated primary LLM provider name(s). Default: `gemini`.
 - LLM_FALLBACK — Comma-separated fallback LLM providers. Example: `mistral`.
 - LLM_CATEGORISER_BATCH_SIZE — Batch size used by the LLM categoriser (default: 10). Adjustable via the CLI or by setting this environment variable.

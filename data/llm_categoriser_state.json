@@ -302,14 +302,6 @@
         ],
         "total_issues": 22
       },
-      "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.md": {
-        "completed_batches": [
-          0,
-          1,
-          2
-        ],
-        "total_issues": 22
-      },
       "gcse-history---guidance-for-teaching-unit-4.md": {
         "completed_batches": [
           0
@@ -374,14 +366,6 @@
         ],
         "total_issues": 44
       },
-      "gcse-history---unit-4-a-changing-society.md": {
-        "completed_batches": [
-          0,
-          1,
-          2
-        ],
-        "total_issues": 22
-      },
       "overview-of-consultation-findings.md": {
         "completed_batches": [
           0,
@@ -397,6 +381,22 @@
           3
         ],
         "total_issues": 40
+      },
+      "gcse-history---unit-4-a-changing-society.md": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 22
+      },
+      "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.md": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 22
       }
     }
   }

@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+import json
 import os
 import sys
 from pathlib import Path
+from types import SimpleNamespace
 from typing import Any, cast
 
 import pytest
@@ -13,7 +15,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.llm.mistral_llm import MistralLLM
-from src.llm.provider import LLMQuotaError
+from src.llm.provider import LLMProviderError, LLMQuotaError
 
 
 class _DummyMessage:
@@ -70,6 +72,82 @@ class _QuotaExceededError(Exception):
         self.status_code = 429
 
 
+class _StaticResponse:
+    def __init__(self, text: str) -> None:
+        self.text = text
+        self.closed = False
+
+    def read(self) -> bytes:
+        return self.text.encode("utf-8")
+
+    def close(self) -> None:
+        self.closed = True
+
+
+class _DummyFiles:
+    def __init__(self, output_lines: list[dict[str, Any]], error_text: str | None = None) -> None:
+        self.upload_payloads: list[str] = []
+        self.output_text = "\n".join(json.dumps(line) for line in output_lines)
+        self.error_text = error_text or ""
+
+    def upload(self, *, file: Any, purpose: str) -> SimpleNamespace:
+        assert purpose == "batch"
+        payload_bytes = file.content.read()
+        file.content.seek(0)
+        self.upload_payloads.append(payload_bytes.decode("utf-8"))
+        return SimpleNamespace(id="file-upload")
+
+    def download(self, *, file_id: str) -> _StaticResponse:
+        if file_id == "output-file":
+            return _StaticResponse(self.output_text)
+        if file_id == "error-file":
+            return _StaticResponse(self.error_text)
+        raise AssertionError(f"Unexpected file_id: {file_id}")
+
+
+class _DummyBatchJobs:
+    def __init__(
+        self,
+        status_sequence: list[str],
+        *,
+        output_file: str = "output-file",
+        error_file: str | None = None,
+        errors: list[Any] | None = None,
+    ) -> None:
+        self.status_sequence = status_sequence
+        self.create_kwargs: dict[str, Any] | None = None
+        self.calls = 0
+        self.job = SimpleNamespace(
+            id="job-1",
+            status=status_sequence[0],
+            output_file=output_file,
+            error_file=error_file,
+            errors=errors or [],
+        )
+
+    def create(self, **kwargs: Any) -> SimpleNamespace:
+        self.create_kwargs = kwargs
+        return self.job
+
+    def get(self, *, job_id: str) -> SimpleNamespace:
+        assert job_id == self.job.id
+        self.calls += 1
+        index = min(self.calls, len(self.status_sequence) - 1)
+        self.job.status = self.status_sequence[index]
+        return self.job
+
+
+class _DummyBatch:
+    def __init__(self, jobs: _DummyBatchJobs) -> None:
+        self.jobs = jobs
+
+
+class _BatchEnabledClient:
+    def __init__(self, files: _DummyFiles, jobs: _DummyBatchJobs) -> None:
+        self.files = files
+        self.batch = _DummyBatch(jobs)
+
+
 def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
     system_prompt_path = tmp_path / "system.md"
     system_text = "## System\nFollow the rules."
@@ -92,8 +170,13 @@ def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
     # we match the SDK example: system instructions are sent via the
     # `instructions` parameter and the inputs list contains user messages.
     assert call["instructions"] == system_text
-    assert inputs[0]["role"] == "user"
-    assert inputs[0]["content"] == "Line one\nLine two"
+    first_input = inputs[0]
+    if isinstance(first_input, dict):
+        assert first_input["role"] == "user"
+        assert first_input["content"] == "Line one\nLine two"
+    else:
+        assert getattr(first_input, "role") == "user"
+        assert getattr(first_input, "content") == "Line one\nLine two"
 
     # Check completion args contain the low temperature
     completion_args = call.get("completion_args", {})
@@ -315,14 +398,100 @@ def test_generate_raises_empty_prompts(tmp_path: Path) -> None:
     assert "must not be empty" in str(exc_info.value)
 
 
-def test_batch_generate_raises_not_implemented(tmp_path: Path) -> None:
+def _build_output_line(index: int, content: str) -> dict[str, Any]:
+    return {
+        "custom_id": f"req-{index:05d}",
+        "response": {
+            "status_code": 200,
+            "body": {
+                "conversation_id": f"conv-{index}",
+                "outputs": [{"content": content}],
+                "usage": {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2},
+            },
+        },
+    }
+
+
+def test_batch_generate_returns_conversation_objects(tmp_path: Path) -> None:
     system_prompt_path = tmp_path / "system.md"
-    system_prompt_path.write_text("System", encoding="utf-8")
-    client = _DummyClient()
+    system_prompt_path.write_text("System prompt", encoding="utf-8")
+
+    files = _DummyFiles([
+        _build_output_line(0, "{\"value\": 1}"),
+        _build_output_line(1, "{\"value\": 2}"),
+    ])
+    jobs = _DummyBatchJobs(["RUNNING", "SUCCESS"])
+    client = _BatchEnabledClient(files, jobs)
+
     llm = MistralLLM(system_prompt=system_prompt_path, client=cast(Mistral, client))
 
-    with pytest.raises(NotImplementedError):
-        llm.batch_generate([["prompt1"], ["prompt2"]])
+    results = llm.batch_generate([["Prompt A"], ["Prompt B"]])
+
+    assert len(results) == 2
+    assert all(hasattr(item, "conversation_id") for item in results)
+
+    assert jobs.create_kwargs is not None
+    assert jobs.create_kwargs["endpoint"] == "/v1/conversations"
+
+    assert files.upload_payloads
+    first_line = files.upload_payloads[0].splitlines()[0]
+    payload = json.loads(first_line)
+    assert payload["body"]["instructions"] == "System prompt"
+    assert payload["body"]["completion_args"]["temperature"] == 0.2
+
+
+def test_batch_generate_with_filter_returns_json(tmp_path: Path) -> None:
+    system_prompt_path = tmp_path / "system.md"
+    system_prompt_path.write_text("System", encoding="utf-8")
+
+    files = _DummyFiles([
+        _build_output_line(0, "{\"foo\": 1}"),
+    ])
+    jobs = _DummyBatchJobs(["SUCCESS"])
+    client = _BatchEnabledClient(files, jobs)
+
+    llm = MistralLLM(system_prompt=system_prompt_path, client=cast(Mistral, client))
+
+    results = llm.batch_generate([["Prompt"]], filter_json=True)
+
+    assert results == [{"foo": 1}]
+
+
+def test_batch_generate_raises_on_job_failure(tmp_path: Path) -> None:
+    system_prompt_path = tmp_path / "system.md"
+    system_prompt_path.write_text("System", encoding="utf-8")
+
+    files = _DummyFiles([
+        _build_output_line(0, "{\"foo\": 1}"),
+    ], error_text="job failure")
+    jobs = _DummyBatchJobs(["RUNNING", "FAILED"], error_file="error-file", errors=[{"message": "failed"}])
+    client = _BatchEnabledClient(files, jobs)
+
+    llm = MistralLLM(system_prompt=system_prompt_path, client=cast(Mistral, client))
+
+    with pytest.raises(LLMProviderError):
+        llm.batch_generate([["Prompt"]])
+
+
+def test_batch_generate_raises_quota_from_upload(tmp_path: Path) -> None:
+    system_prompt_path = tmp_path / "system.md"
+    system_prompt_path.write_text("System", encoding="utf-8")
+
+    class _QuotaFiles(_DummyFiles):
+        def __init__(self) -> None:
+            super().__init__([])
+
+        def upload(self, *, file: Any, purpose: str) -> SimpleNamespace:  # type: ignore[override]
+            raise _QuotaExceededError("Quota hit")
+
+    files = _QuotaFiles()
+    jobs = _DummyBatchJobs(["SUCCESS"])
+    client = _BatchEnabledClient(files, jobs)
+
+    llm = MistralLLM(system_prompt=system_prompt_path, client=cast(Mistral, client))
+
+    with pytest.raises(LLMQuotaError):
+        llm.batch_generate([["Prompt"]])
 
 
 def test_health_check_returns_true(tmp_path: Path) -> None:

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document captures the requirements, interface contract, and orchestration patterns that should govern any LLM integration inside `WjecDocumentScraper`. It is explicitly written to accommodate parallel LLM providers (currently Gemini and a future Mistral integration), to support both live and batch APIs, and to make switching between providers transparent when quota limits or throttling errors occur.
+This document captures the requirements, interface contract, and orchestration patterns that should govern any LLM integration inside `WjecDocumentScraper`. It is explicitly written to accommodate parallel LLM providers (currently Gemini and Mistral), to support both live and batch APIs, and to make switching between providers transparent when quota limits or throttling errors occur.
 
 ## Context
 
@@ -109,10 +109,12 @@ class LLMService:
 - Wraps quota errors (likely HTTP 429 or API-specific codes) into `LLMQuotaError`.
 - Exposes `LLMProvider.name = "gemini"` and a `health_check` that verifies available API key.
 
-### Mistral (future)
-- Lives under `src/llm/mistral_llm.py` with the same `LLMProvider` interface.
-- Should provide both live/batch support: the free tier exposes a multi-request batch API, so batch support is a high priority.
-- Must implement the shared error hierarchy.
+### Mistral
+- Implemented in `src/llm/mistral_llm.py` with both `generate` (live) and `batch_generate` pathways.
+- `generate` uses `client.beta.conversations.start` and always supplies the system prompt via `instructions` plus a single merged user message. JSON output is normalised through `parse_json_response` when `filter_json=True`.
+- `batch_generate` writes a JSONL file containing one request per prompt group. Each line matches the Conversations API schema: `{"custom_id": "req-00001", "method": "POST", "url": "/v1/conversations", "body": {"instructions": ..., "inputs": [{"type": "message.input", "role": "user", "content": "..."}], "completion_args": {"temperature": 0.2}, "tools": []}}`.
+- The JSONL file is uploaded via `files.upload(purpose="batch")`, the resulting file id is submitted to `batch.jobs.create(endpoint="/v1/conversations", model="magistral-small-latest")`, and polling continues until the job reaches a terminal status. Successful jobs download the `output_file` and convert each line back into either a `ConversationResponse` or parsed JSON (when filtering is enabled).
+- Non-success statuses assemble details from `job.errors` and the optional `error_file`, raising `LLMProviderError`. HTTP 429 responses encountered during upload, job creation, polling, or downloads are mapped to `LLMQuotaError` so the orchestrator can fall back to the next provider.
 
 ## Batch vs. Live APIs
 
@@ -145,6 +147,15 @@ class LLMService:
   - Provider name + status (success/failure/quota)
   - Which provider is currently used for a request
   - The exact error message when quota is hit
+
+## Environment variables
+
+- `MISTRAL_API_KEY` (required): API key loaded via `dotenv` or the process environment; needed for both live and batch calls.
+- `MISTRAL_BATCH_POLL_INTERVAL` (optional, default `2.0` seconds): controls how often the batch runner polls `batch.jobs.get` while waiting for a terminal state.
+- `MISTRAL_BATCH_TIMEOUT` (optional, default `900` seconds): maximum wall-clock duration to wait for a batch job before surfacing a `LLMProviderError`.
+- `LLM_FAIL_ON_QUOTA`, `LLM_PRIMARY`, `LLM_FALLBACK`: existing orchestrator tuning flags described in `docs/DEV_WORKFLOWS.md`.
+
+The batch-specific variables allow longer-running jobs (for large prompt sets) to complete without code changes while keeping short runs responsive during development.
 
 ## Summary
 
