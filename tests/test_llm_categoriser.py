@@ -503,9 +503,10 @@ def test_runner_uses_env_toggle_for_logging(tmp_path: Path, monkeypatch: pytest.
 def test_runner_handles_provider_quota_gracefully(tmp_path: Path) -> None:
     """Ensure LLM quota errors can be handled and optionally abort the run.
 
-    When the provider raises an LLMQuotaError the runner should not crash by
-    default (it aborts the batch and continues). When the runner is configured
-    with fail_on_quota=True it should re-raise the error so the caller can exit.
+    When the provider raises an LLMQuotaError the runner should fail-fast by
+    default (it re-raises the error). When the runner is configured with
+    fail_on_quota=False it should not raise and should instead abort the
+    current batch and continue processing other documents.
     """
 
     # Create a dummy provider which raises quota
@@ -544,13 +545,13 @@ def test_runner_handles_provider_quota_gracefully(tmp_path: Path) -> None:
     key = DocumentKey(subject="Test", filename="doc.md")
     batch = Batch(subject="Test", filename="doc.md", index=0, issues=[issue], page_context={1: "ctx"}, markdown_table="table")
 
-    # By default we should not raise, just return False
-    assert runner._process_batch(key, batch) is False
-
-    # When configured to fail on quota, it should raise
-    runner2 = CategoriserRunner(llm_service=llm_service, state=state, fail_on_quota=True)
+    # By default we should raise (fail-fast on quota exhaustion)
     with pytest.raises(LLMQuotaError):
-        runner2._process_batch(key, batch)
+        runner._process_batch(key, batch)
+
+    # When configured not to fail on quota, it should not raise and return False
+    runner2 = CategoriserRunner(llm_service=llm_service, state=state, fail_on_quota=False)
+    assert runner2._process_batch(key, batch) is False
 
 
 def test_runner_aborts_on_503(tmp_path: Path) -> None:

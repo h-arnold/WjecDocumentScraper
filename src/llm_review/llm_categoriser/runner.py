@@ -37,8 +37,8 @@ class CategoriserRunner:
         batch_size: int = 10,
         max_retries: int = 2,
         log_raw_responses: bool | None = None,
-    log_response_dir: Path | None = None,
-    fail_on_quota: bool = False,
+        log_response_dir: Path | None = None,
+    fail_on_quota: bool = True,
     ):
         """Initialize the runner.
         
@@ -65,8 +65,9 @@ class CategoriserRunner:
                 f"{self.log_response_dir} (subject folders will be created automatically)"
             )
         # Whether we should abort the entire run when the LLM reports quota
-        # exhaustion. Defaults to False to preserve existing behaviour where
-        # a single failed batch does not stop the whole run.
+        # exhaustion. Defaults to True to fail-fast on quota errors by default
+        # so we surface quota exhaustion as a run-level error rather than
+        # continuing to process other documents.
         self.fail_on_quota = fail_on_quota
     
     def run(

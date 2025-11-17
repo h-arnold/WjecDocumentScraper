@@ -47,6 +47,7 @@ Model contract:
   - LLM_CATEGORISER_MAX_RETRIES (default 2)
   - LLM_CATEGORISER_STATE_FILE
   - Provider min-request interval (e.g., GEMINI_MIN_REQUEST_INTERVAL)
+    - LLM_FAIL_ON_QUOTA (default: true) — Abort the whole run on provider quota/rate-limit exhaustion (set to false to continue processing other documents)
 - Respect provider min-request intervals; module enforces single-threaded semantics.
 
 ## Testing

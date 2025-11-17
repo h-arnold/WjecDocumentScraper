@@ -36,5 +36,6 @@
 - Simplified the runner validation path to consume the flat array and deduplicate retries by `issue_id`.
 - Switched `persistence.save_batch_results()` to emit per-document CSV files (`Documents/<Subject>/document_reports/<filename>.csv`) with one row per issue, plus matching tests and docs.
 - Refreshed `LLM_CATEGORISER_SPEC.md` and `src/llm_review/llm_categoriser/README.md` to describe the new workflow and persisted artifact.
+- Default behaviour changed: `fail_on_quota` now defaults to True to fail-fast on provider quota exhaustion. The CLI and env var `LLM_FAIL_ON_QUOTA` control this behaviour; set to `false` to continue running on quota errors.
 - Added `LLM_CATEGORISER_LOG_RESPONSES` / `LLM_CATEGORISER_LOG_DIR` toggles plus helper tests so raw LLM payloads can be captured to disk for debugging when needed.
 - Introduced CLI overrides `--log-responses` and `--log-responses-dir`, a console hint when logging is active, and regression tests to confirm the environment toggle works end-to-end.

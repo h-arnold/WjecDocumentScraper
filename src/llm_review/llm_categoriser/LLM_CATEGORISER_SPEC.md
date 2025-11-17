@@ -180,6 +180,7 @@ Rows are deduplicated by `issue_id`, so reruns simply overwrite the latest categ
 
 - Key options: `--subjects`, `--documents`, `--from-report`, `--batch-size`, `--max-retries`, `--state-file`, `--force`, `--use-batch-endpoint`, `--emit-batch-payload`, `--provider`, `--dotenv`, `--dry-run`, plus explicit logging controls `--log-responses` and `--log-responses-dir`.
 - Environment overrides: `LLM_CATEGORISER_BATCH_SIZE`, `LLM_CATEGORISER_MAX_RETRIES`, `LLM_CATEGORISER_STATE_FILE`, provider-specific min interval vars (e.g., `GEMINI_MIN_REQUEST_INTERVAL`), and logging variables `LLM_CATEGORISER_LOG_RESPONSES` / `LLM_CATEGORISER_LOG_DIR`.
+  - `LLM_FAIL_ON_QUOTA` — When set to true (`1`, `true`, `yes`, `on`) the runner will abort the entire run when a provider reports quota exhaustion. Default: `true`. To continue processing other documents on quota errors, set this to `false` or use the CLI `--no-fail-on-quota` flag.
 - Debug logging: `LLM_CATEGORISER_LOG_RESPONSES=true` (or `--log-responses`) captures every raw provider payload under `data/llm_categoriser_responses/<subject>/...`; override the destination with `LLM_CATEGORISER_LOG_DIR=/custom/path` or `--log-responses-dir`.
 
 ---
