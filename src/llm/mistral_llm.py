@@ -58,6 +58,7 @@ class MistralLLM(LLMProvider):
         # We need to read it and pass it explicitly
         if client is None:
             import os
+                        
             api_key = os.environ.get("MISTRAL_API_KEY")
             if not api_key:
                 raise ValueError(
@@ -102,7 +103,8 @@ class MistralLLM(LLMProvider):
             # Translate Mistral SDK quota/rate-limit exceptions into the
             # project's LLMQuotaError so higher-level logic can handle provider
             # fallbacks or fail fast depending on configuration.
-            if hasattr(exc, "status_code") and exc.status_code == 429:
+            status_code = getattr(exc, "status_code", None)
+            if status_code == 429:
                 raise LLMQuotaError("Mistral provider: quota exhausted or rate limited") from exc
             raise
 
