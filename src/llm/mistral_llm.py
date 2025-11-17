@@ -53,7 +53,21 @@ class MistralLLM(LLMProvider):
             load_dotenv(dotenv_path=Path(dotenv_path))
         else:
             load_dotenv()
-        self._client = client or Mistral()
+        
+        # Mistral SDK does not automatically read MISTRAL_API_KEY from environment
+        # We need to read it and pass it explicitly
+        if client is None:
+            import os
+            api_key = os.environ.get("MISTRAL_API_KEY")
+            if not api_key:
+                raise ValueError(
+                    "MISTRAL_API_KEY environment variable is required but not set. "
+                    "Please set it in your .env file or environment."
+                )
+            self._client = Mistral(api_key=api_key)
+        else:
+            self._client = client
+        
         self._filter_json = filter_json
 
     @property

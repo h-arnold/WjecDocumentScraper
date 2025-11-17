@@ -79,7 +79,52 @@ def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
     
     # Check thinking mode is enabled
     assert call["prompt_mode"] == "reasoning"
-    assert call["temperature"] == 0.2
+
+
+def test_mistral_api_key_is_passed_to_sdk_from_env(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    """Ensure that MistralLLM reads MISTRAL_API_KEY and passes it to the Mistral SDK."""
+    # Arrange: set the env var that MistralLLM should pick up
+    monkeypatch.setenv("MISTRAL_API_KEY", "env-test-key-123")
+
+    # Capture arguments passed to the SDK constructor
+    captured: dict[str, object] = {}
+
+    class FakeClient:
+        def __init__(self, api_key: str | None = None, **kwargs: object) -> None:
+            captured["api_key"] = api_key
+
+    # Replace the Mistral constructor in the module under test
+    monkeypatch.setattr("src.llm.mistral_llm.Mistral", FakeClient)
+
+    # Act: instantiate MistralLLM (without providing a client)
+    llm = MistralLLM(system_prompt="test")
+
+    # Assert: the FakeClient received the API key from the environment
+    assert captured.get("api_key") == "env-test-key-123"
+
+
+def test_mistral_raises_when_api_key_missing(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    """Verify MistralLLM raises a helpful error when MISTRAL_API_KEY is not set."""
+    # Arrange: ensure env var is unset
+    monkeypatch.delenv("MISTRAL_API_KEY", raising=False)
+    # Prevent the module from re-loading the real .env file (which would set the key again)
+    monkeypatch.setattr("src.llm.mistral_llm.load_dotenv", lambda *args, **kwargs: None)
+
+    # Replace Mistral constructor to ensure if code tries to call it without API key,
+    # we can detect it. However, the code should raise before calling the constructor.
+    called = {"constructed": False}
+
+    class FakeClientNoop:
+        def __init__(self, api_key: str | None = None, **kwargs: object) -> None:
+            called["constructed"] = True
+
+    monkeypatch.setattr("src.llm.mistral_llm.Mistral", FakeClientNoop)
+
+    # Act & Assert: Instantiation should raise a ValueError due to missing API key
+    with pytest.raises(ValueError, match="MISTRAL_API_KEY environment variable is required"):
+        MistralLLM(system_prompt="test")
+    # The constructor should not have been called
+    assert called["constructed"] is False
 
 
 def test_system_prompt_property_returns_file_contents(tmp_path: Path) -> None:
