@@ -15,7 +15,7 @@ from dataclasses import dataclass, asdict
 from src.models import DocumentKey
 from src.llm.service import LLMService
 
-from .batcher import Batch, iter_batches
+from .batcher import iter_batches
 from .data_loader import load_issues
 from .persistence import save_batch_results
 from .prompt_factory import build_prompts
