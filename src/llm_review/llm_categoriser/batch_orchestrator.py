@@ -9,7 +9,7 @@ from __future__ import annotations
 import json
 import time
 from pathlib import Path
-from typing import Any, Sequence
+from typing import Any
 from dataclasses import dataclass, asdict
 
 from src.models import DocumentKey
