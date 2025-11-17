@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import time
 from pathlib import Path
-from typing import Any
+from typing import Any, Sequence
 import os
 import json
 from datetime import datetime, timezone
@@ -199,27 +199,13 @@ class CategoriserRunner:
             else:
                 user_prompts = prompts
             
-            # Call LLM
-            try:
-                response = self.llm_service.generate(user_prompts, filter_json=True)
-            except LLMQuotaError as exc:
-                # If providers report a quota exhaustion we may want to abort
-                # the whole run — make this configurable for tests and CLI.
-                print(f"    Provider quota exhausted: {exc}")
-                if self.fail_on_quota:
-                    raise
-                return False
-            except Exception as e:
-                # Abort the run when a provider reports an HTTP 503 (Service
-                # Unavailable) as this typically indicates a service outage and
-                # should not be retried by the runner. Various provider SDKs
-                # surface 503 in different ways (e.g. .status_code on the
-                # exception, or a .response). Detect common cases here and
-                # re-raise to abort the whole process.
-                if self._is_503_error(e):
-                    print(f"    Provider service unavailable (503): {e}")
-                    raise
-                print(f"    Error calling LLM: {e}")
+            # Call LLM via helper and decide how to proceed depending on the
+            # outcome. The helper returns the response when successful or None
+            # when a non-fatal provider error occurred (e.g. quota exhausted
+            # while fail_on_quota=False). It will re-raise for fatal errors
+            # (currently 503 Service Unavailable) so the caller can abort.
+            response = self._call_llm(user_prompts, key, batch.index, attempt)
+            if response is None:
                 return False
 
             self._maybe_log_response(key, batch.index, attempt, response, remaining_issues)
@@ -389,6 +375,40 @@ class CategoriserRunner:
             error_messages.setdefault("batch_errors", []).append(msg)
 
         return validated_results, failed_issue_ids, error_messages
+
+    def _call_llm(
+        self,
+        user_prompts: Sequence[str],
+        key: DocumentKey,
+        batch_index: int,
+        attempt: int,
+    ) -> Any | None:
+        """Call the LLM and handle provider-level exceptions.
+
+        The function mirrors the existing behaviour: when the provider reports
+        quota exhaustion we print a message and either re-raise (if
+        `fail_on_quota` is set) or treat as non-fatal (return None). When the
+        provider indicates an HTTP 503 Service Unavailable we treat this as a
+        fatal error and re-raise the underlying exception so the caller can
+        abort the run.
+        """
+        try:
+            return self.llm_service.generate(user_prompts, filter_json=True)
+        except LLMQuotaError as exc:
+            print(f"    Provider quota exhausted: {exc}")
+            if self.fail_on_quota:
+                raise
+            return None
+        except Exception as e:
+            # Abort on 503 Service Unavailable by re-raising the exception.
+            if self._is_503_error(e):
+                print(f"    Provider service unavailable (503): {e}")
+                raise
+            # Non-fatal provider errors are printed and cause the batch to be
+            # skipped (return None), which mirrors the behaviour of the
+            # previous inlined try/except.
+            print(f"    Error calling LLM: {e}")
+            return None
 
     @staticmethod
     def _is_page_grouped_response(response: dict[Any, Any]) -> bool:
