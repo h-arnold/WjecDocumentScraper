@@ -1,0 +1,9 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,9,pseudo code,"...st appropriate to use. | |  | • | using **pseudo code**, design and document the following rout...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Pseudo code is a correct term in educational contexts.
+1,9,pseudo code,...ners should be familiar with the use of **pseudo code** and must refrain from using any Python ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Pseudo code is a correct term in educational contexts.
+2,18,',...hers including Inside the CPU: Unplugged**'** and a card activity to introduce the co...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Unmatched quotation mark in the text.
+3,19,meets,... To consider programming solutions that **meets** a set of requirements. |  | | 2.2.1 Des...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,Incorrect verb form; should be 'meet' instead of 'meets'.
+4,20,meets,... To consider programming solutions that **meets** a set of requirements. Learners should ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,Incorrect verb form; should be 'meet' instead of 'meets'.
+5,22,pre release,...ion making and reflective thinking. The **pre release** brief will give learners the opportunit...,PassCode.LTC,ErrorCategory.PARSING_ERROR,85,Incorrect spelling; should be 'pre-release' instead of 'pre release'.
+6,28,dice,"...l game. For example, randomisation of a **dice** roll, rock/paper/scissors. Games that c...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Dice is a correct term in educational contexts.
+7,33,groupwork,"... with different ideas and  By promoting **groupwork** to implement and solve problems, this c...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Groupwork is a correct term in educational contexts.

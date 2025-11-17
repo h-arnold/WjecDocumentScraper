@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,3,user friendly,"... They have requested that the system be **user friendly** and therefore, require you to develop a...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The term 'user friendly' is a correct and widely accepted compound adjective in UK English.
