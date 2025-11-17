@@ -236,7 +236,83 @@ class MistralLLM(LLMProvider):
             if temp_path is not None:
                 with contextlib.suppress(FileNotFoundError):
                     temp_path.unlink()
+                    def _parse_batch_results(
+                        self,
+                        line_data: Sequence[str],
+                        id_map: dict[str, int],
+                        apply_filter: bool,
+                    ) -> list[Any]:
+                        """Parse JSONL lines from a Mistral batch job output.
 
+                        Returns a list of parsed responses in the original batch order. Raises
+                        LLMProviderError if any lines are invalid or the job returned incomplete results.
+                        """
+                        # Determine expected result list length based on highest index in id_map
+                        expected_length = max(id_map.values()) + 1 if id_map else 0
+                        results: list[Any] = [None] * expected_length
+                        encountered_errors: list[str] = []
+
+                        for raw_line in line_data:
+                            if not raw_line:
+                                continue
+                            try:
+                                record = json.loads(raw_line)
+                            except json.JSONDecodeError as decode_error:
+                                encountered_errors.append(f"Invalid JSON line: {decode_error}")
+                                continue
+
+                            custom_id = record.get("custom_id")
+                            if custom_id not in id_map:
+                                # Unknown line (perhaps from a different job); ignore
+                                continue
+                            target_index = id_map[custom_id]
+
+                            error_entry = record.get("error")
+                            if error_entry:
+                                encountered_errors.append(f"{custom_id}: {error_entry}")
+                                continue
+
+                            response_block = record.get("response") or {}
+                            status_code = response_block.get("status_code")
+                            if status_code and status_code != 200:
+                                encountered_errors.append(f"{custom_id}: response status {status_code}")
+                                continue
+
+                            body = response_block.get("body")
+                            if not isinstance(body, dict):
+                                encountered_errors.append(f"{custom_id}: missing response body")
+                                continue
+
+                            try:
+                                conversation = models.ConversationResponse.model_validate(body)
+                            except Exception as validation_error:  # pragma: no cover - defensive
+                                encountered_errors.append(
+                                    f"{custom_id}: invalid conversation payload ({validation_error})"
+                                )
+                                continue
+
+                            if apply_filter:
+                                try:
+                                    results[target_index] = self._parse_response_json(conversation)
+                                except Exception as parse_error:
+                                    encountered_errors.append(f"{custom_id}: JSON parsing error ({parse_error})")
+                            else:
+                                results[target_index] = conversation
+
+                        missing = [idx for idx, value in enumerate(results) if value is None]
+                        if missing or encountered_errors:
+                            details: list[str] = []
+                            if encountered_errors:
+                                details.append("; ".join(encountered_errors))
+                            if missing:
+                                details.append(
+                                    "Missing responses for indices: " + ", ".join(str(i) for i in missing)
+                                )
+                            raise LLMProviderError(
+                                "Mistral batch job returned incomplete results: " + "; ".join(details)
+                            )
+
+                        return results
     def health_check(self) -> bool:
         return True
 
@@ -314,7 +390,7 @@ class MistralLLM(LLMProvider):
                 {
                     "custom_id": custom_id,
                     "method": "POST",
-                    "url": "/v1/conversations",
+                    "url": self._BATCH_ENDPOINT,
                     "body": body,
                 }
             )
@@ -381,15 +457,25 @@ class MistralLLM(LLMProvider):
         return [line for line in text.splitlines() if line.strip()]
 
     def _download_file_text(self, file_id: str) -> str:
-        response = self._client.files.download(file_id=file_id)
-        try:
-            content = response.text
-        except AttributeError:  # pragma: no cover - httpx compatibility
-            content = response.read().decode("utf-8")  # type: ignore[call-arg]
-        finally:
-            with contextlib.suppress(Exception):
-                response.close()  # type: ignore[attr-defined]
-        return content
+        response_obj = self._client.files.download(file_id=file_id)
+
+        # If the SDK's response is a context manager (e.g., httpx.Response),
+        # use it to ensure deterministic cleanup. Otherwise, fall back to manual closing.
+        if hasattr(response_obj, "__enter__") and callable(getattr(response_obj, "__enter__")):
+            with response_obj as response:
+                try:
+                    return response.text
+                except AttributeError:  # pragma: no cover - httpx compatibility
+                    return response.read().decode("utf-8")  # type: ignore[call-arg]
+        else:
+            try:
+                try:
+                    return response_obj.text
+                except AttributeError:  # pragma: no cover - httpx compatibility
+                    return response_obj.read().decode("utf-8")  # type: ignore[call-arg]
+            finally:
+                with contextlib.suppress(Exception):
+                    response_obj.close()  # type: ignore[attr-defined]
 
     def _is_quota_error(self, exc: Exception) -> bool:
         return getattr(exc, "status_code", None) == 429
