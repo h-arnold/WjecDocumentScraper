@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,2,user friendly,...st challenging - will this be made more **user friendly**?**  A: There is no longer a separate 'c...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'User friendly' is a correct and widely accepted compound adjective in UK English.

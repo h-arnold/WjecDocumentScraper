@@ -44,7 +44,23 @@ class _DummyChat:
 
 class _DummyClient:
     def __init__(self, response_content: Any = "mock-response") -> None:
-        self.chat = _DummyChat(response_content=response_content)
+        # Newer Mistral SDK includes a `beta.conversations.start` API.
+        # Provide a `beta.conversations.start` compatible test client instead
+        # of `chat.complete` to match production usage.
+        class _Conversations:
+            def __init__(self, response_content: Any = "mock-response") -> None:
+                self.calls: list[dict[str, object]] = []
+                self._response_content = response_content
+
+            def start(self, **kwargs: object) -> _DummyResponse:
+                self.calls.append(kwargs)
+                return _DummyResponse(content=self._response_content)
+
+        class _Beta:
+            def __init__(self, response_content: Any = "mock-response") -> None:
+                self.conversations = _Conversations(response_content=response_content)
+
+        self.beta = _Beta(response_content=response_content)
 
 
 class _QuotaExceededError(Exception):
@@ -65,21 +81,23 @@ def test_generate_joins_prompts_and_sets_config(tmp_path: Path) -> None:
 
     assert isinstance(result, _DummyResponse)
     assert result.choices[0].message.content == "mock-response"
-    assert len(client.chat.calls) == 1
-    call = client.chat.calls[0]
+    # Check the new beta.conversations.start call was made
+    assert len(client.beta.conversations.calls) == 1
+    call = client.beta.conversations.calls[0]
     assert call["model"] == llm.MODEL
     
     # Check messages structure
-    messages = call["messages"]
-    assert len(messages) == 2
-    assert messages[0].role == "system"
-    assert messages[0].content == system_text
-    assert messages[1].role == "user"
-    assert messages[1].content == "Line one\nLine two"
-    
-    # Check thinking mode is enabled
-    assert call["prompt_mode"] == "reasoning"
-    assert call["temperature"] == 0.2
+    inputs = call["inputs"]
+    assert isinstance(inputs, list)
+    # we match the SDK example: system instructions are sent via the
+    # `instructions` parameter and the inputs list contains user messages.
+    assert call["instructions"] == system_text
+    assert inputs[0]["role"] == "user"
+    assert inputs[0]["content"] == "Line one\nLine two"
+
+    # Check completion args contain the low temperature
+    completion_args = call.get("completion_args", {})
+    assert completion_args.get("temperature") == 0.2
 def test_mistral_api_key_is_passed_to_sdk_from_env(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
     """Ensure that MistralLLM reads MISTRAL_API_KEY and passes it to the Mistral SDK."""
     # Arrange: set the env var that MistralLLM should pick up
@@ -211,18 +229,70 @@ def test_generate_raises_when_response_has_no_content(tmp_path: Path) -> None:
         llm.generate(["Prompt"])
 
 
+def test_generate_parses_outputs_shape_with_code_fence(tmp_path: Path) -> None:
+    """When the Mistral beta API returns an `outputs` list containing a
+    fenced codeblock with JSON, we should extract and repair it correctly.
+    """
+    system_prompt_path = tmp_path / "system.md"
+    system_prompt_path.write_text("System", encoding="utf-8")
+
+    # Create a response object whose `outputs` property contains an item
+    # with a `content` string including a fenced JSON codeblock.
+    class _OutItem:
+        def __init__(self, content: Any) -> None:
+            self.content = content
+
+    class _OutResponse:
+        def __init__(self, outputs: list) -> None:
+            self.outputs = outputs
+
+    class _OutputsClient:
+        def __init__(self, response: _OutResponse) -> None:
+            class _Conversations:
+                def __init__(self, response: _OutResponse) -> None:
+                    self._response = response
+
+                def start(self, **kwargs: object) -> _OutResponse:
+                    return self._response
+
+            class _Beta:
+                def __init__(self, response: _OutResponse) -> None:
+                    self.conversations = _Conversations(response)
+
+            self.beta = _Beta(response)
+
+    # Fenced JSON content (with trailing comma and code fences)
+    fenced_json = "```json\n[ {\n  \"issue_id\": 10,\n  \"reasoning\": \"Missing hyphen\"\n} ]\n```"
+    outputs_response = _OutResponse(outputs=[_OutItem(fenced_json)])
+    client = _OutputsClient(response=outputs_response)
+
+    llm = MistralLLM(
+        system_prompt=system_prompt_path,
+        client=cast(Mistral, client),
+        filter_json=True,
+    )
+
+    result = llm.generate(["Prompt"])
+
+    assert isinstance(result, list)
+    assert result[0]["issue_id"] == 10
+
+
 def test_generate_raises_quota_error_on_429(tmp_path: Path) -> None:
     """Test that HTTP 429 status codes are converted to LLMQuotaError."""
     system_prompt_path = tmp_path / "system.md"
     system_prompt_path.write_text("System", encoding="utf-8")
     
     class _QuotaChat:
-        def complete(self, **kwargs: object) -> None:
+        def start(self, **kwargs: object) -> None:
             raise _QuotaExceededError("Rate limit exceeded")
     
     class _QuotaClient:
         def __init__(self) -> None:
-            self.chat = _QuotaChat()
+            class _Beta:
+                def __init__(self) -> None:
+                    self.conversations = _QuotaChat()
+            self.beta = _Beta()
     
     client = _QuotaClient()
     llm = MistralLLM(system_prompt=system_prompt_path, client=cast(Mistral, client))

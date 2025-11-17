@@ -5,7 +5,8 @@ from typing import Any, Sequence
 
 from dotenv import load_dotenv
 from mistralai import Mistral
-from mistralai import models as mistral_models
+# NOTE: We intentionally avoid marshalled SDK message classes and instead
+# use the `inputs`/`instructions` shape via `beta.conversations.start`.
 
 from .json_utils import parse_json_response
 from .provider import LLMProvider, LLMQuotaError
@@ -90,17 +91,25 @@ class MistralLLM(LLMProvider):
         apply_filter = self._filter_json if filter_json is None else filter_json
 
         # Build messages array with system message and user content
-        messages = [
-            mistral_models.SystemMessage(content=self._system_prompt),
-            mistral_models.UserMessage(content="\n".join(user_prompts)),
+        # Build inputs (role/content) structure and instructions string to match
+        # the `beta.conversations.start` shape used by the Mistral SDK examples.
+        inputs = [
+            {"role": "user", "content": "\n".join(user_prompts)}
         ]
+        instructions = self._system_prompt
 
         try:
-            response = self._client.chat.complete(
+            # Use the new `beta.conversations.start` API shape where possible.
+            # We pass `completion_args` for temperature so the call mirrors the
+            # old behaviour and keeps the temperature low by default.
+            # NOTE: The SDK may not supply `beta` on older versions; for those
+            # cases the tests inject a dummy client implementing this shape.
+            response = self._client.beta.conversations.start(
+                inputs=inputs,
+                instructions=instructions,
                 model=self.MODEL,
-                messages=messages,
-                prompt_mode="reasoning",  # Enable thinking mode
-                temperature=0.2,
+                completion_args={"temperature": 0.2},
+                tools=[],
             )
         except Exception as exc:
             # Translate Mistral SDK quota/rate-limit exceptions into the
@@ -129,17 +138,41 @@ class MistralLLM(LLMProvider):
 
     def _parse_response_json(self, response: Any) -> Any:
         """Extract and repair JSON content from a Mistral response."""
-        if not response.choices:
-            raise AttributeError("Response object has no choices.")
-        
-        choice = response.choices[0]
-        message = choice.message
-        
-        if not message.content:
-            raise AttributeError("Response message does not have content for JSON parsing.")
-        
-        text = message.content
+        # The Mistral SDK returns structured response objects. We support the
+        # two canonical shapes we expect from recent SDKs and older OpenAI-style
+        # SDK shapes (in PRECEDENCE order):
+        # 1. response.outputs -> list of MessageOutputEntry items with a
+        #    `content` attribute which is a string (often a fenced JSON block)
+        # 2. response.choices[0].message.content -> older style; keep this for
+        #    backward compatibility with the code in tests.
+        # Do not attempt speculative fallbacks for other properties.
+        text: str | None = None
+
+        # Preferred: new 'outputs' shape used by beta.conversations.start
+        if hasattr(response, "outputs") and isinstance(getattr(response, "outputs"), list):
+            for entry in getattr(response, "outputs"):
+                # Entry could be an object with a `.content` attribute or a dict
+                content_val = None
+                if isinstance(entry, dict):
+                    content_val = entry.get("content")
+                else:
+                    content_val = getattr(entry, "content", None)
+
+                if isinstance(content_val, str) and content_val.strip():
+                    text = content_val
+                    break
+
+        # Backwards-compatible: OpenAI-style `choices` property
+        if text is None and hasattr(response, "choices") and response.choices:
+            choice = response.choices[0]
+            message = getattr(choice, "message", None)
+            if message is not None:
+                maybe = getattr(message, "content", None)
+                if isinstance(maybe, str):
+                    text = maybe
+
         if not isinstance(text, str):
-            raise AttributeError("Response message content is not a string for JSON parsing.")
-        
+            raise AttributeError("Response message content is not a string for JSON parsing; expected `outputs` or `choices` shapes.")
+
+        # parse_json_response does extraction and repair of common JSON issues
         return parse_json_response(text)

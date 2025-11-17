@@ -1,0 +1,6 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,3,Wa,...                           | 22 | | App **Wa** |  | x A: Opportunities for embedding e...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing letter 'l' in 'Wales'.
+1,6,progressio,...dentity. - supporting the principles of **progressio**[n](#page-6-1)<sup>2</sup> by giving lea...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing letter 'n' in 'progression'.
+2,9,Thet,...-------------  #### **Textile design**  **Thet** textile design pathway is defined as th...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing letter 'e' in 'The'.
+3,10,threedimensional,"...the work of historical and contemporary **threedimensional** designers and makers, as well as the di...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing hyphen in 'three-dimensional'.
+4,20,1 st,...released on the WJEC Portal on December **1 st** in the final year of each series. This ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing space before 'st' in '1st'.

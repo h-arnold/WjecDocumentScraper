@@ -38,7 +38,7 @@ class _DummyChat:
         self._response_content = response_content
         self._raise_error = raise_error
 
-    def complete(self, **kwargs: object) -> _DummyResponse:
+    def start(self, **kwargs: object) -> _DummyResponse:
         self.calls.append(kwargs)
         if self._raise_error:
             raise self._raise_error
@@ -47,7 +47,10 @@ class _DummyChat:
 
 class _DummyClient:
     def __init__(self, response_content: Any = "mock-response", raise_error: Exception | None = None) -> None:
-        self.chat = _DummyChat(response_content=response_content, raise_error=raise_error)
+        class _Beta:
+            def __init__(self, response_content: Any = "mock-response", raise_error: Exception | None = None) -> None:
+                self.conversations = _DummyChat(response_content=response_content, raise_error=raise_error)
+        self.beta = _Beta(response_content=response_content, raise_error=raise_error)
 
 
 class _QuotaExceededError(Exception):

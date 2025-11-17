@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "subjects": {
+    "Art-and-Design": {
+      "gcse-art-and-design---delivery-guide.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-art-and-design---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-art-and-design---guidance-for-teaching.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "total_issues": 55
+      },
+      "gcse-art-and-design---unit-1-non-exam-assessment-pack.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-art-and-design---unit-2-externally-set-assignment.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
+      },
+      "wjec-gcse-art-and-design-specification.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      }
+    },
+    "Business": {
+      "gcse-business---delivery-guide.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      }
+    }
+  }
+}

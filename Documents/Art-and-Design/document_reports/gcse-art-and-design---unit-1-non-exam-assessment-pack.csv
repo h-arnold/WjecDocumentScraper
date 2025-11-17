@@ -1,0 +1,6 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,4,outside of,... **Supervision**  Work may be completed **outside of** the centre without direct supervision. ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Missing preposition 'the' in 'outside of the centre'.
+1,4,are,... The marking scheme for this assessment **are** included in the candidate pack.  All ma...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"'The marking scheme' is singular, so the verb should be 'is' instead of 'are'."
+2,5,the to,...Further information**  You should refer **the to** WJEC Assessment Guide / JCQ Instruction...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,Incorrect preposition usage; should be 'refer to' instead of 'refer the to'.
+3,13,",","... understand the assessment requirements,** ,** but there are rules about the kind of h...",PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Unnecessary comma after 'requirements'.
+4,14,outlines,... The guidance in the graphic below will **outlines** what your work should include.  **Produ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Outlines' should be 'outline' for subject-verb agreement.

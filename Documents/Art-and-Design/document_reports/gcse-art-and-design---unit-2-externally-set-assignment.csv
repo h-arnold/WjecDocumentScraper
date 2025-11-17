@@ -1,0 +1,10 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,3,outside of,"...t 1, no controls. Work may be completed **outside of** the centre without direct supervision. ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Correct usage of 'outside of' in this context.
+1,5,are,... The marking scheme for this assessment **are** included in the candidate pack.  All ma...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"'The marking scheme' is singular, so 'is' should be used instead of 'are'."
+2,7,outside of,...arner must not access any of their work **outside of** the designated sustained focus work ses...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Correct usage of 'outside of' in this context.
+3,7,but,... not have to be a finished piece of work** but** there should be enough completed to dem...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,Comma before 'but' is optional for clarity but not required.
+4,15,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"'Independently from' is acceptable, though 'independently of' is also correct."
+5,15,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"'Independently from' is acceptable, though 'independently of' is also correct."
+6,16,outlines,... The guidance in the graphic below will **outlines** what your work should include.  ![](_pa...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Outlines' should be 'outline' as the subject is singular.
+7,17,but,... not have to be a finished piece of work** but** there should be enough completed to dem...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,Comma before 'but' is optional for clarity but not required.
+8,35,YY,...----|------------|---------| |  | DD MM **YY** |  | Hour | Minutes | |       |        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'YY' is an acceptable abbreviation for the year in this context.
