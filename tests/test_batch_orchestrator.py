@@ -7,7 +7,6 @@ from pathlib import Path
 from typing import Any, Sequence
 from unittest.mock import MagicMock
 
-import pytest
 
 # Fix imports to work with pytest
 try:
