@@ -6,7 +6,7 @@ import sys
 import time
 from pathlib import Path
 from typing import Any, cast
-from unittest.mock import MagicMock, patch
+from unittest.mock import patch
 
 import pytest
 from google import genai
