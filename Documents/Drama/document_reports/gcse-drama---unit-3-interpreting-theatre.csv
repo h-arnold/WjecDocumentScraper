@@ -1,90 +1,90 @@
-issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
-0,6,"""","...y Queen, to dew her orbs upon the green."" - 'Farewell thou lob of spirit I'll be ...",ErrorCategory.FALSE_POSITIVE,95,"The original text correctly uses a single quote, not a double quote as identified by the tool."
-1,6,"""","... you are that shrewd and knavish sprite."" - And here my mistress. Would that he w...",ErrorCategory.FALSE_POSITIVE,95,"The original text correctly uses a single quote, not a double quote as identified by the tool."
-2,6,here,"... that shrewd and knavish sprite."" - And here my mistress. Would that he were gone."" ...",ErrorCategory.FALSE_POSITIVE,100,The word 'here' is correctly used as part of a direct quote from the play.
-3,6,"""","...re my mistress. Would that he were gone.""  Award one mark for a brief explanation...",ErrorCategory.FALSE_POSITIVE,95,"The original text correctly uses a single quote, not a double quote as identified by the tool."
-4,8,and,"...he finds all of Puck's antics very funny and they make her laugh, she enjoys recalli...",ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two parts of a compound predicate.
-5,10,and,... white. - His hair would be in a Mohican and he would have black eyeliner around his...,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two independent clauses.
-6,12,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {13}-----...,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'creditworthy' is often one word, 'not credit worthy' is an accepted idiomatic phrase in marking schemes."
-7,13,octagonal shaped,... at The Curtain Theatre. It was a large octagonal shaped building with a thrust/apron stage.  ##...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,The phrase 'octagonal shaped' is redundant; 'octagonal building' or 'octagon-shaped building' would be more concise and grammatically sound.
-8,13,or,"...le, they could be part of the set a bush or they may decide to use personal props s...",ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,The sentence structure around 'a bush or they may decide' is awkward and could be improved with clearer punctuation or rephrasing for better flow.
-9,15,credit worthy,...> |  | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  |  {16}--...,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'creditworthy' is often one word, 'not credit worthy' is an accepted idiomatic phrase in marking schemes."
-10,16,Thesus,...not score higher than band 2.**  #### **Thesus' character**  He is the Duke of Athens ...,ErrorCategory.SPELLING_ERROR,100,The character's name is misspelled; it should be 'Theseus'.
-11,17,"""","...- **""**I have, that's true, *driven* out"". - ""Look! I've got *no thing*, no singl...",ErrorCategory.STYLISTIC_PREFERENCE,70,"The bolding of only the opening quotation mark is an unusual stylistic choice, but not a grammatical or parsing error."
-12,17,no thing,"...true, *driven* out"". - ""Look! I've got *no thing*, no single thing."" - ""Yesterday you co...",ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"While 'nothing' is the standard compound word, 'no thing' might be a deliberate stylistic choice for emphasis given the following 'no single thing'."
-13,21,and,...ir would be neat and tidy in a small bun and she would have some pink lipstick on.  ...,ErrorCategory.STYLISTIC_PREFERENCE,75,"A comma before the second 'and' would improve readability, but its omission is not a grammatical error."
-14,23,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {24}-----...,ErrorCategory.PARSING_ERROR,95,'Creditworthy' should be written as a single compound word.
-15,24,Apartment,...argument.  **Location –** The Wingfield Apartment.  # **Choice of stage**  Candidates mus...,ErrorCategory.STYLISTIC_PREFERENCE,60,Capitalising 'Apartment' for a specific location within a play may be a stylistic choice consistent with other capitalised theatrical terms in the document.
-16,24,or,... could be part of the set the typewriter or they may decide to use personal props s...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'or' when joining two independent clauses.
-17,26,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {27}-----...,ErrorCategory.PARSING_ERROR,95,'Creditworthy' should be written as a single compound word.
-18,28,"""","... I said, I'm not speaking to you no more"". - ""*You're* my Best Friend, Angela."" -...",ErrorCategory.STYLISTIC_PREFERENCE,70,"The bolding of only the opening quotation mark is an unusual stylistic choice, but not a grammatical or parsing error."
-19,28,do,"...ou Wallace Wilson's Best Friend?"" - ""He don't half like her, though"".  Award one m...",ErrorCategory.FALSE_POSITIVE,100,'He don't' is a deliberate use of non-standard English to reflect character speech or dialect within a play extract.
-20,28,Audery,...e linked to the chosen line.  - To show Audery's relationship with Angela. - To show h...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-21,28,Audery,...nformation out of Angela. - To show how Audery likes to get a sly dig in.  {29}-------...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-22,29,Audery,...t**  # Suitable ideas could include:  - Audery could walk slowly with a concentrated f...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-23,30,Audery,...)(iii).  #### **Indicative content**  - Audery is walking slowly because she is intent...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-24,30,Audery,... sure she gets all the details right. - Audery could hold Angela's hand to emphasise h...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-25,30,Audery,...emphasise that they are best friends. - Audery could pretend to rock the doll to sleep...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-26,30,Audery,"...d because the ""baby"" wouldn't sleep and Audery doesn't like it when people don't liste...",ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-27,31,Audery,...a is manipulative. - She enjoys playing Audery along by not admitting immediately that...,ErrorCategory.SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
-28,32,summertime,...ould look light and pretty to emphasise summertime to help reinforce brightness before the...,ErrorCategory.FALSE_POSITIVE,95,"'Summertime' is a valid and commonly used single word in UK English, making the original spelling correct."
-29,34,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {35}-----...,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single word is the more common and preferred spelling in formal contexts."
-30,35,Audery,...### **Given circumstances**  Angela and Audery are discussing best friends and boyfrie...,ErrorCategory.SPELLING_ERROR,100,Audery is a misspelling of the common name Audrey.
-31,35,example,... identify the props they are using. For example they could be part of the set the typew...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required after the introductory phrase 'For example'.
-32,35,or,... could be part of the set the typewriter or they may decide to use personal props s...,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve readability by separating two independent clauses.
-33,35,Audery,...use personal props such as a doll which Audery and Angela could play. - Candidates sho...,ErrorCategory.SPELLING_ERROR,100,Audery is a misspelling of the common name Audrey.
-34,35,i.e,"...istic understanding of how all elements i.e stage, style, set/props work together t...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The abbreviation 'i.e.' should be followed by a comma.
-35,37,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {38}-----...,ErrorCategory.SPELLING_ERROR,95,Creditworthy should be written as a single compound word.
-36,39,"""","...artin, is that you? I'm glad I found you"". - 'I thought perhaps we should talk ab...",ErrorCategory.STYLISTIC_PREFERENCE,90,Quotation marks should be consistent; the opening single quote should be a double quote to match the closing one.
-37,39,',"..., is that you? I'm glad I found you"". - 'I thought perhaps we should talk about w...",ErrorCategory.STYLISTIC_PREFERENCE,90,The opening single quote should be a double quote for consistency with standard quotation mark usage.
-38,39,"""","...out what you want to do about returning."" - ""How long you want to leave it"". - ""W...",ErrorCategory.STYLISTIC_PREFERENCE,85,"In UK English, the period should typically be placed outside the closing quotation mark when it is not part of the quoted material."
-39,42,so,...s Martin to feel comfortable and at ease so her movements like touching him on the ...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'so' when it connects two independent clauses.
-40,44,makeup,"...have had to operate on him, I would use makeup to show how badly disfigured his face i...",ErrorCategory.FALSE_POSITIVE,95,The single-word spelling 'makeup' is an acceptable and increasingly common form for cosmetics in UK English.
-41,44,non-descript,...n:*  • Martin's costume looks basic and non-descript. He is recovering at home and since the...,ErrorCategory.FALSE_POSITIVE,95,The compound adjective 'non-descript' is correctly hyphenated.
-42,46,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {47}-----...,ErrorCategory.PARSING_ERROR,90,The term 'creditworthy' should be written as a single word.
-43,47,self image,"...hasise the main themes of the play e.g. self image, identity, peer pressure. - Remember so...",ErrorCategory.PARSING_ERROR,90,The compound noun 'self-image' should be hyphenated.
-44,47,Audery,...use personal props such as a doll which Audery and Angela could play. - Candidates sho...,ErrorCategory.SPELLING_ERROR,95,'Audery' is a likely misspelling of the common name 'Audrey'.
-45,49,credit worthy,...  |  | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  |  |  {50...,ErrorCategory.PARSING_ERROR,90,The term 'creditworthy' should be written as a single word.
-46,51,show's,"...Choose one line from the extract, which show's RAFI'S motivation. | 1 |  |  | 1 | |  |...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The word 'show's' is an incorrect contraction; it should be the verb 'shows'.
-47,51,seen,"...and marked appropriately.*   - **""**You seen a boy around here?"" - ""Oi deafo I'm tal...",ErrorCategory.FALSE_POSITIVE,95,The non-standard grammar 'You seen' is part of a direct character quote and should be preserved.
-48,51,"""","...y.*   - **""**You seen a boy around here?"" - ""Oi deafo I'm talking to you"".  Award...",ErrorCategory.FALSE_POSITIVE,95,The HTML entity `&quot;` is correctly used to represent a double quotation mark in the markdown source.
-49,52,us,...ening tone and a fast tempo. - He could us a sneering tone and a fast tempo. - He ...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The word 'us' is a misspelling of 'use' in this context.
-50,53,and,...emphasises this. Rafi thinks he is funny and his sneering facial expression would sh...,ErrorCategory.FALSE_POSITIVE,95,"The word 'and' is correctly used in the sentence, and the tool's suggestion is identical to the original text."
-51,55,1940's,...on:*  - The period I have chosen is the 1940's. - The garments Mr Ubsworth would be we...,ErrorCategory.STYLISTIC_PREFERENCE,85,"For decades, the apostrophe is generally omitted, making '1940s' the preferred stylistic choice in formal UK English."
-52,55,past time,...r Ubsworth's costume should represent a past time when everyone knew their manners. His c...,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'a past time' correctly refers to a previous era, and 'pastime' would incorrectly change the meaning."
-53,57,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {58}-----...,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single compound adjective is the more common and preferred form in formal writing."
-54,58,or,... could be part of the set e.g. a trapeze or they may decide to use personal props e...,ErrorCategory.FALSE_POSITIVE,95,"The word 'or' is correctly used as a conjunction, and the tool's suggestion is identical to the original text."
-55,60,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {61}-----...,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single compound adjective is the more common and preferred form in formal writing."
-56,62,show's,"...Choose one line from the extract, which show's JESSE'S motivation. | 1 |  |  | 1 | |  ...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The apostrophe in 'show's' is incorrect; the verb 'shows' is required here, not a possessive or contraction."
-57,62,"""","... **""**What's wrong with your arms, Alaw?"" - ""Right, come on, from the shuffle, sh...",ErrorCategory.FALSE_POSITIVE,90,"The raw Markdown uses straight quotes (`""`), which are correct for source files and typically rendered as smart quotes by the publishing system."
-58,62,ok,"...from the shuffle, shuffle, twist, twerk ok?"" - ""What did you win?"" - ""Absolutely n...",ErrorCategory.STYLISTIC_PREFERENCE,85,The abbreviation 'OK' (all caps) is the standard and preferred spelling in formal educational documents over the informal 'ok'.
-59,63,choregraphed,...se could be moving her arms around in a choregraphed dance with her facial expression showin...,ErrorCategory.SPELLING_ERROR,100,'Choregraphed' is a misspelling of the correct word 'choreographed'.
-60,64,so,...se thinks she is one of the best dancers so her movement would show a perfectly cho...,ErrorCategory.FALSE_POSITIVE,100,'So' is used correctly as a conjunction to indicate consequence.
-61,65,and,"...r to practise the dance over the weekend and now it is not looking good, she is maki...",ErrorCategory.FALSE_POSITIVE,100,'And' is used correctly as a conjunction to connect two related clauses.
-62,66,wrist band,...d be wearing trainers. She would have a wrist band on and lots of bracelets. - The trouser...,ErrorCategory.PARSING_ERROR,90,"For consistency and standard UK English usage, 'wrist band' should be written as one word, 'wristband'."
-63,66,rainbow coloured,...uperdry logo on. The wristband would be rainbow coloured and she'd have a number of silver bangl...,ErrorCategory.PARSING_ERROR,95,'Rainbow-coloured' requires a hyphen when used as a compound adjective modifying a noun.
-64,66,and,... The wristband would be rainbow coloured and she'd have a number of silver bangles o...,ErrorCategory.FALSE_POSITIVE,100,'And' is used correctly as a conjunction to connect two elements in a list.
-65,66,eye liner,...lights. She would be wearing some black eye liner.  #### *Reason:*  • Mabli is at school ...,ErrorCategory.PARSING_ERROR,95,'Eyeliner' should be written as a single word in standard UK English.
-66,66,so,...r.  #### *Reason:*  • Mabli is at school so her costume would have some aspects of ...,ErrorCategory.FALSE_POSITIVE,100,'So' is used correctly as a conjunction to indicate consequence.
-67,66,and,... I would imagine she is wearing a hoodie and it is wrapped around her almost like a ...,ErrorCategory.FALSE_POSITIVE,100,'And' is used correctly as a conjunction to connect two related clauses.
-68,66,so,...ous weekend. Mabli is a confident person so there would be elements which add to he...,ErrorCategory.FALSE_POSITIVE,100,'So' is used correctly as a conjunction to indicate consequence.
-69,68,credit worthy,...     | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {69}-----...,ErrorCategory.PARSING_ERROR,95,'Creditworthy' should be written as a single word in standard UK English.
-70,69,are,... #### **Given circumstances**  The gang are together some practising the dance.  **...,ErrorCategory.STYLISTIC_PREFERENCE,75,"In UK English, collective nouns can take a plural verb when referring to individuals within the group, making 'gang are' acceptable, though 'gang is' would also be valid."
-71,69,or,...hey could be part of the set e.g. chairs or they may decide to use personal props e...,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma after 'e.g. chairs' would improve readability, but its omission is not a strict grammatical error."
-72,71,credit worthy,.../ul> | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {72}-----...,ErrorCategory.SPELLING_ERROR,95,'Creditworthy' is a compound adjective typically written as a single word.
-73,73,show's,"...Choose one line from the extract, which show's MACK'S motivation. | 1 |  |  | 1 | |  |...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,'Show's' is incorrect; the third-person singular verb 'shows' is required here.
-74,73,Shh Cam,"...riately.*   - **""**What are you saying? Shh Cam's saying something"". - ""No way"". - ""I c...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,"An interjection like 'Shh' should be followed by punctuation (e.g., a comma or exclamation mark) when addressing someone."
-75,73,"""","...e you saying? Shh Cam's saying something"". - ""No way"". - ""I can't"". - ""I can't do...",ErrorCategory.PARSING_ERROR,100,There is an extraneous double quote mark after 'something'.
-76,75,but,... getting ready to take part in the chain but Mack is frightened so she could move aw...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
-77,75,so,...ing herself trying to make herself small so none will see her. She is worried by ev...,ErrorCategory.STYLISTIC_PREFERENCE,70,"A comma before 'so' when it introduces a clause of result improves clarity, but its absence is not a definitive error."
-78,79,credit worthy,...     | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  {80}-----...,ErrorCategory.SPELLING_ERROR,95,'Creditworthy' is a compound adjective typically written as a single word.
-79,80,or,... they could be part of the set e.g. bins or they may decide to use personal props e...,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma after 'e.g. bins' would improve readability, but its omission is not a strict grammatical error."
-80,82,credit worthy,...> |  | | 0 marks | <ul><li>Response not credit worthy / not attempted.</li></ul> |  |  {83}--...,ErrorCategory.PARSING_ERROR,100,The compound adjective 'creditworthy' should be written as a single word.
-81,84,Drop down,...lect from one of the following options: Drop down box Theatre in Education Physical Theat...,ErrorCategory.PARSING_ERROR,95,The compound adjective 'drop-down' should be hyphenated.
-82,85,makeup,"... style influenced the costume, hair and makeup - use of colour/pattern to communicate ...",ErrorCategory.STYLISTIC_PREFERENCE,90,"In UK English, 'make-up' is typically hyphenated as a noun, consistent with other uses in the document."
-83,88,well organised,... the chosen clip.</li><li>The answer is well organised and presented in a highly appropriate m...,ErrorCategory.FALSE_POSITIVE,100,'Well organised' is correctly written as two words when 'well' functions as an adverb modifying the verb 'organised'.
-84,88,well organised,...osen clip.</li><li>The answer is partly well organised and with some use of appropriate subjec...,ErrorCategory.FALSE_POSITIVE,100,'Well organised' is correctly written as two words when 'well' functions as an adverb modifying the verb 'organised'.
-85,89,credit worthy,...-------------------| | 0 | Response not credit worthy / not attempted.                       ...,ErrorCategory.PARSING_ERROR,100,The compound adjective 'creditworthy' should be written as a single word.
-86,92,onscreen,...te User Guide for candidates completing onscreen assessments. The Surpass software will ...,ErrorCategory.STYLISTIC_PREFERENCE,95,"The compound adjective 'on-screen' should be hyphenated, consistent with other uses in the document."
-87,92,',...7 days before the date of the exam. The 'Home 'screen of Surpass will contain inf...,ErrorCategory.PARSING_ERROR,100,"The HTML entity `&#x27;` should be rendered as a single apostrophe, and there is an extraneous space before the closing apostrophe."
-88,92,',... before the date of the exam. The 'Home 'screen of Surpass will contain informati...,ErrorCategory.PARSING_ERROR,100,"The HTML entity `&#x27;` should be rendered as a single apostrophe, and there is an extraneous space before the closing apostrophe."
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The closing quotation mark should be a single quote (') for consistency with the opening quote and the document's style for lines from the play.
+1,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The closing quotation mark should be a single quote (') for consistency with the opening quote and the document's style for lines from the play.
+2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"As a line from the play presented as a bullet point, the first word 'And' should be capitalised for consistency with other examples."
+3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The closing quotation mark should be a single quote (') for consistency with the opening quote and the document's style for lines from the play.
+4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity and flow in formal writing.
+5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity and flow in formal writing.
+6,,,,,SPELLING_ERROR,95,The term 'creditworthy' is typically written as a single word or hyphenated as 'credit-worthy' when used as an adjective.
+7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The compound adjective 'octagonal-shaped' should be hyphenated when preceding the noun it modifies.
+8,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'or' when it connects two independent clauses to improve clarity and flow in formal writing.
+9,,,,,SPELLING_ERROR,95,The term 'creditworthy' is typically written as a single word or hyphenated as 'credit-worthy' when used as an adjective.
+10,,,,,SPELLING_ERROR,100,"The character's name is 'Theseus', not 'Thesus'."
+11,,,,,PARSING_ERROR,95,The `&quot;` is an HTML entity that should be rendered as a standard double quote in the final document.
+12,,,,,SPELLING_ERROR,100,"The phrase 'no thing' should be written as 'nothing' in this context, as per the original play script."
+13,,,,,STYLISTIC_PREFERENCE,70,"While a comma before 'and' could be added for stylistic clarity, its omission here does not create ambiguity or a grammatical error."
+14,,,,,SPELLING_ERROR,100,'Creditworthy' is a compound adjective and should be written as a single word.
+15,,,,,FALSE_POSITIVE,90,"'Apartment' is correctly capitalized as it forms part of the proper name for a specific location, 'The Wingfield Apartment'."
+16,,,,,STYLISTIC_PREFERENCE,70,A comma before the conjunction 'or' is a stylistic choice that could improve clarity but is not grammatically mandatory here.
+17,,,,,SPELLING_ERROR,100,'Creditworthy' is a compound adjective and should be written as a single word.
+18,,,,,PARSING_ERROR,95,The `&quot;` is an HTML entity that should be rendered as a standard double quote in the final document.
+19,,,,,FALSE_POSITIVE,100,'He don't' is a colloquialism used in a direct quote from a play and should be preserved as written.
+20,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+21,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+22,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+23,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+24,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+25,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+26,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+27,,,,,SPELLING_ERROR,100,"The character's name is consistently spelled 'AUDREY' in the question, making 'Audery' a misspelling."
+28,,,,,FALSE_POSITIVE,95,"'Summertime' is a correct and commonly accepted single-word spelling in UK English, as per OED and Collins."
+29,,,,,SPELLING_ERROR,100,'Creditworthy' is correctly spelled as a single compound word when used as an adjective.
+30,,,,,FALSE_POSITIVE,95,"Audery is a character name and therefore a proper noun, which should not be flagged as a spelling error."
+31,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma after 'For example' would improve clarity, especially when introducing a clause."
+32,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,A comma before 'or' would improve clarity as it separates two distinct ideas or clauses regarding prop types.
+33,,,,,FALSE_POSITIVE,95,"Audery is a character name and therefore a proper noun, which should not be flagged as a spelling error."
+34,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The abbreviation 'i.e.' must always be followed by a comma in formal writing.
+35,,,,,SPELLING_ERROR,95,"The term 'creditworthy' should be written as a single word, as per standard UK English dictionaries (e.g., OED, Collins)."
+36,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"Quotation marks are inconsistently used, opening with a single quote and closing with a double quote; WJEC style typically uses double quotes for direct speech."
+37,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"Quotation marks are inconsistently used, opening with a single quote when the closing quote is a double quote; WJEC style typically uses double quotes for direct speech."
+38,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"Quotation marks are inconsistently used, closing with a double quote when the opening quote was a single quote; WJEC style typically uses double quotes for direct speech."
+39,,,,,ABSOLUTE_GRAMMATICAL_ERROR,85,A comma is required before 'so' when it connects two independent clauses.
+40,,,,,SPELLING_ERROR,95,"In UK English, the noun form is typically hyphenated as 'make-up'."
+41,,,,,STYLISTIC_PREFERENCE,85,'Nondescript' is the more common and preferred spelling for this word.
+42,,,,,SPELLING_ERROR,100,'Creditworthy' is a single compound adjective and should be written as one word.
+43,,,,,SPELLING_ERROR,100,'Self-image' is a compound noun and requires a hyphen.
+44,,,,,SPELLING_ERROR,100,'Audrey' is the correct spelling of the given name.
+45,,,,,SPELLING_ERROR,100,'Creditworthy' is a single compound adjective and should be written as one word.
+46,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'shows' is a verb in the third-person singular present tense, not a possessive or contraction."
+47,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,'Saw' is the grammatically correct simple past tense of 'see' in formal English.
+48,,,,,FALSE_POSITIVE,90,The closing quotation mark is correctly used and placed in the sentence.
+49,,,,,SPELLING_ERROR,100,"The word 'use' is required here as a verb, not the pronoun 'us'."
+50,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'and' would improve readability when connecting two independent clauses, but its omission is not a grammatical error."
+51,,,,,STYLISTIC_PREFERENCE,90,"The apostrophe is generally omitted when referring to decades (e.g., 1940s) in formal UK English."
+52,,,,,FALSE_POSITIVE,95,"''Past time'' is grammatically correct and appropriate in this context, referring to a period in history."
+53,,,,,SPELLING_ERROR,85,''Creditworthy'' is typically written as a single word in formal UK English.
+54,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'or' would improve readability when connecting two independent clauses, but its omission is not a grammatical error."
+55,,,,,SPELLING_ERROR,85,''Creditworthy'' is typically written as a single word in formal UK English.
+56,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word should be the verb ''shows,'' not the possessive or contracted form ''show's.''"
+57,,,,,FALSE_POSITIVE,100,The quotation mark is correctly used to denote a spoken line.
+58,,,,,STYLISTIC_PREFERENCE,80,''Okay'' is the preferred and more formal spelling in academic and official documents compared to the informal ''ok.''
+59,,,,,SPELLING_ERROR,100,The correct spelling of the word is ''choreographed.''
+60,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'so' would improve clarity and flow when connecting two independent clauses in formal writing.
+61,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'and' would improve readability and clarity when joining two independent clauses.
+62,,,,,SPELLING_ERROR,100,'Wristband' is conventionally written as a single compound word in UK English.
+63,,,,,SPELLING_ERROR,95,'Rainbow-coloured' should be hyphenated as a compound adjective modifying 'wristband'.
+64,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'and' would improve readability and clarity when joining two independent clauses.
+65,,,,,SPELLING_ERROR,100,'Eyeliner' is conventionally written as a single compound word in UK English.
+66,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'so' would improve clarity and flow when connecting two independent clauses in formal writing.
+67,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'and' would improve readability and clarity when joining two independent clauses.
+68,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'so' would improve clarity and flow when connecting two independent clauses in formal writing.
+69,,,,,SPELLING_ERROR,90,'Creditworthy' is conventionally written as a single compound word in formal UK English.
+70,,,,,FALSE_POSITIVE,90,"In British English, collective nouns like 'gang' can take a plural verb when the members are acting individually, which is implied by 'some practising the dance'."
+71,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'or' is not strictly necessary here as the clauses are not fully independent, and its omission does not cause ambiguity."
+72,,,,,SPELLING_ERROR,95,"'Creditworthy' is a compound adjective and should be written as a single word, as per Oxford English Dictionary."
+73,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The word 'show's' is an incorrect contraction or possessive; it should be the third-person singular verb 'shows'.
+74,,,,,FALSE_POSITIVE,85,"In direct speech, 'Shh Cam's' is an acceptable informal construction where 'Shh' acts as an interjection followed by a direct address."
+75,,,,,PARSING_ERROR,95,"The `&quot;` entity is a correct representation of a double quote mark, indicating a parsing error where the tool incorrectly flagged it."
+76,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
+77,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'so' when it joins two independent clauses.
+78,,,,,SPELLING_ERROR,95,"'Creditworthy' is a compound adjective and should be written as a single word, as per Oxford English Dictionary."
+79,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'or' is not strictly necessary here as the clauses are not fully independent, and its omission does not cause ambiguity."
+80,,,,,SPELLING_ERROR,95,"The compound adjective 'creditworthy' should be written as a single word in UK English, as per OED."
+81,,,,,SPELLING_ERROR,90,The compound adjective 'drop-down' should be hyphenated when modifying 'box' or used as a label for a type of option.
+82,,,,,SPELLING_ERROR,95,The noun 'make-up' is typically hyphenated in UK English and is used consistently as such elsewhere in the document.
+83,,,,,SPELLING_ERROR,95,The compound adjective 'well-organised' should be hyphenated when preceding the noun it modifies.
+84,,,,,SPELLING_ERROR,95,The compound adjective 'well-organised' should be hyphenated for consistency and clarity.
+85,,,,,SPELLING_ERROR,95,"The compound adjective 'creditworthy' should be written as a single word in UK English, as per OED."
+86,,,,,SPELLING_ERROR,95,The compound adjective 'on-screen' should be hyphenated when modifying 'assessments' in UK English.
+87,,,,,PARSING_ERROR,100,"The `&#x27;` entity and incorrect spacing (`'Home 'screen`) indicate a parsing error from the original document, which should be `'Home' screen`."
+88,,,,,PARSING_ERROR,100,"The `&#x27;` entity and incorrect spacing (`'Home 'screen`) indicate a parsing error from the original document, which should be `'Home' screen`."

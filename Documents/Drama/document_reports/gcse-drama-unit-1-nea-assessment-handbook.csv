@@ -1,11 +1,11 @@
-issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
-0,4,Proforma,...and Declaration Form - Unit 1 Programme Proforma  All information regarding the submissi...,ErrorCategory.FALSE_POSITIVE,95,Proforma is correctly used here as part of a specific document title and is a valid word.
-1,5,audio visual,...itable format):  - audio presentation - audio visual presentation - PowerPoint - written pro...,ErrorCategory.PARSING_ERROR,90,The compound adjective 'audio-visual' should be hyphenated when preceding a noun.
-2,7,has,...mining the extent to which the learners has met the criteria within the relevant ba...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has'."
-3,12,has,...mining the extent to which the learners has met the criteria within the relevant ba...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has'."
-4,12,and,...tifying individual levels of achievement and they do not correlate with grade bounda...,ErrorCategory.STYLISTIC_PREFERENCE,70,A comma before 'and' connecting two independent clauses is stylistically preferred for clarity but not strictly mandatory.
-5,16,well developed,"...in response to the chosen stimulus, are well developed to produce a refined and coherent piece...",ErrorCategory.FALSE_POSITIVE,95,"When 'well developed' follows the verb 'are' as a predicate adjective, it is correctly unhyphenated."
-6,20,makeup,"...erent characters (two costume, hair and makeup designs in total) - sketches of both co...",ErrorCategory.PARSING_ERROR,90,The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style.
-7,37,makeup,"... contribution through costume, hair and makeup design to the performance. - The overal...",ErrorCategory.PARSING_ERROR,90,The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style.
-8,38,makeup,"... contribution through costume, hair and makeup design to the performance. - The overal...",ErrorCategory.PARSING_ERROR,90,The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style.
-9,39,makeup,"... contribution through costume, hair and makeup design to the performance. • The overal...",ErrorCategory.PARSING_ERROR,90,The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style.
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,FALSE_POSITIVE,95,The term 'Proforma' is a correct English word used appropriately in this context as part of a document title.
+1,,,,,STYLISTIC_PREFERENCE,80,"The compound adjective 'audio-visual' is typically hyphenated in UK English, especially when preceding a noun, for consistency and clarity."
+2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'the learners'; it should be 'have'.
+3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'the learners'; it should be 'have'.
+4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve readability as it separates two independent clauses.
+5,,,,,FALSE_POSITIVE,90,"When 'well developed' follows the noun it modifies (predicative position), hyphenation is not typically required in UK English."
+6,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
+7,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
+8,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
+9,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.

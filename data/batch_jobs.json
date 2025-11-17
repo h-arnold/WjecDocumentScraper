@@ -15,7 +15,8 @@
       6
     ],
     "created_at": "2025-11-17T18:49:01Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/msxhzt6jnw7jv11z1fk6ahkzgznkt4d222t9": {
     "provider_name": "gemini",
@@ -32,7 +33,8 @@
       5
     ],
     "created_at": "2025-11-17T18:49:03Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/wod59kpzd3d2h2ufwe3wsp4zsckeidedorax": {
     "provider_name": "gemini",
@@ -53,7 +55,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:05Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/whkhnfn3el7a0h16kf780h3gxnwncq47mish": {
     "provider_name": "gemini",
@@ -74,7 +77,8 @@
       19
     ],
     "created_at": "2025-11-17T18:49:07Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/729cbddebxkcjo0ncnlhun9tcy459gblb1dm": {
     "provider_name": "gemini",
@@ -95,7 +99,8 @@
       29
     ],
     "created_at": "2025-11-17T18:49:08Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/ovyadt1gnhamd2yleezf7abnbq4ajjqiv185": {
     "provider_name": "gemini",
@@ -115,7 +120,8 @@
       38
     ],
     "created_at": "2025-11-17T18:49:10Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/zakh94fbxwmca7een5npqpjth3ywkiuflc3a": {
     "provider_name": "gemini",
@@ -133,7 +139,8 @@
       6
     ],
     "created_at": "2025-11-17T18:49:12Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/wcj4mydme1rzkeiai4e3t2skocb6zvxhntgq": {
     "provider_name": "gemini",
@@ -154,7 +161,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:14Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/hb2xq7v6w869aqf4mfxs1m3sdv6yx6hsmb7b": {
     "provider_name": "gemini",
@@ -175,7 +183,8 @@
       19
     ],
     "created_at": "2025-11-17T18:49:16Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/3y70poesreazldz0v4fo0aygwunb81odb9y3": {
     "provider_name": "gemini",
@@ -196,7 +205,8 @@
       29
     ],
     "created_at": "2025-11-17T18:49:18Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/i4qwqtwtftwb5cwsnbpvymta1pya2z3rgrzj": {
     "provider_name": "gemini",
@@ -217,7 +227,8 @@
       39
     ],
     "created_at": "2025-11-17T18:49:20Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/jk4nmc3c6bpek26ce8dnlak2a4iwpnjsi7qg": {
     "provider_name": "gemini",
@@ -238,7 +249,8 @@
       49
     ],
     "created_at": "2025-11-17T18:49:21Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/aapvbhjnrh5n100bq2crd4hgn0zv5991rk8o": {
     "provider_name": "gemini",
@@ -252,7 +264,8 @@
       52
     ],
     "created_at": "2025-11-17T18:49:23Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/e5afkrdbht83klhyt62lzfqf2mpz90i1jw5i": {
     "provider_name": "gemini",
@@ -265,7 +278,8 @@
       1
     ],
     "created_at": "2025-11-17T18:49:25Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/gop354p6okdia8yw312clfh7ya9cwb53nmxk": {
     "provider_name": "gemini",
@@ -286,7 +300,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:27Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/srojhjbbc3ojwdm3if2ut0sbnfyqkltabm8y": {
     "provider_name": "gemini",
@@ -307,7 +322,8 @@
       19
     ],
     "created_at": "2025-11-17T18:49:28Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/1c50ppnxbb9sxzkuyxgb52hq0cqrmk89el2l": {
     "provider_name": "gemini",
@@ -328,7 +344,8 @@
       29
     ],
     "created_at": "2025-11-17T18:49:30Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/n4iu4r4bao1c4rsymgyfs5dp044nyn7bt9yx": {
     "provider_name": "gemini",
@@ -349,7 +366,8 @@
       39
     ],
     "created_at": "2025-11-17T18:49:32Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/qpudmi66meog6rdise9d90lt3517yvcauln5": {
     "provider_name": "gemini",
@@ -361,7 +379,8 @@
       40
     ],
     "created_at": "2025-11-17T18:49:34Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/pbequml464uaphl1gr54aevito77kye6gzu9": {
     "provider_name": "gemini",
@@ -382,7 +401,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:35Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/nef9fqrpy3wi10yyhzw4t081osunioqadiyb": {
     "provider_name": "gemini",
@@ -399,7 +419,8 @@
       15
     ],
     "created_at": "2025-11-17T18:49:37Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/632nu33aa9c1bumph9hnbijk5o10uj04ctc7": {
     "provider_name": "gemini",
@@ -420,7 +441,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:39Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/dc3cm0hbzl0sri5qa0j74bfgz4d6ohmz4bjs": {
     "provider_name": "gemini",
@@ -441,7 +463,8 @@
       19
     ],
     "created_at": "2025-11-17T18:49:41Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/5pui2h47bozloaonfw9y2ckm0vh4nfxchorr": {
     "provider_name": "gemini",
@@ -462,7 +485,8 @@
       29
     ],
     "created_at": "2025-11-17T18:49:43Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/e4feyhx3eylzcfue9vf60ruxaoag848sh9g0": {
     "provider_name": "gemini",
@@ -483,7 +507,8 @@
       39
     ],
     "created_at": "2025-11-17T18:49:45Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/6rq40zzykvsquk81fkbj4ud5gufvdbv2hkdh": {
     "provider_name": "gemini",
@@ -504,7 +529,8 @@
       49
     ],
     "created_at": "2025-11-17T18:49:46Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/kjo7vrjj2xdrevl2akyyl0s7as9o2q121khn": {
     "provider_name": "gemini",
@@ -525,7 +551,8 @@
       59
     ],
     "created_at": "2025-11-17T18:49:48Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/uxc8lvphrru01fzqe9wtnffn9k8abvpwtkya": {
     "provider_name": "gemini",
@@ -546,7 +573,8 @@
       69
     ],
     "created_at": "2025-11-17T18:49:50Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/jzh9s4w3znc89aokgpydye1qfl3ql9ylw0mt": {
     "provider_name": "gemini",
@@ -567,7 +595,8 @@
       79
     ],
     "created_at": "2025-11-17T18:49:52Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/dgpov3tnd2aja44os68g03k0714zggju95z2": {
     "provider_name": "gemini",
@@ -587,7 +616,8 @@
       88
     ],
     "created_at": "2025-11-17T18:49:53Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/e6j7aikkzl4a04v8olp25vsb24gr3jxzyzsp": {
     "provider_name": "gemini",
@@ -608,7 +638,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:55Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/oe25bv8radyjd0do5eizx69alimrdjpm5m7i": {
     "provider_name": "gemini",
@@ -623,7 +654,8 @@
       3
     ],
     "created_at": "2025-11-17T18:49:57Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/r0fkfw8e6ybmx9dumfnnjzc21c0ytstdd5r6": {
     "provider_name": "gemini",
@@ -644,7 +676,8 @@
       9
     ],
     "created_at": "2025-11-17T18:49:59Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/mzowso93dgmg1ujcyp8b618xyp9vupgl8mx9": {
     "provider_name": "gemini",
@@ -659,7 +692,8 @@
       13
     ],
     "created_at": "2025-11-17T18:50:00Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/8j2338u9rionrca91sozlc6igtiteuyllfr5": {
     "provider_name": "gemini",
@@ -680,7 +714,8 @@
       9
     ],
     "created_at": "2025-11-17T18:50:02Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   },
   "batches/jop2v1agx5b0c09ywczjuh7vpfevri839hv5": {
     "provider_name": "gemini",
@@ -694,6 +729,7 @@
       12
     ],
     "created_at": "2025-11-17T18:50:04Z",
-    "status": "failed"
+    "status": "completed",
+    "error_message": "No valid results after processing"
   }
 }

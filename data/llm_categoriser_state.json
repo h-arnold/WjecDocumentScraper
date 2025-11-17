@@ -442,6 +442,109 @@
         ],
         "total_issues": 22
       }
+    },
+    "Drama": {
+      "gcse-drama---delivery-guide.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-drama---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-drama---guidance-for-teaching-unit-1.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 9
+      },
+      "gcse-drama---guidance-for-teaching-unit-2.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-drama---guidance-for-teaching-unit-3.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "total_issues": 3
+      },
+      "gcse-drama---option-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-drama---unit-1-non-exam-assessment-pack-sample.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 1
+      },
+      "gcse-drama---unit-2-non-exam-assessment-pack-sample.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 6
+      },
+      "gcse-drama---unit-3-interpreting-theatre.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "total_issues": 9
+      },
+      "gcse-drama-unit-1-nea-assessment-handbook.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-drama-unit-2-nea-assessment-handbook.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "wjec-gcse-drama-specification.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      }
     }
   }
 }

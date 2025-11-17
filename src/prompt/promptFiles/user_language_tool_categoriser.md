@@ -36,4 +36,6 @@ Review each page excerpt before making decisions. Pages appear in ascending orde
 
 ---
 
-**REMEMBER**: Use the authoritative sources and error descriptions provided to categorise each issue accurately. You are assessing a piece of formal writing where the highest spelling and grammatical standards are expected.
+**REMEMBER**: Use the error descriptions provided to categorise each issue accurately. You are assessing a piece of formal writing where the highest spelling and grammatical standards are expected.
+
+Always categrise hypenation errors as parsing errors. This is a comman issue with the PDF to markdown coverter.

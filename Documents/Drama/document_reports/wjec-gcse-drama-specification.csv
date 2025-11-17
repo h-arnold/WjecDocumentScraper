@@ -1,14 +1,14 @@
-issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
-0,2,INTF,...-------------------------|----| | 1   | INTF                          | RODUCTION   ...,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two columns in the table of contents.
-1,2,RODUCTION,...| 1   | INTF                          | RODUCTION                                        ...,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two columns in the table of contents.
-2,2,ortunities,...|     | Орр                           | ortunities for integration of learning experiences...,ErrorCategory.PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across two columns in the table of contents, and 'Орр' is a mischaracterisation of 'Opp'."
-3,2,ESSMENT,...| 3   | ASS                           | ESSMENT                                        ...,ErrorCategory.PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two columns in the table of contents.
-4,2,HNICAL,...| 5   | TEC                           | HNICAL INFORMATION                            ...,ErrorCategory.PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two columns in the table of contents.
-5,2,endi,...                         | 22 | | App | endi                          | x A: Opportu...,ErrorCategory.PARSING_ERROR,100,The word 'Appendix' has been incorrectly split across two columns in the table of contents.
-6,2,Wa,...elements of the Curriculum for |    | | Wa  | les                           |     ...,ErrorCategory.PARSING_ERROR,100,The word 'Wales' has been incorrectly split across two columns in the table of contents.
-7,2,les,...ts of the Curriculum for |    | | Wa  | les                           |            ...,ErrorCategory.PARSING_ERROR,100,The word 'Wales' has been incorrectly split across two columns in the table of contents.
-8,2,endi,...                         | 23 | | App | endi                          | x B: Glossar...,ErrorCategory.PARSING_ERROR,100,The word 'Appendix' has been incorrectly split across two columns in the table of contents.
-9,6,and,...developing artistic skills and knowledge and it enables learners to become curious a...,ErrorCategory.FALSE_POSITIVE,95,"The conjunction 'and' is used correctly to link two parallel clauses within the sentence, and no comma is strictly required."
-10,9,on-going,...spond to the feedback from others as an on-going process throughout the development peri...,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'on-going' is not incorrect, 'ongoing' as a single word is the more common and preferred spelling in modern UK English."
-11,13,live streamed,...flecting linked to live and/or recorded/live streamed performances as possible theatrical inf...,ErrorCategory.PARSING_ERROR,95,"When used as a compound adjective modifying 'performances', 'live-streamed' should be hyphenated for clarity and grammatical correctness."
-12,25,Flood light,.../out)  Fade  Crossfade  **Spotlight**   Flood light  Follow spot  Lights up  Lights down  P...,ErrorCategory.PARSING_ERROR,95,"'Floodlight' is conventionally written as a single word, consistent with other lighting terms like 'spotlight'."
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,The word 'INTRODUCTION' has been incorrectly split into 'INTF' and 'RODUCTION' due to a parsing error.
+1,,,,,PARSING_ERROR,95,The word 'INTRODUCTION' has been incorrectly split into 'INTF' and 'RODUCTION' due to a parsing error.
+2,,,,,PARSING_ERROR,95,"The word 'Opportunities' has been incorrectly split into 'Орр' and 'ortunities', and 'Орр' uses a Cyrillic 'O' due to a parsing error."
+3,,,,,PARSING_ERROR,95,The word 'ASSESSMENT' has been incorrectly split into 'ASS' and 'ESSMENT' due to a parsing error.
+4,,,,,PARSING_ERROR,95,The word 'TECHNICAL' has been incorrectly split into 'TEC' and 'HNICAL' due to a parsing error.
+5,,,,,PARSING_ERROR,95,The word 'Appendix' has been incorrectly split into 'App' and 'endi' due to a parsing error.
+6,,,,,PARSING_ERROR,95,The word 'Wales' has been incorrectly split into 'Wa' and 'les' due to a parsing error.
+7,,,,,PARSING_ERROR,95,The word 'Wales' has been incorrectly split into 'Wa' and 'les' due to a parsing error.
+8,,,,,PARSING_ERROR,95,The word 'Appendix' has been incorrectly split into 'App' and 'endi' due to a parsing error.
+9,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity and flow.
+10,,,,,STYLISTIC_PREFERENCE,85,"While 'on-going' is not strictly incorrect, 'ongoing' (one word) is the more common and preferred spelling in modern UK English, especially in formal documents."
+11,,,,,STYLISTIC_PREFERENCE,80,"When used as a compound adjective preceding a noun, 'live-streamed' (hyphenated) is generally preferred for clarity and adherence to formal style."
+12,,,,,SPELLING_ERROR,95,"'Floodlight' is a single compound word, not two separate words, as confirmed by standard UK English dictionaries (e.g., OED, Collins)."

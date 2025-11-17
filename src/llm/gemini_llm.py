@@ -291,18 +291,32 @@ class GeminiLLM:
                 raise ValueError(f"Request {idx} in batch job {batch_job_name} has no response.")
             
             # Check metadata to see if JSON filtering should be applied
-            # Note: metadata is from the original request, stored in batch_job.src
+            # Note: The Gemini API doesn't preserve batch_job.src, so we can't rely on metadata.
+            # Instead, we'll try to parse as JSON if the response looks like it contains JSON.
+            # This is a reasonable default since we typically use filter_json=True for batch jobs.
             apply_filter = False
-            if (batch_job.src and 
-                batch_job.src.inlined_requests and 
-                idx < len(batch_job.src.inlined_requests)):
+            if batch_job.src and batch_job.src.inlined_requests and idx < len(batch_job.src.inlined_requests):
                 request_metadata = batch_job.src.inlined_requests[idx].metadata
                 if request_metadata:
-                    apply_filter = request_metadata.get("filter_json", "false") == "true"
+                    filter_value = request_metadata.get("filter_json", "false")
+                    apply_filter = filter_value == "true"
+            else:
+                # No metadata available, try to detect if response contains JSON
+                # Check if response has text that looks like JSON
+                if hasattr(response, 'text'):
+                    text = response.text.strip()
+                    # Check if it starts with JSON markers (possibly wrapped in code fences)
+                    if text.startswith('{') or text.startswith('[') or '```json' in text:
+                        apply_filter = True
             
             if apply_filter:
-                parsed_result = self._parse_response_json(response)
-                results.append(parsed_result)
+                try:
+                    parsed_result = self._parse_response_json(response)
+                    results.append(parsed_result)
+                except (ValueError, json.JSONDecodeError, AttributeError) as e:
+                    # If JSON parsing fails, return the raw response
+                    print(f"Warning: Could not parse JSON from batch response {idx}: {e}")
+                    results.append(response)
             else:
                 results.append(response)
         

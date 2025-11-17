@@ -1,8 +1,8 @@
-issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
-0,4,on-going,...spond to the feedback from others as an on-going process throughout the development peri...,ErrorCategory.PARSING_ERROR,95,The compound adjective 'on-going' should be hyphenated when modifying a noun like 'process'.
-1,8,live streamed,...flecting linked to live and/or recorded/live streamed performances as possible theatrical inf...,ErrorCategory.PARSING_ERROR,95,The compound adjective 'live-streamed' should be hyphenated when modifying 'performances'.
-2,14,and,...pected to demonstrate in their responses and they are then used in marking the work....,ErrorCategory.STYLISTIC_PREFERENCE,70,"While a comma before 'and' can improve clarity when joining independent clauses, its omission here is not an absolute grammatical error."
-3,14,ly,...ld be considered and marked appropriate*ly.*  - An angry tone and a fast tempo to ...,ErrorCategory.PARSING_ERROR,100,"The asterisk is a formatting error, incorrectly breaking the word 'appropriately'."
-4,16,credit worthy,...  |  | | 0 marks | <ul><li>Response not credit worthy / not attempted</li></ul> |  |  |  {17}...,ErrorCategory.PARSING_ERROR,95,The term 'creditworthy' should be written as a single compound word when used as an adjective.
-5,19,three dimensional,...t and control - naturalistic movement - three dimensional characters. - Brecht: - direct address ...,ErrorCategory.PARSING_ERROR,95,The compound adjective 'three-dimensional' should be hyphenated when modifying 'characters'.
-6,23,Flood light,...e (in/out)  Fade  Crossfade  Spotlight  Flood light  Follow spot  Lights up  Lights down  P...,ErrorCategory.PARSING_ERROR,95,The term 'floodlight' is typically written as a single compound word in theatrical and technical contexts.
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,STYLISTIC_PREFERENCE,80,"While 'on-going' is acceptable, 'ongoing' (one word) is the more common and preferred spelling in modern UK English for this adjective."
+1,,,,,SPELLING_ERROR,95,"As a compound adjective modifying 'performances,' 'live-streamed' should be hyphenated."
+2,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'and' when it connects two independent clauses to improve readability in formal writing.
+3,,,,,PARSING_ERROR,100,The asterisk is a parsing error; the word should be 'appropriately' without any special characters.
+4,,,,,STYLISTIC_PREFERENCE,85,'Creditworthy' (one word) or 'credit-worthy' (hyphenated) is the standard spelling for this compound adjective.
+5,,,,,SPELLING_ERROR,95,"As a compound adjective modifying 'characters,' 'three-dimensional' should be hyphenated."
+6,,,,,SPELLING_ERROR,95,'Floodlight' is a compound noun and should be written as a single word.

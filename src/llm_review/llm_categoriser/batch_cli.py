@@ -155,6 +155,9 @@ Examples:
 
   # List only completed jobs
   python -m src.llm_review.llm_categoriser batch-list --status completed
+  
+  # List failed jobs with error details
+  python -m src.llm_review.llm_categoriser batch-list --status failed --show-errors
         """,
     )
     
@@ -165,10 +168,49 @@ Examples:
     )
     
     list_parser.add_argument(
+        "--show-errors",
+        action="store_true",
+        help="Display error messages for failed jobs",
+    )
+    
+    list_parser.add_argument(
         "--tracking-file",
         type=Path,
         default=Path("data/batch_jobs.json"),
         help="Path to job tracking file",
+    )
+    
+    # Refresh error details subcommand
+    refresh_parser = subparsers.add_parser(
+        "batch-refresh-errors",
+        help="Fetch and update error details for failed jobs",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Refresh error details for all failed jobs
+  python -m src.llm_review.llm_categoriser batch-refresh-errors
+
+  # Refresh specific job
+  python -m src.llm_review.llm_categoriser batch-refresh-errors --job-name batches/abc123...
+        """,
+    )
+    
+    refresh_parser.add_argument(
+        "--job-name",
+        help="Specific job name to refresh (if not provided, refreshes all failed jobs)",
+    )
+    
+    refresh_parser.add_argument(
+        "--tracking-file",
+        type=Path,
+        default=Path("data/batch_jobs.json"),
+        help="Path to job tracking file",
+    )
+    
+    refresh_parser.add_argument(
+        "--dotenv",
+        type=Path,
+        help="Path to .env file for API keys",
     )
 
 
@@ -345,10 +387,120 @@ def handle_batch_list(args: argparse.Namespace) -> int:
             batch_size=10,
         )
         
-        orchestrator.list_jobs(status_filter=args.status)
+        orchestrator.list_jobs(
+            status_filter=args.status,
+            show_errors=args.show_errors
+        )
         
         return 0
         
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
+        return 1
+
+
+def handle_batch_refresh_errors(args: argparse.Namespace) -> int:
+    """Handle batch-refresh-errors subcommand.
+    
+    Args:
+        args: Parsed command-line arguments
+        
+    Returns:
+        Exit code (0 for success, 1 for error)
+    """
+    # Load environment
+    from dotenv import load_dotenv
+    if args.dotenv:
+        load_dotenv(dotenv_path=str(args.dotenv), override=True)
+    else:
+        load_dotenv(override=True)
+    
+    try:
+        tracker = BatchJobTracker(args.tracking_file)
+        
+        # Set up LLM service - we only need it for status checks
+        # Use empty system prompt since we're not generating
+        providers = create_provider_chain(
+            system_prompt="",
+            filter_json=False,
+            dotenv_path=None,
+            primary=None,
+        )
+        llm_service = LLMService(providers)
+        
+        # Get jobs to refresh
+        if args.job_name:
+            job = tracker.get_job(args.job_name)
+            if not job:
+                print(f"Error: Job {args.job_name} not found", file=sys.stderr)
+                return 1
+            jobs_to_refresh = [job]
+        else:
+            # Get all failed jobs
+            all_jobs = tracker.get_all_jobs()
+            jobs_to_refresh = [j for j in all_jobs if j.status == "failed"]
+        
+        if not jobs_to_refresh:
+            print("No failed jobs to refresh")
+            return 0
+        
+        print(f"Refreshing error details for {len(jobs_to_refresh)} job(s)...\n")
+        
+        updated = 0
+        skipped = 0
+        actually_succeeded = 0
+        
+        for job in jobs_to_refresh:
+            job_name = job.job_name
+            print(f"Checking {job_name[:16]}... ({job.subject}/{job.filename})")
+            
+            try:
+                # Fetch current status from API
+                status = llm_service.get_batch_job_status(
+                    job.provider_name,
+                    job_name
+                )
+                
+                # Check actual job state
+                if hasattr(status, 'state'):
+                    state_name = str(status.state)
+                    
+                    # If job actually succeeded, update status
+                    if 'SUCCEEDED' in state_name:
+                        print(f"  Job actually succeeded! Updating status...")
+                        tracker.update_job_status(job_name, "pending")  # Reset to pending so batch-fetch can process it
+                        actually_succeeded += 1
+                        continue
+                
+                # Check if there's an error message
+                if hasattr(status, 'error') and status.error:
+                    error_msg = str(status.error)
+                    print(f"  Error: {error_msg}")
+                    tracker.update_job_status(job_name, "failed", error_msg)
+                    updated += 1
+                else:
+                    print(f"  No error details available (job state: {status.state if hasattr(status, 'state') else 'unknown'})")
+                    skipped += 1
+                    
+            except Exception as e:
+                print(f"  Error fetching status: {e}")
+                skipped += 1
+        
+        print(f"\n{'=' * 60}")
+        print(f"Summary:")
+        print(f"  Updated with errors: {updated}")
+        print(f"  Actually succeeded (reset to pending): {actually_succeeded}")
+        print(f"  Skipped: {skipped}")
+        print(f"{'=' * 60}")
+        
+        if actually_succeeded > 0:
+            print(f"\nNote: {actually_succeeded} job(s) were reset to pending.")
+            print("Run 'batch-fetch --check-all-pending' to process them.")
+        
+        return 0
+        
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        import traceback
+        traceback.print_exc()
         return 1

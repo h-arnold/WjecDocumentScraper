@@ -35,6 +35,7 @@ class BatchJobMetadata:
         issue_ids: List of issue IDs in this batch
         created_at: ISO timestamp when job was created
         status: Current status ("pending", "completed", "failed")
+        error_message: Optional error message for failed jobs
     """
     
     provider_name: str
@@ -45,6 +46,7 @@ class BatchJobMetadata:
     issue_ids: list[int]
     created_at: str
     status: str = "pending"
+    error_message: str | None = None
 
 
 class BatchJobTracker:
@@ -87,10 +89,18 @@ class BatchJobTracker:
         self._data[metadata.job_name] = asdict(metadata)
         self._save()
     
-    def update_job_status(self, job_name: str, status: str) -> None:
-        """Update the status of a tracked job."""
+    def update_job_status(self, job_name: str, status: str, error_message: str | None = None) -> None:
+        """Update the status of a tracked job.
+        
+        Args:
+            job_name: The job name to update
+            status: New status value
+            error_message: Optional error message for failed jobs
+        """
         if job_name in self._data:
             self._data[job_name]["status"] = status
+            if error_message is not None:
+                self._data[job_name]["error_message"] = error_message
             self._save()
     
     def get_job(self, job_name: str) -> BatchJobMetadata | None:
@@ -285,6 +295,14 @@ class BatchOrchestrator:
                     still_pending += 1
                     continue
                 
+                # Check if job failed at the batch level
+                if hasattr(status, 'error') and status.error:
+                    error_msg = str(status.error)
+                    print(f"  Error: Batch job failed - {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
+                    failed += 1
+                    continue
+                
                 # Job is done, fetch results
                 results = self.llm_service.fetch_batch_results(
                     job_metadata.provider_name,
@@ -294,8 +312,9 @@ class BatchOrchestrator:
                 # Results is a sequence of responses (one per request in the batch)
                 # Since we send one request per batch, we get one response
                 if not results or len(results) == 0:
-                    print(f"  Error: No results returned")
-                    self.tracker.update_job_status(job_name, "failed")
+                    error_msg = "No results returned"
+                    print(f"  Error: {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
                     failed += 1
                     continue
                 
@@ -325,13 +344,15 @@ class BatchOrchestrator:
                     self.tracker.update_job_status(job_name, "completed")
                     completed += 1
                 else:
-                    print(f"  Warning: No valid results after processing")
-                    self.tracker.update_job_status(job_name, "failed")
+                    error_msg = "No valid results after processing"
+                    print(f"  Warning: {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
                     failed += 1
                 
             except Exception as e:
-                print(f"  Error processing job: {e}")
-                self.tracker.update_job_status(job_name, "failed")
+                error_msg = str(e)
+                print(f"  Error processing job: {error_msg}")
+                self.tracker.update_job_status(job_name, "failed", error_msg)
                 failed += 1
                 continue
         
@@ -399,11 +420,12 @@ class BatchOrchestrator:
         
         return validated_results
     
-    def list_jobs(self, status_filter: str | None = None) -> None:
+    def list_jobs(self, status_filter: str | None = None, show_errors: bool = False) -> None:
         """List all tracked jobs.
         
         Args:
             status_filter: Optional status to filter by ("pending", "completed", "failed")
+            show_errors: If True, display error messages for failed jobs
         """
         all_jobs = self.tracker.get_all_jobs()
         
@@ -421,6 +443,16 @@ class BatchOrchestrator:
         for job in all_jobs:
             doc_name = job.filename[:22] + "..." if len(job.filename) > 25 else job.filename
             print(f"{job.job_name[:16]}... {job.status:<12} {job.subject:<20} {doc_name:<25}")
+            
+            # Show error details if requested and job has failed
+            if show_errors and job.status == "failed" and job.error_message:
+                print(f"  Error: {job.error_message}")
         
         print(f"{'=' * 80}")
         print(f"Total: {len(all_jobs)} job(s)")
+        
+        # Show summary of errors if there are failed jobs
+        if not show_errors:
+            failed_count = sum(1 for j in all_jobs if j.status == "failed")
+            if failed_count > 0:
+                print(f"\nNote: {failed_count} job(s) have failed. Use --show-errors to see error details.")

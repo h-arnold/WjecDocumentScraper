@@ -2,8 +2,7 @@
 
 - `PARSING_ERROR`: Errors likely caused by the conversion from PDF to markdown.
     - **Examples:** missing hyphens, merged words, stray spacing, words with similar shape to the misspelling e.g. `Oueen` instead of `Queen`, `vntil` instead of `until` or `ves` instead of `yes`.
-    - **Note:** Hyphenation issues are almost certainly parsing errors as the OCR engine often misses or misplaces hyphens.
-- `SPELLING_ERROR`: Incorrect spelling or wrong word form for the context, including incorrect regional spelling variants. This includes accents or diacritics missing from words where required for the context(e.g., café, naïve).
+- `SPELLING_ERROR`: Incorrect spelling or wrong word form for the context, including incorrect regional spelling variants.
     - **Examples:** `definately` instead of `definitely`, `organise` instead of `organize` in American English context, `affect` instead of `effect`.
 - `ABSOLUTE_GRAMMATICAL_ERROR`: Definite grammar breach (agreement, tense, article/preposition misuse, apostrophe misuse) not attributable to style.
 - `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Grammatically debatable or awkward; improvement advisable but optional. Might be considered 'sloppy' for formal writing.
