@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-15T23:14:13.081160Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective '2 year' should be hyphenated as '2-year' when modifying 'program'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The Latin phrase 'pro forma' is typically written as two words in formal UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'ound' appears to be a typographical error within the table, likely intended to be 'found'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'nonassessed' should be hyphenated as 'non-assessed' when preceding a noun."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The Latin phrase 'Pro forma' is typically written as two words, 'Pro forma', in formal UK English, even when capitalized in a heading."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'nonassessed' should be hyphenated as 'non-assessed' when preceding a noun."
+    }
+  ]
+}

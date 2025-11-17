@@ -1,0 +1,11 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i'r byd.  Made for Wales. Ready for the wo...,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr).
+1,5,or,... find professionals to come into schools or you can take your learners out to their...,ErrorCategory.FALSE_POSITIVE,100,The word 'or' is used correctly as a conjunction in this sentence.
+2,5,dem,...e is chef who can spare an hour to do a dem with your Year 10? Many learners may ha...,ErrorCategory.STYLISTIC_PREFERENCE,80,'Dem' is an informal abbreviation for 'demonstration'; the full word would be more appropriate for a formal WJEC document.
+3,5,part time,"... your Year 10? Many learners may have a part time job in a local hospitality business, ca...",ErrorCategory.PARSING_ERROR,95,'Part-time' requires a hyphen when used as a compound adjective modifying 'job'.
+4,9,custardbased,"...ous, an aubergine and tomato bake and a custardbased dish. All soft textures and of a simila...",ErrorCategory.PARSING_ERROR,95,'Custard-based' requires a hyphen when used as a compound adjective.
+5,14,well chosen,...4_Picture_4.jpeg)  Good Practice: A few well chosen photos of the complex techniques used. ...,ErrorCategory.PARSING_ERROR,95,'Well-chosen' requires a hyphen when used as a compound adjective before a noun.
+6,16,youtube,...lating Techniques - [Plate like a Pro \(youtube.com\)](https://www.youtube.com/watch?v=...,ErrorCategory.FALSE_POSITIVE,90,'youtube.com' is correctly presented in lowercase as part of a URL reference.
+7,16,youtube,...xoQk)  [13 Sauce Plating Skills/Ideas \(youtube.com\)](https://www.youtube.com/watch?v=...,ErrorCategory.FALSE_POSITIVE,90,'youtube.com' is correctly presented in lowercase as part of a URL reference.
+8,16,youtube,...Chocolate Techniques You Need To Know \(youtube.com\)](https://www.youtube.com/watch?v=...,ErrorCategory.FALSE_POSITIVE,90,'youtube.com' is correctly presented in lowercase as part of a URL reference.
+9,17,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i'r byd.  Made for Wales. Ready for the wo...,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr).

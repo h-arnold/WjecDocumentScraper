@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:27:27.488779Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A hyphen is required to form the compound adjective '2-year' when it modifies 'program'."
+    }
+  ]
+}

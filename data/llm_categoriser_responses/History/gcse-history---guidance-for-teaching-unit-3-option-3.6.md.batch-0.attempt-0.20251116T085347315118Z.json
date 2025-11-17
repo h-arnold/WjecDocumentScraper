@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:53:47.315118Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.6.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the past tense of 'fuel' is 'fuelled', not 'fueled'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'outside' is generally preferred in formal UK English, 'outside of' is not grammatically incorrect, though it can be considered less concise."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Colored' is part of the official and historical name of the National Association for the Advancement of Colored People (NAACP) and should not be altered."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The apostrophe should not be used when referring to a decade as a plural (e.g., 1920s)."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'The Roaring 20's' is presented as the title of a video resource, and titles should be reproduced exactly as they appear."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Definition' is incorrectly split as 'Definiti on', indicating a parsing error."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Post-war' should be hyphenated when used as a compound adjective modifying 'restoration'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Ill-treatment' should be hyphenated as a compound noun in this context."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Organization' is part of the official and historical name of the National Organization for Women (NOW) and should not be altered."
+    }
+  ]
+}

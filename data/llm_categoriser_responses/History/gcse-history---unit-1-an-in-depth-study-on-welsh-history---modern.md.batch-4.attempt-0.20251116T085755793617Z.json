@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:57:55.793617Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct question identifier within the context of the mapping table."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct question identifier within the context of the mapping table."
+    }
+  ]
+}

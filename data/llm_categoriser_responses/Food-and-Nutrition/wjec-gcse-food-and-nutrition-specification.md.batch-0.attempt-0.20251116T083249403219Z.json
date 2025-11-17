@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:32:49.403219Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "wjec-gcse-food-and-nutrition-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'SUBJECT' is incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Opportunities' is incorrectly split across two cells, and the first 'O' is a Cyrillic character."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'ASSESSMENT' is incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'TECHNICAL' is incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Appendix' is incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'pre-released' is hyphenated earlier in the same paragraph, indicating a stylistic inconsistency that should be corrected."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'pre-released' is hyphenated earlier in the document, indicating a stylistic inconsistency that should be corrected."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The hyphen is a standard Markdown list item marker, and 'gelation' is correctly spelled in this context."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The parenthesis is correctly used as part of a parenthetical clarification for 'toasting'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The parenthesis is correctly used as part of a parenthetical clarification for 'whisking'."
+    }
+  ]
+}

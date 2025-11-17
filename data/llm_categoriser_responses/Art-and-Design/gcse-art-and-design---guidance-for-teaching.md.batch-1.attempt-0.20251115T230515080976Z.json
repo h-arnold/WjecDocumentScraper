@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:05:15.080976Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'work-related' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'centres' requires an apostrophe to indicate possession, becoming 'centre's'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'web-based' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The artist's surname is misspelled; it should be 'Gauguin'."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'non-toxic' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'or' would improve readability but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'All the work' is more concise and stylistically preferred over 'all of the work'."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The phrase should either be 'product life cycle' (compound noun) or 'products' life cycle' (plural possessive)."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The `href` attribute contains an incomplete URL, which is a parsing error in the HTML structure."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The `href` attribute contains an incomplete URL, which is a parsing error in the HTML structure."
+    }
+  ]
+}

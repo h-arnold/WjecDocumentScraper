@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:16:56.205155Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-1-non-exam-assessment-pack-sample.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Candidate' is repeated unnecessarily in the table header, indicating a parsing or input error."
+    }
+  ]
+}

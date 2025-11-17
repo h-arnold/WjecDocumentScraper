@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:48:39.483705Z",
+  "subject": "History",
+  "filename": "frequently-asked-questions.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'e-assessments' is consistently hyphenated elsewhere on the page and in WJEC style, making 'eassessments' an unhyphenated error."
+    }
+  ]
+}

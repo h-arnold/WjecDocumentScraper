@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:54:50.319973Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-medieval---example-teaching-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The historical name is consistently spelled '\u00c6lfgifu', not '\u00c6flgifyu'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the historian's first name is 'Malcolm', not 'Malcom'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'who's' can mean 'who has', the full form 'who has' is generally preferred in formal educational writing."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'All the lands' is more concise and equally correct as 'all of the lands'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' correctly links two independent clauses in the sentence."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Undeep' is an archaic term used in a direct extract from a historical chronicle, and thus should be preserved for authenticity."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Castles' is correctly used as a plural noun in the compound term 'square keep castles'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct British English spelling is 'draughty', not 'drafty'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' correctly links two clauses in the sentence."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The phrase 'square in shape' can be more concisely expressed as 'square' or 'square-shaped'."
+    }
+  ]
+}

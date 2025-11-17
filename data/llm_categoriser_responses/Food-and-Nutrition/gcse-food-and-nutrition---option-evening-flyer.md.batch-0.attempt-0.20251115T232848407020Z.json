@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:28:48.407020Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---option-evening-flyer.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The abbreviation 'GCSF' is incorrect; the standard qualification abbreviation is 'GCSE'."
+    }
+  ]
+}

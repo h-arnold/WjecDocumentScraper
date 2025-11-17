@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:43:06.409350Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The Markdown link is malformed with a redundant text component, causing a display error."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The Markdown link is malformed with a redundant text component, causing a display error."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The Markdown link is malformed with a redundant text component, causing a display error."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'extreme cold spells' is grammatically correct, with 'extreme cold' functioning as a noun phrase modifying 'spells'."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'extreme cold or heat' is grammatically correct, with 'extreme cold' functioning as a noun phrase."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'extreme cold' is used correctly as a noun phrase referring to a weather phenomenon."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'Extreme cold' is used correctly as a noun phrase in a list item heading."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'extreme-cold events' could be hyphenated as a compound adjective for clarity, the unhyphenated form is not grammatically incorrect."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Factsheet' is an acceptable and commonly used single-word spelling in UK English, though 'fact sheet' is also correct."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The Markdown link is malformed with a redundant text component, causing a display error."
+    }
+  ]
+}

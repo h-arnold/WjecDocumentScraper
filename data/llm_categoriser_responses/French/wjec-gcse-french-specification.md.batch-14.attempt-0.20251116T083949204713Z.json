@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:39:49.204713Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 14,
+  "attempt": 0,
+  "issue_ids": [
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+  ],
+  "response": [
+    {
+      "issue_id": 140,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 141,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 142,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 143,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 144,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 145,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 146,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 147,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    },
+    {
+      "issue_id": 148,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The present participle form 'punishing' is missing; the original text incorrectly repeats the infinitive 'punish'."
+    },
+    {
+      "issue_id": 149,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text follows the established document format of '(to) [infinitive] [present participle]' for verb translations."
+    }
+  ]
+}

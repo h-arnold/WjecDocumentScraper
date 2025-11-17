@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:38:34.263958Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 8,
+  "attempt": 0,
+  "issue_ids": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "response": [
+    {
+      "issue_id": 80,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 81,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 82,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 83,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The document's intended style uses a double space to separate the infinitive and gerund forms; the tool's implied suggestion is not the correct fix for the single space present."
+    },
+    {
+      "issue_id": 84,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 85,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 86,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    },
+    {
+      "issue_id": 87,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The document's intended style uses a double space to separate the infinitive and gerund forms; the tool's implied suggestion is not the correct fix for the single space present."
+    },
+    {
+      "issue_id": 88,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The document's intended style uses a double space to separate the infinitive and gerund forms; the tool's implied suggestion is not the correct fix for the single space present."
+    },
+    {
+      "issue_id": 89,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The document consistently uses a double space to separate the infinitive and gerund forms in vocabulary lists, making the original formatting stylistically correct."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-16T08:44:51.397587Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---unit-3-our-dynamic-and-diverse-world.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'well structured' is correctly unhyphenated as it follows the noun it modifies."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The quotation mark is opened but not closed, indicating a missing closing quotation mark."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'well structured' is correctly unhyphenated as it follows the noun it modifies."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'One-sided' should be hyphenated as a compound adjective preceding the noun it modifies."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Cleanups' is a correctly spelled and commonly used plural noun in this context."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Wate' is a clear misspelling of the word 'waste'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'well structured' is correctly unhyphenated as it follows the noun it modifies."
+    }
+  ]
+}

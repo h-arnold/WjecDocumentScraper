@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:21:54.333232Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-5-continuity-and-change.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "YY is a standard and appropriate abbreviation for 'Year' in a date format within a table header."
+    }
+  ]
+}

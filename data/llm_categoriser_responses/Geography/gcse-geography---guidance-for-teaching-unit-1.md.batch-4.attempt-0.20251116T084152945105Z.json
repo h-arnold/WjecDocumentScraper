@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-16T08:41:52.945105Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-1.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses in the definition."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Outside' is generally preferred over 'outside of' for conciseness in formal UK English."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The verb 'has' correctly agrees with the singular subject 'Transition zone'."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Outside' is generally preferred over 'outside of' for conciseness in formal UK English."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct spelling for the pattern is 'zigzag' (one word, no hyphen) in standard UK English."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the verb is 'colonise', not 'colonize'."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Tres' is a clear misspelling of 'Trees'."
+    }
+  ]
+}

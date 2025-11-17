@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:47:15.935291Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-1-oracy.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The opening quotation marks `,,` are incorrectly rendered and should be the German style `\u201e`."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The opening quotation marks `,,` are incorrectly rendered and should be the German style `\u201e`."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The opening quotation marks `,,` are incorrectly rendered and should be the German style `\u201e`."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The opening quotation marks `,,` are incorrectly rendered and should be the German style `\u201e`."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The closing quotation mark `&quot;` (rendered as `\"` in the raw markdown) is a straight quote and should be the German style `\u201c`."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'but' is grammatically sound when introducing an independent clause, but its omission is not an absolute error."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside of' is common, 'outside' alone is more concise and often preferred in formal writing."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a mineral water' is grammatically correct in UK English when referring to a single serving or bottle."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a mineral water' is grammatically correct in UK English when referring to a single serving or bottle."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'an' is a correct German preposition in this context, not an English article."
+    }
+  ]
+}

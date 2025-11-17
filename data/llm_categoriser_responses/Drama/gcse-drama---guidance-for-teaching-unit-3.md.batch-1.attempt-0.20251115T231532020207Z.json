@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:15:32.020207Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-3.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The 'href' attribute is a standard and correctly used part of an HTML anchor tag embedded in the Markdown."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of the descriptive text within a Markdown link."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of the descriptive text within a Markdown link."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The 'href' attribute is a standard and correctly used part of an HTML anchor tag embedded in the Markdown."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The repetition 'physical theatre theatre in education' is an error; it should be 'physical theatre, theatre in education' or 'physical theatre and theatre in education'."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The construction 'both... as well as' is often considered redundant; 'both... and' or simply 'as well as' would be more concise."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'In groups' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'so' is used correctly here to indicate purpose or result."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The construction 'both... as well as' is often considered redundant; 'both... and' or simply 'as well as' would be more concise."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of the descriptive text within a Markdown link."
+    }
+  ]
+}

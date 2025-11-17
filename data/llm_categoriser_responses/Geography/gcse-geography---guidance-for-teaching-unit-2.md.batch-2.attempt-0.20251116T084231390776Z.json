@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-16T08:42:31.390776Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-2.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'cross section' as two words is acceptable, 'cross-section' is often preferred for compound nouns in technical contexts for clarity."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The highlighted text is correctly hyphenated as part of a URL; the actual issue is a malformed Markdown link structure."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Both 'windspeed' (one word) and 'wind speed' (two words) are acceptable, with the single-word form common in technical writing."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'but' is a stylistic choice here, not a grammatical requirement, as it introduces a dependent clause."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The highlighted text is correctly hyphenated as part of a URL; the actual error is a space breaking the URL before this segment."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The past participle 'improved' is required here to form the correct passive voice 'could have been improved upon'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'investigations' is incorrectly split by a space within the URL, causing a parsing error."
+    }
+  ]
+}

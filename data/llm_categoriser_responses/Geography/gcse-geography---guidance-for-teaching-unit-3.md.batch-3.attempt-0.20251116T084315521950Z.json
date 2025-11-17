@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:43:15.521950Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'among' is used correctly in this context to denote a consensus within a group."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "NASA is an acronym and should always be capitalised."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'groupwork' is acceptable, 'group work' (two words) is more commonly preferred in UK English for clarity."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The hyphenation is correct as it is part of a URL, where hyphens are used to separate words."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'roleplay' is acceptable, 'role-play' (hyphenated) is often preferred as a compound noun or adjective in formal UK English."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "As a compound adjective modifying 'diary entries/news reports', 'first-hand' should be hyphenated."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct compound noun is 'riverside' written as a single word."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Organisation' is the correct UK English spelling, which is appropriate for a WJEC document."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound noun 'seawater' should be written as a single word."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Aeroplanes' is the standard UK English spelling, whereas 'airplanes' is the American English variant."
+    }
+  ]
+}

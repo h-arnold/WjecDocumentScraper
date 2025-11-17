@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:08:28.952329Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'handwritten' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'tutor2u' is a proper noun referring to a specific educational website and is spelled correctly as branded."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A colon or en dash is more appropriate than a hyphen to separate a main category from its descriptive sub-category."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A colon or en dash is more appropriate than a hyphen to separate a main category from its descriptive sub-category."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'TwoTeachers' is a proper noun referring to a specific educational resource and is spelled correctly as branded."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Outside' is more concise and stylistically preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'tutor2u' is a proper noun referring to a specific educational website and is spelled correctly as branded."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the noun is 'judgements', not 'judgments'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'back' is used correctly in this context and does not constitute an error."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to link two parallel clauses in the sentence."
+    }
+  ]
+}

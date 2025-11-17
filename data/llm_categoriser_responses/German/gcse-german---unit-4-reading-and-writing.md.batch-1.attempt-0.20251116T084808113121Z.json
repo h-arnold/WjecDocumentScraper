@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:48:08.113121Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-4-reading-and-writing.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any one' (two words) is correct when referring to a single item from a group."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Im' is a correct German contraction of 'in dem' and is used appropriately in the German text."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'M\u00fcnchen' is the correct German spelling of the city, used appropriately in the German text."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'An' is a correct German preposition in this context ('an der frischen Luft') and not an English word."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'\u00d6sterreich' is the correct German spelling for Austria, used appropriately in the German text."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "While `,,` is a common plain text representation, the typographically correct German opening quotation mark `\u201e` is preferred for formal documents."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'An' is a correct German preposition in this context ('an traumhaften Orten') and not an English word."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Im' is a correct German contraction of 'in dem' and is used appropriately in the German text."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "A comma before 'but' is grammatically preferred when it connects two independent clauses to improve readability."
+    }
+  ]
+}

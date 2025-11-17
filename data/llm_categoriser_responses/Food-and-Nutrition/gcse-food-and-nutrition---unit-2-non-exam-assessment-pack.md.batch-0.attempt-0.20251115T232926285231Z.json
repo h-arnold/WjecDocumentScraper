@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-15T23:29:26.285231Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-2-non-exam-assessment-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While not strictly incorrect, 'outside' is generally preferred over 'outside of' for conciseness in formal writing."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'The marking scheme' requires the singular verb 'is' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Independently from' is a grammatically correct and acceptable phrasing in this context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Creditworthy' is a compound adjective and should be written as a single word."
+    }
+  ]
+}

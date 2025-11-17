@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:55:08.354371Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-medieval---example-teaching-pack.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The author's name is 'Malcolm Barber', so 'Malcom' is a misspelling."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The word 'english' is correctly in lowercase within the URL, as is standard practice for web addresses."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:49:59.356552Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.5.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'protesters' is correctly spelled and used in this context, referring to people who protest."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Enquire' is the correct and preferred spelling in UK English, which is appropriate for a WJEC document."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'evidence-based' should be hyphenated when preceding the noun it modifies in UK English."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'cross-curricular' should be hyphenated in accordance with standard UK English grammar and WJEC style."
+    }
+  ]
+}

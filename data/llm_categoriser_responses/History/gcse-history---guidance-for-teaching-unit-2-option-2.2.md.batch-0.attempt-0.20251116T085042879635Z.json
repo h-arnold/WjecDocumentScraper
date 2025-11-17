@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:50:42.879635Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The term 'e-assessment' should be hyphenated as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive marker 'to' is missing; it should be 'should be able to demonstrate'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Scientific names like *Yersinia pestis* are conventionally italicised."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Covid-19 is the correct and standard spelling for the disease."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Geographical regions like 'Northern Europe' are typically capitalised for consistency with 'Central' and 'Western Europe'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'programmes' has been incorrectly split into 'pro grammes'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a clear grammatical error; it should be 'There are also opportunities'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The correlative conjunction 'not only... but also...' is stylistically preferred for balance and clarity."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen in UK English."
+    }
+  ]
+}

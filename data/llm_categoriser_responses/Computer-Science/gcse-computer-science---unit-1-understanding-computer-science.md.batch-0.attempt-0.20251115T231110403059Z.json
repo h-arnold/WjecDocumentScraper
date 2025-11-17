@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:11:10.403059Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-1-understanding-computer-science.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Both 'all of the' and 'all the' are grammatically correct; the suggestion is a stylistic preference for conciseness."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The acronym 'HDD' begins with a vowel sound, requiring 'an' instead of 'a'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Systems delivery' is correct in the context of the System Development Lifecycle, referring to the delivery of multiple software systems."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Implementatio' is a clear misspelling or truncation of 'Implementation'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the plural noun form is 'licences', not 'licenses'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the plural noun form is 'licences', not 'licenses'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Both 'so' and 'so that' are grammatically correct in this context; the suggestion is a stylistic preference."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Both 'so' and 'so that' are grammatically correct in this context; the suggestion is a stylistic preference."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The suggestion is a false positive as 'a' is a variable name within a code block and should not be capitalised."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Iteger' is a clear misspelling of the word 'integer', as confirmed by the document's own correction."
+    }
+  ]
+}

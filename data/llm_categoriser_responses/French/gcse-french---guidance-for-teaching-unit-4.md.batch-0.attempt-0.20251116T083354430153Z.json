@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:33:54.430153Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'Reading and Writing' is the correct unit title, followed by 'Written examination' as the assessment type."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside of' is grammatically acceptable, 'outside' is more concise and stylistically preferred in formal UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'but' is correctly used to connect two contrasting clauses modifying 'language used'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'and' would improve clarity when joining two independent clauses."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'so' is advisable when it connects two independent clauses to indicate a result."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The ellipsis should consist of three dots, not two, for standard punctuation."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'French-speaking' should be hyphenated as a compound adjective modifying 'countries'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The punctuation is correct for the French example provided, where 'tout le monde' ends a sentence."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The use of 'les' before each item in the French list is grammatically correct."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Audio-visual' is correctly hyphenated as a compound adjective in UK English."
+    }
+  ]
+}

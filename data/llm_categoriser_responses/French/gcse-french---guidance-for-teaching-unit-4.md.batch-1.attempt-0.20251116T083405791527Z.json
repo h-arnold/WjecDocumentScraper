@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:34:05.791527Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-4.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The use of straight single quotes is a stylistic choice; curly quotes are generally preferred in formal documents."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "\"As above\" is a standard and concise phrase used to refer to previously mentioned information."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "\"With regard to\" is generally preferred over \"with regards to\" in formal writing for conciseness and grammatical precision."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space should not precede a comma in standard English punctuation."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The use of straight single quotes is a stylistic choice; curly quotes are generally preferred in formal documents."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The `.ne` is part of a specific French gender-inclusive notation for job titles, not a standalone English or incorrect French word."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The correct idiomatic expression is \"In pairs\" when referring to students working together."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The French word \"cr\u00eapes\" should retain its circumflex accent for correct orthography in a French context."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Mardi Gras\" is a proper noun and requires both words to be capitalised."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The French word \"Cr\u00eapes\" should retain its circumflex accent for correct orthography."
+    }
+  ]
+}

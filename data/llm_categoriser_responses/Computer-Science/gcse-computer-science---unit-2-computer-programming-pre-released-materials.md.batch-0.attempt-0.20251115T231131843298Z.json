@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:11:31.843298Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-2-computer-programming-pre-released-materials.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Hyphenation is preferred for compound adjectives like 'user-friendly' for clarity and consistency in formal writing, even when used predicatively."
+    }
+  ]
+}

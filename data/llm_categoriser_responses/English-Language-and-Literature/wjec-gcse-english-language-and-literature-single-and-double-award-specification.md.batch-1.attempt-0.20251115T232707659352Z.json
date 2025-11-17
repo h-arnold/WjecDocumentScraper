@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:27:07.659352Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature-single-and-double-award-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The use of 'This' as a demonstrative pronoun referring to the preceding clause is grammatically correct and clear."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The 'th' is incorrectly bolded separately from the number in the markdown, which should be `19th`."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The 'th' is incorrectly bolded separately from the number in the markdown, which should be `20th`."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The 'th' is incorrectly bolded separately from the number in the markdown, which should be `20th`."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Non-fiction' should be hyphenated as a compound adjective for consistency and standard UK English usage."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Audio-visual' is correctly hyphenated as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The verb 'requires' correctly agrees with the singular subject 'Task A'."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The verb 'requires' correctly agrees with the singular subject 'Task A'."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Audio-visual' is correctly hyphenated as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The repetition of 'in' is a grammatical error; it should be 'cashed in the summer year 11'."
+    }
+  ]
+}

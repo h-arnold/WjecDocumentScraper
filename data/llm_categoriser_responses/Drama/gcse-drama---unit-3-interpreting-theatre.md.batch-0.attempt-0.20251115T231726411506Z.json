@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:17:26.411506Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The original text correctly uses a single quote, not a double quote as identified by the tool."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The original text correctly uses a single quote, not a double quote as identified by the tool."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'here' is correctly used as part of a direct quote from the play."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The original text correctly uses a single quote, not a double quote as identified by the tool."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two parts of a compound predicate."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'creditworthy' is often one word, 'not credit worthy' is an accepted idiomatic phrase in marking schemes."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'octagonal shaped' is redundant; 'octagonal building' or 'octagon-shaped building' would be more concise and grammatically sound."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "The sentence structure around 'a bush or they may decide' is awkward and could be improved with clearer punctuation or rephrasing for better flow."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'creditworthy' is often one word, 'not credit worthy' is an accepted idiomatic phrase in marking schemes."
+    }
+  ]
+}

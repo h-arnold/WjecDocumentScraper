@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T22:40:45.569824Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 0,
+  "attempt": 2,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'whether' alone can sometimes suffice, 'whether or not' is grammatically correct and emphasizes both possibilities, making the original phrasing acceptable."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'or' would improve clarity in this compound sentence, but its omission is not a definitive grammatical error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While 'outside' is more concise, 'outside of' is grammatically acceptable and commonly used."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' is advisable to separate the two independent clauses for improved readability."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Two-dimensional' requires a hyphen when used as a compound adjective modifying 'work'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Three-dimensional' requires a hyphen when used as a compound adjective modifying 'work'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Work-related' requires a hyphen when used as a compound adjective."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Words beginning with 'self-' are typically hyphenated, so 'self-imposed' is correct."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Words beginning with 'self-' are typically hyphenated, so 'self-discipline' is correct."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The proper noun 'Salon des Refus\u00e9s' requires an acute accent on the final 'e'."
+    }
+  ]
+}

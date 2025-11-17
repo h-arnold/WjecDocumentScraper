@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:21:19.580711Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-4b-motivations.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Wanna is used intentionally in character dialogue to reflect colloquial speech and is correct in this context."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The repetition of 'the,' in dialogue is a deliberate stylistic choice to convey hesitation or emphasis in speech."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'but' is often a stylistic choice when connecting independent clauses, but its omission here is not a grammatical error."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Tabbycat is a correct and commonly used single-word compound noun in UK English."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The &quot; is an HTML entity appearing due to parsing, not an error in the document's displayed text."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Tabbycat is a correct and commonly used single-word compound noun in UK English."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The &quot; is an HTML entity appearing due to parsing, not an error in the document's displayed text."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The noun 'sentence' must be plural ('sentences') to agree with the quantifier 'two'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "An apostrophe should not be used to pluralise a decade; '1980s' is the correct form."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The &quot; is an HTML entity appearing due to parsing, not an error in the document's displayed text."
+    }
+  ]
+}

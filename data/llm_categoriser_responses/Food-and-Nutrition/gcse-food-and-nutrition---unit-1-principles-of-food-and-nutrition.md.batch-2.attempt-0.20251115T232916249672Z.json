@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-15T23:29:16.249672Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word in UK English."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vitamin C' is correctly capitalised as a proper noun for the specific vitamin."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word in UK English."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This appears to be a fragmented word within a table header, likely part of 'Question no.' or similar."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This appears to be a fragmented word within a table header, likely part of 'Total'."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "For consistency with other instances on the page and standard UK English, 'onscreen' should be hyphenated as 'on-screen'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "There is an extraneous space before the closing single quote, which should be removed."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "There is an extraneous space before the closing single quote, which should be removed."
+    }
+  ]
+}

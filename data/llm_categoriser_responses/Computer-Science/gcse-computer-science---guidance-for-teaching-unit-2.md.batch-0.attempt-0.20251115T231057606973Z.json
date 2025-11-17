@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-15T23:10:57.606973Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The term 'pseudo-code' is typically hyphenated in formal UK English and for consistency within WJEC documents."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The term 'pseudo-code' is typically hyphenated in formal UK English and for consistency within WJEC documents."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The single closing apostrophe is unbalanced and appears to be an extraneous character following a title."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'solutions' requires the plural verb 'meet' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'solutions' requires the plural verb 'meet' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The term 'pre-release' is consistently hyphenated elsewhere in the document and should be hyphenated here for consistency."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "While 'die' is the singular, 'dice' is commonly accepted as both singular and plural in modern UK English, especially in the context of 'dice roll'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The compound noun 'group work' is generally preferred as two words in formal UK English over the single word 'groupwork'."
+    }
+  ]
+}

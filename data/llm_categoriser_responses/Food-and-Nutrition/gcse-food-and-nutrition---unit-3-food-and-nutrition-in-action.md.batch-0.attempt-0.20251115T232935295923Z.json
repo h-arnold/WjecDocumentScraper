@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:29:35.295923Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While grammatically correct, 'outside' is more concise and generally preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'The marking scheme' requires the singular verb 'is,' not 'are,' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Both 'independently from' and 'independently of' are grammatically acceptable, making the original phrasing a stylistic choice."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the correct spelling for the present participle of 'trial' is 'trialling' (with a double 'l')."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the correct spelling for the present participle of 'trial' is 'trialling' (with a double 'l')."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the correct spelling for the present participle of 'trial' is 'trialling' (with a double 'l')."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'3 hour' acts as a compound adjective modifying 'session' and therefore requires a hyphen: '3-hour session'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the correct spelling for the present participle of 'trial' is 'trialling' (with a double 'l')."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase should be 'at least three,' not 'a least three,' indicating a clear typographical error."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Using 'ALL' in all caps is a stylistic choice for emphasis, which is acceptable in a mark scheme for clarity and strong instruction."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,11,skills,"...c, graphical, numerical and statistical skills communication skills evaluative skills ...",ErrorCategory.FALSE_POSITIVE,95,"The highlighted text is part of a bulleted list where 'communication skills' is a distinct item, making the original phrasing correct."
+1,14,outside of,"...th learning experiences in environments outside of the classroom, or via online platforms,...",ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'outside of' is grammatically acceptable, 'outside' is more concise and generally preferred in formal writing."
+2,23,skillset,... and provides geographers with a unique skillset that they can apply to a range of diffe...,ErrorCategory.FALSE_POSITIVE,95,"'Skillset' is a widely accepted and commonly used single word, especially in educational and professional contexts."
+3,24,mega cities,...earners could explore the definition of mega cities and global cities and make comparisons ...,ErrorCategory.SPELLING_ERROR,90,The term 'megacity' is conventionally written as a single word in UK English.

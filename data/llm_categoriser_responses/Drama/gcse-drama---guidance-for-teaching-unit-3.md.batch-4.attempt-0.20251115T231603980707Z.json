@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:16:03.980707Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-3.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation in the document."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is used correctly in the sentence."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation in the document."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation in the document."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation, even if it appears redundantly."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation in the document."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL citation in the document."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive form 'answer' is required after 'to', not 'answers'."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'pairs' is correctly used in the phrase 'In pairs'."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'statical' is incorrect; it should be 'statistical' to refer to data and statistics."
+    }
+  ]
+}

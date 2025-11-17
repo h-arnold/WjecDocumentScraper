@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:21:09.132272Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-4a-motivations.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"liggins\" is a misspelling of the character's name \"Higgins\" from Pygmalion."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Vhat\" is a clear misspelling of the interrogative pronoun \"What\"."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"creanis\" is a misspelling of \"create\" and forms part of a grammatically incorrect phrase."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"by the he uses\" is grammatically incorrect and should be rephrased, e.g., \"by the methods he uses\"."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The repetition of \"A\" in \"Section A A Midsummer Night's Dream\" is redundant."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"were favour so\" is a direct and correctly quoted line from Shakespeare, using the subjunctive mood."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"maybe\" should be two words, \"may be\", in this verb phrase."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction \"and\" is used correctly to connect two clauses in the explanation."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"well chosen\" should be hyphenated as \"well-chosen\" when used as a compound adjective before a noun."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction \"but\" is used correctly to introduce a contrasting clause."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:32:18.577628Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "unit-3---presenting-food-outcomes.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr)."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'or' is used correctly as a conjunction in this sentence."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Dem' is an informal abbreviation for 'demonstration'; the full word would be more appropriate for a formal WJEC document."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Part-time' requires a hyphen when used as a compound adjective modifying 'job'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Custard-based' requires a hyphen when used as a compound adjective."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Well-chosen' requires a hyphen when used as a compound adjective before a noun."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'youtube.com' is correctly presented in lowercase as part of a URL reference."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'youtube.com' is correctly presented in lowercase as part of a URL reference."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'youtube.com' is correctly presented in lowercase as part of a URL reference."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr)."
+    }
+  ]
+}

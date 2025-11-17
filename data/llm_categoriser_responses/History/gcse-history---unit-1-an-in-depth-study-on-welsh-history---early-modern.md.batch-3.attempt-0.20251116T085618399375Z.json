@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:56:18.399375Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---early-modern.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ci' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'cii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is a valid question part label within the context of a WJEC mapping table, not a standalone word."
+    }
+  ]
+}

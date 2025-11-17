@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:40:27.905340Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 17,
+  "attempt": 0,
+  "issue_ids": [
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+  ],
+  "response": [
+    {
+      "issue_id": 170,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 171,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 172,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 173,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The infinitive and present participle are run together without a space, which is a parsing error; adding a comma provides necessary separation."
+    },
+    {
+      "issue_id": 174,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 175,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The infinitive and present participle are run together without a space, which is a parsing error; adding a comma provides necessary separation."
+    },
+    {
+      "issue_id": 176,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 177,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original uses multiple spaces as a separator; a comma would provide clearer stylistic separation between the infinitive and present participle."
+    },
+    {
+      "issue_id": 178,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The infinitive and present participle are run together without a space, which is a parsing error; adding a comma provides necessary separation."
+    },
+    {
+      "issue_id": 179,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The infinitive and present participle are run together without a space, which is a parsing error; adding a comma provides necessary separation."
+    }
+  ]
+}

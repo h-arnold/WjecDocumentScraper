@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:15:21.895293Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound adjective 'live streamed' should be hyphenated when preceding the noun it modifies."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'or' is used correctly to present an alternative in the sentence."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Key words' as two separate words is an acceptable and common spelling in UK English."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'YouTube' is a proper noun and should be capitalized."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 80,
+      "reasoning": "The word 'past' is correctly spelled, though the surrounding sentence contains significant grammatical errors."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required before the coordinating conjunction 'but' when joining two independent clauses."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two parallel interrogative phrases."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' would improve clarity but its omission is not a strict grammatical error in this context."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The apostrophe should be omitted when referring to a decade (e.g., '1940s') unless indicating possession."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses, though there is a parsing error with 'point s' nearby."
+    }
+  ]
+}

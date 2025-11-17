@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T22:40:54.138162Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound adjectives like 'work-related' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'centres' requires an apostrophe to indicate possession ('centre's discretion')."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound adjectives like 'web-based' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the artist's name is 'Paul Gauguin'."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound adjectives formed with 'non-' are typically hyphenated in UK English."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'or' would improve readability when connecting two independent clauses, but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 60,
+      "reasoning": "While 'all the work' is more concise, 'all of the work' is grammatically correct and acceptable."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'products life cycle' requires an apostrophe to indicate possession, either 'product's' or 'products'."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'href' is a standard HTML attribute and is correctly used in this context."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'href' is a standard HTML attribute and is correctly used in this context."
+    }
+  ]
+}

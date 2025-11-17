@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:24:08.229157Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Compound numbers like 'twenty-first' should be hyphenated when used as an adjective."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Armenian genocide' is a correct proper noun referring to a specific historical event."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Coalminers' is an accepted single-word compound noun in UK English."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Its' is the correct possessive pronoun in this context, not the contraction 'it's'."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'All of the' is grammatically correct, though 'all the' could also be used for conciseness."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Recognised' with an 's' is the correct UK English spelling."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'June 10 1937' is understandable, adding a comma after the day or reformatting to '10 June 1937' would align better with standard UK English date conventions."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Recognise' with an 's' is the correct UK English spelling."
+    }
+  ]
+}

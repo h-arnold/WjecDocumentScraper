@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-15T23:13:57.009991Z",
+  "subject": "Digital-Technology",
+  "filename": "wjec-gcse-digital-technology-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'stylized' is 'stylised'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Nondestructive' is correctly spelled as a single word in UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'minimize' is 'minimise'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Acronyms like 'PDF' should generally be capitalised in formal WJEC documentation."
+    }
+  ]
+}

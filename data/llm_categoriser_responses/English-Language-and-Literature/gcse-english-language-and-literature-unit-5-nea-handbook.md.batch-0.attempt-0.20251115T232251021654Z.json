@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:22:51.021654Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature-unit-5-nea-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound numbers like 'twenty-first' should be hyphenated."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The 'of' in 'outside of' is often considered redundant; 'outside the centre' is more concise."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The 'of' in 'outside of' is often considered redundant; 'outside the centre' is more concise."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'well-chosen' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While a comma before 'but' is often recommended for clarity, its omission here is not a grammatical error."
+    }
+  ]
+}

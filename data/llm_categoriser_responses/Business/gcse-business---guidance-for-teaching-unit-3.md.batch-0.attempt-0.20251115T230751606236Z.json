@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:07:51.606236Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Learners' is incorrectly split into two words."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'senedd.wales' is a correct domain name and proper noun in this context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The comma after 'etc.' is correctly used to separate the list item from the subsequent clause."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Learners' is incorrectly split into two words."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Consequences to' is an acceptable and grammatically correct phrasing, though 'consequences for' is also common."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "There is a missing punctuation mark between 'trade union' and 'learners', creating a run-on sentence."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'As to whether' is grammatically correct but could be more concisely phrased as 'whether'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'and' is correctly used to connect two parts of the sentence."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Net zero' is acceptable as two words, though 'net-zero' is also common as an adjective, and 'Net Zero' is sometimes capitalised when referring to a specific target."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Net zero' is acceptable as two words, though 'net-zero' is also common as an adjective, and 'Net Zero' is sometimes capitalised when referring to a specific target."
+    }
+  ]
+}

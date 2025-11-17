@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:37:07.370857Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'apartment' is correctly spelled and used as an acceptable English equivalent for 'appartement'."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'school leaving' is understandable, 'school-leaving' is preferred as a hyphenated compound adjective before a noun in formal UK English."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Both 'bank note' (two words) and 'banknote' (one word) are acceptable in UK English, so the original is not strictly an error."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'chasse' is the correct French term in this bilingual dictionary context."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'grippe' is the correct French term in this bilingual dictionary context."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'manque' is the correct French term in this bilingual dictionary context."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Both 'smart watch' (two words) and 'smartwatch' (one word) are acceptable in UK English, so the original is not strictly an error."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'passe' is part of the correct French term 'mot (de passe)' in this bilingual dictionary context."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'glace' is part of the correct French term 'patin \u00e0 glace' in this bilingual dictionary context."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'New Year's Eve' requires an apostrophe for correct possessive grammar in English."
+    }
+  ]
+}

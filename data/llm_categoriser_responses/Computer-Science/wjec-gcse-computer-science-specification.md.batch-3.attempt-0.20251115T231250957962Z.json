@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-15T23:12:50.957962Z",
+  "subject": "Computer-Science",
+  "filename": "wjec-gcse-computer-science-specification.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The opening parenthesis is correctly used as part of the phrase 'Logical operators' and is not an error."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The opening parenthesis is correctly used as part of the phrase 'Logical operators' and is not an error."
+    }
+  ]
+}

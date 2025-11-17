@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:25:07.689734Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 8,
+  "attempt": 0,
+  "issue_ids": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+  ],
+  "response": [
+    {
+      "issue_id": 80,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While 'tv' is common in informal contexts, 'TV' (capitalised) is generally preferred for abbreviations in formal WJEC documents, even in transcripts."
+    },
+    {
+      "issue_id": 81,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'of of' is a transcription error of spoken hesitation and should be corrected to a single 'of'."
+    },
+    {
+      "issue_id": 82,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'A' is a speaker label, and 'A I' is correctly used to indicate the start of a new speaker's utterance."
+    },
+    {
+      "issue_id": 83,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'and' is grammatically correct and appropriately used as a conjunction in this sentence."
+    },
+    {
+      "issue_id": 84,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'a a' is a transcription error of spoken hesitation and should be corrected to a single 'a'."
+    },
+    {
+      "issue_id": 85,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The filler word 'er' should typically be removed from a formal transcript for clarity and conciseness."
+    },
+    {
+      "issue_id": 86,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The use of '(ren)' to indicate singular or plural ('stepchild' or 'stepchildren') is a correct and common stylistic choice in formal writing."
+    },
+    {
+      "issue_id": 87,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "In the context of a domain name 'Dad blog uk .com', 'uk' is correctly presented in lowercase."
+    },
+    {
+      "issue_id": 88,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Amongst' is an acceptable and often preferred variant of 'among' in British English, especially in formal contexts."
+    },
+    {
+      "issue_id": 89,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "As a compound adjective modifying 'group', 'tightly knit' should be hyphenated to 'tightly-knit' in UK English."
+    }
+  ]
+}

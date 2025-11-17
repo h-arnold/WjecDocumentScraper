@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:47:58.587545Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-4-reading-and-writing.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "In formal UK English, 'outside' functions as a preposition, making 'of' redundant."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'but' is used correctly to connect two parallel clauses in the sentence."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Im' is a correct German contraction and is used appropriately within the German text provided."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'M\u00fcnchen' is the correct German spelling for the city of Munich, used appropriately in the German text."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'an der frischen Luft' is a correct German idiom and 'an' is the appropriate preposition."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'\u00d6sterreich' is the correct German spelling for Austria, used appropriately in the German text."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The double comma `,,` is not standard German punctuation for opening a quotation; it should be `\u201e`."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'an traumhaften Orten' is a correct German phrase using the preposition 'an' with the dative case."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Im Trend liegen' is a correct German idiom and 'Im' is the appropriate contraction."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "(c) is a correct and standard label for a sub-question or part of an exercise."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:18:32.664325Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 6,
+  "attempt": 0,
+  "issue_ids": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "response": [
+    {
+      "issue_id": 60,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'So' is used correctly as a conjunction to indicate consequence."
+    },
+    {
+      "issue_id": 61,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'And' is used correctly as a conjunction to connect two related clauses."
+    },
+    {
+      "issue_id": 62,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "For consistency and standard UK English usage, 'wrist band' should be written as one word, 'wristband'."
+    },
+    {
+      "issue_id": 63,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Rainbow-coloured' requires a hyphen when used as a compound adjective modifying a noun."
+    },
+    {
+      "issue_id": 64,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'And' is used correctly as a conjunction to connect two elements in a list."
+    },
+    {
+      "issue_id": 65,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Eyeliner' should be written as a single word in standard UK English."
+    },
+    {
+      "issue_id": 66,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'So' is used correctly as a conjunction to indicate consequence."
+    },
+    {
+      "issue_id": 67,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'And' is used correctly as a conjunction to connect two related clauses."
+    },
+    {
+      "issue_id": 68,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'So' is used correctly as a conjunction to indicate consequence."
+    },
+    {
+      "issue_id": 69,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Creditworthy' should be written as a single word in standard UK English."
+    }
+  ]
+}

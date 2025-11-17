@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:35:06.117959Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-1-oracy.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The prefix 'pre-' is redundant as 'prepared' already implies prior action; 'prepared' is more concise and stylistically preferred in formal writing."
+    }
+  ]
+}

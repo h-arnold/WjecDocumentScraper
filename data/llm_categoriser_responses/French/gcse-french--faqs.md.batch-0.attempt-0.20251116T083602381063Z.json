@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:36:02.381063Z",
+  "subject": "French",
+  "filename": "gcse-french--faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'and' is correctly used as a conjunction in this sentence."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'to' is repeated unnecessarily, creating a grammatical error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The term 'ISBN numbers' is redundant; 'ISBNs' or 'ISBN' is the preferred and more concise usage."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The term 'ISBN numbers' is redundant; 'ISBNs' or 'ISBN' is the preferred and more concise usage."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&quot;` should be rendered as a standard double quotation mark in the final document."
+    }
+  ]
+}

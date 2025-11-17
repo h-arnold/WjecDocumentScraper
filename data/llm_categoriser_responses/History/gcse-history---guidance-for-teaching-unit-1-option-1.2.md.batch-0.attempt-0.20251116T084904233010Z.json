@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:49:04.233010Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any of the other' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'mid-fourteenth century' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Sycharth' is repeated unnecessarily, indicating a duplication error in the resource list."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the historical term is 'Tripartite', not 'Triparte'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity '&quot;' should be replaced with a proper double quotation mark for correct rendering."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mid Wales' is the correct and established geographical name, typically unhyphenated."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'The are' is an absolute grammatical error and should be corrected to 'There are'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mid Wales' is the correct and established geographical name, typically unhyphenated."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Evidence-based' requires a hyphen as it functions as a compound adjective."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cross-curricular' requires a hyphen as it functions as a compound adjective in educational terminology."
+    }
+  ]
+}

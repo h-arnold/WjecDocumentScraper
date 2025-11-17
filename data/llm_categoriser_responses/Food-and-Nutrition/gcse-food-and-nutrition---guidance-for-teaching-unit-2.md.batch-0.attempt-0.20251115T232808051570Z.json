@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:28:08.051570Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'pre-released' requires a hyphen for correct UK English usage and consistency with earlier text."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'working' is repeated unnecessarily, creating a grammatical error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'characteristics' is redundant and creates an awkward phrase 'contribute to the characteristics success of a recipe'; it should likely be 'contribute to the success of a recipe'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'pH' is a scientific abbreviation and should be capitalised with no full stop."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Vitamin C' is the correct capitalisation for the specific vitamin."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Munsell chart' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Quiche Lorraine' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The hyphen is correctly used as a list bullet point in the Markdown formatting."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'pH' is a scientific abbreviation and should be capitalised with no full stop."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The verb phrase 'will help guiding' is grammatically incorrect; it should be 'will help to guide' or 'will help guide'."
+    }
+  ]
+}

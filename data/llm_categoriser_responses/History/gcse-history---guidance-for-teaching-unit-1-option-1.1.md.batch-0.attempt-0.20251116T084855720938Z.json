@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:48:55.720938Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A hyphen is inappropriate here; a colon or en dash is standard for separating a main title from a unit number in a table of contents."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'content of any of the other selected units' is grammatically correct and clear."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A hyphen is inappropriate here; a colon or en dash is standard for separating a main title from a unit number in a heading."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The repetition of 'Wales' indicates a missing separator between two distinct resource titles, likely requiring a colon or comma."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'on the death of' is a grammatically correct and common idiom meaning 'upon the death of' or 'following the death of'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The verb 'are' correctly agrees with the plural subject 'Events in England, including the Anarchy, the Becket controversy, the Great Revolt'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Evidence-based' is a compound adjective and requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cross-curricular' is a compound adjective and requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Western Europe' is a proper noun referring to a specific geographical and cultural region and should be capitalised."
+    }
+  ]
+}

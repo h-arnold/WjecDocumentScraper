@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:11:51.960022Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-2-computer-programming.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The symbol '<=' is a correct logical operator in the provided pseudo-code context."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'HasNumeric' is a correctly used variable name within the pseudo-code."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'If' is a correctly used keyword within the pseudo-code for a conditional statement."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'HasNumeric' is a correctly used variable name within the pseudo-code."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'case-sensitive' is often hyphenated as a compound adjective, 'case sensitive' is also acceptable, especially when used predicatively."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'IncorrectPassword' is a specific string literal used as an example of test data, not a natural language error."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is incorrectly used before 'each' in this phrase."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is incorrectly used before 'each' in this phrase."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is incorrectly used before 'each' in this phrase."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is incorrectly used before 'each' in this phrase."
+    }
+  ]
+}

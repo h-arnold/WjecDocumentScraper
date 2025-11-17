@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:25:37.931928Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 11,
+  "attempt": 0,
+  "issue_ids": [
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+  ],
+  "response": [
+    {
+      "issue_id": 110,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition of 'and' is characteristic of spoken language in a transcript and should be retained."
+    },
+    {
+      "issue_id": 111,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition of 'and' is a natural feature of spoken language in a transcript."
+    },
+    {
+      "issue_id": 112,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition of 'and' is a natural feature of spoken language in a transcript."
+    },
+    {
+      "issue_id": 113,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Wanna' is an accurate transcription of spoken informal English and should be retained in a transcript."
+    },
+    {
+      "issue_id": 114,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Recognise' is the correct UK English spelling and should be retained."
+    },
+    {
+      "issue_id": 115,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The repetition of 'we're' is characteristic of spoken language in a transcript, and 'but' is used correctly."
+    },
+    {
+      "issue_id": 116,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'And' is used correctly as a conjunction in this spoken context."
+    },
+    {
+      "issue_id": 117,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Er' is an accurate transcription of a vocalised pause in spoken language and should be retained."
+    },
+    {
+      "issue_id": 118,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    },
+    {
+      "issue_id": 119,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-15T23:16:08.900106Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-3.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'statical' is incorrectly used; 'statistical' is required to refer to evidence derived from statistics."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Interview' is correctly used as part of a descriptive title for a resource."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'youtube.com' is correctly presented as a lowercase URL, not a standalone proper noun requiring capitalization."
+    }
+  ]
+}

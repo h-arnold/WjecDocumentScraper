@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:16:34.702242Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-1-non-exam-assessment-pack-sample.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Telephone' is split across two table cells due to a parsing or formatting error."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Telephone' is split across two table cells due to a parsing or formatting error."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML attribute 'href' is visible, indicating a rendering or parsing issue with the Markdown table."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The word 'or' is correct in context, but it is adjacent to a visible HTML tag `</a>`, indicating a parsing or rendering issue."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of a word, likely 'acting', resulting from a corrupted or misparsed table row."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of a word, likely part of 'candidates' or 'groups', resulting from a corrupted or misparsed table row."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of 'candidates', resulting from a corrupted or misparsed table row."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of 'candidate', resulting from a corrupted or misparsed table row."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of 'candidate', resulting from a corrupted or misparsed table row."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of a word, likely 'four' or 'group', resulting from a corrupted or misparsed table row."
+    }
+  ]
+}

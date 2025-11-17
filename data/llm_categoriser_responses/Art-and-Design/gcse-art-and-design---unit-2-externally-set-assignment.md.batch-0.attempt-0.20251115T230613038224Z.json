@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-15T23:06:13.038224Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---unit-2-externally-set-assignment.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While not strictly incorrect, 'outside' is more concise and stylistically preferred in formal writing than 'outside of'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'marking scheme' requires the singular verb 'is', not 'are'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While not strictly incorrect, 'outside' is more concise and stylistically preferred in formal writing than 'outside of'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'but' is advisable when it connects two independent clauses to improve readability."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'independently from' is acceptable, 'independently of' is often considered more idiomatic in this context."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'independently from' is acceptable, 'independently of' is often considered more idiomatic in this context."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The modal verb 'will' must be followed by the base form of the verb, so 'outlines' should be 'outline'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'but' is advisable when it connects two independent clauses to improve readability."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'YY' is a standard and correct placeholder for the year in a date format within a table header."
+    }
+  ]
+}

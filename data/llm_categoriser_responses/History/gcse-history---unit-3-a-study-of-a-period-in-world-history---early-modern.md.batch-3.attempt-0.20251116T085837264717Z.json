@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:58:37.264717Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---early-modern.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'ks' is a parsing error, likely part of 'Marks' which has been reversed and split in the table header."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'sti' is a parsing error, likely part of 'Question' which has been reversed and split in the table header."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'ai' is a parsing error, part of a reversed and split question identifier like '3.4.1 ai'."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'aii' is a parsing error, part of a reversed and split question identifier like '3.4.1 aii'."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'bii' is a parsing error, part of a reversed and split question identifier like '3.4.1 bii'."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'ci' is a parsing error, part of a reversed and split question identifier like '3.4.1 ci'."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'cii' is a parsing error, part of a reversed and split question identifier like '3.4.1 cii'."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'ai' is a parsing error, part of a reversed and split question identifier like '3.4.2 ai'."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'aii' is a parsing error, part of a reversed and split question identifier like '3.4.2 aii'."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The text 'bii' is a parsing error, part of a reversed and split question identifier like '3.4.2 bii'."
+    }
+  ]
+}

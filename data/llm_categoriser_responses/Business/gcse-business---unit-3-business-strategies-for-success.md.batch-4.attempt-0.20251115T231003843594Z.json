@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-15T23:10:03.843594Z",
+  "subject": "Business",
+  "filename": "gcse-business---unit-3-business-strategies-for-success.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'EdenHarvest' requires the singular verb 'sells'."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' would be stylistically preferable when joining two independent clauses, but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'EdenHarvest' is a proper noun and is correctly used as the business name."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:16:43.307599Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-1-non-exam-assessment-pack-sample.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'than four'."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'than four'."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'than four'."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'more than'."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'or' is used correctly as a conjunction in this context."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'candidates'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'candidates'."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'candidates'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'gro' is a fragment of the word 'group' within a corrupted and duplicated sentence."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "This is a fragment of text within a corrupted table cell, likely part of 'more than'."
+    }
+  ]
+}

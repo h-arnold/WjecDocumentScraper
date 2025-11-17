@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:44:13.682398Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---unit-1-our-physical-and-human-world.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'box A the relief' is grammatically correct, with 'box A' acting as a noun phrase followed by another noun phrase 'the relief'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'box A the relief' is grammatically correct, with 'box A' acting as a noun phrase followed by another noun phrase 'the relief'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The issue highlights part of an HTML superscript tag `<sup>D</sup>`, indicating a parsing or rendering problem rather than a linguistic error."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The phrase 'repeats again' is a pleonasm; 'repeats' alone is sufficient and more concise for formal writing."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The hyphenated form 'zig-zag' is a correct and commonly used compound adjective in UK English when modifying a noun like 'pattern'."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well structured' follows the noun it modifies (e.g., 'response that is... well structured'), it is correctly unhyphenated."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well structured' follows the noun it modifies (e.g., 'response that is... well structured'), it is correctly unhyphenated."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well structured' follows the noun it modifies (e.g., 'response that is... well structured'), it is correctly unhyphenated."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'wildfire' is typically written as a single word in UK English when referring to the natural disaster."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well structured' follows the noun it modifies (e.g., 'response that is... well structured'), it is correctly unhyphenated."
+    }
+  ]
+}

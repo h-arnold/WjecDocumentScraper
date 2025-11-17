@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-16T08:52:08.549104Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen when preceding the noun it modifies."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The historical term 'Anglo-Saxon' is conventionally hyphenated."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'northern Europe' is correctly lowercased as it refers to a general geographical region rather than a specific proper noun."
+    }
+  ]
+}

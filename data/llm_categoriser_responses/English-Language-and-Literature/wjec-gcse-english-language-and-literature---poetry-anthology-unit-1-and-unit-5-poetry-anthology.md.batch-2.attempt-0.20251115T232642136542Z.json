@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-15T23:26:42.136542Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Sabring is a correct and appropriate verb in the context of the poem, meaning to strike with a sabre."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Not' is redundantly repeated, indicating a transcription error."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Reck is an archaic but correctly used verb in the poem, meaning to heed or care for."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "lov'd is a correct poetic elision of 'loved' and is appropriate for the historical context of the poem."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used to indicate the elision in the poetic form 'scap'd."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'scap'd is a correct poetic elision of 'escaped' and is appropriate for the historical context of the poem."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Nothwestern is a misspelling of 'Northwestern' in the publisher's name."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Wislawa Szymborska is the correct spelling of the poet's name."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A space should ideally separate 'Poems' and the copyright symbol for better readability and standard typographic practice."
+    }
+  ]
+}

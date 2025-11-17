@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:50:15.217722Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.6.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen when preceding the noun it modifies."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'cross-curricular' should be hyphenated, consistent with WJEC's established style as seen in the document's own headings."
+    }
+  ]
+}

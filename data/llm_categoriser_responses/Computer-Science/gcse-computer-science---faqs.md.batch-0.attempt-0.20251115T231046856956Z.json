@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:10:46.856956Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A hyphen is required for '2-year' when used as a compound adjective modifying 'program' in UK English."
+    }
+  ]
+}

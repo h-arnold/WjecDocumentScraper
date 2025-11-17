@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-15T23:19:36.049229Z",
+  "subject": "Drama",
+  "filename": "wjec-gcse-drama-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'on-going' is not incorrect, 'ongoing' as a single word is the more common and preferred spelling in modern UK English."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "When used as a compound adjective modifying 'performances', 'live-streamed' should be hyphenated for clarity and grammatical correctness."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Floodlight' is conventionally written as a single word, consistent with other lighting terms like 'spotlight'."
+    }
+  ]
+}

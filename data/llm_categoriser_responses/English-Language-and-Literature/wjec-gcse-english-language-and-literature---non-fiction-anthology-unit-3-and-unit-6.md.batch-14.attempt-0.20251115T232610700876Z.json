@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:26:10.700876Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 14,
+  "attempt": 0,
+  "issue_ids": [
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146
+  ],
+  "response": [
+    {
+      "issue_id": 140,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The single quote is correctly used as part of the article title."
+    },
+    {
+      "issue_id": 141,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'step-relatives' is often hyphenated, 'Steprelatives' as a single word in a title is a stylistic choice rather than an absolute error."
+    },
+    {
+      "issue_id": 142,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is part of a URL slug and is correctly formatted for that context, not subject to standard grammatical rules."
+    },
+    {
+      "issue_id": 143,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is part of a URL slug and is correctly formatted for that context, not subject to standard grammatical rules."
+    },
+    {
+      "issue_id": 144,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'lang' is a correctly used URL parameter and not a grammatical error."
+    },
+    {
+      "issue_id": 145,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'uk' is part of a URL and correctly used as a top-level domain."
+    },
+    {
+      "issue_id": 146,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'License' is part of the official proper name 'Creative Commons License' and should retain its original spelling."
+    }
+  ]
+}

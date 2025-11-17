@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:57:14.111331Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Welsh-speaking' requires a hyphen as a compound adjective modifying 'residents'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two related clauses."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While grammatically acceptable, a more formal conjunction like 'therefore' or 'consequently' could be considered for stylistic improvement."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Toll gates' is a correct and commonly accepted compound noun."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Lewis Lewis' is a proper noun referring to a person's name and is correctly used."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'trunk' is used correctly in its context to refer to a chest or box."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Amongst' is an acceptable variant of 'among' in British English, though 'among' is more common."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two related clauses."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and idiomatic."
+    }
+  ]
+}

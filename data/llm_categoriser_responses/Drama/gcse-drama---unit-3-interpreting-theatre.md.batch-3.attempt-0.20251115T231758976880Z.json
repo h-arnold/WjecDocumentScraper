@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:17:58.976880Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Audery is a misspelling of the common name Audrey."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A comma is required after the introductory phrase 'For example'."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'or' would improve readability by separating two independent clauses."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Audery is a misspelling of the common name Audrey."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The abbreviation 'i.e.' should be followed by a comma."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Creditworthy should be written as a single compound word."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Quotation marks should be consistent; the opening single quote should be a double quote to match the closing one."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The opening single quote should be a double quote for consistency with standard quotation mark usage."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "In UK English, the period should typically be placed outside the closing quotation mark when it is not part of the quoted material."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A comma is required before 'so' when it connects two independent clauses."
+    }
+  ]
+}

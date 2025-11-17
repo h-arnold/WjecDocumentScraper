@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:08:57.493620Z",
+  "subject": "Business",
+  "filename": "gcse-business---unit-1-introduction-to-the-business-world.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "\"Exam onl\" is a standard abbreviation for \"Examiner only\" in WJEC documents."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Bloyers\" is a misspelling of \"employers\"."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"ra\" is a fragment of the name \"Amara\" due to a parsing error in the table."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"fi\" is a fragment of the word \"fixed\" due to a parsing error in the table."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"ixed\" is a fragment of the word \"fixed\" due to a parsing error in the table."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Shes\" is an incorrect contraction or possessive form; it should be \"She sells\" for correct grammar."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The year \"1998\" is correct and specific in this historical context."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before \"and\" in this compound sentence is a stylistic choice, not a grammatical requirement."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "\"Cafe\" is an acceptable spelling in UK English, though \"caf\u00e9\" is also correct."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While \"buy-one-get-one-free\" is often hyphenated as an adjective, the unhyphenated form is common and understandable in this context."
+    }
+  ]
+}

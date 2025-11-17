@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:59:56.630890Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---medieval.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a specific identifier within a table header, not a standard word requiring correction."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is a specific identifier within a table header, not a standard word requiring correction."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is a specific identifier within a table header, not a standard word requiring correction."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a specific identifier within a table header, not a standard word requiring correction."
+    }
+  ]
+}

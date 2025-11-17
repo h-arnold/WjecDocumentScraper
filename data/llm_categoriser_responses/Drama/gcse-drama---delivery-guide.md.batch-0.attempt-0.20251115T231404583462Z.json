@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:14:04.583462Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'on-going' should be hyphenated when modifying a noun like 'process'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'live-streamed' should be hyphenated when modifying 'performances'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While a comma before 'and' can improve clarity when joining independent clauses, its omission here is not an absolute grammatical error."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The asterisk is a formatting error, incorrectly breaking the word 'appropriately'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'creditworthy' should be written as a single compound word when used as an adjective."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'three-dimensional' should be hyphenated when modifying 'characters'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'floodlight' is typically written as a single compound word in theatrical and technical contexts."
+    }
+  ]
+}

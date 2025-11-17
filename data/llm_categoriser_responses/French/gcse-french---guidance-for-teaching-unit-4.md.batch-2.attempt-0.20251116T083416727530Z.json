@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:34:16.727530Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-4.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Tiktok is a proper noun and should be capitalized as 'TikTok'."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French definite article 'les' is correctly used in this context."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The French word 'cr\u00eapes' requires a circumflex accent over the 'e'."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "In French, the direct object pronoun 'les' should be attached to the affirmative imperative verb with a hyphen, forming 'm\u00e9langez-les'."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Miam Miam' is a correct and commonly used French expression for 'yum yum' in this context."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Salut Salut!' is a correct and common informal French greeting, appropriate for a song or rap opening."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Oui oui' is a correct and common informal French expression for emphasis, appropriate for a song or rap verse."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The French word 'Voil\u00e0' requires a grave accent over the 'a'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'ne' is correctly used as part of the French negation 'ne...pas'."
+    }
+  ]
+}

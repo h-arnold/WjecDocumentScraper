@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:52:54.785778Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.3.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'and' is grammatically correct in its context; the issue lies with the overall sentence structure of the bullet point, not the word itself."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The tool incorrectly flags 'th' as a standalone word due to Markdown link formatting; it is part of '16th'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "WJEC style typically prefers 'e-book' (hyphenated) over 'EBook' (closed up and capitalised)."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'first person' should be hyphenated as 'first-person' when modifying 'perspective'."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "WJEC style typically prefers 'e-book' (hyphenated) over 'EBook' (closed up and capitalised) for consistency."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'evidencebased' should be hyphenated as 'evidence-based'."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'crosscurricular' should be hyphenated as 'cross-curricular' according to WJEC style."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'outside of' is grammatically acceptable, 'outside' alone is often preferred for conciseness in formal writing."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'Third longest river' is grammatically correct and appropriate for a glossary definition."
+    }
+  ]
+}

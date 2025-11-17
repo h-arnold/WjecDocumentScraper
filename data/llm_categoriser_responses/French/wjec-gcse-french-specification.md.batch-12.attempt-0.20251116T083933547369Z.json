@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:39:33.547369Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 12,
+  "attempt": 0,
+  "issue_ids": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "response": [
+    {
+      "issue_id": 120,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('downwriting down') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 121,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive and the gerund form, which deviates from the document's established formatting."
+    },
+    {
+      "issue_id": 122,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('upgetting up') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 123,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive and the gerund form, which deviates from the document's established formatting."
+    },
+    {
+      "issue_id": 124,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('eateating') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 125,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('missmissing') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 126,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('mixmixing') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 127,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive and the gerund form, which deviates from the document's established formatting."
+    },
+    {
+      "issue_id": 128,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('upgoing up') is not present in the document; the text uses multiple spaces as a separator."
+    },
+    {
+      "issue_id": 129,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The problematic string identified by the tool ('bitebiting') is not present in the document; the text uses multiple spaces as a separator."
+    }
+  ]
+}

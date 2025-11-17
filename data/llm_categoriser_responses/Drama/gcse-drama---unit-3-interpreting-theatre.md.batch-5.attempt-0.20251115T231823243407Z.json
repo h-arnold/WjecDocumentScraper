@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:18:23.243407Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'and' is correctly used in the sentence, and the tool's suggestion is identical to the original text."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For decades, the apostrophe is generally omitted, making '1940s' the preferred stylistic choice in formal UK English."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a past time' correctly refers to a previous era, and 'pastime' would incorrectly change the meaning."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single compound adjective is the more common and preferred form in formal writing."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'or' is correctly used as a conjunction, and the tool's suggestion is identical to the original text."
+    },
+    {
+      "issue_id": 55,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single compound adjective is the more common and preferred form in formal writing."
+    },
+    {
+      "issue_id": 56,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe in 'show's' is incorrect; the verb 'shows' is required here, not a possessive or contraction."
+    },
+    {
+      "issue_id": 57,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The raw Markdown uses straight quotes (`\"`), which are correct for source files and typically rendered as smart quotes by the publishing system."
+    },
+    {
+      "issue_id": 58,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The abbreviation 'OK' (all caps) is the standard and preferred spelling in formal educational documents over the informal 'ok'."
+    },
+    {
+      "issue_id": 59,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Choregraphed' is a misspelling of the correct word 'choreographed'."
+    }
+  ]
+}

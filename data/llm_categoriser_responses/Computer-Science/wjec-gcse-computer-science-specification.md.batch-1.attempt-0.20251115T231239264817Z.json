@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:12:39.264817Z",
+  "subject": "Computer-Science",
+  "filename": "wjec-gcse-computer-science-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The `&lt;=` is the correct HTML entity for the less than or equal to symbol in Markdown, not an error."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The `&lt;=` is the correct HTML entity for the less than or equal to symbol in Markdown, not an error."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'pseudo code' is not strictly incorrect, 'pseudocode' is the more common and preferred single-word spelling in computing contexts."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`CapitalLetterOfName` is an example of a subroutine name, correctly formatted as a placeholder in the context of pseudocode conventions."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`SubroutineNeeded` is an example of a subroutine name, correctly formatted as a placeholder in the context of pseudocode conventions."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`myarray` is a common and appropriate placeholder name for an array in programming examples."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`myvariable` is a common and appropriate placeholder name for a variable in programming examples."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`myvariable` is a common and appropriate placeholder name for a variable in programming examples."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`if` is a correctly used keyword in the pseudocode selection construct example."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The repetition of 'while while' in the list of repetition constructs is a clear typographical error."
+    }
+  ]
+}

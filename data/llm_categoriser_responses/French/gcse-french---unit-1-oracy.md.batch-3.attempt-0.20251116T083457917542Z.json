@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:34:57.917542Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-1-oracy.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'On mange' is grammatically correct in this context."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'Il y a' is a correct expression meaning 'there is/are'."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The colon is correctly used to separate the example phrase from the instruction."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'but' is used correctly to introduce a contrasting clause."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between 'Unit 1' and the opening parenthesis."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:32:39.472103Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "unit-3---upskilling.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'wjec' is the organisation's acronym, presented in lowercase as part of a branding element, and is correct in this context."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'cbac' is the Welsh acronym for WJEC, presented as part of a branding element, and is correct in this context."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'chicker' is a clear misspelling of 'chicken'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Iulienne' is a misspelling of the culinary term 'Julienne'."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'Within days' is a grammatically correct and commonly used idiom."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'flatbread' should be written as a single word."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'or' is correctly used as a conjunction in this sentence."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'dem' is an informal abbreviation for 'demonstration'; while understandable, the full word is preferred in formal educational documents."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'part-time' should be hyphenated as a compound adjective modifying 'job'."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'a' is not present in the highlighted context, and the phrase 'Ready for the world' is grammatically correct."
+    }
+  ]
+}

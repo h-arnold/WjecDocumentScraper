@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:28:45.938593Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-3.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'auto-immune' is typically spelled as one word, 'autoimmune', in standard UK English and medical contexts."
+    }
+  ]
+}

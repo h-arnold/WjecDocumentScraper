@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-15T23:17:16.090016Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-2-non-exam-assessment-pack-sample.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'or' is correctly used as a conjunction within the intended phrase 'Character played or design skill selected'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'pro-forma' is not strictly incorrect, 'pro forma' (two words) is the more common and preferred style in formal UK English for WJEC documents."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'and' is correctly used as a conjunction connecting two independent clauses; a comma before it is optional but its absence is not an error."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'skillCharacter' is a clear concatenation of two words that should be separated, likely 'skill Character' or part of a malformed column header."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'or' is correctly used as a conjunction within the intended phrase 'Character played or design skill selected'."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Non-assessed' is a compound adjective that requires a hyphen in UK English when preceding the noun it modifies."
+    }
+  ]
+}

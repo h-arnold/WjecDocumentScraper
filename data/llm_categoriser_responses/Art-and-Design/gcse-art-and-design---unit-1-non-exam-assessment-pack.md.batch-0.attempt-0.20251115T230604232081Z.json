@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-15T23:06:04.232081Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---unit-1-non-exam-assessment-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While not grammatically incorrect, 'outside' is more concise and generally preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'The marking scheme' requires the singular verb 'is' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is misplaced, creating a grammatical error; it should be 'refer to the'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A superfluous comma creates a parsing error and should be removed."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "After the modal verb 'will', the base form of the verb 'outline' is required, not 'outlines'."
+    }
+  ]
+}

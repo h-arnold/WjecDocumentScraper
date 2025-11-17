@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:08:37.433702Z",
+  "subject": "Business",
+  "filename": "gcse-business---option-evening-flyer.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The spelling 'judgments' is inconsistent with 'judgements' used elsewhere in the document, and 'judgements' is the more common UK English spelling."
+    }
+  ]
+}

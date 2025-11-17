@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:26:32.100767Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'microbeads' is typically written as a single word in UK English."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'moodswings' is typically written as a single word in UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'seabird' is typically written as a single word in UK English."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Atlantic is correctly capitalised as it refers to the Atlantic Ocean, a proper noun."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'hot\u0435l' contains a Cyrillic '\u0435' instead of a Latin 'e', indicating a parsing or transcription error."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'cooln\u0435ss' contains a Cyrillic '\u0435' instead of a Latin 'e', indicating a parsing or transcription error."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Wild wild' is a deliberate poetic repetition in the original text by John Keats and should not be altered."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Hill side' is part of the original poetic text by John Keats and should be retained as written."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'And yet I am' is grammatically correct and part of the original poetic text by John Clare."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correlative conjunction 'neither' requires 'nor' to follow, not 'or'."
+    }
+  ]
+}

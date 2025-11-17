@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:22:44.978582Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature-unit-3-nea-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun like 'recording' for clarity and standard UK English style."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The phrase 'outside of' is often considered redundant; 'outside the centre' is more concise and equally clear."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun like 'recording' for clarity and standard UK English style."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The phrase 'outside of' is often considered redundant; 'outside the centre' is more concise and equally clear."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "When a numerical quantity and unit of time form a compound adjective before a noun, they should be hyphenated, making it '1-hour 45-minute period'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun like 'recording' for clarity and standard UK English style."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required before the coordinating conjunction 'but' when it joins two independent clauses."
+    }
+  ]
+}

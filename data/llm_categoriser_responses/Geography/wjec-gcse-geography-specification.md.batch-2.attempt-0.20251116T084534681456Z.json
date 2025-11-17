@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:45:34.681456Z",
+  "subject": "Geography",
+  "filename": "wjec-gcse-geography-specification.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is an acceptable variant and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "Both 'sub-tropical' and 'subtropical' are acceptable, and the hyphenated form is not incorrect in this geographical context."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is an acceptable variant and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is an acceptable variant and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is an acceptable variant and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Judgements' is the correct and preferred spelling in UK English, which WJEC documents adhere to."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The statistical term should be 'interquartile range' as a single closed compound word."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "As a compound noun in a technical context, 'cross-sections' should be hyphenated for clarity and standard usage."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "As a compound noun in a technical context, 'cross-sections' should be hyphenated for clarity and standard usage."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The standard and overwhelmingly preferred spelling for this technical term is 'geospatial' as a closed compound."
+    }
+  ]
+}

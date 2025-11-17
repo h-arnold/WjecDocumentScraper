@@ -1,0 +1,6 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,1,and,...ilable online in the summer term of 2025 and we will provide more information on the...,ErrorCategory.FALSE_POSITIVE,100,The word 'and' is correctly used as a conjunction in this sentence.
+1,1,to to,...ummary. The task will be generic enough to to allow the assessment of candidates' und...,ErrorCategory.PARSING_ERROR,100,"The word 'to' is repeated unnecessarily, creating a grammatical error."
+2,1,ISBN numbers,...heir learners to study.  #### **Q: Will ISBN numbers of the suggested works be provided?**  ...,ErrorCategory.STYLISTIC_PREFERENCE,90,The term 'ISBN numbers' is redundant; 'ISBNs' or 'ISBN' is the preferred and more concise usage.
+3,1,ISBN numbers,"...orks be provided?**  A: We will provide ISBN numbers for all suggested works at the ""Prepari...",ErrorCategory.STYLISTIC_PREFERENCE,90,The term 'ISBN numbers' is redundant; 'ISBNs' or 'ISBN' is the preferred and more concise usage.
+4,2,"""","...band 5, 17-20 marks are available where ""consistently relevant information is con...",ErrorCategory.PARSING_ERROR,100,The HTML entity `&quot;` should be rendered as a standard double quotation mark in the final document.

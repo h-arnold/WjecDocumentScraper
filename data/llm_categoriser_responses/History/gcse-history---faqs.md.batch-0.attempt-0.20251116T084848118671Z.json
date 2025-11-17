@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:48:48.118671Z",
+  "subject": "History",
+  "filename": "gcse-history---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'e-assessment' should be hyphenated for consistency with standard UK English and its prior use in the same paragraph."
+    }
+  ]
+}

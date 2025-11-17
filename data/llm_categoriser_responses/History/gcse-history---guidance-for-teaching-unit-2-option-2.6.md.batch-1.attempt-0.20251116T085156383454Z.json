@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-16T08:51:56.383454Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.6.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The repetition of 'and' is grammatically acceptable in a compound interrogative sentence, but a comma before the second 'and' could improve readability."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'Al-Qaeda' should be consistently hyphenated and capitalised as 'Al-Qaeda' throughout the document, as seen on pages 18 and 30."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The adverb 'unjustly' is awkwardly placed; the phrase should be rephrased for clearer grammar, such as 'unjustly subjected many communities to'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen when preceding the noun it modifies in UK English."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'cross-curricular' requires a hyphen when preceding the noun it modifies in UK English, consistent with WJEC style."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 99,
+      "reasoning": "The spelling 'guerrilla' is correct in this context, referring to 'guerrilla fighters'."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling 'organisation' should be used instead of the American English 'organization'."
+    }
+  ]
+}

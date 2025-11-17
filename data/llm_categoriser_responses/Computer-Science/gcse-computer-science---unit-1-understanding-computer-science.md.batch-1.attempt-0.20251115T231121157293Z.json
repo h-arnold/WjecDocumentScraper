@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:11:21.157293Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-1-understanding-computer-science.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The quotation mark is correctly used as a string delimiter within the provided code snippet."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The quotation mark is correctly used as a string delimiter within the provided code snippet."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'analysis' is unnecessarily repeated, indicating a typographical error."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'iteger' is a misspelling of the correct term 'integer'."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Ranso' is a fragment of the word 'Ransomware', indicating a formatting error in the table."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Wor' is a fragment of the word 'Ransomware', indicating a formatting error in the table."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'quo' is correctly used as part of the established Latin phrase 'Quid pro quo'."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'multi-factor' is correctly hyphenated as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'al' is a fragment of a word, likely 'Total Marks', indicating a formatting error in the table."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'ks' is a fragment of a word, likely 'Total Marks', indicating a formatting error in the table."
+    }
+  ]
+}

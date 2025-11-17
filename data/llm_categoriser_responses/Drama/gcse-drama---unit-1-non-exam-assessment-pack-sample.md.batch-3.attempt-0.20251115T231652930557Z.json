@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:16:52.930557Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-1-non-exam-assessment-pack-sample.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The character '\u041d' is a Cyrillic letter, indicating a parsing error; it should be 'Head of Drama'."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Mh' appears to be a fragment or a parsing error within the table structure, not a legitimate word or abbreviation in this context."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'independently of' is often preferred, 'independently from' is grammatically acceptable and conveys the intended meaning of working separately."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and adherence to UK English conventions, 'make-up' (hyphenated) is generally preferred as a noun, especially when used alongside 'hair and make-up'."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated in UK English for clarity."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well developed' follows the verb 'are', it functions as a predicate adjective and should not be hyphenated."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and adherence to UK English conventions, 'make-up' (hyphenated) is generally preferred as a noun, especially when used alongside 'hair and make-up'."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and adherence to UK English conventions, 'make-up' (hyphenated) is generally preferred as a noun, especially when used alongside 'hair and make-up'."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and adherence to UK English conventions, 'make-up' (hyphenated) is generally preferred as a noun, especially when used alongside 'hair and make-up'."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and adherence to UK English conventions, 'make-up' (hyphenated) is generally preferred as a noun, especially when used alongside 'hair and make-up'."
+    }
+  ]
+}

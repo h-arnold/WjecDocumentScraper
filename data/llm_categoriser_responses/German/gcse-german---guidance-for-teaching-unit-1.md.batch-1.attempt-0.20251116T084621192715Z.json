@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:46:21.192715Z",
+  "subject": "German",
+  "filename": "gcse-german---guidance-for-teaching-unit-1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'German-speaking' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The proper noun for the AI model is 'ChatGPT', written as a single word."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound verb 'cross-checking' should be hyphenated."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The adverb 'usually' is more naturally placed before the main verb, i.e., 'what they usually do'."
+    }
+  ]
+}

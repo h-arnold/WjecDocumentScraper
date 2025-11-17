@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:50:11.326178Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.6.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'1950s'' is the correct possessive form for the decade, indicating something belonging to the 1950s."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'12-minute' should be hyphenated as a compound adjective modifying 'video'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'1950s'' is the correct possessive form for the decade, indicating something belonging to the 1950s."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Working-class' should be hyphenated when used as a compound adjective before a noun."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Adding 'the' before '1930s' ('Poverty in the 1930s Britain') would be more grammatically standard for referring to a decade."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' is optional when joining two short, closely related independent clauses."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Adding 'the' before '1930s' ('Poverty in the 1930s Britain') would be more grammatically standard for referring to a decade."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The sentence 'How many calories per day per person did rationing allow for?' is grammatically correct."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Early years literature' is a standard and grammatically correct educational term."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i'r byd.  Made for Wales. Ready for the wo...,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr).
+1,7,Cadwoli,...li tymheredd. - Hylendid a diogelwch. - Cadwoli. - Gwenwyn bwyd.  Adnoddau CBAC/WJEC Re...,ErrorCategory.SPELLING_ERROR,100,'Cadwoli' is not a recognised Welsh word; the correct term for 'preservation' is 'cadwraeth'.
+2,8,',...cture_2.jpeg)  - Tarddiad bwyd. - Bwyd a'r amgylchedd. - Prosesu bwyd cynradd ac ...,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used in the Welsh contraction 'a'r' (a + yr).
+3,12,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i'r byd.  Made for Wales. Ready for the wo...,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr).

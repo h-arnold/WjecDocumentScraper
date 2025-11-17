@@ -1,0 +1,6 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,5,1960's,"... come to German as guest workers in the 1960's. The film explores themes of family, mi...",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,An apostrophe should not be used when forming the plural of a decade; '1960s' is the correct form.
+1,7,outside of,...cess evidence they have been developing outside of supervised activities.  {8}------------...,ErrorCategory.STYLISTIC_PREFERENCE,80,'Outside' is more concise and generally preferred over 'outside of' in formal writing.
+2,11,independently from,...ive you.  It is important that you work independently from other candidates and the work produced ...,ErrorCategory.STYLISTIC_PREFERENCE,75,'Independently of' is generally considered more idiomatic and common in UK English than 'independently from'.
+3,21,and,...elow. The number of words is approximate and all work must be marked. The bullet poi...,ErrorCategory.FALSE_POSITIVE,95,"The conjunction 'and' correctly links two independent clauses in this sentence, and no change is required."
+4,21,but,...marked. The bullet points are compulsory but equal coverage is not required.  #### *...,ErrorCategory.STYLISTIC_PREFERENCE,90,'But' is a grammatically correct and appropriate conjunction for introducing a contrasting clause in this context.

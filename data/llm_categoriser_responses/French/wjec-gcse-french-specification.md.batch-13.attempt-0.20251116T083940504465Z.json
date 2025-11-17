@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:39:40.504465Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 13,
+  "attempt": 0,
+  "issue_ids": [
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139
+  ],
+  "response": [
+    {
+      "issue_id": 130,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'die' and the present participle 'dying'."
+    },
+    {
+      "issue_id": 131,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'snow' and the present participle 'snowing'."
+    },
+    {
+      "issue_id": 132,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'clean' and the present participle 'cleaning'."
+    },
+    {
+      "issue_id": 133,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'organise' and the present participle 'organising'."
+    },
+    {
+      "issue_id": 134,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'open' and the present participle 'opening'."
+    },
+    {
+      "issue_id": 135,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'forgive' and the present participle 'forgiving'."
+    },
+    {
+      "issue_id": 136,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'happen' and the present participle 'happening'."
+    },
+    {
+      "issue_id": 137,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'sit' and the present participle 'sitting'."
+    },
+    {
+      "issue_id": 138,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'lose' and the present participle 'losing'."
+    },
+    {
+      "issue_id": 139,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'weigh' and the present participle 'weighing'."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:47:31.191517Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-1-oracy.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is required between 'Unit 1' and the opening parenthesis for correct formatting."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'pre-prepared' should be hyphenated for clarity in UK English."
+    }
+  ]
+}

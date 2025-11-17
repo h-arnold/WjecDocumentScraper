@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:30:47.766018Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "\"Skillfully\" is an acceptable UK English spelling, and its consistent use suggests it is the preferred style for this document."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Colors\" is the American English spelling; the correct UK English spelling is \"colours\"."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "\"Skillfully\" is an acceptable UK English spelling, and its consistent use suggests it is the preferred style for this document."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Creditworthy\" should be written as a single word when used as an adjective."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is required between \"toasting\" and the opening parenthesis for correct formatting."
+    }
+  ]
+}

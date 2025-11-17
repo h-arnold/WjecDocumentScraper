@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T22:40:35.603505Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 0,
+  "attempt": 1,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The phrase 'whether or not' is grammatically correct and emphasizes the two alternatives, making the original acceptable."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The conjunction 'or' correctly links two alternative delivery methods, though the phrasing could be slightly more concise."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While 'outside' is often preferred for conciseness, 'outside of' is grammatically acceptable and commonly used."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' correctly links two related independent clauses, making the original sentence grammatically sound."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Two-dimensional' requires a hyphen when used as a compound adjective modifying 'work' in UK English."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Three-dimensional' requires a hyphen when used as a compound adjective modifying 'work' in UK English."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Work-related' should be hyphenated as a compound adjective modifying 'experiences'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Self-imposed' requires a hyphen as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Self-discipline' requires a hyphen as a compound noun in UK English."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Salon des Refus\u00e9s' is a proper noun and requires an acute accent on the 'e' in 'Refus\u00e9s'."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:41:36.611977Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-1.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'youtube.com' is correctly used as part of a URL and link text."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The spelling 'apartments' is correct in UK English."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The spelling 'apartments' is correct in UK English."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Peripheria' is a specific geographical term used in urban studies, correct in this context."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'although' is used correctly to introduce a contrasting clause."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sao Paulo' is the correct spelling of a major city and proper noun."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sao Paulo' is the correct spelling of a major city and proper noun."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Top-rated' should be hyphenated as a compound adjective modifying 'universities'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sao Paulo' is the correct spelling of a major city and proper noun."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Blue Amazon' is a proper noun referring to Brazil's maritime territory and should be capitalised."
+    }
+  ]
+}

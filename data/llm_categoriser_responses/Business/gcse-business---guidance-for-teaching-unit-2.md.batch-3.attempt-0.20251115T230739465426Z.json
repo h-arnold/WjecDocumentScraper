@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:07:39.465426Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-2.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'explore' is repeated unnecessarily, creating a redundancy."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Businesses activity' should be 'business activity' as 'business' functions as an adjective modifying 'activity'."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Feedback' is used incorrectly as a verb; the correct verb phrase is 'feed back' or 'give feedback'."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Diversity action plan' is a correct and commonly accepted compound noun phrase without requiring hyphenation."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Decisionmaking' should be hyphenated as 'decision-making' in formal UK English."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Pro-active' should be written as one word, 'proactive', in modern UK English usage."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The indefinite article 'an' is incorrect before 'business', which begins with a consonant sound; it should be 'a'."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Organized' is American spelling; the correct UK English equivalent is 'organised'."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Socio-economic' is correctly hyphenated as a compound adjective in the provided context."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The preferred stylistic convention for 'and / or' is 'and/or' without spaces."
+    }
+  ]
+}

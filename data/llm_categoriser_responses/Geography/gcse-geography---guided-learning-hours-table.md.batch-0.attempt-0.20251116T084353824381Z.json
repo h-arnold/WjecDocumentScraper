@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:43:53.824381Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guided-learning-hours-table.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective '2-year' requires a hyphen when preceding the noun 'course' in standard UK English."
+    }
+  ]
+}

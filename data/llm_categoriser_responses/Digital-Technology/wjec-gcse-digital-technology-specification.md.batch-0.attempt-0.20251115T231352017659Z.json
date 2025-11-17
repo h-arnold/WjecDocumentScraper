@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:13:52.017659Z",
+  "subject": "Digital-Technology",
+  "filename": "wjec-gcse-digital-technology-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'consequences of' is more common, 'consequences to' is grammatically acceptable in this context."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Compound adjectives preceding a noun, such as 'privacy-focused', should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive marker 'to' is missing after 'able', making the phrase 'able review' grammatically incorrect."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Products' is correctly used as a plural noun in the context of a section title."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Products' is correctly used as a plural noun in the context of a section title."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The standard and most common spelling for the technical term is 'Markup' as a single word, not 'Mark-up'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Multiplayer' should be written as a single, unhyphenated word when used as a compound term."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'customize' is 'customise'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Fade-in' should be hyphenated as a compound noun or adjective."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'organize' is 'organise'."
+    }
+  ]
+}

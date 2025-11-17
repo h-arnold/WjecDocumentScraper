@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:35:35.922117Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-4-reading-and-writing.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While not strictly incorrect, 'outside' is more concise and generally preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The construction 'but that' is grammatically correct here, linking two parallel clauses."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Au sud de la France' is correct French for 'in the south of France' and is part of the foreign language stimulus."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Ne' is a correct part of the standard French negative construction 'ne...plus'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The placement of the euro symbol after the number is common and acceptable in European French usage, which is appropriate for this French text."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'A' is the correct form of the verb 'avoir' in the French expression 'il y a'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Un bon choix' is grammatically correct French, as 'bon' is an adjective that can precede the noun."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'A' is the correct form of the verb 'avoir' in the French expression 'il y a'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Un bon choix' is grammatically correct French, as 'bon' is an adjective that can precede the noun."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Au sud de la France' is correct French for 'in the south of France' and is part of the foreign language stimulus."
+    }
+  ]
+}

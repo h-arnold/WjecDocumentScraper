@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:11:27.504300Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-1-understanding-computer-science.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The string 'al ks ot' is a garbled entry in a table header, likely intended to be 'Total Marks', indicating a parsing or severe typographical error."
+    }
+  ]
+}

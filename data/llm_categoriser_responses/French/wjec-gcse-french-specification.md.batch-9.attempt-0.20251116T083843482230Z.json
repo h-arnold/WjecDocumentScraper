@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:38:43.482230Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 9,
+  "attempt": 0,
+  "issue_ids": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "response": [
+    {
+      "issue_id": 90,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 91,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 92,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list, with the two spaces acting as a clear separator."
+    },
+    {
+      "issue_id": 93,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 94,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 95,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 96,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly parses 'to diffuser' as a phrase; 'diffuser' is the start of a new French verb entry, correctly followed by its English translation."
+    },
+    {
+      "issue_id": 97,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 98,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    },
+    {
+      "issue_id": 99,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The format 'infinitive   gerund' is an intentional and correct stylistic choice for presenting verb forms in this dictionary-like list."
+    }
+  ]
+}

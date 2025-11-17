@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:15:54.051508Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-3.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The inclusion of '(youtube.com)' in the link display text is redundant as the URL itself indicates it is a YouTube link."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is required before 'ideas' for correct grammar."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Mold' is a proper noun (a town in Wales) and is spelled correctly, though the surrounding link formatting is broken."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The inclusion of '(youtube.com)' in the link display text is redundant as the URL itself indicates it is a YouTube link."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The inclusion of '(youtube.com)' in the link display text is redundant as the URL itself indicates it is a YouTube link."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Gender fluid' is a correct and widely accepted term when used as a predicate adjective."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'East is East' is the correct title of a play/film and is appropriately enclosed in single quotation marks."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'three-dimensional' requires a hyphen when preceding the noun 'characters'."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma after 'directors' is optional for clarity but not grammatically required in this context."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The inclusion of '(youtube.com)' in the link display text is redundant as the URL itself indicates it is a YouTube link."
+    }
+  ]
+}

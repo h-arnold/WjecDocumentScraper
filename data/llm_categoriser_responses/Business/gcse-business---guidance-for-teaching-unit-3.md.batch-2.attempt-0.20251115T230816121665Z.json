@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:08:16.121665Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-3.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The construction 'both... as well as' is redundant; it should be 'both... and' or simply 'as well as'."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The proper noun 'McDonalds' should be spelled with an apostrophe as 'McDonald's'."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'proof-reading' is acceptable, 'proofreading' as a single word is the more common and preferred spelling in modern UK English."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Hire purchase' is a correct and standard financial term written as two separate words."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'have had had' is grammatically incorrect; it should be 'have had'."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'challenges' requires the plural verb 'have', not 'has', for subject-verb agreement."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct idiom is 'with regard to' (singular 'regard') or 'as regards', not 'with regards to'."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and appropriate in this context."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required before 'but' when it connects two independent clauses."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'taken back' is grammatically correct and appropriate in this context."
+    }
+  ]
+}

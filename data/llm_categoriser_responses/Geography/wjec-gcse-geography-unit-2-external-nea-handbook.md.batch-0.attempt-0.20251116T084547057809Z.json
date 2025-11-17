@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:45:47.057809Z",
+  "subject": "Geography",
+  "filename": "wjec-gcse-geography-unit-2-external-nea-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The word 'of' is often redundant after 'outside' in formal writing, making 'outside' alone more concise."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'six-stage' requires a hyphen when modifying 'enquiry process'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The ordinal indicator 'th' should immediately follow the numeral '5' without a space, or the full word 'fifth' should be used."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'but' would improve clarity as it connects two independent clauses, but its omission is not a strict grammatical error."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'well-organised' is often hyphenated as a compound adjective, it is acceptable without a hyphen when in a predicative position."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'well-structured' is often hyphenated as a compound adjective, it is acceptable without a hyphen when in a predicative position."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'but' would improve clarity as it connects two independent clauses, but its omission is not a strict grammatical error."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'well-organised' is often hyphenated as a compound adjective, it is acceptable without a hyphen when in a predicative position."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'well-structured' is often hyphenated as a compound adjective, it is acceptable without a hyphen when in a predicative position."
+    }
+  ]
+}

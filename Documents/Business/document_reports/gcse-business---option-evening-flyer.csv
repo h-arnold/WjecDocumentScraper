@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,judgments,...siness information to make decisions or judgments. - Personal Effectiveness Skills achiev...,ErrorCategory.STYLISTIC_PREFERENCE,90,"The spelling 'judgments' is inconsistent with 'judgements' used elsewhere in the document, and 'judgements' is the more common UK English spelling."

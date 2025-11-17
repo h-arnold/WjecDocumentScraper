@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:27:37.228343Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Macronutrients' is duplicated, with the second instance incorrectly lowercased."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Water soluble' should be hyphenated as a compound adjective modifying 'vitamins'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Sugar free' should be hyphenated as a compound adjective modifying 'orange squash'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The use of single quotes around 'd)' is a correct and common way to refer to a specific part of a task."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The single quote is correctly used to delineate the letter 'd' in 'Part 'd)'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The use of single quotes around 'd)' is a correct and common way to refer to a specific part of a task."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The single quote is correctly used to delineate the letter 'd' in 'Part 'd)'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 80,
+      "reasoning": "'Fruit and nut' is a common unhyphenated compound noun phrase describing a type of flapjack."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'notes' is correctly used as the name of a column in the table."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'notes' is correctly used as the name of a column in the table."
+    }
+  ]
+}

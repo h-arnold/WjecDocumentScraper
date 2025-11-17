@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-16T08:35:13.764191Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-2-reading-and-writing.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrasing 'study of any of these example works' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'With the exception of' is a standard and grammatically correct English idiom."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside of' is not strictly incorrect, 'outside' is more concise and generally preferred in formal UK English."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Both 'independently from' and 'independently of' are acceptable, but 'independently of' is often preferred in formal UK English when denoting a lack of reliance."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Cafe' is intentionally presented without an accent as an example of a 'minor error' (missing accent) in French, as explained in the glossary."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required before the coordinating conjunction 'but' when it connects two independent clauses."
+    }
+  ]
+}

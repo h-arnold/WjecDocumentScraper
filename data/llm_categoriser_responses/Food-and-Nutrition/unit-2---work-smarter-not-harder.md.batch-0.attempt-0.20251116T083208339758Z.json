@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:32:08.339758Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "unit-2---work-smarter-not-harder.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is a correct part of the Welsh word 'i'r' (i + yr)."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "This is part of a Markdown link text and accurately reflects the file name, not a grammatical error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The repetition of 'really' is a stylistic choice for emphasis, but a single 'really' or a stronger adjective would be more formal."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cupcake' should be written as one word in standard UK English."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'softwear' is a misspelling; the correct term is 'software'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Classbook' is typically written as two words, 'class book,' in standard UK English."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The link display text 'wnload' is a truncation of 'download' and should be corrected for clarity."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'nodeId' is a correct technical parameter within the URL and not a grammatical or spelling error."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Really good' is informal; a more formal or precise adjective would be preferable in educational materials."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The letter 'a' is correctly used as part of the Welsh word 'arbennig'."
+    }
+  ]
+}

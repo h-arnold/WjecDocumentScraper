@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:56:56.546981Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---medieval.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'ks' is a fragment of 'Marks' due to incorrect parsing of the table header."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'ai' is a fragment of a question part (e.g., 'a(i)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'aii' is a fragment of a question part (e.g., 'a(ii)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'bii' is a fragment of a question part (e.g., 'b(ii)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'ci' is a fragment of a question part (e.g., 'c(i)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'cii' is a fragment of a question part (e.g., 'c(ii)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'ai' is a fragment of a question part (e.g., 'a(i)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'aii' is a fragment of a question part (e.g., 'a(ii)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'bii' is a fragment of a question part (e.g., 'b(ii)') due to incorrect parsing of the table content."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'ai' is a fragment of a question part (e.g., 'a(i)') due to incorrect parsing of the table content."
+    }
+  ]
+}

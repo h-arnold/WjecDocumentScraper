@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,3,outside of,...cess evidence they have been developing outside of supervised activities.  {4}------------...,ErrorCategory.STYLISTIC_PREFERENCE,80,"While not strictly incorrect, 'outside' is generally preferred over 'outside of' for conciseness in formal writing."
+1,4,are,... The marking scheme for this assessment are included in the candidate pack.  All ma...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The singular subject 'The marking scheme' requires the singular verb 'is' for correct subject-verb agreement.
+2,7,independently from,...ive you.  It is important that you work independently from other candidates and the work produced ...,ErrorCategory.FALSE_POSITIVE,90,'Independently from' is a grammatically correct and acceptable phrasing in this context.
+3,14,credit worthy,"...o the work submitted. Where work is not credit worthy, that is, contains nothing of any signi...",ErrorCategory.PARSING_ERROR,100,'Creditworthy' is a compound adjective and should be written as a single word.

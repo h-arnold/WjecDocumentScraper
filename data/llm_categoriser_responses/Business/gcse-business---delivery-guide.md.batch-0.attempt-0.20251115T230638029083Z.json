@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-15T23:06:38.029083Z",
+  "subject": "Business",
+  "filename": "gcse-business---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'hand-written' should be hyphenated when preceding the noun or verb phrase it modifies."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'hand-written' should be hyphenated when preceding the noun or verb phrase it modifies."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' when joining two independent clauses is a stylistic choice for clarity, not a grammatical requirement."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Hire purchase' is a correct and standard financial term, written as two separate words."
+    }
+  ]
+}

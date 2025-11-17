@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:18:09.112888Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single-word spelling 'makeup' is an acceptable and increasingly common form for cosmetics in UK English."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'non-descript' is correctly hyphenated."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The term 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'self-image' should be hyphenated."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Audery' is a likely misspelling of the common name 'Audrey'."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The term 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'show's' is an incorrect contraction; it should be the verb 'shows'."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The non-standard grammar 'You seen' is part of a direct character quote and should be preserved."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&quot;` is correctly used to represent a double quotation mark in the markdown source."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'us' is a misspelling of 'use' in this context."
+    }
+  ]
+}

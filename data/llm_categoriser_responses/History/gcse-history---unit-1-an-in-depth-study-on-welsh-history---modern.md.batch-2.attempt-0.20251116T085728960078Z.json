@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:57:28.960078Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'aii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'bii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'ai' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'aii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'bii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'ai' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'aii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'bii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'ai' is a correct abbreviation used as a label within the table header, not a standalone word."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The highlighted text 'aii' is a correct abbreviation used as a label within the table header, not a standalone word."
+    }
+  ]
+}

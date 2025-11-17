@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:39:58.627792Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 15,
+  "attempt": 0,
+  "issue_ids": [
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "response": [
+    {
+      "issue_id": 150,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'recommend' and the gerund 'recommending' as per the document's established format."
+    },
+    {
+      "issue_id": 151,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'cover' and the gerund 'covering' as per the document's established format."
+    },
+    {
+      "issue_id": 152,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'recycle' and the gerund 'recycling' as per the document's established format."
+    },
+    {
+      "issue_id": 153,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'reduce' and the gerund 'reducing' as per the document's established format."
+    },
+    {
+      "issue_id": 154,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'notice' and the gerund 'noticing' as per the document's established format."
+    },
+    {
+      "issue_id": 155,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents the infinitive phrase 'put down' and the gerund 'putting down' as per the document's established format."
+    },
+    {
+      "issue_id": 156,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'breathe' and the gerund 'breathing' as per the document's established format."
+    },
+    {
+      "issue_id": 157,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents the infinitive phrase 'come back' and the gerund 'coming back' as per the document's established format."
+    },
+    {
+      "issue_id": 158,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents the infinitive phrase 'sit down' and the gerund 'sitting down' as per the document's established format."
+    },
+    {
+      "issue_id": 159,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original text correctly presents both the infinitive 'sunbathe' and the gerund 'sunbathing' as per the document's established format."
+    }
+  ]
+}

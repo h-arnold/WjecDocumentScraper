@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:56:27.332067Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---early-modern.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is a correct and consistent abbreviation used within the table's question mapping notation."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a correct and consistent abbreviation used within the table's question mapping notation."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is a correct and consistent abbreviation used within the table's question mapping notation."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is a correct and consistent abbreviation used within the table's question mapping notation."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is a correct and consistent abbreviation used within the table's question mapping notation."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:33:13.954680Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French preposition 'au' is correctly used as a contraction of '\u00e0 le' in the phrase 'au restaurant'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'week-end' is a widely accepted and commonly used anglicism in French, often written with a hyphen."
+    }
+  ]
+}

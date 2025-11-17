@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:11:41.429010Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-2-computer-programming.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'on-screen' should be hyphenated when modifying a noun."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'NetPay' is a valid variable or object name within the context of programming code."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a maximum marks' is grammatically incorrect; it should be 'a maximum number of marks' or 'the maximum marks'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Both 'pseudo-code' and 'pseudocode' are acceptable spellings; the hyphenated form is a stylistic choice often used in technical documentation."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'HasNumeric' is a valid variable name within the context of pseudo-code."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'CurrentChar' is a valid variable name within the context of pseudo-code."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'HasNumeric' is a valid variable name within the context of pseudo-code."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'CurrentChar' is a valid variable name within the context of pseudo-code."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'CurrentChar' is a valid variable name within the context of pseudo-code."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'CurrentChar' is a valid variable name within the context of pseudo-code."
+    }
+  ]
+}

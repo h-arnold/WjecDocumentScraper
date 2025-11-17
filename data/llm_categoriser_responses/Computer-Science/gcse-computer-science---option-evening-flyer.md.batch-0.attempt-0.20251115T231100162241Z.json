@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:11:00.162241Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---option-evening-flyer.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'teamworking' is correctly spelled as a single word in UK English and is an accepted term."
+    }
+  ]
+}

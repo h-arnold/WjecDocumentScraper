@@ -1,0 +1,4 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,(,...cing                        | | Whisking(aeration)                 | Mixing      ...,ErrorCategory.FALSE_POSITIVE,95,The parenthesis is correctly used to provide an explanation for the preceding term.
+1,0,(,...                              | Toasting(nuts/seeds)             | Sieving       ...,ErrorCategory.FALSE_POSITIVE,95,The parenthesis is correctly used to provide an explanation for the preceding term.
+2,0,Sauteing,...  | Skimming      | |                 | Sauteing               | Toasting      | |      ...,ErrorCategory.SPELLING_ERROR,90,"The correct spelling for the culinary term is 'Sautéing' with an acute accent, as per standard UK English culinary terminology."

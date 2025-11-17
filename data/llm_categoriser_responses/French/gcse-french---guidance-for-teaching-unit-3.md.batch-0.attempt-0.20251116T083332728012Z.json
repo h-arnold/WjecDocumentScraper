@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:33:32.728012Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses in the sentence."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'French-speaking' should be hyphenated when used as a compound adjective modifying 'countries'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'French-speaking' should be hyphenated when used as a compound adjective modifying 'countries'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'All the' is more concise and stylistically preferred over 'all of the' in this context."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'All the' is more concise and stylistically preferred over 'all of the' in this context."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The abbreviation for 'for example' should be consistently written as 'e.g.' with periods."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The abbreviation for 'for example' should be consistently written as 'e.g.' with periods."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Than' is incorrectly used; it should be 'that' or 'which' to introduce a relative clause."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'French-speaking' should be hyphenated when used as a compound adjective modifying 'countries'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'French-speaking' should be hyphenated when used as a compound adjective modifying 'countries'."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:47:38.200123Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-2-reading-and-writing.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "An apostrophe should not be used when forming the plural of a decade; '1960s' is the correct form."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Outside' is more concise and generally preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Independently of' is generally considered more idiomatic and common in UK English than 'independently from'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' correctly links two independent clauses in this sentence, and no change is required."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'But' is a grammatically correct and appropriate conjunction for introducing a contrasting clause in this context."
+    }
+  ]
+}

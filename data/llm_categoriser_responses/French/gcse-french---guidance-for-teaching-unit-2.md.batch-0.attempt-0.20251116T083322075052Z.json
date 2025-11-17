@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-16T08:33:22.075052Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'assessments' requires the plural verb 'are'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound verb 're-enforce' requires a hyphen in standard UK English."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Subtitles' is generally written as one word in modern UK English."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Subheadings' is generally written as one word in modern UK English."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'but' is used correctly as a conjunction in this context."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Audiobooks' is generally written as one word in modern UK English."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'verbs' is correctly used to introduce a list of examples."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Gif' is a correctly used and widely accepted term for a type of image file."
+    }
+  ]
+}

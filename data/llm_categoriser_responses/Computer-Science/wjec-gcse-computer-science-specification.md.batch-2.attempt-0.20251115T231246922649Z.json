@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:12:46.922649Z",
+  "subject": "Computer-Science",
+  "filename": "wjec-gcse-computer-science-specification.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is a correct part of the pseudo-code function syntax being defined."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is a correct part of the pseudo-code function syntax being defined."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is a correct part of the pseudo-code function syntax being defined."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`instring` is a valid pseudo-code function name in this context, defining a string handling operation."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`stringa` is a valid parameter name within the pseudo-code function definition."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`stringb` is a valid parameter name within the pseudo-code function definition."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`len` is a valid pseudo-code function name in this context, defining a string handling operation."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is a correct part of the pseudo-code function syntax being defined."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`val` is a valid pseudo-code function name in this context, defining a string handling operation."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is a correct part of the pseudo-code function syntax being defined."
+    }
+  ]
+}

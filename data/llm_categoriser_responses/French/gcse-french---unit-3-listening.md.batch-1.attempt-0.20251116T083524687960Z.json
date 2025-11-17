@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:35:24.687960Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-3-listening.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'ne' is correctly used as part of the standard French negation 'ne pas participer'."
+    }
+  ]
+}

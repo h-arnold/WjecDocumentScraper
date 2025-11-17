@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:31:04.979790Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "overview-of-consultation-findings.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' in this compound sentence would improve clarity, but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'time-consuming' should be hyphenated when preceding the noun it modifies."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct idiom is 'with regard to' or 'as regards'; 'with regards to' is grammatically incorrect."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' in this compound sentence would improve clarity, but its omission is not a grammatical error."
+    }
+  ]
+}

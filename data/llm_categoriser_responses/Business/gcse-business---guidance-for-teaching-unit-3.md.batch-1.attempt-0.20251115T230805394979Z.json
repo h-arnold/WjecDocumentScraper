@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:08:05.394979Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-3.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Capitalising 'Net Zero' aligns with the specific government initiative and linked documents, improving consistency."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Hire purchase' is a standard financial term and is correctly written as two words in this context."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The brand name 'McDonald's' requires an apostrophe for correct possessive form."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The pronoun 'that' correctly refers to the innovation, making 'has' the correct verb form."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Visualizer' is part of a proper noun (an app name) and should not be altered for spelling variants."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'multi-channel' requires a hyphen for clarity in UK English."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'multi-channel' requires a hyphen for clarity in UK English."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'short-listing' is acceptable, 'shortlisting' (one word) is the more common and preferred modern UK English form."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'Short-listing' is acceptable, 'Shortlisting' (one word) is the more common and preferred modern UK English form."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase requires the preposition 'of' to be grammatically correct: 'a range of businesses'."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:50:25.513753Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and natural in this context."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive form 'to demonstrate' is required after 'be able'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper geographical name and requires capitalisation."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'all of the information' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Who' is correctly used as the subject of the clause 'who the Mongols were'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Mongol Empire' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper geographical name and requires capitalisation."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper geographical name and requires capitalisation."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Mongol Empire' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Organisation' is the correct UK English spelling, which is standard for WJEC documents."
+    }
+  ]
+}

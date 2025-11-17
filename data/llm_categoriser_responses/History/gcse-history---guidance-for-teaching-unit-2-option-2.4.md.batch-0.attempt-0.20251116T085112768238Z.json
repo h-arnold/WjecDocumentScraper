@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:51:12.768238Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While 'eassessment' is understandable, 'e-assessment' with a hyphen is the more common and stylistically preferred spelling in formal UK English for compound terms involving 'e-'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive marker 'to' is missing; it should be 'be able to demonstrate'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Wien' is the correct German name for Vienna, used appropriately as part of the museum's full name."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The sentence 'Why do you think this may be significant.' is a question and requires a question mark at the end."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'the either the' is redundant and grammatically incorrect; it should be 'either the'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'anti Islamic' should be hyphenated as 'anti-Islamic' for correct UK English usage."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Forgotton' is a misspelling of the word 'Forgotten'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The character '\u2032' is a prime or foot mark, not a standard apostrophe, and should be corrected to '\u2019' in 'Empire\u2019s'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Encyclopedia.com' is a proper noun, the official name of the website, and is therefore correct as written despite the UK spelling 'encyclopaedia'."
+    }
+  ]
+}

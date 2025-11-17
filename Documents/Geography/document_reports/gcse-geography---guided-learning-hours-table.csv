@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,2 year,...rs Table**  Based on 120 hours across a 2 year course.  | Unit | Qualification weighti...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The compound adjective '2-year' requires a hyphen when preceding the noun 'course' in standard UK English.

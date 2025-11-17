@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:05:49.589160Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'and' is used correctly as a conjunction in this context."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Futureproof' is a correctly used verb meaning to design or modify to prevent obsolescence."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb 'comprise' should not be followed by 'of'; the correct phrasing is 'comprises the creation' or 'is comprised of the creation'."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The HTML entity `&#x27;` should be replaced with a standard single quote character."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'eco-conscious' requires a hyphen without a space."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The HTML entity `&#x27;` should be replaced with a standard single quote character."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'time-lapse' requires a hyphen without a space."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'general public' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'outside of' is acceptable, 'outside' alone is more concise and often preferred in formal writing."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Sketchbook' is conventionally written as a single, closed compound word."
+    }
+  ]
+}

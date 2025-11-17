@@ -1,0 +1,3 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,wjec,...-------  # WHY CHOOSE GCSE  # Drama?  # wjec  # The WJEC GCSE Drama qualification wi...,ErrorCategory.SPELLING_ERROR,100,The acronym 'WJEC' should always be capitalised as 'WJEC' in official documents.
+1,0,Script Writer,"... Director, Producer, Events Management, Script Writer, Stage Manager, Primary school teacher,...",ErrorCategory.SPELLING_ERROR,95,"The term 'Script Writer' should be written as one word, 'Scriptwriter', according to standard UK English usage."

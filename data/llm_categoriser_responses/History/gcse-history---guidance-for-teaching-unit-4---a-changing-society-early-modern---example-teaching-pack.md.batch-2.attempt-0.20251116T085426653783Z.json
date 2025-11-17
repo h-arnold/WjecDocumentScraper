@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:54:26.653783Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 60,
+      "reasoning": "While the use of single quotes for both outer and inner quotations is not strictly incorrect, alternating to double quotes for the inner phrase 'Nine Day Queen' would improve clarity and align with common UK stylistic conventions for nested quotes."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quotes correctly enclose the article title, which is standard UK English punctuation."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and appropriate in this context."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'so' when it introduces an independent clause is often recommended for clarity, but its omission is not an absolute grammatical error."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'last-ditch' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'State apartments' is the correct historical term for grand rooms in a palace."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrasing 'many walk abroad' is grammatically correct and concise."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Hyphens are correctly used in the URL to represent the place name 'Tretower Court and Castle'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Hyphens are correctly used in the URL to represent the lesson title."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quotes correctly enclose the website title, which is standard UK English punctuation."
+    }
+  ]
+}

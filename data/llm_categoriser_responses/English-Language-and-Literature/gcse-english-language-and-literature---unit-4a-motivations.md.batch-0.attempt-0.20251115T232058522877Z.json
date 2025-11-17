@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:20:58.522877Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-4a-motivations.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The usage of \"were\" is correct archaic English within the Shakespearean text."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The `&quot;` is a parsing error in the tool's output; the original document correctly uses a double quote."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The `&quot;` is a parsing error in the tool's output; the original document correctly uses a double quote."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word \"does\" is grammatically correct as the auxiliary verb for the singular subject \"writer\"."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "\"Really good\" is grammatically acceptable and stylistically appropriate for the context of the literary extract."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"Of course\" is a correct idiomatic expression and \"course\" is used correctly within it."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The noun \"sentence\" should be plural \"sentences\" to agree with the quantifier \"two\"."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "\"Wanna\" is an informal contraction used intentionally to reflect realistic dialogue in a literary extract."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "\"Gonna\" is an informal contraction used intentionally to reflect realistic dialogue in a literary extract."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The omission of \"are\" in \"You playing\" is a stylistic choice to represent informal spoken dialogue."
+    }
+  ]
+}

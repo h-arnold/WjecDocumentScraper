@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-15T23:10:24.938735Z",
+  "subject": "Business",
+  "filename": "overview-of-consultation-findings.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A comma is required before 'and' when it joins two independent clauses with different subjects."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'time-consuming' requires a hyphen."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct idiom is 'with regard to', not 'with regards to'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "No comma is needed before 'and' when it joins a compound predicate with a shared subject."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:46:49.590719Z",
+  "subject": "German",
+  "filename": "gcse-german---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'Writing' is correctly used as a noun in the unit title 'Reading and Writing'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside of' is not strictly incorrect, 'outside' is generally preferred for conciseness in formal writing."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'But' is correctly used as a conjunction to introduce a contrasting clause."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&quot;` is incorrectly used instead of standard double quotation marks."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&quot;` is incorrectly used instead of standard double quotation marks."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&quot;` is incorrectly used instead of standard double quotation marks."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity `&quot;` is incorrectly used instead of standard double quotation marks."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Learner s' is a parsing error; it should be the plural noun 'learners'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Ping -Pong' should be hyphenated as 'Ping-Pong' without a space before the hyphen."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Er' is a correctly used German pronoun within an example sentence demonstrating German grammar."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,wellsupported,...rces into making you feel confident and wellsupported.  September 2024 was the final time cen...,ErrorCategory.PARSING_ERROR,95,The compound adjective 'well-supported' should be hyphenated for clarity in UK English.
+1,2,brandnew,...shop where we will introduce you to our brandnew Blended Learning+ platform. This brand-...,ErrorCategory.PARSING_ERROR,100,"The compound adjective 'brand-new' requires a hyphen, as correctly shown in the subsequent sentence."
+2,7,Throughs,...ish%20Literature/r/2686) and [Exam Walk Throughs](https://educationalresources.wjec.co.u...,ErrorCategory.PARSING_ERROR,90,"For consistency with other mentions in the document, 'Walk Throughs' should be hyphenated as 'Walk-Throughs' or written as one word 'Walkthroughs'."
+3,8,terature,...glish-literature-gcse/#tab_keydocuments)terature - [Entry Level](https://www.wjec.co.uk/...,ErrorCategory.PARSING_ERROR,100,"The word 'Literature' has been incorrectly split, with part of it appearing outside the link text."

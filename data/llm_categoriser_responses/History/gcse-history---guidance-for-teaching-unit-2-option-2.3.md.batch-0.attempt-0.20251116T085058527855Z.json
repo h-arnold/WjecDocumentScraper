@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:50:58.527855Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'content of any of the other selected units' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "WJEC typically uses 'e-assessment' with a hyphen, making 'eassessment' inconsistent with general style, though it could be a specific platform name."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive requires 'to', so the phrase should be 'be able to demonstrate'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'da' is correctly used as part of the proper name 'Vasco da Gama'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central America' is a proper geographical noun and requires capitalisation."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'groupwork' is sometimes used, 'group work' (two words) or 'group-work' (hyphenated) are more common and stylistically preferred in educational contexts."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "UK English spelling requires 'civilisation' with an 's', not 'civilization' with a 'z'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "UK English spelling requires 'Civilisation' with an 's', not 'Civilization' with a 'z', even in a title."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The proper name is 'Diego Vel\u00e1zquez de Cu\u00e9llar', requiring accents on 'Vel\u00e1zquez' and 'Cu\u00e9llar'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'World History Encyclopedia' is the official proper name of the website, and therefore the spelling should not be changed."
+    }
+  ]
+}

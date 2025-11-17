@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:06:52.667431Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The space in the URL path creates a broken link; it should be hyphenated or removed."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The markdown link is malformed, resulting in duplicated and redundant link text."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Jamboard is a proper noun for a Google product and should be capitalised and written as a single word."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The markdown link is malformed, resulting in duplicated and redundant link text."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The construction 'both... as well as...' is grammatically acceptable, though 'both... and...' is often preferred for conciseness."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Currents' is incorrectly used as an adjective; it should be 'current' to modify 'skill set'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The construction 'both... as well as...' is grammatically acceptable, though 'both... and...' is often preferred for conciseness."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The single quote appears to be unclosed due to content truncation or a markdown parsing issue within the table cell."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The verb form 'exploring' is incorrect after the modal verb 'should'; it should be 'explore'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Close proximity' is a widely accepted and common idiomatic phrase, not a redundancy requiring correction."
+    }
+  ]
+}

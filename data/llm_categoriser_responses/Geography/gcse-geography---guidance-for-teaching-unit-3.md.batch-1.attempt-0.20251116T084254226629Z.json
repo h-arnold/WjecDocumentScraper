@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:42:54.226629Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form is correct within a URL path, which often uses hyphens in place of spaces or apostrophes."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form is correct within a URL path, following common web address conventions."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'but' is often a stylistic choice for clarity, but its omission here is not a grammatical error."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'south west' is acceptable as two words in this context, 'south-west' is often preferred for compound directions, especially in meteorological descriptions."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'influence of Atlantic weather systems' is grammatically correct, with 'Atlantic' functioning as an adjective."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "As a compound adjective modifying 'winds', 'south westerly' should be hyphenated ('south-westerly') or written as one word ('southwesterly')."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'sub-tropical' is correctly hyphenated in this context."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "As a compound adjective preceding a noun, 'fastflowing' should be hyphenated to 'fast-flowing'."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The noun 'cross section' is conventionally hyphenated as 'cross-section' in UK English."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The term 'factsheet' is widely accepted and commonly used as a single word in educational and professional contexts."
+    }
+  ]
+}

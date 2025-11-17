@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:55:33.348177Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'un-punk' is a deliberate and contextually appropriate neologism, correctly hyphenated for clarity."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe should not be used when referring to a decade (e.g., '1950s'), as it is not possessive."
+    }
+  ]
+}

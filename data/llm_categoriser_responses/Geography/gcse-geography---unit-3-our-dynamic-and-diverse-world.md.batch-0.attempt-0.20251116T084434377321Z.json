@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:44:34.377321Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---unit-3-our-dynamic-and-diverse-world.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'should' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'should' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'the' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'the' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Fewest jobs' is grammatically correct and appropriate in this comparative context."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Adding 'the' before 'fewest' would improve grammatical precision, but its omission is not an absolute error in this context."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Adding 'the' before 'fewest' would improve grammatical precision, but its omission is not an absolute error in this context."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Second highest' is a correctly formed compound adjective and is grammatically sound."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Second lowest' is a correctly formed compound adjective and is grammatically sound."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe in 'MNC's' is incorrect for a plural; it should be 'MNCs'."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:27:47.776917Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The use of 'so' as a conjunction to introduce a result or purpose is grammatically correct and stylistically acceptable."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'micro-organisms' is correct and commonly used in UK English, especially in scientific and educational contexts."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Cafes' is the correct and widely accepted plural spelling of 'cafe' in UK English."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'micro-organisms' is correct and commonly used in UK English, especially in scientific and educational contexts."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is used correctly to connect two parts of a compound question."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'micro-organisms' is correct and commonly used in UK English, especially in scientific and educational contexts."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Free-range' should be hyphenated when used as a compound adjective describing a type of rearing."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cross-curricular' is a compound adjective that should be hyphenated in UK English for clarity."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Yoghurt' is the correct and standard spelling in UK English."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Subject matter' is a correct and commonly used compound noun in UK English."
+    }
+  ]
+}

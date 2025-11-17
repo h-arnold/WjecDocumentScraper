@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:47:47.976689Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-3-listening.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct idiom is 'with regard to' or 'in regard to'; 'with regards to' is grammatically incorrect."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The highlighted text '(c)' is a correct question label within the document's structure, not an error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The comma after 'the' is grammatically incorrect and indicates a missing noun in the sentence."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The comma after 'the' is grammatically incorrect and indicates a missing noun in the sentence."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Wien' is the correct German spelling for Vienna and is used appropriately in the German text."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'An' is correctly capitalized as the first word of a new sentence in the German text."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Wien' is the correct German spelling for Vienna and is used appropriately in the German text."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Wien' is the correct German spelling for Vienna and is used appropriately in the German text."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'An' is correctly capitalized as the first word of a new sentence in the German text."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:10:44.497648Z",
+  "subject": "Business",
+  "filename": "wjec-gcse-business-specification.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'hand-written' requires a hyphen in UK English when preceding a noun or functioning adjectivally."
+    }
+  ]
+}

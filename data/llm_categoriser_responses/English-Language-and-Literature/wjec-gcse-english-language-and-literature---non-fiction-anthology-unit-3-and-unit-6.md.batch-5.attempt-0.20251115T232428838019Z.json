@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:24:28.838019Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'like-minded' should be hyphenated."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'self-esteem' requires a hyphen."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The abbreviation 'TV' should be capitalised for consistency and clarity."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a verbatim transcript of spoken language, and the repetition 'a it's an' accurately reflects a false start."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a verbatim transcript of spoken language, and the repetition 'in in' accurately reflects a hesitation."
+    },
+    {
+      "issue_id": 55,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'And' is correctly used as a conjunction to introduce a new clause in this spoken transcript."
+    },
+    {
+      "issue_id": 56,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'But' is correctly used as a conjunction to introduce a contrasting idea in this spoken transcript."
+    },
+    {
+      "issue_id": 57,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'And' is correctly used as a conjunction to connect two clauses in this spoken transcript."
+    },
+    {
+      "issue_id": 58,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a verbatim transcript of spoken language, and the repetition 'we we' accurately reflects a hesitation."
+    },
+    {
+      "issue_id": 59,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'mother-daughter' should be hyphenated when modifying a noun like 'relationship'."
+    }
+  ]
+}

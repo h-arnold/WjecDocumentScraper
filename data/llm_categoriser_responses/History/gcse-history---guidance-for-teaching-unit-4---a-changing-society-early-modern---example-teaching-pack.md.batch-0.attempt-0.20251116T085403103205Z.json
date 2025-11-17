@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:54:03.103205Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'best worthy' is a correct archaic usage within a direct quote from a historical poem and should not be altered."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'this day light' is a correct archaic construction within a direct quote from a historical text, meaning 'on this day, light'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'For ever' as two words is an acceptable archaic spelling within a direct quote from a historical legal document and must be preserved."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The apostrophe is correctly used as an opening single quotation mark for the article title."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The apostrophe is correctly used as an opening single quotation mark for the description of Nation Cymru."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'Many' could replace 'A large number of' to avoid slight repetition, the original phrasing is grammatically correct and clear."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The modern standard UK English spelling for the noun is 'deathbed' (one word)."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Recognise' is the correct UK English spelling, which is standard for WJEC documents."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Withvay' is presented as a historical spelling of a place name, with the modern Welsh equivalent provided in brackets, and should not be changed."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sturdie' is an archaic spelling within a direct quote of a historical act's title and must be preserved as written."
+    }
+  ]
+}

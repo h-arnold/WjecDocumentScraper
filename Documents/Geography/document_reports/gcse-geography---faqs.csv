@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,1,Also,...bility to the content in Units 1 and 3. Also Unit 4 requires a maturity and depth of...,ErrorCategory.STYLISTIC_PREFERENCE,75,"A comma after 'Also' would improve readability and flow, but its omission is not an absolute grammatical error."
+1,1,resources,... also be considered.  ## **Q: When will resources such as textbooks and online blended le...,ErrorCategory.FALSE_POSITIVE,95,The word 'resources' is correctly spelled and used; the actual error is the missing question mark at the end of the sentence.
+2,1,be,...s textbooks and online blended learning be published.**  A: There are no plans to ...,ErrorCategory.FALSE_POSITIVE,95,The word 'be' is correctly used in the sentence; the actual error is the missing question mark at the end of the question.
+3,2,pdf,"...submitted as a digital document e.g., a pdf.  ## **Q: Is the Unit 4 NEA similar to ...",ErrorCategory.STYLISTIC_PREFERENCE,85,Acronyms such as 'PDF' are typically capitalised in formal WJEC documentation for consistency.

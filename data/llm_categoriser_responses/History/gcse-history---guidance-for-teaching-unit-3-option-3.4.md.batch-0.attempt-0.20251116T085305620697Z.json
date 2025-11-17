@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:53:05.620697Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The name 'Humayun' is repeated consecutively without a clear grammatical or stylistic purpose."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Re-establishment' should be hyphenated as a compound noun in UK English."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'First-person' should be hyphenated as a compound adjective modifying 'perspective'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The word 'and' is correctly used to connect two clauses in the question; the actual issue is missing punctuation after 'Discussion'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Minature' is a misspelling of the word 'miniature'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'May' is grammatically correct here to express possibility; 'might' would also be acceptable but is a stylistic choice."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Short-term' should be hyphenated as a compound adjective modifying 'impact'."
+    }
+  ]
+}

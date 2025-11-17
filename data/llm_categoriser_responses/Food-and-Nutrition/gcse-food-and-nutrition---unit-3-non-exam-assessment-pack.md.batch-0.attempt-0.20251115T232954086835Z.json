@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:29:54.086835Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "While not strictly incorrect, 'outside' is generally preferred over 'outside of' in formal writing."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The singular subject 'The marking scheme' requires the singular verb 'is', not 'are'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Independently of' is the more idiomatic and grammatically preferred phrasing in this context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for the present participle of 'trial' is 'trialling', not 'trialing'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for the present participle of 'trial' is 'trialling', not 'trialing'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for the present participle of 'trial' is 'trialling', not 'trialing'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'3 hour' acts as a compound adjective modifying 'session' and requires a hyphen: '3-hour session'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for the present participle of 'trial' is 'trialling', not 'trialing'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase should be 'at least three suitable factors', not 'a least three suitable factors'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Using 'ALL' in all caps is a stylistic choice for emphasis that is generally avoided in formal educational documents."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-16T08:40:51.661337Z",
+  "subject": "Geography",
+  "filename": "fieldwork-opportunities-at-gwersyll-yr-urdd-pentre-ifan.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the Welsh youth movement is 'Urdd', not 'Urdo', as confirmed by later text."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Oualitative' is a misspelling of the English word 'Qualitative'."
+    }
+  ]
+}

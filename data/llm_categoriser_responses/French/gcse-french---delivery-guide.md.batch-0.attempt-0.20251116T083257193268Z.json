@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:32:57.193268Z",
+  "subject": "French",
+  "filename": "gcse-french---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase \"international languages qualification\" is grammatically correct and appropriate in this context, referring to a qualification that covers multiple international languages."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While grammatically correct, \"all three broad themes\" is more concise and stylistically preferred in formal writing."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A comma should not be placed between the auxiliary verbs \"can and should\" and the main verb \"deliver.\""
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"Centres\" is the correct UK English spelling and is appropriate for a WJEC document."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction \"and\" correctly links two clauses in the sentence, and its removal would alter the intended meaning or grammatical structure."
+    }
+  ]
+}

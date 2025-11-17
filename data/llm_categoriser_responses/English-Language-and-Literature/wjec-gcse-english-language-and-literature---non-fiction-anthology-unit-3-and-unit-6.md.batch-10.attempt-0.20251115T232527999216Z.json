@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:25:27.999216Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 10,
+  "attempt": 0,
+  "issue_ids": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "response": [
+    {
+      "issue_id": 100,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The disfluency marker 'er' is intentionally included in transcripts to accurately represent spoken language."
+    },
+    {
+      "issue_id": 101,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'and and' accurately reflects a disfluency in spoken language within a transcript."
+    },
+    {
+      "issue_id": 102,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The disfluency marker 'er' is intentionally included in transcripts to accurately represent spoken language."
+    },
+    {
+      "issue_id": 103,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The disfluency marker 'er' is intentionally included in transcripts to accurately represent spoken language."
+    },
+    {
+      "issue_id": 104,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The disfluency marker 'er' is intentionally included in transcripts to accurately represent spoken language."
+    },
+    {
+      "issue_id": 105,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'the the' accurately reflects a disfluency in spoken language within a transcript."
+    },
+    {
+      "issue_id": 106,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is grammatically correct and necessary to connect the clauses in the sentence."
+    },
+    {
+      "issue_id": 107,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'we we' accurately reflects a disfluency in spoken language within a transcript."
+    },
+    {
+      "issue_id": 108,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is grammatically correct and serves as a natural transition in the transcribed spoken language."
+    },
+    {
+      "issue_id": 109,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The disfluency marker 'er' is intentionally included in transcripts to accurately represent spoken language."
+    }
+  ]
+}

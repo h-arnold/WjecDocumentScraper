@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-16T08:31:37.228122Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "techniques-summary.md",
+  "batch_index": 1,
+  "attempt": 1,
+  "issue_ids": [
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 19,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the culinary term is 'Saut\u00e9ing', and the document shows inconsistency in its usage."
+    }
+  ]
+}

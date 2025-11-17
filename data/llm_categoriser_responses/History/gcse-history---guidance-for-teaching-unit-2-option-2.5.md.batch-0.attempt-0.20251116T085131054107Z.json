@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:51:31.054107Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.5.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'content of any of the other selected units' is grammatically correct and stylistically acceptable."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'e-assessment' should be hyphenated as per standard UK English conventions for compound words with the prefix 'e-'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Post-war' should be hyphenated when used as a compound adjective modifying a noun."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Anti-Semitism' is a compound noun that should be hyphenated according to standard English usage."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'March 1933' is a more concise and common way to express the date in formal writing."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Anti-Semitism' is a compound noun that should be hyphenated according to standard English usage."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct idiom is 'with regard to' or 'in regard to'; 'with regards to' is grammatically incorrect."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct idiom is 'with regard to' or 'in regard to'; 'with regards to' is grammatically incorrect."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Evidence-based' should be hyphenated when used as a compound adjective modifying a noun."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cross-curricular' should be hyphenated as it functions as a compound adjective."
+    }
+  ]
+}

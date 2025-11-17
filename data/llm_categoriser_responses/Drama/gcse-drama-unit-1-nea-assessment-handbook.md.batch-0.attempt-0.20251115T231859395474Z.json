@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:18:59.395474Z",
+  "subject": "Drama",
+  "filename": "gcse-drama-unit-1-nea-assessment-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Proforma is correctly used here as part of a specific document title and is a valid word."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'audio-visual' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'learners' requires the plural verb 'have', not 'has'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'learners' requires the plural verb 'have', not 'has'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' connecting two independent clauses is stylistically preferred for clarity but not strictly mandatory."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "When 'well developed' follows the verb 'are' as a predicate adjective, it is correctly unhyphenated."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'make-up' should be hyphenated according to standard UK English and WJEC style."
+    }
+  ]
+}

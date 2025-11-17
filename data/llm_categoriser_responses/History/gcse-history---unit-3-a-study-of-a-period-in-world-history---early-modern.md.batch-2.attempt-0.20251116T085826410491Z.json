@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:58:26.410491Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---early-modern.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"ai\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"aii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"bii\" is a correct technical label for a question part within the mapping table, not a spelling error."
+    }
+  ]
+}

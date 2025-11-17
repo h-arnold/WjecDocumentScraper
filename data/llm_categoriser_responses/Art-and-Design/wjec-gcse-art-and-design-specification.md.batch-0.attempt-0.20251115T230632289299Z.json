@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-15T23:06:32.289299Z",
+  "subject": "Art-and-Design",
+  "filename": "wjec-gcse-art-and-design-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The entry 'App Wa' in the table of contents is a parsing error; it should be 'Appendix A'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 99,
+      "reasoning": "The word 'progression' is correctly spelled; the tool's highlight is a false positive due to Markdown parsing of the footnote reference."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Thet' is a clear typographical error and should be 'The'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The term 'threedimensional' should be hyphenated as 'three-dimensional' for consistency with the heading and standard UK English usage as a compound adjective."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The ordinal number '1 st' should be written as '1st' without a space in standard UK English."
+    }
+  ]
+}

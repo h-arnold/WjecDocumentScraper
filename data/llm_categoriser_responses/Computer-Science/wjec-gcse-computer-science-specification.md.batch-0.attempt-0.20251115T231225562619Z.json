@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:12:25.562619Z",
+  "subject": "Computer-Science",
+  "filename": "wjec-gcse-computer-science-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'COMPUTER' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Opportunities' is incorrectly split across two table cells, and the first part uses a Cyrillic 'O'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'ASSESSMENT' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Wales' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Appendix' is incorrectly split across two table cells due to a parsing error."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'trojan horses' is acceptable as a noun phrase, consistent with other lowercase malware types in the list."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'denial of service' is correct as a noun phrase; hyphenation is typically used when it functions as an adjective."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "MiTM is a correctly used and defined acronym for Man-in-the-Middle."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'pseudo-code' is the correct and standard hyphenated spelling in UK English technical contexts."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'pseudo code' should be hyphenated as 'pseudo-code' for consistency with previous usage and standard technical terminology."
+    }
+  ]
+}

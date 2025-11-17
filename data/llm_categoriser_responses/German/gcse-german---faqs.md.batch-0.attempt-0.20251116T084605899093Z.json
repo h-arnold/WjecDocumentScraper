@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:46:05.899093Z",
+  "subject": "German",
+  "filename": "gcse-german---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'and' is used correctly as a conjunction between two independent clauses."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'to' is repeated unnecessarily, creating a grammatical error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'N' in ISBN stands for 'Number', the phrase 'ISBN numbers' is widely accepted and commonly used for clarity."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'N' in ISBN stands for 'Number', the phrase 'ISBN numbers' is widely accepted and commonly used for clarity."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The HTML entity '&quot;' should be replaced with a standard double quotation mark in plain text or Markdown."
+    }
+  ]
+}

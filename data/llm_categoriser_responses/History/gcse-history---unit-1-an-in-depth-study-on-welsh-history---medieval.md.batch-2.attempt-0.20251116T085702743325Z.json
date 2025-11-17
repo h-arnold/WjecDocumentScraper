@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-16T08:57:02.743325Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---medieval.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "This is a valid column header in a data table, representing a question part and assessment objective, not a grammatical error."
+    }
+  ]
+}

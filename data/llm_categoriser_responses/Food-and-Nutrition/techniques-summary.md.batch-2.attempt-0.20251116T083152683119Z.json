@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:31:52.683119Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "techniques-summary.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Ragu' is an acceptable and commonly used spelling in UK English for the Italian sauce, without the need for an accent."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'pre-prepared' requires a hyphen without a space, making 'pre -prepared' a parsing error."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct UK English spelling for the cooking method is 'Saut\u00e9ing', and the document uses this spelling in its descriptive text, making 'Sauteing' in the table an inconsistency."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'ready-made' requires a hyphen without a space, making 'ready -made' a parsing error."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Gateau' is an acceptable and commonly used spelling in UK English for the dessert, without the need for an accent."
+    }
+  ]
+}

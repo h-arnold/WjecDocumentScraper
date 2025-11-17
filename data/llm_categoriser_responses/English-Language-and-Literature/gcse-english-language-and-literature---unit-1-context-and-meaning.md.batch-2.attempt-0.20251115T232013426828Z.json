@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:20:13.426828Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-1-context-and-meaning.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'I Wanna Be Yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"well-selected\" should be hyphenated as a compound adjective modifying \"examples\"."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"would-be\" should be hyphenated as a compound adjective modifying \"lover\"."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A closing single quotation mark is missing after the poem title 'i wanna be yours'."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'i wanna be yours' is the correct, informal title of the poem by John Cooper Clarke and should not be changed."
+    }
+  ]
+}

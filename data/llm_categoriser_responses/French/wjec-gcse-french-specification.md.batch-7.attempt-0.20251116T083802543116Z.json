@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:38:02.543116Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 7,
+  "attempt": 0,
+  "issue_ids": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "response": [
+    {
+      "issue_id": 70,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('hide' and 'hiding') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 71,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('break' and 'breaking') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 72,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('celebrate' and 'celebrating') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 73,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('change' and 'changing') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 74,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests removing the infinitive form '(to) choose', which is an intended part of the dictionary entry format."
+    },
+    {
+      "issue_id": 75,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('click' and 'clicking') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 76,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('complete' and 'completing') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 77,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('understand' and 'understanding') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 78,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('confirm' and 'confirming') into a single word, which is grammatically incorrect."
+    },
+    {
+      "issue_id": 79,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The tool incorrectly suggests merging two distinct verb forms ('construct' and 'constructing') into a single word, which is grammatically incorrect."
+    }
+  ]
+}

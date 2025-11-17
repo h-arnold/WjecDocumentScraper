@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:41:17.465323Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The `Mailto:` prefix is incorrectly used for an image file link, indicating a malformed URL."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "CrossSection is part of a filename and is correctly presented without a hyphen in that context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "CrossSection is part of a filename and is correctly presented without a hyphen in that context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Cross-section should be hyphenated when used as a noun in standard UK English."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The word 'of' is often considered redundant after 'outside' when used as a preposition, but its inclusion is not grammatically incorrect."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Cross-section should be hyphenated when used as a noun in standard UK English."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Cross-section should be hyphenated when used as a noun in standard UK English."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'and so' would improve readability but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Pa storal is a typographical error and should be corrected to Pastoral."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Socio-economic is a compound adjective that requires a hyphen without a space."
+    }
+  ]
+}

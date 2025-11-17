@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,3,tells,...ich must be shared with candidates that tells them about things that they must and mu...,ErrorCategory.FALSE_POSITIVE,95,The verb 'tells' correctly agrees with the singular antecedent 'information' for the relative pronoun 'that'.
+1,4,Proforma,...and Declaration Form - Unit 2 Programme Proforma - Unit 2 Unassessed Participant Declara...,ErrorCategory.FALSE_POSITIVE,95,"'Proforma' is a standard and acceptable term in administrative contexts, referring to a template or standard document."
+2,5,and,...tifying individual levels of achievement and they do not correlate with grade bounda...,ErrorCategory.STYLISTIC_PREFERENCE,70,"A comma before 'and' is optional when joining two independent clauses, and its omission here does not create ambiguity."
+3,15,nonassessed,...l set (presented to the examiner in the nonassessed viva). The model may be presented in a ...,ErrorCategory.PARSING_ERROR,90,The compound adjective 'non-assessed' requires a hyphen in UK English when preceding a noun.

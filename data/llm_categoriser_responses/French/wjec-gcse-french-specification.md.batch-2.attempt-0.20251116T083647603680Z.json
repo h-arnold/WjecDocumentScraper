@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:36:47.603680Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'au' is correctly used as part of a sound-spelling correspondence in a French phonetics table."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'om' is correctly used as part of a sound-spelling correspondence in a French phonetics table."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'ai' is correctly used as part of a sound-spelling correspondence in a French phonetics table."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'ever-changing' is often hyphenated as a compound adjective, it is acceptable without a hyphen when used predicatively."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'gender-neutral' should be hyphenated as a compound adjective modifying 'language'."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'er' is correctly used as an English equivalent for a French interjection representing a hesitation sound."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'glace' is a correctly spelled French word in a vocabulary list."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'24-hour' should be hyphenated as a compound adjective modifying 'clock'."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Monegasque' is the correct English adjective for Monaco and is used appropriately in the vocabulary list."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'au' is a correctly used French preposition in a vocabulary list."
+    }
+  ]
+}

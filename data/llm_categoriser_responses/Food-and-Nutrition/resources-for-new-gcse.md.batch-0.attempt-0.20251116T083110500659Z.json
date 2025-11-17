@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:31:10.500659Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "resources-for-new-gcse.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr)."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Cadwoli' is not a recognised Welsh word; the correct term for 'preservation' is 'cadwraeth'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used in the Welsh contraction 'a'r' (a + yr)."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used in the Welsh contraction 'i'r' (i + yr)."
+    }
+  ]
+}

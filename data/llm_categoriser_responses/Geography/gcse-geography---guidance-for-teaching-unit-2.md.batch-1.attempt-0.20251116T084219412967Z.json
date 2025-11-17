@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:42:19.412967Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-2.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Factorss is a misspelling; the correct plural form is 'factors'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quote mark is correctly used to open a quoted statement."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Sub-groups is an acceptable hyphenated form, though 'subgroups' is also common."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "A comma before 'and therefore' would improve clarity, but its omission is not a strict grammatical error."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 60,
+      "reasoning": "The conjunction 'and' is grammatically acceptable here, though the sentence structure could be rephrased for improved flow."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The correct idiom is 'with regard to,' not 'with regards to'."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Form' should be 'from' to indicate the source of the information."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The past participle 'improved' is required after 'could have been'."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Skillset' is correctly written as a single, closed compound word."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 85,
+      "reasoning": "'Cross-sections' should be hyphenated as a compound noun in this context."
+    }
+  ]
+}

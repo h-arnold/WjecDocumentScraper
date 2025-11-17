@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:43:51.176671Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The highlighted text is part of a bulleted list where 'communication skills' is a distinct item, making the original phrasing correct."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside of' is grammatically acceptable, 'outside' is more concise and generally preferred in formal writing."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Skillset' is a widely accepted and commonly used single word, especially in educational and professional contexts."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The term 'megacity' is conventionally written as a single word in UK English."
+    }
+  ]
+}

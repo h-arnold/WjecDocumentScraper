@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:22:16.031193Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-6-connections.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'not' has been incorrectly split across cells in the table."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'represented' has been incorrectly split across cells in the table."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'represented' has been incorrectly split across cells in the table."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'that' has been incorrectly split across cells in the table."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The verb 'say' should be 'says' to agree with the singular subject 'The youngest age group'."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The repetition 'to to' is an accurate transcription of a speech disfluency and should be retained in the transcript."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The acronym 'TV' should be capitalised as 'TV' in formal writing."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The repetition 'far far' is an emphatic expression common in spoken language and is accurately transcribed."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Er' is a vocal filler accurately transcribed from the speech and should be retained."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'world-conquering' requires a hyphen for correct UK English spelling."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:50:32.847667Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While not strictly incorrect, the comma between month and year is often omitted in UK English when no day is specified."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'has a been' is grammatically incorrect; it should be 'has been'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'wiki' has been incorrectly split into 'wi ki' in the URL."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'cross-curricular' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The spelling 'Organisation' is correct in UK English and consistent with WJEC style."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The spelling 'Organisation' is correct in UK English and consistent with WJEC style."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The spelling 'Organisation' is correct in UK English and consistent with WJEC style."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Central Asia' is a proper geographical noun and should be capitalised."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'a someone' is grammatically incorrect; it should be 'someone' or 'a person'."
+    }
+  ]
+}

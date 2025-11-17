@@ -1,0 +1,7 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,4,sixstage,"...rtake a fieldwork enquiry following the sixstage enquiry process.  The assignment, which...",ErrorCategory.PARSING_ERROR,100,"Compound adjectives preceding a noun, such as 'six-stage', should be hyphenated in UK English."
+1,15,',...ind the correct definition for the term 'drainage basin' below. Put a tick (✓) ne...,ErrorCategory.PARSING_ERROR,100,The HTML entity `&#x27;` should be rendered as a single quote.
+2,15,so,"..., for example: leaves on trees in winter so less interception of rainfall precipita...",ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'so that' could be used, 'so' is acceptable as a concise conjunction indicating consequence in this context."
+3,16,so,"...ants willing to do low paid, menial jobs so a range of employment is available - mi...",ErrorCategory.STYLISTIC_PREFERENCE,70,'So' is grammatically correct as a conjunction indicating consequence; 'so that' is a stylistic alternative.
+4,17,well structured,"...onse that has purpose, is organised and well structured.</li></ul> |  | | 3 | 5-6 marks A good ...",ErrorCategory.FALSE_POSITIVE,95,'Well structured' is correctly unhyphenated when it functions as a predicate adjective following a verb.
+5,17,well structured,...>a clear response that is organised and well structured.</li></ul> |  | | 2 | 3-4 marks A basic...,ErrorCategory.FALSE_POSITIVE,95,'Well structured' is correctly unhyphenated when it functions as a predicate adjective following a verb.

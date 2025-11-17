@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:14:33.870354Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-1.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and appropriate in this context."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is essential to correctly link the two independent clauses in the sentence."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Both 'makeup' and 'make-up' are acceptable in UK English, and the unhyphenated form is increasingly common and consistent with modern usage."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Mid-performance' requires a hyphen as a compound adjective or adverbial phrase in UK English."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is necessary to correctly link the two interrogative clauses in the sentence."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Hand-written' is correctly hyphenated as a compound adjective in UK English."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The phrase 'as to whether' is grammatically correct but can be made more concise by simply using 'whether'."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The sentence is grammatically incorrect; it should be 'there needs to be analysis' or 'there needs for analysis'."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Both 'makeup' and 'make-up' are acceptable in UK English, and the unhyphenated form is increasingly common and consistent with modern usage."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'chair' is repeated unnecessarily, indicating a typographical error."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:21:30.225647Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-4b-motivations.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling is 'characterisation' with an 's', not 'z'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Tabby cat' should be written as two separate words in standard UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&quot;` should be rendered as a standard double quotation mark."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&quot;` should be rendered as a standard double quotation mark."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required between 'so far' and 'so' to separate the clauses and improve readability."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Well-chosen' should be hyphenated as a compound adjective modifying 'evidence'."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'but' would improve readability but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'ai' is a standard notation for a sub-question part in educational assessments and is correct as written."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'aii' is a standard notation for a sub-question part in educational assessments and is correct as written."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'di' is a standard notation for a sub-question part in educational assessments and is correct as written."
+    }
+  ]
+}

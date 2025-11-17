@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:13:41.952725Z",
+  "subject": "Digital-Media-and-Film",
+  "filename": "wjec-gcse-digital-media-and-film-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Celine Sciamma' is the correct spelling of the director's name."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Low-key' should be hyphenated as a compound adjective modifying 'lighting'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'Live streaming' is acceptable as two words when used as a noun phrase."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Audio-visual' is correctly hyphenated as a compound adjective."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Post-production' should be hyphenated as a compound noun."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Audio-visual' is correctly hyphenated as a compound adjective."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Screenwriter' should be written as a single word."
+    }
+  ]
+}

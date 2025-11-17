@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:05:36.590088Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'all of the' is grammatically correct and commonly used for emphasis or clarity."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The idiom 'in the moment' is used correctly, and the single quotes are a stylistic choice."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'whether or not' is grammatically correct and explicitly includes both possibilities."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The conjunction 'and' is used correctly to connect elements in the list."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correlative conjunction 'neither' must be followed by 'nor', not 'or'."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Salvador Dali' is the correct spelling of the artist's proper name."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for a three-paneled artwork is 'triptychs', not 'tryptichs'."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'modelmaking' is acceptable, 'model-making' is often preferred as a compound noun in UK English."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "As a compound adjective modifying 'shapes', 'three-dimensional' requires a hyphen."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "As a compound adjective modifying 'plan', '2-dimensional' requires a hyphen."
+    }
+  ]
+}

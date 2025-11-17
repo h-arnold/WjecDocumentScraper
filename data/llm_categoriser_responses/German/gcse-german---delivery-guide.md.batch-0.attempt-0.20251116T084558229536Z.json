@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:45:58.229536Z",
+  "subject": "German",
+  "filename": "gcse-german---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term \"international languages qualification\" is correct in this context, referring to a qualification type that encompasses multiple languages."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While \"all of the three\" is grammatically correct, \"all three\" is more concise and stylistically preferred in formal writing."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "The comma after \"should\" is unnecessary and disrupts the flow of the compound verb phrase \"can and should deliver.\""
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Centres is the correct UK English spelling for educational institutions, which is appropriate for WJEC documentation."
+    }
+  ]
+}

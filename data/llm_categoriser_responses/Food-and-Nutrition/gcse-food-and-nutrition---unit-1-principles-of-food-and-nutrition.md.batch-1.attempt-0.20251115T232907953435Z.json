@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:29:07.953435Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'accept' is correctly used here to indicate an alternative valid answer in a mark scheme."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vitamin A' is a correct proper noun for the nutrient and is correctly capitalised."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vitamin C' is a correct proper noun for the nutrient and is correctly capitalised."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "There is a clear repetition of the definite article 'the'."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Yoghurt' is the correct and preferred UK English spelling."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Cost-effective' is often hyphenated as a compound adjective, even when used predicatively, for consistency and clarity."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Cost-effective' is often hyphenated as a compound adjective, even when used predicatively, for consistency and clarity."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Flavour' is the correct UK English spelling."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:20:36.465650Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-3-influence-and-power.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'ord' is a fragment of 'Record' due to a parsing error in the table."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Assessment' has been incorrectly split into 'Asses' and 'sment' due to a parsing error."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The capitalization 'SIMPle' is inconsistent and 'Not tot use with' contains a typo, indicating a parsing or transcription error in the table."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Limited' is missing its initial 'L' and capitalization, indicating a parsing error in the copyright statement."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The text 'IIIIIIleu' is clearly a parsing or OCR error for 'Ltd' or 'Limited' in the copyright statement."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'audio-visual' is correctly hyphenated as a compound adjective modifying 'recording'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'outside of' is grammatically acceptable, 'outside' alone would be more concise and is often preferred in formal writing."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'audio-visual' is correctly hyphenated as a compound adjective modifying 'recording'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The definite article 'the' is incorrectly inserted before 'achieve'; it should be 'how to achieve'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'outside of' is grammatically acceptable, 'outside' alone would be more concise and is often preferred in formal writing."
+    }
+  ]
+}

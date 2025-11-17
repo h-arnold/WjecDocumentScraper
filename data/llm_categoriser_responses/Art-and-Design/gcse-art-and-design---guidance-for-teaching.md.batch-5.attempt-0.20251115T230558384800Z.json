@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-15T23:05:58.384800Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The indefinite article 'an' cannot precede a plural noun like 'outcomes'."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "There is an unnecessary space before the closing single quotation mark."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "There is an unnecessary space before the closing single quotation mark."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'or' is used correctly here to present an alternative."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'general public' is grammatically correct and appropriate in this context."
+    }
+  ]
+}

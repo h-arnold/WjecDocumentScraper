@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:43:28.524512Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'content' is incorrectly split by a space, indicating a parsing error in the URL."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The file extension '.htm' is incorrectly merged with the following word 'Foreign', indicating a parsing error."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'days where' is grammatically correct and appropriate for referring to a period of time."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Both 'sub-tropical' and 'subtropical' are acceptable spellings, with the hyphenated form being a valid stylistic choice."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The term 'northern hemisphere' is correctly written in lowercase as a descriptive geographical term."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The term 'southern hemisphere' is correctly written in lowercase as a descriptive geographical term."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'content' is incorrectly split by a space, indicating a parsing error in the URL."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The file extension '.htm' is incorrectly merged with the following word 'Intertropical', indicating a parsing error."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'Least Developed Country' is a specific United Nations classification and should be consistently capitalized as a proper noun."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'content' is incorrectly split by a space, indicating a parsing error in the URL."
+    }
+  ]
+}

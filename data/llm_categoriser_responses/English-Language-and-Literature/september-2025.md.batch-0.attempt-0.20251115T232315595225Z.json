@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-15T23:23:15.595225Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "september-2025.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'well-supported' should be hyphenated for clarity in UK English."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'brand-new' requires a hyphen, as correctly shown in the subsequent sentence."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "For consistency with other mentions in the document, 'Walk Throughs' should be hyphenated as 'Walk-Throughs' or written as one word 'Walkthroughs'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Literature' has been incorrectly split, with part of it appearing outside the link text."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:34:26.998017Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-1-oracy.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The omission of a comma before 'but' is a stylistic choice and not a grammatical error in this context."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Outside of' is an acceptable, albeit slightly more verbose, alternative to 'outside' in this context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'Un tr\u00e8s bon choix' is grammatically correct and used appropriately."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Au' is the correct French contraction for '\u00e0 le' and is used appropriately before 'Restaurant du March\u00e9'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'C'est un tr\u00e8s bon choix' is grammatically correct and used appropriately."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Informations' is the correct plural form in French for 'information' and is used correctly here."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'Un tr\u00e8s bon choix' is grammatically correct and used appropriately."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'50\u20ac' is a standard and widely accepted notation for '50 euros' in French contexts."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Au' is the correct French contraction for '\u00e0 le' and is used appropriately before 'Restaurant du March\u00e9'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The French phrase 'Tr\u00e8s bon choix' is grammatically correct and used appropriately."
+    }
+  ]
+}

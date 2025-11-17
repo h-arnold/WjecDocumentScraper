@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-11-16T08:31:32.304924Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "techniques-summary.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Caesar\" is a proper noun and should be capitalized in \"Caesar dressing\"."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the cooking technique is \"Saut\u00e9ing\" with an accent."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the cooking technique is \"Saut\u00e9ing\" with an accent."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the cooking technique is \"Saut\u00e9ing\" with an accent."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the cooking technique is \"Saut\u00e9ing\" with an accent."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the cooking technique is \"Saut\u00e9ing\" with an accent."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Daking\" is a clear typographical error and should be \"Baking\" in the context of cooking techniques."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The repetition \"Service Service\" appears to be a parsing or typographical error in the table cell."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Fibilig\" is not a recognised English word or cooking term and is a clear spelling error."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:38:56.378862Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 10,
+  "attempt": 0,
+  "issue_ids": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "response": [
+    {
+      "issue_id": 100,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 101,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 102,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 103,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 104,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 105,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 106,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive and present participle, leading to a parsing error."
+    },
+    {
+      "issue_id": 107,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be reduced to a single space for consistent formatting in the glossary."
+    },
+    {
+      "issue_id": 108,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive and present participle, leading to a parsing error."
+    },
+    {
+      "issue_id": 109,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive and present participle, leading to a parsing error."
+    }
+  ]
+}

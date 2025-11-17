@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:15:05.386451Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound verb 'self-evaluate' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' correctly links two independent clauses, making the original sentence grammatically sound."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'thought-provoking' should be hyphenated when preceding the noun it modifies."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'but' correctly introduces a contrasting clause, making the original sentence grammatically correct."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'he' is a clear typo and should be 'be' to form the correct passive voice construction."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Word' should be capitalized as it refers to the proper noun, Microsoft Word, especially in the context of HWB accounts."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'PowerPoint' is a proper noun and should be capitalized and written as a single word."
+    }
+  ]
+}

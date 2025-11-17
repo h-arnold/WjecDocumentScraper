@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:43:45.110499Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 6,
+  "attempt": 0,
+  "issue_ids": [
+    60,
+    61,
+    62,
+    63
+  ],
+  "response": [
+    {
+      "issue_id": 60,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'content' is incorrectly split into 'co ntent' within the URL, indicating a parsing error."
+    },
+    {
+      "issue_id": 61,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The file extension '.htm' is incorrectly merged with 'Raw materials', indicating a parsing error."
+    },
+    {
+      "issue_id": 62,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Well-being' is typically hyphenated as a noun in formal UK English, making the two-word form a stylistic deviation."
+    },
+    {
+      "issue_id": 63,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Organisation' is the correct UK English spelling, making the suggestion for 'organization' a false positive."
+    }
+  ]
+}

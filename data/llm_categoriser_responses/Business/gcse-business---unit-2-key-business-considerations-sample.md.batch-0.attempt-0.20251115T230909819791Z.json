@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-15T23:09:09.819791Z",
+  "subject": "Business",
+  "filename": "gcse-business---unit-2-key-business-considerations-sample.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Sopright is a clear misspelling of Copyright in this context."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Outside is more concise and generally preferred over outside of in formal writing when used as a preposition."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Hand-written requires a hyphen when used as a compound adjective."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The correct idiomatic expression is 'independently of' rather than 'independently from'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "One-sided requires a hyphen when used as a compound adjective."
+    }
+  ]
+}

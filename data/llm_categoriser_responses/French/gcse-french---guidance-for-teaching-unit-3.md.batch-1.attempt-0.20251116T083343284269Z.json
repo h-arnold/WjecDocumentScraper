@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:33:43.284269Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-3.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`au` is a correct French word and is used appropriately in the context of French sound-spelling patterns."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'French speaking' should be hyphenated as 'French-speaking' for clarity and consistency in UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the online platform is 'YouTube', not 'You Tube'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'French Speaking' should be hyphenated and typically lowercase as 'French-speaking' for consistency and standard UK English style."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'French speaking' should be hyphenated as 'French-speaking' for clarity and consistency in UK English."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'French speaking' should be hyphenated as 'French-speaking' for clarity and consistency in UK English."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The phrase 'all of the' is often redundant; 'all the 3 themes' is more concise and equally clear."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'French speaking' should be hyphenated as 'French-speaking' for clarity and consistency in UK English."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'and the create tasks' is grammatically incorrect; it should be 'and create tasks' or 'and then create tasks'."
+    }
+  ]
+}

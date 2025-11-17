@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:58:49.451793Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---early-modern.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'ai' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'aii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The term 'bii' is used as an identifier within a structured label in the table header, not as a standalone word."
+    }
+  ]
+}

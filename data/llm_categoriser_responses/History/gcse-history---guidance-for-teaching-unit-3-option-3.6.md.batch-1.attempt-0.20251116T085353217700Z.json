@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:53:53.217700Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.6.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Organization is part of the proper noun 'National Organization for Women' and is correct as written."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The double quote is correctly used as part of a video title and is a stylistic choice for smart quotes."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The double quote is correctly used as part of a video title and is a stylistic choice for smart quotes."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Organization is part of the proper noun 'National Organization for Women' and is correct as written."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen when preceding a noun."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:41:06.305138Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "A comma after 'Also' would improve readability and flow, but its omission is not an absolute grammatical error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'resources' is correctly spelled and used; the actual error is the missing question mark at the end of the sentence."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'be' is correctly used in the sentence; the actual error is the missing question mark at the end of the question."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Acronyms such as 'PDF' are typically capitalised in formal WJEC documentation for consistency."
+    }
+  ]
+}

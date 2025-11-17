@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:47:25.664480Z",
+  "subject": "German",
+  "filename": "gcse-german---unit-1-oracy.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'Ok' is common in informal speech, 'Okay' is generally preferred in formal WJEC documentation, though 'Ok' is acceptable in a role-play script."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'See' is part of the German proper noun 'Camping am See' and is correctly used."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'but' is used correctly to connect two clauses in the given sentence."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'er' is a correct German pronoun used in the example sentence provided."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'au' refers to a German vowel sound and is correctly used in the linguistic explanation."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is correctly used to quote the German vowel sound 'eu'."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While not strictly incorrect, a period or dash would be more conventional than a colon to separate the German phrase from the instruction in this context."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'Ok' is common in informal speech, 'Okay' is generally preferred in formal WJEC documentation, though 'Ok' is acceptable in a role-play script."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'See' is part of the German proper noun 'Camping am See' and is correctly used."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'but' is used correctly to connect two clauses in the given sentence."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:45:14.702778Z",
+  "subject": "Geography",
+  "filename": "wjec-gcse-geography-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'INTRODUCTION' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'INTRODUCTION' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'SUBJECT' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Opportunities' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'ASSESSMENT' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'TECHNICAL' has been incorrectly split across two cells in the table of contents."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is a valid spelling and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is a valid spelling and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationship' is a valid spelling and is used consistently throughout the document, indicating a stylistic choice."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The hyphenated form 'inter-relationships' is a valid spelling and is used consistently throughout the document, indicating a stylistic choice."
+    }
+  ]
+}

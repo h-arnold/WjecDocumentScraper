@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-16T08:53:36.258115Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.5.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "As a specific geopolitical region, 'Eastern Europe' should be capitalised as a proper noun."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is required before a decade, e.g., 'in the 1930s'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The definite article 'the' is required before a decade, e.g., 'in the 1930s'."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Marginalised' is the correct UK English spelling and should be retained."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Evidence-based' is a compound adjective and requires a hyphen."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Cross-curricular' is a compound adjective and requires a hyphen."
+    }
+  ]
+}

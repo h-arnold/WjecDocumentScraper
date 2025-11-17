@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:28:18.457097Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-2.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Using 'keywords' as a single compound noun is a common and often preferred stylistic choice in educational contexts."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound noun 'hand-washing' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'cost-effective' should be hyphenated."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'step-by-step' should be hyphenated."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Well used' is correct as 'well' functions as an adverb modifying the verb 'used', not as part of a compound adjective."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The original phrasing 'and it enables' is grammatically acceptable, referring to the preceding clause or the tools themselves."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Google Drive' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'YouTube' is a proper noun and requires capitalisation."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Websites' is the standard, single-word spelling for the compound noun."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Coordinating' is the standard and preferred spelling for the verb."
+    }
+  ]
+}

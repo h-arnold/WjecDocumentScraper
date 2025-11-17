@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:35:22.601024Z",
+  "subject": "French",
+  "filename": "gcse-french---unit-3-listening.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct idiom is 'with regard to' or 'as regards'; 'with regards to' is grammatically incorrect."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'mentioned about' can be considered slightly redundant, it is a common and understandable phrasing in this context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'mentioned about' can be considered slightly redundant, it is a common and understandable phrasing in this context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bon choix' is a correct French phrase used in the dialogue and is not an error."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'F\u00eate de la musique' is a correct French proper noun for a festival and is not an error."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Se passe' is a correct French verb conjugation in the provided text and is not an error."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Ne' is correctly used as part of the negative construction 'ne pas participer' in the French text."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bon choix' is a correct French phrase used in the dialogue and is not an error."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'F\u00eate de la musique' is a correct French proper noun for a festival and is not an error."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Se passe' is a correct French verb conjugation in the provided text and is not an error."
+    }
+  ]
+}

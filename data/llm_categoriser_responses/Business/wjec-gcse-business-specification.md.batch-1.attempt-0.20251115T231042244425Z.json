@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:10:42.244425Z",
+  "subject": "Business",
+  "filename": "wjec-gcse-business-specification.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'TECHNICAL' is incorrectly split across two table cells, indicating a parsing error."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'TECHNICAL' is incorrectly split across two table cells, indicating a parsing error."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is used correctly to connect two clauses in the sentence."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'businesses activity' should be 'business activity' (singular noun as adjective) or 'businesses' activity' (plural possessive)."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'businesses activity' should be 'business activity' (singular noun as adjective) or 'businesses' activity' (plural possessive)."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Net zero' is a standard and correctly written term in environmental policy."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Hire purchase' is a standard financial term and is correctly written as two words without a hyphen."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "As a compound adjective, 'multi-channel' is typically hyphenated for clarity in UK English."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "As a compound noun/gerund, 'short-listing' is typically hyphenated in UK English."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "As a compound adjective, 'hand-written' should be hyphenated for clarity in UK English."
+    }
+  ]
+}

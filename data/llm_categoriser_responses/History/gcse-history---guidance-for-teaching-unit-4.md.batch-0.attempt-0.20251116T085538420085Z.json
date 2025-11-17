@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:55:38.420085Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'content of any of the other selected units' is grammatically correct and clear."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'content of any of the examined units chosen' is grammatically correct and clear."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'evidence-based' should be hyphenated when preceding a noun."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective 'cross-curricular' should be hyphenated when preceding a noun."
+    }
+  ]
+}

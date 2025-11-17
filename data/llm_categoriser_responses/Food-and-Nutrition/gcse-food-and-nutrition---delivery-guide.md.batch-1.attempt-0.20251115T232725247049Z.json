@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-15T23:27:25.247049Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---delivery-guide.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'wholewheat' is commonly accepted and widely used as a single word, especially in food contexts, and does not require hyphenation."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'through' is incorrectly used; it should be 'thorough' to convey the meaning of complete or detailed."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'wholewheat' is commonly accepted and widely used as a single word, especially in food contexts, and does not require hyphenation."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'wholewheat' is commonly accepted and widely used as a single word, especially in food contexts, and does not require hyphenation."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word."
+    }
+  ]
+}

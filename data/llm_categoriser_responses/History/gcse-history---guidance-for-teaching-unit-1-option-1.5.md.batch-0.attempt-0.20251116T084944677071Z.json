@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:49:44.677071Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.5.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'any of the other' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Lewis Lewis is the correct name of a historical figure associated with the Merthyr Rising."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'mid Wales' is an acceptable geographical term, though 'mid-Wales' is also commonly used as a compound adjective."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Turnpike trusts' is the correct historical term for the organisations responsible for turnpike roads."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'long-term' requires a hyphen when used as a compound adjective modifying 'successes', consistent with 'short-term'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Inquiry' should be capitalised as it refers to a specific, named historical event, the 'Inquiry into the State of Education in Wales'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective should be 'mid-nineteenth century' without a space after the hyphen."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Inquiry' should be capitalised as it is part of the proper title of a historical report."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Inquiry' should be capitalised as it refers to the specific historical 'Inquiry into the State of Education in Wales'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective should be 'mid-nineteenth century' without a space after the hyphen."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:37:18.431634Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Risque' is a correctly spelled French word in a French-English vocabulary list."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Firefighter' should be written as a single word in standard UK English."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Website' should be written as a single word in standard UK English."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Non plus' is a correctly spelled French phrase in a French-English phrase list."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 80,
+      "reasoning": "The suggested comma does not improve the clarity of the English equivalent, which is already a slightly informal translation of the French phrase."
+    },
+    {
+      "issue_id": 55,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Self-confidence' should be hyphenated as a compound noun in standard UK English."
+    },
+    {
+      "issue_id": 56,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between 'up' and 'giving' in the English equivalent."
+    },
+    {
+      "issue_id": 57,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between 'buy' and 'buying' in the English equivalent."
+    },
+    {
+      "issue_id": 58,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between 'like' and 'liking' in the English equivalent."
+    },
+    {
+      "issue_id": 59,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between 'go' and 'going' in the English equivalent."
+    }
+  ]
+}

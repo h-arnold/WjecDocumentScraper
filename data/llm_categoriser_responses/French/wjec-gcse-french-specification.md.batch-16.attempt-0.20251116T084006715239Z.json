@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:40:06.715239Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 16,
+  "attempt": 0,
+  "issue_ids": [
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169
+  ],
+  "response": [
+    {
+      "issue_id": 160,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'argue' and the present participle 'arguing'."
+    },
+    {
+      "issue_id": 161,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The noun referring to cosmetics should be spelled as one word, 'makeup', in UK English."
+    },
+    {
+      "issue_id": 162,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The noun referring to cosmetics should be spelled as one word, 'makeup', in UK English."
+    },
+    {
+      "issue_id": 163,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'complain' and the present participle 'complaining'."
+    },
+    {
+      "issue_id": 164,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'relax' and the present participle 'relaxing'."
+    },
+    {
+      "issue_id": 165,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the phrasal verb particle 'up' and the present participle 'waking'."
+    },
+    {
+      "issue_id": 166,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'feel' and the present participle 'feeling'."
+    },
+    {
+      "issue_id": 167,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'seem' and the present participle 'seeming'."
+    },
+    {
+      "issue_id": 168,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'train' and the present participle 'training'."
+    },
+    {
+      "issue_id": 169,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between the infinitive 'separate' and the present participle 'separating'."
+    }
+  ]
+}

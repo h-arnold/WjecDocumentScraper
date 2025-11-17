@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:18:42.620085Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 7,
+  "attempt": 0,
+  "issue_ids": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "response": [
+    {
+      "issue_id": 70,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "In UK English, collective nouns can take a plural verb when referring to individuals within the group, making 'gang are' acceptable, though 'gang is' would also be valid."
+    },
+    {
+      "issue_id": 71,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma after 'e.g. chairs' would improve readability, but its omission is not a strict grammatical error."
+    },
+    {
+      "issue_id": 72,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Creditworthy' is a compound adjective typically written as a single word."
+    },
+    {
+      "issue_id": 73,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Show's' is incorrect; the third-person singular verb 'shows' is required here."
+    },
+    {
+      "issue_id": 74,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "An interjection like 'Shh' should be followed by punctuation (e.g., a comma or exclamation mark) when addressing someone."
+    },
+    {
+      "issue_id": 75,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "There is an extraneous double quote mark after 'something'."
+    },
+    {
+      "issue_id": 76,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A comma is required before the coordinating conjunction 'but' when it joins two independent clauses."
+    },
+    {
+      "issue_id": 77,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'so' when it introduces a clause of result improves clarity, but its absence is not a definitive error."
+    },
+    {
+      "issue_id": 78,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Creditworthy' is a compound adjective typically written as a single word."
+    },
+    {
+      "issue_id": 79,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma after 'e.g. bins' would improve readability, but its omission is not a strict grammatical error."
+    }
+  ]
+}

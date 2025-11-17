@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:13:13.487850Z",
+  "subject": "Design-and-Technology",
+  "filename": "wjec-gcse-design-and-technology-specification.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"SUMMARY\" has been incorrectly split across two table cells, leading to \"MMAR\" being isolated."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"INTRODUCTION\" has been incorrectly split across two table cells, leading to \"DDUCTION\" being isolated."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"Opportunities\" has been incorrectly split across two table cells, and also contains a Cyrillic character."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"MALPRACTICE\" has been incorrectly split across two table cells, leading to \"MALP\" being isolated."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"MALPRACTICE\" has been incorrectly split across two table cells, leading to \"RACTICE\" being isolated."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word \"Appendix\" has been incorrectly split across two table cells, leading to \"endix\" being isolated."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Desing\" is a misspelling of \"Design\" in the unit title."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The original phrasing lists \"petrol/diesel\" and \"electric\" as separate categories of motor vehicles, not a combined \"diesel-electric\" type."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The name of the architect is correctly spelled \"Frank Lloyd Wright\" without a hyphen."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "\"Electronical\" is an incorrect form; the correct adjective is \"electronic\"."
+    }
+  ]
+}

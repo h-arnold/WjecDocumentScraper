@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:07:06.391871Z",
+  "subject": "Business",
+  "filename": "gcse-business---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'hand-written' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Businesses activity' should be 'business activity' as 'business' functions as an adjective here."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The infinitive form 'to explain' is required after 'need' in this grammatical construction."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Proactive' is the more common and preferred unhyphenated spelling in modern UK English."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The period is correctly used to end the preceding question, and the following sentence is grammatically separate."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The opening single quote requires a corresponding closing quote for the phrase 'diamond 9'."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Lea rners' is a typographical error and should be 'learners'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Years where' is grammatically correct, with 'where' referring to the circumstances or situations within those years."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Ageing' is the preferred UK English spelling for 'aging'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'McDonald's' requires an apostrophe as it is a proper noun referring to the company."
+    }
+  ]
+}

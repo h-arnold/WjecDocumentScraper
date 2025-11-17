@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,0,so,...ished on the WJEC Portal from April 2025 so teachers can familiarise themselves wit...,ErrorCategory.FALSE_POSITIVE,95,The use of 'so' as a conjunction to introduce a purpose clause is grammatically correct and stylistically acceptable.
+1,2,and,...lish qualification; it is not definitive and it is not a checklist. Learners will no...,ErrorCategory.STYLISTIC_PREFERENCE,85,"While a comma could be added before 'and' to separate independent clauses, its omission is not a grammatical error in this context."
+2,3,and,...to understand the experience of teachers and we would love to hear your experience i...,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma before 'and' would be grammatically standard for joining independent clauses, but its omission is not an absolute error."
+3,3,so so,"...ardiffmet.eu.qualtrics.com)   Thank you so so much. Dr Mary Woolley, Dr Tom Breeze an...",ErrorCategory.STYLISTIC_PREFERENCE,75,"The repetition 'so so much' is an informal intensifier, but it is stylistically acceptable in this context for conveying strong gratitude."

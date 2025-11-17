@@ -1,0 +1,237 @@
+{
+  "timestamp": "2025-11-15T22:40:45.570566Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 0,
+  "issues": [
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "WHETHER",
+      "message": "Consider shortening this phrase to just \u2018whether\u2019, unless you mean \u2018regardless of whether\u2019.",
+      "issue_type": "style",
+      "replacements": [
+        "whether"
+      ],
+      "context": "... skills to negotiate a creative future, whether or not they continue to study Art and Design. ...",
+      "highlighted_context": "... skills to negotiate a creative future, whether or not they continue to study Art and Design. ...",
+      "issue": "whether or not",
+      "page_number": 6,
+      "issue_id": 0,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018or\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "or"
+      ],
+      "context": "...niques that they are knowledgeable about or they might be delivered by outside agen...",
+      "highlighted_context": "...niques that they are knowledgeable about or they might be delivered by outside agen...",
+      "issue": "or",
+      "page_number": 12,
+      "issue_id": 1,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "OUTSIDE_OF",
+      "message": "This phrase is redundant. Consider using \u201coutside\u201d.",
+      "issue_type": "style",
+      "replacements": [
+        "outside"
+      ],
+      "context": "...ers' work. Many learners have interests outside of the classroom into which they can be im...",
+      "highlighted_context": "...ers' work. Many learners have interests outside of the classroom into which they can be im...",
+      "issue": "outside of",
+      "page_number": 15,
+      "issue_id": 2,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "COMMA_COMPOUND_SENTENCE",
+      "message": "Use a comma before \u2018and\u2019 if it connects two independent clauses (unless they are closely connected and short).",
+      "issue_type": "uncategorized",
+      "replacements": [
+        "and"
+      ],
+      "context": "...ey can be immersed for their Unit 1 work and it might be in the skill of the teacher...",
+      "highlighted_context": "...ey can be immersed for their Unit 1 work and it might be in the skill of the teacher...",
+      "issue": "and",
+      "page_number": 15,
+      "issue_id": 3,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_TWO_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "two-dimensional"
+      ],
+      "context": "... across Pathways and provision made for two dimensional as well as three dimensional work shoul...",
+      "highlighted_context": "... across Pathways and provision made for two dimensional as well as three dimensional work shoul...",
+      "issue": "two dimensional",
+      "page_number": 18,
+      "issue_id": 4,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_COMPOUNDS_THREE_DIMENSIONAL",
+      "message": "This word is normally spelled with a hyphen.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "three-dimensional"
+      ],
+      "context": "...ion made for two dimensional as well as three dimensional work should be made. Every effort shoul...",
+      "highlighted_context": "...ion made for two dimensional as well as three dimensional work should be made. Every effort shoul...",
+      "issue": "three dimensional",
+      "page_number": 18,
+      "issue_id": 5,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "work related"
+      ],
+      "context": "...ponses to potential career pathways and workrelated experiences. Opportunities should be gi...",
+      "highlighted_context": "...ponses to potential career pathways and workrelated experiences. Opportunities should be gi...",
+      "issue": "workrelated",
+      "page_number": 21,
+      "issue_id": 6,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "self-imposed",
+        "self imposed"
+      ],
+      "context": "...nd identify something to work on with a selfimposed deadline, giving experience of decision...",
+      "highlighted_context": "...nd identify something to work on with a selfimposed deadline, giving experience of decision...",
+      "issue": "selfimposed",
+      "page_number": 22,
+      "issue_id": 7,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "MORFOLOGIK_RULE_EN_GB",
+      "message": "Possible spelling mistake found.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "self-discipline",
+        "self discipline"
+      ],
+      "context": "...iving experience of decision making and selfdiscipline.  #### **Teacher formative feedback [JC...",
+      "highlighted_context": "...iving experience of decision making and selfdiscipline.  #### **Teacher formative feedback [JC...",
+      "issue": "selfdiscipline",
+      "page_number": 22,
+      "issue_id": 8,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    },
+    {
+      "filename": "gcse-art-and-design---guidance-for-teaching.md",
+      "rule_id": "EN_DIACRITICS_REPLACE_ORTHOGRAPHY_SALON_DES_REFUSES",
+      "message": "\u2018Salon des Refuses\u2019 is an imported foreign name or expression, which originally has a diacritic.",
+      "issue_type": "misspelling",
+      "replacements": [
+        "Salon des Refus\u00e9s"
+      ],
+      "context": "...liam Blake - The Impressionists and the Salon des Refuses - Gwen John: amongst men - The avant-ga...",
+      "highlighted_context": "...liam Blake - The Impressionists and the Salon des Refuses - Gwen John: amongst men - The avant-ga...",
+      "issue": "Salon des Refuses",
+      "page_number": 23,
+      "issue_id": 9,
+      "error_category": null,
+      "confidence_score": null,
+      "reasoning": null
+    }
+  ],
+  "errors": {
+    "0": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...s; it is not an error.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...e original acceptable.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...l phrasing acceptable.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "1": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...o independent clauses.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...slightly more concise.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...ive grammatical error.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "2": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...of' in formal writing.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...ble and commonly used.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...ble and commonly used.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "3": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...o independent clauses.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...e grammatically sound.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... improved readability.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "4": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... a compound adjective.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... 'work' in UK English.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...tive modifying 'work'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "5": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... a compound adjective.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... 'work' in UK English.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...tive modifying 'work'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "6": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... a compound adjective.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...difying 'experiences'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... a compound adjective.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "7": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an... a compound adjective.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...jective in UK English.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...f-imposed' is correct.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "8": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...it is a compound noun.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...nd noun in UK English.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...iscipline' is correct.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "9": [
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...e accent over the 'e'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...the 'e' in 'Refus\u00e9s'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error",
+      "1 validation error for LanguageIssue\n  Value error, rule_id must not be empty [type=value_error, input_value={'filename': 'gcse-art-an...cent on the final 'e'.\"}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/value_error"
+    ],
+    "batch_errors": [
+      "Response contained no valid issue objects",
+      "Response contained no valid issue objects",
+      "Response contained no valid issue objects"
+    ]
+  }
+}

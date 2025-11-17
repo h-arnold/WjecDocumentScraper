@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:43:38.764359Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---guidance-for-teaching-unit-3.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The tool incorrectly flags 'htmMaritime' as a spelling error; it is a concatenation of a file extension and a term within a URL."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The company name 'McDonald's' requires an apostrophe for correct spelling."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'organisation' is the correct UK English spelling, consistent with WJEC style."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'organisation' is the correct UK English spelling, consistent with WJEC style."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The word 'content' is split into 'co ntent' in the URL, causing the tool to flag 'ntent' as an error."
+    },
+    {
+      "issue_id": 55,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The tool incorrectly flags 'htmNewly' as a spelling error; it is a concatenation of a file extension and a term within a URL."
+    },
+    {
+      "issue_id": 56,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'industrialised' is the correct UK English spelling, consistent with WJEC style."
+    },
+    {
+      "issue_id": 57,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'industrialised' is the correct UK English spelling, consistent with WJEC style."
+    },
+    {
+      "issue_id": 58,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'sea water' is not strictly incorrect, 'seawater' is the more common and preferred single-word spelling in formal contexts."
+    },
+    {
+      "issue_id": 59,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "'mid-latitudes' should be hyphenated as a compound noun or adjective."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:39:05.894922Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 11,
+  "attempt": 0,
+  "issue_ids": [
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+  ],
+  "response": [
+    {
+      "issue_id": 110,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 111,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 112,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 113,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 114,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 115,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb and its gerund form are merged and require a space for correct readability."
+    },
+    {
+      "issue_id": 116,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb and its gerund form are merged and require a space for correct readability."
+    },
+    {
+      "issue_id": 117,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    },
+    {
+      "issue_id": 118,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb and its gerund form are merged and require a space for correct readability."
+    },
+    {
+      "issue_id": 119,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Multiple spaces should be replaced with a single space for consistent formatting."
+    }
+  ]
+}

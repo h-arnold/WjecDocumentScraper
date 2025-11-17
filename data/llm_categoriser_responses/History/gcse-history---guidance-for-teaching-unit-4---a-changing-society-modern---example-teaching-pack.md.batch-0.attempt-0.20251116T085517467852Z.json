@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:55:17.467852Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Whou' is a misspelling of the pronoun 'who'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Politicl' is a misspelling of the adjective 'political'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "In UK English, the noun form is 'licence', not 'license'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the noun is 'organisation', not 'organization'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Shole' is a misspelling of the adjective 'whole'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The use of 'were' is correct in this subjunctive construction, indicating a hypothetical condition."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Worst-affected' should be hyphenated as a compound adjective modifying 'areas'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Dependants' is the correct UK English spelling for the plural noun."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'British Empire' is a proper noun and should be capitalized."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'Dancehall' is acceptable as one word, though 'dance hall' or 'dance-hall' are also common variants."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:10:06.199808Z",
+  "subject": "Business",
+  "filename": "gcse-business-3160-unit-2-nea-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside' alone is often sufficient, 'outside of' is a grammatically acceptable and commonly used idiom."
+    }
+  ]
+}

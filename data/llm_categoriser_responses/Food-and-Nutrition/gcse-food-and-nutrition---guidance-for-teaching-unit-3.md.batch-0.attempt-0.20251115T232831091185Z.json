@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:28:31.091185Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'pre-released' should be hyphenated for consistency and standard UK English usage as a compound adjective."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Vitamin D' is typically written in lowercase 'vitamin' unless it begins a sentence, following standard scientific and nutritional conventions."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The colon is misplaced and appears to be a formatting error, likely a remnant of a previous heading or an incorrect list introduction."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single quote character in the final document."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single quote character in the final document."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Qur'an' is incorrectly rendered due to an unparsed HTML entity for the apostrophe."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single quote character in the final document."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The capitalisation of 'Buy One Get One Free' is acceptable as it refers to a specific type of supermarket offer."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Cost effective' is correctly written as two words when used predicatively after a verb."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The colon is misplaced and appears to be a formatting error, likely a remnant of a previous list introduction before the heading."
+    }
+  ]
+}

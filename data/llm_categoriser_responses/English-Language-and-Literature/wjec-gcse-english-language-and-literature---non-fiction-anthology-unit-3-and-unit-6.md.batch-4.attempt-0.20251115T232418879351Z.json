@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:24:18.879351Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'too' is correctly used here to mean 'also' or 'in addition'."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' correctly links two clauses in the sentence."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The repetition of 'terribly' is a stylistic choice by the original author of the letter for emphasis and should not be altered."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The construction 'I would appreciate you sending' is grammatically acceptable, especially in the context of a personal letter."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Recognised' is the correct UK English spelling, which is appropriate for WJEC documents."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Four-legged' should be hyphenated as a compound adjective for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The single apostrophe is correctly used as an opening quotation mark for the article title."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Face-to-face' requires hyphens as a compound adjective."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Self-esteem' should be hyphenated as a compound noun in UK English."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'or' correctly links two alternative assumptions in the sentence."
+    }
+  ]
+}

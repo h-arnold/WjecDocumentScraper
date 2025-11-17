@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T08:46:32.016261Z",
+  "subject": "German",
+  "filename": "gcse-german---guidance-for-teaching-unit-2.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'assessments' requires the plural verb 'are', not 'is'."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'German speaking' should be hyphenated as 'German-speaking' when preceding a noun."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The comma after the quoted German phrase is stylistically awkward; a period or rephrasing would improve clarity."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "Both 'sub-headings' and 'subheadings' are acceptable, but 'subheadings' is often preferred in modern usage."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "Adding a comma before 'but' when it connects two independent clauses improves readability, though its omission is not a strict error."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'German speaking' should be hyphenated as 'German-speaking' when preceding a noun."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The phrase 'In teaching' is grammatically correct as an introductory phrase without a comma."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The construction 'relevant to understanding' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The term 'audiobook' is generally preferred as a single word in modern UK English, especially in a digital context."
+    }
+  ]
+}

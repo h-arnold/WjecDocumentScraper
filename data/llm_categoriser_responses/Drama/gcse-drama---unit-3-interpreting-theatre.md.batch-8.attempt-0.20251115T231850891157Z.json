@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-15T23:18:50.891157Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 8,
+  "attempt": 0,
+  "issue_ids": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+  ],
+  "response": [
+    {
+      "issue_id": 80,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 81,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'drop-down' should be hyphenated."
+    },
+    {
+      "issue_id": 82,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "In UK English, 'make-up' is typically hyphenated as a noun, consistent with other uses in the document."
+    },
+    {
+      "issue_id": 83,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Well organised' is correctly written as two words when 'well' functions as an adverb modifying the verb 'organised'."
+    },
+    {
+      "issue_id": 84,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Well organised' is correctly written as two words when 'well' functions as an adverb modifying the verb 'organised'."
+    },
+    {
+      "issue_id": 85,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'creditworthy' should be written as a single word."
+    },
+    {
+      "issue_id": 86,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'on-screen' should be hyphenated, consistent with other uses in the document."
+    },
+    {
+      "issue_id": 87,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single apostrophe, and there is an extraneous space before the closing apostrophe."
+    },
+    {
+      "issue_id": 88,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single apostrophe, and there is an extraneous space before the closing apostrophe."
+    }
+  ]
+}

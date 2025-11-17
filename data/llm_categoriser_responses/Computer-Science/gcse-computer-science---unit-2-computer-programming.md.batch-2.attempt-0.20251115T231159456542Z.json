@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:11:59.456542Z",
+  "subject": "Computer-Science",
+  "filename": "gcse-computer-science---unit-2-computer-programming.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The phrase should be 'a different number of days' or 'different numbers of days' to be grammatically correct with a plural noun."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For consistency and standard UK English as an adjective, 'on-screen' (hyphenated) is preferred, especially as the document uses it elsewhere."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'encrypted' is spelled correctly and used appropriately in the context."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The words 'necessary' and 'applications' have been incorrectly merged and should be separated."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'keycode' is a valid compound word, commonly used in technical contexts, and is used consistently as one word in the document."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'keycodes' is a valid compound word, commonly used in technical contexts, and is used consistently as one word in the document."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "There is an extraneous space before the apostrophe in 'candidate 's', which should be removed."
+    }
+  ]
+}

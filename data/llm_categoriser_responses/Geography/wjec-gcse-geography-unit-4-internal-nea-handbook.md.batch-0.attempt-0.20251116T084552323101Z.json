@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:45:52.323101Z",
+  "subject": "Geography",
+  "filename": "wjec-gcse-geography-unit-4-internal-nea-handbook.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside' is more concise, 'outside of' is grammatically acceptable and commonly used, making this a stylistic choice rather than an error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The ordinal number '5th' should not have a space between the numeral and the suffix."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "When 'well structured' follows the verb 'is,' it functions as a predicate adjective, and hyphenation is optional, making the original acceptable."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "When 'well structured' follows the verb 'is,' it functions as a predicate adjective, and hyphenation is optional, making the original acceptable."
+    }
+  ]
+}

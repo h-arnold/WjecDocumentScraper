@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:23:55.326683Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'tv' is an acceptable informal abbreviation for 'television' in this transcribed spoken context."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Gameboy' is a proper noun and is correctly capitalised in the original text."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'tv' is an acceptable informal abbreviation for 'television' in this transcribed spoken context."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Gameboy' is a proper noun and is correctly capitalised in the original text."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'East is East' is a proper noun referring to a film title and is correctly presented in this list of cultural references."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The repetition 'to to' is a clear transcription error and should be corrected to a single 'to'."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'tv' is an acceptable informal abbreviation for 'television' in this transcribed spoken context."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'far far greater' is a correct and common emphatic idiom."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'er' is a filler word correctly transcribed from spoken language in this document."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'age group' is a singular subject and requires the singular verb 'says' for correct subject-verb agreement."
+    }
+  ]
+}

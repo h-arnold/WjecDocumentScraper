@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-11-15T23:20:45.578630Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-3-influence-and-power.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "WJEC documents often prefer 'cover sheet' as two words for the noun, aligning with common UK English usage."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A hyphen is required for '45-minute' as it forms a compound adjective modifying 'period'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Consistent with previous instances, 'cover sheet' as two words is generally preferred for the noun in WJEC documents."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "Both 'audio-visual' and 'audiovisual' are acceptable spellings in UK English, and the hyphenated form is common."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The original phrasing 'but meaning is largely clear' is grammatically acceptable and concise in this context."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "'Independently of' is generally considered more idiomatic and precise than 'independently from' in this context."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Using 'YYYY' for a year placeholder provides greater clarity and avoids ambiguity in formal documentation."
+    }
+  ]
+}

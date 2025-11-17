@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:56:44.412832Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---medieval.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' would improve clarity in this compound sentence, but its omission is not an absolute grammatical error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Well prepared' is correctly unhyphenated as it functions as a predicate adjective in this context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' would improve clarity in this compound sentence, but its omission is not an absolute grammatical error."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A comma is required before 'but' when it joins two independent clauses."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Well prepared' is correctly unhyphenated as it functions as a predicate adjective in this context."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Amongst' is an acceptable variant of 'among' in British English, making the original usage stylistically acceptable."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word, indicating a table formatting or parsing error."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word, indicating a table formatting or parsing error."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word, indicating a table formatting or parsing error."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word, indicating a table formatting or parsing error."
+    }
+  ]
+}

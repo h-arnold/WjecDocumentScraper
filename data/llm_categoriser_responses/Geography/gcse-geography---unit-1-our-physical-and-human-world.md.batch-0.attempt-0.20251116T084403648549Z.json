@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:44:03.648549Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---unit-1-our-physical-and-human-world.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quote mark is correctly used to delimit a specific term in the text."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The 'th' is incomplete, indicating a missing number before it in the date entry."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'hotograph' is a clear misspelling of 'Photograph'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quote mark is correctly used to delimit a specific term in the text."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'fewer' is technically more precise for countable nouns like 'leaves', 'less' is commonly accepted in this context and does not hinder clarity."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'fewer' is technically more precise for countable nouns like 'leaves', 'less' is commonly accepted in this context and does not hinder clarity."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'so' is used correctly to indicate a consequence or result."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'fewer' is technically more precise for countable nouns like 'leaves', 'less' is commonly accepted in this context and does not hinder clarity."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'so' is used correctly to indicate a consequence or result."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'so' is used correctly to indicate a consequence or result."
+    }
+  ]
+}

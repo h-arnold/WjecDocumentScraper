@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-11-15T23:29:45.636709Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is correctly used to provide a parenthetical explanation for 'whisking' and is not an error."
+    }
+  ]
+}

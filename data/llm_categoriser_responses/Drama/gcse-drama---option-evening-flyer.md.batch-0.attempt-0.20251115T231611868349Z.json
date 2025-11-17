@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-15T23:16:11.868349Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---option-evening-flyer.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The acronym 'WJEC' should always be capitalised as 'WJEC' in official documents."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'Script Writer' should be written as one word, 'Scriptwriter', according to standard UK English usage."
+    }
+  ]
+}

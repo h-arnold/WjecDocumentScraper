@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:20:00.216084Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "gcse-english-language-and-literature---unit-1-context-and-meaning.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'wanna' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The lowercase 'i' for the pronoun is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'wanna' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The lowercase 'i' for the pronoun is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The lowercase 'atlantic ocean' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The repetition of 'deep deep' is a deliberate stylistic choice for poetic effect within the presented poem."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The lowercase 'i' for the pronoun is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'wanna' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'wanna' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The spelling 'cliched' is an accepted variant of the past participle in UK English, and is appropriate in this context."
+    }
+  ]
+}

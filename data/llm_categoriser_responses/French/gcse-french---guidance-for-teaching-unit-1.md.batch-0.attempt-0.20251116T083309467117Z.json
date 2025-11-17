@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:33:09.467117Z",
+  "subject": "French",
+  "filename": "gcse-french---guidance-for-teaching-unit-1.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quote is correctly used to close the italicised French phrase; the tool's highlight is a false positive for this specific character."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The single quote is correctly used to close the italicised French phrase; the tool's highlight is a false positive for this specific character."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'but' is used correctly to connect two clauses in the sentence."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'role play' as an open compound is acceptable, 'role-play' is often preferred as a hyphenated compound adjective in formal WJEC documentation for clarity."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "'Famous celebrity' is a pleonasm as a celebrity is by definition famous, making 'celebrity' alone sufficient."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Preparation' is used correctly as a noun in the phrase 'In preparation'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Week-end' is a commonly accepted and widely used anglicism in French, often hyphenated, making its use correct in this context."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bu' is the correct past participle of 'boire' (to drink) and is grammatically correct in the French pass\u00e9 compos\u00e9 sentence."
+    }
+  ]
+}

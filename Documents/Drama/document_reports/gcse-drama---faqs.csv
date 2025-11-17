@@ -1,0 +1,7 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,1,2 year,"...learning hours, primarily designed as a 2 year program for learners in Years 10 and 11...",ErrorCategory.PARSING_ERROR,100,The compound adjective '2 year' should be hyphenated as '2-year' when modifying 'program'.
+1,2,proforma,"...e written work, cover sheets, programme proforma and approval form should be uploaded al...",ErrorCategory.STYLISTIC_PREFERENCE,90,The Latin phrase 'pro forma' is typically written as two words in formal UK English.
+2,3,ound,...       |   | | SEARCH Records for     | ound 3 |       |   |                        ...,ErrorCategory.SPELLING_ERROR,95,"The word 'ound' appears to be a typographical error within the table, likely intended to be 'found'."
+3,3,nonassessed,"...candidate wishes to work as a designer, nonassessed performers will have to perform the dev...",ErrorCategory.PARSING_ERROR,100,The compound adjective 'nonassessed' should be hyphenated as 'non-assessed' when preceding a noun.
+4,3,Proforma,"... Approval Form, Marksheet and Programme Proforma?**  A: The relevant paperwork for Unit ...",ErrorCategory.STYLISTIC_PREFERENCE,90,"The Latin phrase 'Pro forma' is typically written as two words, 'Pro forma', in formal UK English, even when capitalized in a heading."
+5,4,nonassessed,"...candidate wishes to work as a designer, nonassessed performers will have to perform the pie...",ErrorCategory.PARSING_ERROR,100,The compound adjective 'nonassessed' should be hyphenated as 'non-assessed' when preceding a noun.

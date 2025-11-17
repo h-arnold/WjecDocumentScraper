@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:17:07.365893Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-2-non-exam-assessment-pack-sample.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'assessment' is repeated consecutively, which is a clear error."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Proforma' is used as part of a specific document title, and WJEC style often treats it as a single word in this context."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Proforma' is used as part of a specific document title, and WJEC style often treats it as a single word in this context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Proforma' is used as part of a specific document title, and WJEC style often treats it as a single word in this context."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' correctly links two independent clauses in the sentence."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Proforma' is used as part of a specific document title, and WJEC style often treats it as a single word in this context."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'skillCharacter' is a concatenation of two words that should be separated, likely by a space or a slash, to form a clear label."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'or' is correctly used as a conjunction in the phrase 'played or design skill selected'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'appropriat' is an incomplete word and should be 'appropriate'."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'appropriat' is an incomplete word and should be 'appropriate'."
+    }
+  ]
+}

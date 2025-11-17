@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:05:25.180131Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---guidance-for-teaching.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'mock-up' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'mock-up' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'two-dimensional' should be hyphenated."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The original phrase 'affects us all and all learners' is grammatically correct and conveys the intended meaning, unlike the suggested idiom 'all in all'."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "An apostrophe should not be used to form the plural of a decade; it should be '1980s'."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Womens' should be 'Women's' as it is a possessive noun in the name of the organisation."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The phrase 'possibilities are made possible' is slightly redundant, but not grammatically incorrect, making it a stylistic choice."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Inside of' is often considered redundant; 'inside' is more concise and commonly used in UK English."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Subject matter' is a correct and widely accepted compound noun, especially in an artistic context."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' would improve clarity as it separates two independent clauses, though its omission is not a strict grammatical error."
+    }
+  ]
+}

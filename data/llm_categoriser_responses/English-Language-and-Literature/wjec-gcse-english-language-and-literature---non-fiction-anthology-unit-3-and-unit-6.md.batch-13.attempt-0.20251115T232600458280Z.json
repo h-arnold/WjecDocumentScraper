@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:26:00.458280Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 13,
+  "attempt": 0,
+  "issue_ids": [
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139
+  ],
+  "response": [
+    {
+      "issue_id": 130,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Net zero' is an accepted term, often used as two words when referring to the target or state of emissions."
+    },
+    {
+      "issue_id": 131,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cost-effective' should be hyphenated as it functions as a compound adjective modifying 'energy sources'."
+    },
+    {
+      "issue_id": 132,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'a small number of' is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 133,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The URL contains a space between 'chris' and 'packham' which should be a hyphen for correct URL formatting."
+    },
+    {
+      "issue_id": 134,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The article 'a' is correctly used as part of the quoted title."
+    },
+    {
+      "issue_id": 135,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'R*tard' is intentionally presented with an asterisk as part of a quoted title, not a spelling error."
+    },
+    {
+      "issue_id": 136,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The URL contains a space between 'rosie' and 'jones' which should be a hyphen for correct URL formatting."
+    },
+    {
+      "issue_id": 137,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'PageBoy' is the correct capitalisation for the specific book title."
+    },
+    {
+      "issue_id": 138,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The URL contains a space between 'ethnic' and 'minority' which should be a hyphen for correct URL formatting."
+    },
+    {
+      "issue_id": 139,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'EachOther' is the correct capitalisation for the proper name of the charity."
+    }
+  ]
+}

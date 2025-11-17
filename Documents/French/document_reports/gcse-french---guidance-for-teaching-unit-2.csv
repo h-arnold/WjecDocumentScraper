@@ -1,0 +1,9 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,8,is,...rd of the date on which the assessments is conducted including the name of the wor...,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The plural subject 'assessments' requires the plural verb 'are'.
+1,11,re -enforce,"...iarise themselves with the chosen work, re -enforce understanding of the written content, m...",ErrorCategory.PARSING_ERROR,95,The compound verb 're-enforce' requires a hyphen in standard UK English.
+2,12,sub-titles,"...lel or tangled texts, watch a film with sub-titles or voiceover, and / or provide supporti...",ErrorCategory.STYLISTIC_PREFERENCE,85,'Subtitles' is generally written as one word in modern UK English.
+3,12,sub-headings,...ividual notes can include the following sub-headings to provide opportunity to introduce and...,ErrorCategory.STYLISTIC_PREFERENCE,85,'Subheadings' is generally written as one word in modern UK English.
+4,14,but,...             | culture and contributions but this is not compulsory.                ...,ErrorCategory.FALSE_POSITIVE,95,The word 'but' is used correctly as a conjunction in this context.
+5,15,audio books,...<li>Learners can use Immersive reader / audio books / streaming to access the chosen work</...,ErrorCategory.STYLISTIC_PREFERENCE,90,'Audiobooks' is generally written as one word in modern UK English.
+6,23,verbs,... transport to plan the journey. (sample verbs voyager / rester / visiter / manger / t...,ErrorCategory.FALSE_POSITIVE,100,The word 'verbs' is correctly used to introduce a list of examples.
+7,25,gif,"...capcut.com/)', etc. to create a meme or gif that uses the quote.  #### Producing  {...",ErrorCategory.FALSE_POSITIVE,100,'Gif' is a correctly used and widely accepted term for a type of image file.

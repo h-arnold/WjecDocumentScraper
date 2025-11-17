@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:25:17.859830Z",
+  "subject": "English-Language-and-Literature",
+  "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md",
+  "batch_index": 9,
+  "attempt": 0,
+  "issue_ids": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "response": [
+    {
+      "issue_id": 90,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The term 'extra-curricular' is correctly hyphenated as an adjective in UK English, so no change is needed."
+    },
+    {
+      "issue_id": 91,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'but' is used correctly as a conjunction in a transcript of spoken language, reflecting natural speech patterns."
+    },
+    {
+      "issue_id": 92,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The filler word 'er' is an accurate representation of spoken language in a transcript and should be retained."
+    },
+    {
+      "issue_id": 93,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'there's there's' accurately reflects a hesitation or emphasis in spoken language within a transcript."
+    },
+    {
+      "issue_id": 94,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'this this' accurately reflects a hesitation or emphasis in spoken language within a transcript."
+    },
+    {
+      "issue_id": 95,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'it it' accurately reflects a hesitation or emphasis in spoken language within a transcript."
+    },
+    {
+      "issue_id": 96,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The filler word 'er' is an accurate representation of spoken language in a transcript and should be retained."
+    },
+    {
+      "issue_id": 97,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The filler word 'er' is an accurate representation of spoken language in a transcript and should be retained."
+    },
+    {
+      "issue_id": 98,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The filler word 'er' is an accurate representation of spoken language in a transcript and should be retained."
+    },
+    {
+      "issue_id": 99,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The repetition 'there there' (actually 'there's there's' in context) accurately reflects a hesitation or emphasis in spoken language within a transcript."
+    }
+  ]
+}

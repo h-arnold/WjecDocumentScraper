@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,2,2 year,"...learning hours, primarily designed as a 2 year program for learners in Years 10 and 11...",ErrorCategory.PARSING_ERROR,100,A hyphen is required to form the compound adjective '2-year' when it modifies 'program'.

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-15T23:04:59.107952Z",
+  "subject": "Art-and-Design",
+  "filename": "gcse-art-and-design---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses in a compound sentence."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "A space is missing between 'Unit 1' and the opening parenthesis for 'internal assessment'."
+    }
+  ]
+}

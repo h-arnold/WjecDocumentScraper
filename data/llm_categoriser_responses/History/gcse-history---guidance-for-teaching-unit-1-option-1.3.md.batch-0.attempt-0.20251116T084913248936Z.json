@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-16T08:49:13.248936Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'any of the other selected units' is grammatically correct and clear in its meaning."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Mid-fifteenth century' requires a hyphen as it functions as a compound adjective modifying 'century'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The possessive form of 'Veysey' requires an apostrophe and an 's', making it 'Veysey's effectiveness'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Evidence-based' should be hyphenated as it is a compound adjective modifying 'conclusions'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Cross-curricular' should be hyphenated as it is a compound adjective, consistent with other uses in the document."
+    }
+  ]
+}

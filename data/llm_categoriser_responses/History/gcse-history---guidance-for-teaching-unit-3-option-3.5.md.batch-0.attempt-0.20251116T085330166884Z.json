@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:53:30.166884Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.5.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase 'content of any of the other selected units' is grammatically correct and clear."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Basic necessities' is a correct and commonly used plural noun phrase."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'showing the how' is grammatically incorrect; it should be 'showing how' or 'showing the way how'."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The word 'Collectivization' uses American English spelling ('z') instead of the preferred British English spelling ('s') for WJEC documents, even within a link title."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Eastern Europe' should be capitalized as it refers to a specific geopolitical region."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Eastern Europe' should be capitalized as it refers to a specific geopolitical region."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'Iron Curtain' has an opening quotation mark but is missing its corresponding closing quotation mark."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The definite article 'the' should precede 'USA/UK' for improved grammatical flow and formality."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "The definite article 'the' should precede 'USA/UK' for improved grammatical flow and formality."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "'Eastern Europe' should be capitalized as it refers to a specific geopolitical region."
+    }
+  ]
+}

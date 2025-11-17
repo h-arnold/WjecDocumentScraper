@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-11-16T08:40:35.077890Z",
+  "subject": "French",
+  "filename": "wjec-gcse-french-specification.md",
+  "batch_index": 18,
+  "attempt": 0,
+  "issue_ids": [
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187
+  ],
+  "response": [
+    {
+      "issue_id": 180,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'translate' and the present participle 'translating'."
+    },
+    {
+      "issue_id": 181,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'cross' and the present participle 'crossing'."
+    },
+    {
+      "issue_id": 182,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'find' and the present participle 'finding'."
+    },
+    {
+      "issue_id": 183,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'sell' and the present participle 'selling'."
+    },
+    {
+      "issue_id": 184,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'come' and the present participle 'coming'."
+    },
+    {
+      "issue_id": 185,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'empty' and the present participle 'emptying'."
+    },
+    {
+      "issue_id": 186,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'visit' and the present participle 'visiting'."
+    },
+    {
+      "issue_id": 187,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "A space is missing between the infinitive 'see' and the present participle 'seeing'."
+    }
+  ]
+}

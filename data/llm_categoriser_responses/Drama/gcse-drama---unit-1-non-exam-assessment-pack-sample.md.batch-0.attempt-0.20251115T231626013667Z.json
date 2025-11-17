@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:16:26.013667Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-1-non-exam-assessment-pack-sample.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Proforma is an acceptable single-word spelling for a standard form, especially in British English and WJEC document titles."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'i kol use will' is nonsensical and appears to be a data entry or parsing error within the table."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Audio-visual should be hyphenated when used as a compound adjective in UK English for consistency and grammatical correctness."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'learners' requires the plural verb 'have' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The plural subject 'learners' requires the plural verb 'have' for correct subject-verb agreement."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' would improve readability by separating the two independent clauses, but its omission is not a grammatical error."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The words 'of' and 'performance' are incorrectly merged and should be separated by a space."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Proforma is an acceptable single-word spelling for a standard form, especially in British English and WJEC document titles."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'pro-forma' is a valid spelling, using 'proforma' (single word) would maintain consistency with the document's title usage."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'Name' is incorrectly split across two table cells, resulting in 'Na' and 'ame:'."
+    }
+  ]
+}

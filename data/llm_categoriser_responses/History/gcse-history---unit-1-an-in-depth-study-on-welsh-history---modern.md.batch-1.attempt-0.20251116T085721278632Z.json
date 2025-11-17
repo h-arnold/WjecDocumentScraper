@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:57:21.278632Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The conjunction 'and' is used correctly to connect two independent clauses in a compound sentence."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'on-going' should be hyphenated when preceding the noun it modifies in UK English."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word within a table header, likely 'Question No.', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a word within a table header, likely 'Marks', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'a(i)', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'a(ii)', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'b(ii)', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'c(i)', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'c(ii)', indicating a parsing or formatting error."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "This is a fragment of a question identifier within a table, likely 'a(i)', indicating a parsing or formatting error."
+    }
+  ]
+}

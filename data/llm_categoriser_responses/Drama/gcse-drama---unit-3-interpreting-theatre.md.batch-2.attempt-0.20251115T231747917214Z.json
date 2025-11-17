@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-15T23:17:47.917214Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---unit-3-interpreting-theatre.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 24,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 25,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 26,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 27,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The character's name is consistently spelled 'AUDREY' elsewhere in the document, making 'Audery' a clear misspelling."
+    },
+    {
+      "issue_id": 28,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Summertime' is a valid and commonly used single word in UK English, making the original spelling correct."
+    },
+    {
+      "issue_id": 29,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'credit worthy' is not strictly incorrect, 'creditworthy' as a single word is the more common and preferred spelling in formal contexts."
+    }
+  ]
+}

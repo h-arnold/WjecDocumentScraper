@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-15T23:14:56.708606Z",
+  "subject": "Drama",
+  "filename": "gcse-drama---guidance-for-teaching-unit-1.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The conjunction 'and' is correctly used to connect two clauses in the sentence."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'youtube.com' is correctly written as part of a URL and does not require alteration."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For decades, the preferred stylistic convention in formal UK English is to omit the apostrophe (e.g., 60s)."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For decades, the preferred stylistic convention in formal UK English is to omit the apostrophe (e.g., 70s)."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "For decades, the preferred stylistic convention in formal UK English is to omit the apostrophe (e.g., 1970s)."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb form 'proofread' is conventionally written as a single word without a hyphen in UK English."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While the apostrophe indicates elision, 'phone' is now a standard word and the apostrophe is generally omitted in formal writing."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While the apostrophe indicates elision, 'phone' is now a standard word and the apostrophe is generally omitted in formal writing."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Both 'independent from' and 'independent of' are acceptable, but 'independent of' is often preferred in formal UK English when referring to freedom from control."
+    }
+  ]
+}

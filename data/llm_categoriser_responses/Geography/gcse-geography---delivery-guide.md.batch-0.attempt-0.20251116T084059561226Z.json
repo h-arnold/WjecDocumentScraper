@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-16T08:40:59.561226Z",
+  "subject": "Geography",
+  "filename": "gcse-geography---delivery-guide.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Compound adjectives preceding a noun, such as 'six-stage', should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The HTML entity `&#x27;` should be rendered as a single quote."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'so that' could be used, 'so' is acceptable as a concise conjunction indicating consequence in this context."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "'So' is grammatically correct as a conjunction indicating consequence; 'so that' is a stylistic alternative."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Well structured' is correctly unhyphenated when it functions as a predicate adjective following a verb."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Well structured' is correctly unhyphenated when it functions as a predicate adjective following a verb."
+    }
+  ]
+}

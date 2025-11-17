@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-16T08:57:44.525596Z",
+  "subject": "History",
+  "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`bii` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "`sti` is a fragment of the word 'Questions', indicating a parsing error in the table header."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "`ks` is a fragment of the word 'Marks', indicating a parsing error in the table header."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`ai` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`aii` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`bii` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`ci` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`cii` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`ai` is a standard question part identifier in WJEC documents and is correct as written."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "`aii` is a standard question part identifier in WJEC documents and is correct as written."
+    }
+  ]
+}

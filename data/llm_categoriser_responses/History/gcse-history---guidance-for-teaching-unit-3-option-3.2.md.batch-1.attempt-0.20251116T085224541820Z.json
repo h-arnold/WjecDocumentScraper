@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-16T08:52:24.541820Z",
+  "subject": "History",
+  "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.2.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'The are' is an absolute grammatical error and should be 'There are'."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'evidence-based' requires a hyphen when preceding the noun 'conclusions'."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Western Europe' is a proper noun and must be capitalised."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Central Asia' is a proper noun and must be capitalised."
+    }
+  ]
+}

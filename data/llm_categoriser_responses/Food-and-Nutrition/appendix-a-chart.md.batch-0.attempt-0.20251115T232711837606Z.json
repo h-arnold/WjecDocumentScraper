@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-11-15T23:27:11.837606Z",
+  "subject": "Food-and-Nutrition",
+  "filename": "appendix-a-chart.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is correctly used to provide an explanation for the preceding term."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The parenthesis is correctly used to provide an explanation for the preceding term."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The correct spelling for the culinary term is 'Saut\u00e9ing' with an acute accent, as per standard UK English culinary terminology."
+    }
+  ]
+}
