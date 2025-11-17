@@ -203,9 +203,11 @@ def main(args: list[str] | None = None) -> int:
     # are available before create_provider_chain reads them
     from dotenv import load_dotenv
     if parsed_args.dotenv:
-        load_dotenv(dotenv_path=parsed_args.dotenv)
+        # Use the user-specified .env and override existing env vars so a
+        # local file takes precedence during development/testing.
+        load_dotenv(dotenv_path=str(parsed_args.dotenv), override=True)
     else:
-        load_dotenv()  # Load from default .env file in current directory
+        load_dotenv(override=True)  # Load from default .env file in current directory
     
     # Validate report file exists
     if not parsed_args.from_report.exists():

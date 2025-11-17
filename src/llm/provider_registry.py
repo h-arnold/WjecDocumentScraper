@@ -63,7 +63,8 @@ def create_provider_chain(
     # If dotenv_path was supplied, load it early so that environment variables
     # such as LLM_PRIMARY/LLM_FALLBACK are available before we read them.
     if dotenv_path is not None:
-        load_dotenv(dotenv_path=str(dotenv_path))
+        # Force .env values to override for provider discovery and ordering
+        load_dotenv(dotenv_path=str(dotenv_path), override=True)
 
     candidates: list[str] = []
     if primary:

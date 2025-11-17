@@ -50,6 +50,9 @@ class MistralLLM(LLMProvider):
             raise TypeError(f"system_prompt must be str or Path, got {type(system_prompt)}")
             
         if dotenv_path is not None:
+            # Load the provided dotenv file but do not override existing
+            # environment variables; tests and explicit environment values
+            # should take precedence.
             load_dotenv(dotenv_path=Path(dotenv_path))
         else:
             load_dotenv()
