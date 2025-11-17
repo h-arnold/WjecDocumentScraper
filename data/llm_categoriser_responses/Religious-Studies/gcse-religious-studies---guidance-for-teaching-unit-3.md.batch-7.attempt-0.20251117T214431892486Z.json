@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:44:31.892486Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 7,
+  "attempt": 0,
+  "issue_ids": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "response": [
+    {
+      "issue_id": 70,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Buddhahood is a correct and standard term in Buddhist terminology, referring to the state of being a Buddha."
+    },
+    {
+      "issue_id": 71,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Buddhahood is a correct and standard term in Buddhist terminology, referring to the state of being a Buddha."
+    },
+    {
+      "issue_id": 72,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dukkha is a correct and standard term in Buddhist terminology, referring to suffering or dissatisfaction."
+    },
+    {
+      "issue_id": 73,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Buddha is a correct and standard term in Buddhist terminology, referring to an enlightened being."
+    },
+    {
+      "issue_id": 74,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Parinirvana is a correct and standard term in Buddhist terminology, referring to the final nirvana."
+    },
+    {
+      "issue_id": 75,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Arhats is a correct and standard term in Buddhist terminology, referring to enlightened individuals in Theravada Buddhism."
+    },
+    {
+      "issue_id": 76,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Arhats is a correct and standard term in Buddhist terminology, referring to enlightened individuals in Theravada Buddhism."
+    },
+    {
+      "issue_id": 77,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Anicca is a correct and standard term in Buddhist terminology, referring to impermanence."
+    },
+    {
+      "issue_id": 78,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dukkha is a correct and standard term in Buddhist terminology, referring to suffering or dissatisfaction."
+    },
+    {
+      "issue_id": 79,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dukkha is a correct and standard term in Buddhist terminology, referring to suffering or dissatisfaction."
+    }
+  ]
+}

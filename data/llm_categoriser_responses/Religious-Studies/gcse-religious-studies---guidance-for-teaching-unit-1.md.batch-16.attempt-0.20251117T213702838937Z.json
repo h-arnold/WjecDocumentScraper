@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:37:02.838937Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 16,
+  "attempt": 0,
+  "issue_ids": [
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169
+  ],
+  "response": [
+    {
+      "issue_id": 160,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bhagavan is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 161,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nirguna is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 162,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Saguna is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 163,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nirguna is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 164,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Saguna is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 165,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Saguna is a correct religious term in Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 166,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Vaishnavite is a correct religious term referring to a tradition within Hinduism and is spelled correctly."
+    },
+    {
+      "issue_id": 167,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe is incorrectly used for a plural noun; it should be 'atmans'."
+    },
+    {
+      "issue_id": 168,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before the conjunction 'but' would improve readability as it separates two independent clauses."
+    },
+    {
+      "issue_id": 169,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-interchangeable' requires a hyphen without a space in UK English."
+    }
+  ]
+}

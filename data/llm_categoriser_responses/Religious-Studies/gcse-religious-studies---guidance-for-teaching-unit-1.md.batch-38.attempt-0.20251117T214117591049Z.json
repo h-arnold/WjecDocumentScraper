@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:41:17.591049Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 38,
+  "attempt": 0,
+  "issue_ids": [
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389
+  ],
+  "response": [
+    {
+      "issue_id": 380,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Irenaeus' is a correctly spelled proper noun referring to a historical figure in Christian theology."
+    },
+    {
+      "issue_id": 381,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Theos' is a correctly spelled Greek term used appropriately to explain the etymology of 'theodicy'."
+    },
+    {
+      "issue_id": 382,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Agap\u00e8' is a correctly spelled Greek term, and the use of the grave accent is acceptable for precise theological terminology."
+    },
+    {
+      "issue_id": 383,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'thanksgiving' is correctly spelled and lowercased as it is part of a definition, not a proper noun."
+    },
+    {
+      "issue_id": 384,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is a correctly spelled Latin term used appropriately within the phrase 'Imago Dei'."
+    },
+    {
+      "issue_id": 385,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'JL Mackie' is a correctly presented proper name, and the omission of periods after initials is an acceptable stylistic choice."
+    },
+    {
+      "issue_id": 386,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'book of Genesis' is correctly phrased and capitalized in this context, referring to the biblical book."
+    },
+    {
+      "issue_id": 387,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Parousia' is a correctly spelled theological term referring to the Second Coming of Jesus."
+    },
+    {
+      "issue_id": 388,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Irenaeus' is a correctly spelled proper noun referring to a historical figure in Christian theology."
+    },
+    {
+      "issue_id": 389,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Adding a comma before 'and' is a stylistic choice when connecting two independent clauses, but its omission does not hinder clarity here."
+    }
+  ]
+}

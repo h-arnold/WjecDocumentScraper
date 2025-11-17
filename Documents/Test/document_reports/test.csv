@@ -1,4 +1,0 @@
-issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,1,issue,ctx,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,test
-1,1,issue,ctx,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,test
-2,1,issue,ctx,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,test

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:34:36.014096Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 3,
+  "attempt": 0,
+  "issue_ids": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "response": [
+    {
+      "issue_id": 30,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Theos is a correctly spelled Greek term used appropriately in the context of etymology."
+    },
+    {
+      "issue_id": 31,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Irenaeus is a correctly spelled proper noun referring to a historical figure."
+    },
+    {
+      "issue_id": 32,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Irenaeus is a correctly spelled proper noun referring to a historical figure."
+    },
+    {
+      "issue_id": 33,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Adding a comma before 'and' would improve flow but is not strictly necessary for clarity in this compound sentence."
+    },
+    {
+      "issue_id": 34,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Irenaeus is a correctly spelled proper noun referring to a historical figure."
+    },
+    {
+      "issue_id": 35,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'the book of Genesis' is the correct and standard way to refer to this biblical text."
+    },
+    {
+      "issue_id": 36,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Tri-unity is a correctly spelled and hyphenated theological term used appropriately as an alternative for Trinity."
+    },
+    {
+      "issue_id": 37,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dramatized is the correct UK English spelling for the word."
+    },
+    {
+      "issue_id": 38,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "TrueTube is a correctly spelled proper noun referring to a specific online resource."
+    },
+    {
+      "issue_id": 39,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "TrueTube is a correctly spelled proper noun referring to a specific online resource."
+    }
+  ]
+}

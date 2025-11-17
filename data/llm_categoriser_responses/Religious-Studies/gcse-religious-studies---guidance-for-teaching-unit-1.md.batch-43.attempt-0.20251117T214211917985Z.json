@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:42:11.917985Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 43,
+  "attempt": 0,
+  "issue_ids": [
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439
+  ],
+  "response": [
+    {
+      "issue_id": 430,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Ashramas' is the correct and accepted term for the four stages of life in Hinduism."
+    },
+    {
+      "issue_id": 431,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Eid-ul-Adha' is a correct and commonly accepted spelling for the Islamic festival."
+    },
+    {
+      "issue_id": 432,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Eid ul-Fitr' is a correct and commonly accepted spelling for the Islamic festival."
+    },
+    {
+      "issue_id": 433,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Kab'ah' is a correct and acceptable spelling for the sacred shrine in Mecca."
+    },
+    {
+      "issue_id": 434,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Malaikah' is the correct Islamic term for angels."
+    },
+    {
+      "issue_id": 435,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Risalah' is the correct Islamic term for the message from Allah to prophets."
+    },
+    {
+      "issue_id": 436,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sawm' is the correct Islamic term for fasting."
+    },
+    {
+      "issue_id": 437,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Subhah' is the correct Islamic term for prayer beads."
+    },
+    {
+      "issue_id": 438,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Tyle' is a misspelling of the word 'type'."
+    },
+    {
+      "issue_id": 439,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Matzpun' is the correct Hebrew term for conscience."
+    }
+  ]
+}

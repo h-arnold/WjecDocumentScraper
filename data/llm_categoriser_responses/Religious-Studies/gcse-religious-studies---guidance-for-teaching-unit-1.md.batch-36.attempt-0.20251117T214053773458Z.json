@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:40:53.773458Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 36,
+  "attempt": 0,
+  "issue_ids": [
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369
+  ],
+  "response": [
+    {
+      "issue_id": 360,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Moh is a correct religious term in the context of Sikhism's five vices."
+    },
+    {
+      "issue_id": 361,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Ahankar is a correct religious term in the context of Sikhism's five vices."
+    },
+    {
+      "issue_id": 362,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "Self-centeredness should be hyphenated as a compound noun in UK English; the space indicates a parsing error."
+    },
+    {
+      "issue_id": 363,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Santokh is a correct religious term in the context of Sikhism's five virtues."
+    },
+    {
+      "issue_id": 364,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nimrata is a correct religious term in the context of Sikhism's five virtues."
+    },
+    {
+      "issue_id": 365,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Pyar is a correct religious term in the context of Sikhism's five virtues."
+    },
+    {
+      "issue_id": 366,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Emphasize is the American spelling; emphasise is preferred in UK English for WJEC documents."
+    },
+    {
+      "issue_id": 367,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Emphasize is the American spelling; emphasise is preferred in UK English for WJEC documents."
+    },
+    {
+      "issue_id": 368,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "The phrase 'specific agreed' is slightly awkward and could be improved with a comma ('specific, agreed') or rephrased for better flow."
+    },
+    {
+      "issue_id": 369,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "TrueTube is a proper noun, the correct name of the resource."
+    }
+  ]
+}

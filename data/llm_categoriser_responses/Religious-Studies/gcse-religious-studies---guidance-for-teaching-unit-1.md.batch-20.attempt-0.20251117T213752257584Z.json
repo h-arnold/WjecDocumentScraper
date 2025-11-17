@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:37:52.257584Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 20,
+  "attempt": 0,
+  "issue_ids": [
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "response": [
+    {
+      "issue_id": 200,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Vishnava is a misspelling of Vaishnava, which is the correct term for the tradition."
+    },
+    {
+      "issue_id": 201,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Shaivite is a correct and commonly used term for followers of Shiva and the associated tradition."
+    },
+    {
+      "issue_id": 202,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The opening parenthesis is incorrectly separated from the word it encloses, indicating a parsing error."
+    },
+    {
+      "issue_id": 203,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Vaishnav is used inconsistently with Vaishnava elsewhere in the document when referring to the bhakti tradition, suggesting a need for stylistic consistency."
+    },
+    {
+      "issue_id": 204,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Shaiva is the correct and consistently used adjective for the bhakti tradition in the document."
+    },
+    {
+      "issue_id": 205,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Mandir should be consistently capitalised as a proper noun, especially given its capitalisation elsewhere in the document."
+    },
+    {
+      "issue_id": 206,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Arti should be consistently capitalised as a proper noun, referring to a specific religious ceremony."
+    },
+    {
+      "issue_id": 207,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Mandir is correctly capitalised here as a proper noun referring to a Hindu temple."
+    },
+    {
+      "issue_id": 208,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Shaiva is correctly used as an adjective for the bhakti tradition."
+    },
+    {
+      "issue_id": 209,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Saivite is inconsistent with Shaivite used elsewhere in the document, requiring a consistent spelling choice."
+    }
+  ]
+}

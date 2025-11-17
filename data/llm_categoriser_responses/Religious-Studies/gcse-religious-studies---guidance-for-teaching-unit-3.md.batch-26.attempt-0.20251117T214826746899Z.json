@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:48:26.746899Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 26,
+  "attempt": 0,
+  "issue_ids": [
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269
+  ],
+  "response": [
+    {
+      "issue_id": 260,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The space before the hyphen in 'Non -religious' is a parsing error; it should be 'Non-religious'."
+    },
+    {
+      "issue_id": 261,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Life-saving' should be hyphenated as a compound adjective modifying 'treatments'."
+    },
+    {
+      "issue_id": 262,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Teachwire' is a proper noun and is spelled correctly."
+    },
+    {
+      "issue_id": 263,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'emphasises' has been incorrectly split by a parsing error."
+    },
+    {
+      "issue_id": 264,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The space before the hyphen in 'non -religious' is a parsing error; it should be 'non-religious'."
+    },
+    {
+      "issue_id": 265,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The space before the hyphen in 'cruelty -free' is a parsing error; it should be 'cruelty-free'."
+    },
+    {
+      "issue_id": 266,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The space before the hyphen in 'non -religious' is a parsing error; it should be 'non-religious'."
+    },
+    {
+      "issue_id": 267,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Non-religious' should be hyphenated as a compound adjective."
+    },
+    {
+      "issue_id": 268,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The space before the hyphen in 'non -religious' is a parsing error; it should be 'non-religious'."
+    },
+    {
+      "issue_id": 269,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While 'perspectives about' is grammatically acceptable, 'perspectives on' is generally preferred in formal writing for discussing views on a topic."
+    }
+  ]
+}

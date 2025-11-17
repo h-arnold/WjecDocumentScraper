@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:35:45.782395Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 9,
+  "attempt": 0,
+  "issue_ids": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "response": [
+    {
+      "issue_id": 90,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dukkha is a correct and standard Buddhist term, not a spelling error."
+    },
+    {
+      "issue_id": 91,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Anicca is a correct and standard Buddhist term, not a spelling error."
+    },
+    {
+      "issue_id": 92,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Buddha-to-be is a correctly hyphenated descriptive phrase used appropriately in context."
+    },
+    {
+      "issue_id": 93,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Lakshanas is a correct and standard Buddhist term, not a spelling error."
+    },
+    {
+      "issue_id": 94,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Anicca is a correct and standard Buddhist term, not a spelling error."
+    },
+    {
+      "issue_id": 95,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the practice of severe self-discipline and abstention is 'asceticism' in UK English."
+    },
+    {
+      "issue_id": 96,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Iathrios is a proper noun, likely a creator's name, and is correctly spelled in this context."
+    },
+    {
+      "issue_id": 97,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bhikkhus is a correct and standard Buddhist term for monks, not a spelling error."
+    },
+    {
+      "issue_id": 98,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Punya is a correct and standard Buddhist term for merit, not a spelling error."
+    },
+    {
+      "issue_id": 99,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Mettabhavana is a correct and standard Buddhist term for loving-kindness meditation, not a spelling error."
+    }
+  ]
+}

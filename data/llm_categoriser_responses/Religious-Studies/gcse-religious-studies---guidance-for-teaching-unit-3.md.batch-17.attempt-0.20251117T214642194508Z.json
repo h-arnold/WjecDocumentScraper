@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:46:42.194508Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 17,
+  "attempt": 0,
+  "issue_ids": [
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+  ],
+  "response": [
+    {
+      "issue_id": 170,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The opening double quote is correctly used to introduce a direct quotation."
+    },
+    {
+      "issue_id": 171,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The verb 'is' correctly agrees with the singular subject 'Our God and your God' (referring to one God)."
+    },
+    {
+      "issue_id": 172,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The pronoun 'Him' is correctly capitalized when referring to God in this religious context."
+    },
+    {
+      "issue_id": 173,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Burqa' is the correct spelling for the garment and is a specific term."
+    },
+    {
+      "issue_id": 174,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While grammatically acceptable, adding a comma before 'so' would improve clarity by separating two independent clauses."
+    },
+    {
+      "issue_id": 175,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The compound adjective should be hyphenated as 'non-religious' without a space, indicating a parsing error."
+    },
+    {
+      "issue_id": 176,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the country is 'Saudi Arabia', not 'Saudia Arabia'."
+    },
+    {
+      "issue_id": 177,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "In UK English, the noun form is 'licence', not 'license'."
+    },
+    {
+      "issue_id": 178,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 80,
+      "reasoning": "The use of 'around' to mean 'concerning' or 'relating to' is acceptable in this context, though 'on' or 'regarding' might be more formal."
+    },
+    {
+      "issue_id": 179,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'so' would improve readability by separating two independent clauses, but its omission is not a grammatical error."
+    }
+  ]
+}

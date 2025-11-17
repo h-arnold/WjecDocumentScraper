@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:41:51.554364Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 41,
+  "attempt": 0,
+  "issue_ids": [
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419
+  ],
+  "response": [
+    {
+      "issue_id": 410,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sannyasa' is a correct and widely accepted term in Hinduism, referring to the fourth stage of life."
+    },
+    {
+      "issue_id": 411,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and widely accepted term in Hinduism, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 412,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and widely accepted term in Hinduism, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 413,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and widely accepted term in Hinduism, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 414,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'attaining' is a redundant repetition of 'attain' and should be removed."
+    },
+    {
+      "issue_id": 415,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and widely accepted term in Hinduism, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 416,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Navaratri' is a correct and widely accepted term for a Hindu festival."
+    },
+    {
+      "issue_id": 417,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The apostrophe before 'meaning' is grammatically incorrect and should be removed or replaced with appropriate punctuation."
+    },
+    {
+      "issue_id": 418,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vaishnavism' is a correct and widely accepted term for a major tradition within Hinduism."
+    },
+    {
+      "issue_id": 419,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mandir' is a correct and widely accepted term for a Hindu place of worship."
+    }
+  ]
+}

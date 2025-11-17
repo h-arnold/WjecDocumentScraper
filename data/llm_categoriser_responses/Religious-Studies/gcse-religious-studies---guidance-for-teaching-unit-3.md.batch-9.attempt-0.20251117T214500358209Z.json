@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:45:00.358209Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 9,
+  "attempt": 0,
+  "issue_ids": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "response": [
+    {
+      "issue_id": 90,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Upaya' is a correct Buddhist technical term, appropriately used and explained in context."
+    },
+    {
+      "issue_id": 91,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correct Buddhist technical term, appropriately used and explained in context."
+    },
+    {
+      "issue_id": 92,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Shoyo' is a correctly spelled proper noun, part of a person's name."
+    },
+    {
+      "issue_id": 93,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Taniguchi' is a correctly spelled proper noun, part of a person's name."
+    },
+    {
+      "issue_id": 94,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective should be hyphenated as 'thought-provoking' without a space, indicating a parsing error."
+    },
+    {
+      "issue_id": 95,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Urias' is a correctly spelled proper noun, part of an author's name."
+    },
+    {
+      "issue_id": 96,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The raw HTML attribute 'href' should not be visible in the learner-facing document, indicating a formatting or rendering issue."
+    },
+    {
+      "issue_id": 97,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'it can be agree or disagree' is grammatically incorrect; it should be 'it can be agreement or disagreement' or 'they can agree or disagree'."
+    },
+    {
+      "issue_id": 98,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bardo' is a correct and appropriately capitalized Tibetan Buddhist technical term."
+    },
+    {
+      "issue_id": 99,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun should be hyphenated as 'non-violence' without a space, indicating a parsing error."
+    }
+  ]
+}

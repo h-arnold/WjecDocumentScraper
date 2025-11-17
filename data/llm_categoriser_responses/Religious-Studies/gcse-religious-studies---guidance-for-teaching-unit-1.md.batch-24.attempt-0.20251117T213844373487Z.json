@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:38:44.373487Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 24,
+  "attempt": 0,
+  "issue_ids": [
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249
+  ],
+  "response": [
+    {
+      "issue_id": 240,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'and' would improve clarity by separating two independent clauses."
+    },
+    {
+      "issue_id": 241,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'Al-Qadr' should be hyphenated directly, not with a space before the hyphen."
+    },
+    {
+      "issue_id": 242,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 90,
+      "reasoning": "Capitalising 'Him' when referring to Allah is a common stylistic convention in religious texts to show reverence."
+    },
+    {
+      "issue_id": 243,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The sentence is grammatically correct as written; adding a comma before 'although' would be a stylistic choice."
+    },
+    {
+      "issue_id": 244,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'Salat al-Janazah' should be hyphenated directly, not with a space before the hyphen."
+    },
+    {
+      "issue_id": 245,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'Salat al-Janazah' should be hyphenated directly, not with a space before the hyphen."
+    },
+    {
+      "issue_id": 246,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "A comma before 'but' would improve clarity by separating two independent clauses."
+    },
+    {
+      "issue_id": 247,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'iddah' is a correctly spelled and appropriately quoted Islamic term."
+    },
+    {
+      "issue_id": 248,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Jummah' is a correctly spelled Islamic term."
+    },
+    {
+      "issue_id": 249,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "The sentence is grammatically correct as written; adding a comma before 'whilst' would be a stylistic choice."
+    }
+  ]
+}

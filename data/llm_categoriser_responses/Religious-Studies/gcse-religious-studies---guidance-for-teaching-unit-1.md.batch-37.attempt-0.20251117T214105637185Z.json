@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:41:05.637185Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 37,
+  "attempt": 0,
+  "issue_ids": [
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379
+  ],
+  "response": [
+    {
+      "issue_id": 370,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Agap\u00e8' is the correct spelling of the Greek term, including the accent, and is used correctly in context."
+    },
+    {
+      "issue_id": 371,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Scientia' is the correct Latin term for 'knowledge' and is used accurately in the etymological explanation."
+    },
+    {
+      "issue_id": 372,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the Latin phrase 'imago Dei'."
+    },
+    {
+      "issue_id": 373,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Thanksgiving' is correctly spelled and used in the definition of Eucharist."
+    },
+    {
+      "issue_id": 374,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the Latin phrase 'Imago Dei', which is a glossary term."
+    },
+    {
+      "issue_id": 375,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'JL Mackie' is the correct name of the philosopher and is a proper noun."
+    },
+    {
+      "issue_id": 376,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Book of Genesis' is the correct and common way to refer to the biblical book."
+    },
+    {
+      "issue_id": 377,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Parousia' is a correct theological term and is spelled correctly."
+    },
+    {
+      "issue_id": 378,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Irenaeus' is the correct name of the historical figure and is a proper noun."
+    },
+    {
+      "issue_id": 379,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' would improve readability as it separates two independent clauses, but its omission is not a grammatical error."
+    }
+  ]
+}

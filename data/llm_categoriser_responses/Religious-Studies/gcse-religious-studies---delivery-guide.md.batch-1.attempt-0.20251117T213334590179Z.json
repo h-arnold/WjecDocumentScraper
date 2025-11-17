@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:33:34.590179Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---delivery-guide.md",
+  "batch_index": 1,
+  "attempt": 0,
+  "issue_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "response": [
+    {
+      "issue_id": 10,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' should be hyphenated when preceding the noun 'perspectives' for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 11,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Perspectives on' is generally considered more idiomatic and precise than 'perspectives about' in formal academic writing."
+    },
+    {
+      "issue_id": 12,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' should be hyphenated when preceding the noun 'perspectives' for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 13,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Perspectives on' is generally considered more idiomatic and precise than 'perspectives about' in formal academic writing."
+    },
+    {
+      "issue_id": 14,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' should be hyphenated when preceding the noun 'perspectives' for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 15,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Perspectives on' is generally considered more idiomatic and precise than 'perspectives about' in formal academic writing."
+    },
+    {
+      "issue_id": 16,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' should be hyphenated when preceding the noun 'perspectives' for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 17,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Perspectives on' is generally considered more idiomatic and precise than 'perspectives about' in formal academic writing."
+    },
+    {
+      "issue_id": 18,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' should be hyphenated when preceding the noun 'perspectives' for consistency and correct UK English usage."
+    },
+    {
+      "issue_id": 19,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 85,
+      "reasoning": "'Perspectives on' is generally considered more idiomatic and precise than 'perspectives about' in formal academic writing."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-11-17T21:33:39.712838Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---delivery-guide.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21,
+    22,
+    23
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'faith-based' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Gobind' is correctly spelled as part of the proper noun 'Guru Gobind Singh'."
+    },
+    {
+      "issue_id": 22,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Myoho' is correctly spelled as part of the Buddhist chant 'Nam Myoho Renge Kyo'."
+    },
+    {
+      "issue_id": 23,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Quiz quiz trade' is the established and correct name for a specific learning activity."
+    }
+  ]
+}

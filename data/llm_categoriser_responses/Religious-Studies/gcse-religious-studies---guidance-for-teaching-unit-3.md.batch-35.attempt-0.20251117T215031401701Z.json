@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:50:31.401701Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 35,
+  "attempt": 0,
+  "issue_ids": [
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359
+  ],
+  "response": [
+    {
+      "issue_id": 350,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "The phrase 'mercy killing' requires a closing single quotation mark for correct punctuation."
+    },
+    {
+      "issue_id": 351,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Ravana is a correctly spelled proper noun referring to a demon king in Hindu mythology."
+    },
+    {
+      "issue_id": 352,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Pandavas is a correctly spelled proper noun referring to a group of characters in the Mahabharata."
+    },
+    {
+      "issue_id": 353,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Kauravas is a correctly spelled proper noun referring to a group of characters in the Mahabharata."
+    },
+    {
+      "issue_id": 354,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct spelling for the Hindu legal text is 'Smriti', not 'Smirti', as confirmed by authoritative sources."
+    },
+    {
+      "issue_id": 355,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Moksha is a correctly spelled term in Hinduism, presented appropriately in lowercase for a glossary entry."
+    },
+    {
+      "issue_id": 356,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Punya is a correctly spelled term in Hinduism, presented appropriately in lowercase for a glossary entry."
+    },
+    {
+      "issue_id": 357,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "For consistency with the main definition on page 152, 'Gunas' should be capitalised when referring to the specific attributes of nature."
+    },
+    {
+      "issue_id": 358,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "For consistency with the main definition on page 152, 'Gunas' should be capitalised when referring to the specific attributes of nature."
+    },
+    {
+      "issue_id": 359,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "For consistency with the main definition on page 152, 'Gunas' should be capitalised when referring to the specific attributes of nature."
+    }
+  ]
+}

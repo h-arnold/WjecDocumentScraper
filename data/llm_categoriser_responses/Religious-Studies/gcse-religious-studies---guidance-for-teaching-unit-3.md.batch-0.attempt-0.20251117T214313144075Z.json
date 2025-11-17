@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:43:13.144075Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The term 'non-religious' should be hyphenated as a compound adjective in UK English for consistency and grammatical correctness."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the established Latin theological term 'imago Dei'."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma is advisable before 'and' when it joins two independent clauses to improve readability and adhere to formal writing conventions."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the established Latin theological term 'imago Dei'."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the established Latin theological term 'imago Dei'."
+    },
+    {
+      "issue_id": 5,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Opinionnaire' is a correctly spelled and appropriately used word referring to a type of questionnaire."
+    },
+    {
+      "issue_id": 6,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dei' is correctly used as part of the established Latin theological term 'imago Dei'."
+    },
+    {
+      "issue_id": 7,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'we' should be 'when' to correctly form the clause 'when life should end'."
+    },
+    {
+      "issue_id": 8,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'TrueTube' is a proper noun, referring to a specific educational resource, and is spelled correctly."
+    },
+    {
+      "issue_id": 9,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'TrueTube' is a proper noun, referring to a specific educational resource, and is spelled correctly."
+    }
+  ]
+}

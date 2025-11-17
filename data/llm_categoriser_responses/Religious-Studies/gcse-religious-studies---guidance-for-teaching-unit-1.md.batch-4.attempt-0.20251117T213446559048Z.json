@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:34:46.559048Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 4,
+  "attempt": 0,
+  "issue_ids": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "response": [
+    {
+      "issue_id": 40,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Yeshua' is the correct Hebrew name for Jesus and is used appropriately in this religious context."
+    },
+    {
+      "issue_id": 41,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Imago Dei' is a correct and standard Latin theological term used appropriately in this context."
+    },
+    {
+      "issue_id": 42,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 80,
+      "reasoning": "A comma before 'but' would improve clarity when connecting two independent clauses."
+    },
+    {
+      "issue_id": 43,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The issue highlights an HTML entity for a single quote, which is a parsing artifact, not an error in the original text."
+    },
+    {
+      "issue_id": 44,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Imago Dei' is a correct and standard Latin theological term used appropriately as an example in this context."
+    },
+    {
+      "issue_id": 45,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Book of Genesis' is a proper noun and should be consistently capitalised as 'Book of Genesis'."
+    },
+    {
+      "issue_id": 46,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'Book of Genesis' is a proper noun and should be consistently capitalised as 'Book of Genesis'."
+    },
+    {
+      "issue_id": 47,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'offenses' is 'offences'."
+    },
+    {
+      "issue_id": 48,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Missio' is the correct name of a Catholic charity and is used appropriately as a proper noun."
+    },
+    {
+      "issue_id": 49,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'CARJ' is the correct acronym for the Catholic Association for Racial Justice and is used appropriately."
+    }
+  ]
+}

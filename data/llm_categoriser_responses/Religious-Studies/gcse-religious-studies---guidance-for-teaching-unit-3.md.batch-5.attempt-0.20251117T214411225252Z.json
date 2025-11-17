@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:44:11.225252Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 5,
+  "attempt": 0,
+  "issue_ids": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "response": [
+    {
+      "issue_id": 50,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound noun 'self-improvement' requires a hyphen in UK English, and the space indicates a parsing error."
+    },
+    {
+      "issue_id": 51,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Pratitya samutpada' is a correctly spelled Sanskrit term and should not be altered."
+    },
+    {
+      "issue_id": 52,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Almsgiver' is a correctly spelled compound noun in UK English."
+    },
+    {
+      "issue_id": 53,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mahaparinirvana' is a correctly spelled proper noun referring to a specific Buddhist sutra."
+    },
+    {
+      "issue_id": 54,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correctly spelled Sanskrit term for a key Buddhist concept."
+    },
+    {
+      "issue_id": 55,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correctly spelled Sanskrit term for a key Buddhist concept, correctly capitalized at the start of a sentence."
+    },
+    {
+      "issue_id": 56,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correctly spelled Sanskrit term for a key Buddhist concept."
+    },
+    {
+      "issue_id": 57,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound noun 'self-control' requires a hyphen in UK English, and the space indicates a parsing error."
+    },
+    {
+      "issue_id": 58,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correctly spelled Sanskrit term for a key Buddhist concept."
+    },
+    {
+      "issue_id": 59,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correctly spelled Sanskrit term for a key Buddhist concept."
+    }
+  ]
+}

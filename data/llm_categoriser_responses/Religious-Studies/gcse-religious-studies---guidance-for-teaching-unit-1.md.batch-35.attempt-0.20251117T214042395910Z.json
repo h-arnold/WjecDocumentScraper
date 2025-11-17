@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:40:42.395910Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 35,
+  "attempt": 0,
+  "issue_ids": [
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359
+  ],
+  "response": [
+    {
+      "issue_id": 350,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Amritdhari is a correct and specific religious term in Sikhism, referring to initiated Sikhs."
+    },
+    {
+      "issue_id": 351,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Sanskar is a correct and specific religious term in Sikhism, used correctly in 'Amrit Sanskar'."
+    },
+    {
+      "issue_id": 352,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "Rehet is an acceptable transliteration within the specific religious term 'Rehet Maryada' (Sikh code of conduct)."
+    },
+    {
+      "issue_id": 353,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Sahajdhari is a correct and specific religious term in Sikhism, referring to non-initiated Sikhs."
+    },
+    {
+      "issue_id": 354,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Sanskar is a correct and specific religious term in Sikhism, used correctly in 'Amrit Sanskar'."
+    },
+    {
+      "issue_id": 355,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Panj is a correct and specific religious term, part of 'Panj Chor' (five vices) in Sikhism."
+    },
+    {
+      "issue_id": 356,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Panj is a correct and specific religious term, part of 'Panj Chor' (five vices) in Sikhism."
+    },
+    {
+      "issue_id": 357,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Kaam is a correct and specific religious term for lust, one of the five vices in Sikhism."
+    },
+    {
+      "issue_id": 358,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Krodh is a correct and specific religious term for anger, one of the five vices in Sikhism."
+    },
+    {
+      "issue_id": 359,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Lobh is a correct and specific religious term for greed, one of the five vices in Sikhism."
+    }
+  ]
+}

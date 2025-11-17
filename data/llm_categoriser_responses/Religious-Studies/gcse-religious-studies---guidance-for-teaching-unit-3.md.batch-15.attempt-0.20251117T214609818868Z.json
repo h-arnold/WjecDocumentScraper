@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:46:09.818868Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 15,
+  "attempt": 0,
+  "issue_ids": [
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+  ],
+  "response": [
+    {
+      "issue_id": 150,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the Hindu text is 'Smriti', not 'Smirti'."
+    },
+    {
+      "issue_id": 151,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'As to whether' is often considered wordy; 'whether' alone is more concise and equally clear."
+    },
+    {
+      "issue_id": 152,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'more than one' should be followed by a singular noun, making 'one path' the correct form."
+    },
+    {
+      "issue_id": 153,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Madhvacharya' is the correct spelling of a proper noun (a philosopher's name)."
+    },
+    {
+      "issue_id": 154,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The sentence structure is garbled, likely due to a parsing error during conversion, making 'century where' part of a larger structural issue."
+    },
+    {
+      "issue_id": 155,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'fil' is part of the correct Arabic phrase 'fil ardh' and is not an error."
+    },
+    {
+      "issue_id": 156,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'ardh' is part of the correct Arabic phrase 'fil ardh' and is not an error."
+    },
+    {
+      "issue_id": 157,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling is 'Judgement', not 'Judgment'."
+    },
+    {
+      "issue_id": 158,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling is 'Judgement', not 'Judgment'."
+    },
+    {
+      "issue_id": 159,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct transliteration of the Islamic term is 'Akhirah', not 'Akihrah'."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:47:38.062947Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 22,
+  "attempt": 0,
+  "issue_ids": [
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229
+  ],
+  "response": [
+    {
+      "issue_id": 220,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound noun 'well-being' should be hyphenated without a space, indicating a parsing error."
+    },
+    {
+      "issue_id": 221,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'emphasising' is incorrectly truncated, likely due to a parsing error."
+    },
+    {
+      "issue_id": 222,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The term 'non-violence' should be hyphenated according to standard UK English usage."
+    },
+    {
+      "issue_id": 223,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound noun 'self-centredness' should be hyphenated without a space, indicating a parsing error."
+    },
+    {
+      "issue_id": 224,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "Both 'judgments' and 'judgements' are acceptable in UK English, making this a stylistic choice rather than an error."
+    },
+    {
+      "issue_id": 225,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'self-centered' is 'self-centred'."
+    },
+    {
+      "issue_id": 226,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for 'self-centeredness' is 'self-centredness'."
+    },
+    {
+      "issue_id": 227,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'SikhiWiki' is a proper noun, the correct name of a specific encyclopedia."
+    },
+    {
+      "issue_id": 228,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling of the Sikh term for God is 'Waheguru', not 'Wareguru'."
+    },
+    {
+      "issue_id": 229,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'role-play' is correctly hyphenated and used as a verb in this context."
+    }
+  ]
+}

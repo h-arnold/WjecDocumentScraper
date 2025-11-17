@@ -1,0 +1,9 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+90,71,',...ul relationships with other people e.g. **'**You shall not murder. [Exodus 20 verse 1...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Double quotation marks are generally preferred for direct speech in formal UK English.
+91,71,Nevi,...of communal worship and tradition - The **Nevi**'im provides teachings on laws that impa...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Nevi'im' is a correct Hebrew term and proper noun, not a spelling error."
+92,71,im,...mmunal worship and tradition - The Nevi'**im** provides teachings on laws that impact ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Nevi'im' is a correct Hebrew term and proper noun, not a spelling error."
+93,73,shel,"... One box is bound to the head (tefillah **shel** rosh), containing the first two paragra...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Shel' is a correct Hebrew word used in the religious term 'tefillah shel rosh'.
+94,73,shel,...ox is placed on the upper arm (tefillah **shel** yad) which contains a single scroll of ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Shel' is a correct Hebrew word used in the religious term 'tefillah shel yad'.
+95,75,bath,"...ar (Pool of Nectar), is where Sikhs can **bath** to cleanse themselves of their sins.</l...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct verb form is 'bathe', not 'bath'."
+96,76,karna,"...race - good deeds/service such as kirat **karna**, vand chakna and naam japna - by follow...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Karna' is a correct term used in the Sikh concept 'kirat karna'.
+97,78,Gumurkhi,...and understand the Guru Granth Sahib in **Gumurkhi** as an act of selfless service   - becom...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct spelling for the Sikh script is 'Gurmukhi', not 'Gumurkhi'."

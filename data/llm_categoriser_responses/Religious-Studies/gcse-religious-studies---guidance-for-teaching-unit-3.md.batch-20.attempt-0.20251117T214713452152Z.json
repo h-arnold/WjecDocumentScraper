@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:47:13.452152Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 20,
+  "attempt": 0,
+  "issue_ids": [
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "response": [
+    {
+      "issue_id": 200,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"Goses\" is a correct Hebrew term used in Jewish law and is appropriate in this context."
+    },
+    {
+      "issue_id": 201,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The absence of a comma before 'and' is a stylistic choice and does not create a grammatical error or ambiguity."
+    },
+    {
+      "issue_id": 202,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"da\" is part of the correct Sikh term \"Sarbat da Bhala\" and is not an error."
+    },
+    {
+      "issue_id": 203,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The phrase \"all of creation\" is grammatically correct and commonly used."
+    },
+    {
+      "issue_id": 204,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"da\" is part of the correct Sikh term \"Sarbat da Bhala\" and is not an error."
+    },
+    {
+      "issue_id": 205,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"da\" is part of the correct Sikh term \"Sarbat da Bhala\" and is not an error."
+    },
+    {
+      "issue_id": 206,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"SikhNet\" is a proper noun referring to a specific online resource and is correctly spelled."
+    },
+    {
+      "issue_id": 207,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"da\" is part of the correct Sikh term \"Sarbat da Bhala\" and is not an error."
+    },
+    {
+      "issue_id": 208,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "\"Well-being\" should be hyphenated as a compound noun in UK English."
+    },
+    {
+      "issue_id": 209,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "\"Har\" is part of the proper name \"Guru Har Rai\" and is correctly spelled."
+    }
+  ]
+}

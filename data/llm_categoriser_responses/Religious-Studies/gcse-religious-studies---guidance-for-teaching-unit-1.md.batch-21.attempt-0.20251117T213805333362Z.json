@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:38:05.333362Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 21,
+  "attempt": 0,
+  "issue_ids": [
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219
+  ],
+  "response": [
+    {
+      "issue_id": 210,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Arti is a correct and commonly used term in Hinduism for a ritual of worship."
+    },
+    {
+      "issue_id": 211,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The correct and consistent spelling for this Hindu tradition is 'Vaishnava,' as used elsewhere in the document."
+    },
+    {
+      "issue_id": 212,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Shaiva is the correct and consistently used term for this Hindu tradition in the document."
+    },
+    {
+      "issue_id": 213,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Moksha is the correct and widely accepted term for liberation in Hinduism."
+    },
+    {
+      "issue_id": 214,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Jibril is the correct and commonly used Arabic name for the Angel Gabriel in Islamic contexts."
+    },
+    {
+      "issue_id": 215,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Al-Fatihah is the correct name for the opening surah of the Qur'an."
+    },
+    {
+      "issue_id": 216,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Subhah is an acceptable transliteration for Islamic prayer beads."
+    },
+    {
+      "issue_id": 217,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'through' is used correctly in this context to indicate the means of reinforcement."
+    },
+    {
+      "issue_id": 218,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The '..' within the quote is likely a parsing error for an ellipsis ('...') which indicates omitted text."
+    },
+    {
+      "issue_id": 219,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Risalah is the correct and commonly used term in Islam for prophethood or the divine message."
+    }
+  ]
+}

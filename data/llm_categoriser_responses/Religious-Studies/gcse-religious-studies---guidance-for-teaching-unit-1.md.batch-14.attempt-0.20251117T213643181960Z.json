@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:36:43.181960Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 14,
+  "attempt": 0,
+  "issue_ids": [
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+  ],
+  "response": [
+    {
+      "issue_id": 140,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Parinirvana is a correct and widely accepted Buddhist term referring to the death of the Buddha."
+    },
+    {
+      "issue_id": 141,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Rupas is a correct and widely accepted Buddhist term for images or statues of the Buddha or bodhisattvas."
+    },
+    {
+      "issue_id": 142,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "Budda is a misspelling of the proper noun Buddha."
+    },
+    {
+      "issue_id": 143,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Mudras is a correct and widely accepted Buddhist term for symbolic hand gestures."
+    },
+    {
+      "issue_id": 144,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bodh is correctly used as part of the proper noun Bodh Gaya, a significant Buddhist pilgrimage site."
+    },
+    {
+      "issue_id": 145,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Rupas is a correct and widely accepted Buddhist term for images or statues of the Buddha or bodhisattvas."
+    },
+    {
+      "issue_id": 146,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Daibutsu is a correct Japanese term for a large Buddha statue, used appropriately in the context."
+    },
+    {
+      "issue_id": 147,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Amida is a correct proper noun referring to Amit\u0101bha Buddha in Pure Land Buddhism."
+    },
+    {
+      "issue_id": 148,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bodh is correctly used as part of the proper noun Bodh Gaya, a significant Buddhist pilgrimage site."
+    },
+    {
+      "issue_id": 149,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bodh is correctly used as part of the proper noun Bodh Gaya, a significant Buddhist pilgrimage site."
+    }
+  ]
+}

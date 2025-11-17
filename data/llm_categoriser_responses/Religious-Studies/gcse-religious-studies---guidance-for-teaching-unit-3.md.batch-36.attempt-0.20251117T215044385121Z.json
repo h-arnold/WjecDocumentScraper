@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:50:44.385121Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 36,
+  "attempt": 0,
+  "issue_ids": [
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369
+  ],
+  "response": [
+    {
+      "issue_id": 360,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Varnashramadharma is a correctly spelled, specific Hindu religious term."
+    },
+    {
+      "issue_id": 361,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Varnas is the correct plural form of the Hindu social class term 'varna'."
+    },
+    {
+      "issue_id": 362,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Ashramas is the correct plural form of the Hindu term 'ashrama' referring to stages of life."
+    },
+    {
+      "issue_id": 363,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Akhirah is a correctly spelled, specific Islamic term for life after death."
+    },
+    {
+      "issue_id": 364,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Thanatos is the correctly spelled Greek word for 'death' used in the etymology of euthanasia."
+    },
+    {
+      "issue_id": 365,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Fil is correctly spelled as part of the Arabic phrase 'fil ardh'."
+    },
+    {
+      "issue_id": 366,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Ardh is correctly spelled as part of the Arabic phrase 'fil ardh'."
+    },
+    {
+      "issue_id": 367,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bal is correctly spelled as part of the Hebrew phrase 'bal tashchit'."
+    },
+    {
+      "issue_id": 368,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Thanatos is the correctly spelled Greek word for 'death' used in the etymology of euthanasia."
+    },
+    {
+      "issue_id": 369,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Tza is correctly spelled as the beginning of the Hebrew phrase 'Tza'ar Ba'alei Chayim'."
+    }
+  ]
+}

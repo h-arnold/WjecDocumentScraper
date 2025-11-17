@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:47:54.932467Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 23,
+  "attempt": 0,
+  "issue_ids": [
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239
+  ],
+  "response": [
+    {
+      "issue_id": 230,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb 'role-play' is typically hyphenated in UK English."
+    },
+    {
+      "issue_id": 231,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'da' is an integral part of the proper Sikh term 'Sarbat da Bhala' and is correct as written."
+    },
+    {
+      "issue_id": 232,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'da' is an integral part of the proper Sikh term 'Sarbat da Bhala' and is correct as written."
+    },
+    {
+      "issue_id": 233,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Ks' is the correct plural form for the specific religious term 'Five Ks' and is correctly capitalized."
+    },
+    {
+      "issue_id": 234,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The verb 'role-play' is typically hyphenated in UK English."
+    },
+    {
+      "issue_id": 235,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'da' is an integral part of the proper Sikh term 'Sarbat da Bhala' and is correct as written."
+    },
+    {
+      "issue_id": 236,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "'Maryadha' is an accepted alternative transliteration for the Sikh term and matches the linked URL, making it correct in this context."
+    },
+    {
+      "issue_id": 237,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound noun 'self-centredness' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 238,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'ego-driven' should be hyphenated in UK English."
+    },
+    {
+      "issue_id": 239,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 90,
+      "reasoning": "The UK English spelling for 'self-centeredness' is 'self-centredness'."
+    }
+  ]
+}

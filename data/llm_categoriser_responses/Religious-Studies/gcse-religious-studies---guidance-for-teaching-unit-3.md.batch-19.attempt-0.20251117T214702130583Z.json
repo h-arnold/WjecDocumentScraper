@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:47:02.130583Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 19,
+  "attempt": 0,
+  "issue_ids": [
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199
+  ],
+  "response": [
+    {
+      "issue_id": 190,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Chalef is a correct, specific Hebrew term used in the context of Jewish ritual slaughter."
+    },
+    {
+      "issue_id": 191,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Shochet is a correct, specific Hebrew term for a Jewish ritual slaughterer."
+    },
+    {
+      "issue_id": 192,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Shochet is a correct, specific Hebrew term for a Jewish ritual slaughterer."
+    },
+    {
+      "issue_id": 193,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Tza'ar is correctly spelled as part of the specific Hebrew phrase 'Tza'ar Ba'alei Chayim'."
+    },
+    {
+      "issue_id": 194,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Ba'alei is correctly spelled as part of the specific Hebrew phrase 'Tza'ar Ba'alei Chayim'."
+    },
+    {
+      "issue_id": 195,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Bal is correctly spelled as part of the specific Hebrew phrase 'Bal Tashchit'."
+    },
+    {
+      "issue_id": 196,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "Humanewashing is a recognised neologism used correctly in the context of an animal rights campaign title."
+    },
+    {
+      "issue_id": 197,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'recognizes' should be spelled 'recognises' to align with UK English conventions used throughout the document."
+    },
+    {
+      "issue_id": 198,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 90,
+      "reasoning": "A comma is required before the coordinating conjunction 'and' when it joins two independent clauses."
+    },
+    {
+      "issue_id": 199,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 90,
+      "reasoning": "The word 'although' is grammatically correct in its context, and the sentence fragment is due to a page break, not an error with the word itself."
+    }
+  ]
+}

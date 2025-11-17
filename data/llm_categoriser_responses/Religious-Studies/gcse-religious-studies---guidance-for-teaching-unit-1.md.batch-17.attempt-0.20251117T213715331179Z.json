@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:37:15.331179Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 17,
+  "attempt": 0,
+  "issue_ids": [
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+  ],
+  "response": [
+    {
+      "issue_id": 170,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 75,
+      "reasoning": "Adding a comma before 'and' would improve the flow and clarity of this compound sentence, though its omission is not a strict grammatical error."
+    },
+    {
+      "issue_id": 171,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mandir' is a correct and commonly used term for a Hindu temple in English educational contexts."
+    },
+    {
+      "issue_id": 172,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bhaktivedanta' is part of a proper noun (Bhaktivedanta Manor) and is spelled correctly."
+    },
+    {
+      "issue_id": 173,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The definite article 'the' is incorrectly placed before the verb 'create' in this sentence; it should be removed."
+    },
+    {
+      "issue_id": 174,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The word 'create' itself is grammatically correct in this context; the error lies with the preceding word 'the'."
+    },
+    {
+      "issue_id": 175,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and essential Hindu religious term, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 176,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Varnashramadharma' is a correct and specific Hindu religious concept."
+    },
+    {
+      "issue_id": 177,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and essential Hindu religious term, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 178,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and essential Hindu religious term, referring to spiritual liberation."
+    },
+    {
+      "issue_id": 179,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Moksha' is a correct and essential Hindu religious term, referring to spiritual liberation."
+    }
+  ]
+}

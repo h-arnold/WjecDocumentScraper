@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:48:48.980065Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 28,
+  "attempt": 0,
+  "issue_ids": [
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289
+  ],
+  "response": [
+    {
+      "issue_id": 280,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' requires a hyphen without a space in UK English."
+    },
+    {
+      "issue_id": 281,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'emphasise' is misspelled; the correct UK English spelling is 'emphasise'."
+    },
+    {
+      "issue_id": 282,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'well-informed' requires a hyphen without a space."
+    },
+    {
+      "issue_id": 283,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "While grammatically correct, 'to' would be more concise than 'so as to' in this context."
+    },
+    {
+      "issue_id": 284,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Assisted' is correctly used as an adjective in the term 'assisted suicide'."
+    },
+    {
+      "issue_id": 285,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' requires a hyphen without a space in UK English."
+    },
+    {
+      "issue_id": 286,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Perspectives on' is generally more idiomatic than 'perspectives about' when referring to views on a topic."
+    },
+    {
+      "issue_id": 287,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' requires a hyphen without a space in UK English."
+    },
+    {
+      "issue_id": 288,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The compound adjective 'non-religious' requires a hyphen without a space in UK English."
+    },
+    {
+      "issue_id": 289,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'Perspectives on' is generally more idiomatic than 'perspectives about' when referring to views on a topic."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:36:20.300614Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 12,
+  "attempt": 0,
+  "issue_ids": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "response": [
+    {
+      "issue_id": 120,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bardo' is a correct and specific Buddhist term, making this a false positive."
+    },
+    {
+      "issue_id": 121,
+      "error_category": "ABSOLUTE_GRAMMATICAL_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'the' should be 'them' to correctly refer to the people whose actions lead to their future life."
+    },
+    {
+      "issue_id": 122,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Anicca' is a correct and specific Buddhist term, making this a false positive."
+    },
+    {
+      "issue_id": 123,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "The character `&#x27;` represents a single quote, which is correctly used here to enclose a search term."
+    },
+    {
+      "issue_id": 124,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'PXHere' is a proper noun referring to a stock photo website, correctly cited as a source."
+    },
+    {
+      "issue_id": 125,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Samatha' is a correct and specific Buddhist term for a type of meditation, making this a false positive."
+    },
+    {
+      "issue_id": 126,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vipassana' is a correct and specific Buddhist term for a type of meditation, making this a false positive."
+    },
+    {
+      "issue_id": 127,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Malas' is a correct and specific Buddhist term for prayer beads, making this a false positive."
+    },
+    {
+      "issue_id": 128,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Samatha' is a correct and specific Buddhist term for a type of meditation, correctly capitalised as it begins a sentence."
+    },
+    {
+      "issue_id": 129,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Vipassana' is a correct and specific Buddhist term for a type of meditation, correctly capitalised as it begins a sentence."
+    }
+  ]
+}

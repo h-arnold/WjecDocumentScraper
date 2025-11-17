@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:45:45.826932Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 13,
+  "attempt": 0,
+  "issue_ids": [
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139
+  ],
+  "response": [
+    {
+      "issue_id": 130,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The word 'Hindu' is repeated unnecessarily, likely a parsing error or a typographical mistake."
+    },
+    {
+      "issue_id": 131,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The word 'as' has been incorrectly split into 'a s', indicating a parsing error."
+    },
+    {
+      "issue_id": 132,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dharmic' is a correct and appropriate term within the context of Hindu religious studies."
+    },
+    {
+      "issue_id": 133,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Well-being' should be hyphenated as a compound noun in UK English."
+    },
+    {
+      "issue_id": 134,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The adjective 'dependent' should be used here instead of the noun 'dependant'."
+    },
+    {
+      "issue_id": 135,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The UK English spelling for the past tense of 'worship' is 'worshipped', not 'worshiped'."
+    },
+    {
+      "issue_id": 136,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The correct spelling for the Hindu religious text is 'Smriti', not 'Smirti'."
+    },
+    {
+      "issue_id": 137,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Cruelty-free' should be hyphenated as a compound adjective."
+    },
+    {
+      "issue_id": 138,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Well-equipped' should be hyphenated as a compound adjective."
+    },
+    {
+      "issue_id": 139,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 80,
+      "reasoning": "'Pawsomes' appears to be a specific, possibly informal, term or brand name related to animal care, making it a false positive."
+    }
+  ]
+}

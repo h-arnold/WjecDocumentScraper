@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:41:27.601443Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 39,
+  "attempt": 0,
+  "issue_ids": [
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399
+  ],
+  "response": [
+    {
+      "issue_id": 390,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Irenaeus is a correctly spelled proper noun referring to a historical figure."
+    },
+    {
+      "issue_id": 391,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Theos is a correctly spelled Greek term used in a technical definition."
+    },
+    {
+      "issue_id": 392,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Anicca is a correctly spelled Buddhist term used as a glossary entry."
+    },
+    {
+      "issue_id": 393,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nibbana is a correctly spelled Buddhist term, often used as an alternative to Nirvana."
+    },
+    {
+      "issue_id": 394,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Dukkha is a correctly spelled Buddhist term used as a glossary entry."
+    },
+    {
+      "issue_id": 395,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 70,
+      "reasoning": "The phrase 'outside of' is grammatically acceptable, though 'outside' alone could also be used for conciseness."
+    },
+    {
+      "issue_id": 396,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Malas is a correctly spelled Buddhist term used as a glossary entry."
+    },
+    {
+      "issue_id": 397,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The Buddhist term 'anicca' is correctly lowercased when used within a sentence as a concept."
+    },
+    {
+      "issue_id": 398,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Mettabhavana is a correctly spelled Buddhist term used as a glossary entry."
+    },
+    {
+      "issue_id": 399,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nibbana is a correctly spelled Buddhist term referring to a specific concept."
+    }
+  ]
+}

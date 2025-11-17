@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-11-17T21:43:02.294989Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-2.md",
+  "batch_index": 2,
+  "attempt": 0,
+  "issue_ids": [
+    20,
+    21
+  ],
+  "response": [
+    {
+      "issue_id": 20,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 75,
+      "reasoning": "While 'perspectives about' is grammatically correct, 'perspectives on' is often preferred in academic and formal writing for conciseness and common usage."
+    },
+    {
+      "issue_id": 21,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "The 'of' in 'outside of' is often redundant; 'outside' alone is more concise and generally preferred in formal UK English."
+    }
+  ]
+}

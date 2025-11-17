@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:42:33.841435Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 45,
+  "attempt": 0,
+  "issue_ids": [
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459
+  ],
+  "response": [
+    {
+      "issue_id": 450,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The compound adjective 'self-centred' requires a hyphen in UK English."
+    },
+    {
+      "issue_id": 451,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Mool mantra' is a correct and established religious term in Sikhism."
+    },
+    {
+      "issue_id": 452,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "An apostrophe is generally preferred for the plural of a single letter for clarity, i.e., 'K's'."
+    },
+    {
+      "issue_id": 453,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "An apostrophe is generally preferred for the plural of a single letter for clarity, i.e., 'K's'."
+    },
+    {
+      "issue_id": 454,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "An apostrophe is generally preferred for the plural of a single letter for clarity, i.e., 'K's'."
+    },
+    {
+      "issue_id": 455,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "An apostrophe is generally preferred for the plural of a single letter for clarity, i.e., 'K's'."
+    },
+    {
+      "issue_id": 456,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "An apostrophe is generally preferred for the plural of a single letter for clarity, i.e., 'K's'."
+    },
+    {
+      "issue_id": 457,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Sagun' is a correct and established religious term."
+    },
+    {
+      "issue_id": 458,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "'Fatih' appears to be a misspelling of 'faith' in this context."
+    },
+    {
+      "issue_id": 459,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Agap\u00e8' is the correct spelling for this theological term, including the accent."
+    }
+  ]
+}

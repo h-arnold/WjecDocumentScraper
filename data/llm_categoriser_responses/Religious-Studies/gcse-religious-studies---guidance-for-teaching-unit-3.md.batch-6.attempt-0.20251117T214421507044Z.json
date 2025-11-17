@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:44:21.507044Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 6,
+  "attempt": 0,
+  "issue_ids": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "response": [
+    {
+      "issue_id": 60,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "`href` is a correct HTML attribute and not an error in this context."
+    },
+    {
+      "issue_id": 61,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'terms' is used correctly in this context to refer to concepts."
+    },
+    {
+      "issue_id": 62,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "The URL prefix 'thttps' is a misspelling of 'https'."
+    },
+    {
+      "issue_id": 63,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The phrase 'who sooner or later' is grammatically correct and idiomatic."
+    },
+    {
+      "issue_id": 64,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 100,
+      "reasoning": "'recogni se' is a misspelling of 'recognise' (UK English)."
+    },
+    {
+      "issue_id": 65,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "'All of the' is grammatically correct, though 'all the' could be a more concise stylistic choice."
+    },
+    {
+      "issue_id": 66,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bhante' is a correct honorific title for a Buddhist monk."
+    },
+    {
+      "issue_id": 67,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Bodhidhamma' is a correct proper noun, referring to a specific individual."
+    },
+    {
+      "issue_id": 68,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'replacinganimals' is part of a URL fragment or markdown table header and is correct in this technical context."
+    },
+    {
+      "issue_id": 69,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'tathagatagarbha' is a correct and specific Buddhist philosophical term."
+    }
+  ]
+}

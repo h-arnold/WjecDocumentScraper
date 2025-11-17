@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:38:30.173633Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.md",
+  "batch_index": 23,
+  "attempt": 0,
+  "issue_ids": [
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239
+  ],
+  "response": [
+    {
+      "issue_id": 230,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Sawm is a correctly spelled and appropriately used Islamic term for fasting."
+    },
+    {
+      "issue_id": 231,
+      "error_category": "SPELLING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The UK English spelling for the noun is 'Judgement', not 'Judgment'."
+    },
+    {
+      "issue_id": 232,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Jummah is a correctly spelled and appropriately used Islamic term for the Friday congregational prayer."
+    },
+    {
+      "issue_id": 233,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "Amongst is an acceptable, though slightly more formal, variant of 'among' in UK English."
+    },
+    {
+      "issue_id": 234,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 85,
+      "reasoning": "The conjunction 'and' connects a list of noun phrases with an independent clause, creating an awkward and non-parallel sentence structure."
+    },
+    {
+      "issue_id": 235,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The name 'Azra'il' has been incorrectly split by the tool; the apostrophe is an integral part of the proper noun."
+    },
+    {
+      "issue_id": 236,
+      "error_category": "PARSING_ERROR",
+      "confidence_score": 95,
+      "reasoning": "The name 'Azra'il' has been incorrectly split by the tool; the apostrophe is an integral part of the proper noun."
+    },
+    {
+      "issue_id": 237,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Munkar is a correctly spelled and appropriately used proper noun in Islamic terminology."
+    },
+    {
+      "issue_id": 238,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Nakir is a correctly spelled and appropriately used proper noun in Islamic terminology."
+    },
+    {
+      "issue_id": 239,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "Israfil is a correctly spelled and appropriately used proper noun in Islamic terminology."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "timestamp": "2025-11-17T21:49:50.116395Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.md",
+  "batch_index": 32,
+  "attempt": 0,
+  "issue_ids": [
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329
+  ],
+  "response": [
+    {
+      "issue_id": 320,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Thanatos' is correctly used as a Greek term in the etymological explanation of 'euthanasia'."
+    },
+    {
+      "issue_id": 321,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Pitaka' is a correct Buddhist term, specifically part of 'Sutta Pitaka' and 'Pali Canon'."
+    },
+    {
+      "issue_id": 322,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Lakshanas' is a correct Buddhist term referring to the three marks of existence."
+    },
+    {
+      "issue_id": 323,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Anicca' is a correct Buddhist term, one of the three marks of existence."
+    },
+    {
+      "issue_id": 324,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Dukkha' is a correct Buddhist term, one of the three marks of existence."
+    },
+    {
+      "issue_id": 325,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 80,
+      "reasoning": "While 'outside' alone could be used, 'outside of' is an acceptable and common idiom, making the original phrasing stylistically acceptable."
+    },
+    {
+      "issue_id": 326,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Tipitaka' is a correct Buddhist term for the 'three baskets' of the Pali Canon."
+    },
+    {
+      "issue_id": 327,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Pitaka' is a correct Buddhist term, specifically part of 'Vinaya Pitaka'."
+    },
+    {
+      "issue_id": 328,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'Pitaka' is a correct Buddhist term, specifically part of 'Sutta Pitaka'."
+    },
+    {
+      "issue_id": 329,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 95,
+      "reasoning": "'Abidhamma' is an acceptable transliteration of the Buddhist term, specifically part of 'Abidhamma Pitaka'."
+    }
+  ]
+}

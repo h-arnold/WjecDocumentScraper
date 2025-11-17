@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-11-17T21:33:46.982436Z",
+  "subject": "Religious-Studies",
+  "filename": "gcse-religious-studies---faqs.md",
+  "batch_index": 0,
+  "attempt": 0,
+  "issue_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "response": [
+    {
+      "issue_id": 0,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "The word 'so' is used correctly as a conjunction to introduce a purpose clause."
+    },
+    {
+      "issue_id": 1,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'and' would improve clarity when joining two independent clauses, but its omission is not strictly incorrect."
+    },
+    {
+      "issue_id": 2,
+      "error_category": "STYLISTIC_PREFERENCE",
+      "confidence_score": 60,
+      "reasoning": "'All of the' is grammatically correct, though 'All the' could be used for conciseness."
+    },
+    {
+      "issue_id": 3,
+      "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+      "confidence_score": 70,
+      "reasoning": "A comma before 'but' would improve clarity when joining two independent clauses, but its omission is not strictly incorrect."
+    },
+    {
+      "issue_id": 4,
+      "error_category": "FALSE_POSITIVE",
+      "confidence_score": 100,
+      "reasoning": "'ILD' is a correctly used acronym for 'Item Level Data' within the educational context."
+    }
+  ]
+}
