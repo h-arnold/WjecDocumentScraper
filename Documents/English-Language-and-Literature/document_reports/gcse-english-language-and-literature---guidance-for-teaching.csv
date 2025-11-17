@@ -1,0 +1,251 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,The compound adjective 'non-fiction' should be hyphenated in UK English.
+1,,,,,PARSING_ERROR,100,The repetition of 'Texts' is redundant and likely a parsing error or accidental duplication.
+2,,,,,PARSING_ERROR,95,The compound noun 'non-fiction' should be hyphenated in UK English.
+3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'so' would improve the clarity and flow of the sentence, separating two independent clauses."
+4,,,,,FALSE_POSITIVE,100,'Subject matter' is a correct and commonly accepted compound noun in UK English.
+5,,,,,PARSING_ERROR,95,The compound noun 'question-and-answer' requires hyphens between all its components.
+6,,,,,FALSE_POSITIVE,90,'Eye-witness' is an acceptable and correctly hyphenated compound adjective in UK English.
+7,,,,,FALSE_POSITIVE,100,'Subject matter' is a correct and commonly accepted compound noun in UK English.
+8,,,,,FALSE_POSITIVE,100,'Subject matter' is a correct and commonly accepted compound noun in UK English.
+9,,,,,FALSE_POSITIVE,100,'Whateva' is an intentional phonetic spelling used to represent informal spoken language in the provided transcript.
+10,,,,,FALSE_POSITIVE,100,"This is an intentional representation of informal spoken language within a transcript, not a spelling error in the document."
+11,,,,,FALSE_POSITIVE,100,"This is an intentional representation of informal spoken language within a transcript, not a spelling error in the document."
+12,,,,,FALSE_POSITIVE,100,"This is an intentional representation of informal spoken language within a transcript, not a spelling error in the document."
+13,,,,,FALSE_POSITIVE,100,"The document explicitly states that transcripts use no traditional punctuation, making the suggested comma inappropriate for this context."
+14,,,,,FALSE_POSITIVE,95,"The use of 'pound' in the singular form for a sum of money is a common informal idiom in spoken UK English, appropriate for this transcript."
+15,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"'Breaktime' should not be capitalised as it is a common noun within a list of genres in a table, not a proper noun or the start of a sentence."
+16,,,,,STYLISTIC_PREFERENCE,80,"'Key words' as two separate words is grammatically correct and commonly used, making the suggestion to combine them a stylistic preference rather than a correction."
+17,,,,,FALSE_POSITIVE,100,"This is an intentional representation of informal spoken language within a transcript, not a spelling error in the document."
+18,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"According to the document's own rules for transcripts, there should be no sentence capital letters, so 'but' should not be capitalised after the speaker label."
+19,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"According to the document's own rules for transcripts, there should be no sentence capital letters, so 'first of all' should not be capitalised after the speaker label."
+20,,,,,FALSE_POSITIVE,100,"'A' is a speaker label in a transcript, correctly separated from the pronoun 'I'."
+21,,,,,SPELLING_ERROR,95,"""Hairstyles"" should be written as one word in standard UK English, as per OED and Collins dictionaries."
+22,,,,,FALSE_POSITIVE,100,"'A' is a speaker label in a transcript, correctly separated from the pronoun 'I'."
+23,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity when joining two independent clauses.
+24,,,,,FALSE_POSITIVE,100,"""ll."" is a standard abbreviation for ""lines"" in academic and textual analysis contexts."
+25,,,,,FALSE_POSITIVE,100,"""ll."" is a standard abbreviation for ""lines"" in academic and textual analysis contexts."
+26,,,,,STYLISTIC_PREFERENCE,90,"""TV"" should be capitalised as it is an acronym for Television in formal writing."
+27,,,,,SPELLING_ERROR,95,"""Game Boy"" is a proper noun and should be written as two words."
+28,,,,,SPELLING_ERROR,95,"""Game Boy"" is a proper noun and should be written as two words."
+29,,,,,FALSE_POSITIVE,90,"A comma is not required before ""so"" when it introduces a subordinate clause of purpose."
+30,,,,,STYLISTIC_PREFERENCE,80,"Adding a comma before 'and' separating two independent clauses is a stylistic choice, not a grammatical requirement for clarity in this context."
+31,,,,,FALSE_POSITIVE,100,"'Frackers' is a correctly used technical term, explicitly defined in the document's glossary."
+32,,,,,SPELLING_ERROR,100,Both words in 'Labour Party' should be capitalised as it is a proper noun referring to a specific political party.
+33,,,,,FALSE_POSITIVE,100,'Kinda sorta' is an intentional informal pronunciation used in the transcript and explicitly discussed as such in the accompanying commentary.
+34,,,,,FALSE_POSITIVE,100,"'Frackers' is a correctly used technical term, explicitly defined in the document's glossary."
+35,,,,,FALSE_POSITIVE,95,'Subject matter' is correctly written as two separate words when used as a noun.
+36,,,,,STYLISTIC_PREFERENCE,85,"While 'antifracking' is sometimes used, 'anti-fracking' with a hyphen is generally preferred for clarity and consistency with common usage for the prefix 'anti-'."
+37,,,,,FALSE_POSITIVE,100,'Kinda sorta' is an intentional informal pronunciation explicitly discussed as such in the accompanying commentary.
+38,,,,,FALSE_POSITIVE,100,'ll.' is a standard and correct abbreviation for 'lines' when referring to line numbers in a text.
+39,,,,,FALSE_POSITIVE,100,'ll.' is a standard and correct abbreviation for 'lines' when referring to line numbers in a text.
+40,,,,,FALSE_POSITIVE,100,`ll.` is the correct and standard abbreviation for 'lines' in academic referencing.
+41,,,,,PARSING_ERROR,95,The compound noun 'run-up' should be hyphenated in formal written English.
+42,,,,,FALSE_POSITIVE,90,"This is a direct transcription of spoken language, and altering it would misrepresent the original utterance."
+43,,,,,FALSE_POSITIVE,90,This is a direct transcription of a colloquial pronunciation of 'what' in spoken language.
+44,,,,,FALSE_POSITIVE,90,This is a direct transcription of a colloquial pronunciation of 'a lot of' in spoken language.
+45,,,,,FALSE_POSITIVE,90,This is a direct transcription of a colloquial pronunciation of 'what' in spoken language.
+46,,,,,FALSE_POSITIVE,90,This is a direct transcription of a colloquial pronunciation of 'got to' in spoken language.
+47,,,,,STYLISTIC_PREFERENCE,70,"'Subject matter' is commonly written as two words, though 'subject-matter' is also acceptable as a compound noun."
+48,,,,,FALSE_POSITIVE,90,"'Factsheet' is an accepted single-word spelling, particularly in UK English and official documentation."
+49,,,,,FALSE_POSITIVE,100,'Longest' is a superlative adjective modifying 'recession' and should not be hyphenated with it.
+60,,,,,FALSE_POSITIVE,100,"`ll.` is the correct abbreviation for 'lines' in this context, referring to line numbers in a transcript."
+61,,,,,FALSE_POSITIVE,100,"`ll.` is the correct abbreviation for 'lines' in this context, referring to line numbers in a transcript."
+62,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' would be stylistically preferable when joining two independent clauses, but its omission is not a grammatical error."
+63,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' would be stylistically preferable when joining two independent clauses, but its omission is not a grammatical error."
+64,,,,,SPELLING_ERROR,95,The repetition of 'a a' is an error and should be corrected to a single 'a' for clarity in formal documentation.
+65,,,,,SPELLING_ERROR,95,The repetition of 'they they' is an error and should be corrected to a single 'they' for clarity in formal documentation.
+66,,,,,SPELLING_ERROR,95,The repetition of 'and and' is an error and should be corrected to a single 'and' for clarity in formal documentation.
+67,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' would be stylistically preferable when joining two independent clauses, but its omission is not a grammatical error."
+68,,,,,FALSE_POSITIVE,100,"The ellipsis '...' is correctly used to indicate omitted text, and the preceding period is grammatically correct."
+69,,,,,FALSE_POSITIVE,100,'first person' is a correct and standard grammatical term used appropriately in this context.
+200,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The indefinite article 'an' is required before a word beginning with a vowel sound, such as 'argument'."
+201,,,,,FALSE_POSITIVE,95,The omission of 'is' is a deliberate stylistic choice to reflect informal speech in dramatic dialogue.
+202,,,,,STYLISTIC_PREFERENCE,80,'Sub-headline' is generally preferred in formal UK English for clarity and consistency with other compound words.
+203,,,,,FALSE_POSITIVE,100,'Eye-witness' is correctly hyphenated in UK English when used as a noun or adjective.
+204,,,,,FALSE_POSITIVE,90,"'Videogames' is an acceptable closed compound form, widely used and understood."
+205,,,,,SPELLING_ERROR,100,The UK English spelling for 'civilization' is 'civilisation' with an 's'.
+206,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'and' is a stylistic choice when joining two independent clauses, and its omission here does not create ambiguity."
+207,,,,,SPELLING_ERROR,100,The UK English spelling for 'civilization' is 'civilisation' with an 's'.
+208,,,,,FALSE_POSITIVE,95,No comma is required between two closely related adjectives joined by 'or' when they modify the same noun.
+209,,,,,SPELLING_ERROR,100,The UK English spelling for 'civilization' is 'civilisation' with an 's'.
+220,,,,,PARSING_ERROR,95,The term should be hyphenated as 'socio-historic' for consistency with the heading on the same page and standard UK English compound adjective formation.
+221,,,,,FALSE_POSITIVE,90,"'Eye-witnesses' is a correct and commonly used hyphenated form in UK English, making the suggestion a false positive."
+222,,,,,FALSE_POSITIVE,100,The word 'speaks' is grammatically correct as the third-person singular present tense verb agreeing with 'who'.
+223,,,,,PARSING_ERROR,95,'First person' should be hyphenated as 'first-person' when used as a compound adjective modifying 'narrator'.
+224,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' would be a stylistic choice to separate two independent clauses, but its absence does not create ambiguity or a grammatical error."
+225,,,,,PARSING_ERROR,100,"There is an extraneous single quote mark before the title 'Charge of the Light Brigade', indicating a parsing error."
+226,,,,,FALSE_POSITIVE,100,'Sabring' is the correct present participle form of the verb 'to sabre' and is used correctly in the poetic context.
+227,,,,,PARSING_ERROR,100,"The repetition of 'not Not' is a clear error, likely a typo or parsing issue, and should be corrected to 'but not the six hundred'."
+228,,,,,SPELLING_ERROR,100,'Brimingham' is a misspelling of the city 'Birmingham'.
+229,,,,,FALSE_POSITIVE,100,The word 'draconian' is correctly spelled and used in its appropriate context.
+230,,,,,FALSE_POSITIVE,100,"This is a direct transcription of informal spoken dialogue, where 'weren't' is an accurate representation of the speaker's utterance."
+231,,,,,FALSE_POSITIVE,100,"'Ossob' is a proper noun, part of an author's name, and is spelled correctly."
+232,,,,,FALSE_POSITIVE,100,"'Mohamud' is a proper noun, part of an author's name, and is spelled correctly."
+233,,,,,FALSE_POSITIVE,100,'Voluntourism' is correctly used as a defined neologism within the context of the article.
+234,,,,,FALSE_POSITIVE,100,'Voluntourism' is correctly capitalised as the first word of a sentence and is a defined term in the document.
+235,,,,,FALSE_POSITIVE,100,'Voluntourists' is the correct plural form of the defined term and is used appropriately in the heading.
+236,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'but' would improve clarity by separating two independent clauses, though its omission does not create significant ambiguity."
+237,,,,,FALSE_POSITIVE,100,'Voluntourism' is correctly used as a defined neologism within the context of the article.
+238,,,,,FALSE_POSITIVE,100,'Voluntourism' is correctly used as a defined neologism within the context of the article.
+239,,,,,FALSE_POSITIVE,90,"'Vacations' is part of a direct extract from an opinion column, and therefore the original author's terminology should be preserved."
+240,,,,,PARSING_ERROR,95,The compound adjective 'poverty-stricken' should be hyphenated in UK English.
+241,,,,,FALSE_POSITIVE,100,'Voluntourism' is a specific term introduced and used correctly as a proper noun in the document.
+242,,,,,PARSING_ERROR,95,The compound noun 'self-satisfaction' should be hyphenated in UK English.
+243,,,,,STYLISTIC_PREFERENCE,80,"'Smart watch' is an acceptable two-word form, though 'smartwatch' is also commonly used."
+244,,,,,STYLISTIC_PREFERENCE,75,"A comma before 'and' would be a stylistic choice to separate two independent clauses, but its omission does not cause ambiguity."
+245,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'so' would improve clarity by separating the main clause from the clause of result.
+246,,,,,FALSE_POSITIVE,100,"'The Frasers' is used as a proper noun, likely referring to a specific place or family in the context of the novel."
+247,,,,,STYLISTIC_PREFERENCE,80,'First person narrative' is acceptable as two words; hyphenation is not strictly required in this construction.
+248,,,,,FALSE_POSITIVE,100,The use of 'sleep' instead of 'sleeps' is an intentional stylistic choice to represent Caribbean English dialect in the play's dialogue.
+249,,,,,FALSE_POSITIVE,100,'Ennit' is an intentional colloquialism used in the play's dialogue to reflect the character's dialect.
+250,,,,,FALSE_POSITIVE,95,The word 'there' is used correctly as an adverb of place in standard English.
+251,,,,,FALSE_POSITIVE,100,The term 'nuh' is explicitly defined and used correctly as a feature of Caribbean English within the document.
+252,,,,,FALSE_POSITIVE,95,"The phrase 'like read' is an intentional stylistic choice reflecting Caribbean English, as indicated by the document's analysis of the text."
+253,,,,,FALSE_POSITIVE,100,The term 'nuh' is correctly used in its definition as a feature of Caribbean English.
+254,,,,,FALSE_POSITIVE,100,The term 'nuh' is correctly referenced as a feature of Caribbean English within the linguistic analysis.
+255,,,,,FALSE_POSITIVE,100,The term 'ennit' is correctly referenced as a colloquialism within the linguistic analysis of Caribbean English.
+256,,,,,PARSING_ERROR,90,The compound adjective 'passive aggressive' should be hyphenated as 'passive-aggressive' when preceding a noun in formal UK English.
+257,,,,,PARSING_ERROR,90,The compound adjective 'first person' should be hyphenated as 'first-person' when preceding a noun in formal UK English.
+258,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' when joining two independent clauses is a stylistic choice, not a grammatical requirement in this context."
+259,,,,,PARSING_ERROR,90,The compound adjective 'first person' should be hyphenated as 'first-person' when preceding a noun in formal UK English.
+260,,,,,FALSE_POSITIVE,95,"""First person"" is a correct and standard grammatical term when used as a noun phrase."
+261,,,,,FALSE_POSITIVE,95,This is the correct and standard format for citing an act and scene in a play.
+262,,,,,FALSE_POSITIVE,100,This is an archaic but grammatically correct construction in Shakespearean English.
+263,,,,,FALSE_POSITIVE,100,"""Blest"" is an archaic but grammatically correct form of ""blessed"" in Shakespearean English."
+264,,,,,FALSE_POSITIVE,95,"The phrase ""never be"" is grammatically correct within the poetic structure of the Shakespearean text."
+265,,,,,FALSE_POSITIVE,100,"""Thankings"" is a deliberate and grammatically correct archaic usage within the Shakespearean text."
+266,,,,,FALSE_POSITIVE,100,"""Prouds"" is a deliberate and grammatically correct archaic usage within the Shakespearean text."
+267,,,,,FALSE_POSITIVE,100,"The apostrophe correctly indicates the elision of letters in the archaic word ""'gainst""."
+268,,,,,FALSE_POSITIVE,100,"""'Gainst"" is a correct archaic contraction of ""against"" in Shakespearean English."
+269,,,,,FALSE_POSITIVE,100,"""Hilding"" is a correct archaic term used in Shakespearean English."
+270,,,,,FALSE_POSITIVE,100,"'Hilding' is an archaic but correct word, used here with its definition in a literary annotation."
+271,,,,,PARSING_ERROR,90,The compound adjective 'first-person' should be hyphenated for consistency in formal WJEC documentation.
+272,,,,,FALSE_POSITIVE,100,"'Whether or not' is a grammatically correct and commonly used phrase, not an error."
+273,,,,,FALSE_POSITIVE,100,The pronoun 'me' is correctly used as the object of the preposition 'towards'.
+274,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"The placement of 'too' before 'that' is slightly awkward and could be rephrased for better flow, such as 'I must also tell you that'."
+275,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be placed before 'and' to separate the two independent clauses for improved clarity and adherence to formal punctuation rules.
+276,,,,,FALSE_POSITIVE,100,'Reck' is an archaic but correct verb used intentionally in the provided poem.
+277,,,,,SPELLING_ERROR,95,"The compound noun should be written as two words, 'mood swings', according to standard UK English dictionaries."
+278,,,,,SPELLING_ERROR,95,'Seabird' is conventionally written as a single compound word in UK English.
+279,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The definite article 'the' is missing before 'Atlantic' when referring to the ocean.
+280,,,,,PARSING_ERROR,100,"The word ""hotеl"" contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
+281,,,,,PARSING_ERROR,100,"The word ""coolnеss"" contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
+282,,,,,FALSE_POSITIVE,95,"""Subject matter"" is correctly written as two words in this context, functioning as a compound noun."
+283,,,,,SPELLING_ERROR,100,"The word ""characterized"" should be spelled ""characterised"" to align with UK English conventions used in WJEC documents."
+284,,,,,FALSE_POSITIVE,100,"""GoNorthWales"" is a proper noun, referring to the official tourist board website, and is spelled correctly as a single word."
+285,,,,,FALSE_POSITIVE,90,"""A whole lot"" is an acceptable informal idiom used for emphasis in promotional language."
+286,,,,,PARSING_ERROR,100,"The compound adjective ""surf-fringed"" requires a hyphen for correct spelling in UK English."
+287,,,,,FALSE_POSITIVE,100,"""Llyn"" is a correctly spelled proper noun, referring to the Llyn Peninsula in Wales."
+288,,,,,FALSE_POSITIVE,100,"""Betws-y-Coed"" is a correctly spelled and hyphenated proper place name in Wales."
+289,,,,,FALSE_POSITIVE,90,"""A whole lot more"" is an acceptable informal idiom used for emphasis in this context."
+290,,,,,PARSING_ERROR,95,The compound adjective 'first-person' should be hyphenated in standard UK English.
+291,,,,,FALSE_POSITIVE,95,"GoNorthWales is presented as a stylised proper noun for a specific site name or campaign, and should not be altered."
+292,,,,,FALSE_POSITIVE,95,"The word 'apartment' is correct as it appears within a direct quote from an American/Canadian author, reflecting their original dialect."
+293,,,,,FALSE_POSITIVE,90,The single quotes around 'boys' toy' are correctly used to indicate a quoted phrase within the sentence.
+294,,,,,FALSE_POSITIVE,95,The repetition 'terribly terribly' is a stylistic choice by Dylan Thomas within a direct quote and should be preserved.
+295,,,,,FALSE_POSITIVE,90,The phrase 'you sending' is part of a direct quote from Dylan Thomas's letter and should not be changed.
+296,,,,,SPELLING_ERROR,95,'Union Jack' is a proper noun and requires capitalization of both words in standard UK English.
+297,,,,,PARSING_ERROR,95,The compound noun 'self-perception' should be hyphenated in standard UK English.
+298,,,,,FALSE_POSITIVE,95,The American spelling 'color' is correct as it appears within a direct quote from an American author.
+299,,,,,FALSE_POSITIVE,95,"The phrase 'Of course' is a correct and common idiom, and no error is present."
+300,,,,,PARSING_ERROR,90,The term 'cut-down' as a compound noun or adjective is typically hyphenated in UK English.
+301,,,,,PARSING_ERROR,95,'Age-faded' is a compound adjective and should be hyphenated in UK English.
+302,,,,,FALSE_POSITIVE,95,"The spelling 'color' is correct as it is part of a direct extract from an American author's work, which should retain its original spelling."
+303,,,,,FALSE_POSITIVE,100,The word 'trunk' is correctly used in this context to refer to a large travelling chest.
+304,,,,,FALSE_POSITIVE,100,'Scaredy' is correctly used as informal dialogue within the literary extract.
+305,,,,,FALSE_POSITIVE,95,"The spelling 'color' is correct as it is part of a direct extract from an American source, which should retain its original spelling."
+306,,,,,FALSE_POSITIVE,100,'Labor' is part of the official proper noun 'International Labor Organization' and must retain its original spelling.
+307,,,,,FALSE_POSITIVE,100,'Organization' is part of the official proper noun 'International Labor Organization' and must retain its original spelling.
+308,,,,,SPELLING_ERROR,95,The common noun 'organization' should be spelled 'organisation' in UK English.
+309,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity when joining two independent clauses in formal writing.
+310,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The object pronoun 'me' should not be used as the subject of a sentence; the correct form is 'My family and I'.
+311,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+312,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+313,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+314,,,,,STYLISTIC_PREFERENCE,70,"While 'go shopping' is more common, 'do shopping' is grammatically acceptable and fits the informal tone of a blog post."
+315,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+316,,,,,FALSE_POSITIVE,95,'Christmas time' is a correct and widely accepted phrasing in UK English.
+317,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'so' when it functions as a conjunction connecting two independent clauses.
+318,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The object pronoun 'me' should not be used as the subject of a clause; the correct form is 'As my family and I are Muslim'.
+319,,,,,PARSING_ERROR,90,Compound adjectives like 'sound-sensing' should generally be hyphenated; the missing hyphen is likely a parsing error.
+320,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"The sentence is a run-on sentence, requiring a semicolon or full stop before 'not only' to separate independent clauses."
+321,,,,,FALSE_POSITIVE,90,The pronoun 'I' is correct as the subject of an implied clause 'as I can handle a book'.
+322,,,,,STYLISTIC_PREFERENCE,70,Adding a comma after the introductory adverb 'Finally' is a stylistic choice that improves readability but is not strictly required.
+323,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be used before 'and' when it connects two independent clauses to improve clarity and flow.
+324,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be used before 'so' when it connects two independent clauses to improve clarity and flow.
+325,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be used before 'and' when it connects two independent clauses to improve clarity and flow.
+326,,,,,FALSE_POSITIVE,90,"'Really good fun' is an acceptable and common informal expression, appropriate for the persuasive tone of the text."
+327,,,,,FALSE_POSITIVE,90,The spelling 'cafes' without an accent is widely accepted and commonly used in UK English.
+328,,,,,FALSE_POSITIVE,90,The spelling 'cafe' without an accent is widely accepted and commonly used in UK English.
+329,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be used before 'but' when it connects two independent clauses to improve clarity and flow.
+330,,,,,FALSE_POSITIVE,95,"The word ""although"" is correctly spelled and used as a conjunction in this context."
+331,,,,,FALSE_POSITIVE,95,"""Voluntourists"" is a specific, correctly used neologism relevant to the article's subject matter."
+332,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"A comma before the conjunction ""but"" would improve clarity when separating two independent clauses, though its omission is not an absolute error."
+333,,,,,FALSE_POSITIVE,95,"""Voluntourism"" is a specific, correctly used neologism central to the article's subject matter."
+334,,,,,FALSE_POSITIVE,95,"""Voluntourism"" is a specific, correctly used neologism central to the article's subject matter."
+335,,,,,FALSE_POSITIVE,80,"""Vacations"" is an American English term for holidays, but it appears within an extracted article and should be preserved as part of the original text."
+336,,,,,PARSING_ERROR,95,"""Self-congratulatory"" should be hyphenated as a compound adjective in UK English."
+337,,,,,FALSE_POSITIVE,95,"""Voluntourism"" is correctly used as a proper noun at the beginning of a sentence."
+338,,,,,FALSE_POSITIVE,95,"""Voluntourists"" is a specific, correctly used neologism relevant to the article's subject matter."
+339,,,,,FALSE_POSITIVE,95,"""Voluntourism"" is a specific, correctly used neologism, with its usage further clarified by the parenthetical comment."
+340,,,,,STYLISTIC_PREFERENCE,80,Both 'headscratching' and 'head-scratching' are acceptable as a noun; the hyphenated form is a stylistic preference.
+341,,,,,FALSE_POSITIVE,100,"'Ossob' is a proper noun, part of a person's name, and is spelled correctly in context."
+342,,,,,FALSE_POSITIVE,100,"'Mohamud' is a proper noun, part of a person's name, and is spelled correctly in context."
+343,,,,,FALSE_POSITIVE,100,'Voluntourists' is a correctly spelled neologism used consistently as a specific term within the document.
+344,,,,,FALSE_POSITIVE,100,"'Mohamud' is a proper noun, part of a person's name, and is spelled correctly in context."
+345,,,,,FALSE_POSITIVE,100,'Voluntourists' is a correctly spelled neologism used consistently as a specific term within the document.
+346,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb form 'understanding' is incorrect; it should be the base verb 'understand' after 'may not fully'.
+347,,,,,FALSE_POSITIVE,100,'Spirits' is correctly spelled and used in this direct quote from Shakespeare's *Macbeth*.
+348,,,,,FALSE_POSITIVE,100,"'You murdering ministers' is a correct and direct quote from Shakespeare's *Macbeth*, where 'murdering' functions as an adjective."
+349,,,,,PARSING_ERROR,95,'Treeclimbing' should be hyphenated as 'tree-climbing' or written as two words 'tree climbing' in standard UK English.
+350,,,,,FALSE_POSITIVE,95,The compound noun 'bodyweight' is correctly written as a single word in UK English.
+351,,,,,STYLISTIC_PREFERENCE,80,"While 'eco-systems' is not incorrect, 'ecosystems' as a single word is the more common and preferred spelling in modern UK English."
+352,,,,,STYLISTIC_PREFERENCE,90,'Amongst' is an acceptable and grammatically correct variant of 'among' in UK English.
+353,,,,,PARSING_ERROR,95,'Fairtradecertified' is a merged word and should be hyphenated as 'Fairtrade-certified' when used as a compound adjective.
+354,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma is advisable before 'and' when it joins two independent clauses to improve clarity and flow.
+355,,,,,PARSING_ERROR,95,'Full time' should be hyphenated as 'full-time' when used as a compound adjective modifying a noun.
+356,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'and' is not grammatically required here as it does not join two independent clauses, but could improve readability in a long sentence."
+357,,,,,FALSE_POSITIVE,95,The word 'have' is grammatically correct in the phrase 'What effect does it have?' following the auxiliary verb 'does'.
+358,,,,,FALSE_POSITIVE,95,"'Had had' is a correct construction for the past perfect tense, indicating an action completed before another past action."
+359,,,,,FALSE_POSITIVE,90,'Nowadays' is a grammatically correct and widely accepted adverb in formal UK English.
+360,,,,,FALSE_POSITIVE,95,The phrase 'key words' is a correct and commonly accepted two-word term in educational contexts.
+361,,,,,PARSING_ERROR,100,The compound adjective 'well-constructed' should be hyphenated when preceding the noun 'boats'.
+362,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
+363,,,,,PARSING_ERROR,100,The HTML entity `&#x27;` should be rendered as a proper opening single quotation mark for direct speech.
+364,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The adverb 'well' should be used to modify the verb 'played' instead of the adjective 'good'.
+365,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,90,The more idiomatic and grammatically appropriate phrasing would be 'damage to' rather than 'damage of'.
+366,,,,,SPELLING_ERROR,100,"The correct term for the language variety is 'Pidgin English,' not 'Pigeon English'."
+367,,,,,FALSE_POSITIVE,100,'Pigeon English' is the correct and specific title of Stephen Kelman's novel and should not be altered.
+368,,,,,FALSE_POSITIVE,95,"The omission of 'are' in 'you still going' is characteristic of informal spoken English, which is appropriate for this dialogue example."
+369,,,,,FALSE_POSITIVE,95,"The omission of 'are' in 'You taking the kids?' is characteristic of informal spoken English, which is appropriate for this dialogue example."
+390,,,,,SPELLING_ERROR,100,Vacations is an American English term; 'holidays' is the standard UK English equivalent for this context.
+391,,,,,SPELLING_ERROR,100,Vacation is an American English term; 'holiday' is the standard UK English equivalent for this context.
+392,,,,,SPELLING_ERROR,100,Airplanes is an American English spelling; 'aeroplanes' is the standard UK English spelling.
+393,,,,,SPELLING_ERROR,95,"Semicolons is typically written as one word in UK English, not hyphenated."
+394,,,,,SPELLING_ERROR,95,"Semicolons is typically written as one word in UK English, not hyphenated."
+395,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'yet' is advisable to separate the two independent clauses for improved clarity.
+396,,,,,FALSE_POSITIVE,100,"This is a direct quote from *A Christmas Carol* where 'Christmas Time' is capitalised as a proper noun, so it should remain as written."
+397,,,,,PARSING_ERROR,95,"The repetition 'wolds Wolds' suggests a missing full stop or a transcription error, likely intended as 'wolds. Wolds'."
+398,,,,,PARSING_ERROR,95,"The repetition 'summer Summer' suggests a missing full stop or a transcription error, likely intended as 'summer. Summer'."
+399,,,,,SPELLING_ERROR,100,"'Bbbet' is a misspelling and should be corrected to 'bet', even within the context of stylistic speech representation."
+400,,,,,FALSE_POSITIVE,95,The repetition 'wrwrwrote' is an intentional stylistic choice within the narrative example to convey emphasis or a character's speech.
+401,,,,,FALSE_POSITIVE,95,The repetition 'dddeathbed' is an intentional stylistic choice within the narrative example to convey emphasis or a character's speech.
+402,,,,,FALSE_POSITIVE,98,"'Maxa' appears to be a proper noun or a foreign word, likely Somali, used correctly in the narrative context."
+403,,,,,FALSE_POSITIVE,98,"'Tiri' appears to be a foreign word, likely Somali, used correctly as part of a phrase in the narrative context."
+404,,,,,FALSE_POSITIVE,100,"'Mattan' is a proper noun, part of a person's name, and is spelled correctly."
+405,,,,,FALSE_POSITIVE,100,"'Tahir' is a proper noun, part of a person's name, and is spelled correctly."
+406,,,,,FALSE_POSITIVE,100,"'Gass' is a proper noun, part of a person's name, and is spelled correctly."
+407,,,,,FALSE_POSITIVE,100,"'Tahir' is a proper noun, referring to a character, and is spelled correctly."
+408,,,,,FALSE_POSITIVE,95,'Stained glass' is correctly written as two separate words when used as a noun phrase.
+409,,,,,FALSE_POSITIVE,100,The phrase 'might never have become' is a grammatically correct construction expressing a past counterfactual possibility.
+410,,,,,FALSE_POSITIVE,95,The word 'Hence' is used correctly as a conjunctive adverb to introduce a consequence.
+411,,,,,PARSING_ERROR,95,The compound noun 'self-worth' should be hyphenated in UK English.
+412,,,,,FALSE_POSITIVE,95,'Subject matter' is correctly written as two separate words.
+413,,,,,FALSE_POSITIVE,95,"'Likability' is an accepted spelling in UK English, as confirmed by authoritative dictionaries."
+414,,,,,FALSE_POSITIVE,95,'Subject matter' is correctly written as two separate words.
+415,,,,,PARSING_ERROR,95,The compound noun 'self-esteem' should be hyphenated in UK English.
+416,,,,,STYLISTIC_PREFERENCE,70,"The nominative absolute construction 'he being motivated' is grammatically acceptable, though a more common phrasing might be preferred stylistically."
+417,,,,,PARSING_ERROR,95,The compound adjective 'twenty-first' should be hyphenated when modifying a noun like 'century'.
+418,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma before 'or' would improve clarity as it separates two independent clauses, but its omission does not create an absolute grammatical error."
+419,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The phrase 'The key is to finding' is ungrammatical; it should be 'The key is to find' or 'The key is finding'.
