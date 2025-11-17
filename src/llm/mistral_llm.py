@@ -25,7 +25,7 @@ class MistralLLM(LLMProvider):
     """
 
     name = "mistral"
-    MODEL = "magistral-small-latest"
+    MODEL = "magistral-medium-latest"
 
     def __init__(
         self,
