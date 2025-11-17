@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,4,of any of,...t replicate or overlap with the content **of any of** the other selected units**.  It would b...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'of any of' is grammatically correct and contextually appropriate.
+1,6,eassessment,...ment of Unit 2 digitally through WJEC's **eassessment** platform.  {7}-------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The word 'eassessment' is a clear typo and should be 'e-assessment'.
+2,7,of any of,...t replicate or overlap with the content **of any of** the examined units chosen.  {8}--------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'of any of' is grammatically correct and contextually appropriate.
+3,13,and,...pected to demonstrate in their responses** and** they are then used in marking the work....,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,A comma before 'and' would improve readability but is not strictly necessary.

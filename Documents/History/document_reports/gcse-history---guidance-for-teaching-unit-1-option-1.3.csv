@@ -1,0 +1,6 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,5,of any of,...t replicate or overlap with the content **of any of** the other selected units.**  The qualif...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'of any of' is grammatically correct and contextually appropriate.
+1,8,mid fifteenth,...**  #### **1.3 Background: Wales in the **mid fifteenth** century**  (Each option begins with a b...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'mid fifteenth' is a correct and acceptable hyphenation in UK English.
+2,16,',...anced outcome: Learners to assess Veysey**'** effectiveness in controlling the region...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing apostrophe in 'Veysey's' is a clear typographical error.
+3,29,evidencebased,... and quantify change. Learners can draw **evidencebased** conclusions based on statistics and num...,PassCode.LTC,ErrorCategory.PARSING_ERROR,85,'evidencebased' should be hyphenated as 'evidence-based' for correct compound adjective form.
+4,30,crosscurricular,...tunities will allow learners to develop **crosscurricular** skills which underpin the four purposes...,PassCode.LTC,ErrorCategory.PARSING_ERROR,85,'crosscurricular' should be hyphenated as 'cross-curricular' for correct compound adjective form.

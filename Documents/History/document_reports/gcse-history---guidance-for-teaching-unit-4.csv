@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,5,of any of,...t replicate or overlap with the content **of any of** the other selected units.**  The qualif...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Phrase is grammatically correct and contextually appropriate.
+1,6,of any of,...t replicate or overlap with the content **of any of** the examined units chosen.  Learners wi...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Phrase is grammatically correct and contextually appropriate.
+2,17,evidencebased,... and quantify change. Learners can draw **evidencebased** conclusions based on statistics and num...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing hyphen in compound adjective 'evidence-based'.
+3,18,crosscurricular,...tunities will allow learners to develop **crosscurricular** skills which underpin the four purposes...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing hyphen in compound adjective 'cross-curricular'.

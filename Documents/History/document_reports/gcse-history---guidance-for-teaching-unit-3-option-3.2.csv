@@ -1,0 +1,15 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,5,of any of,...t replicate or overlap with the content **of any of** the other selected units.**  The qualif...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Phrase is grammatically correct and contextually appropriate.
+1,8,western Europe,...ure of eleventh century Christianity in **western Europe**.</li></ul> | The meaning of the term cr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Term is correctly spelled and contextually appropriate.
+2,10,Byzantine empire,...h greater and lesser. The nature of the **Byzantine empire** by the 11th century. The extent of Musl...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Term is correctly spelled and contextually appropriate.
+3,16,whether or not,...tured. Discuss the reasons for this and **whether or not** it can ever be justified.  #### **Advan...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Phrase is grammatically correct and contextually appropriate.
+4,20,al-Din,...org/wiki/Second_Crusade#Muslims)  [Imad **al-Din** Zengi -](https://en.wikipedia.org/wiki/...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing space between 'al-Din' and 'Zengi'.
+5,20,al-Din,...wiki/Imad_al-Din_Zengi) Wikipedia  [Nur **al-Din** Zengi -](https://en.wikipedia.org/wiki/...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing space between 'al-Din' and 'Zengi'.
+6,23,Saladin Saladin,...tory Encyclopedia Video(s): The rise of **Saladin Saladin** & the 3rd Crusade | 2 hours |  {24}----...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Redundant repetition of 'Saladin'.
+7,25,I on,... understanding of the impact of Richard **I on** the Third Crusade.  #### **Advanced act...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing space between 'I' and 'on'.
+8,27,heroworshipped,"...d both Richard I and Salah ad-Din, each **heroworshipped** by their own supporters and demonised b...",PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Hyphen missing in 'hero-worshipped'.
+9,36,co ordinate,...e of the French and German crusaders to **co ordinate** in the Second Crusade. The Crusader att...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,Missing space between 'co' and 'ordinate'.
+10,40,The are,"... as well as the Baron's Crusade. | |  | **The are** also opportunities for debates, such as...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,Missing article 'the' before 'are'.
+11,45,evidencebased,... and quantify change. Learners can draw **evidencebased** conclusions based on statistics and num...,PassCode.LTC,ErrorCategory.PARSING_ERROR,85,Missing space between 'evidence' and 'based'.
+12,49,western Europe,...the Pope and the rulers of countries in **western Europe** about who had the power to appoint bish...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'western Europe' is a correct and accepted term in UK English.
+13,50,central Asia,...slims who moved into the Near East from **central Asia**.                                  | | S...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'central Asia' is a correct and accepted term in UK English.
