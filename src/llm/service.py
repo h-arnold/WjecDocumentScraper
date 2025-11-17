@@ -156,11 +156,7 @@ class LLMService:
             LLMProviderError: If fetching results fails.
         """
         # Find the provider by name
-        provider = None
-        for p in self._providers:
-            if p.name == provider_name:
-                provider = p
-                break
+        provider = next((p for p in self._providers if p.name == provider_name), None)
         
         if provider is None:
             raise ValueError(f"Provider '{provider_name}' not found in service")
