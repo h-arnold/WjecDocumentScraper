@@ -1,17 +1,17 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,"The word 'assessment' is duplicated, indicating a parsing error or accidental repetition in the original document."
-1,,,,,FALSE_POSITIVE,100,'Proforma' is correctly used as a noun in the title of a document.
-2,,,,,FALSE_POSITIVE,100,'Proforma' is correctly used as a noun in the title of a document.
-3,,,,,FALSE_POSITIVE,100,'Proforma' is correctly used as a noun in the title of a document.
-4,,,,,FALSE_POSITIVE,90,"The word 'and' is correctly used as a conjunction to connect two independent clauses, and there is no duplication."
-5,,,,,FALSE_POSITIVE,100,'Proforma' is correctly used as a noun in the title of a document.
-6,,,,,PARSING_ERROR,100,"The words 'skill' and 'Character' are merged, indicating a parsing error."
-7,,,,,FALSE_POSITIVE,90,"The word 'or' is correctly used as a conjunction within the phrase, and there is no duplication."
-8,,,,,PARSING_ERROR,100,"The word 'appropriat' is incomplete, missing the final 'e' from 'appropriate', indicating a parsing error."
-9,,,,,PARSING_ERROR,100,"The word 'appropriat' is incomplete and split across a column, indicating a parsing error."
-10,,,,,FALSE_POSITIVE,95,The word 'or' is correctly used as a conjunction to present an alternative in the column header.
-11,,,,,FALSE_POSITIVE,90,"'Pro-forma' is an acceptable and commonly used term, often hyphenated, in UK English for a document provided as a matter of form."
-12,,,,,STYLISTIC_PREFERENCE,70,The absence of a comma before 'and' connecting two independent clauses is a stylistic choice and does not constitute a grammatical error.
-13,,,,,PARSING_ERROR,95,The words 'skill' and 'Character' have been merged due to a parsing error; a space is required between them to form 'skill Character'.
-14,,,,,FALSE_POSITIVE,95,The word 'or' is correctly used as a conjunction to present an alternative in the column header.
-15,,,,,SPELLING_ERROR,95,'Non-assessed' should be hyphenated as a compound adjective modifying 'viva' for consistency and standard UK English usage.
+0,3,assessment Assessment,...--------  #### Contents  | Managing the **assessment Assessment** Details                                ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'assessment' is duplicated with different capitalization, indicating a parsing error."
+1,3,Proforma,...date Mark Record Form Unit 2  Programme **Proforma** Unit 2  Unassessed Participant Declarat...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Proforma' is correctly used as part of a document title and is a valid English word.
+2,3,Proforma,...idate Mark Record Form Unit 2 Programme **Proforma** Unit 2 Unassessed Participant Declarati...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Proforma' is correctly used as part of a document title and is a valid English word.
+3,3,Proforma,...                          | | Programme **Proforma** Unit 2                                 ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Proforma' is correctly used as part of a document title and is a valid English word.
+4,7,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is correctly used to connect two independent clauses in the sentence.
+5,14,Proforma,"...# <span id=""page-14-0""></span>Programme **Proforma** Unit 2  | Centre Name:                 ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Proforma' is correctly used as part of the document heading and is a valid English word.
+6,14,skillCharacter,...                                      | **skillCharacter** played or design skill selected | |  | ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The words 'skill' and 'Character' appear to be merged, indicating a parsing error."
+7,14,or,...                 | skillCharacter played** or** design skill selected | |  | group | BL...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'or' is correctly used to present an alternative in the phrase.
+8,15,appropriat,...if required. | group | BLOCK CAPITALS | **appropriat** Acting (✓ as | Skill (✓ as appropriat D...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'appropriate' is truncated, missing the final 'e', which is a common parsing error."
+9,15,appropriat,...| appropriat Acting (✓ as | Skill (✓ as **appropriat** Design e) | e) skill Character played o...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'appropriate' is truncated, missing the final 'e', which is a common parsing error."
+10,15,or,...at Design e) | e) skill Character played** or** design skill selected | |              ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The word 'or' is correctly used as a conjunction in this table header.
+11,15,pro-forma,"...u wish to do so, please photo-copy this **pro-forma** for additional groups. Please make sure...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,75,"While 'pro-forma' is acceptable, 'pro forma' (two words) is the more common and standard spelling for the noun in UK English."
+12,16,and,...ts to complete Over 13**  • I am over 13** and** I give permission for my film/photograp...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The word 'and' is correctly used as a conjunction to connect two independent clauses.
+13,24,skillCharacter,...appropriate) as | appropriate) Design | **skillCharacter** played or design skill selected | | act...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The words 'skill' and 'Character' have been incorrectly merged during parsing and should be separated.
+14,24,or,...ropriate) Design | skillCharacter played** or** design skill selected | | acting per gr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The word 'or' is correctly used as a conjunction in this table header.
+15,28,nonassessed,...signs (presented to the examiner in the **nonassessed** viva).  {29}---------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The compound adjective 'non-assessed' should be hyphenated for correctness and consistency, indicating a parsing error where the hyphen was lost."

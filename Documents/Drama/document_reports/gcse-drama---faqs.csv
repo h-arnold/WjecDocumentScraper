@@ -1,7 +1,7 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,95,"Compound adjectives preceding a noun, such as '2-year', should be hyphenated in UK English for clarity."
-1,,,,,FALSE_POSITIVE,100,"'Proforma' is a correct and commonly used term in formal English, referring to a standard document or form."
-2,,,,,PARSING_ERROR,90,"The word 'ound' in this context appears to be a parsing error, likely a truncated or corrupted word from the original document."
-3,,,,,SPELLING_ERROR,95,The prefix 'non-' should be hyphenated when forming a compound adjective like 'non-assessed' in UK English.
-4,,,,,FALSE_POSITIVE,100,"'Proforma' is a correct and commonly used term in formal English, referring to a standard document or form, and is correctly capitalised as part of a heading."
-5,,,,,SPELLING_ERROR,95,The prefix 'non-' should be hyphenated when forming a compound adjective like 'non-assessed' in UK English.
+0,1,2 year,"...learning hours, primarily designed as a **2 year** program for learners in Years 10 and 11...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"Compound adjectives preceding a noun, such as '2-year', should be hyphenated in UK English."
+1,2,proforma,"...e written work, cover sheets, programme **proforma** and approval form should be uploaded al...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The term 'proforma' is an acceptable singular noun in UK English, referring to a standard form or document."
+2,3,ound,...       |   | | SEARCH Records for     | **ound** 3 |       |   |                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'ound' is a likely parsing error for 'found' within the context of a search records table.
+3,3,nonassessed,"...candidate wishes to work as a designer, **nonassessed** performers will have to perform the dev...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Non-assessed' is a compound adjective and requires a hyphen in UK English.
+4,3,Proforma,"... Approval Form, Marksheet and Programme **Proforma**?**  A: The relevant paperwork for Unit ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The term 'Proforma' is an acceptable singular noun in UK English, referring to a standard form or document, and is correctly capitalised as part of a heading."
+5,4,nonassessed,"...candidate wishes to work as a designer, **nonassessed** performers will have to perform the pie...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Non-assessed' is a compound adjective and requires a hyphen in UK English.

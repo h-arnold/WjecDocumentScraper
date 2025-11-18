@@ -1,42 +1,42 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,75,"While 'Proforma' is acceptable as a single word, the document later uses 'pro-forma', indicating an inconsistency that should be addressed for stylistic uniformity."
-1,,,,,PARSING_ERROR,95,The phrase 'i kol use will' is nonsensical and clearly a result of incorrect text extraction during PDF to Markdown conversion.
-2,,,,,SPELLING_ERROR,90,"The compound adjective 'audio-visual' should be hyphenated when preceding a noun, consistent with UK English style and other usage within the document."
-3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has', for correct subject-verb agreement."
-4,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has', for correct subject-verb agreement."
-5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should precede 'and' when it connects two independent clauses to improve clarity and adhere to standard punctuation rules in formal writing.
-6,,,,,PARSING_ERROR,95,"The words 'of' and 'performance' have been merged, indicating a parsing error from the PDF to Markdown conversion."
-7,,,,,STYLISTIC_PREFERENCE,75,"While 'Proforma' is acceptable as a single word in a title, the document's inconsistent use with 'pro-forma' suggests a stylistic choice should be made for uniformity."
-8,,,,,FALSE_POSITIVE,85,"'Pro-forma' is a correct and commonly used hyphenated spelling for the noun in UK English, making the tool's suggestion a false positive."
-9,,,,,PARSING_ERROR,95,The word 'Name' has been incorrectly split into 'Na' and 'ame' due to a parsing error during the PDF to Markdown conversion.
-10,,,,,PARSING_ERROR,100,The word 'Telephone' has been incorrectly split across two table cells due to a parsing error.
-11,,,,,PARSING_ERROR,100,The word 'Telephone' has been incorrectly split across two table cells due to a parsing error.
-12,,,,,PARSING_ERROR,100,"HTML tag attributes like 'href' should not be visible in the final learner-facing document, indicating a parsing or rendering error."
-13,,,,,FALSE_POSITIVE,100,The word 'or' is correctly used as a conjunction in the phrase 'Character played or design skill selected'.
-14,,,,,PARSING_ERROR,95,The word 'acting' appears to be truncated or incorrectly parsed in the table cell.
-15,,,,,PARSING_ERROR,95,The phrase 'es p' is nonsensical in this context and indicates a parsing error within the table data.
-16,,,,,PARSING_ERROR,95,"'tes' appears to be a fragment of a word, likely 'candidates', indicating a parsing error."
-17,,,,,PARSING_ERROR,100,"'didat' is a fragment of the word 'candidates', indicating a parsing error."
-18,,,,,PARSING_ERROR,95,"'didat' is a fragment of the word 'candidate' or 'candidates', indicating a parsing error."
-19,,,,,PARSING_ERROR,90,"The fragment 'ur' is part of a larger parsing error within the table data, likely a corrupted word like 'four' or 'group'."
-20,,,,,PARSING_ERROR,95,"This word fragment is clearly a result of a parsing error from the original document, likely part of a larger garbled phrase within a table."
-21,,,,,PARSING_ERROR,90,"The word 'an' appears within a sequence of garbled text, indicating it is a result of a parsing error rather than an intended word."
-22,,,,,PARSING_ERROR,95,"The word fragment 'fo' is part of a garbled sequence within a table, clearly indicating a parsing error."
-23,,,,,PARSING_ERROR,95,"The word fragment 'tha' is part of a garbled sequence in a table, indicating a parsing error."
-24,,,,,FALSE_POSITIVE,100,The word 'or' is correctly used as a conjunction in the phrase 'Character played or design skill selected'.
-25,,,,,PARSING_ERROR,95,"The word fragment 'tes' is part of a garbled sequence in a table, indicating a parsing error."
-26,,,,,PARSING_ERROR,95,"The word fragment 'didat' is part of a garbled sequence in a table, indicating a parsing error."
-27,,,,,PARSING_ERROR,95,"The word fragment 'dida' is part of a garbled sequence in a table, indicating a parsing error."
-28,,,,,PARSING_ERROR,95,"The word 'gro' is an incomplete word, clearly a parsing error where 'up' was omitted from 'group'."
-29,,,,,PARSING_ERROR,95,"The word fragment 'tha' is part of a garbled sequence in a table, indicating a parsing error."
-30,,,,,PARSING_ERROR,100,"The word 'ead' is a parsing error for 'Head', likely due to OCR misinterpretation of 'H' as Cyrillic 'Н'."
-31,,,,,PARSING_ERROR,95,"'Mh' in this table context is highly likely to be a parsing error, as it does not form a recognizable word or abbreviation."
-32,,,,,STYLISTIC_PREFERENCE,70,"While 'independently from' is grammatically acceptable, 'independently of' is generally considered more idiomatic and is often preferred in formal UK English."
-33,,,,,SPELLING_ERROR,95,"In UK English, 'make-up' is typically hyphenated as a noun, and the document is inconsistent in its usage."
-34,,,,,SPELLING_ERROR,95,'Audio-visual' should be hyphenated when used as a compound adjective modifying 'presentation'.
-35,,,,,FALSE_POSITIVE,90,"'Well developed' is used as a predicate adjective here, so no hyphen is required."
-36,,,,,SPELLING_ERROR,95,"In UK English, 'make-up' is typically hyphenated as a noun, and the document is inconsistent in its usage."
-37,,,,,SPELLING_ERROR,95,"In UK English, 'make-up' is typically hyphenated as a noun, and the document is inconsistent in its usage."
-38,,,,,SPELLING_ERROR,95,"In UK English, 'make-up' is typically hyphenated as a noun, and the document is inconsistent in its usage."
-39,,,,,SPELLING_ERROR,95,"In UK English, 'make-up' is typically hyphenated as a noun, and the document is inconsistent in its usage."
-40,,,,,PARSING_ERROR,100,"The word 'Candidate' is duplicated in the table header, which is likely a parsing error from the document conversion process."
+0,3,Proforma,...m Unit 1         | 1      | | Programme **Proforma** Unit 1                 | 1      | | Can...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"Proforma is a correct and commonly used term for a standard form or document, especially in a title."
+1,3,kol,...ent Pack                 | 110055 | | i **kol** use will                            |  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The text 'i kol use will' is clearly garbled and indicates a parsing error from the original document.
+2,6,audio visual,...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,Audio-visual should be hyphenated as a compound adjective modifying 'presentation' in UK English.
+3,9,has,...mining the extent to which the learners **has** met the criteria within the relevant ba...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'learners'; it should be 'have'.
+4,14,has,...mining the extent to which the learners **has** met the criteria within the relevant ba...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'learners'; it should be 'have'.
+5,14,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma should precede 'and' when it connects two independent clauses to improve clarity in formal writing.
+6,15,ofperformance,...re number | | Name of centre | | Date(s)**ofperformance**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The words 'of' and 'performance' have been merged due to a parsing error; a space is required.
+7,18,Proforma,"...# <span id=""page-18-0""></span>Programme **Proforma** Unit 1  ### Unit 1: Devising Theatre  T...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"Proforma is a correct and commonly used term for a standard form or document, especially in a title."
+8,18,pro-forma,"...u wish to do so, please photo-copy this **pro-forma** for additional groups. Please ensure th...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Pro-forma (hyphenated) is an acceptable variant of proforma (one word) when used as a noun.
+9,18,ame,...                    | Centre Na       | **ame**:                                       ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,ame is a fragment of 'Name' and indicates a parsing error in the table cell.
+10,18,Tele,...----------|--|--|--|--| | Centre Number:**Tele**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Telephone' has been incorrectly split across two table cells due to a parsing error.
+11,18,ephone,...                                      | **ephone**:                                   |  |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Telephone' has been incorrectly split across two table cells due to a parsing error.
+12,18,href,"...LS | Acting < as applicable | Design <a **href**=""mailto:base;"">as applicable</a> | Char...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"HTML tags like 'href' should not be visible in the final document, indicating a parsing or rendering error."
+13,18,or,"...e;"">as applicable</a> | Character played** or** design skill selected |  |  |  |  | |  ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,99,The conjunction 'or' is used correctly in this context and does not require a comma.
+14,18,cting,"...                        |  |  |  |  | | **cting** es p | 2 | 10, |  |  |  |  |  |  |  | |...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The word 'Acting' appears to be truncated or garbled ('cting') due to a parsing error in the table.
+15,18,es p,"...                  |  |  |  |  | | cting **es p** | 2 | 10, |  |  |  |  |  |  |  | | tes ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The phrase 'es p' is garbled text resulting from a parsing error within the table structure.
+16,18,tes,"...es p | 2 | 10, |  |  |  |  |  |  |  | | **tes** a didat | 3 | <i>k0</i> ) |  |  |  |  |...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'tes' is part of garbled text ('tes a didat') likely intended to be 'candidates', indicating a parsing error."
+17,18,didat,"... 2 | 10, |  |  |  |  |  |  |  | | tes a **didat** | 3 | <i>k0</i> ) |  |  |  |  |  |  |  ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'didat' is part of garbled text ('tes a didat') likely intended to be 'candidates', indicating a parsing error."
+18,18,didat,... | <i>k0</i> ) |  |  |  |  |  |  |  | | **didat** can | 4 |  |  |  |  |  |  |  |  | | can...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'didat' is part of garbled text ('didat can') likely intended to be 'candidate', indicating a parsing error."
+19,18,ur,"...                 |  |  |  |  | | n five **ur** de | 6 | 2, |  |  |  |  |  |  |  | | th...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'ur' is part of garbled text ('n five ur de') likely intended to be 'or' or part of a number, indicating a parsing error."
+20,18,thar,"...ur de | 6 | 2, |  |  |  |  |  |  |  | | **thar** an fo | 7 |  |  |  |  |  |  |  |  | | m...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'thar' appears to be a fragment of misrecognized text within a table, indicating a parsing error from the PDF conversion."
+21,18,an,"... | 6 | 2, |  |  |  |  |  |  |  | | thar **an** fo | 7 |  |  |  |  |  |  |  |  | | more...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'an' is part of a larger block of misrecognized text within a table, indicating a parsing error."
+22,18,fo,"...6 | 2, |  |  |  |  |  |  |  | | thar an **fo** | 7 |  |  |  |  |  |  |  |  | | more e ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'fo' is part of a larger block of misrecognized text within a table, indicating a parsing error."
+23,18,tha,... | 7 |  |  |  |  |  |  |  |  | | more e **tha** | 8 |  |  |  |  |  |  |  |  | | o E    ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'tha' appears to be a fragment of misrecognized text within a table, indicating a parsing error from the PDF conversion."
+24,19,or,...Design√ as applicable | Character played** or** design skill selected |  |  | |        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'or' is correctly used as a conjunction in the table header.
+25,19,tes,...                              |  |  | | **tes** a didat | 3 |  |  |  |  |  |  | | dida ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'tes' is part of a larger block of misrecognized text within a table, indicating a parsing error."
+26,19,didat,...                        |  |  | | tes a **didat** | 3 |  |  |  |  |  |  | | dida can | 4 ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'didat' is part of a larger block of misrecognized text within a table, indicating a parsing error."
+27,19,dida,...| tes a didat | 3 |  |  |  |  |  |  | | **dida** can | 4 |  |  |  | 000 |  |  | | No mor...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'dida' is part of a larger block of misrecognized text within a table, indicating a parsing error."
+28,19,gro,...No more than five candidates acting per **gro** more than four design candidates per gr...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'gro' is a truncation of 'group' due to a parsing error, likely from the PDF conversion."
+29,19,tha,...                       |  |  | | more e **tha** | 8 |  |  |  |  |  |  | | No I         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'tha' appears to be a fragment of misrecognized text within a table, indicating a parsing error from the PDF conversion."
+30,19,ead,...-----|-------|-----|---|-------| | Н  | **ead** of Drama | :     | 120 |   | Date: | | ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'ead' is a parsing error and should be 'Head' in the context 'Head of Drama'.
+31,19,Mh,...     |       |     |   |       | | C2 | **Mh**           |       |     |   |       | |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"'Mh' appears to be a parsing error within the table, likely a corrupted character or abbreviation."
+32,22,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'independently from' is grammatically acceptable, 'independently of' is generally preferred in formal UK English."
+33,25,makeup,"...erent characters (two costume, hair and **makeup** designs in total) - sketches of both co...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Makeup' should be hyphenated as 'make-up' to align with UK English spelling conventions and internal document consistency.
+34,25,audio visual,...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Audio visual' should be hyphenated as 'audio-visual' when used as a compound adjective modifying 'presentation'.
+35,30,well developed,"...in response to the chosen stimulus, are **well developed** to produce a refined and coherent piece...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Well developed' is correctly unhyphenated as it functions as a predicate adjective in this sentence.
+36,34,makeup,"...erent characters (two costume, hair and **makeup** designs in total) - sketches of both co...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Makeup' should be hyphenated as 'make-up' to align with UK English spelling conventions and internal document consistency.
+37,51,makeup,"... contribution through costume, hair and **makeup** design to the performance. - The overal...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Makeup' should be hyphenated as 'make-up' to align with UK English spelling conventions.
+38,52,makeup,"... contribution through costume, hair and **makeup** design to the performance. - The overal...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Makeup' should be hyphenated as 'make-up' to align with UK English spelling conventions.
+39,53,makeup,"... contribution through costume, hair and **makeup** design to the performance. - The overal...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'Makeup' should be hyphenated as 'make-up' to align with UK English spelling conventions.
+40,57,Candidate Candidate,... this form**  | Centre No: Centre Name: **Candidate Candidate** No: Name: Unit Title: List of software ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Candidate' is erroneously duplicated, indicating a parsing error during document conversion."
