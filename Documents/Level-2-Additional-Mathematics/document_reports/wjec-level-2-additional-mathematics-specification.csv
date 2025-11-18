@@ -1,60 +1,60 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'NTRODUCTION' is a parsing error; it should be 'INTRODUCTION'.
-1,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 1'.
-2,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 2'.
-3,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 3'.
-4,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 4'.
-5,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 5'.
-6,,,,,PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 6'.
-7,,,,,PARSING_ERROR,100,'portunities' is a parsing error; it should be 'Opportunities' with the preceding 'Op'.
-8,,,,,PARSING_ERROR,100,'endix' is a parsing error; it should be 'Appendix A'.
-9,,,,,PARSING_ERROR,100,'endix' is a parsing error; it should be 'Appendix B'.
-10,,,,,PARSING_ERROR,95,"An extraneous space has been introduced after '𝑛th', which is a common parsing error."
-11,,,,,PARSING_ERROR,95,"An extraneous space has been introduced after '𝑛th', which is a common parsing error."
-12,,,,,PARSING_ERROR,100,The HTML/Markdown tag `</l**i&gt;&lt;**/ul&gt;` is malformed and should be `</li></ul>`.
-13,,,,,FALSE_POSITIVE,80,"The `</li>` tag is correctly used to close the list item; the actual issue lies in the mangled mathematical expression preceding it, which the tool did not highlight."
-14,,,,,PARSING_ERROR,100,The mathematical expression `d𝑦 𝑥 𝑛 (𝑛 −1) = 𝑥 then 𝑦 = + 𝑐 ≠ d𝑥 𝑛+1` is severely mangled due to a parsing error.
-15,,,,,FALSE_POSITIVE,80,"The `</li>` tag is correctly used to close the list item; the actual issue lies in the mangled mathematical expression preceding it, which the tool did not highlight."
-16,,,,,PARSING_ERROR,95,"An extraneous space has been introduced after '𝑥-axis', which is a common parsing error."
-17,,,,,PARSING_ERROR,95,"An extraneous space has been introduced after '𝑥-axis', which is a common parsing error."
-18,,,,,FALSE_POSITIVE,80,"The term 'sin𝜃,' is correctly punctuated as part of a list; the actual issue lies in the mangled mathematical expressions that follow, which the tool did not fully highlight."
-19,,,,,PARSING_ERROR,100,"The expression `𝑦 𝑦 = = cos𝜃` is a clear parsing error, likely intended to be `cos𝜃` or `y = cos𝜃`."
-20,,,,,PARSING_ERROR,100,"The text `𝑦 𝑦 = = cos𝜃 𝑦 = tan𝜃` is a clear parsing error, likely from `y = sin𝜃, y = cos𝜃, y = tan𝜃`."
-21,,,,,PARSING_ERROR,100,The `and<` is a parsing error where HTML list closing tags have been partially rendered.
-22,,,,,PARSING_ERROR,100,The mathematical identity `sin²𝜃 + cos²𝜃 ≡ 1` has been incorrectly parsed as `sin2𝜃 cos2𝜃 + ≡ 1`.
-23,,,,,PARSING_ERROR,100,This is a parsing error within the mathematical identity `sin²𝜃 + cos²𝜃 ≡ 1`.
-24,,,,,PARSING_ERROR,100,The formula for the area of a triangle `1/2 ab sinC` has been incorrectly parsed as `𝑎𝑏sin𝐶. 2`.
-25,,,,,PARSING_ERROR,100,The formula for the area of a triangle `1/2 ab sinC` has been incorrectly parsed as `1 𝑎𝑏sin𝐶 to solve problems in 2 2D`.
-26,,,,,PARSING_ERROR,100,"The compound adjective 'non-uniform' should be hyphenated, consistent with the section title."
-27,,,,,FALSE_POSITIVE,100,'An' is the correct article before 'Eulerian' because 'Eulerian' begins with a vowel sound.
-28,,,,,STYLISTIC_PREFERENCE,80,"'Outside' is sufficient without 'of' in this context, making the phrase more concise."
-29,,,,,PARSING_ERROR,100,'Solar-powered' should be hyphenated as it functions as a compound adjective modifying an implied noun.
-30,,,,,FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
-31,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-32,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-33,,,,,FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
-34,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-35,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-36,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-37,,,,,FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
-38,,,,,FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
-39,,,,,FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
-40,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-41,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-42,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
-43,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
-44,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-45,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
-46,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
-47,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-48,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-49,,,,,FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
-50,,,,,FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
-51,,,,,FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
-52,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `\frac`, which is correct within a mathematical expression."
-53,,,,,FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
-54,,,,,FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
-55,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `\frac`, which is correct within a mathematical expression."
-56,,,,,FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
-57,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"While not strictly incorrect, 'If it forms a cycle' would be more direct and standard for an algorithm instruction than 'If it would form a cycle'."
-58,,,,,PARSING_ERROR,95,"The HTML entity `&#x27;` should be rendered as a literal prime symbol (G') in mathematical notation, indicating a parsing error from the original document."
+0,3,NTRODUCTION,...-----------|------| | •  | l          | **NTRODUCTION**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'NTRODUCTION' is a parsing error; it should be 'INTRODUCTION'.
+1,3,Un,...                        | 8    | |    | **Un**         | it 1                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 1'.
+2,3,Un,...                        | 9    | |    | **Un**         | it 2                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 2'.
+3,3,Un,...                        | .12  | |    | **Un**         | it 3                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 3'.
+4,3,Un,...                        | .14  | |    | **Un**         | it 4                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 4'.
+5,3,Un,...                        | 16   | |    | **Un**         | it 5                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 5'.
+6,3,Un,...                        | .18  | |    | **Un**         | it 6                         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Un' is a parsing error; it should be 'Unit' as part of 'Unit 6'.
+7,3,portunities,...           | 21   | |    | Ор         | **portunities** for integration of learning experiences...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'portunities' is a parsing error; it should be 'Opportunities' with the preceding 'Op'.
+8,3,endix,"...           |      | | ,  | _          | **endix** A: Opportunities for embedding elements...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'endix' is a parsing error; it should be 'Appendix A'.
+9,3,endix,... for Wales |      | |    | • •        | **endix** B: Glossary of terms for Unit 6 Discret...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'endix' is a parsing error; it should be 'Appendix B'.
+10,11,𝑛th,... | Learners should be able to: find the **𝑛th **term of arithmetic sequences using: <ul...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"An extraneous space has been introduced after '𝑛th', which is a common parsing error."
+11,11,𝑛th,...ers should be able to: <ul><li>find the **𝑛th **term of geometric sequences using: 𝑛−1...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"An extraneous space has been introduced after '𝑛th', which is a common parsing error."
+12,12,i><,"...y, that is, use of d 𝑛) 𝑛𝑥𝑛−1 (𝑥 = d𝑥</l**i><**/ul> | | 2.1.2 Second derivatives ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The HTML/Markdown tag `</l**i&gt;&lt;**/ul&gt;` is malformed and should be `</li></ul>`.
+13,12,/li,"... 2 + for example, given 𝑦 = 𝑥 3𝑥 1 2 d𝑥<**/li**></ul> | | 2.1.3 Stationary points o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,80,"The `</li>` tag is correctly used to close the list item; the actual issue lies in the mangled mathematical expression preceding it, which the tool did not highlight."
+14,13,𝑥,"...>integrate 𝑥 only, that is, 𝑛+1 given d𝑦** 𝑥 **𝑛 (𝑛 −1) = 𝑥 then 𝑦 = + 𝑐 ≠ d𝑥...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The mathematical expression `d𝑦 𝑥 𝑛 (𝑛 −1) = 𝑥 then 𝑦 = + 𝑐 ≠ d𝑥 𝑛+1` is severely mangled due to a parsing error.
+15,13,/li,...d𝑦 𝑥 𝑛 (𝑛 −1) = 𝑥 then 𝑦 = + 𝑐 ≠ d𝑥 𝑛+1<**/li**></ul> | | 2.2.2 Evaluating def...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,80,"The `</li>` tag is correctly used to close the list item; the actual issue lies in the mangled mathematical expression preceding it, which the tool did not highlight."
+16,13,𝑥-axis,...lating the area between a curve and the **𝑥-axis **| Learners should be able to: <ul><li>a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"An extraneous space has been introduced after '𝑥-axis', which is a common parsing error."
+17,13,𝑥-axis,"...he curve is entirely above or below the **𝑥-axis **in the given interval, where the interv...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"An extraneous space has been introduced after '𝑥-axis', which is a common parsing error."
+18,15,"sin𝜃,","...periodicity of the trigonometric graphs **sin𝜃,** 𝑦 𝑦 = = cos𝜃 𝑦 = tan𝜃 and</li></u...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,80,"The term 'sin𝜃,' is correctly punctuated as part of a list; the actual issue lies in the mangled mathematical expressions that follow, which the tool did not fully highlight."
+19,15,𝑦 =,"...city of the trigonometric graphs sin𝜃, 𝑦** 𝑦 = **= cos𝜃 𝑦 = tan𝜃 and</li></ul> | | ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The expression `𝑦 𝑦 = = cos𝜃` is a clear parsing error, likely intended to be `cos𝜃` or `y = cos𝜃`."
+20,15,𝜃 𝑦 =,"...e trigonometric graphs sin𝜃, 𝑦 𝑦 = = cos**𝜃 𝑦 =** tan𝜃 and</li></ul> | | 3.2.2 Trig...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The text `𝑦 𝑦 = = cos𝜃 𝑦 = tan𝜃` is a clear parsing error, likely from `y = sin𝜃, y = cos𝜃, y = tan𝜃`."
+21,15,and</,"...tric graphs sin𝜃, 𝑦 𝑦 = = cos𝜃 𝑦 = tan𝜃 **and</**li></ul> | | 3.2.2 Trigonometric i...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `and<` is a parsing error where HTML list closing tags have been partially rendered.
+22,15,2𝜃 cos,...ntities: sin 𝜃 <ul><li>tan 𝜃 ≡ cos 𝜃 sin**2𝜃 cos**2𝜃 + ≡ 1</li></ul> | | 3.2.3 Solvin...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The mathematical identity `sin²𝜃 + cos²𝜃 ≡ 1` has been incorrectly parsed as `sin2𝜃 cos2𝜃 + ≡ 1`.
+23,15,𝜃 + ≡,...: sin 𝜃 <ul><li>tan 𝜃 ≡ cos 𝜃 sin2𝜃 cos2**𝜃 + ≡ **1</li></ul> | | 3.2.3 Solving simpl...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,This is a parsing error within the mathematical identity `sin²𝜃 + cos²𝜃 ≡ 1`.
+24,15,𝑎𝑏sin𝐶. 2,...or the area of a triangle in 1 the form **𝑎𝑏sin𝐶. 2** | Learners should be able to: <ul><l...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The formula for the area of a triangle `1/2 ab sinC` has been incorrectly parsed as `𝑎𝑏sin𝐶. 2`.
+25,15,𝑎𝑏sin𝐶 to,...or the area of a triangle in the form 1 **𝑎𝑏sin𝐶 to** solve problems in 2 2D</li><li>consi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The formula for the area of a triangle `1/2 ab sinC` has been incorrectly parsed as `1 𝑎𝑏sin𝐶 to solve problems in 2 2D`.
+26,20,non uniform,... units.</li></ul> | | 5.3.2 Uniform and **non uniform** motion | Learners should know that: <ul...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound adjective 'non-uniform' should be hyphenated, consistent with the section title."
+27,22,an,"...can transform a non-Eulerian graph into **an** Eulerian graph, or a semi-Eulerian grap...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'An' is the correct article before 'Eulerian' because 'Eulerian' begins with a vowel sound.
+28,25,outside of,...ly their mathematical skills inside and **outside of** the classroom setting - encounter famil...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Outside' is sufficient without 'of' in this context, making the phrase more concise."
+29,27,solar powered,"...for use on the desk - either battery or **solar powered** - free of lids, cases and covers which ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Solar-powered' should be hyphenated as it functions as a compound adjective modifying an implied noun.
+30,28,$$S,... Algebra**  #### **Arithmetic Series**  **$$S**_n = \frac{1}{2}n[a+l] = \frac{1}{2}n[2a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
+31,28,frac,...*  #### **Arithmetic Series**  $$S_n = \**frac**{1}{2}n[a+l] = \frac{1}{2}n[2a+(n-1)d]$$...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+32,28,frac,... Series**  $$S_n = \frac{1}{2}n[a+l] = \**frac**{1}{2}n[2a+(n-1)d]$$  ## **Geometric Ser...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+33,28,$$S,...[2a+(n-1)d]$$  ## **Geometric Series**  **$$S**_n = \frac{a(1-r^n)}{1-r}$$  {29}-------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
+34,28,frac,...d]$$  ## **Geometric Series**  $$S_n = \**frac**{a(1-r^n)}{1-r}$$  {29}-----------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+35,29,frac,...ny triangle** *ABC*  **Sine rule**:  $$\**frac**{a}{\sin A} = \frac{b}{\sin B} = \frac{c...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+36,29,frac,...  **Sine rule**:  $$\frac{a}{\sin A} = \**frac**{b}{\sin B} = \frac{c}{\sin C}$$  **Cosi...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+37,29,frac,...$\frac{a}{\sin A} = \frac{b}{\sin B} = \**frac**{c}{\sin C}$$  **Cosine rule:**  $$a^2 =...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a LaTeX command for fractions and is correctly used here.
+38,29,$$a,...= \frac{c}{\sin C}$$  **Cosine rule:**  **$$a**^2 = b^2 + c^2 - 2bc \cos A$$  ![](_page...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
+39,29,A$$,...e rule:**  $$a^2 = b^2 + c^2 - 2bc \cos **A$$**  ![](_page_29_Picture_7.jpeg)  **Area o...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$$` is a LaTeX delimiter for display math and is correctly used here.
+40,30,$$P,...ility**  Generalised addition formula:  **$$P**(A \cup B) = P(A) + P(B) - P(A \cap B)$$...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+41,30,$$Var,...) - P(A \cap B)$$  **Variance (Data)**  **$$Var**(X) = \frac{\sum x^2}{n} - \left(\frac{\...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+42,30,frac,... B)$$  **Variance (Data)**  $$Var(X) = \**frac**{\sum x^2}{n} - \left(\frac{\sum x}{n}\r...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
+43,30,frac,... $$Var(X) = \frac{\sum x^2}{n} - \left(\**frac**{\sum x}{n}\right)^2$$ $$Var(X) = \frac{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
+44,30,$$Var,...{n} - \left(\frac{\sum x}{n}\right)^2$$ **$$Var**(X) = \frac{\sum fx^2}{\sum f} - \left(\...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+45,30,frac,...\frac{\sum x}{n}\right)^2$$ $$Var(X) = \**frac**{\sum fx^2}{\sum f} - \left(\frac{\sum f...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
+46,30,frac,...(X) = \frac{\sum fx^2}{\sum f} - \left(\**frac**{\sum fx}{\sum f}\right)^2$$  ## **Discr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a math block.
+47,31,$$F,...echanics**  ## **Newton's second law**  **$$F** = ma$$  (resultant force = mass × accel...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+48,31,ma$$,...cs**  ## **Newton's second law**  $$F = **ma$$**  (resultant force = mass × acceleration...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+49,31,$$v,...eration)  ## **Constant acceleration**  **$$v** = u + at$$  $$s = ut + \frac{1}{2}at^{2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$$` are LaTeX delimiters for a math block and are correctly used here.
+50,31,at$$,...## **Constant acceleration**  $$v = u + **at$$**  $$s = ut + \frac{1}{2}at^{2}$$  $$v^{2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
+51,31,$$s,...onstant acceleration**  $$v = u + at$$  **$$s** = ut + \frac{1}{2}at^{2}$$  $$v^{2} = u...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
+52,31,frac,...leration**  $$v = u + at$$  $$s = ut + \**frac**{1}{2}at^{2}$$  $$v^{2} = u^{2} + 2as$$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `\frac`, which is correct within a mathematical expression."
+53,31,$$v,...+ at$$  $$s = ut + \frac{1}{2}at^{2}$$  **$$v**^{2} = u^{2} + 2as$$  $$s = \frac{1}{2}(...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
+54,31,$$s,...1}{2}at^{2}$$  $$v^{2} = u^{2} + 2as$$  **$$s** = \frac{1}{2}(u + v)t$$  {32}----------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
+55,31,frac,...^{2}$$  $$v^{2} = u^{2} + 2as$$  $$s = \**frac**{1}{2}(u + v)t$$  {32}------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `\frac`, which is correct within a mathematical expression."
+56,31,t$$,... u^{2} + 2as$$  $$s = \frac{1}{2}(u + v)**t$$**  {32}----------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text is part of a correctly formatted LaTeX mathematical expression, where `$$` are delimiters."
+57,33,would form,...er the next edge of least weight. If it **would form** a cycle with those edges already select...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"While not strictly incorrect, 'If it forms a cycle' would be more direct and standard for an algorithm instruction than 'If it would form a cycle'."
+58,40,',...aph                          | A graph G**'** whose vertices and edges belong to G.  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The HTML entity `&#x27;` should be rendered as a literal prime symbol (G') in mathematical notation, indicating a parsing error from the original document."

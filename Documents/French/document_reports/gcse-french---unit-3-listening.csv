@@ -1,12 +1,12 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,95,The correct idiom in formal English is 'with regard to' or 'as regards'; 'with regards to' is non-standard.
-1,,,,,STYLISTIC_PREFERENCE,70,"While 'mentioned about' is slightly redundant, it is commonly understood and acceptable in this context for a question."
-2,,,,,STYLISTIC_PREFERENCE,70,"While 'mentioned about' is slightly redundant, it is commonly understood and acceptable in this context for a question."
-3,,,,,FALSE_POSITIVE,100,"'Bon choix' is a correct French phrase, used appropriately in the context of a French dialogue."
-4,,,,,FALSE_POSITIVE,100,"'fête de la musique' is a correct French phrase and a proper noun for a specific event, used appropriately in the French text."
-5,,,,,FALSE_POSITIVE,100,'passe' is the correct conjugation of the French verb 'se passer' in this context.
-6,,,,,FALSE_POSITIVE,100,'ne' is a correct part of the negative construction 'ne pas' in French.
-7,,,,,FALSE_POSITIVE,100,"'Bon choix' is a correct French phrase, used appropriately in the context of a French dialogue."
-8,,,,,FALSE_POSITIVE,100,"'fête de la musique' is a correct French phrase and a proper noun for a specific event, used appropriately in the French text."
-9,,,,,FALSE_POSITIVE,100,'passe' is the correct conjugation of the French verb 'se passer' in this context.
-10,,,,,FALSE_POSITIVE,100,The word 'ne' is correctly used as part of the standard French negative construction 'ne...pas' in French.
+0,3,with regards to,...amendment was necessary due to an error **with regards to** the candidate's required language of re...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct idiom in formal English is 'with regard to' or 'as regards'; 'with regards to' is non-standard.
+1,11,mentioned about the,...                 |     | | (ii) What is **mentioned about the** garden? Write two details. | [2] | | • ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'mentioned about' is slightly redundant, it is commonly understood and acceptable in this context for a question."
+2,23,mentioned about the,...                              | What is **mentioned about the** garden? Write two details.             ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'mentioned about' is slightly redundant, it is commonly understood and acceptable in this context for a question."
+3,26,Bon choix,...  |  |  |  |  |  |  |  | |  | Solange : **Bon choix** - ce sera intéressant ! |  |  |  |  |  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Bon choix' is a correct French phrase, used appropriately in the context of a French dialogue."
+4,27,fête de la musique,"...n France le 21 juin ? Ne manquez pas la **fête de la musique** !  En 1982, la première fête a été orga...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'fête de la musique' is a correct French phrase and a proper noun for a specific event, used appropriately in the French text."
+5,27,passe,"...me des chanteurs célèbres !  La fête se **passe** partout en France, donc aucune excuse p...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'passe' is the correct conjugation of the French verb 'se passer' in this context.
+6,27,ne,"...tout en France, donc aucune excuse pour **ne** pas participer !  | Tick | (✓) | Sectio...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'ne' is a correct part of the negative construction 'ne pas' in French.
+7,31,Bon choix,...études de commerce.  **F1 : Solange** : **Bon choix** - ce sera intéressant !  **M1 Frédéric*...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Bon choix' is a correct French phrase, used appropriately in the context of a French dialogue."
+8,31,fête de la musique,"...n France le 21 juin ? Ne manquez pas la **fête de la musique** !  En 1982, la première fête a été orga...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'fête de la musique' is a correct French phrase and a proper noun for a specific event, used appropriately in the French text."
+9,31,passe,"...me des chanteurs célèbres !  La fête se **passe** partout en France, donc aucune excuse p...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'passe' is the correct conjugation of the French verb 'se passer' in this context.
+10,31,ne,"...tout en France, donc aucune excuse pour **ne** pas participer !  {32}-----------------...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'ne' is correctly used as part of the standard French negative construction 'ne...pas' in French.

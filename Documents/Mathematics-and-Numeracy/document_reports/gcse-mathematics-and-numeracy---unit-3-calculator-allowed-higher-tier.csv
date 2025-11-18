@@ -1,72 +1,72 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-1,,,,,PARSING_ERROR,100,The extraneous asterisks around 'h$$' indicate a parsing error in the LaTeX mathematical expression.
-2,,,,,STYLISTIC_PREFERENCE,80,"While 'cross section' is acceptable as a noun, 'cross-section' (hyphenated) is the preferred stylistic choice for compound nouns in technical contexts within WJEC documentation for consistency."
-3,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-4,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-5,,,,,PARSING_ERROR,100,The extraneous asterisks around 'h$' indicate a parsing error in the LaTeX mathematical expression.
-6,,,,,PARSING_ERROR,100,The extraneous asterisks around 'rl$' indicate a parsing error in the LaTeX mathematical expression.
-7,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-8,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-9,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
-10,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
-11,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
-12,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-13,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
-14,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression, not a linguistic error."
-15,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a condition, not a linguistic error."
-16,,,,,FALSE_POSITIVE,100,"`\ne` is a correct LaTeX command for 'not equal to', not a spelling error."
-17,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
-18,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-19,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable used in context, not a linguistic error."
-20,,,,,FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
-21,,,,,FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
-22,,,,,PARSING_ERROR,95,"The word 'rganisation' is missing the initial 'O', which is a clear parsing error from the source document."
-23,,,,,PARSING_ERROR,90,"'ssa' appears to be a truncated name, likely missing an initial letter due to a parsing error."
-24,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity for an apostrophe, indicating a parsing error from the original document."
-25,,,,,PARSING_ERROR,100,Γhe is a parsing error where the Greek letter Gamma has replaced the English letter 'T'.
-26,,,,,PARSING_ERROR,95,"'Examin' is a truncation of 'Examiner', indicating a parsing error."
-27,,,,,FALSE_POSITIVE,100,"'B1 B1' is a specific marking code within a mark scheme, not a grammatical error."
-28,,,,,FALSE_POSITIVE,100,"'B0 B0' is a specific marking code within a mark scheme, not a grammatical error."
-29,,,,,FALSE_POSITIVE,100,"'M1 M1' is a specific marking code within a mark scheme, not a grammatical error."
-30,,,,,FALSE_POSITIVE,95,The phrase 'Sight of any of the following' is grammatically correct and appropriate in this context.
-31,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
-32,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
-33,,,,,FALSE_POSITIVE,90,The parenthesis is correctly used to enclose the unit 'kg' and is not an error.
-34,,,,,SPELLING_ERROR,95,"The use of lowercase 'm1' is inconsistent with the standard uppercase notation for mark scheme points (e.g., M1, A1, B1)."
-35,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
-36,,,,,FALSE_POSITIVE,100,`$x` is correctly used as part of a LaTeX mathematical expression and is not a spelling error.
-37,,,,,FALSE_POSITIVE,100,`$x$` is correctly used as a LaTeX mathematical variable and is not a spelling error.
-38,,,,,FALSE_POSITIVE,95,`A1 A1` correctly represents two distinct accuracy marks in the mark scheme.
-39,,,,,FALSE_POSITIVE,95,`B1 B1` correctly represents two distinct bonus/independent marks in the mark scheme.
-40,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
-41,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
-42,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
-43,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
-44,,,,,FALSE_POSITIVE,100,`$r^2$` is a correctly formatted LaTeX mathematical expression.
-45,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
-46,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
-47,,,,,FALSE_POSITIVE,100,`$r$` is a correctly formatted LaTeX mathematical expression.
-48,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
-49,,,,,FALSE_POSITIVE,90,"`B1 B1` is a standard notation in mark schemes indicating two separate B1 marks, not a repetition error."
-50,,,,,FALSE_POSITIVE,100,"""B1 B1"" is a marking scheme notation, not a linguistic error in the learner-facing content."
-51,,,,,SPELLING_ERROR,100,"""Caermeas"" is a misspelling of the place name ""Caermaes"" which is consistently used elsewhere."
-52,,,,,FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
-53,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
-54,,,,,FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
-55,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
-56,,,,,FALSE_POSITIVE,90,`$x` is correct LaTeX syntax for displaying a mathematical variable in a Markdown document that supports LaTeX rendering.
-57,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
-58,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
-59,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
-60,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-61,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-62,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-63,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-64,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-65,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-66,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
-67,,,,,FALSE_POSITIVE,100,'M1 m1' is a standard marking scheme notation in WJEC documents and is correct as written.
-68,,,,,FALSE_POSITIVE,95,The highlighted parenthesis is correctly used as part of a mathematical expression `2(34 + 29 + 20)` indicating multiplication.
-69,,,,,FALSE_POSITIVE,100,"The phrase 'may be repeated' is grammatically correct, indicating possibility, and should not be changed to 'maybe'."
-70,,,,,SPELLING_ERROR,100,"The abbreviation 'ocw' should be capitalised as 'OCW' to match WJEC conventions for Organisation, Communication and Written accuracy."
+0,5,frac,... Higher Tier  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_5_Picture_2.jp...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+1,5,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_5_Picture_2.jpeg)  ## Volume...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extraneous asterisks around 'h$$' indicate a parsing error in the LaTeX mathematical expression.
+2,5,cross section,"...e.g. Prism, Cylinder)  Volume = area of **cross section**  $\times$  length  ![](_page_5_Picture_...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'cross section' is acceptable as a noun, 'cross-section' (hyphenated) is the preferred stylistic choice for compound nouns in technical contexts within WJEC documentation for consistency."
+3,5,frac,...icture_5.jpeg)  Volume of a sphere =  $\**frac**{4}{3}\pi r^3$ Surface area of a sphere ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+4,5,frac,...5_Picture_7.jpeg)  Volume of a cone  $=\**frac**{1}{3}\pi r^2 h$ Curved surface area of ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+5,5,h$,... Volume of a cone  $=\frac{1}{3}\pi r^2 **h$** Curved surface area of a cone  $=\pi rl...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extraneous asterisks around 'h$' indicate a parsing error in the LaTeX mathematical expression.
+6,5,rl$,...h$ Curved surface area of a cone  $=\pi **rl$**   ![](_page_5_Picture_9.jpeg)  In any t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extraneous asterisks around 'rl$' indicate a parsing error in the LaTeX mathematical expression.
+7,5,frac,"...)  In any triangle ABC,  Sine rule:  $$\**frac**{a}{\sin A} = \frac{b}{\sin B} = \frac{c...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+8,5,frac,"...ABC,  Sine rule:  $$\frac{a}{\sin A} = \**frac**{b}{\sin B} = \frac{c}{\sin C}$$  **Cosi...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+9,5,frac,...$\frac{a}{\sin A} = \frac{b}{\sin B} = \**frac**{c}{\sin C}$$  **Cosine rule**:  $a^2 = ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+10,5,$a,...= \frac{c}{\sin C}$$  **Cosine rule**:  **$a**^2 = b^2 + c^2 - 2bc \cos A$   Area of t...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+11,5,A$,...ne rule**:  $a^2 = b^2 + c^2 - 2bc \cos **A$**   Area of triangle =  $\frac{1}{2}ab\si...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+12,5,frac,...2 - 2bc \cos A$   Area of triangle =  $\**frac**{1}{2}ab\sin C$   ![](_page_5_Picture_14...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+13,5,C$,... Area of triangle =  $\frac{1}{2}ab\sin **C$**   ![](_page_5_Picture_14.jpeg)  ## The ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+14,5,$ax,...e Quadratic Equation  The solutions of  **$ax**^2 + bx + c = 0$  where  $a \ne 0$  are ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression, not a linguistic error."
+15,5,$a,...lutions of  $ax^2 + bx + c = 0$  where  **$a** \ne 0$  are given by  $x = \frac{-b \pm...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable within a condition, not a linguistic error."
+16,5,ne,...ons of  $ax^2 + bx + c = 0$  where  $a \**ne** 0$  are given by  $x = \frac{-b \pm \sq...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\ne` is a correct LaTeX command for 'not equal to', not a spelling error."
+17,5,$x,...c = 0$  where  $a \ne 0$  are given by  **$x** = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+18,5,frac,...  where  $a \ne 0$  are given by  $x = \**frac**{-b \pm \sqrt{b^2 - 4ac}}{2a}$   {6}----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+19,6,$x$,"...(a)   | Form an expression, in terms of **$x$** , for the perimeter of this rectangle. ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical variable used in context, not a linguistic error."
+20,6,$x$,"...| | ( ) | Form an equation, in terms of **$x$** . Solve your equation to find the value...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
+21,6,$x$,...olve your equation to find the value of **$x$** . You must show all your working. | [3]...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
+22,8,rganisation,"...on, you will be assessed on the quality **rganisation** and communication.                 |   ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'rganisation' is missing the initial 'O', which is a clear parsing error from the source document."
+23,8,ssa,...| the map has a scale of 1 : 2 000 000. **ssa** measures the distance between Fishguard...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"'ssa' appears to be a truncated name, likely missing an initial letter due to a parsing error."
+24,11,',...---|----------|------------------| |  | **'**One player's height and mass don't follo...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`&#x27;` is an HTML entity for an apostrophe, indicating a parsing error from the original document."
+25,14,Γhe,..._1.jpeg)  Diagram not drawn to scale  | **Γhe** mass of the cylinder is 423.1 g. Find t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,Γhe is a parsing error where the Greek letter Gamma has replaced the English letter 'T'.
+26,24,Examin,...ns correct to 2 decimal places. | [3] | **Examin** only | |-----|-------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"'Examin' is a truncation of 'Examiner', indicating a parsing error."
+27,31,B1 B1,... error. | | 10x = 60 or 5x = 30 x = 6 | **B1 B1** | Mark final answer. FT from 10x or 5x ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'B1 B1' is a specific marking code within a mark scheme, not a grammatical error."
+28,31,B0 B0,... = k Unsupported correct answer implies **B0 B0** B1. Award B1B1B0 for a final answer of ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'B0 B0' is a specific marking code within a mark scheme, not a grammatical error."
+29,31,M1 M1,...tion marked or two intersecting lines | **M1 M1** A1 | Allow dots or crosses or any unamb...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'M1 M1' is a specific marking code within a mark scheme, not a grammatical error."
+30,32,of any of,...------------------------------| | Sight **of any of** the following:  • (80% of 190=) 152 (ca...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'Sight of any of the following' is grammatically correct and appropriate in this context.
+31,32,frac,... seconds=) 58 (calls)  • (132 calls = $\**frac**{132}{190} \times 100 = 69.4(7)\%$ • (58...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+32,32,frac,...\times 100 = 69.4(7)\%$ • (58 calls = $\**frac**{58}{190} \times 100 = 30.5(2)\%$ | M2 |...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+33,32,(,"...considers the trend of players up to 122**(**kg)"" ""out of range"".                    ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The parenthesis is correctly used to enclose the unit 'kg' and is not an error.
+34,33,M1 m1,...------------------------------------| | **M1 m1** A1 | (906 + 664.02 = 1570.02) CAO | | W...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The use of lowercase 'm1' is inconsistent with the standard uppercase notation for mark scheme points (e.g., M1, A1, B1)."
+35,33,frac,...ck diagram for answers.  Award M1 for $\**frac**{8 \times QR}{2} = 36$ .                ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+36,33,$x,...ir derived 9'. | | A1 | Final answer of **$x** = 145$ is M1A0A0. FT provided their ans...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$x` is correctly used as part of a LaTeX mathematical expression and is not a spelling error.
+37,33,$x$,...           | Alternative method to find **$x$** A correct and complete method (using tr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$x$` is correctly used as a LaTeX mathematical variable and is not a spelling error.
+38,33,A1 A1,...                             | M1 A1 M1 **A1 A1** B1 B1                                  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`A1 A1` correctly represents two distinct accuracy marks in the mark scheme.
+39,33,B1 B1,...                       | M1 A1 M1 A1 A1 **B1 B1**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`B1 B1` correctly represents two distinct bonus/independent marks in the mark scheme.
+40,34,frac,...             | | A2 | A1 for sight of $\**frac**{423.1}{26.45\pi}$ or $\frac{8462}{529\p...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+41,34,frac,... sight of $\frac{423.1}{26.45\pi}$ or $\**frac**{8462}{529\pi}$ or $\frac{15.9(96)}{\pi}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+42,34,frac,...6.45\pi}$ or $\frac{8462}{529\pi}$ or $\**frac**{15.9(96)}{\pi}$ or any other simplified...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+43,34,',"...                            | | A1 | FT **'**their $r^2$ ', provided M1 awarded. 9 mu...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+44,34,$r,"...                     | | A1 | FT 'their **$r**^2$ ', provided M1 awarded. 9 must not b...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$r^2$` is a correctly formatted LaTeX mathematical expression.
+45,34,',"...               | | A1 | FT 'their $r^2$ **'**, provided M1 awarded. 9 must not be fro...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+46,34,',... be from incorrect working. | | M1 | FT **'**their derived or stated $r$ '.          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+47,34,$r$,...g. | | M1 | FT 'their derived or stated **$r$** '.                                     ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$r$` is a correctly formatted LaTeX mathematical expression.
+48,34,',... | M1 | FT 'their derived or stated $r$ **'**.                                       ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+49,34,B1 B1,...                | |    | A1 M1 A1 M2 A2 **B1 B1** M1 A1 M1 A1 M1 A1 M1 A1 M2             ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"`B1 B1` is a standard notation in mark schemes indicating two separate B1 marks, not a repetition error."
+50,35,B1 B1,...250 000 Caermaes median = (£) 270 000 | **B1 B1** |  | |---------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""B1 B1"" is a marking scheme notation, not a linguistic error in the learner-facing content."
+51,35,Caermeas,"... less spread out"" ""Caermaes is higher"" ""**Caermeas** IQR is less"" Award E1 also for one of t...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"""Caermeas"" is a misspelling of the place name ""Caermaes"" which is consistently used elsewhere."
+52,36,$x,...                           |  |  |  | | **$x** = \frac{-(5) \pm \sqrt{(5)^2 - 4 \times...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
+53,36,frac,...                     |  |  |  | | $x = \**frac**{-(5) \pm \sqrt{(5)^2 - 4 \times 3 \time...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+54,36,$x,...                           |  |  |  | | **$x** = \frac{-5 \pm \sqrt{37}}{6}$          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
+55,36,frac,...                     |  |  |  | | $x = \**frac**{-5 \pm \sqrt{37}}{6}$                  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+56,36,$x,"...            |  |  |  | | x = 0.18, with **$x** = -1.85$                               ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`$x` is correct LaTeX syntax for displaying a mathematical variable in a Markdown document that supports LaTeX rendering.
+57,36,frac,.... Finding the correct scale factor  • $\**frac**{\sqrt[3]{72}}{\sqrt[3]{243}}$ or $\sqrt...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+58,36,frac,...t[3]{72}}{\sqrt[3]{243}}$ or $\sqrt[3]{\**frac**{72}{243}}$ or equivalent  • $\frac{\sqr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+59,36,frac,...[3]{\frac{72}{243}}$ or equivalent  • $\**frac**{\sqrt[3]{243}}{\sqrt[3]{72}}$ or $\sqrt...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+60,36,frac,...t[3]{243}}{\sqrt[3]{72}}$ or $\sqrt[3]{\**frac**{243}{72}}$ or equivalent  • $\frac{3}{2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+61,36,frac,...[3]{\frac{243}{72}}$ or equivalent  • $\**frac**{3}{2}$ or 1.5 or equivalent  • $\frac{2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+62,36,frac,...$\frac{3}{2}$ or 1.5 or equivalent  • $\**frac**{2}{3}$ or 0.6 or equivalent | B1 | May ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+63,36,frac,...    |  |  |  | | (Height =) $18 \times \**frac**{2}{3}$ or $18 \div \frac{3}{2}$ or equi...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+64,36,frac,...=) $18 \times \frac{2}{3}$ or $18 \div \**frac**{3}{2}$ or equivalent                   ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+65,36,frac,...ot from incorrect working.  FT 'their $\**frac**{2}{3}$ ' or 'their $\frac{3}{2}$ ' prov...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+66,36,frac,...  FT 'their $\frac{2}{3}$ ' or 'their $\**frac**{3}{2}$ ' provided first B1 awarded. |  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+67,37,M1 m1,...rom difference in y ÷ difference in x | **M1 m1** A1 | Allow one error in counting square...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'M1 m1' is a standard marking scheme notation in WJEC documents and is correct as written.
+68,37,(,...|  |  | | 17.(b)(i) ½ × 20 × (36 + 0 + 2**(**34 + 29 + 20)) OR ½ × 20 × (36 + 68 + 58...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The highlighted parenthesis is correctly used as part of a mathematical expression `2(34 + 29 + 20)` indicating multiplication.
+69,37,may be,...he sum of these 4 areas with one error (**may be** repeated) in the substitution of values...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The phrase 'may be repeated' is grammatically correct, indicating possibility, and should not be changed to 'maybe'."
+70,39,ocw,... | Common Qn (FT) | Common marks (FT) | **ocw** | |----|-------------------------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The abbreviation 'ocw' should be capitalised as 'OCW' to match WJEC conventions for Organisation, Communication and Written accuracy."

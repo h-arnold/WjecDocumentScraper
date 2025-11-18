@@ -1,58 +1,58 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
-1,,,,,FALSE_POSITIVE,100,"`h$$` is correctly used as part of a LaTeX mathematical expression, where `$$` denotes the end of a display math block."
-2,,,,,SPELLING_ERROR,90,"The compound noun 'cross-section' should be hyphenated in this technical context according to standard UK English conventions (OED, Collins)."
-3,,,,,PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
-4,,,,,PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
-5,,,,,FALSE_POSITIVE,100,"`h$` is correctly used as part of a LaTeX mathematical expression, where `$` denotes the end of an inline math block."
-6,,,,,FALSE_POSITIVE,100,"`rl$` is correctly used as part of a LaTeX mathematical expression, where `$` denotes the end of an inline math block."
-7,,,,,PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
-8,,,,,PARSING_ERROR,100,"`shaı` is a parsing error, likely a garbled word from the original document, and the surrounding text is also fragmented."
-9,,,,,PARSING_ERROR,100,"`Cald` appears to be part of a severe parsing error, where text has been corrupted and repeated, likely from 'calculate' or similar."
-10,,,,,PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
-11,,,,,PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
-12,,,,,PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
-13,,,,,PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
-14,,,,,PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
-15,,,,,PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
-16,,,,,PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
-17,,,,,PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
-18,,,,,PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
-19,,,,,PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
-20,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-21,,,,,PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
-22,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-23,,,,,PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
-24,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-25,,,,,PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
-26,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-27,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-28,,,,,PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
-29,,,,,PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
-30,,,,,FALSE_POSITIVE,100,"This is a correct LaTeX syntax for a mathematical formula, not an error."
-31,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command used within a mathematical formula, not an error."
-32,,,,,SPELLING_ERROR,95,"'£correct' is a placeholder that should be replaced with a numerical value, indicating incomplete content."
-33,,,,,FALSE_POSITIVE,100,"'Qu9c' is an internal reference code, correct in this specific context within a document title."
-34,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
-35,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
-36,,,,,STYLISTIC_PREFERENCE,85,"Standard UK English currency formatting places the Euro symbol directly before the amount without a space (e.g., '€540')."
-37,,,,,PARSING_ERROR,95,"There is an extraneous opening parenthesis, likely a parsing error or a typo."
-38,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
-39,,,,,FALSE_POSITIVE,90,"'M1 m1' is a specific notation used in mark schemes, likely indicating a main method mark and a dependent or minor method mark."
-40,,,,,PARSING_ERROR,95,The extra parenthesis is a conversion error; the original likely intended `4(painters)`.
-41,,,,,PARSING_ERROR,95,The extra parenthesis is a conversion error; the original likely intended `4(painters)`.
-42,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-43,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-44,,,,,PARSING_ERROR,95,The bolding markdown `**` around 'and' is a parsing error from the conversion process.
-45,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-46,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-47,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-48,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
-49,,,,,PARSING_ERROR,95,The bolding markdown `**` around 'Qu9c' is a parsing error from the conversion process.
-50,,,,,FALSE_POSITIVE,100,`\qquad` is a correct LaTeX command for horizontal spacing within a mathematical expression.
-51,,,,,FALSE_POSITIVE,100,`\qquad` is a correct LaTeX command for horizontal spacing within a mathematical expression.
-52,,,,,PARSING_ERROR,95,The space between `$` and `24` is incorrect; it should be `$24` to correctly initiate the LaTeX math environment.
-53,,,,,PARSING_ERROR,95,The space between `$` and `43` is incorrect; it should be `$43` to correctly initiate the LaTeX math environment.
-54,,,,,FALSE_POSITIVE,100,The single quote is correctly used as part of the notation `'their 39.5'` in the mark scheme.
-55,,,,,FALSE_POSITIVE,100,`ocw` is a standard WJEC acronym for 'Opportunity for Communication and Written accuracy' used correctly in the assessment mapping table.
-56,,,,,FALSE_POSITIVE,90,`st form` is a common abbreviation for 'standard form' in a mathematical context.
+0,4,frac,... Higher Tier  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_4_Picture_2.jp...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
+1,4,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_4_Picture_2.jpeg)  ## Volume...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`h$$` is correctly used as part of a LaTeX mathematical expression, where `$$` denotes the end of a display math block."
+2,4,cross section,"...e.g. Prism, Cylinder)  Volume = area of **cross section**  $\times$  length  ![](_page_4_Picture_...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,"The compound noun 'cross-section' should be hyphenated in this technical context according to standard UK English conventions (OED, Collins)."
+3,4,frac,...icture_5.jpeg)  Volume of a sphere =  $\**frac**{4}{3}\pi r^3$ Surface area of a sphere ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
+4,4,frac,...4_Picture_7.jpeg)  Volume of a cone  $=\**frac**{1}{3}\pi r^2 h$ Curved surface area of ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
+5,4,h$,... Volume of a cone  $=\frac{1}{3}\pi r^2 **h$** Curved surface area of a cone  $=\pi rl...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`h$` is correctly used as part of a LaTeX mathematical expression, where `$` denotes the end of an inline math block."
+6,4,rl$,...h$ Curved surface area of a cone  $=\pi **rl$**   ![](_page_4_Picture_9.jpeg)  #### **A...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`rl$` is correctly used as part of a LaTeX mathematical expression, where `$` denotes the end of an inline math block."
+7,4,frac,"...calculated using the formula  $\left(1+\**frac**{i}{n}\right)^n-1$ , where i is the nomi...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a misinterpretation of the LaTeX command `\frac` during parsing.
+8,9,shaı,...                              |     | | **shaı**                |                       ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`shaı` is a parsing error, likely a garbled word from the original document, and the surrounding text is also fragmented."
+9,9,Cald,...                     |     | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`Cald` appears to be part of a severe parsing error, where text has been corrupted and repeated, likely from 'calculate' or similar."
+10,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
+11,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
+12,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
+13,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
+14,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
+15,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
+16,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
+17,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
+18,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'culate' is a parsing error; it should be 'Calculate'.
+19,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Cald' is a parsing error, likely a misreading of 'and' or part of a name, given the context 'Siar Kim Cald'."
+20,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+21,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
+22,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+23,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
+24,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+25,9,Cald,... week to pay for the | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
+26,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+27,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+28,9,Cald,...r.  Sian will save £ | [3] | | Siar Kim **Cald** | will put an equal amount of money asi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'Cald' appears to be a parsing error, likely a corrupted word or part of a repeated phrase due to table extraction issues."
+29,9,culate,...n equal amount of money aside per week. **culate** how much money Sian and Kim will need t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'calculate' is truncated, missing its initial 'C', indicating a parsing error during conversion."
+30,19,$$M,...ing the monthly repayment on a loan is  **$$M** = \frac{r \times L}{1 - (1+r)^{-n}}$$  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct LaTeX syntax for a mathematical formula, not an error."
+31,19,frac,... monthly repayment on a loan is  $$M = \**frac**{r \times L}{1 - (1+r)^{-n}}$$  where:  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command used within a mathematical formula, not an error."
+32,19,£correct,... |     | Matthew's monthly repayment is **£correct** to the nearest penny.                  ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"'£correct' is a placeholder that should be replaced with a numerical value, indicating incomplete content."
+33,21,Qu9c,...------  ## **13.** Based on A17 Num U2H **Qu9c** A building used for storage is shown be...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Qu9c' is an internal reference code, correct in this specific context within a document title."
+34,24,',"...time frame e.g. per day, per week etc', **'**Groups are not continuous e.g. no group ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
+35,24,',"...ontinuous e.g. no group for 1.5 hours', **'**No group if you exercise for more than 7...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
+36,26,€ 540,...incorrect working | | (Cost in £ to buy **€ 540** is) 540 ÷ 1.19 or 450 + 4.5(0) ÷ 1.19 |...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"Standard UK English currency formatting places the Euro symbol directly before the amount without a space (e.g., '€540')."
+37,27,(,...| Needs to be a complete method e.g. 152**(**000 000) ÷ 143 × 100 | | A1 | Allow (£) ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"There is an extraneous opening parenthesis, likely a parsing error or a typo."
+38,27,',...     | | M1 | Allow M1 for use of 120 < **'**their 120.25 < 120.5 and 79 < 'their 79....,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote or apostrophe, indicating a parsing error."
+39,27,M1 m1,...                                 | |  | **M1 m1** |  {28}--------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"'M1 m1' is a specific notation used in mark schemes, likely indicating a main method mark and a dependent or minor method mark."
+40,28,(,"...0.7(142…) or equivalent | M1 | FT from 4**(**painters), 125 (m2 ), n (hours) for 4 × ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The extra parenthesis is a conversion error; the original likely intended `4(painters)`.
+41,28,(,"...m2 ), n (hours) for 4 × n 5 OR FT from 4**(**painters), n (m2 ), 5 (hours) for 4 × 12...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The extra parenthesis is a conversion error; the original likely intended `4(painters)`.
+42,29,frac,....00425 <sup>12</sup> – 1 OR $\left(1 + \**frac**{0.051}{12}\right)^{12} - 1$            ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+43,29,frac,...                        | | $\left(1 + \**frac**{0.0512}{4}\right)^4 - 1$               ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+44,29,and,... at least one M1 mark previously awarded** and** their values are accurate enough to all...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The bolding markdown `**` around 'and' is a parsing error from the conversion process.
+45,30,frac,...-------------------------|--|--|--| | $\**frac**{\frac{0.075}{12} \times (22000 - 5000)}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+46,30,frac,...-------------------|--|--|--| | $\frac{\**frac**{0.075}{12} \times (22000 - 5000)}{1 - \...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+47,30,frac,...} \times (22000 - 5000)}{1 - \left(1 + \**frac**{0.075}{12}\right)^{-7 \times 12}}  \tex...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+48,30,frac,...12}\right)^{-7 \times 12}}  \text{OR}  \**frac**{0.00625 \times 17000}{1 - (1 + 0.00625)...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for fractions and should not be flagged.
+49,30,Qu9c,... | | 13. MS based on MS for A17 Num U2H **Qu9c**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The bolding markdown `**` around 'Qu9c' is a parsing error from the conversion process.
+50,30,qquad,...5^2) \div 2$ $(=471 \text{ to } 471.6) \**qquad** (1673 \text{ to } 1674.5) \qquad (235.5...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\qquad` is a correct LaTeX command for horizontal spacing within a mathematical expression.
+51,30,qquad,...71.6) \qquad (1673 \text{ to } 1674.5) \**qquad** (235.5 \text{ to } 235.8)$ | M3 | Bound...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\qquad` is a correct LaTeX command for horizontal spacing within a mathematical expression.
+52,30,$ 24,...2 $ where 12 < 'their 12.25' < 12.5 and **$ 24** < \text{'their } 24.5' \le 25 $ and $ 4...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The space between `$` and `24` is incorrect; it should be `$24` to correctly initiate the LaTeX math environment.
+53,30,$ 43,... 24 < \text{'their } 24.5' \le 25 $ and **$ 43** < \text{'their } 43.5' \le 44 $ |  |  |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The space between `$` and `43` is incorrect; it should be `$43` to correctly initiate the LaTeX math environment.
+54,30,',... to 2382' Allow M1 only for use of 39 ≤ **'**their 39.5 < 40 |  |  |  | | = 61 (tins)...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The single quote is correctly used as part of the notation `'their 39.5'` in the mark scheme.
+55,32,ocw,... | Common Qn (Fn) | Common marks (Fn) | **ocw** | |----|-------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`ocw` is a standard WJEC acronym for 'Opportunity for Communication and Written accuracy' used correctly in the assessment mapping table.
+56,32,st,"...           |     | | 9 | Principality - **st** form, perc, rev %, bounds, sys samp | 1...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`st form` is a common abbreviation for 'standard form' in a mathematical context.

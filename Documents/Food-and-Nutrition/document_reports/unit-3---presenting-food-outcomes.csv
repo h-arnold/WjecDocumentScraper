@@ -1,11 +1,11 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,The apostrophe is a correct grammatical feature in the Welsh phrase 'i'r byd'.
-1,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'or' would improve readability between the two independent clauses, but its omission is not a grammatical error."
-2,,,,,STYLISTIC_PREFERENCE,95,'Dem' is an informal abbreviation for 'demonstration' and should be written out in full for formal documentation.
-3,,,,,PARSING_ERROR,100,'Part-time' should be hyphenated when used as a compound adjective modifying 'job'.
-4,,,,,PARSING_ERROR,100,'Custard-based' should be hyphenated when used as a compound adjective modifying 'dish'.
-5,,,,,PARSING_ERROR,100,'Well-chosen' should be hyphenated when used as a compound adjective modifying 'photos'.
-6,,,,,FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
-7,,,,,FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
-8,,,,,FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
-9,,,,,FALSE_POSITIVE,100,The apostrophe is a correct grammatical feature in the Welsh phrase 'i'r byd'.
+0,0,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is a correct grammatical feature in the Welsh phrase 'i'r byd'.
+1,5,or,... find professionals to come into schools** or** you can take your learners out to their...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma before 'or' would improve readability between the two independent clauses, but its omission is not a grammatical error."
+2,5,dem,...e is chef who can spare an hour to do a **dem** with your Year 10? Many learners may ha...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,95,'Dem' is an informal abbreviation for 'demonstration' and should be written out in full for formal documentation.
+3,5,part time,"... your Year 10? Many learners may have a **part time** job in a local hospitality business, ca...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Part-time' should be hyphenated when used as a compound adjective modifying 'job'.
+4,9,custardbased,"...ous, an aubergine and tomato bake and a **custardbased** dish. All soft textures and of a simila...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Custard-based' should be hyphenated when used as a compound adjective modifying 'dish'.
+5,14,well chosen,...4_Picture_4.jpeg)  Good Practice: A few **well chosen** photos of the complex techniques used. ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Well-chosen' should be hyphenated when used as a compound adjective modifying 'photos'.
+6,16,youtube,...lating Techniques - [Plate like a Pro \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
+7,16,youtube,...xoQk)  [13 Sauce Plating Skills/Ideas \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
+8,16,youtube,...Chocolate Techniques You Need To Know \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'youtube.com' is a correct proper noun for the website domain and is spelled correctly in this context.
+9,17,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is a correct grammatical feature in the Welsh phrase 'i'r byd'.

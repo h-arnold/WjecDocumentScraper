@@ -1,14 +1,14 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
-1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
-2,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across table cells due to a parsing error.
-3,,,,,PARSING_ERROR,100,"The word 'EXPERIENCES' has been incorrectly parsed, with 'EX' in a separate cell and 'PERI' missing, resulting in 'ENCES'."
-4,,,,,PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across table cells, and the initial 'O' is a Cyrillic character."
-5,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two table cells due to a parsing error.
-6,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two table cells due to a parsing error.
-7,,,,,PARSING_ERROR,100,"The word 'Appendix' has been incorrectly split across table cells, resulting in 'App pendi x'."
-8,,,,,FALSE_POSITIVE,100,The conjunction 'and' is correctly used to connect two independent clauses in a compound sentence.
-9,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'are' should be 'is' to agree with the singular subject 'choice'.
-10,,,,,SPELLING_ERROR,100,The word 'Roman' should be capitalised as it is a proper adjective referring to the Roman Empire.
-11,,,,,FALSE_POSITIVE,95,"The term 'Minuet' is correctly capitalised as it appears at the beginning of a list item, consistent with the formatting of other terms in the list."
-12,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The abbreviation 'e.g.' (exempli gratia) should include periods in formal writing.
+0,3,INTE,...---------------------|----| | 1       | **INTE**   | RODUCTION                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
+1,3,RODUCTION,...------------|----| | 1       | INTE   | **RODUCTION**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
+2,3,JECT,...                     | 8  | | 2 EX |  | **JECT** CONTENT AND INTEGRATION OF LEARNING ENC...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across table cells due to a parsing error.
+3,3,ENCES,...ECT CONTENT AND INTEGRATION OF LEARNING **ENCES** AND SKILLS | 9 | |         | How    | t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'EXPERIENCES' has been incorrectly parsed, with 'EX' in a separate cell and 'PERI' missing, resulting in 'ENCES'."
+4,3,ortunities,...            | 14 | |         | Орр    | **ortunities** for integration of learning experiences...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across table cells, and the initial 'O' is a Cyrillic character."
+5,3,ESSMENT,...            | 16 | | 3       | ASS    | **ESSMENT**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two table cells due to a parsing error.
+6,3,HNICAL,...            | 20 | | 5       | TEC    | **HNICAL** INFORMATION                            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two table cells due to a parsing error.
+7,3,pendi,...                     | 22 | | App     | **pendi**  | x B – Glossary of Musical Terminolog...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Appendix' has been incorrectly split across table cells, resulting in 'App pendi x'."
+8,7,and,...developing artistic skills and knowledge** and** it enables learners to become curious a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is correctly used to connect two independent clauses in a compound sentence.
+9,15,are,...m List B.  The choice of prepared works **are** as follows:  List A  **Concerto for Two...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'are' should be 'is' to agree with the singular subject 'choice'.
+10,15,roman,"...showing piano, guitar and vocal lines - **roman** numerals for chords I, ii, iii, IV, V a...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The word 'Roman' should be capitalised as it is a proper adjective referring to the Roman Empire.
+11,26,Minuet,...--------------------------------------  **Minuet** and Trio  Repetition  Contrast  Theme a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The term 'Minuet' is correctly capitalised as it appears at the beginning of a list item, consistent with the formatting of other terms in the list."
+12,27,eg,"...ure  Changing metre  Regular  Irregular **eg** 5, 7  4 8  Accent  Simple 2 3 4  4 4 4 ...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,The abbreviation 'e.g.' (exempli gratia) should include periods in formal writing.

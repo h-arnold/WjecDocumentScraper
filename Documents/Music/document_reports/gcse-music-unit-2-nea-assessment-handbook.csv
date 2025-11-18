@@ -1,7 +1,7 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,The compound adjective 'non-original' requires a hyphen in UK English.
-1,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.
-2,,,,,SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
-3,,,,,SPELLING_ERROR,95,"'Word' refers to Microsoft Word, a proper noun, and should be capitalised."
-4,,,,,SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
-5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.
+0,4,non original,"... own original work. If you use anything **non original**, you must declare it on the log, and yo...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'non-original' requires a hyphen in UK English.
+1,4,but,... AI. You should declare this on your log** but** it will not affect your marks. Make sur...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.
+2,5,pdf,...s of your composition. This should be a **pdf** or a word document. This will help the ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
+3,5,word,"... composition. This should be a pdf or a **word** document. This will help the teacher, a...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"'Word' refers to Microsoft Word, a proper noun, and should be capitalised."
+4,6,pdf,"...e then you should export the score as a **pdf** file, so that the moderator will be abl...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
+5,11,but,...mpt to structure the piece has been made** but** the presentation of musical ideas is in...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.

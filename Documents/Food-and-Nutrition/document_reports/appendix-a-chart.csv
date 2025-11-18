@@ -1,4 +1,4 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,"The missing space before the opening parenthesis is a formatting error likely caused by parsing, and the term should be 'Whisking (aeration)'."
-1,,,,,PARSING_ERROR,95,"The missing space before the opening parenthesis is a formatting error likely caused by parsing, and the term should be 'Toasting (nuts/seeds)'."
-2,,,,,SPELLING_ERROR,100,"The correct UK English spelling for the cooking technique is 'Sautéing' or 'Sauteing', not 'Sauteing'."
+0,0,(,...cing                        | | Whisking**(**aeration)                 | Mixing      ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The missing space before the opening parenthesis is a formatting error likely caused by parsing, and the term should be 'Whisking (aeration)'."
+1,0,(,...                              | Toasting**(**nuts/seeds)             | Sieving       ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The missing space before the opening parenthesis is a formatting error likely caused by parsing, and the term should be 'Toasting (nuts/seeds)'."
+2,0,Sauteing,...  | Skimming      | |                 | **Sauteing**               | Toasting      | |      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling for the cooking technique is 'Sautéing' or 'Sauteing', not 'Sauteing'."

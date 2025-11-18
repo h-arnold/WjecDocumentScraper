@@ -1,12 +1,12 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The compound adjective 'twenty-first century' requires a hyphen.
-1,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often redundant; 'outside' is more concise and preferred in formal writing.
-2,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
-3,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often redundant; 'outside' is more concise and preferred in formal writing.
-4,,,,,FALSE_POSITIVE,100,'Coversheet' is correctly written as a single word in UK English.
-5,,,,,FALSE_POSITIVE,100,'Coversheet' is correctly written as a single word in UK English.
-6,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
-7,,,,,PARSING_ERROR,100,'Well-chosen' should be hyphenated as a compound adjective modifying 'evidence'.
-8,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,90,A comma should precede 'but' when it joins two independent clauses to improve clarity.
-9,,,,,STYLISTIC_PREFERENCE,80,'Independently of' is the more common and grammatically preferred idiom in formal UK English.
-10,,,,,FALSE_POSITIVE,100,'YY' is a standard and correct abbreviation for 'Year' within the context of a date format field in this table.
+0,4,twentyfirst,...es and similarities in contemporary and **twentyfirst** century attitudes.  #### **Sample Task*...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'twenty-first century' requires a hyphen.
+1,5,outside of,...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often redundant; 'outside' is more concise and preferred in formal writing.
+2,7,audio-visual,...aired discussion.  Centres must make an **audio-visual** recording of all paired discussions.  T...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
+3,8,outside of,...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often redundant; 'outside' is more concise and preferred in formal writing.
+4,9,coversheet,...n the Unit 5 non-examination assessment **coversheet**. Candidate Mark Record Sheets for each ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Coversheet' is correctly written as a single word in UK English.
+5,10,coversheet,...warded should be completed on each unit **coversheet**.  The assessment of Task A (Shakespeare...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Coversheet' is correctly written as a single word in UK English.
+6,10,audio-visual,... of the response or by listening to the **audio-visual** recording at a later time. Teachers sho...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
+7,12,well chosen,"...nd perspectives, drawing confidently on **well chosen** evidence from the text(s).</li></ul> | ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Well-chosen' should be hyphenated as a compound adjective modifying 'evidence'.
+8,15,but,...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> |  ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,90,A comma should precede 'but' when it joins two independent clauses to improve clarity.
+9,23,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,'Independently of' is the more common and grammatically preferred idiom in formal UK English.
+10,26,YY,...           |  |  |  | |  |  | DD | MM | **YY** |  |  | Hour Minutes |  |  |  | |      ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'YY' is a standard and correct abbreviation for 'Year' within the context of a date format field in this table.

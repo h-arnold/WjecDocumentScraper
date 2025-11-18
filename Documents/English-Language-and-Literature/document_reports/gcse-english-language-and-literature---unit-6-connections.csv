@@ -1,28 +1,28 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,"The number and unit of time should be separated by a space, indicating a parsing error in the conversion."
-1,,,,,PARSING_ERROR,95,"The phrase 'A are NOT' appears as a table header and is grammatically incorrect and out of context, indicating a severe parsing error."
-2,,,,,PARSING_ERROR,100,"The HTML entity '&quot;' should be rendered as a standard double quote in Markdown, indicating a parsing error."
-3,,,,,PARSING_ERROR,100,"The HTML entity '&quot;' should be rendered as a standard double quote in Markdown, indicating a parsing error."
-4,,,,,PARSING_ERROR,95,"'sum cting' is a fragmented or corrupted word, indicating a parsing error from the original document."
-5,,,,,PARSING_ERROR,100,"The word 'below' has been split across two cells/lines ('bel' and 'low'), indicating a parsing error."
-6,,,,,PARSING_ERROR,100,"The word 'paragraph' has been split across two cells/lines ('para' and 'ngraph'), indicating a parsing error."
-7,,,,,PARSING_ERROR,100,"The name 'Ahmed' has been split across two cells ('Ahm' and 'ned'), indicating a parsing error."
-8,,,,,PARSING_ERROR,100,"The name 'Ahmed' has been split across two cells ('Ahm' and 'ned'), indicating a parsing error."
-9,,,,,PARSING_ERROR,100,"The word 'that' has been split across two cells ('tha' and 't'), indicating a parsing error."
-10,,,,,PARSING_ERROR,95,The word 'not' has been incorrectly split across cells as 'n | ot' during conversion.
-11,,,,,PARSING_ERROR,95,The word 'represented' has been incorrectly split across cells as 'represen | ted' during conversion.
-12,,,,,PARSING_ERROR,95,The word 'represented' has been incorrectly split across cells as 'represen | ted' during conversion.
-13,,,,,PARSING_ERROR,95,The word 'that' has been incorrectly split across cells as 'th | at' during conversion.
-14,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The singular subject 'age group' requires the verb 'says' for correct subject-verb agreement.
-15,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The repetition 'to to' is redundant and should be corrected to a single 'to'.
-16,,,,,FALSE_POSITIVE,80,"In the context of a transcript, 'tv film' is an acceptable and common compound noun, accurately reflecting spoken language."
-17,,,,,FALSE_POSITIVE,85,"As this is a transcript of a speech, 'far far' is used for emphatic repetition and accurately reflects the speaker's delivery."
-18,,,,,FALSE_POSITIVE,90,"As this is a transcript of a speech, 'er' is a common discourse marker or filler word and is accurately transcribed."
-19,,,,,PARSING_ERROR,95,"The compound adjective 'world-conquering' should be hyphenated, indicating a parsing error where the hyphen was lost."
-20,,,,,PARSING_ERROR,90,The single quote is likely a mis-rendered smart quote or part of an inconsistent quotation mark usage; it should be ‘Satman!’ or 'Satman!'.
-21,,,,,FALSE_POSITIVE,95,The use of '1970s' as an adjective without an apostrophe is grammatically correct and widely accepted in UK English.
-22,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The opening double quotation mark is not closed, which is a clear grammatical error."
-23,,,,,SPELLING_ERROR,100,"'Emphasis' is a noun, but the verb form 'emphasise' (UK English) is required in this context."
-24,,,,,STYLISTIC_PREFERENCE,80,"While 'multi-cultural' is acceptable, the unhyphenated 'multicultural' is generally preferred in modern UK English and formal writing."
-25,,,,,PARSING_ERROR,95,'Under-representation' should be hyphenated as a compound noun.
-26,,,,,FALSE_POSITIVE,100,'Marginalised' is the correct UK English spelling and is appropriate for a WJEC document.
+0,3,1hour,...ble Award Only) Connections**  ### Time **1hour** 30 minutes **SAMPLE ASSESSMENT MATERIAL...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The number and unit of time should be separated by a space, indicating a parsing error in the conversion."
+1,4,A are,... #### **Section A**  #### **TEXT A**  | **A are** NOT | Read the following statements bas...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The phrase 'A are NOT' appears as a table header and is grammatically incorrect and out of context, indicating a severe parsing error."
+2,5,"""","... baked into the bricks in this building.**""** | says: ""blood, sweat, tears, hopes and...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The HTML entity '&quot;' should be rendered as a standard double quote in Markdown, indicating a parsing error."
+3,5,"""","...o the bricks in this building."" | says: **""**blood, sweat, tears, hopes and | [1] | |...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The HTML entity '&quot;' should be rendered as a standard double quote in Markdown, indicating a parsing error."
+4,6,cting,"...---------  | 2, 25.00 | graph which sum **cting** one word to |  | is provided bel | low....",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"'sum cting' is a fragmented or corrupted word, indicating a parsing error from the original document."
+5,6,bel,... sum cting one word to |  | is provided **bel** | low. Complete the para | ngraph [3] |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'below' has been split across two cells/lines ('bel' and 'low'), indicating a parsing error."
+6,6,ngraph,...provided bel | low. Complete the para | **ngraph** [3] | |-----------|--------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'paragraph' has been split across two cells/lines ('para' and 'ngraph'), indicating a parsing error."
+7,6,Ahm,...-------------------|------------| | Riz **Ahm**   | ned believes we                    ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The name 'Ahmed' has been split across two cells ('Ahm' and 'ned'), indicating a parsing error."
+8,6,ned,...-----------|------------| | Riz Ahm   | **ned** believes we                      | need...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The name 'Ahmed' has been split across two cells ('Ahm' and 'ned'), indicating a parsing error."
+9,6,tha,...            | | valued.   | He believes **tha**                      | t if people do n...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'that' has been split across two cells ('tha' and 't'), indicating a parsing error."
+10,6,ot,"...                   | t if people do n | **ot** feel represen | ted, they are at risk o...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'not' has been incorrectly split across cells as 'n | ot' during conversion.
+11,6,represen,"...           | t if people do n | ot feel **represen** | ted, they are at risk of |           ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'represented' has been incorrectly split across cells as 'represen | ted' during conversion.
+12,6,ted,"...| t if people do n | ot feel represen | **ted**, they are at risk of |            | | f...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'represented' has been incorrectly split across cells as 'represen | ted' during conversion.
+13,6,th,...                            | He thinks **th**     | at every human   | is            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'that' has been incorrectly split across cells as 'th | at' during conversion.
+14,20,say,"...y Ethnic' (17%). The youngest age group **say** they don't understand it, 23% of those ...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The singular subject 'age group' requires the verb 'says' for correct subject-verb agreement.
+15,22,to to,...ly** want you to just take a **minute** **to to** kind of understand how much it **means*...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,The repetition 'to to' is redundant and should be corrected to a single 'to'.
+16,22,tv,...ee** yourself in a magazine a billboard **tv** film (2) it's a message that (.) that y...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,80,"In the context of a transcript, 'tv film' is an acceptable and common compound noun, accurately reflecting spoken language."
+17,22,far far,...reminds** us that what **unites** us is **far far** greater than what **divides** us (2) cu...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,85,"As this is a transcript of a speech, 'far far' is used for emphatic repetition and accurately reflects the speaker's delivery."
+18,22,er,...ronically named (.) John Blanke (1) and **er** actually **even** our England's first b...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"As this is a transcript of a speech, 'er' is a common discourse marker or filler word and is accurately transcribed."
+19,22,worldconquering,...) grime (.) dubstep (.) these are (.) ****worldconquering**** musical genres that are only possible...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective 'world-conquering' should be hyphenated, indicating a parsing error where the hyphen was lost."
+20,23,',...ittedly hilarious likeness to 'Batman' (**'**Satman!) – more amusing than my hair. Bu...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The single quote is likely a mis-rendered smart quote or part of an inconsistent quotation mark usage; it should be ‘Satman!’ or 'Satman!'.
+21,23,in 1970s,"... our textbooks for protection, I did so **in 1970s** floral wallpaper, while the boys around...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The use of '1970s' as an adjective without an apostrophe is grammatically correct and widely accepted in UK English.
+22,27,"""","...in what the writer means when they say: **""**blood, sweat, tears, hopes and fears are...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The opening double quotation mark is not closed, which is a clear grammatical error."
+23,30,to emphasis,"...ng right"" - he lists points of contrast **to emphasis** the differences between himself and the...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"'Emphasis' is a noun, but the verb form 'emphasise' (UK English) is required in this context."
+24,32,multi-cultural,...--|---------------| | 10. | Compare how **multi-cultural** Britain is presented in Text B and Text...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'multi-cultural' is acceptable, the unhyphenated 'multicultural' is generally preferred in modern UK English and formal writing."
+25,32,under representation,"...larly crap part of town"" | | Effects of **under representation** | If people of colour aren't represente...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Under-representation' should be hyphenated as a compound noun.
+26,32,marginalised,"...arned about the British Empire"" | He is **marginalised** at school ""I ate alone outside"" |  {33}...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Marginalised' is the correct UK English spelling and is appropriate for a WJEC document.

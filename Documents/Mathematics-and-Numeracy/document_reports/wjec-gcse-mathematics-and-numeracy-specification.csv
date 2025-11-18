@@ -1,49 +1,49 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,This is a clear parsing error; 'JMMARY' should be 'SUMMARY'.
-1,,,,,PARSING_ERROR,100,This is a clear parsing error; 'pendix' should be 'Appendix'.
-2,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
-3,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
-4,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
-5,,,,,FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
-6,,,,,FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
-7,,,,,FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
-8,,,,,FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
-9,,,,,PARSING_ERROR,100,'cross-sectional' should be hyphenated as a compound adjective modifying 'area'.
-10,,,,,PARSING_ERROR,95,The compound adjective 'cross-sectional' should be hyphenated.
-11,,,,,STYLISTIC_PREFERENCE,80,"While 'outside of' is grammatically acceptable, 'outside' alone is more concise and often preferred in formal writing."
-12,,,,,FALSE_POSITIVE,100,'Multi-step' is correctly hyphenated as a compound adjective.
-13,,,,,PARSING_ERROR,95,The compound adjective 'real-world' should be hyphenated.
-14,,,,,PARSING_ERROR,95,The compound adjective 'solar-powered' should be hyphenated.
-15,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-16,,,,,FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$$` correctly closes the LaTeX math environment."
-17,,,,,PARSING_ERROR,95,The compound noun 'cross-section' should be hyphenated in this mathematical context.
-18,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-19,,,,,FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$` correctly closes the LaTeX inline math environment."
-20,,,,,PARSING_ERROR,95,"The compound noun 'cross-section' should be hyphenated for clarity in this technical context, indicating a parsing error where the hyphen was lost."
-21,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
-22,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
-23,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
-24,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
-25,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
-26,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
-27,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
-28,,,,,PARSING_ERROR,100,"The compound noun 'cross-section' should be hyphenated, and the multiplication symbol `$	imes$` is missing between 'cross section' and 'length', indicating a significant parsing error."
-29,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
-30,,,,,FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
-31,,,,,PARSING_ERROR,90,The compound noun 'cross-section' should be hyphenated for consistency in technical documentation.
-32,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-33,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-34,,,,,FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
-35,,,,,FALSE_POSITIVE,100,The highlighted text `l$` is correctly formatted as a mathematical variable followed by an inline LaTeX math delimiter.
-36,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-37,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-38,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-39,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is correctly formatted as an inline LaTeX math delimiter followed by a mathematical variable.
-40,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
-41,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
-42,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
-43,,,,,PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `
+0,4,JMMARY,...-------------  ### **CONTENTS**  | SU | **JMMARY** OF ASSESSMENT                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,This is a clear parsing error; 'JMMARY' should be 'SUMMARY'.
+1,4,pendix,...                          | 59 | | _  | **pendix** A: Opportunities for embedding elements...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,This is a clear parsing error; 'pendix' should be 'Appendix'.
+2,21,terms,"... 2.1.3 recognise the definitions of the **terms** equation, expression and formula and be...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+3,21,terms,"... 2.1.3 recognise the definitions of the **terms** equation, expression and formula and be...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+4,21,terms,"... 2.1.3 recognise the definitions of the **terms** equation, expression and formula and be...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+5,22,and,"...ons in one variable, where one is linear** and** the other is quadratic | 2.1.5 2.1.6 2....",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
+6,22,and,"...ons in one variable, where one is linear** and** the other is quadratic | |  |  |  | 2.1...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
+7,35,mpg,"...tion. Units include: m/s, km/h, mph and **mpg**                                        ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
+8,35,mpg,"...tion. Units include: m/s, km/h, mph and **mpg** 3.5.9 recall and use other compound mea...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
+9,36,cross sectional,"...3.6.3 3-D shapes: <ul><li>Surface area, **cross sectional** area, volume and capacity of a cube, cu...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'cross-sectional' should be hyphenated as a compound adjective modifying 'area'.
+10,36,cross sectional,"...3.6.3 3-D shapes: <ul><li>Surface area, **cross sectional** area, volume and capacity of a cube, cu...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'cross-sectional' should be hyphenated.
+11,48,outside of,...ly their mathematical skills inside and **outside of** the classroom setting - access digital ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'outside of' is grammatically acceptable, 'outside' alone is more concise and often preferred in formal writing."
+12,49,multi-step,"...s to solve nonstandard or unstructured, **multi-step** problems fluently - make decisions when...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Multi-step' is correctly hyphenated as a compound adjective.
+13,51,realworld,...and apply mathematical methods to these **realworld** contexts.  **Unit 2** focuses on mathem...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'real-world' should be hyphenated.
+14,52,solar powered,"...for use on the desk - either battery or **solar powered** - free of lids, cases and covers which ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'solar-powered' should be hyphenated.
+15,53,frac,...ation Tier**  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_53_Picture_3.j...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+16,53,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_53_Picture_3.jpeg)  #### **V...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$$` correctly closes the LaTeX math environment."
+17,53,cross section,"...g. Prism, Cylinder)**  Volume = area of **cross section** length  ![](_page_53_Picture_6.jpeg)  {...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound noun 'cross-section' should be hyphenated in this mathematical context.
+18,54,frac,...1 Higher Tier  Area of a trapezium =  $\**frac**{1}{2}(a+b)h$   ![](_page_54_Picture_3.j...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+19,54,h$,...Area of a trapezium =  $\frac{1}{2}(a+b)**h$**   ![](_page_54_Picture_3.jpeg)  Volume ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$` correctly closes the LaTeX inline math environment."
+20,54,cross section,"...e.g. Prism, Cylinder)  Volume = area of **cross section**  $\times$  length  ![](_page_54_Picture...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound noun 'cross-section' should be hyphenated for clarity in this technical context, indicating a parsing error where the hyphen was lost."
+21,54,frac,...icture_6.jpeg)  Volume of a sphere =  $\**frac**{4}{3}\pi r^3$   Surface area of a spher...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+22,54,frac,...4_Picture_9.jpeg)  Volume of a cone  $=\**frac**{1}{3}\pi r^2 h$   Curved surface area o...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+23,54,h$,... Volume of a cone  $=\frac{1}{3}\pi r^2 **h$**   Curved surface area of a cone =  $\pi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+24,54,rl$,...  Curved surface area of a cone =  $\pi **rl$**   ![](_page_54_Picture_12.jpeg)  **Annu...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+25,54,frac,"...calculated using the formula  $\left(1+\**frac**{i}{n}\right)^n-1$ , where i is the nomi...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+26,55,frac,...ation Tier**  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_55_Picture_3.j...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+27,55,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_55_Picture_3.jpeg)  #### **V...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+28,55,cross section,"...g. Prism, Cylinder)**  Volume = area of **cross section** length  ![](_page_55_Picture_6.jpeg)  {...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound noun 'cross-section' should be hyphenated, and the multiplication symbol `$	imes$` is missing between 'cross section' and 'length', indicating a significant parsing error."
+29,56,frac,... Higher Tier  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_56_Picture_3.j...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+30,56,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_56_Picture_3.jpeg)  ## Volum...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
+31,56,cross section,"...e.g. Prism, Cylinder)  Volume = area of **cross section**  $\times$  length  ![](_page_56_Picture...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The compound noun 'cross-section' should be hyphenated for consistency in technical documentation.
+32,56,frac,...cture_6.jpeg)  Volume of a sphere =  $$\**frac**{4}{3}\pi r^3$$  Surface area of a spher...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+33,56,frac,..._Picture_9.jpeg)  Volume of a cone  $$=\**frac**{1}{3}\pi r^2 h$$  Curved surface area o...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+34,56,h$$,...Volume of a cone  $$=\frac{1}{3}\pi r^2 **h$$**  Curved surface area of a cone =  $\pi ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
+35,56,l$,...Curved surface area of a cone =  $\pi r **l$**   ![](_page_56_Picture_12.jpeg)  In any...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `l$` is correctly formatted as a mathematical variable followed by an inline LaTeX math delimiter.
+36,56,frac,"...)  In any triangle ABC,  Sine rule:  $$\**frac**{a}{\sin A} = \frac{b}{\sin B} = \frac{c...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+37,56,frac,"...ABC,  Sine rule:  $$\frac{a}{\sin A} = \**frac**{b}{\sin B} = \frac{c}{\sin C}$$  **Cosi...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+38,56,frac,...$\frac{a}{\sin A} = \frac{b}{\sin B} = \**frac**{c}{\sin C}$$  **Cosine rule**:  $a^2 = ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+39,56,$a,...= \frac{c}{\sin C}$$  **Cosine rule**:  **$a**^2 = b^2 + c^2 - 2bc \cos A$   ![](_page...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is correctly formatted as an inline LaTeX math delimiter followed by a mathematical variable.
+40,56,A$,...ne rule**:  $a^2 = b^2 + c^2 - 2bc \cos **A$**   ![](_page_56_Picture_16.jpeg)  ![](_p...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+41,56,$ax,...e Quadratic Equation  The solutions of  **$ax**^2 + bx + c = 0$  where  $a \ne 0$  are ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+42,56,$a,...lutions of  $ax^2 + bx + c = 0$  where  **$a** \ne 0$  are given by  $x = \frac{-b \pm...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+43,56,ne,...ons of  $ax^2 + bx + c = 0$  where  $a \**ne** 0$  are given by  $x = \frac{-b \pm \sq...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `
 e` (not equal to), indicating a parsing error."
-44,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
-45,,,,,PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `\frac` (fraction), indicating a parsing error."
-46,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' would improve readability in this compound sentence, but its omission is not a strict grammatical error."
+44,56,$x,...c = 0$  where  $a \ne 0$  are given by  **$x** = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+45,56,frac,...  where  $a \ne 0$  are given by  $x = \**frac**{-b \pm \sqrt{b^2 - 4ac}}{2a}$   {57}---...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `\frac` (fraction), indicating a parsing error."
+46,60,and,...arks obtained for each unit are added up** and** the qualification double grade is based...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma before 'and' would improve readability in this compound sentence, but its omission is not a strict grammatical error."

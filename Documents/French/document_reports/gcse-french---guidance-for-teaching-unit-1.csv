@@ -1,13 +1,13 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,95,The highlighted apostrophe is correctly used as a closing quote for the preceding French phrase.
-1,,,,,FALSE_POSITIVE,95,The highlighted apostrophe is correctly used as a closing quote for the French phrase.
-2,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'but' when it connects two independent clauses to improve clarity.
-3,,,,,FALSE_POSITIVE,90,"The document consistently uses 'role play' without a hyphen, establishing it as a stylistic choice within this publication."
-4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
-5,,,,,STYLISTIC_PREFERENCE,70,"While 'famous celebrity' is somewhat redundant, it is an acceptable and commonly used phrase for emphasis."
-6,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
-7,,,,,FALSE_POSITIVE,95,The phrase 'In preparation' is grammatically correct and appropriately used in this context.
-8,,,,,FALSE_POSITIVE,95,'Week-end' is the correct and commonly used spelling for 'weekend' in French.
-9,,,,,FALSE_POSITIVE,95,'Bu' is the correct past participle of the French verb 'boire' (to drink) and is used correctly here.
-10,,,,,FALSE_POSITIVE,100,The French word 'au' is a correct contraction of 'à le' and is used appropriately in the context 'au restaurant'.
-11,,,,,FALSE_POSITIVE,100,"The term 'week-end' is a correctly spelled anglicism commonly used in French, meaning 'weekend'."
+0,9,',"...ded answers could be '*Parle-moi de*…', **'***Décrismoi*…'or '*Que penses-tu de*…?' f...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The highlighted apostrophe is correctly used as a closing quote for the preceding French phrase.
+1,9,',"...ould be '*Parle-moi de*…', '*Décrismoi*…**'**or '*Que penses-tu de*…?' for example.  ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The highlighted apostrophe is correctly used as a closing quote for the French phrase.
+2,12,but,...and role play is approximately 2 minutes** but** this will depend on each candidate. The...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'but' when it connects two independent clauses to improve clarity.
+3,13,role play,... verbs to support them in responding to **role play** tasks and that they have the opportunit...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The document consistently uses 'role play' without a hyphen, establishing it as a stylistic choice within this publication."
+4,16,and,...use the *tu* and *vous* forms of address** and** they should have opportunities in role ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+5,18,famous celebrity,"...terview-style activity where they are a **famous celebrity**, and their partner asks them unseen que...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'famous celebrity' is somewhat redundant, it is an acceptable and commonly used phrase for emphasis."
+6,18,and,...ons for such activities would be crucial** and** it would be important to highlight that...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before 'and' when it connects two independent clauses to improve clarity.
+7,20,preparation,"...he learners are the chat-show hosts. In **preparation** they could devise questions, giving con...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'In preparation' is grammatically correct and appropriately used in this context.
+8,29,week-end,...? Pourquoi ?  Qu'est-ce que tu feras le **week-end** ?  Quel est ton plat préféré ?  Qu'est-...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Week-end' is the correct and commonly used spelling for 'weekend' in French.
+9,29,bu,...anger ? Pourquoi ?  Qu'est-ce que tu as **bu** hier ?  Parle-moi de la dernière fois q...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Bu' is the correct past participle of the French verb 'boire' (to drink) and is used correctly here.
+10,29,au,...i de la dernière fois que tu es allé(e) **au** restaurant.  Préfères- tu célébrer les ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'au' is a correct contraction of 'à le' and is used appropriately in the context 'au restaurant'.
+11,31,week-end,...quoi pas ?  Qu'est-ce que tu as fait le **week-end** dernier dans ta ville / ton village ?  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The term 'week-end' is a correctly spelled anglicism commonly used in French, meaning 'weekend'."

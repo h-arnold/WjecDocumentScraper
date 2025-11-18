@@ -1,38 +1,38 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,95,"The comma after 'the' appears to be a deliberate stylistic choice within the quoted literary extract, representing a pause or hesitation."
-1,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before the coordinating conjunction 'but' when it joins two independent clauses to improve clarity in formal writing.
-2,,,,,FALSE_POSITIVE,90,'Tabbycat' is an accepted single-word variant of 'tabby cat' and is grammatically correct as written.
-3,,,,,PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error where a quotation mark was incorrectly converted."
-4,,,,,FALSE_POSITIVE,90,'Tabbycat' is an accepted single-word variant of 'tabby cat' and is grammatically correct as written.
-5,,,,,PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error where a quotation mark was incorrectly converted."
-6,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The noun 'sentence' must be plural ('sentences') to agree with the quantifier 'two'.
-7,,,,,STYLISTIC_PREFERENCE,90,An apostrophe should not be used for pluralising decades; '1980s' is the standard and preferred form in UK English.
-8,,,,,PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error, and there is an extraneous double quote at the end of 'fire'."
-9,,,,,SPELLING_ERROR,100,"The word 'characterization' should be spelled 'characterisation' in UK English, which is the standard for WJEC documents."
-10,,,,,SPELLING_ERROR,90,The compound noun 'tabby cat' should be written as two separate words in formal UK English.
-11,,,,,PARSING_ERROR,95,"The `&quot;` is a misplaced closing quotation mark, indicating a parsing error where a space or opening quote is missing before the subsequent quoted phrase."
-12,,,,,FALSE_POSITIVE,100,This is a correctly placed closing quotation mark for the quoted phrase 'gave the signal for the charge'.
-13,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'so' is repeated unnecessarily, creating a grammatical error."
-14,,,,,PARSING_ERROR,95,The compound adjective 'well-chosen' should be hyphenated when it precedes the noun it modifies.
-15,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'but' when it connects two independent clauses to improve clarity and flow in formal writing.
-16,,,,,FALSE_POSITIVE,90,The notation 'ai' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
-17,,,,,FALSE_POSITIVE,90,The notation 'aii' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
-18,,,,,FALSE_POSITIVE,90,The notation 'di' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
-19,,,,,FALSE_POSITIVE,90,The notation 'dii' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
-20,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-21,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-22,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-23,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-24,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-25,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-26,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-27,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-28,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-29,,,,,FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
-30,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'a' sub-part 'i') and is correct in this educational context.
-31,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'a' sub-part 'ii') and is correct in this educational context.
-32,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'b' sub-part 'ii') and is correct in this educational context.
-33,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'b' sub-part 'ii') and is correct in this educational context.
-34,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'e' sub-part 'i') and is correct in this educational context.
-35,,,,,FALSE_POSITIVE,100,This is a standard question numbering format (part 'e' sub-part 'ii') and is correct in this educational context.
+0,11,"the,","...shoulda seen his face, I mean the fear, **the,** it was so, you had to laugh, the expres...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The comma after 'the' appears to be a deliberate stylistic choice within the quoted literary extract, representing a pause or hesitation."
+1,23,but,...s deserted. The street lights are broken** but** the lights are on in every house and a ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma is advisable before the coordinating conjunction 'but' when it joins two independent clauses to improve clarity in formal writing.
+2,28,tabbycat,"...ere, her soft skin white, dotted like a **tabbycat**'s coat, but with red. Pigeon looks at C...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'Tabbycat' is an accepted single-word variant of 'tabby cat' and is grammatically correct as written.
+3,28,"""","...                                    | | **""**lying there, her soft skin white, dotted...",PassCode.LTC,ErrorCategory.PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error where a quotation mark was incorrectly converted."
+4,28,tabbycat,"...ere, her soft skin white, dotted like a **tabbycat**'s              |                       ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'Tabbycat' is an accepted single-word variant of 'tabby cat' and is grammatically correct as written.
+5,28,"""","...Cher is described as coat, but with red.**""** | in the extract? What is the technique...",PassCode.LTC,ErrorCategory.PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error where a quotation mark was incorrectly converted."
+6,35,sentence,"...         |         |  |  | | Select two **sentence**. | words, one for each gap, that best f...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The noun 'sentence' must be plural ('sentences') to agree with the quantifier 'two'.
+7,49,1980's,"...-----  **3.** ""The struggle to fit into **1980's** British society is what drives most of ...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,An apostrophe should not be used for pluralising decades; '1980s' is the standard and preferred form in UK English.
+8,59,"""","... window"" – twisting movement of the fire**""**</li><li>""and wave at him"" – it attracts...",PassCode.LTC,ErrorCategory.PARSING_ERROR,99,"The `&quot;` is an HTML entity, indicating a parsing error, and there is an extraneous double quote at the end of 'fire'."
+9,63,characterization,...control of structure - use of tension - **characterization** - narrative voice.  The most successful...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The word 'characterization' should be spelled 'characterisation' in UK English, which is the standard for WJEC documents."
+10,64,tabbycat,"...ere, her soft skin white, dotted like a **tabbycat**'s coat, but with red."" What is the tech...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,The compound noun 'tabby cat' should be written as two separate words in formal UK English.
+11,70,"""","...rk together to implement Snowball's plan**""**gave the signal for the charge""</li></ul...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The `&quot;` is a misplaced closing quotation mark, indicating a parsing error where a space or opening quote is missing before the subsequent quoted phrase."
+12,70,"""","...ll's plan""gave the signal for the charge**""**</li></ul> | [4] | [4] | |-----|--------...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a correctly placed closing quotation mark for the quoted phrase 'gave the signal for the charge'.
+13,70,so,... been in control of the situation so far** so** Jones's actions are unexpected</li><li>...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'so' is repeated unnecessarily, creating a grammatical error."
+14,73,well chosen,"...nd perspectives, drawing confidently on **well chosen** evidence from the text(s).</li></ul> | ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'well-chosen' should be hyphenated when it precedes the noun it modifies.
+15,77,but,...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> |  ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'but' when it connects two independent clauses to improve clarity and flow in formal writing.
+16,81,ai,...|     |       |       |       | | 01  | **ai**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The notation 'ai' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
+17,81,aii,...|     | 1     | 1     |       | |     | **aii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The notation 'aii' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
+18,81,di,...|     | 1     | 1     |       | |     | **di**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The notation 'di' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
+19,81,dii,...|     | 1     | 1     |       | |     | **dii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The notation 'dii' is a standard shorthand for question sub-parts in WJEC exam documents and tables.
+20,81,bii,...|     | 1     | 1     |       | |     | **bii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+21,81,biii,...|     | 1     | 1     |       | |     | **biii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+22,81,ci,...|     | 1     | 1     |       | |     | **ci**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+23,82,cii,...-------------------------------  |    | **cii**             |                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+24,82,ai,...         |  |    |    |    |   | | 7  | **ai**              |                         ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+25,82,aii,...         |  |    | 1  | 1  |   | |    | **aii**             |                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+26,82,bii,...         |  |    | 1  | 1  |   | |    | **bii**             |                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+27,82,ai,...         |  |    |    |    |   | | 10 | **ai**              |                         ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+28,82,aii,...         |  |    | 1  | 1  |   | |    | **aii**             |                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+29,82,bii,...         |  |    | 1  | 1  |   | |    | **bii**             |                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a question identifier in a table, not a word requiring correction."
+30,84,ai,...--|--|--|----|----|----|---| | 13     | **ai**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'a' sub-part 'i') and is correct in this educational context.
+31,84,aii,...  |  |  |    | 1  | 1  |   | |        | **aii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'a' sub-part 'ii') and is correct in this educational context.
+32,84,bii,...  |  |  |    | 1  | 1  |   | |        | **bii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'b' sub-part 'ii') and is correct in this educational context.
+33,84,bii,...  |  |  |    | 1  | 1  |   | |        | **bii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'b' sub-part 'ii') and is correct in this educational context.
+34,84,ei,...  |  |  |    | 2  | 2  |   | |        | **ei**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'e' sub-part 'i') and is correct in this educational context.
+35,84,eii,...  |  |  |    | 1  | 1  |   | |        | **eii**                                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a standard question numbering format (part 'e' sub-part 'ii') and is correct in this educational context.
 36,84,eii,...  |  |  |    | 1  | 1  |   | |        | eii                                        ...,,ErrorCategory.FALSE_POSITIVE,100,"The text 'eii' is a correct sub-question identifier within a table, not a spelling error."

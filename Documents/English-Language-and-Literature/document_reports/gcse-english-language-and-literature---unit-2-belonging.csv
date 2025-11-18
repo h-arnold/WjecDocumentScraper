@@ -1,12 +1,12 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The term 'self-belonging' should be hyphenated as consistently used in the document's heading and is the standard form for this compound noun.
-1,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often considered verbose; 'outside' is more concise and equally clear in formal writing.
-2,,,,,FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
-3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma before 'and' would improve clarity when joining two distinct interrogative clauses, though its omission does not create significant ambiguity."
-4,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often considered verbose; 'outside' is more concise and equally clear in formal writing.
-5,,,,,FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
-6,,,,,FALSE_POSITIVE,95,"'Coversheet' is an accepted single-word compound noun in UK English, commonly used in administrative contexts."
-7,,,,,FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
-8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.
-9,,,,,FALSE_POSITIVE,90,'Independently from' is a grammatically correct and acceptable phrasing in this context.
-10,,,,,FALSE_POSITIVE,100,'YY' is a standard and correct abbreviation for 'Year' in the context of a date format (DD/MM/YY) within a table header.
+0,5,selfbelonging,...crooge's character reflect the theme of **selfbelonging** in *A Christmas Carol*.  Or  #### **2. ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The term 'self-belonging' should be hyphenated as consistently used in the document's heading and is the standard form for this compound noun.
+1,5,outside of,...ch and planning work related to the NEA **outside of** the centre.  {6}-----------------------...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often considered verbose; 'outside' is more concise and equally clear in formal writing.
+2,8,audio-visual,...aid down by WJEC.  Centres must make an **audio-visual** recording of all presentations.  Learne...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
+3,10,and,...n affects people in 21st Century Britain** and** what can we do to combat this?  #### *P...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma before 'and' would improve clarity when joining two distinct interrogative clauses, though its omission does not create significant ambiguity."
+4,10,outside of,...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often considered verbose; 'outside' is more concise and equally clear in formal writing.
+5,12,audio-visual,"...on, the teacher should: <ul><li>make an **audio-visual** recording of the presentation</li><li>g...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
+6,12,coversheet,...warded should be completed on each unit **coversheet**.  The assessment of Task A (essay) must...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'Coversheet' is an accepted single-word compound noun in UK English, commonly used in administrative contexts."
+7,13,audio-visual,... of the response or by listening to the **audio-visual** recording at a later time. Teachers sho...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is a correctly hyphenated compound adjective and is standard UK English.
+8,18,but,...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> |  ...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.
+9,26,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'Independently from' is a grammatically correct and acceptable phrasing in this context.
+10,29,YY,...      |  | DD    | MM                 | **YY**           |       | Hour  |  | Minutes ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'YY' is a standard and correct abbreviation for 'Year' in the context of a date format (DD/MM/YY) within a table header.

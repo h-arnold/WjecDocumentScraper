@@ -1,21 +1,21 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,The compound adjective 'pre-released' should be hyphenated in UK English for consistency and standard usage.
-1,,,,,PARSING_ERROR,100,"The word 'working' is repeated unnecessarily, indicating a parsing or transcription error."
-2,,,,,PARSING_ERROR,100,"The word 'characteristics' is repeated unnecessarily, indicating a parsing or transcription error."
-3,,,,,SPELLING_ERROR,100,"'pH' is a scientific abbreviation and should be capitalised correctly as 'pH', without a trailing full stop."
-4,,,,,FALSE_POSITIVE,90,'Vitamin C' is the correct capitalisation for the specific vitamin in scientific and nutritional contexts.
-5,,,,,SPELLING_ERROR,100,'Munsell' is a proper noun referring to the Munsell colour system and should be capitalised.
-6,,,,,SPELLING_ERROR,100,'Quiche Lorraine' is a proper noun and should be capitalised as it refers to a specific dish from a region.
-7,,,,,FALSE_POSITIVE,95,"The hyphen is correctly used as a bullet point in a list, and 'gelation' is correctly spelled."
-8,,,,,SPELLING_ERROR,100,"'pH' is a scientific abbreviation and should be capitalised correctly as 'pH', without a trailing full stop."
-9,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The verb phrase 'will help guiding' is grammatically incorrect; it should be 'will help to guide' or 'will help guide'.
-10,,,,,STYLISTIC_PREFERENCE,80,"While 'key words' is grammatically acceptable, 'keywords' is the more common and preferred compound noun in educational contexts."
-11,,,,,STYLISTIC_PREFERENCE,85,'Handwashing' as a single compound noun is the more common and preferred spelling in hygiene contexts in UK English.
-12,,,,,STYLISTIC_PREFERENCE,80,"'Cost-effective' is generally hyphenated as a compound adjective for clarity, even in a predicate position."
-13,,,,,STYLISTIC_PREFERENCE,75,'Step-by-step' is typically hyphenated when used as a compound adjective or adverbial phrase describing a process in formal writing.
-14,,,,,FALSE_POSITIVE,95,'Well used' is correctly written as two words when it functions as a predicate adjective following a verb like 'are'.
-15,,,,,STYLISTIC_PREFERENCE,85,"A comma before 'and' is advisable when it connects two independent clauses, especially when the second clause is lengthy, to improve readability."
-16,,,,,SPELLING_ERROR,100,'Google Drive' is a proper noun and should be capitalized as per standard English conventions.
-17,,,,,SPELLING_ERROR,100,'YouTube' is a proper noun and should be capitalized as per standard English conventions.
-18,,,,,STYLISTIC_PREFERENCE,90,'Website' is the standard and preferred single-word spelling in modern UK English.
-19,,,,,PARSING_ERROR,95,'Co-ordinating' should be hyphenated in UK English as per standard orthography.
+0,4,prereleased,...year. Centres can choose one of the two **prereleased** briefs they would like learners to comp...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'pre-released' should be hyphenated in UK English for consistency and standard usage.
+1,5,working working,... The Learners should understand how the **working working** characteristics of ingredients contribu...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'working' is repeated unnecessarily, indicating a parsing or transcription error."
+2,5,characteristics,...istics of ingredients contribute to the **characteristics** success of a recipe. of ingredients in ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'characteristics' is repeated unnecessarily, indicating a parsing or transcription error."
+3,5,ph,"...s could investigate how wheat, salt and **ph**. can influence the outcome of recipes b...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"'pH' is a scientific abbreviation and should be capitalised correctly as 'pH', without a trailing full stop."
+4,5,Vitamin C,...r steaming to retain colour and maximum **Vitamin C**.</li><li>Learners could use a munsel ch...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'Vitamin C' is the correct capitalisation for the specific vitamin in scientific and nutritional contexts.
+5,5,munsel,"...Vitamin C.</li><li>Learners could use a **munsel** chart as a resource, to measure the out...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Munsell' is a proper noun referring to the Munsell colour system and should be capitalised.
+6,6,lorraine,"...when making an egg custard tart, quiche **lorraine**. Create charts of the cooking process, ...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Quiche Lorraine' is a proper noun and should be capitalised as it refers to a specific dish from a region.
+7,8,- gelation,... and mechanical action - foam formation **- gelation** - gluten formation - Maillard reaction ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The hyphen is correctly used as a bullet point in a list, and 'gelation' is correctly spelled."
+8,8,ph,"...erminology by explaining terms, such as **ph**. and acidity and how the chemical prope...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"'pH' is a scientific abbreviation and should be capitalised correctly as 'pH', without a trailing full stop."
+9,11,guiding,"...tanding the type of variables will help **guiding** through the process: independent, depen...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The verb phrase 'will help guiding' is grammatically incorrect; it should be 'will help to guide' or 'will help guide'.
+10,13,key words,...Learners create their own word banks of **key words** to use in task.  Demonstrate sensory te...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'key words' is grammatically acceptable, 'keywords' is the more common and preferred compound noun in educational contexts."
+11,14,hand washing,... Key discussion topics include: <ul><li>**hand washing**</li><li>cleanliness</li><li>danger zone...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Handwashing' as a single compound noun is the more common and preferred spelling in hygiene contexts in UK English.
+12,19,cost effective,"...ormed choices. Encourage Learners to be **cost effective**, by buying in season goods and use loca...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Cost-effective' is generally hyphenated as a compound adjective for clarity, even in a predicate position."
+13,21,step by step,"...choices in an experiment, communicating **step by step** procedures to team members of a group o...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,75,'Step-by-step' is typically hyphenated when used as a compound adjective or adverbial phrase describing a process in formal writing.
+14,24,well used,...t to Learners because digital tools are **well used** within the food industry and it enables...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Well used' is correctly written as two words when it functions as a predicate adjective following a verb like 'are'.
+15,24,and,...s are well used within the food industry** and** it enables learners with strong digital...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"A comma before 'and' is advisable when it connects two independent clauses, especially when the second clause is lengthy, to improve readability."
+16,24,google drive,...ngs whilst using digital tools. | Using **google drive** to store and gather information such as...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Google Drive' is a proper noun and should be capitalized as per standard English conventions.
+17,24,youtube,"...ing ideas. Use of online platforms like **youtube**, where learners can learn from experts ...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'YouTube' is a proper noun and should be capitalized as per standard English conventions.
+18,24,web sites,...                               | Online **web sites** from reliable sources such as the NHS. ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,'Website' is the standard and preferred single-word spelling in modern UK English.
+19,27,co ordinating,".... Time management of experimental work, **co ordinating** multiple variables, track progress and ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Co-ordinating' should be hyphenated in UK English as per standard orthography.

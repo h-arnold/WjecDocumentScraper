@@ -1,10 +1,10 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,The compound adjective 'step-wise' should be hyphenated.
-1,,,,,FALSE_POSITIVE,100,The phrase 'pair of rising 3rds' is grammatically correct and idiomatic.
-2,,,,,PARSING_ERROR,90,The compound noun 'mid-range' should be hyphenated.
-3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity by separating two independent clauses.
-4,,,,,PARSING_ERROR,95,The musical instrument 'tam-tam' should be hyphenated.
-5,,,,,SPELLING_ERROR,100,The correct spelling for the musical instrument is 'bassoon'.
-6,,,,,PARSING_ERROR,95,The compound adjective 'on-screen' should be hyphenated.
-7,,,,,PARSING_ERROR,95,There is an extraneous space between the closing single quote and the word 'screen'.
-8,,,,,PARSING_ERROR,95,There is an extraneous space between the closing single quote and the word 'screen'.
+0,8,step wise,...e list below: <ul><li>mostly conjunct / **step wise** movement</li><li>semi quaver pattern ph...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'step-wise' should be hyphenated.
+1,11,pair of,... 5th</li><li>bar 5 bar 6 rising 4th and **pair of** rising 3rds /broken</li><li>second inve...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'pair of rising 3rds' is grammatically correct and idiomatic.
+2,18,mid range,...>piano accompaniment gradually rises to **mid range** (treble clef) with harp added with sust...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The compound noun 'mid-range' should be hyphenated.
+3,18,and,...gh line 13</li><li>Line 13 strings added** and** accompaniment pattern chords are fuller...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity by separating two independent clauses.
+4,27,tam tam,...ortant. - Use of timpani adds drama and **tam tam**. - Instruments are quite dark in timbre...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The musical instrument 'tam-tam' should be hyphenated.
+5,27,Basoon,"..., clarinet, bass clarinet, Cor Anglais, **Basoon**. - Flutes (piccolo later), horns and tr...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The correct spelling for the musical instrument is 'bassoon'.
+6,35,onscreen,...te User Guide for candidates completing **onscreen** assessments. The Surpass software will ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'on-screen' should be hyphenated.
+7,35,',...7 days before the date of the exam. The **'**Home 'screen of Surpass will contain inf...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,There is an extraneous space between the closing single quote and the word 'screen'.
+8,35,',... before the date of the exam. The 'Home **'**screen of Surpass will contain informati...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,There is an extraneous space between the closing single quote and the word 'screen'.

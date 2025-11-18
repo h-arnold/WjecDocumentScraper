@@ -1,2 +1,2 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,95,GCSF is not a standard or clear abbreviation for 'GCSE Food and Nutrition' and should be replaced with the full subject title for clarity in a formal document.
+0,0,GCSF,...-------------------------  # WHY CHOOSE **GCSF**  # FOOD AND NUTRITION  ![](_page_0_Pict...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,GCSF is not a standard or clear abbreviation for 'GCSE Food and Nutrition' and should be replaced with the full subject title for clarity in a formal document.

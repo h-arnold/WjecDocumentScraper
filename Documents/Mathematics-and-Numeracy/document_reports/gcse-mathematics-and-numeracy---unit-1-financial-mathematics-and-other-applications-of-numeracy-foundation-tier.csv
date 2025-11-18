@@ -1,9 +1,9 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions and should not be flagged as an error.
-1,,,,,FALSE_POSITIVE,100,`h$$` is the correct closing for a LaTeX display math environment and should not be flagged as an error.
-2,,,,,PARSING_ERROR,95,The compound noun 'cross-section' should be hyphenated in this mathematical context.
-3,,,,,FALSE_POSITIVE,90,The word 'award' is correctly lowercased as it continues a list of options within the same sentence.
-4,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'but' is a stylistic choice when connecting two independent clauses, and its omission here does not cause ambiguity."
-5,,,,,PARSING_ERROR,90,The HTML entity `&#x27;` is a parsing artifact that should ideally be represented as a standard single quote.
-6,,,,,PARSING_ERROR,90,The HTML entity `&#x27;` is a parsing artifact that should ideally be represented as a standard single quote.
-7,,,,,SPELLING_ERROR,95,"'OCW' is an acronym for 'Organisation, Communication and Written accuracy' in WJEC mark schemes and should be capitalised."
+0,4,frac,...ation Tier**  Area of a trapezium =  $$\**frac**{1}{2}(a+b)h$$  ![](_page_4_Picture_2.jp...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions and should not be flagged as an error.
+1,4,h$$,...rea of a trapezium =  $$\frac{1}{2}(a+b)**h$$**  ![](_page_4_Picture_2.jpeg)  #### **Vo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`h$$` is the correct closing for a LaTeX display math environment and should not be flagged as an error.
+2,4,cross section,"...g. Prism, Cylinder)**  Volume = area of **cross section** length  ![](_page_4_Picture_5.jpeg)  {5...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound noun 'cross-section' should be hyphenated in this mathematical context.
+3,22,award,...49 selected Award B2 for 30 selected or **award** B1 for 24 selected | |  |  |  | Penalis...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The word 'award' is correctly lowercased as it continues a list of options within the same sentence.
+4,24,but,... double the width for the medium shampoo** but** the heights are the same' 'Not all bars...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"A comma before 'but' is a stylistic choice when connecting two independent clauses, and its omission here does not cause ambiguity."
+5,25,',"...time frame e.g. per day, per week etc', **'**Groups are not continuous e.g. no group ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The HTML entity `&#x27;` is a parsing artifact that should ideally be represented as a standard single quote.
+6,25,',...E1 for 1 correct statement |  |  |  | | **'**No group if you exercise for more than 7...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The HTML entity `&#x27;` is a parsing artifact that should ideally be represented as a standard single quote.
+7,28,ocw,... | Common Qn (HT) | Common marks (HT) | **ocw** | |----|-------------------------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"'OCW' is an acronym for 'Organisation, Communication and Written accuracy' in WJEC mark schemes and should be capitalised."

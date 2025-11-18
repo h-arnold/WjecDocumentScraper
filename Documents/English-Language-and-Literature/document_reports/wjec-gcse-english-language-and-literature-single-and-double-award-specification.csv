@@ -1,21 +1,21 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INTE' and 'RODUCTION' due to a parsing error.
-1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INTE' and 'RODUCTION' due to a parsing error.
-2,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split into 'SUE' and 'JECT' due to a parsing error.
-3,,,,,PARSING_ERROR,100,The word 'Integration' has been incorrectly split into 'Inte' and 'gration' due to a parsing error.
-4,,,,,PARSING_ERROR,100,The word 'Integration' has been incorrectly split into 'Inte' and 'gration' due to a parsing error.
-5,,,,,PARSING_ERROR,100,The word 'Opportunities' is missing its initial 'Opp' due to a parsing error.
-6,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split into 'ASS' and 'ESSMENT' due to a parsing error.
-7,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split into 'TEC' and 'HNICAL' due to a parsing error.
-8,,,,,PARSING_ERROR,100,"The word 'Appendix' has been incorrectly rendered as 'Apı' due to a parsing error, likely an OCR misinterpretation of 'pp'."
-9,,,,,PARSING_ERROR,100,"The word 'Appendix' has been incorrectly split, with 'pendi' being part of the parsing error that rendered the first part as 'Apı'."
-10,,,,,FALSE_POSITIVE,95,"The demonstrative pronoun 'This' correctly refers to the preceding clause, making the sentence grammatically sound."
-11,,,,,FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
-12,,,,,FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
-13,,,,,FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
-14,,,,,PARSING_ERROR,100,"'Non-fiction' should be hyphenated as a compound adjective in UK English, indicating a parsing error where the hyphen was lost."
-15,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
-16,,,,,FALSE_POSITIVE,100,The verb 'requires' correctly agrees with the singular subject 'Task A'.
-17,,,,,FALSE_POSITIVE,100,The verb 'requires' correctly agrees with the singular subject 'Task A'.
-18,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
-19,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'in' ('cashed in in') is a grammatical error; one 'in' is redundant.
+0,4,INTE,...-------------------------|----| | 1.  | **INTE**  | RODUCTION                           ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INTE' and 'RODUCTION' due to a parsing error.
+1,4,RODUCTION,...-----------------|----| | 1.  | INTE  | **RODUCTION**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INTE' and 'RODUCTION' due to a parsing error.
+2,4,JECT,...                 | 10 | | 2   | SUE   | **JECT** CONTENT                                ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split into 'SUE' and 'JECT' due to a parsing error.
+3,4,Inte,...                         | 11 | |     | **Inte**  | gration of Language and Literature  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Integration' has been incorrectly split into 'Inte' and 'gration' due to a parsing error.
+4,4,gration,...                 | 11 | |     | Inte  | **gration** of Language and Literature             ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Integration' has been incorrectly split into 'Inte' and 'gration' due to a parsing error.
+5,4,ortunities,...                 | 28 | |     |       | **ortunities** for integration of learning experiences...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Opportunities' is missing its initial 'Opp' due to a parsing error.
+6,4,ESSMENT,...experiences      |    | | 3   | ASS   | **ESSMENT**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split into 'ASS' and 'ESSMENT' due to a parsing error.
+7,4,HNICAL,...                 | 37 | | 5   | TEC   | **HNICAL** INFORMATION                            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split into 'TEC' and 'HNICAL' due to a parsing error.
+8,4,Apı,...orting                         | 41 | | **Apı** | pendi | x A                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Appendix' has been incorrectly rendered as 'Apı' due to a parsing error, likely an OCR misinterpretation of 'pp'."
+9,4,pendi,...                         | 41 | | Apı | **pendi** | x A                                  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Appendix' has been incorrectly split, with 'pendi' being part of the parsing error that rendered the first part as 'Apı'."
+10,11,This,...oth linguistic and literary approaches. **This** makes clear the intention that learners...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The demonstrative pronoun 'This' correctly refers to the preceding clause, making the sentence grammatically sound."
+11,13,th,...mented by additional poems from the 19****th**** and 20**th** centuries - 1.2 respond ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
+12,13,th,...itional poems from the 19**th** and 20****th**** centuries - 1.2 respond to linked poe...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
+13,13,th,... additional poems from the 19th and 20****th**** centuries Poems for Unit 1 in the **W...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'th' is correctly used as an ordinal indicator for '19th' and '20th' and is not an error.
+14,28,non fiction,...| | 6.1 Study a prescribed anthology of **non fiction** writing provided by WJEC | The WJEC Non...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Non-fiction' should be hyphenated as a compound adjective in UK English, indicating a parsing error where the hyphen was lost."
+15,31,audio-visual,...ons of texts studied and other relevant **audio-visual** material - develop cross-curricular ski...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
+16,35,requires,...nutes to complete.  #### Task A  Task A **requires** learners to participate in a group disc...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The verb 'requires' correctly agrees with the singular subject 'Task A'.
+17,36,requires,...hours to complete.  #### Task A  Task A **requires** learners to complete an extended respon...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The verb 'requires' correctly agrees with the singular subject 'Task A'.
+18,36,audio-visual,...on is 5-8 minutes. Centres must make an **audio-visual** recording of all paired discussions.  T...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
+19,39,in in,...sup>\*</sup> Candidates who have cashed **in in** the summer year 11 but aren't 16 when t...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'in' ('cashed in in') is a grammatical error; one 'in' is redundant.

@@ -1,18 +1,18 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
-1,,,,,PARSING_ERROR,100,"""Technology-based"" should be hyphenated as a compound adjective."
-2,,,,,STYLISTIC_PREFERENCE,70,"""As to whether"" is grammatically correct but can be made more concise by using ""whether"" alone."
-3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
-4,,,,,SPELLING_ERROR,95,"The preferred and more common spelling for the noun is ""beatbox"" (one word, no hyphen)."
-5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve clarity when joining two independent clauses.
-6,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'but' is standard practice when joining two independent clauses.
-7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"""Themself"" is a non-standard reflexive pronoun; the correct form for a singular 'learner' using 'they/them' is 'themselves'."
-8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The comma is incorrectly placed inside the closing parenthesis; it should be outside if required by the sentence structure, or removed if not."
-9,,,,,PARSING_ERROR,100,"""12th"" should be written without a space between the number and the ordinal suffix."
-10,,,,,FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
-11,,,,,FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
-12,,,,,FALSE_POSITIVE,90,The parenthesis is correctly used as part of the notation to clarify the meaning of 'T' in the context of beat-boxing sounds.
-13,,,,,FALSE_POSITIVE,95,"'Zipper' is a specific, recognised technical term for a beat-boxing sound."
-14,,,,,PARSING_ERROR,100,"The sentence ""A score or equivalent has been understand"" is grammatically incorrect due to a likely parsing error where text from an adjacent column was merged, creating a nonsensical phrase."
-15,,,,,FALSE_POSITIVE,90,"The word 'and' is used correctly as a conjunction in the sentence, connecting two parts of a compound statement."
-16,,,,,STYLISTIC_PREFERENCE,70,"While ""outside of"" is grammatically acceptable, ""outside"" is often preferred in formal writing for conciseness."
+0,7,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
+1,8,Technologybased,...nology-based performance for this unit. **Technologybased** performances include:  - DJ-ing - 'push...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"""Technology-based"" should be hyphenated as a compound adjective."
+2,8,as to whether,"...hnology-based formats.  If in any doubt **as to whether** the form chosen is appropriate, please ...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"""As to whether"" is grammatically correct but can be made more concise by using ""whether"" alone."
+3,9,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
+4,9,beat-box,"...nd chords on a lead sheet (for example, **beat-box**, DJ, or rap), centres must provide appr...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The preferred and more common spelling for the noun is ""beatbox"" (one word, no hyphen)."
+5,24,or,...mance are not covered in the lists below** or** they are in doubt about the standard of...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve clarity when joining two independent clauses.
+6,25,but,...e not restricted to one instrument/voice** but** there is no advantage to performing on ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'but' is standard practice when joining two independent clauses.
+7,25,themself,"...only, or both. If a learner accompanies **themself** and chooses to be assessed on the whole...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"""Themself"" is a non-standard reflexive pronoun; the correct form for a singular 'learner' using 'they/them' is 'themselves'."
+8,29,"f,)","...amics changes are more refined (p.mp,mf,**f,)** and include crescendo and diminuendo</l...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The comma is incorrectly placed inside the closing parenthesis; it should be outside if required by the sentence structure, or removed if not."
+9,29,12 th,...in articulation</li><li>a range up to a **12 th**</li></ul> | |--------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"""12th"" should be written without a space between the number and the ordinal suffix."
+10,31,eq,...e and with different BPM</li><li>use of **eq**/fx or basic scratching</li><li>use of p...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
+11,31,eq,... within different genres</li><li>use of **eq**/fx and appropriate turntablism techniqu...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
+12,32,(,"... only – B (kick drum), K (snare drum), T**(**hi hat), Tss (open hi-hat), Ch (cymbals)...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The parenthesis is correctly used as part of the notation to clarify the meaning of 'T' in the context of beat-boxing sounds.
+13,32,zipper,"...D throat bass, inward bass, click roll, **zipper**, siren, lip roll, water drop, throat ta...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'Zipper' is a specific, recognised technical term for a beat-boxing sound."
+14,45,understand,...resence. A score or equivalent has been **understand** that false declaration is a form of mal...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The sentence ""A score or equivalent has been understand"" is grammatically incorrect due to a likely parsing error where text from an adjacent column was merged, creating a nonsensical phrase."
+15,49,and,...ts to complete Over 13**  • I am over 13** and** I give permission for my film/photograp...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The word 'and' is used correctly as a conjunction in the sentence, connecting two parts of a compound statement."
+16,51,outside of,...-------| | None | Work may be completed **outside of** the centre without direct supervision. ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While ""outside of"" is grammatically acceptable, ""outside"" is often preferred in formal writing for conciseness."

@@ -1,209 +1,209 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,The compound adjective 'multi-step' is correctly hyphenated in the provided text.
-1,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma should precede 'and' when it connects two independent clauses to improve clarity in formal writing.
-2,,,,,FALSE_POSITIVE,100,'Jacob's' is correctly used as a possessive noun.
-3,,,,,FALSE_POSITIVE,100,The comma is correctly used to separate the introductory participial phrase 'applied to y = f(x)' from the preceding list.
-4,,,,,PARSING_ERROR,95,The word 'Number' has been incorrectly split across table cells due to a parsing error.
-5,,,,,FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
-6,,,,,FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
-7,,,,,FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
-8,,,,,PARSING_ERROR,95,"The LaTeX command '\frac' has been incorrectly parsed, appearing as 'frac'."
-9,,,,,PARSING_ERROR,95,"The LaTeX command '\frac' has been incorrectly parsed, appearing as 'frac'."
-10,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{2}{3}` and is not an error.
-11,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{1}{2}` and is not an error.
-12,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{1}{9}` and is not an error.
-13,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{25}{16}` and is not an error.
-14,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{3}{2}` and is not an error.
-15,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{64}{125}` and is not an error.
-16,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{6^{31} \times 6^5}{6^{34}}` and is not an error.
-17,,,,,PARSING_ERROR,95,The word 'Fractions' has been incorrectly split across two table cells during markdown conversion.
-18,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{8}{25}` and is not an error.
-19,,,,,FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{32}{100}` and is not an error.
-20,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-21,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-22,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-23,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-24,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-25,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-26,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-27,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-28,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-29,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
-30,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-31,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-32,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-33,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-34,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-35,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-36,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-37,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-38,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-39,,,,,FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-40,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
-41,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
-42,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
-43,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
-44,,,,,PARSING_ERROR,95,The text `the same rate.'` is a fragment resulting from a parsing error where a sentence was split across table cells.
-45,,,,,PARSING_ERROR,95,"The quoted text is incomplete, indicating a parsing error where the sentence was truncated or split across table cells."
-46,,,,,PARSING_ERROR,100,"The word fragment 'nt' is a result of a severe parsing error, likely intended to be part of 'amount'."
-47,,,,,PARSING_ERROR,100,"The merged word 'montheeded' is a result of a severe parsing error, likely intended to be 'month needed'."
-48,,,,,PARSING_ERROR,100,"The word fragment 'Iy' is a result of a severe parsing error, likely intended to be part of 'interest'."
-49,,,,,PARSING_ERROR,100,"The isolated 'a' is part of a severely garbled phrase, indicating a parsing error."
-50,,,,,PARSING_ERROR,100,The word 'onthly' is a parsing error and should be 'monthly'.
-51,,,,,PARSING_ERROR,90,"The word 'save' appears to be a parsing error within a garbled sentence, likely intended to be 'saved' or part of a different phrase."
-52,,,,,PARSING_ERROR,100,The word 'nly' is a parsing error and should be 'only'.
-53,,,,,PARSING_ERROR,100,"The word 'nt' is a parsing error within a garbled sentence, likely part of a longer word like 'amount'."
-54,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"The phrase '√2 fraction' is not standard mathematical terminology and could be rephrased for clarity, such as 'a fraction involving √2'."
-55,,,,,FALSE_POSITIVE,100,The letter 'a' is correctly used as a mathematical variable in this context.
-56,,,,,PARSING_ERROR,100,The word 'Strano' is a parsing error and should be 'Strand'.
-57,,,,,PARSING_ERROR,100,The word 'Alç' is a parsing error and should be 'Algebraic'.
-58,,,,,PARSING_ERROR,100,"The word 'gebraic' is a parsing error, forming part of the corrupted word 'Algebraic' with the preceding 'Alç'."
-59,,,,,FALSE_POSITIVE,100,The mathematical notation '$ab$' is correctly used to represent 'a multiplied by b'.
-60,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
-61,,,,,FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression delimited by `$` and is correct as written.
-62,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
-63,,,,,FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
-64,,,,,FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
-65,,,,,FALSE_POSITIVE,100,The highlighted text `$y$` is a complete mathematical expression delimited by `$` and is correct as written.
-66,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
-67,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
-68,,,,,FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
-69,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
-70,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-71,,,,,FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-72,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-73,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-74,,,,,FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-75,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is a correct LaTeX command for fractions within a mathematical expression.
-76,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-77,,,,,FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
-78,,,,,FALSE_POSITIVE,100,"The word 'terms' is used correctly in the context 'definitions of the terms equation, expression and formula'."
-79,,,,,FALSE_POSITIVE,100,The highlighted text `$a$` is a mathematical variable correctly formatted with LaTeX delimiters.
-80,,,,,FALSE_POSITIVE,100,The mathematical variable '$b$' is correctly formatted within LaTeX math mode and is not an error.
-81,,,,,FALSE_POSITIVE,100,The mathematical variable '$x$' is correctly formatted within LaTeX math mode and is not an error.
-82,,,,,FALSE_POSITIVE,100,The mathematical variable '$a$' is correctly formatted within LaTeX math mode and is not an error.
-83,,,,,FALSE_POSITIVE,100,The mathematical variable '$b$' is correctly formatted within LaTeX math mode and is not an error.
-84,,,,,FALSE_POSITIVE,100,The mathematical variable '$t$' is correctly formatted within LaTeX math mode and is not an error.
-85,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly formatted within LaTeX math mode and is not an error.
-86,,,,,FALSE_POSITIVE,100,The mathematical variable '$k$' is correctly formatted within LaTeX math mode and is not an error.
-87,,,,,FALSE_POSITIVE,100,"The string 'frac' is part of the LaTeX command '\frac' for fractions, which is correctly used in math mode."
-88,,,,,FALSE_POSITIVE,100,"The string 'qquad' is part of the LaTeX command '\qquad' for horizontal spacing, which is correctly used in math mode."
-89,,,,,FALSE_POSITIVE,100,"The string 'frac' is part of the LaTeX command '\frac' for fractions, which is correctly used in math mode."
-90,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-91,,,,,FALSE_POSITIVE,100,"`qquad` is a LaTeX command for horizontal spacing, correctly used within a mathematical expression."
-92,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-93,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-94,,,,,FALSE_POSITIVE,100,"`qquad` is a LaTeX command for horizontal spacing, correctly used within a mathematical expression."
-95,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-96,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-97,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-98,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-99,,,,,FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
-100,,,,,FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
-101,,,,,FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
-102,,,,,FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
-103,,,,,FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
-104,,,,,FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
-105,,,,,PARSING_ERROR,95,"The extra space before 'and' is likely a parsing artifact from the markdown conversion, as the original phrase 'linear and the other' is grammatically correct."
-106,,,,,FALSE_POSITIVE,100,`$nx$` is a correctly formatted mathematical expression in LaTeX and should not be flagged as an error.
-107,,,,,FALSE_POSITIVE,100,`$n$` is a correctly formatted mathematical variable in LaTeX and should not be flagged as an error.
-108,,,,,FALSE_POSITIVE,100,`$x$` is part of a correctly formatted mathematical expression `$x^2$` in LaTeX and should not be flagged as an error.
-109,,,,,FALSE_POSITIVE,100,`$ax$` is part of a correctly formatted mathematical expression `$ax^2$` in LaTeX and should not be flagged as an error.
-110,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-111,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-112,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-113,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-114,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable followed by a LaTeX closing delimiter, not a spelling error."
-115,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-116,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-117,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
-118,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable followed by a LaTeX closing delimiter, not a spelling error."
-119,,,,,FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
-120,,,,,FALSE_POSITIVE,100,"The '$x$' is correctly formatted LaTeX for a mathematical variable, not a spelling error."
-121,,,,,FALSE_POSITIVE,100,The '$a' is the start of a correctly formatted LaTeX mathematical expression.
-122,,,,,FALSE_POSITIVE,100,The '\frac' is a correct LaTeX command for fractions within a mathematical expression.
-123,,,,,FALSE_POSITIVE,100,The 'c$' is the end of a correctly formatted LaTeX mathematical expression.
-124,,,,,FALSE_POSITIVE,100,The '$d' is the start of a correctly formatted LaTeX mathematical expression.
-125,,,,,FALSE_POSITIVE,100,The '\frac' is a correct LaTeX command for fractions within a mathematical expression.
-126,,,,,FALSE_POSITIVE,100,The '$k' is the start of a correctly formatted LaTeX mathematical expression.
-127,,,,,FALSE_POSITIVE,100,The '$n' is the start of a correctly formatted LaTeX mathematical expression.
-128,,,,,FALSE_POSITIVE,100,The '$p' is the start of a correctly formatted LaTeX mathematical expression.
-129,,,,,FALSE_POSITIVE,100,The '$A' is the start of a correctly formatted LaTeX mathematical expression.
-130,,,,,FALSE_POSITIVE,100,The highlighted text `$h` is a correct mathematical variable within LaTeX inline math mode.
-131,,,,,FALSE_POSITIVE,100,The highlighted text `$z` is a correct mathematical variable within LaTeX inline math mode.
-132,,,,,FALSE_POSITIVE,100,The highlighted text `$k` is a correct mathematical variable within LaTeX inline math mode.
-133,,,,,PARSING_ERROR,95,The highlighted text `d$` is a parsing error; it should be `$d$` to correctly represent a mathematical variable.
-134,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-135,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-136,,,,,PARSING_ERROR,95,The highlighted text `c$` is a parsing error; it should be `$c$` to correctly represent a mathematical variable.
-137,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-138,,,,,PARSING_ERROR,95,The highlighted text `s$` is a parsing error; it should be `$s$` to correctly represent a mathematical variable.
-139,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
-140,,,,,PARSING_ERROR,95,"The mathematical variable '$n$' is correctly formatted, but its separation from 'th' in '$n$ th term' is a parsing error; it should be 'nth term' or '$n$-th term'."
-141,,,,,PARSING_ERROR,95,"The 'th' suffix is incorrectly separated from '$n$' in '$n$ th term', indicating a parsing error where a hyphen or correct compound word formation is missing."
-142,,,,,PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-143,,,,,PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-144,,,,,PARSING_ERROR,95,"The mathematical variable '$n$' is correctly formatted, but its separation from 'th' in '$n$ th term' is a parsing error; it should be 'nth term' or '$n$-th term'."
-145,,,,,PARSING_ERROR,95,"The 'th' suffix is incorrectly separated from '$n$' in '$n$ th term', indicating a parsing error where a hyphen or correct compound word formation is missing."
-146,,,,,PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-147,,,,,PARSING_ERROR,95,"The highlight 'b$' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-148,,,,,PARSING_ERROR,95,"The highlight '$cn' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-149,,,,,PARSING_ERROR,95,"The highlight 'd$' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
-150,,,,,FALSE_POSITIVE,100,The highlighted text '$a' is a mathematical variable correctly formatted within a LaTeX-like expression.
-151,,,,,FALSE_POSITIVE,100,The highlighted text '$b' is a mathematical variable correctly formatted within a LaTeX-like expression.
-152,,,,,FALSE_POSITIVE,100,The highlighted text '$d' is a mathematical variable correctly formatted within a LaTeX-like expression.
-153,,,,,FALSE_POSITIVE,100,The highlighted text '$x' is a mathematical variable correctly formatted within a LaTeX-like expression.
-154,,,,,FALSE_POSITIVE,100,The highlighted text 'a$' is a mathematical variable correctly formatted within a LaTeX-like expression.
-155,,,,,FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
-156,,,,,FALSE_POSITIVE,100,The highlighted text 'b$' is a mathematical variable correctly formatted within a LaTeX-like expression.
-157,,,,,FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
-158,,,,,FALSE_POSITIVE,100,The highlighted text 'b$' is a mathematical variable correctly formatted within a LaTeX-like expression.
-159,,,,,FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
-160,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-161,,,,,FALSE_POSITIVE,100,The mathematical variable '$x$' is correctly used within a mathematical expression.
-162,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-163,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-164,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-165,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-166,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-167,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-168,,,,,FALSE_POSITIVE,100,"'frac' is part of a correctly formatted LaTeX command '\frac' for fractions, not a standalone word."
-169,,,,,FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
-170,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
-171,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
-172,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
-173,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
-174,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
-175,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
-176,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
-177,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
-178,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
-179,,,,,PARSING_ERROR,95,This appears to be a parsing error or typo; it should likely be 'Strand' to match the table header and content structure.
-180,,,,,PARSING_ERROR,100,The word 'Maps' has been incorrectly split into 'Ma' and 'aps' due to a parsing error.
-181,,,,,PARSING_ERROR,100,The word 'representation' has been incorrectly split due to a parsing error.
-182,,,,,PARSING_ERROR,100,The word 'Angle' has been incorrectly split into 'An' and 'gle' due to a parsing error.
-183,,,,,FALSE_POSITIVE,100,This is part of a correctly formatted LaTeX mathematical expression for an angle.
-184,,,,,FALSE_POSITIVE,100,This is a correctly used LaTeX command within a mathematical expression.
-185,,,,,FALSE_POSITIVE,100,This is part of a correctly formatted LaTeX mathematical expression for an angle.
-186,,,,,FALSE_POSITIVE,100,This is a correctly formatted LaTeX mathematical expression for a line segment.
-187,,,,,FALSE_POSITIVE,90,This is a correct and acceptable mathematical notation for an angle.
-188,,,,,STYLISTIC_PREFERENCE,80,"'Key words' is an acceptable compound noun, although 'keywords' is also common."
-189,,,,,FALSE_POSITIVE,90,This is a correct and acceptable mathematical notation for an angle.
-190,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command for displaying fractions and is not a spelling error.
-191,,,,,PARSING_ERROR,100,The word 'Geometry' has been incorrectly split across table cells due to a parsing error.
-192,,,,,FALSE_POSITIVE,100,`mpg` is a standard and correctly used abbreviation for miles per gallon.
-193,,,,,PARSING_ERROR,100,The word 'Perimeter' has been incorrectly split across table cells due to a parsing error.
-194,,,,,PARSING_ERROR,100,'Right-angled' should be hyphenated as it is a compound adjective modifying 'triangles'.
-195,,,,,PARSING_ERROR,100,`&#x27;` is an HTML entity for a single quote and should be rendered as `'`.
-196,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"While 'dice' is commonly used as both singular and plural, 'die' is the grammatically precise singular form in formal writing."
-197,,,,,FALSE_POSITIVE,100,`mpg` is a standard and correctly used abbreviation for miles per gallon.
-198,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,'Criteria' is a plural noun; the singular form 'criterion' should be used with the indefinite article 'a'.
-199,,,,,FALSE_POSITIVE,100,'Fete' is a correctly spelled English word referring to a public festival or fair.
-200,,,,,STYLISTIC_PREFERENCE,80,The word 'outside' is more concise and generally preferred over 'outside of' in formal writing.
-201,,,,,PARSING_ERROR,95,The compound adjective 'right-angled' requires a hyphen when preceding the noun it modifies.
-202,,,,,PARSING_ERROR,95,The compound noun 'cost-effectiveness' should be hyphenated.
-203,,,,,FALSE_POSITIVE,95,The comma is correctly used to separate items in a list of parallel clauses.
-204,,,,,STYLISTIC_PREFERENCE,85,"While 'semi-circle' is acceptable, 'semicircle' is the more common and often preferred spelling in modern English."
-205,,,,,FALSE_POSITIVE,90,The compound adjective 'multi-step' is correctly hyphenated.
-206,,,,,FALSE_POSITIVE,90,The word 'personal' is correctly used in the phrase 'Key personal and social skills'.
-207,,,,,PARSING_ERROR,95,The compound noun 'self-evaluation' requires a hyphen.
+0,8,multi-step,"...s to solve nonstandard or unstructured, **multi-step** problems fluently</li><li>make decision...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The compound adjective 'multi-step' is correctly hyphenated in the provided text.
+1,9,and,...pected to demonstrate in their responses** and** they are then used in marking the work....,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma should precede 'and' when it connects two independent clauses to improve clarity in formal writing.
+2,9,Jacob's,...st in pence = 15 × number of miles + 50 **Jacob's** grandmother lives 40 miles away from th...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Jacob's' is correctly used as a possessive noun.
+3,10,"a,","...a), y = f(kx), y = kf(x) and y = f(x) + **a,** applied to y = f(x) - constructing usin...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The comma is correctly used to separate the introductory participial phrase 'applied to y = f(x)' from the preceding list.
+4,13,nber,...      |          |  |  |  | | 1.2 Nun | **nber** properties including prime fac         ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Number' has been incorrectly split across table cells due to a parsing error.
+5,13,$n$,...ove number properties.  For example:  • **$n$** represents a whole number. Is $2n + 3$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
+6,13,$n$,"...is an even number.  • For all integers, **$n$** , is $5n - 3$ odd, even, or sometimes o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
+7,13,$n$,"...) - (2n + 7)$ is even for all integers, **$n$** . (Higher tier only.) | <b>√</b> | <b>√...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The character '$n$' represents a mathematical variable and is correctly formatted.
+8,14,frac,...1$</li><li>$2^{-3}$ can be written as $\**frac**{1}{2^3}$ .</li></ul> | ✓ | ✓ | ✓ | | 1....,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The LaTeX command '\frac' has been incorrectly parsed, appearing as 'frac'."
+9,14,frac,... fractional indices | For example: $9^{\**frac**{1}{2}} = 3$ $64^{\frac{2}{3}} = 16$ $81...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The LaTeX command '\frac' has been incorrectly parsed, appearing as 'frac'."
+10,14,frac,...or example: $9^{\frac{1}{2}} = 3$ $64^{\**frac**{2}{3}} = 16$ $81^{-\frac{1}{2}} = \frac...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{2}{3}` and is not an error.
+11,14,frac,...2}} = 3$ $64^{\frac{2}{3}} = 16$ $81^{-\**frac**{1}{2}} = \frac{1}{9}$ $\left(\frac{25}{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{1}{2}` and is not an error.
+12,14,frac,...frac{2}{3}} = 16$ $81^{-\frac{1}{2}} = \**frac**{1}{9}$ $\left(\frac{25}{16}\right)^{-\f...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{1}{9}` and is not an error.
+13,14,frac,...1^{-\frac{1}{2}} = \frac{1}{9}$ $\left(\**frac**{25}{16}\right)^{-\frac{3}{2}} = \frac{6...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{25}{16}` and is not an error.
+14,14,frac,...c{1}{9}$ $\left(\frac{25}{16}\right)^{-\**frac**{3}{2}} = \frac{64}{125}$ |  | ✓ |  |  {...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{3}{2}` and is not an error.
+15,14,frac,...(\frac{25}{16}\right)^{-\frac{3}{2}} = \**frac**{64}{125}$ |  | ✓ |  |  {15}------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{64}{125}` and is not an error.
+16,15,frac,...^5)^4$ as a single power.  • Evaluate $\**frac**{6^{31} \times 6^5}{6^{34}}$ . |  | ✓ | ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{6^{31} \times 6^5}{6^{34}}` and is not an error.
+17,15,tions,"... ✓  | ✓        |  |  |  | | 1.4 Frac  | **tions**, decimals, percentages and             ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Fractions' has been incorrectly split across two table cells during markdown conversion.
+18,16,frac,"...tions and percentages | When ordering $\**frac**{8}{25}$ , 0.3 and 29.5%, if deciding to...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{8}{25}` and is not an error.
+19,16,frac,"...f deciding to convert to percentages, $\**frac**{32}{100}$ and $\frac{30}{100}$ are not ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a correct LaTeX mathematical expression `\frac{32}{100}` and is not an error.
+20,16,frac,"... to percentages, $\frac{32}{100}$ and $\**frac**{30}{100}$ are not enough. 32% and 30% n...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+21,16,frac,"...small as possible. For example:  For $3\**frac**{2}{3}$ , accept $\frac{11}{3}$ but not,...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+22,16,frac,"...example:  For $3\frac{2}{3}$ , accept $\**frac**{11}{3}$ but not, for example, $1\frac{8...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+23,16,frac,"...$\frac{11}{3}$ but not, for example, $1\**frac**{8}{3}$ or $\frac{22}{6}$ or $3\frac{4}{...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+24,16,frac,"...t not, for example, $1\frac{8}{3}$ or $\**frac**{22}{6}$ or $3\frac{4}{6}$ .  Remember t...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+25,16,frac,... $1\frac{8}{3}$ or $\frac{22}{6}$ or $3\**frac**{4}{6}$ .  Remember to simplify improper...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+26,16,frac,"...er fractions or mixed numbers  • For $4\**frac**{1}{2} \times 2\frac{2}{3} = 12$ , do no...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+27,16,frac,"...d numbers  • For $4\frac{1}{2} \times 2\**frac**{2}{3} = 12$ , do not leave the answer a...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+28,16,frac,"...3} = 12$ , do not leave the answer as $\**frac**{72}{6}$ or $\frac{12}{1}$ .  • For $1\f...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+29,16,frac,...leave the answer as $\frac{72}{6}$ or $\**frac**{12}{1}$ .  • For $1\frac{5}{7} + 2\frac...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+30,16,frac,...c{72}{6}$ or $\frac{12}{1}$ .  • For $1\**frac**{5}{7} + 2\frac{11}{14} = 4\frac{1}{2}$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+31,16,frac,...frac{12}{1}$ .  • For $1\frac{5}{7} + 2\**frac**{11}{14} = 4\frac{1}{2}$ or $\frac{9}{2}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+32,16,frac,"... For $1\frac{5}{7} + 2\frac{11}{14} = 4\**frac**{1}{2}$ or $\frac{9}{2}$ , do not leave ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+33,16,frac,"...} + 2\frac{11}{14} = 4\frac{1}{2}$ or $\**frac**{9}{2}$ , do not leave the answer as $3\...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+34,16,frac,"...{9}{2}$ , do not leave the answer as $3\**frac**{21}{14}$ . | <b>✓</b> | <b>✓</b> | <b>✓...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+35,16,frac,...as a fraction of 40 (non-calculator). $\**frac**{32.5}{40} = \frac{65}{80} = \frac{13}{1...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+36,16,frac,...0 (non-calculator). $\frac{32.5}{40} = \**frac**{65}{80} = \frac{13}{16}$ Express 34 as ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+37,16,frac,...r). $\frac{32.5}{40} = \frac{65}{80} = \**frac**{13}{16}$ Express 34 as a percentage of ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+38,16,frac,... as a percentage of 40.   Calculator: $\**frac**{34}{40} \times 100$ Non-calculator: $\f...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+39,16,frac,...c{34}{40} \times 100$ Non-calculator: $\**frac**{34}{40} = \frac{170}{200} = \frac{85}{1...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a false positive; `\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+40,16,frac,... 100$ Non-calculator: $\frac{34}{40} = \**frac**{170}{200} = \frac{85}{100} = 85\%$ or $...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
+41,16,frac,...or: $\frac{34}{40} = \frac{170}{200} = \**frac**{85}{100} = 85\%$ or $\frac{34}{40} \tim...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
+42,16,frac,...170}{200} = \frac{85}{100} = 85\%$ or $\**frac**{34}{40} \times 100\% = \frac{340}{4} = ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
+43,16,frac,...85\%$ or $\frac{34}{40} \times 100\% = \**frac**{340}{4} = 85\%$                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions and is correctly used within mathematical expressions, not a word."
+44,18,',... and inverse proportion | the same rate.**'** |  Water flowing through 8 identical p...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The text `the same rate.'` is a fragment resulting from a parsing error where a sentence was split across table cells.
+45,18,',"... in this question, we could have added, **'**You can assume that all pipes deliver wa...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The quoted text is incomplete, indicating a parsing error where the sentence was truncated or split across table cells."
+46,27,nt,...| than Option A? Answer to (b): £484. | **nt** of each montheeded  Iy interest rate a ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word fragment 'nt' is a result of a severe parsing error, likely intended to be part of 'amount'."
+47,27,montheeded,...on A? Answer to (b): £484. | nt of each **montheeded**  Iy interest rate a r of months take on...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The merged word 'montheeded' is a result of a severe parsing error, likely intended to be 'month needed'."
+48,27,Iy,... to (b): £484. | nt of each montheeded  **Iy** interest rate a r of months take onthly...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word fragment 'Iy' is a result of a severe parsing error, likely intended to be part of 'interest'."
+49,27,a,...nt of each montheeded  Iy interest rate **a** r of months take onthly repayment would...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The isolated 'a' is part of a severely garbled phrase, indicating a parsing error."
+50,27,onthly,...ed  Iy interest rate a r of months take **onthly** repayment would be save  12. | nly repa...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'onthly' is a parsing error and should be 'monthly'.
+51,27,save,...f months take onthly repayment would be **save**  12. | nly repayment s a decimal en to ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The word 'save' appears to be a parsing error within a garbled sentence, likely intended to be 'saved' or part of a different phrase."
+52,27,nly,...e onthly repayment would be save  12. | **nly** repayment s a decimal en to pay back nt...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'nly' is a parsing error and should be 'only'.
+53,27,nt,...ly repayment s a decimal en to pay back **nt** for Option B ed on paying b | the loan....,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'nt' is a parsing error within a garbled sentence, likely part of a longer word like 'amount'."
+54,29,fraction,"...mple, as the only way to simply this √2 **fraction** is to multiply the numerator and denomi...",PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"The phrase '√2 fraction' is not standard mathematical terminology and could be rephrased for clarity, such as 'a fraction involving √2'."
+55,29,a,"...ve your answer in the form π : a, where **a** is an integer. Note: it is possible tha...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The letter 'a' is correctly used as a mathematical variable in this context.
+56,31,Strano,...-----|----------|----------|--|--|--| | **Strano**  | i                                   ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Strano' is a parsing error and should be 'Strand'.
+57,31,Alç,... | U2       | U3       |  |  |  | | 2.1 **Alç** | gebraic conventions and manipulation ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Alç' is a parsing error and should be 'Algebraic'.
+58,31,gebraic,...      | U3       |  |  |  | | 2.1 Alç | **gebraic** conventions and manipulation of        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'gebraic' is a parsing error, forming part of the corrupted word 'Algebraic' with the preceding 'Alç'."
+59,31,$ab$,...                      | For example:  • **$ab$** in place of $a \times b$ • $3a$ in plac...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical notation '$ab$' is correctly used to represent 'a multiplied by b'.
+60,31,$a,...     | For example:  • $ab$ in place of **$a** \times b$ • $3a$ in place of $a + a + a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
+61,31,b$,... example:  • $ab$ in place of $a \times **b$** • $3a$ in place of $a + a + a$ or $3 \t...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression delimited by `$` and is correct as written.
+62,31,$a,...lace of $a \times b$ • $3a$ in place of **$a** + a + a$ or $3 \times a$ • $y$ in place...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
+63,31,a$,...a \times b$ • $3a$ in place of $a + a + **a$** or $3 \times a$ • $y$ in place of $1y$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
+64,31,a$,...a$ in place of $a + a + a$ or $3 \times **a$** • $y$ in place of $1y$ • $a^2$ in place...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
+65,31,$y$,... place of $a + a + a$ or $3 \times a$ • **$y$** in place of $1y$ • $a^2$ in place of $a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$y$` is a complete mathematical expression delimited by `$` and is correct as written.
+66,31,$a,"...r $3 \times a$ • $y$ in place of $1y$ • **$a**^2$ in place of $a \times a$ ,  • $a^3$ ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
+67,31,$a,"...y$ in place of $1y$ • $a^2$ in place of **$a** \times a$ ,  • $a^3$ in place of $a \ti...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
+68,31,a$,"...e of $1y$ • $a^2$ in place of $a \times **a$** ,  • $a^3$ in place of $a \times a \tim...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression delimited by `$` and is correct as written.
+69,31,$a,"...$ • $a^2$ in place of $a \times a$ ,  • **$a**^3$ in place of $a \times a \times a$ , ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression delimited by `$` and is correct as written.
+70,31,$a,"... of $a \times a$ ,  • $a^3$ in place of **$a** \times a \times a$ ,  • $a^2b$ in place...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+71,31,a$,"... • $a^3$ in place of $a \times a \times **a$** ,  • $a^2b$ in place of $a \times a \ti...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `a$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+72,31,$a,"... in place of $a \times a \times a$ ,  • **$a**^2b$ in place of $a \times a \times b$ •...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+73,31,$a,"...mes a \times a$ ,  • $a^2b$ in place of **$a** \times a \times b$ • $\frac{a}{b}$ in p...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+74,31,b$,...• $a^2b$ in place of $a \times a \times **b$** • $\frac{a}{b}$ in place of $a \div b$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+75,31,frac,...$ in place of $a \times a \times b$ • $\**frac**{a}{b}$ in place of $a \div b$ • coeffic...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is a correct LaTeX command for fractions within a mathematical expression.
+76,31,$a,...a \times b$ • $\frac{a}{b}$ in place of **$a** \div b$ • coefficients written as fract...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+77,31,b$,... b$ • $\frac{a}{b}$ in place of $a \div **b$** • coefficients written as fractions rat...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `b$` is part of a mathematical expression correctly formatted with LaTeX delimiters.
+78,31,terms,"....3   | recognise the definitions of the **terms** equation, expression and formula and be...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'terms' is used correctly in the context 'definitions of the terms equation, expression and formula'."
+79,31,$a$,"...9y^2 - 31y + 5$ .  • Find the values of **$a$** and $b$ , when $x^2 - 3x - a \equiv (x+...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$a$` is a mathematical variable correctly formatted with LaTeX delimiters.
+80,31,$b$,"...1y + 5$ .  • Find the values of $a$ and **$b$** , when $x^2 - 3x - a \equiv (x+b)(x-5)$...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$b$' is correctly formatted within LaTeX math mode and is not an error.
+81,31,$x,"...• Find the values of $a$ and $b$ , when **$x**^2 - 3x - a \equiv (x+b)(x-5)$ .  • Find...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$x$' is correctly formatted within LaTeX math mode and is not an error.
+82,31,$a$,"...uiv (x+b)(x-5)$ .  • Find the values of **$a$** and $b$ , when $(3x+a)(bx+1) \equiv 6x^...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$a$' is correctly formatted within LaTeX math mode and is not an error.
+83,31,$b$,"...)(x-5)$ .  • Find the values of $a$ and **$b$** , when $(3x+a)(bx+1) \equiv 6x^2 - 5x -...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$b$' is correctly formatted within LaTeX math mode and is not an error.
+84,32,$t,...                         | For example: **$t**^9 \times t^3$ $y^8 \times y^{-3}$ $3w^5...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$t$' is correctly formatted within LaTeX math mode and is not an error.
+85,32,$y,...        | For example: $t^9 \times t^3$ **$y**^8 \times y^{-3}$ $3w^5 \times 4w^6$ $14...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly formatted within LaTeX math mode and is not an error.
+86,32,$k,...d^3$ $25ab^3 \times 3a^3b^5$ $(3a^3)^4$ **$k**^5 \div k^5$ $3p^6 \div 12p^4$          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$k$' is correctly formatted within LaTeX math mode and is not an error.
+87,32,frac,... terms as denominators | For example: $\**frac**{4g^7 \times 5g^6}{10g^2} \qquad \frac{3...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The string 'frac' is part of the LaTeX command '\frac' for fractions, which is correctly used in math mode."
+88,32,qquad,...ample: $\frac{4g^7 \times 5g^6}{10g^2} \**qquad** \frac{3x}{4} + \frac{5x}{7} \qquad \fra...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The string 'qquad' is part of the LaTeX command '\qquad' for horizontal spacing, which is correctly used in math mode."
+89,32,frac,...$\frac{4g^7 \times 5g^6}{10g^2} \qquad \**frac**{3x}{4} + \frac{5x}{7} \qquad \frac{3x+2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The string 'frac' is part of the LaTeX command '\frac' for fractions, which is correctly used in math mode."
+90,32,frac,...mes 5g^6}{10g^2} \qquad \frac{3x}{4} + \**frac**{5x}{7} \qquad \frac{3x+2}{3} - \frac{2x...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+91,32,qquad,...^2} \qquad \frac{3x}{4} + \frac{5x}{7} \**qquad** \frac{3x+2}{3} - \frac{2x-5}{5} \qquad ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`qquad` is a LaTeX command for horizontal spacing, correctly used within a mathematical expression."
+92,32,frac,...uad \frac{3x}{4} + \frac{5x}{7} \qquad \**frac**{3x+2}{3} - \frac{2x-5}{5} \qquad \frac{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+93,32,frac,...+ \frac{5x}{7} \qquad \frac{3x+2}{3} - \**frac**{2x-5}{5} \qquad \frac{4m^3}{2m^8}$ When...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+94,32,qquad,...\qquad \frac{3x+2}{3} - \frac{2x-5}{5} \**qquad** \frac{4m^3}{2m^8}$ When factorising is ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`qquad` is a LaTeX command for horizontal spacing, correctly used within a mathematical expression."
+95,32,frac,...\frac{3x+2}{3} - \frac{2x-5}{5} \qquad \**frac**{4m^3}{2m^8}$ When factorising is requir...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+96,32,frac,...mplicated than a number. For example: $\**frac**{2x-4}{4x-10}$ (common factor of 2) $\fr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+97,32,frac,...ac{2x-4}{4x-10}$ (common factor of 2) $\**frac**{3a+12}{6}$ (common factor of 3) |  | <b...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+98,32,frac,...ons as denominators | For example:  • $\**frac**{6x^2 - 10x}{4x^2 - 8x}$ (common factor ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+99,32,frac,...^2 - 8x}$ (common factor of $2x$ )  • $\**frac**{4}{3x} + \frac{2x}{7}$ • $\frac{5x}{2x+...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a LaTeX command for fractions, correctly used within a mathematical expression."
+100,32,frac,...on factor of $2x$ )  • $\frac{4}{3x} + \**frac**{2x}{7}$ • $\frac{5x}{2x+4} - \frac{2x+5...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
+101,32,frac,... )  • $\frac{4}{3x} + \frac{2x}{7}$ • $\**frac**{5x}{2x+4} - \frac{2x+5}{3x-2}$ • $\frac...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
+102,32,frac,...} + \frac{2x}{7}$ • $\frac{5x}{2x+4} - \**frac**{2x+5}{3x-2}$ • $\frac{2x^2 - 7x - 15}{4...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
+103,32,frac,...frac{5x}{2x+4} - \frac{2x+5}{3x-2}$ • $\**frac**{2x^2 - 7x - 15}{4x^2 - 9} = \frac{x-5}{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
+104,32,frac,...$ • $\frac{2x^2 - 7x - 15}{4x^2 - 9} = \**frac**{x-5}{2x-3}$ (quadratic expression (see ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of a correctly formatted LaTeX math command `\frac`, which should not be flagged as an error."
+105,33,and,"...ons in one variable, where one is linear** and** the other is quadratic | For example: $...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The extra space before 'and' is likely a parsing artifact from the markdown conversion, as the original phrase 'linear and the other' is grammatically correct."
+106,33,$nx$,"...more complicated than the equivalent of **$nx$** , where $n$ is an integer.             ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$nx$` is a correctly formatted mathematical expression in LaTeX and should not be flagged as an error.
+107,33,$n$,"...ted than the equivalent of $nx$ , where **$n$** is an integer.                         ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$n$` is a correctly formatted mathematical variable in LaTeX and should not be flagged as an error.
+108,34,$x,"...orise quadratic expressions of the form **$x**^2$ + ax + b and $ax^2$ + bx + c, includ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$x$` is part of a correctly formatted mathematical expression `$x^2$` in LaTeX and should not be flagged as an error.
+109,34,$ax,"...ressions of the form $x^2$ + ax + b and **$ax**^2$ + bx + c, including the difference o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$ax$` is part of a correctly formatted mathematical expression `$ax^2$` in LaTeX and should not be flagged as an error.
+110,34,$c,...ifference of two squares | For example: **$c**^2 + 5c - 6$ $3d^2 + 8d + 5$ $2x^2 - 13x...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+111,34,$y,...  | Difference of two squares examples: **$y**^2 - 25$ $a^2 - b^2$ $25d^2 - 36g^2$ $8g...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+112,34,$a,...nce of two squares examples: $y^2 - 25$ **$a**^2 - b^2$ $25d^2 - 36g^2$ $8g^2 - 50h^2$...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+113,34,$g$,...uld be asked at foundation tier (making **$g$** the subject): $3g+4=h$ $h=\frac{g}{2}-4...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+114,34,h$,...on tier (making $g$ the subject): $3g+4=**h$** $h=\frac{g}{2}-4$ $5(x+f)=7f+3$ $\frac{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable followed by a LaTeX closing delimiter, not a spelling error."
+115,34,$h,...tier (making $g$ the subject): $3g+4=h$ **$h**=\frac{g}{2}-4$ $5(x+f)=7f+3$ $\frac{5}{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+116,34,frac,... (making $g$ the subject): $3g+4=h$ $h=\**frac**{g}{2}-4$ $5(x+f)=7f+3$ $\frac{5}{g}=h$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+117,34,frac,...+4=h$ $h=\frac{g}{2}-4$ $5(x+f)=7f+3$ $\**frac**{5}{g}=h$ $5g+h=3-2g$ (the $g$ terms can...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+118,34,h$,...rac{g}{2}-4$ $5(x+f)=7f+3$ $\frac{5}{g}=**h$** $5g+h=3-2g$ (the $g$ terms can be colle...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable followed by a LaTeX closing delimiter, not a spelling error."
+119,34,$g$,...=7f+3$ $\frac{5}{g}=h$ $5g+h=3-2g$ (the **$g$** terms can be collected) Examples at hig...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correctly formatted mathematical variable within LaTeX, not a spelling error."
+120,34,$x$,...d) Examples at higher tier only (making **$x$** the subject): $a=\frac{x}{b}+c$ $d=\fra...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The '$x$' is correctly formatted LaTeX for a mathematical variable, not a spelling error."
+121,34,$a,...her tier only (making $x$ the subject): **$a**=\frac{x}{b}+c$ $d=\frac{7}{e+x}$ $k=\sq...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$a' is the start of a correctly formatted LaTeX mathematical expression.
+122,34,frac,...tier only (making $x$ the subject): $a=\**frac**{x}{b}+c$ $d=\frac{7}{e+x}$ $k=\sqrt{mx}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '\frac' is a correct LaTeX command for fractions within a mathematical expression.
+123,34,c$,...making $x$ the subject): $a=\frac{x}{b}+**c$** $d=\frac{7}{e+x}$ $k=\sqrt{mx}$ $n=\sqr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The 'c$' is the end of a correctly formatted LaTeX mathematical expression.
+124,34,$d,...ing $x$ the subject): $a=\frac{x}{b}+c$ **$d**=\frac{7}{e+x}$ $k=\sqrt{mx}$ $n=\sqrt{7...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$d' is the start of a correctly formatted LaTeX mathematical expression.
+125,34,frac,...$x$ the subject): $a=\frac{x}{b}+c$ $d=\**frac**{7}{e+x}$ $k=\sqrt{mx}$ $n=\sqrt{7x-5}$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '\frac' is a correct LaTeX command for fractions within a mathematical expression.
+126,34,$k,...t): $a=\frac{x}{b}+c$ $d=\frac{7}{e+x}$ **$k**=\sqrt{mx}$ $n=\sqrt{7x-5}$ $p=\sqrt[3]{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$k' is the start of a correctly formatted LaTeX mathematical expression.
+127,34,$n,...}{b}+c$ $d=\frac{7}{e+x}$ $k=\sqrt{mx}$ **$n**=\sqrt{7x-5}$ $p=\sqrt[3]{5x-g}$ $A=x^2$...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$n' is the start of a correctly formatted LaTeX mathematical expression.
+128,34,$p,...{7}{e+x}$ $k=\sqrt{mx}$ $n=\sqrt{7x-5}$ **$p**=\sqrt[3]{5x-g}$ $A=x^2$ $h=px^2q$ $z^2=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$p' is the start of a correctly formatted LaTeX mathematical expression.
+129,34,$A,...mx}$ $n=\sqrt{7x-5}$ $p=\sqrt[3]{5x-g}$ **$A**=x^2$ $h=px^2q$ $z^2=x^2+y^2$ $k^2=px^3+...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The '$A' is the start of a correctly formatted LaTeX mathematical expression.
+130,34,$h,...\sqrt{7x-5}$ $p=\sqrt[3]{5x-g}$ $A=x^2$ **$h**=px^2q$ $z^2=x^2+y^2$ $k^2=px^3+d$ Learn...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$h` is a correct mathematical variable within LaTeX inline math mode.
+131,34,$z,...}$ $p=\sqrt[3]{5x-g}$ $A=x^2$ $h=px^2q$ **$z**^2=x^2+y^2$ $k^2=px^3+d$ Learners need t...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$z` is a correct mathematical variable within LaTeX inline math mode.
+132,34,$k,...{5x-g}$ $A=x^2$ $h=px^2q$ $z^2=x^2+y^2$ **$k**^2=px^3+d$ Learners need to ensure that ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `$k` is a correct mathematical variable within LaTeX inline math mode.
+133,34,d$,...=x^2$ $h=px^2q$ $z^2=x^2+y^2$ $k^2=px^3+**d$** Learners need to ensure that fraction l...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The highlighted text `d$` is a parsing error; it should be `$d$` to correctly represent a mathematical variable.
+134,34,frac,"...r, i.e. the difference between: $\sqrt{\**frac**{x+z}{y}} \text{ and } \frac{\sqrt{x+z}}...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+135,34,frac,...en: $\sqrt{\frac{x+z}{y}} \text{ and } \**frac**{\sqrt{x+z}}{y}$ • $\sqrt{a+b-c}$ and $\...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+136,34,c$,...}}{y}$ • $\sqrt{a+b-c}$ and $\sqrt{a+b}-**c$** • $\frac{p+q}{r}+s$ and $\frac{p+q+s}{r...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The highlighted text `c$` is a parsing error; it should be `$c$` to correctly represent a mathematical variable.
+137,34,frac,...• $\sqrt{a+b-c}$ and $\sqrt{a+b}-c$ • $\**frac**{p+q}{r}+s$ and $\frac{p+q+s}{r}$ Learne...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+138,34,s$,...c}$ and $\sqrt{a+b}-c$ • $\frac{p+q}{r}+**s$** and $\frac{p+q+s}{r}$ Learners should i...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The highlighted text `s$` is a parsing error; it should be `$s$` to correctly represent a mathematical variable.
+139,34,frac,...\sqrt{a+b}-c$ • $\frac{p+q}{r}+s$ and $\**frac**{p+q+s}{r}$ Learners should include the ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+140,39,$n$,...                                  | The **$n$** th term must be expressed in its simple...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The mathematical variable '$n$' is correctly formatted, but its separation from 'th' in '$n$ th term' is a parsing error; it should be 'nth term' or '$n$-th term'."
+141,39,th,...                              | The $n$ **th** term must be expressed in its simplest ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The 'th' suffix is incorrectly separated from '$n$' in '$n$ th term', indicating a parsing error where a hyphen or correct compound word formation is missing."
+142,39,$n,...the rule is quadratic | For example:  • **$n**^2 + 2$ • $n^2 + 5n - 1$ • $3n^2 - 1$ No...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+143,39,$n,...quadratic | For example:  • $n^2 + 2$ • **$n**^2 + 5n - 1$ • $3n^2 - 1$ Note that $n$ ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+144,39,$n$,...• $n^2 + 5n - 1$ • $3n^2 - 1$ Note that **$n$** th term expressions will be of the form...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The mathematical variable '$n$' is correctly formatted, but its separation from 'th' in '$n$ th term' is a parsing error; it should be 'nth term' or '$n$-th term'."
+145,39,th,...^2 + 5n - 1$ • $3n^2 - 1$ Note that $n$ **th** term expressions will be of the form $n...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The 'th' suffix is incorrectly separated from '$n$' in '$n$ th term', indicating a parsing error where a hyphen or correct compound word formation is missing."
+146,39,$n,"...th term expressions will be of the form **$n**^2 + an + b$ or $cn^2 + d$ , where $a$ ,...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight '$n' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+147,39,b$,"...essions will be of the form $n^2 + an + **b$** or $cn^2 + d$ , where $a$ , $b$ or $d$ ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight 'b$' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+148,39,$cn,"...s will be of the form $n^2 + an + b$ or **$cn**^2 + d$ , where $a$ , $b$ or $d$ could b...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight '$cn' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+149,39,d$,"...e of the form $n^2 + an + b$ or $cn^2 + **d$** , where $a$ , $b$ or $d$ could be = 0. ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The highlight 'd$' indicates an incomplete mathematical expression, suggesting a parsing error where the LaTeX math environment was not fully captured."
+150,39,$a$,"...rm $n^2 + an + b$ or $cn^2 + d$ , where **$a$** , $b$ or $d$ could be = 0. |  | <b>✓</b...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$a' is a mathematical variable correctly formatted within a LaTeX-like expression.
+151,39,$b$,"...2 + an + b$ or $cn^2 + d$ , where $a$ , **$b$** or $d$ could be = 0. |  | <b>✓</b> |  |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$b' is a mathematical variable correctly formatted within a LaTeX-like expression.
+152,39,$d$,"...+ b$ or $cn^2 + d$ , where $a$ , $b$ or **$d$** could be = 0. |  | <b>✓</b> |  |  | | 2...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$d' is a mathematical variable correctly formatted within a LaTeX-like expression.
+153,39,$x,"...ret, recognise and sketch the graphs of **$x** = a$ , $y = b$ , $y = ax + b$ |  |  | ✓...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$x' is a mathematical variable correctly formatted within a LaTeX-like expression.
+154,39,a$,"...recognise and sketch the graphs of $x = **a$** , $y = b$ , $y = ax + b$ |  |  | ✓ |  |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text 'a$' is a mathematical variable correctly formatted within a LaTeX-like expression.
+155,39,$y,"...nise and sketch the graphs of $x = a$ , **$y** = b$ , $y = ax + b$ |  |  | ✓ |  |  | |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
+156,39,b$,"...and sketch the graphs of $x = a$ , $y = **b$** , $y = ax + b$ |  |  | ✓ |  |  | | 2.4....",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text 'b$' is a mathematical variable correctly formatted within a LaTeX-like expression.
+157,39,$y,"...ketch the graphs of $x = a$ , $y = b$ , **$y** = ax + b$ |  |  | ✓ |  |  | | 2.4.3    ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
+158,39,b$,"...graphs of $x = a$ , $y = b$ , $y = ax + **b$** |  |  | ✓ |  |  | | 2.4.3      | know a...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text 'b$' is a mathematical variable correctly formatted within a LaTeX-like expression.
+159,39,$y,... c = k | For example: Draw the graph of **$y**=2x^2+5x-4$ from a table. Draw the line ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted text '$y' is a mathematical variable correctly formatted within a LaTeX-like expression.
+160,39,$y,...=2x^2+5x-4$ from a table. Draw the line **$y**=5$ on the graph paper. Write down the v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+161,39,$x$,...e graph paper. Write down the values of **$x$** where the line $y=5$ cuts the curve $y=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$x$' is correctly used within a mathematical expression.
+162,39,$y,...e down the values of $x$ where the line **$y**=5$ cuts the curve $y=2x^2+5x-4$ . Examp...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+163,39,$y,...$x$ where the line $y=5$ cuts the curve **$y**=2x^2+5x-4$ . Example at higher tier onl...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+164,39,$y,"...higher tier only: By using the graph of **$y**=2x^2+5x-4$ , solve the equation $2x^2+5...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+165,40,$y,... to a given line | For example: <ul><li>**$y** = 3x + 7$ is parallel to $2y = 6x - 5$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+166,40,$y,...y = 6x - 5$ and $2y - 6x = 1$ .</li><li>**$y** = 3x + 7$ is perpendicular to $y = -\fr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+167,40,$y,...li><li>$y = 3x + 7$ is perpendicular to **$y** = -\frac{1}{3}x + 12$ and $3y + x = 7$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+168,40,frac,...$y = 3x + 7$ is perpendicular to $y = -\**frac**{1}{3}x + 12$ and $3y + x = 7$ .</li></u...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'frac' is part of a correctly formatted LaTeX command '\frac' for fractions, not a standalone word."
+169,40,$y,...| draw and interpret graphs of the form **$y** = ax^3 + b$ and $y = ax^3 + bx^2 + cx +...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The mathematical variable '$y$' is correctly used within a mathematical expression.
+170,40,b$,...nterpret graphs of the form $y = ax^3 + **b$** and $y = ax^3 + bx^2 + cx + d$ | A rule...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
+171,40,$y,...t graphs of the form $y = ax^3 + b$ and **$y** = ax^3 + bx^2 + cx + d$ | A ruler must ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
+172,40,d$,...= ax^3 + b$ and $y = ax^3 + bx^2 + cx + **d$** | A ruler must not be used to join poin...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
+173,40,$ax,....4.10 | use a graphical method to solve **$ax**^2 + bx + c = dx + e$ and $ax^3 + bx^2 +...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
+174,40,e$,...l method to solve $ax^2 + bx + c = dx + **e$** and $ax^3 + bx^2 + cx + d = ex + f$ | F...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
+175,40,$ax,...d to solve $ax^2 + bx + c = dx + e$ and **$ax**^3 + bx^2 + cx + d = ex + f$ | For examp...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
+176,40,f$,...x + e$ and $ax^3 + bx^2 + cx + d = ex + **f$** | For example: The graph of $y = 3x^2 +...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the end of an inline math environment."
+177,40,$y,...d = ex + f$ | For example: The graph of **$y** = 3x^2 + 9x - 3$ can be used to solve $...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
+178,40,$y,...$3x^2 + 5x - 8 = 0$ by drawing the line **$y** = 4x + 5$ and writing down the points o...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a correct mathematical expression in LaTeX format, where '$' denotes the start of an inline math environment."
+179,45,Stranc,...---------|----|----|----------|--|--| | **Stranc**                   | i                  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This appears to be a parsing error or typo; it should likely be 'Strand' to match the table header and content structure.
+180,45,aps,"...   |  |  | | 3.3 Ma                   | **aps**, scale drawings, bearings and 2-D repre...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Maps' has been incorrectly split into 'Ma' and 'aps' due to a parsing error.
+181,45,representati,"...| aps, scale drawings, bearings and 2-D **representati**                                        ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'representation' has been incorrectly split due to a parsing error.
+182,45,gle,...   |  |  | | 3.4 An                   | **gle** facts                                  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Angle' has been incorrectly split into 'An' and 'gle' due to a parsing error.
+183,45,$B,"...hapes that have vertices labelled, e.g. **$B**\widehat{A}C$ for an angle or $AC$ for a...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is part of a correctly formatted LaTeX mathematical expression for an angle.
+184,45,widehat,"...es that have vertices labelled, e.g. $B\**widehat**{A}C$ for an angle or $AC$ for a line.  ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a correctly used LaTeX command within a mathematical expression.
+185,45,C$,"...ve vertices labelled, e.g. $B\widehat{A}**C$** for an angle or $AC$ for a line.  When ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is part of a correctly formatted LaTeX mathematical expression for an angle.
+186,45,$AC$,"...d, e.g. $B\widehat{A}C$ for an angle or **$AC$** for a line.  When reasons are required,...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,This is a correctly formatted LaTeX mathematical expression for a line segment.
+187,47,BÂC,"...riate naming conventions are used, e.g. **BÂC** for an angle or AC for a line. When rea...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,This is a correct and acceptable mathematical notation for an angle.
+188,47,key words,"...ne. When reasons are asked for, all the **key words** from the relevant theorem must be given...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Key words' is an acceptable compound noun, although 'keywords' is also common."
+189,47,BÂC,"...e naming conventions will be used, e.g. **BÂC** for an angle or AC for a line. |  |  |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,This is a correct and acceptable mathematical notation for an angle.
+190,48,frac,"...arners need to know that 20 minutes = $\**frac**{1}{3}$ hour, for example. | <b>✓</b> | ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command for displaying fractions and is not a spelling error.
+191,49,metry,...--------------------------  | 3. Geo  | **metry** and measures                           ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Geometry' has been incorrectly split across table cells due to a parsing error.
+192,49,mpg,"...tion. Units include: m/s, km/h, mph and **mpg** |  | ✓ |  | ✓ | | 3.5.9   | recall and ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`mpg` is a standard and correctly used abbreviation for miles per gallon.
+193,49,imeter,"... ✓        |    | ✓        | | 3.6 Per | **imeter**, area and volume                       ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Perimeter' has been incorrectly split across table cells due to a parsing error.
+194,50,right angled,"....3 | use trigonometric relationships in **right angled** triangles to solve problems, including ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Right-angled' should be hyphenated as it is a compound adjective modifying 'triangles'.
+195,63,',"...xample, asking for the probability that **'**one dice lands on a 3 and the other dice...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,`&#x27;` is an HTML entity for a single quote and should be rendered as `'`.
+196,64,dice,"...ent experiments. For example: <ul><li>a **dice**, a coin and a spinner</li><li>choosing ...",PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"While 'dice' is commonly used as both singular and plural, 'die' is the grammatically precise singular form in formal writing."
+197,66,mpg,"...ption Units include: m/s, km/h, mph and **mpg** | Learners could use data from a sports...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`mpg` is a standard and correctly used abbreviation for miles per gallon.
+198,67,a certain desired criteria,... best option of mobile phone plan given **a certain desired criteria** for an individual which could include: ...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,'Criteria' is a plural noun; the singular form 'criterion' should be used with the indefinite article 'a'.
+199,67,fete,...a game for attendees to a local fair or **fete**. Calculating a theoretical probability ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Fete' is a correctly spelled English word referring to a public festival or fair.
+200,68,outside of,...        | skills inside and   |  |  | | **outside of** the |                     |  |  | |    ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,The word 'outside' is more concise and generally preferred over 'outside of' in formal writing.
+201,68,right angled,"....3 | Use trigonometric relationships in **right angled** triangles to solve problems, including ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'right-angled' requires a hyphen when preceding the noun it modifies.
+202,71,cost effectiveness,"... such as calculating the monthly costs, **cost effectiveness** and payback time of renewable energy so...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound noun 'cost-effectiveness' should be hyphenated.
+203,86,", what","...to think creatively about what they know**, what** they need to find out and what mathemat...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The comma is correctly used to separate items in a list of parallel clauses.
+204,89,semi-circle,...ked to find the area and perimeter of a **semi-circle** or quarter of a circle and think critic...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"While 'semi-circle' is acceptable, 'semicircle' is the more common and often preferred spelling in modern English."
+205,89,multi-step,...nking and problem-solving strategies to **multi-step** questions involving multiple triangles ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The compound adjective 'multi-step' is correctly hyphenated.
+206,91,personal,...ion techniques in a logical order.  Key **personal** and social skills such as independence*...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The word 'personal' is correctly used in the phrase 'Key personal and social skills'.
+207,91,selfevaluation,"...oratory problems, learner led feedback, **selfevaluation** and goal setting.  Financial mathematic...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound noun 'self-evaluation' requires a hyphen.

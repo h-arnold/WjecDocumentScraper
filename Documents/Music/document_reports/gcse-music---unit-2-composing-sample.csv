@@ -1,7 +1,7 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'and' when it connects two independent clauses.
-1,,,,,PARSING_ERROR,100,The compound adjective 'well-structured' should be hyphenated.
-2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'but' when it connects two independent clauses.
-3,,,,,PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
-4,,,,,PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
-5,,,,,STYLISTIC_PREFERENCE,80,'Outside' is more concise and stylistically preferred over 'outside of' in formal writing when referring to location.
+0,6,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'and' when it connects two independent clauses.
+1,7,wellstructured,...esented and how well the piece has been **wellstructured**.  #### **Column 3 – Outcome of Brief:**...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'well-structured' should be hyphenated.
+2,9,but,...mpt to structure the piece has been made** but** the presentation of musical ideas is in...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'but' when it connects two independent clauses.
+3,10,audio visual,...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
+4,14,audio visual,...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
+5,23,outside of,...-------| | None | Work may be completed **outside of** the centre without direct supervision. ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,'Outside' is more concise and stylistically preferred over 'outside of' in formal writing when referring to location.

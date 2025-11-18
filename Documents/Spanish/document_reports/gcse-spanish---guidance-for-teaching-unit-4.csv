@@ -1,17 +1,17 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'Written' is redundantly repeated in the heading, which should align with the unit title and assessment type from the table."
-1,,,,,STYLISTIC_PREFERENCE,85,"In formal writing, 'outside' is generally preferred over 'outside of' for conciseness."
-2,,,,,STYLISTIC_PREFERENCE,70,"The conjunction 'but' correctly connects two dependent clauses, and a comma is not strictly necessary here, making its omission a stylistic choice."
-3,,,,,SPELLING_ERROR,95,"As a verb, the correct form is 'match up' (two words), not 'match-up'."
-4,,,,,STYLISTIC_PREFERENCE,75,"'Key words' as two separate words is an acceptable form, though 'keywords' (one word) is also common in academic contexts."
-5,,,,,PARSING_ERROR,100,"The duplication of 'Mi' is a clear parsing error, likely from document conversion."
-6,,,,,PARSING_ERROR,100,"The duplication of 'los' is a clear parsing error, likely from document conversion."
-7,,,,,FALSE_POSITIVE,100,"'El ritmo' is a correct Spanish phrase used in an example sentence, making this a false positive."
-8,,,,,FALSE_POSITIVE,100,'Basque country' is the correct and standard proper noun for the region.
-9,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it functions as a compound adjective modifying 'community'.
-10,,,,,FALSE_POSITIVE,95,"The phrase 'discussions around' is grammatically correct and commonly used in UK English, conveying a slightly broader scope than 'discussions about'."
-11,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase 'able read' is missing the infinitive marker 'to'; it should be 'able to read'.
-12,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' separating two independent clauses is a stylistic choice, not a grammatical requirement, though it can improve readability."
-13,,,,,FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
-14,,,,,FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
-15,,,,,FALSE_POSITIVE,90,"'Key words' as two separate words is an acceptable and common spelling in UK English, particularly when 'key' functions as an adjective."
+0,4,Writing Written,...of Assessment  ## **Unit 4: Reading and **Writing Written** examination: 1 hour 30 minutes 35% of q...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'Written' is redundantly repeated in the heading, which should align with the unit title and assessment type from the table."
+1,6,outside of,... specified in this specification. Words **outside of** the specification grammar and vocabular...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"In formal writing, 'outside' is generally preferred over 'outside of' for conciseness."
+2,6,but,... used that is beyond the defined content** but** that fulfils the task requirements.  Th...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"The conjunction 'but' correctly connects two dependent clauses, and a comma is not strictly necessary here, making its omission a stylistic choice."
+3,8,match-up,...ning. Match-up activities: Learners can **match-up** key words in Cymraeg/English with words...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"As a verb, the correct form is 'match up' (two words), not 'match-up'."
+4,8,key words,...ch-up activities: Learners can match-up **key words** in Cymraeg/English with words in the te...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,75,"'Key words' as two separate words is an acceptable form, though 'keywords' (one word) is also common in academic contexts."
+5,10,Mi Mi,...--------  | fines de semana. de semana. **Mi Mi** madre hace madre hace vela ciclismo los...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The duplication of 'Mi' is a clear parsing error, likely from document conversion."
+6,10,los los,... Mi madre hace madre hace vela ciclismo **los los** viernes y mi viernes y mi padre juega a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The duplication of 'los' is a clear parsing error, likely from document conversion."
+7,12,el ritmo,...música de Galicia porque me gusta mucho **el ritmo**. - 4. I hate the music from the Basque ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'El ritmo' is a correct Spanish phrase used in an example sentence, making this a false positive."
+8,12,Basque country,...l ritmo. - 4. I hate the music from the **Basque country** because it is boring. - 5. I love the m...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Basque country' is the correct and standard proper noun for the region.
+9,14,Spanish speaking,"...ooking at Spanish words from across the **Spanish speaking** community, centres can highlight words ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it functions as a compound adjective modifying 'community'.
+10,14,discussions around,...colātl'. This also leads to interesting **discussions around** colonisation and the importance of choc...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'discussions around' is grammatically correct and commonly used in UK English, conveying a slightly broader scope than 'discussions about'."
+11,22,able read,...ant to Learners because they need to be **able read** numbers.**  **Below are some examples o...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase 'able read' is missing the infinitive marker 'to'; it should be 'able to read'.
+12,23,and,...oftware they use for their presentations** and** so they can justify their choices.</li>...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"A comma before 'and' separating two independent clauses is a stylistic choice, not a grammatical requirement, though it can improve readability."
+13,24,eco-tourism,...vide learners with a reading task about **eco-tourism** in Peru. They then need to imagine they...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
+14,24,eco-tourism,... need to imagine they are setting up an **eco-tourism** holiday and say what they would include...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
+15,25,key words,...themes. Encourage learners to highlight **key words** in the bullet points and use this to cr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"'Key words' as two separate words is an acceptable and common spelling in UK English, particularly when 'key' functions as an adjective."

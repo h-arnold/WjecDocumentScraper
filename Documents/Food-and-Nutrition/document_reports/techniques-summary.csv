@@ -1,32 +1,32 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,100,The correct spelling in UK English is the single word 'alongside'.
-1,,,,,STYLISTIC_PREFERENCE,80,"While 'Barbeque' is an alternative, 'Barbecue' is the more common and preferred spelling in UK English for formal documents."
-2,,,,,STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
-3,,,,,STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
-4,,,,,PARSING_ERROR,100,'ready-made' should be hyphenated as a compound adjective modifying 'sauce'.
-5,,,,,STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
-6,,,,,FALSE_POSITIVE,95,'Ragu' is an acceptable and common spelling in UK English for the Italian meat sauce without an accent.
-7,,,,,STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
-8,,,,,FALSE_POSITIVE,95,'Ragu' is an acceptable and common spelling in UK English for the Italian meat sauce without an accent.
-9,,,,,STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
-10,,,,,SPELLING_ERROR,100,'Caesar' in 'Caesar dressing' is a proper noun and requires capitalization.
-11,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-12,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-13,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-14,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-15,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-16,,,,,PARSING_ERROR,99,'Daking' appears to be a typographical error and should likely be 'Baking' given the context of culinary techniques.
-17,,,,,PARSING_ERROR,100,"The repetition 'Service Service' is a clear parsing error, likely due to malformed table data or OCR issues."
-18,,,,,PARSING_ERROR,100,'Fibilig' is not a recognised word and is clearly a parsing error within a corrupted section of the table.
-19,,,,,SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
-20,,,,,SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
-21,,,,,SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
-22,,,,,SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
-23,,,,,SPELLING_ERROR,100,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent, as consistently used elsewhere in the document."
-24,,,,,SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
-25,,,,,STYLISTIC_PREFERENCE,70,"While 'ragu' is acceptable, 'ragù' with an accent is the more precise and formal spelling for the Italian dish in UK English."
-26,,,,,PARSING_ERROR,95,The compound adjective 'pre-prepared' requires a hyphen and should not have a space before it.
-27,,,,,SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
-28,,,,,PARSING_ERROR,95,The compound adjective 'ready-made' requires a hyphen and should not have a space before it.
-29,,,,,STYLISTIC_PREFERENCE,70,"While 'Black Forest gateau' is acceptable, 'Black Forest gâteau' with an accent is the more precise and formal spelling for the French loanword in UK English."
-30,,,,,FALSE_POSITIVE,100,"The word 'gateau' is correctly spelled and commonly used in English, especially in culinary contexts, as confirmed by the Oxford English Dictionary."
+0,0,along side,...s document has been produced to be used **along side** the Appendix A from the Specification. ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The correct spelling in UK English is the single word 'alongside'.
+1,1,Barbeque,...       |                            | | **Barbeque** chicken wings | Applying ready-made sau...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'Barbeque' is an alternative, 'Barbecue' is the more common and preferred spelling in UK English for formal documents."
+2,1,Sauteing,...duced sauce ** | Dicing ** Trimming * | **Sauteing** ** Roasting ** | |  | Trimming fish to ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
+3,2,Sauteing,...g ** | Dicing ** Slicing ** Peeling * | **Sauteing** ** Boiling */Steaming ** | | Beef in bl...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
+4,2,ready made,"...auce with rice noodles | (assuming it's **ready made** black bean sauce, although this can eas...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'ready-made' should be hyphenated as a compound adjective modifying 'sauce'.
+5,2,Sauteing,...g ** | Dicing ** Slicing ** Peeling * | **Sauteing** **/Stir frying ** Boiling * |  {3}-----...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
+6,3,ragu,...--------| | Beef Lasagne (or any | Meat **ragu**: Knife skills –                        ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Ragu' is an acceptable and common spelling in UK English for the Italian meat sauce without an accent.
+7,3,Sauteing,...     | Weighing **       | Dicing **  | **Sauteing** **                | | meat or vegetable...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
+8,3,ragu,"...|  | |                      | layers of **ragu**, pasta and                             ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Ragu' is an acceptable and common spelling in UK English for the Italian meat sauce without an accent.
+9,3,Sauteing,...     | Weighing **       | Dicing **  | **Sauteing** **                | | basmati rice     ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'sauteing' is an anglicised spelling, 'sautéing' with the accent is generally preferred for precision in formal culinary contexts."
+10,5,caesar,...     | De-boning *** | Emulsifying *** (**caesar** | |                     | Making crouto...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Caesar' in 'Caesar dressing' is a proper noun and requires capitalization.
+11,7,Sauteing,... ** Peeling * Chopping * Deboning *** | **Sauteing** ** Baking ** Baking blind *** Emulsifyi...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+12,9,Sauteing,...* | Deboning *** Slicing ** Peeling * | **Sauteing** ** Boiling * Reduction ** | | Chicken c...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+13,10,Sauteing,...red     | Marinating * | Dicing **    | **Sauteing** **                  | |----------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+14,10,Sauteing,...red     | Weighing **  | Deboning *** | **Sauteing** **                  | |                ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+15,11,Sauteing,...g ** | Slicing ** Peeling * Dicing ** | **Sauteing** ** Boiling * | |-----------------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+16,12,Daking,...ng *            | Dicing **           | **Daking**                     | |                ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,99,'Daking' appears to be a typographical error and should likely be 'Baking' given the context of culinary techniques.
+17,12,Service Service,...chance |                            | | **Service Service**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The repetition 'Service Service' is a clear parsing error, likely due to malformed table data or OCR issues."
+18,12,Fibilig,"...         | vegetables, crushing       | **Fibilig**              |                     |   ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Fibilig' is not a recognised word and is clearly a parsing error within a corrupted section of the table.
+19,13,Sauteing,"...– peeling, | Weighing ** | Slicing ** | **Sauteing** ** | |                           | dici...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The correct UK English spelling for the culinary term is 'Sautéing' with an accent.
+20,15,Sauteing,...e ** | Slicing ** Peeling * Dicing ** | **Sauteing** ** Baking ** Boiling * | | Pasta carbon...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
+21,15,Sauteing,...ng (pasta) *** Mixing ** |  | Boiling * **Sauteing** ** Emulsifying *** |  {16}-------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
+22,16,Sauteing,...icing *** Crushing garlic * | Baking ** **Sauteing** ** Boiling * | | Potato salad (focus is...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
+23,17,Sauteing,...** Rolling ** Shaping *** | Dicing ** | **Sauteing** ** Baking ** |  {18}-------------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent, as consistently used elsewhere in the document."
+24,18,Sauteing,...                                      | **Sauteing** **                                 | | ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
+25,18,ragu,"...s shape after baking (no seepages) Meat **ragu**: Knife skills – dicing vegetables, crus...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'ragu' is acceptable, 'ragù' with an accent is the more precise and formal spelling for the Italian dish in UK English."
+26,19,pre -prepared,...dente Vegetable (and chicken) (assuming **pre -prepared** Mixing ** Slicing ** Sauteing ** fajita...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'pre-prepared' requires a hyphen and should not have a space before it.
+27,19,Sauteing,...ming pre -prepared Mixing ** Slicing ** **Sauteing** ** fajitas chicken breast portion Fryin...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct UK English spelling for the present participle of the verb is 'sautéing', with an accent."
+28,19,ready -made,...as chicken breast portion Frying ** and **ready -made** tortillas Dicing ** are used) (higher s...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'ready-made' requires a hyphen and should not have a space before it.
+29,22,Black Forest gateau,...          |                         | | **Black Forest gateau**      | Cake base made from        | Wei...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'Black Forest gateau' is acceptable, 'Black Forest gâteau' with an accent is the more precise and formal spelling for the French loanword in UK English."
+30,22,gateau,...ative finishes        | Shaping (of the **gateau**) |                 |                   ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'gateau' is correctly spelled and commonly used in English, especially in culinary contexts, as confirmed by the Oxford English Dictionary."

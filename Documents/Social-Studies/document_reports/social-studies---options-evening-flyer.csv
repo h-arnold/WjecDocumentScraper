@@ -1,2 +1,2 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,95,"The repetition of 'Organising' immediately after the skill title is redundant and stylistically awkward, and should be rephrased for conciseness."
+0,0,Organising organising,...tive social action plan. - Planning and **Organising organising** and planning an effective social action...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,95,"The repetition of 'Organising' immediately after the skill title is redundant and stylistically awkward, and should be rephrased for conciseness."

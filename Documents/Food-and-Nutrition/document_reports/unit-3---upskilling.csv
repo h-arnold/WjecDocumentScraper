@@ -1,21 +1,21 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,The apostrophe is a correct part of the Welsh word 'i'r' (to the).
-1,,,,,PARSING_ERROR,100,The word 'Task' has been incorrectly split into 'Tas' and 'k' due to a parsing error.
-2,,,,,SPELLING_ERROR,95,The use of two periods instead of a single period or an ellipsis is incorrect punctuation.
-3,,,,,FALSE_POSITIVE,100,The opening parenthesis is correctly used as part of a parenthetical note.
-4,,,,,FALSE_POSITIVE,100,The opening parenthesis is correctly used as part of a parenthetical note.
-5,,,,,SPELLING_ERROR,95,"The UK English spelling for the cooking technique is 'sautéing' or 'sauté', not 'sauteing'."
-6,,,,,STYLISTIC_PREFERENCE,70,"'Stir-frying' is typically hyphenated when used as a compound noun or adjective, which would be more consistent in a list of techniques."
-7,,,,,SPELLING_ERROR,95,"The UK English spelling for the cooking technique is 'Sautéing' or 'Sauté', not 'Sauteing'."
-8,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"'Bread' is typically an uncountable noun, making 'a bread' grammatically awkward in this context; 'a bread item' or 'some bread' would be more appropriate."
-9,,,,,SPELLING_ERROR,100,'complexO' is a misspelling of the word 'complex'.
-10,,,,,FALSE_POSITIVE,100,wjec is the correct acronym for the Welsh Joint Education Committee and is used appropriately here.
-11,,,,,FALSE_POSITIVE,100,cbac is the correct Welsh acronym for the Welsh Joint Education Committee and is used appropriately here.
-12,,,,,SPELLING_ERROR,100,chicker is a misspelling of the word 'chicken'.
-13,,,,,SPELLING_ERROR,100,Iulienne is a misspelling of the culinary term 'Julienne'.
-14,,,,,FALSE_POSITIVE,100,The word 'days' is used correctly in this context.
-15,,,,,SPELLING_ERROR,95,Flatbread is typically written as a single compound word in UK English.
-16,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve clarity as it separates two independent clauses.
-17,,,,,STYLISTIC_PREFERENCE,90,Dem is an informal abbreviation; 'demonstration' should be used in formal documentation.
-18,,,,,PARSING_ERROR,100,Part-time requires a hyphen when used as a compound adjective modifying 'job'.
-19,,,,,PARSING_ERROR,100,The Welsh word 'barod' has been incorrectly split into 'ba rod' due to a parsing error.
+0,0,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is a correct part of the Welsh word 'i'r' (to the).
+1,2,Tas,...----------------------  ## TGAU GCSE  | **Tas** | k 3                                  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Task' has been incorrectly split into 'Tas' and 'k' due to a parsing error.
+2,4,..,...g. |  This is for the cooking techniques**..** You can see that the MS notes the need ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The use of two periods instead of a single period or an ellipsis is incorrect punctuation.
+3,5,(,"...ing, rolling, rub-in, skinning, toasting**(**nuts/seeds), weighing. - \*\*\* crimping...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The opening parenthesis is correctly used as part of a parenthetical note.
+4,5,(,"...ng bain-marie, piping, shaping, whisking**(**aeration)  ### Knife Techniques (Circle ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The opening parenthesis is correctly used as part of a parenthetical note.
+5,5,sauteing,"...iddling, pickling, reduction, roasting, **sauteing**, setting, steaming, stir frying, water ...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The UK English spelling for the cooking technique is 'sautéing' or 'sauté', not 'sauteing'."
+6,5,stir frying,"... roasting, sauteing, setting, steaming, **stir frying**, water bath(sous-vide) - \*\*\* baking ...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"'Stir-frying' is typically hyphenated when used as a compound noun or adjective, which would be more consistent in a list of techniques."
+7,7,Sauteing,...ce: Slicing \*\* Peeling \* Dicing \*\* **Sauteing** \*\*  Many candidates choose a pasta di...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The UK English spelling for the cooking technique is 'Sautéing' or 'Sauté', not 'Sauteing'."
+8,7,a bread,"...t – yes. But no techniques. Try and add **a bread** to the menu, especially an enriched dou...",PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"'Bread' is typically an uncountable noun, making 'a bread' grammatically awkward in this context; 'a bread item' or 'some bread' would be more appropriate."
+9,8,complexO,... videos to help.  Boning a chicken is a **complexO** knife technique \*\*\*  For top band ca...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'complexO' is a misspelling of the word 'complex'.
+10,8,wjec,...e WJEC Educational Resources** Website  **wjec** cbac  English | | Cymraeg  Resource  ![...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,wjec is the correct acronym for the Welsh Joint Education Committee and is used appropriately here.
+11,8,cbac,...C Educational Resources** Website  wjec **cbac**  English | | Cymraeg  Resource  ![](_pa...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,cbac is the correct Welsh acronym for the Welsh Joint Education Committee and is used appropriately here.
+12,8,chicker,... a fish  Slicing raw meat  Portioning a **chicker**  The bridge cut Claw grip  Peeling  Dic...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,chicker is a misspelling of the word 'chicken'.
+13,8,Iulienne,...e bridge cut Claw grip  Peeling  Dicing **Iulienne**  {9}-----------------------------------...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,Iulienne is a misspelling of the culinary term 'Julienne'.
+14,10,days,...a message on the staff bulletin. Within **days** you will be inundated with unwanted pas...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'days' is used correctly in this context.
+15,10,a flat bread,"... rice, so what about adding samosas and **a flat bread** with some home-made chutneys. Look at t...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,Flatbread is typically written as a single compound word in UK English.
+16,12,or,... find professionals to come into schools** or** you can take your learners out to their...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve clarity as it separates two independent clauses.
+17,12,dem,...e is chef who can spare an hour to do a **dem** with your Year 10? Many learners may ha...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,Dem is an informal abbreviation; 'demonstration' should be used in formal documentation.
+18,12,part time,"... your Year 10? Many learners may have a **part time** job in a local hospitality business, ca...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,Part-time requires a hyphen when used as a compound adjective modifying 'job'.
+19,14,a,...cture_1.jpeg)  Yn arbennig i Gymru. Yn b**a**rod i'r byd.  Made for Wales. Ready for ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The Welsh word 'barod' has been incorrectly split into 'ba rod' due to a parsing error.

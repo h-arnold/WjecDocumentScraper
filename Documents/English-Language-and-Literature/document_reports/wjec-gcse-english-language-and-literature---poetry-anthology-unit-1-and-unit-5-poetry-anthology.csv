@@ -1,30 +1,30 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
-1,,,,,STYLISTIC_PREFERENCE,85,"While 'union jack' can be lowercase, 'Union Jack' is the standard capitalisation for the flag in formal UK English, which is preferred for WJEC documents."
-2,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma before 'but' is advisable when it connects two independent clauses to improve clarity, even in poetry."
-3,,,,,FALSE_POSITIVE,100,'Feets' is a deliberate dialectal spelling used within the poem to establish voice and character.
-4,,,,,FALSE_POSITIVE,100,'Swole' is a deliberate dialectal or informal past participle used within the poem for stylistic effect.
-5,,,,,FALSE_POSITIVE,100,'Feets' is a deliberate dialectal spelling used within the poem to establish voice and character.
-6,,,,,FALSE_POSITIVE,100,'This my way' is a deliberate non-standard grammatical construction used within the poem for stylistic effect and to reflect dialect.
-7,,,,,FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
-8,,,,,FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
-9,,,,,SPELLING_ERROR,100,"'Artic' is a misspelling of 'Arctic', which refers to the region."
-10,,,,,PARSING_ERROR,95,"The compound noun 'microbeads' should be written as a single word, indicating a likely parsing error."
-11,,,,,FALSE_POSITIVE,95,The word 'moodswings' is correctly written as a single compound word.
-12,,,,,SPELLING_ERROR,90,The word 'seabird' should be written as a single compound word.
-13,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The definite article 'the' is missing before 'Atlantic' when referring to the ocean.
-14,,,,,PARSING_ERROR,100,"The word 'hotеl' contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
-15,,,,,PARSING_ERROR,100,"The word 'coolnеss' contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
-16,,,,,FALSE_POSITIVE,95,The repetition 'wild wild' is a deliberate poetic device used by John Keats for emphasis and is not an error.
-17,,,,,PARSING_ERROR,95,"The compound noun 'hillside' should be written as a single word, indicating a likely parsing error."
-18,,,,,STYLISTIC_PREFERENCE,70,The absence of a comma before 'And yet' is a stylistic choice in poetry and does not constitute a grammatical error.
-19,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The correlative conjunction should be 'neither... nor', not 'neither... or'."
-20,,,,,FALSE_POSITIVE,100,Sabring is the correct British English spelling for the present participle of 'sabre'.
-21,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'Not' is unnecessarily repeated, creating a grammatical error."
-22,,,,,FALSE_POSITIVE,100,Reck is an archaic but correctly used verb in the context of the poem.
-23,,,,,PARSING_ERROR,95,"The apostrophe is missing from the contraction 'lov'd', which is a common parsing error from PDF to Markdown."
-24,,,,,FALSE_POSITIVE,100,The apostrophe is correctly used as part of the contraction 'scap'd in the poetic context.
-25,,,,,FALSE_POSITIVE,100,'Scap'd is a correct poetic contraction of 'escaped'.
-26,,,,,SPELLING_ERROR,100,Nothwestern is a misspelling of Northwestern.
-27,,,,,FALSE_POSITIVE,100,Wislawa Szymborska is the correct spelling of a proper name.
-28,,,,,FALSE_POSITIVE,90,"The copyright symbol is correctly appended to the title, which is a common formatting convention."
+0,2,Wislawa Szymborska,...  | 6  | | The End and the Beginning by **Wislawa Szymborska**          | 6  | | A Century Later by Im...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
+1,5,union jack,...ss I come from the rainbow flag and the **union jack** I come from a British passport and an e...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"While 'union jack' can be lowercase, 'Union Jack' is the standard capitalisation for the flag in formal UK English, which is preferred for WJEC documents."
+2,5,but,...strangers' smiles I come from my own pen** but** I see people torn apart like paper Each...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"A comma before 'but' is advisable when it connects two independent clauses to improve clarity, even in poetry."
+3,6,Feets,...ffet of Montgomery. I was myriad-weary. **Feets** swole from sewing seams on a filthy fab...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Feets' is a deliberate dialectal spelling used within the poem to establish voice and character.
+4,6,swole,...f Montgomery. I was myriad-weary. Feets **swole** from sewing seams on a filthy fabric; t...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Swole' is a deliberate dialectal or informal past participle used within the poem for stylistic effect.
+5,6,feets,...ey couldn't hold me down. Long. No.  My **feets** were tired. My eyes were sore. My heart...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Feets' is a deliberate dialectal spelling used within the poem to establish voice and character.
+6,7,This my,"...Thief? I said—That's your curse. I said—**This my** way. She slipped her frock, disembarked...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'This my way' is a deliberate non-standard grammatical construction used within the poem for stylistic effect and to reflect dialect.
+7,8,Wislawa Szymborska,"...-1""></span>The End and the Beginning by **Wislawa Szymborska**  This poem was published in 1993 and is...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
+8,8,Wislawa Szymborska,"...is poem was published in 1993 and is by **Wislawa Szymborska**, who was a female poet from Poland. Thi...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"Wislawa Szymborska is a correctly spelled proper noun, the name of a poet."
+9,11,Artic,...in 2019. Armitage found his trip to the **Artic** Circle to be life changing. The title r...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"'Artic' is a misspelling of 'Arctic', which refers to the region."
+10,12,micro-beads,"... islands and states of plastic bags and **micro-beads** and the forests of smoke.  *Bring back,...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound noun 'microbeads' should be written as a single word, indicating a likely parsing error."
+11,13,moodswings,"... cups rightly tossed back by an ocean's **moodswings**. Undisturbed, not even by a sea bird, I...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The word 'moodswings' is correctly written as a single compound word.
+12,13,sea bird,"... moodswings. Undisturbed, not even by a **sea bird**, I stand under the sun's burning treasu...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,The word 'seabird' should be written as a single compound word.
+13,13,of Atlantic,...reasury gazing out at the far-out gleam **of Atlantic** before heading back like a tourist to t...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The definite article 'the' is missing before 'Atlantic' when referring to the ocean.
+14,13,hotеl,...k like a tourist to the sanctuary of my **hotеl** room to dwell in the air-conditioned co...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'hotеl' contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
+15,13,coolnеss,...еl room to dwell in the air-conditioned **coolnеss** on the quickening years and fate of our...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'coolnеss' contains a Cyrillic 'е' instead of a Latin 'e', indicating a parsing error."
+16,16,wild wild,"... sighed full sore, And there I shut her **wild wild** eyes With kisses four.  {17}-----------...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The repetition 'wild wild' is a deliberate poetic device used by John Keats for emphasis and is not an error.
+17,17,hill side,"... latest dream I ever dreamt On the cold **hill side**.  I saw pale kings and princes too, Pal...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound noun 'hillside' should be written as a single word, indicating a likely parsing error."
+18,18,yet,"...ws in love's frenzied stifled throes And** yet** I am, and live—like vapours tossed  Int...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,The absence of a comma before 'And yet' is a stylistic choice in poetry and does not constitute a grammatical error.
+19,18,or,"...s, Where there is neither sense of life **or** joys, But the vast shipwreck of my life...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The correlative conjunction should be 'neither... nor', not 'neither... or'."
+20,19,Sabring,"...res bare, Flashed as they turned in air **Sabring** the gunners there, Charging an army, wh...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Sabring is the correct British English spelling for the present participle of 'sabre'.
+21,20,not Not,"... and sundered. Then they rode back, but **not Not** the six hundred.  V Cannon to right of ...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'Not' is unnecessarily repeated, creating a grammatical error."
+22,21,reck,"...of oil Crushed. Why do men then now not **reck** his rod? Generations have trod, have tr...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Reck is an archaic but correctly used verb in the context of the poem.
+23,22,lov,"... joy; My sin was too much hope of thee, **lov**'d boy. Seven years tho' wert lent to me...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The apostrophe is missing from the contraction 'lov'd', which is a common parsing error from PDF to Markdown."
+24,22,',"...e state he should envy? To have so soon **'**scap'd world's and flesh's rage, And if ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The apostrophe is correctly used as part of the contraction 'scap'd in the poetic context.
+25,22,scap,"... state he should envy? To have so soon '**scap**'d world's and flesh's rage, And if no o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Scap'd is a correct poetic contraction of 'escaped'.
+26,23,Nothwestern,...n. Published 1993 by TriQuarterly Books/**Nothwestern** University Press. All rights reserved |...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,Nothwestern is a misspelling of Northwestern.
+27,23,Wislawa Szymborska,...nflict**  | The End and the Beginning | **Wislawa Szymborska** | WW Norton contacted for copyright per...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Wislawa Szymborska is the correct spelling of a proper name.
+28,23,Poems©,... an Heiress' from The Fat Black Woman's **Poems©** Grace Nichols 1984. Reproduced with per...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The copyright symbol is correctly appended to the title, which is a common formatting convention."

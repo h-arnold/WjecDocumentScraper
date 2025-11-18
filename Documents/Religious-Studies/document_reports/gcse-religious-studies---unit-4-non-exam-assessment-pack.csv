@@ -1,7 +1,7 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,95,"The phrase ""independently from"" is grammatically acceptable and commonly used in UK English."
-1,,,,,PARSING_ERROR,95,"The compound adjective ""pre-assessment"" should be hyphenated for consistency with other uses in the document and standard UK English."
-2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The verb ""campaigns"" should be ""campaign"" to agree with the plural subject ""charities or organisations""."
-3,,,,,PARSING_ERROR,95,"The compound adjective ""non-religious"" should be hyphenated for consistency with other uses in the document and standard UK English."
-4,,,,,PARSING_ERROR,95,"The compound adjective ""non-religious"" should be hyphenated for consistency with other uses in the document and standard UK English."
-5,,,,,FALSE_POSITIVE,100,"""YY"" is a standard and appropriate abbreviation for 'Year' in the context of a date format header."
+0,10,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase ""independently from"" is grammatically acceptable and commonly used in UK English."
+1,11,preassessment,... of A4 written or typed notes from your **preassessment** period work into your non-examination a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""pre-assessment"" should be hyphenated for consistency with other uses in the document and standard UK English."
+2,12,campaigns,...r global charities or organisations who **campaigns** for a human rights issues selected. For...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The verb ""campaigns"" should be ""campaign"" to agree with the plural subject ""charities or organisations""."
+3,18,non religious,...nd perspective of the two religions and **non religious** perspectives has been comprehensively a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""non-religious"" should be hyphenated for consistency with other uses in the document and standard UK English."
+4,20,non religious,...nd perspective of the two religions and **non religious** perspectives has been comprehensively a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""non-religious"" should be hyphenated for consistency with other uses in the document and standard UK English."
+5,27,YY,...                                      | **YY** |  |  |  |                             ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""YY"" is a standard and appropriate abbreviation for 'Year' in the context of a date format header."

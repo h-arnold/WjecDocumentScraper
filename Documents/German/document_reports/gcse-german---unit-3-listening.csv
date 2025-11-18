@@ -1,10 +1,10 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,100,"The correct idiom in UK English is 'with regard to' or 'as regards', not 'with regards to'."
-1,,,,,FALSE_POSITIVE,100,The letter '(c)' is a standard and correct numbering convention for a question part in educational documents.
-2,,,,,PARSING_ERROR,95,"The comma after 'the' is grammatically incorrect and indicates a missing word, likely due to a parsing error during markdown conversion."
-3,,,,,PARSING_ERROR,95,"The comma after 'the' is grammatically incorrect and indicates a missing word ('subject'), confirmed by the answer key, likely due to a parsing error."
-4,,,,,FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
-5,,,,,FALSE_POSITIVE,100,'An' is the correct German preposition ('An diesem Tag' - 'On this day') and is appropriately capitalized at the beginning of the sentence.
-6,,,,,FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
-7,,,,,FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
-8,,,,,FALSE_POSITIVE,100,'An' is the correct German preposition ('An diesem Tag' - 'On this day') and is appropriately capitalized at the beginning of the sentence.
+0,2,with regards to,...amendment was necessary due to an error **with regards to** the candidate's required language of re...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct idiom in UK English is 'with regard to' or 'as regards', not 'with regards to'."
+1,6,(c),...                 |  #### **Section 2**  **(c)** On Saturday afternoon I …  [1]  | A    ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The letter '(c)' is a standard and correct numbering convention for a question part in educational documents.
+2,9,"the,","...|  | | (ii)      | Once you have chosen **the,** you can speak to someone. | [1] |      ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The comma after 'the' is grammatically incorrect and indicates a missing word, likely due to a parsing error during markdown conversion."
+3,18,"the,","...     | (ii)      | Once you have chosen **the,** you can speak to someone. |   |  | |  |...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The comma after 'the' is grammatically incorrect and indicates a missing word ('subject'), confirmed by the answer key, likely due to a parsing error."
+4,19,Wien,...                                      | **Wien** ist eine der grünsten Städte der Welt. ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
+5,20,An,...tion 1 | Am Dienstag war Weltschlaftag. **An** diesem Tag wollen Ärzte Menschen zeigen...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'An' is the correct German preposition ('An diesem Tag' - 'On this day') and is appropriately capitalized at the beginning of the sentence.
+6,26,Wien,... der schönsten Hauptstädte Europas!  In **Wien** gibt es so viele Sehenswürdigkeiten.  W...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
+7,26,Wien,...seen!  #### **M1**  #### **Section 2**  **Wien** ist eine der grünsten Städte der Welt. ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Wien' is the correct German name for Vienna and is used appropriately within the German text.
+8,26,An,...ion 1**  Am Dienstag war Weltschlaftag. **An** diesem Tag wollen Ärzte Menschen zeigen...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'An' is the correct German preposition ('An diesem Tag' - 'On this day') and is appropriately capitalized at the beginning of the sentence.

@@ -1,5 +1,5 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The compound adjective 'well-supported' requires a hyphen in UK English.
-1,,,,,PARSING_ERROR,100,"The compound adjective 'brand-new' requires a hyphen in UK English, as correctly used elsewhere in the document."
-2,,,,,PARSING_ERROR,100,"The compound noun 'Walk-Throughs' requires a hyphen in UK English, as correctly used elsewhere on the same page."
-3,,,,,PARSING_ERROR,100,"The word 'Literature' has been incorrectly split due to a parsing error, likely from the PDF conversion."
+0,0,wellsupported,...rces into making you feel confident and **wellsupported**.  September 2024 was the final time cen...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'well-supported' requires a hyphen in UK English.
+1,2,brandnew,...shop where we will introduce you to our **brandnew** Blended Learning+ platform. This brand-...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound adjective 'brand-new' requires a hyphen in UK English, as correctly used elsewhere in the document."
+2,7,Throughs,...ish%20Literature/r/2686) and [Exam Walk **Throughs**](https://educationalresources.wjec.co.u...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound noun 'Walk-Throughs' requires a hyphen in UK English, as correctly used elsewhere on the same page."
+3,8,terature,...glish-literature-gcse/#tab_keydocuments)**terature** - [Entry Level](https://www.wjec.co.uk/...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Literature' has been incorrectly split due to a parsing error, likely from the PDF conversion."

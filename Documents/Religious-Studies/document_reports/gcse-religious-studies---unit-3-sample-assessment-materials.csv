@@ -1,74 +1,74 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-10,,,,,PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
-11,,,,,PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
-12,,,,,PARSING_ERROR,100,The word 'Exami' is a truncation of 'Examiner' and is a parsing error.
-13,,,,,PARSING_ERROR,100,The word 'Analyse' has been incorrectly split into 'Ana' and 'lyse' due to a parsing error.
-14,,,,,PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
-15,,,,,PARSING_ERROR,100,The word 'umans' is a misspelling of 'humans' and is a parsing error.
-16,,,,,FALSE_POSITIVE,100,"'Perspectives about' is grammatically correct and appropriate in this context, making this a false positive."
-17,,,,,PARSING_ERROR,100,The word 'Analyse' has been incorrectly split and misspelled as 'Allaly' due to a parsing error.
-18,,,,,FALSE_POSITIVE,100,"The phrase 'be redeemed' is grammatically correct and appropriate in this theological context, making this a false positive."
-19,,,,,FALSE_POSITIVE,100,"The phrase 'be saved' is grammatically correct and appropriate in this theological context, making this a false positive."
-20,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-21,,,,,SPELLING_ERROR,100,The correct spelling of the biblical prophet's name is 'Jeremiah'.
-22,,,,,PARSING_ERROR,95,'Longer-term' should be hyphenated as a compound adjective modifying 'consequences'.
-23,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-24,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-25,,,,,PARSING_ERROR,95,'Non-religious' should be hyphenated as a compound adjective.
-26,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-27,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-28,,,,,STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
-29,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity as it separates two independent clauses.
-30,,,,,FALSE_POSITIVE,100,The single closing quotation mark is correctly used to conclude the direct quote.
-31,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-32,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-33,,,,,PARSING_ERROR,95,"""Well-structured"" should be hyphenated when used as a compound adjective modifying ""way""."
-34,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-35,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-36,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-37,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-38,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-39,,,,,FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
-40,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-41,,,,,PARSING_ERROR,100,"The compound adjective 'non-religious' requires a hyphen, consistent with its usage elsewhere in the document and standard UK English."
-42,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-43,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-44,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-45,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-46,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-47,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-48,,,,,FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
-49,,,,,FALSE_POSITIVE,90,The phrase 'all of creation' is a common and grammatically correct idiom.
-50,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
-51,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"Adding a comma before 'and so' would improve the flow and clarity of the compound sentence, though its absence is not strictly a grammatical error."
-52,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
-53,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
-54,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
-55,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
-56,,,,,FALSE_POSITIVE,100,'Anicca' is a correct and specific Buddhist term (Pali) and should remain as written.
-57,,,,,FALSE_POSITIVE,100,'Dukkha' is a correct and specific Buddhist term (Pali) and should remain as written.
-58,,,,,FALSE_POSITIVE,100,'Siddhartha Gautama' is the correct proper name of the Buddha and should remain as written.
-59,,,,,FALSE_POSITIVE,100,'Dukkha' is a correct and specific Buddhist term (Pali) and should remain as written.
-60,,,,,FALSE_POSITIVE,100,Anicca is a correct Buddhist term for impermanence.
-61,,,,,FALSE_POSITIVE,100,Anymore is correctly spelled as one word in UK English when used as an adverb.
-62,,,,,STYLISTIC_PREFERENCE,80,"The phrase 'all of nature' is grammatically correct and stylistically acceptable, though 'all nature' could also be used."
-63,,,,,FALSE_POSITIVE,100,Inter-religious is correctly hyphenated as a compound adjective.
-64,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'so' would improve clarity by separating two independent clauses.
-65,,,,,FALSE_POSITIVE,100,Moksha is a correct Hindu religious term.
-66,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.
-67,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'and' would improve clarity by separating two independent clauses.
-68,,,,,FALSE_POSITIVE,100,Imago Dei is a correct Latin theological term.
-69,,,,,FALSE_POSITIVE,100,Gobind is correctly spelled as part of the proper name 'Guru Gobind Singh'.
-70,,,,,FALSE_POSITIVE,100,"Gobind is a correctly spelled proper noun, referring to Guru Gobind Singh."
-71,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,An apostrophe is required to indicate possession for 'Eco Sikh UK's'.
-72,,,,,FALSE_POSITIVE,90,"'Boota parshad' is a specific, non-English term used correctly in context."
-73,,,,,SPELLING_ERROR,100,'Ecosystems' should be written as a single word in standard English.
-74,,,,,FALSE_POSITIVE,100,'da' is a correctly used word within the Punjabi phrase 'Sarbat da Bhala'.
-75,,,,,STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
-76,,,,,STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
-77,,,,,STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
-78,,,,,STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
-79,,,,,STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
-80,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the original phrasing acceptable."
-81,,,,,FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the original phrasing acceptable."
-82,,,,,PARSING_ERROR,100,"The entry 'je' in the table header is clearly a parsing error, likely a misinterpretation of '3.5e' or similar, given the surrounding numerical patterns."
+10,13,Examin,...the natural world with respect. | [6] | **Examin** only | |---------|---------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
+11,22,Examin,...iefs about what makes us human. | [4] | **Examin** only | |    |                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
+12,24,Exami,...reedom of religious expression. | [6] | **Exami** only | |-----|-------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Exami' is a truncation of 'Examiner' and is a parsing error.
+13,25,lyse,...----------------------------  | Ana   | **lyse** and evaluate Muslim beliefs and teachin...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Analyse' has been incorrectly split into 'Ana' and 'lyse' due to a parsing error.
+14,27,Examin,...ewish teachings about abortion. | [4] | **Examin** only | |    |                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Examin' is a truncation of 'Examiner' and is a parsing error.
+15,29,umans,...being created in the image of God gives **umans** dignity. | [6] | |---------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'umans' is a misspelling of 'humans' and is a parsing error.
+16,34,perspectives about,...------------------  | 7. | Explain Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Perspectives about' is grammatically correct and appropriate in this context, making this a false positive."
+17,35,Allaly,...------------------------------------  | **Allaly** | se and evaluate Sikh beliefs and teac...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Analyse' has been incorrectly split and misspelled as 'Allaly' due to a parsing error.
+18,39,be redeemed,"...li>Humans fall into sin but are able to **be redeemed** through belief in Jesus (Genesis 3, Joh...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The phrase 'be redeemed' is grammatically correct and appropriate in this theological context, making this a false positive."
+19,39,be saved,... born with Original Sin but are able to **be saved** because Jesus died for human sin.</li><...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The phrase 'be saved' is grammatically correct and appropriate in this theological context, making this a false positive."
+20,40,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion. |  #### Answers may refer to ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+21,40,Jeremaih,...e and that abortion destroys this plan (**Jeremaih** 1:5) - Many Christians support adoption...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The correct spelling of the biblical prophet's name is 'Jeremiah'.
+22,40,longerterm,...nctity of life. They would consider the **longerterm** consequences of having an abortion on t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Longer-term' should be hyphenated as a compound adjective modifying 'consequences'.
+23,41,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response comprehensive...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+24,41,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response comprehensive...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+25,41,non religious,...ins Christian beliefs and teachings and **non religious** perspectives towards abortion using rel...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Non-religious' should be hyphenated as a compound adjective.
+26,41,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response adequately ex...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+27,41,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response superficially...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+28,41,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response loosely expla...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Both 'about' and 'on' are acceptable prepositions in this context; 'about' is not incorrect.
+29,42,and,...believe that animals were created by God** and** he declared all creation 'very good' (G...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve clarity as it separates two independent clauses.
+30,42,',...; you are worth more than many sparrows.**'** (Matthew 10:29-31).  {43}--------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The single closing quotation mark is correctly used to conclude the direct quote.
+31,44,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression. |  Ans...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+32,45,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+33,45,well structured,...fectively examines different views in a **well structured** way 5-6 marks</li><li>a good discussion...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"""Well-structured"" should be hyphenated when used as a compound adjective modifying ""way""."
+34,45,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+35,45,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+36,45,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+37,47,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion. |  #### Answers may refer to ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+38,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response comprehensive...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+39,48,perspectives about,"...beliefs and teachings and non-religious **perspectives about** abortion using detailed, relevant examp...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""Perspectives about"" is grammatically correct and appropriate in this context."
+40,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response comprehensive...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+41,48,non religious,...ains Catholic beliefs and teachings and **non religious** perspectives about abortion using relev...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound adjective 'non-religious' requires a hyphen, consistent with its usage elsewhere in the document and standard UK English."
+42,48,perspectives about,...beliefs and teachings and non religious **perspectives about** abortion using relevant examples</li></...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+43,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response adequately ex...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+44,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion using relevant examples</li></...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+45,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response superficially...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+46,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion using examples</li></ul> |  | ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+47,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li><li>response loosely expla...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+48,48,perspectives about,...beliefs and teachings and non-religious **perspectives about** abortion</li></ul> |  | | 0 | 0 marks R...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'perspectives about' is grammatically correct and commonly used in this context.
+49,49,all of creation,"... - In the Book of Genesis, God declares **all of creation** including animals 'very good'. Therefor...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'all of creation' is a common and grammatically correct idiom.
+50,51,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression. |  # A...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
+51,51,and,...ve that God has given humanity free will** and** so they are free to share their faith w...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"Adding a comma before 'and so' would improve the flow and clarity of the compound sentence, though its absence is not strictly a grammatical error."
+52,52,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
+53,52,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
+54,52,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
+55,52,perspectives about,...beliefs and teachings and non-religious **perspectives about** freedom of religious expression</li><li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the suggestion unnecessary."
+56,53,anicca,"...eality as the Three Marks of Existence; **anicca**, anatta and dukkha</li></ul> |  |  |  |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Anicca' is a correct and specific Buddhist term (Pali) and should remain as written.
+57,53,dukkha,"... Marks of Existence; anicca, anatta and **dukkha**</li></ul> |  |  |  |  | |  | <ul><li>Th...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Dukkha' is a correct and specific Buddhist term (Pali) and should remain as written.
+58,53,Siddhartha Gautama,"...rvana through The Three Jewels; Buddha (**Siddhartha Gautama**), Dharma (Buddha's teachings) and Sangh...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Siddhartha Gautama' is the correct proper name of the Buddha and should remain as written.
+59,56,dukkha,"... to material wealth (tanha) that causes **dukkha** (dissatisfaction), not wealth itself. I...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Dukkha' is a correct and specific Buddhist term (Pali) and should remain as written.
+60,56,anicca,"...er than holding the Buddhist view about **anicca**, that great wealth is meaningless becau...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Anicca is a correct Buddhist term for impermanence.
+61,56,anymore,...h before they become old and can't work **anymore** - Buddhist monks and nuns have no posse...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Anymore is correctly spelled as one word in UK English when used as an adverb.
+62,59,all of nature,"...ing beings, meaning showing respect for **all of nature** including humans, animals and vegetatio...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The phrase 'all of nature' is grammatically correct and stylistically acceptable, though 'all nature' could also be used."
+63,60,inter-religious,"...hava and ahimsa, in his efforts to stop **inter-religious** violence in India in the twentieth cent...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Inter-religious is correctly hyphenated as a compound adjective.
+64,62,so,...ctices should not be used to gain wealth** so** certain occupations are seen as immoral...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'so' would improve clarity by separating two independent clauses.
+65,62,moksha,... on karma and prevent the attainment of **moksha**. 'One may amass wealth with hundreds of...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Moksha is a correct Hindu religious term.
+66,62,but,... may amass wealth with hundreds of hands** but** one should also distribute it with thou...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.
+67,62,and,...o depend on the charity (dana) of others** and** it is a part of a Hindu's dharma to sup...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'and' would improve clarity by separating two independent clauses.
+68,71,Dei,...ing created in the image of God (*Imago **Dei***) gives humans inherent dignity because...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Imago Dei is a correct Latin theological term.
+69,75,Gobind,...fusing to convert to Islam</li><li>Guru **Gobind** Singh instructed Sikhs to wear the turb...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,Gobind is correctly spelled as part of the proper name 'Guru Gobind Singh'.
+70,75,Gobind,...fusing to convert to Islam</li><li>Guru **Gobind** Singh instructed Sikhs to wear the turb...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"Gobind is a correctly spelled proper noun, referring to Guru Gobind Singh."
+71,76,UKs,...of Waheguru's greatness and so Eco Sikh **UKs** 'boota parshad' encourages Sikhs to pla...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,An apostrophe is required to indicate possession for 'Eco Sikh UK's'.
+72,76,boota,...heguru's greatness and so Eco Sikh UKs '**boota** parshad' encourages Sikhs to plant flow...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"'Boota parshad' is a specific, non-English term used correctly in context."
+73,76,eco systems,...ract bees; critical for continuation of **eco systems** - Eco Sikh UK engages in inter-faith di...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Ecosystems' should be written as a single word in standard English.
+74,76,da,...e and demonstrate the concept of Sarbat **da** Bhala (the well-being of all) and highl...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'da' is a correctly used word within the Punjabi phrase 'Sarbat da Bhala'.
+75,77,perspectives about,...------------------| | 7. | Explain Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
+76,77,perspectives about,...hensively and effectively explains Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
+77,77,perspectives about,"...ed, relevant examples to exemplify Sikh **perspectives about** the use of animals for medical research...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
+78,77,perspectives about,...tion that comprehensively explains Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
+79,77,perspectives about,...ses relevant examples to exemplify Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"'Perspectives about' is grammatically acceptable, though 'perspectives on' is a common alternative."
+80,77,perspectives about,...nation that superficially explains Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the original phrasing acceptable."
+81,77,perspectives about,.../li><li>uses examples to exemplify Sikh **perspectives about** the use of animals for medical research...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"The phrase 'perspectives about' is grammatically correct and commonly used in UK English, making the original phrasing acceptable."
+82,83,je,...                    | .4e    | 3.5    | **je**     | 3.6e   |        | Total | AO1   |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The entry 'je' in the table header is clearly a parsing error, likely a misinterpretation of '3.5e' or similar, given the surrounding numerical patterns."

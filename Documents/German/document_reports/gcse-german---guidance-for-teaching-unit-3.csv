@@ -1,8 +1,8 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
-1,,,,,PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
-2,,,,,SPELLING_ERROR,100,The proper noun 'Goethe-Institut' is officially hyphenated.
-3,,,,,PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
-4,,,,,FALSE_POSITIVE,100,The word 'groups' is correctly used in this context.
-5,,,,,PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
-6,,,,,FALSE_POSITIVE,90,The phrase 'independently from home' is grammatically correct and conveys the intended meaning.
+0,12,German speaking,"... incorporate the culture and society of **German speaking** countries, not only Germany across all ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
+1,12,German speaking,...explore cultural aspects of Germany and **German speaking** countries. https://www.youtube.com/watc...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
+2,13,Goethe Institut,...de/kul/bib/fio.html>rent films from the **Goethe Institut**.  ## engage with the language from a va...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The proper noun 'Goethe-Institut' is officially hyphenated.
+3,13,German speaking,"...hannel - Blogs or Social Media Posts by **German speaking** influencers or personalities, on a rang...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
+4,16,groups,...ary after listening to a short text. In **groups** they try to identify as much detail as ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'groups' is correctly used in this context.
+5,17,German speaking,"...nterview from the LGBTQ+ community in a **German speaking** country, where they talk about their ex...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'German-speaking' should be hyphenated when preceding a noun.
+6,25,independently from,...des per week or spend 'Y' time studying **independently from** home.,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'independently from home' is grammatically correct and conveys the intended meaning.

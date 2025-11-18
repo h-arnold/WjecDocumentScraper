@@ -1,4 +1,4 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,"The compound noun 'walk-throughs' requires a hyphen for correct UK English usage, indicating a parsing error from the original document."
-1,,,,,STYLISTIC_PREFERENCE,80,"The phrase 'all of the' is grammatically correct and acceptable, though 'all the' is a more concise stylistic alternative."
-2,,,,,STYLISTIC_PREFERENCE,80,"The phrase 'all of the' is grammatically correct and acceptable, though 'all the' is a more concise stylistic alternative."
+0,1,throughs,...l secure website. | | Exam and NEA Walk **throughs** Available Summer term 2025 | To support...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound noun 'walk-throughs' requires a hyphen for correct UK English usage, indicating a parsing error from the original document."
+1,2,all of the,...ARNING TRAINING COURSES  Materials from **all of the** professional learning events that have ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The phrase 'all of the' is grammatically correct and acceptable, though 'all the' is a more concise stylistic alternative."
+2,3,all of the,...G (PL) TRAINING COURSES  Materials from **all of the** professional learning events that have ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The phrase 'all of the' is grammatically correct and acceptable, though 'all the' is a more concise stylistic alternative."

@@ -1,18 +1,18 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,This appears to be a fragmented word due to a parsing error; 'Record' is the intended word.
-1,,,,,PARSING_ERROR,95,This is a fragmented word due to a parsing error; 'Assessment' is the intended word.
-2,,,,,PARSING_ERROR,80,The mixed casing 'SIMPle' is incorrect and likely a parsing error; it should be 'Simple' or an all-caps acronym if intended.
-3,,,,,PARSING_ERROR,95,This is a fragmented word due to a parsing error; 'Limited' is the intended word.
-4,,,,,PARSING_ERROR,95,This is a severe parsing error; it should likely be 'Ltd' or 'Limited' as part of the copyright notice.
-5,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective in UK English.
-6,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often considered redundant; 'outside' alone is more concise and preferred in formal writing.
-7,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective in UK English.
-8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The definite article 'the' is incorrectly placed before the infinitive verb 'achieve'; it should be 'how to achieve'.
-9,,,,,STYLISTIC_PREFERENCE,85,'Outside of' is often considered redundant; 'outside' alone is more concise and preferred in formal writing.
-10,,,,,FALSE_POSITIVE,95,"Coversheet is an acceptable single-word compound noun in UK English, commonly used in official documentation."
-11,,,,,PARSING_ERROR,90,The compound adjective '45-minute' should be hyphenated when modifying 'period' in UK English.
-12,,,,,FALSE_POSITIVE,95,"Coversheet is an acceptable single-word compound noun in UK English, commonly used in official documentation."
-13,,,,,FALSE_POSITIVE,95,Audio-visual is correctly hyphenated as a compound adjective in UK English.
-14,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,A comma is required before the conjunction 'but' when it connects two independent clauses.
-15,,,,,FALSE_POSITIVE,90,Independently from is a grammatically correct and acceptable phrasing in UK English.
-16,,,,,FALSE_POSITIVE,100,YY is a standard placeholder for 'Year' in a date format on a form and is correct as written.
+0,2,ord,...ectives: Unit 315 | |                 | **ord**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This appears to be a fragmented word due to a parsing error; 'Record' is the intended word.
+1,2,sment,...                  | | Candidate Asses | **sment** Pack (3750U3)                          ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This is a fragmented word due to a parsing error; 'Assessment' is the intended word.
+2,2,SIMPle,...                                    | | **SIMPle**          | Not tot use with            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,80,The mixed casing 'SIMPle' is incorrect and likely a parsing error; it should be 'Simple' or an all-caps acronym if intended.
+3,2,imited,...                  | |                 | **imited** 2025                                   ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This is a fragmented word due to a parsing error; 'Limited' is the intended word.
+4,2,IIIIIIleu,...                  | | © WJEC CBAC L   | **IIIIIIleu** 2023.                                  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This is a severe parsing error; it should likely be 'Ltd' or 'Limited' as part of the copyright notice.
+5,4,audio-visual,... of 3-4 learners.  Centres must make an **audio-visual** recording of all group discussions.  Th...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective in UK English.
+6,5,outside of,...ch and planning work related to the NEA **outside of** the centre.  #### **Resources**  During...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often considered redundant; 'outside' alone is more concise and preferred in formal writing.
+7,6,audio-visual,"...on, the teacher should: <ul><li>make an **audio-visual** recording of the discussion</li><li>giv...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective in UK English.
+8,8,the achieve,...for an advertisement campaign on how to **the achieve** a healthy work-life balance. |  |  ####...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The definite article 'the' is incorrectly placed before the infinitive verb 'achieve'; it should be 'how to achieve'.
+9,8,outside of,...of the planning work related to the NEA **outside of** the centre.  {9}-----------------------...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside of' is often considered redundant; 'outside' alone is more concise and preferred in formal writing.
+10,9,coversheet,...n the Unit 3 non-examination assessment **coversheet**. Cover sheets for each series must be d...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"Coversheet is an acceptable single-word compound noun in UK English, commonly used in official documentation."
+11,9,45 minute,"...completed by the learner in this 1 hour **45 minute** period, it may not be revised.  #### **...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The compound adjective '45-minute' should be hyphenated when modifying 'period' in UK English.
+12,10,coversheet,...warded should be completed on each unit **coversheet**.  The assessment of Task A can be carri...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"Coversheet is an acceptable single-word compound noun in UK English, commonly used in official documentation."
+13,10,audio-visual,... of the response or by listening to the **audio-visual** recording at a later time. Teachers sho...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,Audio-visual is correctly hyphenated as a compound adjective in UK English.
+14,16,but,...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> | |...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,A comma is required before the conjunction 'but' when it connects two independent clauses.
+15,21,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,Independently from is a grammatically correct and acceptable phrasing in UK English.
+16,24,YY,...      |  | DD    | MM                 | **YY**           |       | Hour  |  | Minutes ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,YY is a standard placeholder for 'Year' in a date format on a form and is correct as written.

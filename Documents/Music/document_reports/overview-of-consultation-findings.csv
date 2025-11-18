@@ -1,15 +1,15 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
-1,,,,,PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
-2,,,,,FALSE_POSITIVE,90,This is part of a URL and is correctly formatted for a web address.
-3,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
-4,,,,,FALSE_POSITIVE,90,The phrase 'all of the' is grammatically correct and commonly used in UK English.
-5,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
-6,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
-7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'that' ('that that') is a clear grammatical error and one instance should be removed.
-8,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
-9,,,,,FALSE_POSITIVE,90,The phrase 'whether or not' is grammatically correct and commonly used to express alternatives.
-10,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."
-11,,,,,PARSING_ERROR,95,The compound adjective 'time-consuming' should be hyphenated when preceding the noun it modifies.
-12,,,,,SPELLING_ERROR,90,"The correct idiomatic phrase is 'with regard to', not 'with regards to'."
-13,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."
+0,1,Exper,... and Communication Area of Learning and **Exper** | ience .15 | | Level 2 Award in Additi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
+1,1,ience,...munication Area of Learning and Exper | **ience** .15 | | Level 2 Award in Additional Cor...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
+2,2,made-for-wales-gcses,...form/reforming/qualified-for-the-future/**made-for-wales-gcses**/#approval-criteria\)](https://qualifica...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,This is part of a URL and is correctly formatted for a web address.
+3,5,and,...greater detail with Qualifications Wales** and** we will also be discussing the issue wi...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+4,6,all of the,...ications will provide stakeholders with **all of the** information they require in due course....,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'all of the' is grammatically correct and commonly used in UK English.
+5,9,and,...hat the content is teachable in the time** and** we will strengthen our focus on reviewi...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+6,10,and,... balance of physical and human geography** and** we have updated the possible areas to b...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+7,10,that that,...ts generally agreed or partially agreed **that that** the proposed assessment approach is app...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'that' ('that that') is a clear grammatical error and one instance should be removed.
+8,12,and,...sed concern that the weighting was heavy** and** it would impact on teacher workload. We...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+9,13,whether or not,...dual learners or groups of learners and **whether or not** the teacher performs the control elemen...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'whether or not' is grammatically correct and commonly used to express alternatives.
+10,15,and,...r for this unit is aware of the concerns** and** we will aim to include writing that rep...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."
+11,17,time consuming,...ondents conveying that oracy tasks were **time consuming** and difficult to administer. As a direc...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'time-consuming' should be hyphenated when preceding the noun it modifies.
+12,17,with regards to,...t is clearly on 'Continuity and change' **with regards to** both language and ideas. There will now...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,"The correct idiomatic phrase is 'with regard to', not 'with regards to'."
+13,18,and,... are supported by this new qualification** and** we will work to ensure that this is the...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."

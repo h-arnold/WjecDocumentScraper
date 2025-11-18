@@ -1,9 +1,9 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'assessments' requires the plural verb 'are', not 'is'."
-1,,,,,PARSING_ERROR,95,"The word 're-enforce' should be hyphenated without a space, or preferably spelled 'reinforce'."
-2,,,,,PARSING_ERROR,90,'Subtitles' is typically written as a single word in UK English.
-3,,,,,PARSING_ERROR,90,'Subheadings' is typically written as a single word in UK English.
-4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'but' would improve clarity as it separates two independent clauses.
-5,,,,,SPELLING_ERROR,90,'Audiobook' is conventionally written as a single word in UK English.
-6,,,,,FALSE_POSITIVE,100,The word 'verbs' is correctly spelled and used as an introductory label for a list of examples.
-7,,,,,FALSE_POSITIVE,90,"'Gif' is an acceptable lowercase spelling for the animated image format, especially in informal contexts or examples."
+0,8,is,...rd of the date on which the assessments **is** conducted including the name of the wor...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'assessments' requires the plural verb 'are', not 'is'."
+1,11,re -enforce,"...iarise themselves with the chosen work, **re -enforce** understanding of the written content, m...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 're-enforce' should be hyphenated without a space, or preferably spelled 'reinforce'."
+2,12,sub-titles,"...lel or tangled texts, watch a film with **sub-titles** or voiceover, and / or provide supporti...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,'Subtitles' is typically written as a single word in UK English.
+3,12,sub-headings,...ividual notes can include the following **sub-headings** to provide opportunity to introduce and...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,'Subheadings' is typically written as a single word in UK English.
+4,14,but,...             | culture and contributions** but** this is not compulsory.                ...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'but' would improve clarity as it separates two independent clauses.
+5,15,audio books,...<li>Learners can use Immersive reader / **audio books** / streaming to access the chosen work</...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,'Audiobook' is conventionally written as a single word in UK English.
+6,23,verbs,... transport to plan the journey. (sample **verbs** voyager / rester / visiter / manger / t...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'verbs' is correctly spelled and used as an introductory label for a list of examples.
+7,25,gif,"...capcut.com/)', etc. to create a meme or **gif** that uses the quote.  #### Producing  {...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"'Gif' is an acceptable lowercase spelling for the animated image format, especially in informal contexts or examples."

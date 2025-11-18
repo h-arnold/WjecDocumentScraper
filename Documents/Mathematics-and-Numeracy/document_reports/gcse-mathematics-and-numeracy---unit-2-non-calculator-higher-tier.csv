@@ -1,127 +1,127 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
-1,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
-2,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
-3,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
-4,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
-5,,,,,FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
-6,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"While 'is a number of' can be argued as grammatically acceptable, 'are a number of' is generally preferred for plural nouns like 'beads' to maintain subject-verb agreement."
-7,,,,,FALSE_POSITIVE,100,The phrase 'least possible number' is grammatically correct and appropriately used with a countable noun.
-8,,,,,PARSING_ERROR,95,This is a parsing error; 'elative' should be 'Relative' as part of 'Relative frequency'.
-9,,,,,PARSING_ERROR,95,This is a parsing error; 'fred' should be 'frequency' as part of 'Relative frequency'.
-10,,,,,PARSING_ERROR,100,The word 'frequency' has been incorrectly split and partially omitted due to a parsing error.
-11,,,,,PARSING_ERROR,100,"'th' is an incomplete word, likely part of 'the', resulting from a parsing error."
-12,,,,,PARSING_ERROR,100,"'ne' is an incomplete word, likely part of 'the', resulting from a parsing error."
-13,,,,,PARSING_ERROR,100,The word 'rotten' has been incorrectly split due to a parsing error.
-14,,,,,PARSING_ERROR,100,The word 'rotten' has been incorrectly split due to a parsing error.
-15,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-16,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-17,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-18,,,,,FALSE_POSITIVE,100,"`$Y` is correctly used as part of a LaTeX mathematical expression, not a standalone word."
-19,,,,,FALSE_POSITIVE,100,"`\widehat` is a correct LaTeX command for mathematical notation, not a spelling error."
-20,,,,,PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `Q`.
-21,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
-22,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
-23,,,,,FALSE_POSITIVE,100,The comma is correctly used as a separator for coordinates within parentheses.
-24,,,,,PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `g`.
-25,,,,,PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the term `gh`.
-26,,,,,PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `d`.
-27,,,,,FALSE_POSITIVE,100,`nd` is correctly used as an ordinal indicator for 'second' (2nd).
-28,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
-29,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
-30,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-31,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-32,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-33,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-34,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-35,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-36,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-37,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-38,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-39,,,,,FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
-40,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-41,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-42,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-43,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
-44,,,,,FALSE_POSITIVE,100,`$a` correctly denotes a mathematical variable within LaTeX inline math mode.
-45,,,,,FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
-46,,,,,FALSE_POSITIVE,100,`$b` correctly denotes a mathematical variable within LaTeX inline math mode.
-47,,,,,FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
-48,,,,,FALSE_POSITIVE,100,`$c` correctly denotes a mathematical variable within LaTeX inline math mode.
-49,,,,,FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
-50,,,,,FALSE_POSITIVE,100,"The highlighted text '$b$' is a mathematical variable correctly rendered in LaTeX, not an English word."
-51,,,,,FALSE_POSITIVE,100,"The highlighted text '$b$' is a mathematical variable correctly rendered in LaTeX, not an English word."
-52,,,,,PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(14),` or `(14)`."
-53,,,,,PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(16),` or `(16)`."
-54,,,,,PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(10),` or `(10)`."
-55,,,,,FALSE_POSITIVE,100,The single quote is correctly used to delimit a mathematical expression being referred to in the text.
-56,,,,,FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
-57,,,,,FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
-58,,,,,FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
-59,,,,,FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
-60,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{...}$` for a fraction.
-61,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{9}{200}$` for a fraction.
-62,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
-63,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
-64,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
-65,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{3}{4}$` for a fraction.
-66,,,,,PARSING_ERROR,90,"The single quote is part of an improperly quoted phrase, likely a parsing error where a closing quote was omitted."
-67,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{1}{8}$` for a fraction.
-68,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{1}{8}$` for a fraction.
-69,,,,,PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$8^{rac{2}{3}}$` for a fractional exponent.
-70,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{1}{0.25}' and is correct as written.
-71,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{2}{3}' and is correct as written.
-72,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{1}{0.25}' and is correct as written.
-73,,,,,FALSE_POSITIVE,100,The highlighted '$ab' represents a mathematical variable 'ab' within a LaTeX expression and is correct as written.
-74,,,,,FALSE_POSITIVE,100,The highlighted '$c' represents a mathematical variable 'c' within a LaTeX expression and is correct as written.
-75,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{2}{14}' and is correct as written.
-76,,,,,FALSE_POSITIVE,100,The highlighted 'th' is part of the LaTeX command '\text{th term}' and is correct as written.
-77,,,,,FALSE_POSITIVE,100,The highlighted 'th' is correctly used in '166 (th term)' to denote an ordinal number.
-78,,,,,FALSE_POSITIVE,100,The highlighted 'circ' is part of a LaTeX mathematical command '^{\circ}' for degrees and is correct as written.
-79,,,,,FALSE_POSITIVE,100,The highlighted 'circ' is part of a LaTeX mathematical command '^{\circ}' for degrees and is correct as written.
-80,,,,,FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
-81,,,,,FALSE_POSITIVE,100,"The highlighted text `$O` is a variable within a mathematical expression, correctly formatted in LaTeX."
-82,,,,,FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
-83,,,,,FALSE_POSITIVE,100,"The highlighted text `$O` is a variable within a mathematical expression, correctly formatted in LaTeX."
-84,,,,,FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
-85,,,,,FALSE_POSITIVE,100,"The highlighted text `$x` is a variable within a mathematical expression, correctly formatted in LaTeX."
-86,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
-87,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
-88,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
-89,,,,,FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
-90,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-91,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-92,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-93,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-94,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-95,,,,,PARSING_ERROR,95,The `$` character is a parsing error and should not be present before the number 4.
-96,,,,,FALSE_POSITIVE,100,"The `$` character is a LaTeX delimiter for inline mathematics, and `y` is correctly part of the mathematical expression."
-97,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-98,,,,,FALSE_POSITIVE,100,"The `$` character is a LaTeX delimiter for inline mathematics, and `y` is correctly part of the mathematical expression."
-99,,,,,FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
-100,,,,,FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
-101,,,,,PARSING_ERROR,95,`frac` is part of a LaTeX command `\frac` that has not been rendered correctly in the markdown.
-102,,,,,FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
-103,,,,,PARSING_ERROR,95,`ge` is part of a LaTeX command `\ge` that has not been rendered correctly in the markdown.
-104,,,,,FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
-105,,,,,PARSING_ERROR,95,`frac` is part of a LaTeX command `\frac` that has not been rendered correctly in the markdown.
-106,,,,,FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
-107,,,,,PARSING_ERROR,95,`ge` is part of a LaTeX command `\ge` that has not been rendered correctly in the markdown.
-108,,,,,FALSE_POSITIVE,95,`B1 B1` is a standard and correct notation for marking schemes in WJEC documents.
-109,,,,,FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
-110,,,,,FALSE_POSITIVE,95,The highlighted '$x$' is a correctly formatted LaTeX variable within a mathematical expression.
-111,,,,,FALSE_POSITIVE,95,The highlighted '$x$' is a correctly formatted LaTeX variable within a mathematical expression.
-112,,,,,FALSE_POSITIVE,90,`gh` is correctly used as a product of two variables in a mathematical context.
-113,,,,,FALSE_POSITIVE,95,"`M1 m1` is a standard notation for marking schemes in mathematics, correctly used here."
-114,,,,,FALSE_POSITIVE,95,The parenthesis is correctly used as part of a mathematical expression.
-115,,,,,FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
-116,,,,,FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
-117,,,,,FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
-118,,,,,FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
-119,,,,,FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
-120,,,,,FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
-121,,,,,FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
-122,,,,,FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
-123,,,,,FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
-124,,,,,FALSE_POSITIVE,95,"'Sp,' is used as a mathematical variable or abbreviation in a probability context and is correct as written."
-125,,,,,FALSE_POSITIVE,100,"'ocw' is a standard WJEC abbreviation for 'Organisation, Communication and Written accuracy' and is correct as a column header."
+0,4,longrightarrow,...        | | _  | $\boxed{ \text{INPUT} \**longrightarrow** \boxed{ \text{Divide by } \frac{3}{8} }...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
+1,4,frac,...ngrightarrow \boxed{ \text{Divide by } \**frac**{3}{8} } \longrightarrow \boxed{ \text{S...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
+2,4,longrightarrow,...boxed{ \text{Divide by } \frac{3}{8} } \**longrightarrow** \boxed{ \text{Subtract } \frac{1}{2^3} ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
+3,4,frac,...ongrightarrow \boxed{ \text{Subtract } \**frac**{1}{2^3} } \longrightarrow \boxed{ \text...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
+4,4,longrightarrow,...oxed{ \text{Subtract } \frac{1}{2^3} } \**longrightarrow** \boxed{ \text{OUTPUT} }$ |             ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for an arrow, correctly used within a mathematical expression."
+5,4,frac,...        | |    | The INPUT number is $2\**frac**{5}{8}$ . What is the OUTPUT number?    ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"This is a LaTeX command for a fraction, correctly used within a mathematical expression."
+6,6,is a large number of,...------------------------|--| |  | There **is a large number of** beads in a bag. There are 4 different c...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"While 'is a number of' can be argued as grammatically acceptable, 'are a number of' is generally preferred for plural nouns like 'beads' to maintain subject-verb agreement."
+7,9,least,"...ture_6.jpeg)  Delyth wants to buy the ****least** possible number of boxes** so that, in ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'least possible number' is grammatically correct and appropriately used with a countable noun.
+8,11,elative,...             |                        | **elative** fred  | quency of th | ne rotten orange...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This is a parsing error; 'elative' should be 'Relative' as part of 'Relative frequency'.
+9,11,fred,...     |                        | elative **fred**  | quency of th | ne rotten oranges | [...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,This is a parsing error; 'fred' should be 'frequency' as part of 'Relative frequency'.
+10,11,quency,...                      | elative fred  | **quency** of th | ne rotten oranges | [2] |  | | ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'frequency' has been incorrectly split and partially omitted due to a parsing error.
+11,11,th,...            | elative fred  | quency of **th** | ne rotten oranges | [2] |  | |    |  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'th' is an incomplete word, likely part of 'the', resulting from a parsing error."
+12,11,ne,...       | elative fred  | quency of th | **ne** rotten oranges | [2] |  | |    |       ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'ne' is an incomplete word, likely part of 'the', resulting from a parsing error."
+13,11,rott,... |  | |  | (b) | There are 500 How many **rott** |  |  |  | nd in these | 5000 oranges? ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'rotten' has been incorrectly split due to a parsing error.
+14,11,nd,... There are 500 How many rott |  |  |  | **nd** in these | 5000 oranges? | [2] |  | |  ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'rotten' has been incorrectly split due to a parsing error.
+15,11,frac,...        | o estimate <sup>³</sup> \ | $\**frac**{27002}{8.05^2}$ |               |      ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+16,14,frac,...only  4.1 8 4100 0.08 41 80  $$41 \div \**frac**{1}{8}$$  <sup>410</sup> 0.008 <sup>410<...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+17,14,frac,...plified value of these two numbers.  $$\**frac**{1}{2^2}$$  8 2 <sup>3</sup> √16 <sup>3<...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+18,17,$Y,...drawn to scale  | Calculate the size of **$Y**\widehat{P}Q$ . |  | |------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`$Y` is correctly used as part of a LaTeX mathematical expression, not a standalone word."
+19,17,widehat,...wn to scale  | Calculate the size of $Y\**widehat**{P}Q$ . |  | |--------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`\widehat` is a correct LaTeX command for mathematical notation, not a spelling error."
+20,17,Q$,...e  | Calculate the size of $Y\widehat{P}**Q$** . |  | |-------------------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `Q`.
+21,17,frac,...valuate $0.\dot{4}\dot{2} \times \left(\**frac**{7}{4^{\frac{1}{2}} + 2^{6}}\right)^{-1}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+22,17,frac,...dot{4}\dot{2} \times \left(\frac{7}{4^{\**frac**{1}{2}} + 2^{6}}\right)^{-1}$ . [4] | |-...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+23,19,",","...………………… Centre of the enlargement (………… **,** ……….)  {20}----------------------------...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The comma is correctly used as a separator for coordinates within parentheses.
+24,21,$g$,...-------------------------  | 19. | Make **$g$** the subject of the following formula. |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `g`.
+25,21,$gh,...--------|-----|---------------| |     | **$gh** = \sqrt[3]{27g^3 + 7}$                 ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the term `gh`.
+26,25,$d,...-| | 1. $13d - 5d = -31 - 9$ $8d = -40$ **$d** = -5$ | B1 B1 B1 | FT until 2 <sup>nd</...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `$` character is a remnant of the LaTeX math environment parsing and should not be attached to the variable `d`.
+27,25,nd,...$ $d = -5$ | B1 B1 B1 | FT until 2 <sup>**nd**</sup> error  Mark final answer Allow an...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`nd` is correctly used as an ordinal indicator for 'second' (2nd).
+28,25,frac,"...r, otherwise accept a fraction | | 2. $\**frac**{21}{8} \times \frac{8}{3} - \frac{1}{8}...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+29,25,frac,...a fraction | | 2. $\frac{21}{8} \times \**frac**{8}{3} - \frac{1}{8}$ | M2 | M1 for any ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+30,25,frac,... 2. $\frac{21}{8} \times \frac{8}{3} - \**frac**{1}{8}$ | M2 | M1 for any one of the fol...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+31,25,frac,...or any one of the following: <ul><li>$2\**frac**{5}{8} \div \frac{3}{8} = \frac{21}{8} \...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+32,25,frac,... following: <ul><li>$2\frac{5}{8} \div \**frac**{3}{8} = \frac{21}{8} \times \frac{8}{3}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+33,25,frac,...l><li>$2\frac{5}{8} \div \frac{3}{8} = \**frac**{21}{8} \times \frac{8}{3}$</li><li>$\fr...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+34,25,frac,...\div \frac{3}{8} = \frac{21}{8} \times \**frac**{8}{3}$</li><li>$\frac{1}{2^3} = \frac{1...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+35,25,frac,...ac{21}{8} \times \frac{8}{3}$</li><li>$\**frac**{1}{2^3} = \frac{1}{8}$</li></ul> | | $6...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+36,25,frac,... \frac{8}{3}$</li><li>$\frac{1}{2^3} = \**frac**{1}{8}$</li></ul> | | $6\frac{7}{8}$    ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+37,25,frac,...1}{2^3} = \frac{1}{8}$</li></ul> | | $6\**frac**{7}{8}$                                 ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+38,25,frac,... of the following:</li> <li>         \$\**frac**{21}{8} \times \frac{8}{3} = 7\$     </l...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+39,25,frac,...li> <li>         \$\frac{21}{8} \times \**frac**{8}{3} = 7\$     </li> <li>final answer ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the correct LaTeX command `\frac` for displaying fractions in mathematical expressions.
+40,25,frac,...8}{3} = 7\$     </li> <li>final answer \**frac**{55}{8}</li> <li>'their \frac{21}{8} \ti...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+41,25,frac,...al answer \frac{55}{8}</li> <li>'their \**frac**{21}{8} \times \frac{8}{3}' - \frac{1}{8...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+42,25,frac,...8}</li> <li>'their \frac{21}{8} \times \**frac**{8}{3}' - \frac{1}{8} \text{ correctly e...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+43,25,frac,...eir \frac{21}{8} \times \frac{8}{3}' - \**frac**{1}{8} \text{ correctly evaluated and gi...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is a correct LaTeX command for fractions within a mathematical expression, not a spelling error."
+44,25,$a,...en as a mixed number}</li> </ul> | | 3. **$a** = 42^{\circ}$ $b = 65^{\circ}$ $c = 115...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$a` correctly denotes a mathematical variable within LaTeX inline math mode.
+45,25,circ,...xed number}</li> </ul> | | 3. $a = 42^{\**circ**}$ $b = 65^{\circ}$ $c = 115^{\circ}$ | ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
+46,25,$b,...ber}</li> </ul> | | 3. $a = 42^{\circ}$ **$b** = 65^{\circ}$ $c = 115^{\circ}$ | B1 B1...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$b` correctly denotes a mathematical variable within LaTeX inline math mode.
+47,25,circ,...</ul> | | 3. $a = 42^{\circ}$ $b = 65^{\**circ**}$ $c = 115^{\circ}$ | B1 B1 B1 | Answer...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
+48,25,$c,... | 3. $a = 42^{\circ}$ $b = 65^{\circ}$ **$c** = 115^{\circ}$ | B1 B1 B1 | Answer spac...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`$c` correctly denotes a mathematical variable within LaTeX inline math mode.
+49,25,circ,...42^{\circ}$ $b = 65^{\circ}$ $c = 115^{\**circ**}$ | B1 B1 B1 | Answer spaces take prece...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`circ` is part of the correct LaTeX command `^{\circ}` for the degree symbol, not a spelling error."
+50,25,$b$,"...spaces take precedence FT 180 °– 'their **$b$** ' provided 'their $b$ ' $\neq$ 0°, 90° ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text '$b$' is a mathematical variable correctly rendered in LaTeX, not an English word."
+51,25,$b$,"... FT 180 °– 'their $b$ ' provided 'their **$b$** ' $\neq$ 0°, 90° or 180° |  {26}-------...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text '$b$' is a mathematical variable correctly rendered in LaTeX, not an English word."
+52,27,"14,)","... of 2 × 7, 2 × 2 × 4 and 2 × 5</li><li>(**14,)** 28, 42, 56 and (16,) 32, 48, 64 and (10...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(14),` or `(14)`."
+53,27,"16,)","...and 2 × 5</li><li>(14,) 28, 42, 56 and (**16,)** 32, 48, 64 and (10,) 20, 30, 40</li><li...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(16),` or `(16)`."
+54,27,"10,)","...,) 28, 42, 56 and (16,) 32, 48, 64 and (**10,)** 20, 30, 40</li><li>a common multiple, n...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The comma is incorrectly placed inside the parenthesis; it should be `(10),` or `(10)`."
+55,27,',...151</li><li>a simplified inequality for **'**their x + x – 23 (+ ) > 100' 151</li></u...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The single quote is correctly used to delimit a mathematical expression being referred to in the text.
+56,28,frac,"...if it leads to a correct answer, e.g. $\**frac**{4}{50} + \frac{0}{50} + \frac{3}{50} + ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
+57,28,frac,"...a correct answer, e.g. $\frac{4}{50} + \**frac**{0}{50} + \frac{3}{50} + \frac{2}{50}$ B...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
+58,28,frac,"...r, e.g. $\frac{4}{50} + \frac{0}{50} + \**frac**{3}{50} + \frac{2}{50}$ B1 for any one o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
+59,28,frac,...4}{50} + \frac{0}{50} + \frac{3}{50} + \**frac**{2}{50}$ B1 for any one of the following...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of the LaTeX command `\frac` for fractions and is correctly used within a mathematical expression.
+60,28,frac,...tion with denominator 200  • sight of $\**frac**{4+0+3+2}{4\times50}$                   ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{...}$` for a fraction.
+61,28,frac,...-----------------------------| | 8(b) $\**frac**{9}{200}$ × 5000 or equivalent 225 | M1 ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{9}{200}$` for a fraction.
+62,28,frac,...  B2 for any one of the following:  • $\**frac**{30}{4}$ • $\frac{30}{4}$ approximated t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
+63,28,frac,...of the following:  • $\frac{30}{4}$ • $\**frac**{30}{4}$ approximated to 2 sig. fig.  • ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
+64,28,frac,...0}{4}$ approximated to 2 sig. fig.  • $\**frac**{30}{4}$ their $\sqrt[3]{27000}$ approxi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{30}{4}$` for a fraction.
+65,28,frac,...7000}$ approximated to 2 sig. fig.  • $\**frac**{3}{4}$ B1 for any one of the following:...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{3}{4}$` for a fraction.
+66,28,',...× 'their lower branch 0.6' provided 0 < **'**their lower branch 0.6 < 1              ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The single quote is part of an improperly quoted phrase, likely a parsing error where a closing quote was omitted."
+67,29,frac,...100 \times 0.08 $ (= 328 and) $41 \div \**frac**{1}{8}$ = 328                           ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{1}{8}$` for a fraction.
+68,29,frac,... • $4100 \times 0.08 = 328$ • $41 \div \**frac**{1}{8} = 328$ • at least 3 of the 6 eval...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$rac{1}{8}$` for a fraction.
+69,29,frac,...-------------------------| | 11(b) $8^{\**frac**{2}{3}}$ (= 4 and) $\frac{1}{0.25}$ = 4 ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The `**frac**` is a parsing error; the original markdown correctly uses `$8^{rac{2}{3}}$` for a fractional exponent.
+70,29,frac,...| | 11(b) $8^{\frac{2}{3}}$ (= 4 and) $\**frac**{1}{0.25}$ = 4                          ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{1}{0.25}' and is correct as written.
+71,29,frac,...ht of any one of the following:  • $8^{\**frac**{2}{3}} = 4$ • $\frac{1}{0.25} = 4$ • at...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{2}{3}' and is correct as written.
+72,29,frac,...following:  • $8^{\frac{2}{3}} = 4$ • $\**frac**{1}{0.25} = 4$ • at least 3 of the 6 val...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{1}{0.25}' and is correct as written.
+73,29,$ab,...lowing: <ul><li>$(x+a)(x+b)$ (=0) where **$ab** = (+)40$</li><li>$(x+c)(x+d)$ (=0) wher...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted '$ab' represents a mathematical variable 'ab' within a LaTeX expression and is correct as written.
+74,29,$c,... (+)40$</li><li>$(x+c)(x+d)$ (=0) where **$c**+d=-13$</li></ul> | | x = 5  with  x = 8...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted '$c' represents a mathematical variable 'c' within a LaTeX expression and is correct as written.
+75,29,frac,...12 \div 14 =) 165$ remainder 2 or $165 \**frac**{2}{14}$ or $(n\text{th term}) 2312 - 14...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX mathematical command '\frac{2}{14}' and is correct as written.
+76,29,th,...der 2 or $165 \frac{2}{14}$ or $(n\text{**th** term}) 2312 - 14n$ or equivalent | B1 |...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'th' is part of the LaTeX command '\text{th term}' and is correct as written.
+77,29,th,...                               | | 166 (**th** term)                                  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'th' is correctly used in '166 (th term)' to denote an ordinal number.
+78,30,circ,... |  |  |  | | $14(b) (Y\hat{P}Q =) 20^{\**circ**}$                                      ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'circ' is part of a LaTeX mathematical command '^{\circ}' for degrees and is correct as written.
+79,30,circ,... following: <ul><li>$(Y\hat{P}Q =) 90^{\**circ**} - 20^{\circ}$</li><li>$O\hat{P}Q = 70^...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The highlighted 'circ' is part of a LaTeX mathematical command '^{\circ}' for degrees and is correct as written.
+80,30,circ,...ul><li>$(Y\hat{P}Q =) 90^{\circ} - 20^{\**circ**}$</li><li>$O\hat{P}Q = 70^{\circ}$</li>...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
+81,30,$O,...P}Q =) 90^{\circ} - 20^{\circ}$</li><li>**$O**\hat{P}Q = 70^{\circ}$</li><li>$O\hat{P}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `$O` is a variable within a mathematical expression, correctly formatted in LaTeX."
+82,30,circ,...- 20^{\circ}$</li><li>$O\hat{P}Q = 70^{\**circ**}$</li><li>$O\hat{P}Y = 90^{\circ}$</li>...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
+83,30,$O,...li><li>$O\hat{P}Q = 70^{\circ}$</li><li>**$O**\hat{P}Y = 90^{\circ}$</li></ul> |  |  |...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `$O` is a variable within a mathematical expression, correctly formatted in LaTeX."
+84,30,circ,...= 70^{\circ}$</li><li>$O\hat{P}Y = 90^{\**circ**}$</li></ul> |  |  |  |  | | 15. Method ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `circ` is part of the LaTeX rendering for the degree symbol, which is correct in this mathematical context."
+85,30,$x,"...o a fraction, e.g. $100x = 42.4242$ and **$x** = 0.4242$ with an attempt to subtract o...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `$x` is a variable within a mathematical expression, correctly formatted in LaTeX."
+86,30,frac,...                |  |  |  |  | | $(x) = \**frac**{42}{99}$ or $\frac{14}{33}$            ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
+87,30,frac,...|  |  |  | | $(x) = \frac{42}{99}$ or $\**frac**{14}{33}$                               ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
+88,30,frac,...          |  |  |  |  | | $\left(\left(\**frac**{7}{\frac{1}{4^{2}+2^{6}}}\right)^{-1}=\...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
+89,30,frac,... |  |  |  |  | | $\left(\left(\frac{7}{\**frac**{1}{4^{2}+2^{6}}}\right)^{-1}=\right) \f...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The highlighted text `frac` is part of the LaTeX command `rac`, which is correctly used for displaying fractions."
+90,30,frac,...c{1}{4^{2}+2^{6}}}\right)^{-1}=\right) \**frac**{66}{7}$                                ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+91,30,frac,...                |  |  |  |  | | $\left(\**frac**{42}{99} \times \frac{66}{7} \text{ or }...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+92,30,frac,... |  |  | | $\left(\frac{42}{99} \times \**frac**{66}{7} \text{ or } \frac{14}{33} \times...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+93,30,frac,...2}{99} \times \frac{66}{7} \text{ or } \**frac**{14}{33} \times \frac{66}{7} = \right)$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+94,30,frac,...6}{7} \text{ or } \frac{14}{33} \times \**frac**{66}{7} = \right)$ 4                    ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+95,30,$ 4,...ac{14}{33} \times \frac{66}{7} = \right)**$ 4**                                       |...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The `$` character is a parsing error and should not be present before the number 4.
+96,30,$y,...                    |  |  |  |  | | 16. **$y** \le -\frac{1}{2}x + 5$ and $y > x - 5$ ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The `$` character is a LaTeX delimiter for inline mathematics, and `y` is correctly part of the mathematical expression."
+97,30,frac,...           |  |  |  |  | | 16. $y \le -\**frac**{1}{2}x + 5$ and $y > x - 5$            ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+98,30,$y,...  | | 16. $y \le -\frac{1}{2}x + 5$ and **$y** > x - 5$                               ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The `$` character is a LaTeX delimiter for inline mathematics, and `y` is correctly part of the mathematical expression."
+99,30,frac,...                 |          | $ y \le -\**frac**{1}{2}x + 5 $                           ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`frac` is part of a LaTeX command `\frac` for fractions and is correctly used within the mathematical expression.
+100,30,$y,...                         |          | • **$y** 	ext{ } -\frac{1}{2}x + 5$ and $y 	ext{...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
+101,30,frac,"...            |          | • $y 	ext{ } -\**frac**{1}{2}x + 5$ and $y 	ext{ } x - 5$ , whe...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,`frac` is part of a LaTeX command `\frac` that has not been rendered correctly in the markdown.
+102,30,$y,"...  | • $y 	ext{ } -\frac{1}{2}x + 5$ and **$y** 	ext{ } x - 5$ , where the inequalities...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
+103,30,ge,"...ave an <b>incorrect</b> symbol $(<, >, \**ge**, \le, =)$                              ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,`ge` is part of a LaTeX command `\ge` that has not been rendered correctly in the markdown.
+104,30,$y,...      | B1 for one of the following:  • **$y** \dots -\frac{1}{2}x + 5$ or $y \dots x ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
+105,30,frac,"...for one of the following:  • $y \dots -\**frac**{1}{2}x + 5$ or $y \dots x - 5$ , where ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,`frac` is part of a LaTeX command `\frac` that has not been rendered correctly in the markdown.
+106,30,$y,"...wing:  • $y \dots -\frac{1}{2}x + 5$ or **$y** \dots x - 5$ , where the inequality has...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
+107,30,ge,"... <b>incorrect</b> symbol, i.e. $(<, >, \**ge**, \le, =)$                              ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,`ge` is part of a LaTeX command `\ge` that has not been rendered correctly in the markdown.
+108,30,B1 B1,"...tor -2 Centre of enlargement (-4, -2) | **B1 B1** | Answer space takes precedence Answer ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`B1 B1` is a standard and correct notation for marking schemes in WJEC documents.
+109,30,$y,...kes precedence |  |  |  |  | | 18. Line **$y** = -5$ drawn                            ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,`$y` is a correctly formatted mathematical variable within a LaTeX expression.
+110,30,$x,...nt</li> </ul> |  |  |  |  | | Solutions **$x** = -3.3 \text{ to } -3.4$ with $x = 3.3 ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The highlighted '$x$' is a correctly formatted LaTeX variable within a mathematical expression.
+111,30,$x,"...utions $x = -3.3 \text{ to } -3.4$ with **$x** = 3.3 \text{ to } 3.4$ | B2 | CAO, no F...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The highlighted '$x$' is a correctly formatted LaTeX variable within a mathematical expression.
+112,31,gh,... – 3 = 7 g 27g | B1 | Cube 3 No FT from **gh** = 3g + √7 as this is 2 errors | | 3 3 –...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`gh` is correctly used as a product of two variables in a mathematical context.
+113,31,M1 m1,...od 2 2 2 (√3) (√25 − 1) 2 3(5 1) − 48 | **M1 m1** A1 |  | | 2 – 21. (4w 9 =) (2w + 3)(2w ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"`M1 m1` is a standard notation for marking schemes in mathematics, correctly used here."
+114,32,(,"...--------------------------  | 22. (1 – P**(**no Sp, no Sp, no Sp)) 1 – 12 + 3  12 + ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The parenthesis is correctly used as part of a mathematical expression.
+115,32,Sp,"...----------------------  | 22. (1 – P(no **Sp**, no Sp, no Sp)) 1 – 12 + 3  12 + 3 – 1...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
+116,32,Sp,"...---------------  | 22. (1 – P(no Sp, no **Sp**, no Sp)) 1 – 12 + 3  12 + 3 – 1  12 +...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
+117,32,Sp,"...--------  | 22. (1 – P(no Sp, no Sp, no **Sp**)) 1 – 12 + 3  12 + 3 – 1  12 + 3 – 2 ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
+118,32,Sp,...26 or 1 – 15  14  13 28 27 26 OR (P(1 **Sp**) + P(2 Sp) + P(3 Sp)) | M2 | M1 for sig...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
+119,32,Sp,...15  14  13 28 27 26 OR (P(1 Sp) + P(2 **Sp**) + P(3 Sp)) | M2 | M1 for sight of any ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,`Sp` is used as a correct abbreviation within the context of a probability problem.
+120,32,Sp,...13 28 27 26 OR (P(1 Sp) + P(2 Sp) + P(3 **Sp**)) | M2 | M1 for sight of any one of the...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
+121,32,Sp,... any one of the following: <ul><li>(P(0 **Sp**)=) 15  14  13 28 27 26</li><li>(P(3 S...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
+122,32,Sp,...p)=) 15  14  13 28 27 26</li><li>(P(3 **Sp**)=) 13  12  11 28 27 26</li><li>(P(2 S...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
+123,32,Sp,...p)=) 13  12  11 28 27 26</li><li>(P(2 **Sp**)=) (3 ×) 13  12  15 28 27 26</li><li>...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Sp' is used as a mathematical variable or abbreviation in a probability context and is correct as written.
+124,32,"Sp,)","...3 ×) 13  12  15 28 27 26</li><li>(P(1 **Sp,)**=) (3 ×) 13  15  14</li></ul> | |-----...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'Sp,' is used as a mathematical variable or abbreviation in a probability context and is correct as written."
+125,34,ocw,... | Common Qn (FT) | Common marks (FT) | **ocw** | |----|-------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'ocw' is a standard WJEC abbreviation for 'Organisation, Communication and Written accuracy' and is correct as a column header."

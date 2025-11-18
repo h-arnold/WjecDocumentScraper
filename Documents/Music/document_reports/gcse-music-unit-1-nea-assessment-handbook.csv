@@ -1,11 +1,11 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,The compound adjective 'one-minute' should be hyphenated when preceding the noun 'minimum performance duration'.
-1,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be inserted before the conjunction 'and' to separate two independent clauses for improved clarity.
-2,,,,,PARSING_ERROR,95,The compound adjective 'Technology-based' should be hyphenated for consistency with its earlier use in the same paragraph.
-3,,,,,SPELLING_ERROR,85,The term 'beatbox' is typically written as a single word when used as a noun.
-4,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"The comma before the closing parenthesis in 'f,)' is incorrect; it should be 'f)'."
-5,,,,,PARSING_ERROR,100,"The 'th' is a stray character and appears to be a parsing error, as it makes no sense in the context of the sentence."
-6,,,,,FALSE_POSITIVE,95,'eq' is a standard and correctly used abbreviation for 'equalization' or 'equaliser' in music technology contexts.
-7,,,,,FALSE_POSITIVE,95,'eq' is a standard and correctly used abbreviation for 'equalization' or 'equaliser' in music technology contexts.
-8,,,,,PARSING_ERROR,95,A space is missing between 'T' and the opening parenthesis for 'hi hat'.
-9,,,,,FALSE_POSITIVE,95,'Zipper' is a specific and correctly used term for a beatbox technique.
+0,6,one minute,... piece which is significantly below the **one minute** minimum performance duration will be un...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'one-minute' should be hyphenated when preceding the noun 'minimum performance duration'.
+1,8,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be inserted before the conjunction 'and' to separate two independent clauses for improved clarity.
+2,9,Technologybased,...nology-based performance for this unit. **Technologybased** performances include:  - DJ-ing - 'push...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'Technology-based' should be hyphenated for consistency with its earlier use in the same paragraph.
+3,10,beat-box,"...nd chords on a lead sheet (for example, **beat-box**, DJ, or rap), centres must provide appr...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,85,The term 'beatbox' is typically written as a single word when used as a noun.
+4,28,"f,)","...amics changes are more refined (p.mp,mf,**f,)** and include crescendo and diminuendo</l...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The comma before the closing parenthesis in 'f,)' is incorrect; it should be 'f)'."
+5,28,th,...l</li><li>few contrasts in articulation **th**</li><li>a range up to a 12</li><li>requ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The 'th' is a stray character and appears to be a parsing error, as it makes no sense in the context of the sentence."
+6,30,eq,...e and with different BPM</li><li>use of **eq**/fx or basic scratching</li><li>use of p...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'eq' is a standard and correctly used abbreviation for 'equalization' or 'equaliser' in music technology contexts.
+7,30,eq,...| | Grade 4 equivalent | <ul><li>use of **eq**/fx and appropriate turntablism techniqu...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'eq' is a standard and correctly used abbreviation for 'equalization' or 'equaliser' in music technology contexts.
+8,31,(,"... only – B (kick drum), K (snare drum), T**(**hi hat), Tss (open hi-hat), Ch (cymbals)...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,A space is missing between 'T' and the opening parenthesis for 'hi hat'.
+9,31,zipper,"...D throat bass, inward bass, click roll, **zipper**, siren, lip roll, water drop, throat ta...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Zipper' is a specific and correctly used term for a beatbox technique.

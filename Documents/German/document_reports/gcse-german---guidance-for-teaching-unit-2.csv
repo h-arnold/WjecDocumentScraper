@@ -1,10 +1,10 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The plural subject 'assessments' requires the plural verb 'are'.
-1,,,,,PARSING_ERROR,95,'German-speaking' should be hyphenated as a compound adjective modifying 'countries'.
-2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The comma is grammatically incorrect after an ellipsis and before a new independent clause in this context.
-3,,,,,STYLISTIC_PREFERENCE,70,"'Sub-headings' is an acceptable hyphenated form, though 'subheadings' is also common."
-4,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
-5,,,,,PARSING_ERROR,95,'German-speaking' should be hyphenated as a compound adjective modifying 'country'.
-6,,,,,STYLISTIC_PREFERENCE,70,"A comma after 'In teaching' is a stylistic choice, not a grammatical requirement."
-7,,,,,FALSE_POSITIVE,100,The word 'understanding' is correctly used as a gerund in this context.
-8,,,,,SPELLING_ERROR,85,'Audiobook' is the standard single-word spelling for this compound noun in UK English.
+0,8,is,...rd of the date on which the assessments **is** conducted including the name of the wor...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The plural subject 'assessments' requires the plural verb 'are'.
+1,11,German speaking,...g of aspects of culture and language in **German speaking** countries.</li></ul> |  | |  | <ul><li>...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'German-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+2,12,",","...'wenn ich die Wahl hätte, würde ich...' **,** das ist das interessanteste Buch, das i...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,The comma is grammatically incorrect after an ellipsis and before a new independent clause in this context.
+3,13,sub-headings,...ividual notes can include the following **sub-headings** to provide opportunity to introduce and...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"'Sub-headings' is an acceptable hyphenated form, though 'subheadings' is also common."
+4,16,but,... word process their responses for Unit 2** but** this is not compulsory.</li><li>Learner...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
+5,18,German speaking,...he diverse cultures within Germany or a **German speaking** country. It is a fundamental right of a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'German-speaking' should be hyphenated as a compound adjective modifying 'country'.
+6,18,teaching,"..., stereotypes, beliefs, racism, etc. In **teaching** it may be important for teachers to hig...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"A comma after 'In teaching' is a stylistic choice, not a grammatical requirement."
+7,18,understanding,...rbeiter in Germany if it is relevant to **understanding** themes in the selected literary text.  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'understanding' is correctly used as a gerund in this context.
+8,22,audio book,"...rsion of the text with images (using an **audio book** app), it is important to explore the le...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,85,'Audiobook' is the standard single-word spelling for this compound noun in UK English.

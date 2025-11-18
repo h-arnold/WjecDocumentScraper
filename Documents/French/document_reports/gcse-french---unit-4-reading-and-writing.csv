@@ -1,22 +1,22 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,85,"In formal UK English, 'outside' is generally preferred over 'outside of' when used as a preposition."
-1,,,,,FALSE_POSITIVE,95,"No comma is required before 'but' as it connects a dependent clause to another part of the sentence, not two independent clauses."
-2,,,,,FALSE_POSITIVE,100,'au sud' is correct French for 'in the south' and is used appropriately within the French text.
-3,,,,,FALSE_POSITIVE,100,'ne' is a necessary component of the correct French negative construction 'ne...plus'.
-4,,,,,FALSE_POSITIVE,100,'a' is correctly used as part of the French idiom 'il y a' (there is/are).
-5,,,,,FALSE_POSITIVE,100,'bon choix' is correct French for 'good choice' and is used appropriately in the sentence.
-6,,,,,FALSE_POSITIVE,100,'a' is correctly used as part of the French idiom 'il y a' (there is/are).
-7,,,,,FALSE_POSITIVE,100,'bon choix' is correct French for 'good choice' and is used appropriately in the sentence.
-8,,,,,FALSE_POSITIVE,100,'au sud' is correct French for 'in the south' and is used appropriately within the French text.
-9,,,,,PARSING_ERROR,90,The compound adjective 'hard-working' should be hyphenated in UK English.
-10,,,,,FALSE_POSITIVE,100,The French word 'ne' is correctly used as part of the negative construction 'ne...plus' in this context.
-11,,,,,FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are).
-12,,,,,FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used here.
-13,,,,,FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are).
-14,,,,,FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used here.
-15,,,,,FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are) within the translation table.
-16,,,,,FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used within the translation table.
-17,,,,,FALSE_POSITIVE,100,The word 'cafe' is intentionally presented without an accent as an example of a 'minor error' in the glossary of terms.
-18,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,Adding a comma before 'but' would improve clarity and flow as it separates two independent clauses.
+0,3,outside of,... specified in this specification. Words **outside of** the specification grammar and vocabular...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"In formal UK English, 'outside' is generally preferred over 'outside of' when used as a preposition."
+1,3,but,... used that is beyond the defined content** but** that fulfils the task requirements.  Th...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"No comma is required before 'but' as it connects a dependent clause to another part of the sentence, not two independent clauses."
+2,6,au sud,... trente minutes du Viaduc de Millau\*\* **au sud** de la France. Le VVF se trouve au bord ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'au sud' is correct French for 'in the south' and is used appropriately within the French text.
+3,10,ne,"...rop de temps à utiliser ces applis, ils **ne** s'amusent plus avec leurs copains. Et l...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'ne' is a necessary component of the correct French negative construction 'ne...plus'.
+4,12,a,...hôtel pour moins de 50€ par jour.  Il y **a** un bon choix d'hébergements près des si...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'a' is correctly used as part of the French idiom 'il y a' (there is/are).
+5,12,bon choix,... pour moins de 50€ par jour.  Il y a un **bon choix** d'hébergements près des sites touristiq...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is correct French for 'good choice' and is used appropriately in the sentence.
+6,12,a,...                         | | (d) | Il y **a** un bon choix d'hébergements près des si...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'a' is correctly used as part of the French idiom 'il y a' (there is/are).
+7,12,bon choix,...                    | | (d) | Il y a un **bon choix** d'hébergements près des sites touristiq...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is correct French for 'good choice' and is used appropriately in the sentence.
+8,19,au sud,... trente minutes du Viaduc de Millau\*\* **au sud** de la France. Le VVF se trouve au bord ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'au sud' is correct French for 'in the south' and is used appropriately within the French text.
+9,22,hard working,...of two marks: <ul><li>organised</li><li>**hard working**</li></ul> |  |  |  |  |  |  |  |  |  {2...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The compound adjective 'hard-working' should be hyphenated in UK English.
+10,23,ne,"...rop de temps à utiliser ces applis, ils **ne** s'amusent plus avec leurs copains. Et l...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'ne' is correctly used as part of the negative construction 'ne...plus' in this context.
+11,25,a,...ur les adolescents peux voyager et Il y **a** un bon choix d'hébergements près des si...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are).
+12,25,bon choix,...s adolescents peux voyager et Il y a un **bon choix** d'hébergements près des sites touristiq...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used here.
+13,25,a,...er et passer la nuit dans un hôtel Il y **a** un bon choix d'hébergements près des Ce...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are).
+14,25,bon choix,... passer la nuit dans un hôtel Il y a un **bon choix** d'hébergements près des Cette ville bel...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used here.
+15,25,a,...el | pass a hotel | 1 |  |  | |  | Il y **a** un bon choix | There is a good choice o...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'a' is correctly used as part of the impersonal expression 'il y a' (there is/are) within the translation table.
+16,25,bon choix,...pass a hotel | 1 |  |  | |  | Il y a un **bon choix** | There is a good choice of | There is ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French phrase 'bon choix' (good choice) is grammatically correct and appropriately used within the translation table.
+17,27,cafe,...t affect the meaning or tense: J'ecoute **cafe**</li><li>Incorrect accents which don't a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'cafe' is intentionally presented without an accent as an example of a 'minor error' in the glossary of terms.
+18,29,but,...marked. The bullet points are compulsory** but** equal coverage is not required.  Choose...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,Adding a comma before 'but' would improve clarity and flow as it separates two independent clauses.
 19,27,cafe,...t affect the meaning or tense: J'ecoute cafe</li><li>Incorrect accents which don't a...,,ErrorCategory.FALSE_POSITIVE,100,"The word 'cafe' is intentionally written without an accent to serve as an example of a 'minor error' in French, as explained in the glossary."
 20,29,but,...marked. The bullet points are compulsory but equal coverage is not required.  Choose...,,ErrorCategory.FALSE_POSITIVE,95,The conjunction 'but' is used correctly to connect two contrasting clauses; no error is present.
