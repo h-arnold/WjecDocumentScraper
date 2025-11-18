@@ -293,7 +293,7 @@ class BatchOrchestrator:
     
     def fetch_batch_results(
         self,
-        state: CategoriserState,
+        state: StateManager,
         *,
         job_names: list[str] | None = None,
         check_all_pending: bool = False,
