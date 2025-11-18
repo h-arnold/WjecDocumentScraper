@@ -9,3 +9,10 @@ issue_id,page_number,issue,highlighted_context,pass_code,error_category,confiden
 7,2,mary,...                  | 2  | |            | **mary** of Assessment Unit 4                   ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Summary' is incomplete, with 'Sum' missing, indicating a parsing error."
 8,2,sessment,...nation assessment | 3  | | Unit 4 As  | **sessment** objectives and weightings              ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Assessment' has been incorrectly split across two table columns due to a parsing error.
 9,2,acher,...                  | 4  | | Unit 4 Te  | **acher** Guidance                               ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Teacher' has been incorrectly split across two table columns due to a parsing error.
+10,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The indefinite article 'a' should be 'an' before a word starting with a vowel sound, such as 'appropriate'."
+11,,,,,FALSE_POSITIVE,100,'OHCHR' is a correct and recognised acronym for the Office of the United Nations High Commissioner for Human Rights.
+12,,,,,FALSE_POSITIVE,100,'OHCHR' is a correct and recognised acronym for the Office of the United Nations High Commissioner for Human Rights.
+13,,,,,FALSE_POSITIVE,100,'BASWO' is the correct name of a recognised Welsh charity and is used appropriately here.
+14,,,,,FALSE_POSITIVE,100,"The phrase 'use to describe' is grammatically correct in this context, indicating purpose."
+15,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,90,The more formal and grammatically preferred phrase is 'in regard to' or 'with regard to' rather than 'in regards to'.
+16,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should be placed before the coordinating conjunction 'and' when it connects two independent clauses to improve readability.

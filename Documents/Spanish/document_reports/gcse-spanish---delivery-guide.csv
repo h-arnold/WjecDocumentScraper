@@ -1,0 +1,8 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,FALSE_POSITIVE,95,The term 'international languages qualification' is correct as it refers to a qualification covering multiple international languages.
+1,,,,,STYLISTIC_PREFERENCE,70,"While 'all of the' is grammatically correct, 'all three broad themes' would be more concise and stylistically preferred."
+2,,,,,STYLISTIC_PREFERENCE,80,The comma after 'prescriptive' is not strictly necessary in the 'neither X nor Y' construction with single words and is often omitted for conciseness.
+3,,,,,FALSE_POSITIVE,95,'Centres' is the correct UK English spelling and is appropriate for a WJEC document.
+4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma is advisable before 'and' when it connects two independent clauses to improve readability and clarity.
+5,,,,,FALSE_POSITIVE,100,"'en el caso' is a correct Spanish phrase used within an example text in Spanish, and therefore not an error."
+6,,,,,STYLISTIC_PREFERENCE,75,"While '18 year olds' is grammatically acceptable as a plural noun, '18-year-olds' is generally preferred in formal writing for consistency and clarity."

@@ -1,0 +1,55 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,"The compound noun 'cross-section' should be hyphenated in UK English, indicating a parsing error."
+1,,,,,PARSING_ERROR,100,The word 'below' has been incorrectly split across table cells due to a parsing error.
+2,,,,,FALSE_POSITIVE,100,`FĜH` is a correct mathematical notation for an angle.
+3,,,,,FALSE_POSITIVE,100,`FĤG` is a correct mathematical notation for an angle.
+4,,,,,PARSING_ERROR,95,The name 'Sarn' appears to be incorrectly split from the following word due to a parsing error.
+5,,,,,PARSING_ERROR,100,The word 'thinks' has been incorrectly split and misspelled as 'thii' due to a parsing error.
+6,,,,,PARSING_ERROR,100,The word 'thinks' has been incorrectly split as 'nks' due to a parsing error.
+7,,,,,PARSING_ERROR,100,The phrase 'Examiner only' has been truncated to 'Exar' due to a parsing error.
+8,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command used for displaying fractions in mathematical expressions.
+9,,,,,PARSING_ERROR,100,The word 'What' has been incorrectly split across table cells due to a parsing error.
+10,,,,,FALSE_POSITIVE,100,"The '$a$' is a mathematical variable, correctly used in the context of an algebraic problem."
+11,,,,,FALSE_POSITIVE,100,"The '$a$' is a mathematical variable, correctly used in the context of an algebraic problem."
+12,,,,,FALSE_POSITIVE,100,"The '$b$' is a mathematical variable, correctly used in the context of an algebraic problem."
+13,,,,,FALSE_POSITIVE,100,"The '$b$' is a mathematical variable, correctly used in the context of an algebraic problem."
+14,,,,,FALSE_POSITIVE,100,The issue is a parsing error in the tool's output; the mathematical variable '$x$' is correctly formatted in the original document.
+15,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command used within a mathematical expression, not a spelling error."
+16,,,,,FALSE_POSITIVE,100,The word 'million' is correctly spelled and used in context.
+17,,,,,FALSE_POSITIVE,100,The word 'your' is correctly spelled and used in context.
+18,,,,,FALSE_POSITIVE,100,"`frac` is a correct LaTeX command used within a mathematical expression, not a spelling error."
+19,,,,,PARSING_ERROR,95,The word 'cups' has been incorrectly split across table cells due to a parsing error.
+20,,,,,PARSING_ERROR,100,The word 'cups' has been incorrectly split across table cells due to a parsing error.
+21,,,,,PARSING_ERROR,100,The word 'completely' has been incorrectly split across table cells due to a parsing error.
+22,,,,,PARSING_ERROR,100,The word 'completely' has been incorrectly split across table cells due to a parsing error.
+23,,,,,PARSING_ERROR,100,The word 'the' has been incorrectly split across table cells due to a parsing error.
+24,,,,,PARSING_ERROR,100,The word 'drink' has been incorrectly split across table cells due to a parsing error.
+25,,,,,PARSING_ERROR,95,The comma appears to be stray punctuation resulting from a parsing error within a table cell.
+26,,,,,PARSING_ERROR,100,"This appears to be a character recognition error, likely from a diagram or image conversion."
+27,,,,,PARSING_ERROR,100,"This is a non-standard character sequence resulting from a parsing error, likely from a diagram or image conversion."
+28,,,,,PARSING_ERROR,100,"This is a non-standard character sequence resulting from a parsing error, likely from a diagram or image conversion."
+29,,,,,PARSING_ERROR,100,"This appears to be a corrupted word or character sequence resulting from a parsing error, likely from a diagram or image conversion."
+30,,,,,FALSE_POSITIVE,100,The apostrophe is correctly used as an opening single quotation mark for direct speech.
+31,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"The definite article 'the' is missing before 'nearest whole', making the phrase grammatically incomplete."
+32,,,,,FALSE_POSITIVE,100,"""B1 B1 B0"" is a standard mark scheme notation and not a grammatical error in this context."
+33,,,,,FALSE_POSITIVE,100,"""M1 M1 A1"" is a standard mark scheme notation and not a grammatical error in this context."
+34,,,,,FALSE_POSITIVE,90,"""Sight of any of the following"" is a standard and grammatically correct phrase in mark schemes."
+35,,,,,FALSE_POSITIVE,100,`\frac` is a correctly used LaTeX command for displaying fractions in a mathematical context.
+36,,,,,FALSE_POSITIVE,100,`\frac` is a correctly used LaTeX command for displaying fractions in a mathematical context.
+37,,,,,FALSE_POSITIVE,100,`\frac` is a correctly used LaTeX command for displaying fractions in a mathematical context.
+38,,,,,SPELLING_ERROR,100,"""weaking"" is a misspelling of the word ""working""."
+39,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The repetition of ""and and"" is a grammatical error; one instance of ""and"" should be removed."
+40,,,,,FALSE_POSITIVE,95,The double quote is correctly used to enclose an example explanation within the text.
+41,,,,,FALSE_POSITIVE,95,The parenthesis is correctly used to indicate an optional unit (kg) in a technical context.
+42,,,,,PARSING_ERROR,90,"The highlighted context shows an extra double quote that is not present in the raw markdown, indicating a parsing error."
+43,,,,,FALSE_POSITIVE,95,`frac` is part of a LaTeX command `\frac` which is correctly used for mathematical notation.
+44,,,,,FALSE_POSITIVE,95,`frac` is part of a LaTeX command `\frac` which is correctly used for mathematical notation.
+45,,,,,FALSE_POSITIVE,95,`$x` is part of a LaTeX mathematical variable `$x` which is correctly used for mathematical notation.
+46,,,,,FALSE_POSITIVE,95,`$x$` is part of a LaTeX mathematical variable `$x$` which is correctly used for mathematical notation.
+47,,,,,FALSE_POSITIVE,95,`$x` is part of a LaTeX mathematical variable `$x` which is correctly used for mathematical notation.
+48,,,,,FALSE_POSITIVE,95,`frac` is part of a LaTeX command `\frac` which is correctly used for mathematical notation.
+49,,,,,FALSE_POSITIVE,95,`frac` is part of a LaTeX command `\frac` which is correctly used for mathematical notation.
+50,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+51,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression.
+52,,,,,STYLISTIC_PREFERENCE,90,`ocw` is an acronym that should be consistently capitalised as `OCW` for clarity and adherence to stylistic conventions for column headers.
+53,,,,,FALSE_POSITIVE,95,"`Q4abcd` is a specific identifier for question parts in an assessment mapping, not a spelling error."

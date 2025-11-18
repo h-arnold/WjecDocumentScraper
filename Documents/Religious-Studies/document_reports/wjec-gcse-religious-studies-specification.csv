@@ -1,0 +1,95 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,FALSE_POSITIVE,100,"Gobind is a correctly spelled proper noun, referring to Guru Gobind Singh."
+1,,,,,PARSING_ERROR,95,"The `&#x27;` is an HTML entity for a single quote, indicating a parsing artifact rather than a linguistic error in the original text."
+2,,,,,PARSING_ERROR,95,"The `&#x27;` is an HTML entity for a single quote, indicating a parsing artifact rather than a linguistic error in the original text."
+3,,,,,PARSING_ERROR,100,"SUMI is a partial word that, when combined with 'MARY OF ASSESSMENT', clearly indicates a parsing error for 'SUMMARY OF ASSESSMENT'."
+4,,,,,SPELLING_ERROR,100,ITRODUCTION is a misspelling of the word 'INTRODUCTION'.
+5,,,,,PARSING_ERROR,100,"UBJECT is a partial word that, when combined with 'S', indicates a parsing error for 'SUBJECT CONTENT'."
+6,,,,,PARSING_ERROR,100,"rtunities is a partial word that, when combined with 'Орро', indicates a parsing error for 'Opportunities'."
+7,,,,,PARSING_ERROR,100,"SSESSMENT is a partial word that, when combined with 'A', indicates a parsing error for 'ASSESSMENT'."
+8,,,,,PARSING_ERROR,100,"ECHNICAL is a partial word that, when combined with 'T', indicates a parsing error for 'TECHNICAL INFORMATION'."
+9,,,,,PARSING_ERROR,100,"Appe is a partial word that, when combined with 'ndix', indicates a parsing error for 'Appendix'."
+10,,,,,PARSING_ERROR,100,The word 'Appendix' has been incorrectly split due to a parsing error.
+11,,,,,FALSE_POSITIVE,100,"'Dukkha' is a correct and standard Buddhist term, not a spelling error."
+12,,,,,FALSE_POSITIVE,100,"'Anicca' is a correct and standard Buddhist term, not a spelling error."
+13,,,,,FALSE_POSITIVE,100,"'Dukkha' is a correct and standard Buddhist term, not a spelling error."
+14,,,,,FALSE_POSITIVE,100,"'Anicca' is a correct and standard Buddhist term, not a spelling error."
+15,,,,,FALSE_POSITIVE,100,'Siddhartha Gautama' is the correct proper name of the Buddha.
+16,,,,,FALSE_POSITIVE,100,'Samatha' is a correct and standard Buddhist term for a type of meditation.
+17,,,,,FALSE_POSITIVE,100,'Vipassana' is a correct and standard Buddhist term for a type of meditation.
+18,,,,,FALSE_POSITIVE,100,'Malas' is a correct and standard term for prayer beads used in Buddhism.
+19,,,,,FALSE_POSITIVE,100,'Bodh Gaya' is the correct proper name of a Buddhist pilgrimage site.
+20,,,,,FALSE_POSITIVE,100,Bhagavan is a correct and widely accepted religious term in Hinduism.
+21,,,,,FALSE_POSITIVE,100,Nirguna is a correct and widely accepted religious term in Hinduism.
+22,,,,,FALSE_POSITIVE,100,Saguna is a correct and widely accepted religious term in Hinduism.
+23,,,,,FALSE_POSITIVE,95,"Moksha is a correct religious term, and its lowercase usage is consistent with other terms in the list."
+24,,,,,FALSE_POSITIVE,95,"Moksha is a correct religious term, and its lowercase usage is consistent with other terms in the document."
+25,,,,,FALSE_POSITIVE,100,Shaiva is a correct and widely accepted religious term in Hinduism.
+26,,,,,FALSE_POSITIVE,100,al-Tirmidhī is the correct transliteration of a proper noun in Islamic scholarship.
+27,,,,,SPELLING_ERROR,100,"The correct UK English spelling for the term is 'Judgement', not 'Judgment'."
+28,,,,,SPELLING_ERROR,100,The correct UK English spelling for the noun is 'descendant'.
+29,,,,,SPELLING_ERROR,100,The correct transliteration and capitalization for the Jewish term is 'Yahrzeit'.
+30,,,,,FALSE_POSITIVE,100,Matzpun is a correct Hebrew term for conscience in a religious studies context.
+31,,,,,SPELLING_ERROR,95,"The UK English spelling for this word is 'judgement,' not 'judgment'."
+32,,,,,FALSE_POSITIVE,100,"Gobind is the correct spelling for Guru Gobind Singh, a proper noun in Sikhism."
+33,,,,,FALSE_POSITIVE,100,"Gurmurkh is a correct term in Sikhism, referring to a Guru-centred individual."
+34,,,,,SPELLING_ERROR,100,Grath is a misspelling of Granth in 'Guru Granth Sahib'.
+35,,,,,FALSE_POSITIVE,90,Perspectives about is grammatically correct and conveys the intended meaning clearly.
+36,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' is a stylistic choice when connecting two short, closely related independent clauses."
+37,,,,,FALSE_POSITIVE,100,All of creation is a grammatically correct and commonly used phrase.
+38,,,,,SPELLING_ERROR,95,"The UK English spelling for this word is 'minimise,' not 'minimize'."
+39,,,,,PARSING_ERROR,95,"Interdependency should be a single word, or hyphenated as 'inter-dependency,' not two separate words."
+40,,,,,FALSE_POSITIVE,100,Siddhartha Gautama is a correctly spelled proper noun.
+41,,,,,FALSE_POSITIVE,100,Dukkha is a correctly spelled and appropriately used Buddhist term.
+42,,,,,SPELLING_ERROR,100,"The UK English spelling for the noun is 'offence', not 'offense'."
+43,,,,,FALSE_POSITIVE,100,Siddhartha Gautama is a correctly spelled proper noun.
+44,,,,,FALSE_POSITIVE,100,Dukkha is a correctly spelled and appropriately used Buddhist term.
+45,,,,,PARSING_ERROR,95,The compound noun 'well-being' should be hyphenated in UK English.
+46,,,,,SPELLING_ERROR,100,The correct spelling of the Hindu scripture is 'Bhagavata Purana'.
+47,,,,,FALSE_POSITIVE,100,Moksha is a correctly spelled and appropriately used Hindu term.
+48,,,,,FALSE_POSITIVE,90,"Both 'emphasise' and 'emphasize' are acceptable in UK English, with 'emphasise' being the preferred British spelling."
+49,,,,,FALSE_POSITIVE,100,'Fil' is a correctly used Arabic word within the phrase 'fil ardh'.
+50,,,,,FALSE_POSITIVE,100,"""ardh"" is a correct transliteration of an Arabic term used appropriately in the context of Islamic perspectives."
+51,,,,,FALSE_POSITIVE,95,"""Judgment"" is an acceptable and common spelling in UK English, particularly in religious contexts like ""Day of Judgment""."
+52,,,,,FALSE_POSITIVE,95,"""Judgment"" is an acceptable and common spelling in UK English, particularly in religious contexts like ""Day of Judgment""."
+53,,,,,STYLISTIC_PREFERENCE,70,"""Perspectives about"" is grammatically correct and clear, though ""perspectives on"" is also a common alternative."
+54,,,,,FALSE_POSITIVE,100,"""Emphasised"" is the correct UK English spelling, which is appropriate for WJEC documentation."
+55,,,,,FALSE_POSITIVE,100,"""Emphasised"" is the correct UK English spelling, which is appropriate for WJEC documentation."
+56,,,,,PARSING_ERROR,95,"The word ""Shar'ia"" has been incorrectly split by the parsing process; it should be a single term."
+57,,,,,PARSING_ERROR,95,"The word ""Shar'ia"" has been incorrectly split by the parsing process; it should be a single term."
+58,,,,,FALSE_POSITIVE,100,"""bal tashchit"" is a correct transliteration of a Hebrew religious term and is used appropriately."
+59,,,,,PARSING_ERROR,95,"The term ""Tza'ar Ba'alei Chayim"" has been incorrectly split by the parsing process; it should be a single term."
+60,,,,,FALSE_POSITIVE,100,'Ba'alei' is the correct transliteration of a Hebrew term and is correctly spelled in this context.
+61,,,,,FALSE_POSITIVE,100,'Tza'ar' is the correct transliteration of a Hebrew term and is correctly spelled in this context.
+62,,,,,FALSE_POSITIVE,100,'Ba'alei' is the correct transliteration of a Hebrew term and is correctly spelled in this context.
+63,,,,,FALSE_POSITIVE,100,'Bal' is the correct transliteration of a Hebrew term and is correctly spelled in this context.
+64,,,,,SPELLING_ERROR,95,"The word 'recognizes' should be spelled 'recognises' in UK English, which is the standard for WJEC documents."
+65,,,,,FALSE_POSITIVE,100,'da' is part of the correct transliteration of the Sikh term 'Sarbat da Bhala' and is correctly spelled.
+66,,,,,FALSE_POSITIVE,100,'Har' is correctly spelled as part of the proper noun 'Guru Har Rai'.
+67,,,,,FALSE_POSITIVE,100,'da' is part of the correct transliteration of the Sikh term 'Sarbat da Bhala' and is correctly spelled.
+68,,,,,PARSING_ERROR,95,'self centredness' should be hyphenated as 'self-centredness' in UK English.
+69,,,,,SPELLING_ERROR,100,The term 'Wareguru' is misspelled; the correct spelling is 'Waheguru'.
+70,,,,,FALSE_POSITIVE,100,"""da"" is part of the correct Sikh term ""Sarbat da Bhala"" and is not a spelling error."
+71,,,,,FALSE_POSITIVE,100,"""Gobind"" is part of the proper noun ""Guru Gobind Singh"" and is correctly spelled."
+72,,,,,PARSING_ERROR,95,"""Self-centredness"" should be hyphenated as a compound noun in UK English."
+73,,,,,STYLISTIC_PREFERENCE,70,"While ""perspectives on"" is often preferred, ""perspectives about"" is grammatically acceptable and clear in this context."
+74,,,,,PARSING_ERROR,95,"""Non-religious"" should be hyphenated as a compound adjective in UK English."
+75,,,,,STYLISTIC_PREFERENCE,70,"While ""perspectives on"" is often preferred, ""perspectives about"" is grammatically acceptable and clear in this context."
+76,,,,,STYLISTIC_PREFERENCE,70,"While ""perspectives on"" is often preferred, ""perspectives about"" is grammatically acceptable and clear in this context."
+77,,,,,STYLISTIC_PREFERENCE,70,"While ""perspectives on"" is often preferred, ""perspectives about"" is grammatically acceptable and clear in this context."
+78,,,,,PARSING_ERROR,95,"""Non-religious"" should be hyphenated as a compound adjective in UK English."
+79,,,,,PARSING_ERROR,95,"""Non-religious"" should be hyphenated as a compound adjective in UK English."
+80,,,,,STYLISTIC_PREFERENCE,80,The phrase 'perspectives on' is generally more idiomatic and precise than 'perspectives about' in this context.
+81,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' requires a hyphen for correct UK English spelling.
+82,,,,,FALSE_POSITIVE,99,The phrase 'want full access' is grammatically correct and clear in this context.
+83,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' requires a hyphen for correct UK English spelling.
+84,,,,,STYLISTIC_PREFERENCE,80,The phrase 'perspectives on' is generally more idiomatic and precise than 'perspectives about' in this context.
+85,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' requires a hyphen for correct UK English spelling.
+86,,,,,STYLISTIC_PREFERENCE,80,The phrase 'perspectives on' is generally more idiomatic and precise than 'perspectives about' in this context.
+87,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' requires a hyphen for correct UK English spelling.
+88,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' requires a hyphen for correct UK English spelling.
+89,,,,,STYLISTIC_PREFERENCE,80,The phrase 'perspectives on' is generally more idiomatic and precise than 'perspectives about' in this context.
+90,,,,,PARSING_ERROR,100,The compound adjective 'non-religious' requires a hyphen in UK English.
+91,,,,,STYLISTIC_PREFERENCE,85,'Perspectives on' is generally preferred over 'perspectives about' in formal UK English when discussing views on a topic.
+92,,,,,SPELLING_ERROR,100,"The correct spelling of the religion is 'Hinduism', not 'Hindusim'."
+93,,,,,SPELLING_ERROR,100,"The correct spelling of the religion is 'Hinduism', not 'Hindusim'."

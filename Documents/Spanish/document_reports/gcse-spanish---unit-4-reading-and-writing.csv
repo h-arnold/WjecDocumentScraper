@@ -1,0 +1,12 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,STYLISTIC_PREFERENCE,85,"In formal UK English, 'outside' is generally preferred over 'outside of' for conciseness and formality."
+1,,,,,FALSE_POSITIVE,95,No comma is needed before 'but' as it connects two dependent clauses modifying 'language used'.
+2,,,,,FALSE_POSITIVE,100,"The Spanish preposition 'a' is correctly used here to indicate distance ('a unos 2,5 kilómetros')."
+3,,,,,FALSE_POSITIVE,100,The phrase 'en el caso de elegir' is a grammatically correct and common Spanish idiom meaning 'in the case of choosing'.
+4,,,,,FALSE_POSITIVE,100,'La semana pasada' is correct Spanish for 'Last week'.
+5,,,,,FALSE_POSITIVE,100,"The Spanish preposition 'a' is correctly used here to indicate distance ('a unos 2,5 kilómetros')."
+6,,,,,FALSE_POSITIVE,100,'La semana pasada' is correct Spanish for 'Last week'.
+7,,,,,PARSING_ERROR,95,The highlighted text 'a I' appears to be a fragment of a jumbled internal note or a result of a parsing error during conversion.
+8,,,,,FALSE_POSITIVE,100,"The Spanish preposition 'a' is correctly used in 'voy a ir', which is a correct future tense construction; the document highlights a conflict in tense with 'Ayer', not an error in 'a'."
+9,,,,,FALSE_POSITIVE,100,"'El perro' is correct Spanish for 'The dog'; it is used in the document as part of an example of an agreement error, not as an error itself."
+10,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,90,A comma is advisable before the coordinating conjunction 'but' when it joins two independent clauses in formal writing.

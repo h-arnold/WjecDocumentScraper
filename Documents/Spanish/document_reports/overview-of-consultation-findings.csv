@@ -1,0 +1,12 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,STYLISTIC_PREFERENCE,75,Adding a comma before 'and' separating independent clauses is a stylistic choice that improves readability in formal writing.
+1,,,,,STYLISTIC_PREFERENCE,80,The phrase 'all the information' is more concise and generally preferred over 'all of the information' in formal writing.
+2,,,,,STYLISTIC_PREFERENCE,75,Adding a comma before 'and' separating independent clauses is a stylistic choice that improves readability in formal writing.
+3,,,,,STYLISTIC_PREFERENCE,75,Adding a comma before 'and' separating independent clauses is a stylistic choice that improves readability in formal writing.
+4,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'that that' is a clear grammatical error and one 'that' should be removed.
+5,,,,,STYLISTIC_PREFERENCE,75,Adding a comma before 'and' separating independent clauses is a stylistic choice that improves readability in formal writing.
+6,,,,,STYLISTIC_PREFERENCE,80,The phrase 'or not' is often redundant after 'whether' unless specific emphasis on the negative is required.
+7,,,,,STYLISTIC_PREFERENCE,75,Adding a comma before 'and' separating independent clauses is a stylistic choice that improves readability in formal writing.
+8,,,,,PARSING_ERROR,95,"The compound adjective 'time-consuming' should be hyphenated for clarity in formal writing, especially when used predicatively."
+9,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The correct idiom is 'with regard to' or 'as regards'; 'with regards to' is grammatically incorrect.
+10,,,,,STYLISTIC_PREFERENCE,80,Adding a comma before 'and' when joining two independent clauses is a stylistic choice and not strictly necessary for clarity in this context.

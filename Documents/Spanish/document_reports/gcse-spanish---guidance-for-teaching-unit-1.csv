@@ -1,0 +1,23 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma is advisable before a coordinating conjunction joining two independent clauses for improved clarity in formal writing.
+1,,,,,STYLISTIC_PREFERENCE,75,"While 'role play' as two words is common, 'role-play' should be hyphenated when used as a compound adjective modifying 'tasks' for standard UK English grammar."
+2,,,,,SPELLING_ERROR,95,"'Reordering' should be written as a single word, not two separate words, according to standard UK English dictionaries."
+3,,,,,FALSE_POSITIVE,90,"The phrase 'in past, present and future tenses' is grammatically correct, with 'past' functioning as an adjective modifying 'tenses'."
+4,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it forms a compound adjective modifying 'country'.
+5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma is advisable before a coordinating conjunction joining two independent clauses for improved clarity in formal writing.
+6,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it forms a compound adjective modifying 'countries'.
+7,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it forms a compound adjective modifying 'country'.
+8,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it forms a compound adjective modifying 'country'.
+9,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it forms a compound adjective modifying 'media'.
+10,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+11,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+12,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+13,,,,,PARSING_ERROR,95,The compound adjective 'audio-visual' should be hyphenated when modifying 'material'.
+14,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+15,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'world'.
+16,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'country'.
+17,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+18,,,,,PARSING_ERROR,95,The compound adjective 'Spanish-speaking' should be hyphenated when modifying 'countries'.
+19,,,,,FALSE_POSITIVE,100,"The word 'a' is a correct Spanish preposition in this context, meaning 'to' or 'at'."
+20,,,,,STYLISTIC_PREFERENCE,80,"While 'verano pasado' is common, 'el verano pasado' is also grammatically correct and frequently used in Spanish."
+21,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The verb 'visitar' does not take the personal 'a' when its direct object is a place, making 'a España' incorrect."

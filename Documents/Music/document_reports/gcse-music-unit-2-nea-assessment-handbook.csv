@@ -1,0 +1,7 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,The compound adjective 'non-original' requires a hyphen in UK English.
+1,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.
+2,,,,,SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
+3,,,,,SPELLING_ERROR,95,"'Word' refers to Microsoft Word, a proper noun, and should be capitalised."
+4,,,,,SPELLING_ERROR,90,The acronym 'PDF' should be capitalised in formal documents.
+5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity when connecting two independent clauses.

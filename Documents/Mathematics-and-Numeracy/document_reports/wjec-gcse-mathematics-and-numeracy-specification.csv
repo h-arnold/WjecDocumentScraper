@@ -1,0 +1,49 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,This is a clear parsing error; 'JMMARY' should be 'SUMMARY'.
+1,,,,,PARSING_ERROR,100,This is a clear parsing error; 'pendix' should be 'Appendix'.
+2,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+3,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+4,,,,,FALSE_POSITIVE,100,"The word 'terms' is correctly used in the phrase 'definitions of the terms equation, expression and formula'."
+5,,,,,FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
+6,,,,,FALSE_POSITIVE,100,The conjunction 'and' is used correctly to connect two clauses in the sentence.
+7,,,,,FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
+8,,,,,FALSE_POSITIVE,100,'mpg' is a standard and correct abbreviation for 'miles per gallon' in the context of fuel consumption units.
+9,,,,,PARSING_ERROR,100,'cross-sectional' should be hyphenated as a compound adjective modifying 'area'.
+10,,,,,PARSING_ERROR,95,The compound adjective 'cross-sectional' should be hyphenated.
+11,,,,,STYLISTIC_PREFERENCE,80,"While 'outside of' is grammatically acceptable, 'outside' alone is more concise and often preferred in formal writing."
+12,,,,,FALSE_POSITIVE,100,'Multi-step' is correctly hyphenated as a compound adjective.
+13,,,,,PARSING_ERROR,95,The compound adjective 'real-world' should be hyphenated.
+14,,,,,PARSING_ERROR,95,The compound adjective 'solar-powered' should be hyphenated.
+15,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+16,,,,,FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$$` correctly closes the LaTeX math environment."
+17,,,,,PARSING_ERROR,95,The compound noun 'cross-section' should be hyphenated in this mathematical context.
+18,,,,,FALSE_POSITIVE,100,`\frac` is a correct LaTeX command for displaying fractions within a mathematical expression.
+19,,,,,FALSE_POSITIVE,100,"The `h` is part of the correct mathematical formula, and `$` correctly closes the LaTeX inline math environment."
+20,,,,,PARSING_ERROR,95,"The compound noun 'cross-section' should be hyphenated for clarity in this technical context, indicating a parsing error where the hyphen was lost."
+21,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+22,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+23,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+24,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+25,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+26,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+27,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX math expression and should be removed.
+28,,,,,PARSING_ERROR,100,"The compound noun 'cross-section' should be hyphenated, and the multiplication symbol `$	imes$` is missing between 'cross section' and 'length', indicating a significant parsing error."
+29,,,,,PARSING_ERROR,100,The `**` characters are incorrectly applied markdown bolding syntax within a LaTeX command and should be removed.
+30,,,,,FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
+31,,,,,PARSING_ERROR,90,The compound noun 'cross-section' should be hyphenated for consistency in technical documentation.
+32,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+33,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+34,,,,,FALSE_POSITIVE,100,The highlighted text `h$$` is correctly formatted as a mathematical variable followed by a LaTeX display math delimiter.
+35,,,,,FALSE_POSITIVE,100,The highlighted text `l$` is correctly formatted as a mathematical variable followed by an inline LaTeX math delimiter.
+36,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+37,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+38,,,,,FALSE_POSITIVE,100,The highlighted text `frac` is part of a correct LaTeX command `\frac` for displaying fractions.
+39,,,,,FALSE_POSITIVE,100,The highlighted text `$a` is correctly formatted as an inline LaTeX math delimiter followed by a mathematical variable.
+40,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+41,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+42,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+43,,,,,PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `
+e` (not equal to), indicating a parsing error."
+44,,,,,FALSE_POSITIVE,100,The `$` character is a LaTeX delimiter for inline mathematics and is correctly used here.
+45,,,,,PARSING_ERROR,100,"The `\` character is missing from the LaTeX command `\frac` (fraction), indicating a parsing error."
+46,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' would improve readability in this compound sentence, but its omission is not a strict grammatical error."

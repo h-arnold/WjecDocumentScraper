@@ -1,0 +1,72 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+1,,,,,PARSING_ERROR,100,The extraneous asterisks around 'h$$' indicate a parsing error in the LaTeX mathematical expression.
+2,,,,,STYLISTIC_PREFERENCE,80,"While 'cross section' is acceptable as a noun, 'cross-section' (hyphenated) is the preferred stylistic choice for compound nouns in technical contexts within WJEC documentation for consistency."
+3,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+4,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+5,,,,,PARSING_ERROR,100,The extraneous asterisks around 'h$' indicate a parsing error in the LaTeX mathematical expression.
+6,,,,,PARSING_ERROR,100,The extraneous asterisks around 'rl$' indicate a parsing error in the LaTeX mathematical expression.
+7,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+8,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+9,,,,,PARSING_ERROR,100,The extra asterisk and missing backslash before 'frac' indicate a parsing error in the LaTeX mathematical expression.
+10,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+11,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+12,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+13,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+14,,,,,FALSE_POSITIVE,100,"This is a correct mathematical expression, not a linguistic error."
+15,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a condition, not a linguistic error."
+16,,,,,FALSE_POSITIVE,100,"`\ne` is a correct LaTeX command for 'not equal to', not a spelling error."
+17,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable within a formula, not a linguistic error."
+18,,,,,FALSE_POSITIVE,100,"`\frac` is a correct LaTeX command for displaying fractions, not a spelling error."
+19,,,,,FALSE_POSITIVE,100,"This is a correct mathematical variable used in context, not a linguistic error."
+20,,,,,FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
+21,,,,,FALSE_POSITIVE,100,"The highlighted '$x$' is a mathematical variable, correctly formatted and used in context."
+22,,,,,PARSING_ERROR,95,"The word 'rganisation' is missing the initial 'O', which is a clear parsing error from the source document."
+23,,,,,PARSING_ERROR,90,"'ssa' appears to be a truncated name, likely missing an initial letter due to a parsing error."
+24,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity for an apostrophe, indicating a parsing error from the original document."
+25,,,,,PARSING_ERROR,100,Γhe is a parsing error where the Greek letter Gamma has replaced the English letter 'T'.
+26,,,,,PARSING_ERROR,95,"'Examin' is a truncation of 'Examiner', indicating a parsing error."
+27,,,,,FALSE_POSITIVE,100,"'B1 B1' is a specific marking code within a mark scheme, not a grammatical error."
+28,,,,,FALSE_POSITIVE,100,"'B0 B0' is a specific marking code within a mark scheme, not a grammatical error."
+29,,,,,FALSE_POSITIVE,100,"'M1 M1' is a specific marking code within a mark scheme, not a grammatical error."
+30,,,,,FALSE_POSITIVE,95,The phrase 'Sight of any of the following' is grammatically correct and appropriate in this context.
+31,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+32,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+33,,,,,FALSE_POSITIVE,90,The parenthesis is correctly used to enclose the unit 'kg' and is not an error.
+34,,,,,SPELLING_ERROR,95,"The use of lowercase 'm1' is inconsistent with the standard uppercase notation for mark scheme points (e.g., M1, A1, B1)."
+35,,,,,FALSE_POSITIVE,100,`frac` is a correct LaTeX command used within a mathematical expression and is not a spelling error.
+36,,,,,FALSE_POSITIVE,100,`$x` is correctly used as part of a LaTeX mathematical expression and is not a spelling error.
+37,,,,,FALSE_POSITIVE,100,`$x$` is correctly used as a LaTeX mathematical variable and is not a spelling error.
+38,,,,,FALSE_POSITIVE,95,`A1 A1` correctly represents two distinct accuracy marks in the mark scheme.
+39,,,,,FALSE_POSITIVE,95,`B1 B1` correctly represents two distinct bonus/independent marks in the mark scheme.
+40,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+41,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+42,,,,,FALSE_POSITIVE,100,`frac` is a LaTeX command for fractions and is correctly used within a mathematical expression.
+43,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+44,,,,,FALSE_POSITIVE,100,`$r^2$` is a correctly formatted LaTeX mathematical expression.
+45,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+46,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+47,,,,,FALSE_POSITIVE,100,`$r$` is a correctly formatted LaTeX mathematical expression.
+48,,,,,PARSING_ERROR,95,The HTML entity `&#x27;` should be rendered as a single quote or apostrophe.
+49,,,,,FALSE_POSITIVE,90,"`B1 B1` is a standard notation in mark schemes indicating two separate B1 marks, not a repetition error."
+50,,,,,FALSE_POSITIVE,100,"""B1 B1"" is a marking scheme notation, not a linguistic error in the learner-facing content."
+51,,,,,SPELLING_ERROR,100,"""Caermeas"" is a misspelling of the place name ""Caermaes"" which is consistently used elsewhere."
+52,,,,,FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
+53,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+54,,,,,FALSE_POSITIVE,100,`$x` is correct LaTeX syntax for displaying a mathematical variable and is not a linguistic error.
+55,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+56,,,,,FALSE_POSITIVE,90,`$x` is correct LaTeX syntax for displaying a mathematical variable in a Markdown document that supports LaTeX rendering.
+57,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+58,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+59,,,,,FALSE_POSITIVE,100,`\frac` is correct LaTeX syntax for displaying fractions and is not a linguistic error.
+60,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+61,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+62,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+63,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+64,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+65,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+66,,,,,FALSE_POSITIVE,100,The highlighted 'frac' is part of a LaTeX command `\frac` for fractions and is not a spelling error.
+67,,,,,FALSE_POSITIVE,100,'M1 m1' is a standard marking scheme notation in WJEC documents and is correct as written.
+68,,,,,FALSE_POSITIVE,95,The highlighted parenthesis is correctly used as part of a mathematical expression `2(34 + 29 + 20)` indicating multiplication.
+69,,,,,FALSE_POSITIVE,100,"The phrase 'may be repeated' is grammatically correct, indicating possibility, and should not be changed to 'maybe'."
+70,,,,,SPELLING_ERROR,100,"The abbreviation 'ocw' should be capitalised as 'OCW' to match WJEC conventions for Organisation, Communication and Written accuracy."

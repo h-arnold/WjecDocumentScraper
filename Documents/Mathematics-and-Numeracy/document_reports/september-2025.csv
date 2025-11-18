@@ -1,0 +1,8 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,"The word 'qualification' has been incorrectly split across a markdown link, indicating a parsing error."
+1,,,,,PARSING_ERROR,100,"The word 'qualification' has been incorrectly split across a markdown link, indicating a parsing error."
+2,,,,,PARSING_ERROR,95,"The compound adjective 'face-to-face' requires hyphens, which are missing in the original text, indicating a parsing error."
+3,,,,,PARSING_ERROR,100,"The word 'qualification' has been incorrectly split across a markdown link, indicating a parsing error."
+4,,,,,PARSING_ERROR,100,"The word 'qualification' has been incorrectly split across a markdown link, indicating a parsing error."
+5,,,,,STYLISTIC_PREFERENCE,80,"Both 'Walk-throughs' (hyphenated) and 'Walkthroughs' (one word) are acceptable forms for the noun, and the hyphenated form is consistent with 'Specification Walk-Through' elsewhere in the document."
+6,,,,,SPELLING_ERROR,100,'wil' is a misspelling of the auxiliary verb 'will'.

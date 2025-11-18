@@ -1,0 +1,17 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'Written' is redundantly repeated in the heading, which should align with the unit title and assessment type from the table."
+1,,,,,STYLISTIC_PREFERENCE,85,"In formal writing, 'outside' is generally preferred over 'outside of' for conciseness."
+2,,,,,STYLISTIC_PREFERENCE,70,"The conjunction 'but' correctly connects two dependent clauses, and a comma is not strictly necessary here, making its omission a stylistic choice."
+3,,,,,SPELLING_ERROR,95,"As a verb, the correct form is 'match up' (two words), not 'match-up'."
+4,,,,,STYLISTIC_PREFERENCE,75,"'Key words' as two separate words is an acceptable form, though 'keywords' (one word) is also common in academic contexts."
+5,,,,,PARSING_ERROR,100,"The duplication of 'Mi' is a clear parsing error, likely from document conversion."
+6,,,,,PARSING_ERROR,100,"The duplication of 'los' is a clear parsing error, likely from document conversion."
+7,,,,,FALSE_POSITIVE,100,"'El ritmo' is a correct Spanish phrase used in an example sentence, making this a false positive."
+8,,,,,FALSE_POSITIVE,100,'Basque country' is the correct and standard proper noun for the region.
+9,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as it functions as a compound adjective modifying 'community'.
+10,,,,,FALSE_POSITIVE,95,"The phrase 'discussions around' is grammatically correct and commonly used in UK English, conveying a slightly broader scope than 'discussions about'."
+11,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase 'able read' is missing the infinitive marker 'to'; it should be 'able to read'.
+12,,,,,STYLISTIC_PREFERENCE,80,"A comma before 'and' separating two independent clauses is a stylistic choice, not a grammatical requirement, though it can improve readability."
+13,,,,,FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
+14,,,,,FALSE_POSITIVE,95,'Eco-tourism' is a correctly hyphenated compound noun in UK English.
+15,,,,,FALSE_POSITIVE,90,"'Key words' as two separate words is an acceptable and common spelling in UK English, particularly when 'key' functions as an adjective."

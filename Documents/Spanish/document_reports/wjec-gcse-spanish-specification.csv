@@ -1,0 +1,167 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The word 'Wales' has been incorrectly split across two cells due to a parsing error.
+1,,,,,STYLISTIC_PREFERENCE,80,"The sentence is grammatically correct as written; a comma before 'but' is a stylistic choice, not a grammatical necessity here."
+2,,,,,STYLISTIC_PREFERENCE,90,'Outside' is more concise and formal than 'outside of' when used as a preposition.
+3,,,,,STYLISTIC_PREFERENCE,80,"The sentence is grammatically correct as written; a comma before 'but' is a stylistic choice, not a grammatical necessity here."
+4,,,,,STYLISTIC_PREFERENCE,80,"The sentence is grammatically correct as written; a comma before 'but' is a stylistic choice, not a grammatical necessity here."
+5,,,,,FALSE_POSITIVE,100,"'Centres' is the correct UK English spelling, which is appropriate for a WJEC document."
+6,,,,,FALSE_POSITIVE,100,"'Todo' is a correct Spanish word in this context, part of a grammar list, and not an English spelling error."
+7,,,,,PARSING_ERROR,100,"A space is missing after the comma, indicating a parsing error."
+8,,,,,PARSING_ERROR,100,"A space is missing after the comma, indicating a parsing error."
+9,,,,,FALSE_POSITIVE,95,'Anymore' is the correct single-word spelling for the adverb meaning 'any longer' in UK English.
+10,,,,,PARSING_ERROR,100,The comma after 'the' is extraneous and grammatically incorrect in this context.
+11,,,,,PARSING_ERROR,100,The comma after 'the' is extraneous and grammatically incorrect in this context.
+12,,,,,PARSING_ERROR,100,"A space is missing between 'usted' and the opening parenthesis, indicating a parsing error."
+13,,,,,PARSING_ERROR,100,The comma after 'a' is extraneous and grammatically incorrect in this list of English equivalents.
+14,,,,,PARSING_ERROR,100,The comma after 'an' is extraneous and grammatically incorrect in this list of English equivalents.
+15,,,,,STYLISTIC_PREFERENCE,80,"'Ever-changing' is typically hyphenated when used as a compound adjective, even in a predicative position, for improved clarity and consistency in formal writing."
+16,,,,,PARSING_ERROR,100,'Gender-neutral' requires a hyphen when used as a compound adjective modifying 'language'.
+17,,,,,FALSE_POSITIVE,95,"'Everyday' (one word) is correctly used as an adjective meaning 'daily' or 'common' in this context, synonymous with 'daily'."
+18,,,,,STYLISTIC_PREFERENCE,90,"In formal WJEC documentation, 'OK' (all caps) or 'okay' is preferred over the informal 'ok'."
+19,,,,,PARSING_ERROR,100,'24-hour' requires a hyphen when used as a compound adjective modifying 'clock'.
+20,,,,,FALSE_POSITIVE,100,'Sweater' is correctly spelled and used as an appropriate English equivalent.
+21,,,,,FALSE_POSITIVE,100,'Sweater' is correctly spelled and used as an appropriate English equivalent.
+22,,,,,FALSE_POSITIVE,100,'Pre/post-noun' is a correct and appropriately formatted grammatical descriptor.
+23,,,,,FALSE_POSITIVE,100,'Todo' is correctly used as part of the Spanish phrase 'sobre todo'.
+24,,,,,FALSE_POSITIVE,100,"The notation 'n(m/f/n)' is a correct and standard way to indicate noun gender and number, and 'n(m' is not an error in this context."
+25,,,,,FALSE_POSITIVE,100,'A' is correctly used as part of the Spanish phrase 'a eso de'.
+26,,,,,PARSING_ERROR,95,The lack of a separator between 'realise' and 'realising' suggests a parsing or formatting error.
+27,,,,,FALSE_POSITIVE,100,'Online' is correctly spelled and used as an appropriate English equivalent.
+28,,,,,SPELLING_ERROR,100,'Olympic Games' is a proper noun and requires capitalisation.
+29,,,,,FALSE_POSITIVE,100,'Todo' is correctly used as part of the Spanish phrase 'todo recto'.
+30,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+31,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+32,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+33,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+34,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+35,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+36,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+37,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+38,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+39,,,,,PARSING_ERROR,95,"A comma is missing between the infinitive and the present participle, likely due to a PDF to Markdown conversion error."
+40,,,,,FALSE_POSITIVE,95,"The words 'threaten' and 'threatening' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+41,,,,,FALSE_POSITIVE,95,"The words 'announce' and 'announcing' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+42,,,,,FALSE_POSITIVE,95,"The words 'assure' and 'assuring' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+43,,,,,FALSE_POSITIVE,95,"The words 'attend' and 'attending' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+44,,,,,FALSE_POSITIVE,95,"The words 'attract' and 'attracting' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+45,,,,,FALSE_POSITIVE,95,"The words 'kiss' and 'kissing' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+46,,,,,FALSE_POSITIVE,95,"The words 'shine' and 'shining' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+47,,,,,FALSE_POSITIVE,95,"The words 'change' and 'changing' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+48,,,,,FALSE_POSITIVE,95,"The words 'cancel' and 'cancelling' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+49,,,,,FALSE_POSITIVE,95,"The words 'punish' and 'punishing' are correctly presented as the infinitive and present participle forms, following the established format of the vocabulary list."
+50,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+51,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+52,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+53,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+54,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+55,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+56,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+57,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+58,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+59,,,,,FALSE_POSITIVE,100,"The format `(to) [verb]   [verb]ing` is a consistent stylistic choice for presenting verb forms in this dictionary-style document, and both forms are correct."
+60,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+61,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+62,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+63,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+64,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+65,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+66,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+67,,,,,PARSING_ERROR,90,"The extraneous 'I' before 'stopping' is a parsing error, disrupting the intended format of verb and -ing form."
+68,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+69,,,,,PARSING_ERROR,95,"The verb and its -ing form should be separated by a consistent delimiter, likely two spaces, which is missing here."
+70,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'describe' and the present participle 'describing'.
+71,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'discover' and the present participle 'discovering'.
+72,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'waste' and the present participle 'wasting'.
+73,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'destroy' and the present participle 'destroying'.
+74,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'argue' and the present participle 'arguing'.
+75,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'enjoy' and the present participle 'enjoying'.
+76,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'sleep' and the present participle 'sleeping'.
+77,,,,,PARSING_ERROR,100,A space is missing between the infinitive phrase 'fall asleep' and the present participle phrase 'falling asleep'.
+78,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'find' and the present participle 'finding'.
+79,,,,,PARSING_ERROR,100,A space is missing between the infinitive 'meet' and the present participle 'meeting'.
+80,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+81,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+82,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+83,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+84,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+85,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+86,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+87,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+88,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+89,,,,,PARSING_ERROR,95,The two words are merged due to a parsing error; a separator is required to distinguish the infinitive from the gerund.
+90,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+91,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+92,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+93,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+94,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+95,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+96,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+97,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+98,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+99,,,,,FALSE_POSITIVE,95,The spacing between the verb and its gerund form is a consistent stylistic choice for vocabulary entries in this document.
+100,,,,,FALSE_POSITIVE,100,"The original text 'involve   involving' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+101,,,,,FALSE_POSITIVE,100,"The original text 'go   going' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+102,,,,,FALSE_POSITIVE,100,"The original text 'justify   justifying' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+103,,,,,PARSING_ERROR,95,"The expected two-space separator is missing between 'get up' and 'getting up', which is a common parsing error from PDF to markdown, and the tool's comma suggestion does not align with the document's consistent stylistic pattern."
+104,,,,,FALSE_POSITIVE,100,"The original text 'limit   limiting' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+105,,,,,FALSE_POSITIVE,100,"The original text 'clean   cleaning' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+106,,,,,FALSE_POSITIVE,100,"The original text 'call   calling' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+107,,,,,FALSE_POSITIVE,100,"The original text 'arrive   arriving' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+108,,,,,FALSE_POSITIVE,100,"The original text 'kill   killing' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+109,,,,,FALSE_POSITIVE,100,"The original text 'lie   lying' is correct and consistent with the document's stylistic use of two spaces as a separator for verb/gerund pairs, and the tool's suggestion is identical to the original."
+110,,,,,PARSING_ERROR,100,"A separator (three spaces) is missing between the infinitive 'watch' and the gerund 'watching', which is a consistent formatting error in this document."
+111,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+112,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+113,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+114,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+115,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+116,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+117,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+118,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+119,,,,,FALSE_POSITIVE,95,"The spacing '   ' is a consistent stylistic choice in this document to separate the infinitive and gerund forms, making the tool's suggestion a false positive."
+120,,,,,PARSING_ERROR,100,"A space is missing between the infinitive 'think' and the present participle 'thinking', which is a common parsing error in this document format."
+121,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'weigh' and the present participle 'weighing' with two spaces, making the tool's suggestion of 'weigh weighing' a false alarm."
+122,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'agree' and the present participle 'agreeing' with two spaces, making the tool's suggestion of 'agree agreeing' a false alarm."
+123,,,,,PARSING_ERROR,100,"A space is missing between the infinitive 'prefer' and the present participle 'preferring', which is a common parsing error in this document format."
+124,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'prepare' and the present participle 'preparing' with two spaces, making the tool's suggestion of 'prepare preparing' a false alarm."
+125,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'promote' and the present participle 'promoting' with two spaces, making the tool's suggestion of 'promote promoting' a false alarm."
+126,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'protect' and the present participle 'protecting' with two spaces, making the tool's suggestion of 'protect protecting' a false alarm."
+127,,,,,FALSE_POSITIVE,100,"The word 'online' is correctly spelled and used in the context, making this a false positive."
+128,,,,,FALSE_POSITIVE,100,"The word 'online' is correctly spelled and used in the context, making this a false positive."
+129,,,,,FALSE_POSITIVE,95,"The original text correctly separates the infinitive 'burn' and the present participle 'burning' with two spaces, making the tool's suggestion of 'burn burning' a false alarm."
+130,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+131,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+132,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+133,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+134,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+135,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+136,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+137,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+138,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+139,,,,,STYLISTIC_PREFERENCE,90,"The current formatting 'infinitive   gerund' is a consistent stylistic choice for this vocabulary list, and adding a comma would alter this established pattern."
+140,,,,,PARSING_ERROR,95,"The extra space between 'out' and 'handing out' is a formatting error, likely from PDF conversion."
+141,,,,,PARSING_ERROR,95,"The extra space between 'represent' and 'representing' is a formatting error, likely from PDF conversion."
+142,,,,,PARSING_ERROR,95,"The extra space between 'rescue' and 'rescuing' is a formatting error, likely from PDF conversion."
+143,,,,,PARSING_ERROR,95,"The extra space between 'reserve' and 'reserving' is a formatting error, likely from PDF conversion."
+144,,,,,PARSING_ERROR,95,"The extra space between 'breathe' and 'breathing' is a formatting error, likely from PDF conversion."
+145,,,,,PARSING_ERROR,95,"The extra space between 'stay' and 'staying' is a formatting error, likely from PDF conversion."
+146,,,,,PARSING_ERROR,95,"The extra space between 'follow' and 'following' is a formatting error, likely from PDF conversion."
+147,,,,,PARSING_ERROR,95,"The extra space between 'feel' and 'feeling' is a formatting error, likely from PDF conversion."
+148,,,,,PARSING_ERROR,95,"The extra space between 'separate' and 'separating' is a formatting error, likely from PDF conversion."
+149,,,,,PARSING_ERROR,95,"The extra space between 'up' and 'splitting up' is a formatting error, likely from PDF conversion."
+150,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+151,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+152,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+153,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+154,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+155,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+156,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+157,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+158,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+159,,,,,FALSE_POSITIVE,95,"The spacing between the infinitive and the present participle is a consistent stylistic choice in this vocabulary table, not an error."
+160,,,,,FALSE_POSITIVE,95,"The phrase 'empty   emptying' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."
+161,,,,,FALSE_POSITIVE,95,"The phrase 'sell   selling' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."
+162,,,,,FALSE_POSITIVE,95,"The phrase 'come   coming' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."
+163,,,,,FALSE_POSITIVE,95,"The phrase 'visit   visiting' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."
+164,,,,,FALSE_POSITIVE,95,"The phrase 'do again   doing again' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."
+165,,,,,FALSE_POSITIVE,95,"The phrase 'vote   voting' correctly presents the infinitive and present participle forms, separated by multiple spaces as per the document's formatting convention."

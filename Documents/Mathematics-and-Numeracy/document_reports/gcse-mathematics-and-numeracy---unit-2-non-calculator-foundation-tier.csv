@@ -29,3 +29,16 @@ issue_id,page_number,issue,highlighted_context,pass_code,error_category,confiden
 27,24,frac,...1}{2^3} = \frac{1}{8}$</li></ul> | | $6\**frac**{7}{8}$                                 ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of the LaTeX command `\frac` used for displaying fractions, not a standalone word."
 28,24,frac,...| A1 for any one of the following:  • $\**frac**{21}{8} \times \frac{8}{3} = 7$ • final ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of the LaTeX command `\frac` used for displaying fractions, not a standalone word."
 29,24,frac,...the following:  • $\frac{21}{8} \times \**frac**{8}{3} = 7$ • final answer $\frac{55}{8}...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"`frac` is part of the LaTeX command `\frac` used for displaying fractions, not a standalone word."
+30,,,,,FALSE_POSITIVE,95,`frac` is part of a correctly formatted LaTeX math command `\frac{numerator}{denominator}` and is not an error.
+31,,,,,FALSE_POSITIVE,95,`frac` is part of a correctly formatted LaTeX math command `\frac{numerator}{denominator}` and is not an error.
+32,,,,,FALSE_POSITIVE,95,`frac` is part of a correctly formatted LaTeX math command `\frac{numerator}{denominator}` and is not an error.
+33,,,,,FALSE_POSITIVE,95,`frac` is part of a correctly formatted LaTeX math command `\frac{numerator}{denominator}` and is not an error.
+34,,,,,FALSE_POSITIVE,95,`$b$` represents a mathematical variable correctly enclosed in LaTeX math mode and is not an error.
+35,,,,,FALSE_POSITIVE,95,`$b$` represents a mathematical variable correctly enclosed in LaTeX math mode and is not an error.
+36,,,,,PARSING_ERROR,90,"The comma inside the parenthesis `(14,)` is an unusual formatting choice, likely a parsing artifact from conversion, and should be `(14)` or `14,`."
+37,,,,,PARSING_ERROR,90,"The comma inside the parenthesis `(16,)` is an unusual formatting choice, likely a parsing artifact from conversion, and should be `(16)` or `16,`."
+38,,,,,PARSING_ERROR,90,"The comma inside the parenthesis `(10,)` is an unusual formatting choice, likely a parsing artifact from conversion, and should be `(10)` or `10,`."
+39,,,,,PARSING_ERROR,95,"The HTML entity `&#x27;` should be rendered as a standard single quote, indicating a parsing error during conversion."
+40,,,,,PARSING_ERROR,95,"A closing single quote is missing, leading to an incomplete mathematical expression."
+41,,,,,FALSE_POSITIVE,100,"'ocw' is a standard WJEC abbreviation for 'organisation, communication and written accuracy' in mark schemes."
+42,,,,,PARSING_ERROR,90,"The compound adjective '2 way' should be hyphenated as '2-way' when modifying 'table', which is a common parsing error in PDF to Markdown conversion."

@@ -1,0 +1,7 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'and' when it connects two independent clauses.
+1,,,,,PARSING_ERROR,100,The compound adjective 'well-structured' should be hyphenated.
+2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'but' when it connects two independent clauses.
+3,,,,,PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
+4,,,,,PARSING_ERROR,100,The compound adjective 'audio-visual' should be hyphenated.
+5,,,,,STYLISTIC_PREFERENCE,80,'Outside' is more concise and stylistically preferred over 'outside of' in formal writing when referring to location.

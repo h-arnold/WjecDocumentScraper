@@ -1,0 +1,10 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,STYLISTIC_PREFERENCE,80,"While 'outside of' is not strictly incorrect, 'outside' is more concise and generally preferred in formal writing."
+1,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The singular subject 'The marking scheme' requires the singular verb 'is', not 'are'."
+2,,,,,FALSE_POSITIVE,90,'Independently from' is grammatically correct and acceptable in this context.
+3,,,,,PARSING_ERROR,95,'Non-religious' should be hyphenated as it is a compound adjective modifying 'perspectives' in UK English.
+4,,,,,PARSING_ERROR,95,'Non-religious' should be hyphenated as it is a compound adjective modifying 'perspectives' in UK English.
+5,,,,,PARSING_ERROR,100,"The word 'non-examination' is incorrectly rendered as 'nexamination' due to a parsing error, missing the 'on-' and the hyphen."
+6,,,,,STYLISTIC_PREFERENCE,85,"While 'judgment' is an acceptable spelling, 'judgement' is the more common and preferred spelling in British English, which WJEC typically adheres to."
+7,,,,,STYLISTIC_PREFERENCE,85,"While 'judgment' is an acceptable spelling, 'judgement' is the more common and preferred spelling in British English, which WJEC typically adheres to."
+8,,,,,STYLISTIC_PREFERENCE,85,"While 'judgment' is an acceptable spelling, 'judgement' is the more common and preferred spelling in British English, which WJEC typically adheres to."

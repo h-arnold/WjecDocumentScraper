@@ -1,0 +1,15 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The word 'Experience' has been split across two lines due to a parsing error during conversion from the original document format.
+1,,,,,PARSING_ERROR,100,The word 'Experience' has been split across two lines due to a parsing error during conversion from the original document format.
+2,,,,,FALSE_POSITIVE,95,The highlighted text is part of a URL and is correctly formatted for that context.
+3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'and' when it connects two independent clauses in formal writing.
+4,,,,,STYLISTIC_PREFERENCE,70,"The phrase 'all of the' is grammatically correct and acceptable, though 'all the' could also be used; this is a stylistic choice."
+5,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'and' when it connects two independent clauses in formal writing.
+6,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'and' when it connects two independent clauses in formal writing.
+7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'that that' is a clear grammatical error and one 'that' should be removed.
+8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,A comma is required before the coordinating conjunction 'and' when it connects two independent clauses in formal writing.
+9,,,,,FALSE_POSITIVE,85,The phrase 'whether or not' is grammatically correct and commonly used for clarity or emphasis.
+10,,,,,STYLISTIC_PREFERENCE,80,Adding a comma before 'and' when it joins two independent clauses is a stylistic choice that can improve readability in formal writing.
+11,,,,,SPELLING_ERROR,95,"""Time-consuming"" should be hyphenated as a compound adjective, even when used predicatively, for standard UK English spelling."
+12,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"The correct formal idiom is ""with regard to"" or ""as regards"", not ""with regards to""."
+13,,,,,STYLISTIC_PREFERENCE,80,Adding a comma before 'and' when it joins two independent clauses is a stylistic choice that can improve readability in formal writing.

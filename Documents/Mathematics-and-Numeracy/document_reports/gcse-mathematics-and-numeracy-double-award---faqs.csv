@@ -1,0 +1,3 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,SPELLING_ERROR,100,The word 'inclu' is an incomplete spelling of 'include' and must be corrected.
+1,,,,,PARSING_ERROR,95,"The sentence ends with two periods instead of one, which is likely a parsing artifact."

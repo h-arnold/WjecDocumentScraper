@@ -1,0 +1,41 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The word 'SUMMARY' has been incorrectly split or truncated in the table of contents.
+1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across columns in the table of contents.
+2,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across columns in the table of contents.
+3,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across columns in the table of contents.
+4,,,,,PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split or has a character encoding issue in the table of contents.
+5,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across columns in the table of contents.
+6,,,,,PARSING_ERROR,100,The word 'MALPRACTICE' has been incorrectly split across columns in the table of contents.
+7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'matter' is unnecessarily repeated, creating a grammatical error."
+8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'forces' is unnecessarily repeated, creating a grammatical error."
+9,,,,,FALSE_POSITIVE,100,The term 'ions' is correctly used in this scientific context and is not an error.
+10,,,,,FALSE_POSITIVE,95,"'Net zero' is a widely accepted and correct term when used as a compound noun or concept, as it is here."
+11,,,,,PARSING_ERROR,95,"The correct spelling in UK English is 'X-rays', which should be hyphenated."
+12,,,,,PARSING_ERROR,95,'Socio-economic' is a compound adjective and requires a hyphen in UK English.
+13,,,,,FALSE_POSITIVE,90,"'Micro-organisms' is a correct and acceptable spelling in UK English, though 'microorganisms' is also used."
+14,,,,,PARSING_ERROR,95,'Non-metal' is a compound adjective and requires a hyphen in UK English.
+15,,,,,SPELLING_ERROR,100,"The UK English spelling for the acid is 'sulphuric acid', not 'sulfuric acid'."
+16,,,,,SPELLING_ERROR,100,"The UK English spelling for the ion is 'sulphate', not 'sulfate'."
+17,,,,,FALSE_POSITIVE,90,The phrase 'a small number of' is grammatically correct and idiomatic in this context.
+18,,,,,FALSE_POSITIVE,90,The indefinite article 'a' is correctly used before 'simplest formula' in this context.
+19,,,,,FALSE_POSITIVE,95,"'Polyvinylchloride' is a correct and widely accepted chemical term, often written as a single word."
+20,,,,,STYLISTIC_PREFERENCE,80,"Adding a comma before 'and' is a stylistic choice when connecting two independent clauses, but its omission here does not cause ambiguity."
+21,,,,,FALSE_POSITIVE,100,The word 'and' is correctly used as a conjunction in a title and does not require a preceding comma.
+22,,,,,FALSE_POSITIVE,100,The phrase 'the waves around us' is grammatically correct and appropriate for the title.
+23,,,,,FALSE_POSITIVE,100,The phrase 'the waves around us' is grammatically correct and appropriate for the section heading.
+24,,,,,PARSING_ERROR,100,"The term 'ΔPE' is duplicated, indicating a parsing or input error that needs correction."
+25,,,,,FALSE_POSITIVE,95,"'Fleming's Right Hand Rule' is a specific, unhyphenated proper noun in physics."
+26,,,,,FALSE_POSITIVE,95,"'Fleming's Left Hand Rule' is a specific, unhyphenated proper noun in physics."
+27,,,,,FALSE_POSITIVE,100,"'frac' is a LaTeX command used correctly within a mathematical equation, not a spelling error."
+28,,,,,FALSE_POSITIVE,100,"'frac' is a LaTeX command used correctly within a mathematical equation, not a spelling error."
+29,,,,,PARSING_ERROR,100,"The mathematical equation is malformed and incomplete, indicating a significant parsing or input error in the LaTeX rendering."
+30,,,,,FALSE_POSITIVE,95,"The highlighted text '$N' is part of a mathematical variable '$N_2$' within an equation, which is correct in this context."
+31,,,,,PARSING_ERROR,100,"The word 'Ciccincity' is a garbled term, likely a result of OCR or PDF conversion errors, and does not make sense in the context."
+32,,,,,SPELLING_ERROR,100,'matterial' is a misspelling of 'material'.
+33,,,,,SPELLING_ERROR,100,'respends' is a misspelling of 'responds'.
+34,,,,,SPELLING_ERROR,100,"'shariging' is a misspelling of 'changing', which fits the context of demand."
+35,,,,,PARSING_ERROR,100,"The word 'whos' is incorrect in this context, and the surrounding phrase 'National Olid' indicates a significant parsing error."
+36,,,,,FALSE_POSITIVE,95,'Enquire' is correct UK English and consistent with the noun 'enquiry' used throughout the document.
+37,,,,,STYLISTIC_PREFERENCE,80,"While 'outside of' is not grammatically incorrect, 'outside' is more concise and generally preferred in formal writing."
+38,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' when joining two independent clauses is a stylistic choice that can improve readability, but its omission here does not create ambiguity."
+39,,,,,PARSING_ERROR,95,The compound adjective '1 metre' should be hyphenated as '1-metre' when preceding a noun in UK English.

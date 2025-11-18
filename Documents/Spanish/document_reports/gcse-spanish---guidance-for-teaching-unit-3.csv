@@ -1,0 +1,14 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,FALSE_POSITIVE,100,The word 'a' is a correctly used Spanish preposition in the example sentence.
+1,,,,,FALSE_POSITIVE,100,The word 'vistas' is a correctly used Spanish noun meaning 'views' in the example sentence.
+2,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+3,,,,,FALSE_POSITIVE,100,"'Categorise' is the correct UK English spelling, appropriate for WJEC documents."
+4,,,,,SPELLING_ERROR,80,'Malsano' is not a standard Spanish word for 'unhealthy'; 'insano' or 'no sano' would be more appropriate.
+5,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+6,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as a compound adjective modifying 'YouTubers'.
+7,,,,,SPELLING_ERROR,100,'YouTube' is a proper noun and should be capitalized.
+8,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as a compound adjective modifying 'countries/communities'.
+9,,,,,PARSING_ERROR,95,'Spanish-speaking' should be hyphenated as a compound adjective modifying 'country'.
+10,,,,,FALSE_POSITIVE,100,"The Spanish phrase ""el mundo de trabajo"" is grammatically correct and means ""the world of work""."
+11,,,,,PARSING_ERROR,95,"""Spanish-speaking"" should be hyphenated as it functions as a compound adjective modifying ""world""."
+12,,,,,STYLISTIC_PREFERENCE,80,"While ""key words"" is acceptable, ""keywords"" as a single word is generally preferred in educational and technical contexts for conciseness and consistency."

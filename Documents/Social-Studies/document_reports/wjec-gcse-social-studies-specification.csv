@@ -1,0 +1,15 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,"The word 'SUMMARY' has been incorrectly parsed, splitting it and adding an extraneous character."
+1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split during parsing.
+2,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split during parsing.
+3,,,,,PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split during parsing.
+4,,,,,PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split during parsing.
+5,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split during parsing.
+6,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split during parsing.
+7,,,,,PARSING_ERROR,100,"The character 'Αį' is a parsing error, likely intended to be part of 'Appendix A'."
+8,,,,,PARSING_ERROR,100,The word 'Appendix' has been incorrectly parsed and split.
+9,,,,,PARSING_ERROR,100,"The character 'Αı' is a parsing error, likely intended to be part of 'Appendix B'."
+10,,,,,PARSING_ERROR,100,The word 'pendi' is a fragment of 'Appendix' resulting from a PDF to Markdown conversion error.
+11,,,,,PARSING_ERROR,100,"The word 'Studie' is missing the final 's', which appears to have been separated by a markdown link reference, indicating a parsing error."
+12,,,,,FALSE_POSITIVE,95,"Gender fluid is a correct and established term for a gender identity, making this a false positive."
+13,,,,,SPELLING_ERROR,90,"The verb phrase 'cashing in' should be written as two separate words, not one compound word."

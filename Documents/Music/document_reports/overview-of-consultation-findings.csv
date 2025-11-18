@@ -1,0 +1,15 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
+1,,,,,PARSING_ERROR,95,The word 'Experience' has been incorrectly split across a line break during parsing.
+2,,,,,FALSE_POSITIVE,90,This is part of a URL and is correctly formatted for a web address.
+3,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+4,,,,,FALSE_POSITIVE,90,The phrase 'all of the' is grammatically correct and commonly used in UK English.
+5,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+6,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'that' ('that that') is a clear grammatical error and one instance should be removed.
+8,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'and' joining two independent clauses is a stylistic choice, not a grammatical requirement for clarity here."
+9,,,,,FALSE_POSITIVE,90,The phrase 'whether or not' is grammatically correct and commonly used to express alternatives.
+10,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."
+11,,,,,PARSING_ERROR,95,The compound adjective 'time-consuming' should be hyphenated when preceding the noun it modifies.
+12,,,,,SPELLING_ERROR,90,"The correct idiomatic phrase is 'with regard to', not 'with regards to'."
+13,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity by separating two independent clauses, but its omission does not create significant ambiguity."

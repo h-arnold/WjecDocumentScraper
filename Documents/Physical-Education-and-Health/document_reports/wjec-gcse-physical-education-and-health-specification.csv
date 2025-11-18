@@ -1,0 +1,13 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The word 'NTRODUCTION' is a clear parsing error for 'INTRODUCTION' in the table of contents.
+1,,,,,PARSING_ERROR,100,"The word 'portunities' is a parsing error for 'Opportunities' in the table of contents, likely due to character misinterpretation."
+2,,,,,PARSING_ERROR,100,The word 'FECHNICAL' is a clear parsing error for 'TECHNICAL' in the table of contents.
+3,,,,,PARSING_ERROR,100,"The word 'ndix' is a parsing error for 'Appendix' in the table of contents, likely due to character misinterpretation and word splitting."
+4,,,,,PARSING_ERROR,95,"'2 year' should be hyphenated as '2-year' when used as a compound adjective, which is a common parsing error from PDF to markdown."
+5,,,,,PARSING_ERROR,95,"'Socio economic' should be hyphenated as 'socio-economic' when used as a compound adjective, which is a common parsing error from PDF to markdown."
+6,,,,,PARSING_ERROR,95,"'Self esteem' should be hyphenated as 'self-esteem' for consistency and correct compound noun formation, which is a common parsing error from PDF to markdown."
+7,,,,,PARSING_ERROR,100,'ll' should be 'II' (Roman numeral two) for consistency with 'type I' and correct representation.
+8,,,,,FALSE_POSITIVE,100,"'Fartlek' is a correctly spelled, recognised technical term in sports science."
+9,,,,,FALSE_POSITIVE,100,'Audio-visual' is correctly hyphenated as a compound adjective.
+10,,,,,FALSE_POSITIVE,100,The term 'audio-visual' is correctly hyphenated as a compound adjective in UK English.
+11,,,,,FALSE_POSITIVE,100,'Polybat' is a correct proper noun referring to a specific adapted sport listed in the document.

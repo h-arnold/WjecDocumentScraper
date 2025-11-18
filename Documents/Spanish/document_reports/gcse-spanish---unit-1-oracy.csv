@@ -1,0 +1,16 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,STYLISTIC_PREFERENCE,85,A comma before 'but' is stylistically preferred when joining two independent clauses in formal writing.
+1,,,,,STYLISTIC_PREFERENCE,80,'Outside' is more concise and generally preferred over 'outside of' in formal writing.
+2,,,,,FALSE_POSITIVE,100,The Spanish phrase 'muy grande este supermercado' is grammatically correct and idiomatic.
+3,,,,,FALSE_POSITIVE,100,The Spanish phrase 'muy grande este supermercado' is grammatically correct and idiomatic.
+4,,,,,FALSE_POSITIVE,100,"The Spanish phrase 'a Gales' is grammatically correct, meaning 'to Wales'."
+5,,,,,FALSE_POSITIVE,95,No comma is needed before 'but' as it connects two dependent clauses modifying 'language used'.
+6,,,,,FALSE_POSITIVE,100,The phrase 'mi amigos' is intentionally presented as an example of an 'incorrect determiner' within the glossary of terms.
+7,,,,,FALSE_POSITIVE,100,The phrase 'voy a el restaurante' is intentionally presented as an example of an error related to contractions in Spanish.
+8,,,,,FALSE_POSITIVE,100,The Spanish phrase 'Quiero ir a un restaurante' is grammatically correct.
+9,,,,,FALSE_POSITIVE,100,"The Spanish phrase 'a Gales' is grammatically correct, meaning 'to Wales'."
+10,,,,,FALSE_POSITIVE,100,"The word 'las' is correct Spanish, referring to 'two o'clock' in the context of time."
+11,,,,,FALSE_POSITIVE,100,"The word 'a' is correct Spanish, forming part of the 'ir a + infinitive' future tense construction."
+12,,,,,FALSE_POSITIVE,95,"No comma is required before 'but' as it connects an adjectival phrase to an independent clause, not two independent clauses."
+13,,,,,PARSING_ERROR,95,"A space is missing between 'Unit 1' and the opening parenthesis, indicating a parsing error."
+14,,,,,PARSING_ERROR,90,"The word 'preprepared' should be hyphenated as 'pre-prepared' in formal UK English, indicating a missing hyphen likely due to parsing."

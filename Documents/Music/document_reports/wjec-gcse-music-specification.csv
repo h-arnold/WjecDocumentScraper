@@ -1,0 +1,14 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
+1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split across two table cells due to a parsing error.
+2,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across table cells due to a parsing error.
+3,,,,,PARSING_ERROR,100,"The word 'EXPERIENCES' has been incorrectly parsed, with 'EX' in a separate cell and 'PERI' missing, resulting in 'ENCES'."
+4,,,,,PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across table cells, and the initial 'O' is a Cyrillic character."
+5,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two table cells due to a parsing error.
+6,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two table cells due to a parsing error.
+7,,,,,PARSING_ERROR,100,"The word 'Appendix' has been incorrectly split across table cells, resulting in 'App pendi x'."
+8,,,,,FALSE_POSITIVE,100,The conjunction 'and' is correctly used to connect two independent clauses in a compound sentence.
+9,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'are' should be 'is' to agree with the singular subject 'choice'.
+10,,,,,SPELLING_ERROR,100,The word 'Roman' should be capitalised as it is a proper adjective referring to the Roman Empire.
+11,,,,,FALSE_POSITIVE,95,"The term 'Minuet' is correctly capitalised as it appears at the beginning of a list item, consistent with the formatting of other terms in the list."
+12,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,The abbreviation 'e.g.' (exempli gratia) should include periods in formal writing.

@@ -1,4 +1,94 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,"The word 'nage' appears to be a fragment or misrecognition from the OCR process, not a valid Catholic practice."
+1,,,,,PARSING_ERROR,90,The stray apostrophe at the end of the sentence is likely a parsing error or a misinterpretation of a quotation mark.
+2,,,,,SPELLING_ERROR,100,'Analys' is a misspelling of 'Analyse' (UK English) or 'Analyze' (US English).
+3,,,,,SPELLING_ERROR,100,'Justifie' is a misspelling of 'justify'.
+4,,,,,FALSE_POSITIVE,100,'Vipassana' is the correct and widely accepted term for a type of Buddhist meditation.
+5,,,,,SPELLING_ERROR,95,'Vipassaria' is a misspelling of the correct term 'vipassana'.
+6,,,,,FALSE_POSITIVE,100,'Moksha' is the correct and widely accepted term in Hinduism for liberation from the cycle of rebirth.
+7,,,,,FALSE_POSITIVE,100,'Shaiva' is the correct term for a major tradition within Hinduism that worships Shiva.
+8,,,,,FALSE_POSITIVE,100,'Nirguna' is the correct term in Hindu philosophy referring to the formless aspect of Brahman.
+9,,,,,FALSE_POSITIVE,100,'Saguna' is the correct term in Hindu philosophy referring to the manifest aspect of Brahman.
+10,,,,,PARSING_ERROR,95,The quotation marks are inconsistently rendered (''lives') and should be corrected to proper smart quotes or consistent straight quotes.
+11,,,,,FALSE_POSITIVE,100,"Parousia is a correct theological term and proper noun, correctly capitalized in this context."
+12,,,,,STYLISTIC_PREFERENCE,75,"While 'well structured' is acceptable when following the noun, hyphenating 'well-structured' as a compound adjective improves clarity and consistency in formal documents."
+13,,,,,PARSING_ERROR,95,"The compound adjective 'non-religious' should be hyphenated for correctness and consistency, as seen elsewhere in the document."
+14,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the conjunction 'but' when it connects two independent clauses.
+15,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' should be hyphenated for correctness and consistency.
+16,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' should be hyphenated for correctness and consistency.
+17,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the conjunction 'and' when it connects two independent clauses.
+18,,,,,STYLISTIC_PREFERENCE,80,The compound noun 'counter-arguments' or 'counterarguments' is preferred over 'counter arguments' for formal writing.
+19,,,,,STYLISTIC_PREFERENCE,80,The compound noun 'counter-arguments' or 'counterarguments' is preferred over 'counter arguments' for formal writing.
+20,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated for clarity in formal writing.
+21,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated for clarity in formal writing.
+22,,,,,FALSE_POSITIVE,100,'Parousia' is a correctly spelled theological term referring to the Second Coming of Jesus.
+23,,,,,PARSING_ERROR,90,The compound adjective 'well-structured' should be hyphenated for consistency and clarity in formal writing.
+24,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' should be hyphenated in UK English.
+25,,,,,FALSE_POSITIVE,100,'Dei' is correctly spelled as part of the Latin theological term 'Imago Dei'.
+26,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'but' would improve clarity as it separates two independent clauses.
+27,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' should be hyphenated in UK English.
+28,,,,,PARSING_ERROR,95,The compound adjective 'non-religious' should be hyphenated in UK English.
+29,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated for clarity in formal writing.
+30,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated in UK English.
+31,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated in UK English.
+32,,,,,PARSING_ERROR,95,The compound noun 'counter-arguments' should be hyphenated in UK English.
+33,,,,,FALSE_POSITIVE,100,'Vipassana' is a correct and widely recognised term for a type of Buddhist meditation.
+34,,,,,FALSE_POSITIVE,100,'Vipassana' is a correct and widely recognised term for a type of Buddhist meditation.
+35,,,,,FALSE_POSITIVE,100,'Vipassana' is a correct and widely recognised term for a type of Buddhist meditation.
+36,,,,,FALSE_POSITIVE,100,'Vipassana' is a correct and widely recognised term for a type of Buddhist meditation.
+37,,,,,FALSE_POSITIVE,100,"'Anicca' is a correct Pali term used in Buddhist philosophy, meaning impermanence."
+38,,,,,FALSE_POSITIVE,100,"'Vipassana' is a correct and widely recognised term for a type of Buddhist meditation, correctly capitalised here."
+39,,,,,FALSE_POSITIVE,100,'Samatha' is a correct and widely recognised term for a type of Buddhist meditation.
+40,,,,,FALSE_POSITIVE,95,"The spelling 'aging' is acceptable in UK English, alongside 'ageing'."
+41,,,,,FALSE_POSITIVE,100,"Anicca is a correct and specific Pali term used in Buddhism, referring to impermanence."
+42,,,,,FALSE_POSITIVE,95,"The spelling 'aging' is acceptable in UK English, alongside 'ageing'."
+43,,,,,FALSE_POSITIVE,100,"Dukkha is a correct and specific Pali term used in Buddhism, referring to suffering."
+44,,,,,FALSE_POSITIVE,100,"Anicca is a correct and specific Pali term used in Buddhism, referring to impermanence."
+45,,,,,FALSE_POSITIVE,100,The phrase 'embark on the Middle Way' correctly uses 'the Middle Way' as a specific Buddhist concept.
+46,,,,,FALSE_POSITIVE,100,Namu is a correct and specific term within the Buddhist mantra 'Namu Amida Butsu'.
+47,,,,,FALSE_POSITIVE,100,Amida is a correct and specific term within the Buddhist mantra 'Namu Amida Butsu' and refers to Amida Buddha.
+48,,,,,FALSE_POSITIVE,100,Nembutsu is a correct and specific Buddhist term for the practice of chanting 'Namu Amida Butsu'.
+49,,,,,FALSE_POSITIVE,100,Amida Buddha is a correct proper noun referring to a specific figure in Buddhism.
+50,,,,,FALSE_POSITIVE,100,Malas is the correct and commonly used term for Buddhist prayer beads.
+51,,,,,FALSE_POSITIVE,100,Mani is a correct part of the well-known Buddhist mantra 'Om mani padme hum'.
+52,,,,,FALSE_POSITIVE,100,Padme is a correct part of the well-known Buddhist mantra 'Om mani padme hum'.
+53,,,,,FALSE_POSITIVE,100,Namu is a correct part of the well-known Japanese Buddhist chant 'Namu Amida Butsu'.
+54,,,,,FALSE_POSITIVE,100,Amida is a correct part of the well-known Japanese Buddhist chant 'Namu Amida Butsu'.
+55,,,,,FALSE_POSITIVE,100,Amida is a correct part of the well-known Japanese Buddhist chant 'Namu Amida Butsu'.
+56,,,,,FALSE_POSITIVE,100,Moksha is the correct and commonly used term for liberation in Hinduism.
+57,,,,,FALSE_POSITIVE,100,Shaiva is the correct and commonly used term for a devotee of Shiva in Hinduism.
+58,,,,,FALSE_POSITIVE,100,Shaiva is the correct and commonly used term for a devotee of Shiva in Hinduism.
+59,,,,,FALSE_POSITIVE,100,Moksha is the correct and commonly used term for liberation in Hinduism.
+60,,,,,FALSE_POSITIVE,100,"Nirguna is a correct theological term in Hinduism, referring to the attributeless Brahman, and is used appropriately here."
+61,,,,,FALSE_POSITIVE,100,"Saguna is a correct theological term in Hinduism, referring to Brahman with attributes, and is used appropriately here."
+62,,,,,FALSE_POSITIVE,100,"Nirguna is a correct theological term in Hinduism, referring to the attributeless Brahman, and is used appropriately here."
+63,,,,,FALSE_POSITIVE,100,"Nirguna is a correct theological term in Hinduism, referring to the attributeless Brahman, and is used appropriately here."
+64,,,,,FALSE_POSITIVE,95,"Om is a correct and acceptable spelling for the sacred Hindu symbol, often used interchangeably with Aum."
+65,,,,,FALSE_POSITIVE,100,"Nirguna is a correct theological term in Hinduism, referring to the attributeless Brahman, and is used appropriately here."
+66,,,,,FALSE_POSITIVE,100,"Saguna is a correct theological term in Hinduism, referring to Brahman with attributes, and is used appropriately here."
+67,,,,,FALSE_POSITIVE,100,"Saguna is a correct theological term in Hinduism, referring to Brahman with attributes, and is used appropriately here."
+68,,,,,FALSE_POSITIVE,100,"Saguna is a correct theological term in Hinduism, referring to Brahman with attributes, and is used appropriately here."
+69,,,,,FALSE_POSITIVE,100,"Nirguna is a correct theological term in Hinduism, referring to the attributeless Brahman, and is used appropriately here."
+70,,,,,FALSE_POSITIVE,100,"'Saguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman with attributes."
+71,,,,,FALSE_POSITIVE,100,"'Nirguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman without attributes."
+72,,,,,FALSE_POSITIVE,100,"'Saguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman with attributes."
+73,,,,,FALSE_POSITIVE,100,"'Nirguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman without attributes."
+74,,,,,FALSE_POSITIVE,100,"'Saguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman with attributes."
+75,,,,,FALSE_POSITIVE,100,"'Nirguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman without attributes."
+76,,,,,FALSE_POSITIVE,100,"'Saguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman with attributes."
+77,,,,,FALSE_POSITIVE,100,"'Nirguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman without attributes."
+78,,,,,FALSE_POSITIVE,100,"'Saguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman with attributes."
+79,,,,,FALSE_POSITIVE,100,"'Nirguna' is a correct and specific religious term in the context of Hinduism, referring to Brahman without attributes."
+80,,,,,FALSE_POSITIVE,100,"Saguna is a correct and standard term in Hindu theology, referring to the manifest form of Brahman."
+81,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'this this' is a grammatical error and should be corrected to 'this'.
+82,,,,,FALSE_POSITIVE,100,Shaiva is a correct and standard term in Hinduism for devotees of Shiva.
+83,,,,,FALSE_POSITIVE,100,Moksha is a correct and standard term in Hinduism for liberation.
+84,,,,,FALSE_POSITIVE,100,Moksha is a correct and standard term in Hinduism for liberation.
+85,,,,,PARSING_ERROR,95,"An extra opening parenthesis is present, likely a parsing error, and should be corrected to 'ghats (steps)'."
+86,,,,,STYLISTIC_PREFERENCE,70,"Adding a comma before 'so' would improve the flow and clarity of the sentence, separating two independent clauses."
+87,,,,,PARSING_ERROR,95,Non-Islamic should be hyphenated as it functions as a compound adjective.
+88,,,,,FALSE_POSITIVE,90,The phrase 'a Muslim strives' is grammatically correct and appropriate in the given context.
+89,,,,,FALSE_POSITIVE,100,"Matzpun is a correct Hebrew term for conscience, appropriately used in the context."
 90,71,',...ul relationships with other people e.g. **'**You shall not murder. [Exodus 20 verse 1...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,Double quotation marks are generally preferred for direct speech in formal UK English.
 91,71,Nevi,...of communal worship and tradition - The **Nevi**'im provides teachings on laws that impa...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Nevi'im' is a correct Hebrew term and proper noun, not a spelling error."
 92,71,im,...mmunal worship and tradition - The Nevi'**im** provides teachings on laws that impact ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Nevi'im' is a correct Hebrew term and proper noun, not a spelling error."

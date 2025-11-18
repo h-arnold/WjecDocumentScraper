@@ -1,0 +1,18 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
+1,,,,,PARSING_ERROR,100,"""Technology-based"" should be hyphenated as a compound adjective."
+2,,,,,STYLISTIC_PREFERENCE,70,"""As to whether"" is grammatically correct but can be made more concise by using ""whether"" alone."
+3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity when joining two independent clauses.
+4,,,,,SPELLING_ERROR,95,"The preferred and more common spelling for the noun is ""beatbox"" (one word, no hyphen)."
+5,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'or' would improve clarity when joining two independent clauses.
+6,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'but' is standard practice when joining two independent clauses.
+7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"""Themself"" is a non-standard reflexive pronoun; the correct form for a singular 'learner' using 'they/them' is 'themselves'."
+8,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The comma is incorrectly placed inside the closing parenthesis; it should be outside if required by the sentence structure, or removed if not."
+9,,,,,PARSING_ERROR,100,"""12th"" should be written without a space between the number and the ordinal suffix."
+10,,,,,FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
+11,,,,,FALSE_POSITIVE,95,'eq' is a standard abbreviation for 'equalization' in music technology and DJing contexts.
+12,,,,,FALSE_POSITIVE,90,The parenthesis is correctly used as part of the notation to clarify the meaning of 'T' in the context of beat-boxing sounds.
+13,,,,,FALSE_POSITIVE,95,"'Zipper' is a specific, recognised technical term for a beat-boxing sound."
+14,,,,,PARSING_ERROR,100,"The sentence ""A score or equivalent has been understand"" is grammatically incorrect due to a likely parsing error where text from an adjacent column was merged, creating a nonsensical phrase."
+15,,,,,FALSE_POSITIVE,90,"The word 'and' is used correctly as a conjunction in the sentence, connecting two parts of a compound statement."
+16,,,,,STYLISTIC_PREFERENCE,70,"While ""outside of"" is grammatically acceptable, ""outside"" is often preferred in formal writing for conciseness."

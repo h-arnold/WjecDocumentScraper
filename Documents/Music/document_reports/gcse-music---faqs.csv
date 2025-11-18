@@ -1,0 +1,7 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,,,,,PARSING_ERROR,95,"Compound adjectives preceding a noun, such as '2-year', should be hyphenated in UK English."
+1,,,,,STYLISTIC_PREFERENCE,70,"While 'all of the' is grammatically correct, 'all the' is often preferred for conciseness in formal writing."
+2,,,,,STYLISTIC_PREFERENCE,70,"While 'all of the' is grammatically correct, 'all the' is often preferred for conciseness in formal writing."
+3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,The phrase 'a minimum grade learners' is grammatically awkward and would be clearer with a relative pronoun or rephrasing.
+4,,,,,SPELLING_ERROR,100,"The ordinal abbreviation for 'first' is '1st', not '1 st'."
+5,,,,,SPELLING_ERROR,100,"'Drumkit' is correctly spelled as a single word according to standard UK English dictionaries (e.g., OED, Collins)."
