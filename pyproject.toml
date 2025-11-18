@@ -25,4 +25,14 @@ marker-pdf = { git = "https://github.com/datalab-to/marker.git" }
 [dependency-groups]
 dev = [
     "pytest>=8.4.2",
+    # Ruff is the fast linter + autofixer; we install it as a dev tool
+    "ruff>=0.13.0",
 ]
+
+[tool.ruff]
+# Keep formatting similar to Black defaults used across the project
+line-length = 88
+target-version = ["py312"]
+# Exclude large output or virtualenv dirs from scanning
+exclude = [".venv", "build", "dist", "Documents", "data", "badges"]
+extend-select = ["E", "F", "I"]

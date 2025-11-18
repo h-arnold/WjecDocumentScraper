@@ -126,6 +126,8 @@ uv run pytest -q
 - After any scraping or filename change:
   - Run a dry-run for a couple of subjects.
   - If tests exist, run `uv run pytest` and fix failures.
+- Use ruff to lint and automatically fix simple issues; install with `uv add --dev ruff` and run `uv run ruff .` or `uv run ruff format .` to apply formatting fixes.
+    - We include a pre-commit hook for `ruff` in `.pre-commit-config.yaml` that runs `ruff --fix` on commit.
 - After modifying post-processing logic:
     - Run `uv run python main.py --post-process-only` against a populated output folder.
     - Inspect a sample of generated Markdown files to confirm the converter output still matches expectations.
