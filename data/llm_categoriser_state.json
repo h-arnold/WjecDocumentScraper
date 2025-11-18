@@ -804,15 +804,6 @@
         "total_issues": 17
       }
     },
-    "Digital-Technology": {
-      "wjec-gcse-digital-technology-specification.md": {
-        "completed_batches": [
-          0,
-          1
-        ],
-        "total_issues": 14
-      }
-    },
     "Geography": {
       "cylchlythyr-ionawr-2025.md": {
         "completed_batches": [
@@ -1837,6 +1828,15 @@
           3
         ],
         "total_issues": 10
+      }
+    },
+    "Digital-Technology": {
+      "wjec-gcse-digital-technology-specification.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
       }
     }
   }
