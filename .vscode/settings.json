@@ -1,4 +1,18 @@
 {
+  // Use the uv-managed virtualenv as the default interpreter for the workspace
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+
+  // Help Pylance resolve the local 'src' package during static analysis
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/src"
+  ],
+
+  // Enable type checking and set the default behaviour (optional)
+  "python.analysis.typeCheckingMode": "basic",
+
+  // Some projects find it helpful to index installed packages for better import
+  "python.analysis.packageIndexDepth": 3
+}{
     "python.testing.pytestArgs": [
 
     ],
