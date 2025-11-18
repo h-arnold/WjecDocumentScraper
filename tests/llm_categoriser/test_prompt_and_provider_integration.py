@@ -25,7 +25,7 @@ from src.llm.provider_registry import create_provider_chain, _PROVIDER_FACTORIES
 from src.llm.service import LLMService
 from src.language_check.language_issue import LanguageIssue
 from src.llm_review.llm_categoriser.prompt_factory import build_prompts
-from src.llm_review.llm_categoriser.batcher import Batch
+from src.llm_review.core.batcher import Batch
 
 
 class DummyProvider:

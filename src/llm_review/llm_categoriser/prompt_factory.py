@@ -12,7 +12,7 @@ from src.prompt.render_prompt import render_template, render_prompts
 from src.language_check.report_utils import build_issue_pages
 
 if TYPE_CHECKING:
-    from .batcher import Batch
+    from ..core.batcher import Batch
 import re
 
 

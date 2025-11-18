@@ -14,7 +14,7 @@ from src.llm.provider_registry import create_provider_chain
 from src.llm.service import LLMService
 
 from .batch_orchestrator import BatchOrchestrator, BatchJobTracker
-from .state import CategoriserState
+from ..core.state_manager import CategoriserState
 
 
 def add_batch_subparsers(subparsers: argparse._SubParsersAction) -> None:

@@ -15,7 +15,7 @@ try:
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.llm_review.llm_categoriser.state import CategoriserState
+    from src.llm_review.core.state_manager import CategoriserState
     from src.llm.provider import LLMProvider
     from src.llm.service import LLMService
 except ImportError:
@@ -27,7 +27,7 @@ except ImportError:
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.llm_review.llm_categoriser.state import CategoriserState
+    from src.llm_review.core.state_manager import CategoriserState
     from src.llm.provider import LLMProvider
     from src.llm.service import LLMService
 

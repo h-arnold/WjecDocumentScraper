@@ -1,7 +1,10 @@
-"""Batch language issues and collect page context for LLM prompts.
+"""Generic batcher for LLM review passes.
 
-This module chunks issues per document into manageable batches, deduplicates
-page numbers, and fetches relevant page snippets from Markdown sources.
+This module provides reusable functionality to chunk issues per document into 
+manageable batches, deduplicate page numbers, and fetch relevant page snippets 
+from Markdown sources.
+
+This is a generic component that can be used by any review pass.
 """
 
 from __future__ import annotations

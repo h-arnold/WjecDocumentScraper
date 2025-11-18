@@ -30,10 +30,10 @@ def test_emit_prompts_writes_system_and_user(monkeypatch, tmp_path):
             issue_id=0,
         )]}
 
-    monkeypatch.setattr("src.llm_review.llm_categoriser.data_loader.load_issues", fake_load)
+    monkeypatch.setattr("src.llm_review.core.document_loader.load_issues", fake_load)
 
     # Monkeypatch iter_batches to yield a single Batch object
-    from src.llm_review.llm_categoriser.batcher import Batch
+    from src.llm_review.core.batcher import Batch
 
     def fake_iter_batches(issues, batch_size, markdown_path, *, subject, filename):
         yield Batch(
@@ -45,7 +45,7 @@ def test_emit_prompts_writes_system_and_user(monkeypatch, tmp_path):
             markdown_table="|issue_id|page|rule|message|\n|0|1|R1|msg|\n",
         )
 
-    monkeypatch.setattr("src.llm_review.llm_categoriser.batcher.iter_batches", fake_iter_batches)
+    monkeypatch.setattr("src.llm_review.core.batcher.iter_batches", fake_iter_batches)
 
     # Ensure build_prompts returns a predictable pair
     def fake_build_prompts(batch):

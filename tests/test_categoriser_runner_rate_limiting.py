@@ -17,8 +17,8 @@ if str(PROJECT_ROOT) not in sys.path:
 from src.llm.gemini_llm import GeminiLLM
 from src.llm.service import LLMService
 from src.llm_review.llm_categoriser.runner import CategoriserRunner
-from src.llm_review.llm_categoriser.state import CategoriserState
-from src.llm_review.llm_categoriser.batcher import Batch
+from src.llm_review.core.state_manager import CategoriserState
+from src.llm_review.core.batcher import Batch
 from src.models import DocumentKey, LanguageIssue
 
 

@@ -1,7 +1,10 @@
-"""Load and parse language check report CSV into grouped LanguageIssue objects.
+"""Generic document loader for LLM review passes.
 
-This module reads the LanguageTool CSV report, assigns issue IDs, validates that
-corresponding Markdown files exist, and groups issues by DocumentKey.
+This module provides reusable functionality to load and parse CSV reports into 
+grouped LanguageIssue objects. It reads CSV reports, assigns issue IDs, validates 
+that corresponding Markdown files exist, and groups issues by DocumentKey.
+
+This is a generic component that can be used by any review pass.
 """
 
 from __future__ import annotations

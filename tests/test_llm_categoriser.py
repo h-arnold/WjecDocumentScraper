@@ -16,16 +16,16 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from src.language_check.language_issue import LanguageIssue
 from src.models import PassCode
-from src.llm_review.llm_categoriser.data_loader import load_issues, _parse_csv
-from src.llm_review.llm_categoriser.batcher import iter_batches
-from src.llm_review.llm_categoriser.state import CategoriserState
+from src.llm_review.core.document_loader import load_issues, _parse_csv
+from src.llm_review.core.batcher import iter_batches
+from src.llm_review.core.state_manager import CategoriserState
 from src.llm.provider import LLMQuotaError
 from src.llm.service import LLMService
-from src.llm_review.llm_categoriser.batcher import Batch
+from src.llm_review.core.batcher import Batch
 from src.llm_review.llm_categoriser.persistence import save_batch_results, load_document_results
 from src.llm_review.llm_categoriser.runner import CategoriserRunner
 from src.models.document_key import DocumentKey
-from src.llm_review.llm_categoriser.state import CategoriserState
+from src.llm_review.core.state_manager import CategoriserState
 
 
 def test_parse_csv(tmp_path: Path) -> None:

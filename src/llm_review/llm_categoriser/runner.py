@@ -19,11 +19,11 @@ from src.models import LanguageIssue, DocumentKey, PassCode
 from src.llm.service import LLMService
 from src.llm.provider import LLMQuotaError
 
-from .batcher import Batch, iter_batches
-from .data_loader import load_issues
+from ..core.batcher import Batch, iter_batches
+from ..core.document_loader import load_issues
 from .persistence import save_batch_results, save_failed_issues
 from .prompt_factory import build_prompts
-from .state import CategoriserState
+from ..core.state_manager import CategoriserState
 
 
 class CategoriserRunner:
