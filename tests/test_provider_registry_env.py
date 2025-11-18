@@ -19,12 +19,12 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.llm.provider_registry import (
-    create_provider_chain,
-    _split_names,
-    _PROVIDER_FACTORIES,
-)
 from src.llm.provider import LLMProvider
+from src.llm.provider_registry import (
+    _PROVIDER_FACTORIES,
+    _split_names,
+    create_provider_chain,
+)
 
 
 class MockProvider(LLMProvider):

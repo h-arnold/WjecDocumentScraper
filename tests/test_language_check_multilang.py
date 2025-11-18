@@ -14,9 +14,9 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.language_check import (
+    build_language_tools_for_subject,
     check_single_document,
     get_languages_for_subject,
-    build_language_tools_for_subject,
 )
 
 
@@ -146,7 +146,7 @@ The course has 4 units assessed through examinations.
         assert len(report.issues) >= 0  # May or may not have issues
 
         # The test passes if we successfully checked the document without errors
-        print(f"\nChecked French document with mixed content")
+        print("\nChecked French document with mixed content")
         print(f"Found {len(report.issues)} issues")
         for issue in report.issues[:10]:
             print(f"  - {issue.rule_id}: {issue.message[:60]}")
@@ -268,7 +268,7 @@ def test_build_language_tools_for_other_subject() -> None:
 
 def test_backward_compatibility_with_single_tool(tmp_path: Path) -> None:
     """Test that providing a single tool still works (backward compatibility)."""
-    from tests.test_language_check import DummyTool, DummyMatch
+    from tests.test_language_check import DummyMatch, DummyTool
 
     # Create a test document
     subject_dir = tmp_path / "French" / "markdown"

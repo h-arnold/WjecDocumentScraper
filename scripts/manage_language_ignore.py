@@ -11,8 +11,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import unicodedata
 import sys
+import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
@@ -23,15 +23,14 @@ if str(ROOT_DIR) not in sys.path:
 
 from pydantic import (
     BaseModel,
+    ConfigDict,
     Field,
     ValidationError,
-    ConfigDict,
     field_validator,
     model_validator,
 )
 
 from src.scraper import QUALIFICATION_URLS
-
 
 DEFAULT_CONFIG_PATH = Path("src/language_check/language_check_config.py")
 SET_VARIABLE = "DEFAULT_IGNORED_WORDS"

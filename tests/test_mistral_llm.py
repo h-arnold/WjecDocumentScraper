@@ -204,7 +204,7 @@ def test_mistral_api_key_is_passed_to_sdk_from_env(
     monkeypatch.setattr("src.llm.mistral_llm.Mistral", FakeClient)
 
     # Act: instantiate MistralLLM (without providing a client)
-    llm = MistralLLM(system_prompt="test")
+    MistralLLM(system_prompt="test")
     MistralLLM(system_prompt="test")
     # Assert: the FakeClient received the API key from the environment
     assert captured.get("api_key") == "env-test-key-123"

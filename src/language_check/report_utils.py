@@ -7,7 +7,7 @@ reuse and test independently from the document scanning routines.
 
 from __future__ import annotations
 
-from typing import Iterable, TYPE_CHECKING
+from typing import TYPE_CHECKING, Iterable
 
 if TYPE_CHECKING:  # pragma: no cover - typing only
     from .language_check import DocumentReport

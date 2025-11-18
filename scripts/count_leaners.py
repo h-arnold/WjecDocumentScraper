@@ -56,7 +56,7 @@ def generate_svg_badge(label, count, output_path):
     total_width = label_width + count_width
 
     # SVG template
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="20">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="20">
   <defs>
     <linearGradient id="gradient" x2="0" y2="100%">
       <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -74,7 +74,7 @@ def generate_svg_badge(label, count, output_path):
     <text x="{label_width + count_width / 2}" y="14" fill="#010101" fill-opacity=".3">{count_str}</text>
     <text x="{label_width + count_width / 2}" y="13">{count_str}</text>
   </g>
-</svg>'''
+</svg>"""
 
     # Create parent directory if needed
     output_dir = Path(output_path).parent

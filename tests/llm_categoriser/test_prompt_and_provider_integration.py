@@ -7,25 +7,23 @@ via `LLMService.generate()`.
 
 from __future__ import annotations
 
-from pathlib import Path
+import pathlib
+import sys
 from typing import Any, Sequence
 
 import pytest
 
-import sys
-from pathlib import Path
-
 # Ensure project root is on sys.path for test imports
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = pathlib.Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.prompt.render_prompt import render_prompts
-from src.llm.provider_registry import create_provider_chain, _PROVIDER_FACTORIES
-from src.llm.service import LLMService
 from src.language_check.language_issue import LanguageIssue
-from src.llm_review.llm_categoriser.prompt_factory import build_prompts
+from src.llm.provider_registry import _PROVIDER_FACTORIES, create_provider_chain
+from src.llm.service import LLMService
 from src.llm_review.core.batcher import Batch
+from src.llm_review.llm_categoriser.prompt_factory import build_prompts
+from src.prompt.render_prompt import render_prompts
 
 
 class DummyProvider:
@@ -61,7 +59,10 @@ class DummyProvider:
 
 
 def dummy_factory(
-    *, system_prompt: str | Path, filter_json: bool, dotenv_path: str | Path | None
+    *,
+    system_prompt: str | pathlib.Path,
+    filter_json: bool,
+    dotenv_path: str | pathlib.Path | None,
 ):
     return DummyProvider(
         system_prompt=system_prompt, filter_json=filter_json, dotenv_path=dotenv_path

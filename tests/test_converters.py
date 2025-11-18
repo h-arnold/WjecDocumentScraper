@@ -14,9 +14,9 @@ from types import SimpleNamespace
 
 from src.converters.converters import (
     ConversionResult,
-    PdfToMarkdownConverter,
-    MarkItDownConverter,
     MarkerConverter,
+    MarkItDownConverter,
+    PdfToMarkdownConverter,
     _normalise_marker_markdown,
     create_converter,
 )

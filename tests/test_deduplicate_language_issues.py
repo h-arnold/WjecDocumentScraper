@@ -3,14 +3,12 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-from src import __name__ as package_name  # ensure repo root is on sys.path in tests
-
 from scripts.deduplicate_language_issues import (
     DEFAULT_HEADERS,
     deduplicate_rows,
     read_csv_rows,
-    write_csv,
     run_cli,
+    write_csv,
 )
 
 

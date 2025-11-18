@@ -110,7 +110,6 @@ class LLMService:
             NotImplementedError: If no provider supports batch job creation.
             LLMProviderError: If batch job creation fails.
         """
-        last_error: Exception | None = None
         for provider in self._providers:
             # Check if provider has create_batch_job method
             if not hasattr(provider, "create_batch_job"):

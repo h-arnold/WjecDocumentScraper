@@ -1,12 +1,9 @@
-from pathlib import Path
 import csv
-
+import os
 import sys
-from pathlib import Path
 
 # Ensure project root is on sys.path like the other tests do.
-sys.path.insert(0, str(Path.cwd()))
-from src import __name__ as package_name  # ensure repo root is on sys.path in tests
+sys.path.insert(0, os.getcwd())
 from scripts.merge_document_reports import merge_document_reports
 from src.llm_review.llm_categoriser.persistence import CSV_HEADERS
 

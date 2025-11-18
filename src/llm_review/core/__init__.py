@@ -4,8 +4,8 @@ This module provides reusable infrastructure for implementing multiple
 review passes (categorisation, fact-checking, style validation, etc.).
 """
 
-from .document_loader import load_issues
 from .batcher import Batch, iter_batches
+from .document_loader import load_issues
 from .state_manager import StateManager as StateManager
 
 __all__ = [

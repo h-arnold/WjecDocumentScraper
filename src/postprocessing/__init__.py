@@ -6,8 +6,8 @@ import argparse
 import logging
 import shutil
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from pathlib import Path
 from dataclasses import dataclass, field
+from pathlib import Path
 
 from ..converters import PdfToMarkdownConverter, create_converter
 

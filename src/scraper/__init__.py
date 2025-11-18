@@ -14,7 +14,6 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
-
 KEY_DOCUMENTS_ENDPOINT = "/umbraco/surface/TabSurface/GetKeyDocumentsTab"
 
 QUALIFICATION_URLS = {

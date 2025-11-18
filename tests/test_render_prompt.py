@@ -3,9 +3,7 @@
 from __future__ import annotations
 
 import sys
-import json
 from pathlib import Path
-from tempfile import TemporaryDirectory
 
 # Add project root to path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -13,10 +11,10 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.prompt.render_prompt import (
-    render_template,
     _read_prompt,
     _strip_code_fences,
     render_prompts,
+    render_template,
 )
 
 

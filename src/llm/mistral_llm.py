@@ -10,9 +10,9 @@ from typing import Any, Sequence, cast
 
 from dotenv import load_dotenv
 from mistralai import Mistral, models
+
 # NOTE: We intentionally avoid marshalled SDK message classes and instead
 # use the `inputs`/`instructions` shape via `beta.conversations.start`.
-
 from .json_utils import parse_json_response
 from .provider import LLMProvider, LLMProviderError, LLMQuotaError
 

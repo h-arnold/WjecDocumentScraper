@@ -2,10 +2,9 @@
 
 from __future__ import annotations
 
-import logging
 import sys
 from pathlib import Path
-from unittest.mock import MagicMock, Mock, patch
+from unittest.mock import Mock, patch
 
 import pytest
 
@@ -15,10 +14,8 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.postprocessing import (
-    SinglePdfResult,
-    SubjectResult,
-    copy_root_pdfs,
     convert_pdf_to_markdown,
+    copy_root_pdfs,
     find_subject_directories,
     process_single_pdf,
     process_subject,

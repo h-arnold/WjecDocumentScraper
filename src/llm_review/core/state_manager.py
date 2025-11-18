@@ -60,7 +60,7 @@ class StateManager:
                     import sys
 
                     print(
-                        f"Warning: State file version mismatch, starting fresh",
+                        "Warning: State file version mismatch, starting fresh",
                         file=sys.stderr,
                     )
 

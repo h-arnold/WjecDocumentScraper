@@ -12,7 +12,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.llm.mistral_llm import MistralLLM
-from src.llm.provider import LLMProvider, LLMQuotaError, ProviderStatus
+from src.llm.provider import LLMQuotaError, ProviderStatus
 from src.llm.service import LLMService
 
 

@@ -2,12 +2,12 @@
 
 from __future__ import annotations
 
+import json
 import sys
 from pathlib import Path
-import json
+from unittest.mock import MagicMock
 
 import pytest
-from unittest.mock import MagicMock
 
 # Add project root to path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -15,18 +15,17 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.language_check.language_issue import LanguageIssue
-from src.models import PassCode
-from src.llm_review.core.document_loader import load_issues, _parse_csv
-from src.llm_review.core.batcher import iter_batches
-from src.llm_review.core.state_manager import StateManager
 from src.llm.provider import LLMQuotaError
 from src.llm.service import LLMService
-from src.llm_review.core.batcher import Batch
+from src.llm_review.core.batcher import Batch, iter_batches
+from src.llm_review.core.document_loader import _parse_csv, load_issues
+from src.llm_review.core.state_manager import StateManager
 from src.llm_review.llm_categoriser.persistence import (
-    save_batch_results,
     load_document_results,
+    save_batch_results,
 )
 from src.llm_review.llm_categoriser.runner import CategoriserRunner
+from src.models import PassCode
 from src.models.document_key import DocumentKey
 
 
@@ -390,7 +389,7 @@ def test_runner_accepts_single_issue_dict_response(tmp_path: Path) -> None:
         "reasoning": "Because",
     }
 
-    validated, failed, errors = runner._validate_response(response, [issue])
+    validated, failed, errors = runner.validate_response(response, [issue])
 
     # Now we only accept arrays, not a single dict
     assert validated == []
@@ -433,7 +432,7 @@ def test_runner_array_of_issue_dicts_validates_using_model(tmp_path: Path) -> No
         }
     ]
 
-    validated, failed, errors = runner._validate_response(response, [issue])
+    validated, failed, errors = runner.validate_response(response, [issue])
 
     # We should merge LLM labels with the original detection issue, so the
     # final object is fully populated and validation succeeds.
@@ -468,7 +467,8 @@ def test_runner_logs_raw_response_when_enabled(tmp_path: Path) -> None:
         )
     ]
 
-    runner._log_raw_response(
+    # Call the parent class's private method directly for testing
+    runner._maybe_log_response(
         key, batch_index=0, attempt=1, response={"foo": "bar"}, issues=issues
     )
 
@@ -476,7 +476,9 @@ def test_runner_logs_raw_response_when_enabled(tmp_path: Path) -> None:
     files = list(subject_dir.glob("*.json"))
     assert len(files) == 1
     data = json.loads(files[0].read_text())
-    assert data["issue_ids"] == [5]
+    # Parent class logs full issue objects, not just IDs
+    assert len(data["issues"]) == 1
+    assert data["issues"][0]["issue_id"] == 5
     assert data["response"] == {"foo": "bar"}
 
 
@@ -508,14 +510,16 @@ def test_runner_uses_env_toggle_for_logging(
         )
     ]
 
-    runner._log_raw_response(
+    runner._maybe_log_response(
         key, batch_index=2, attempt=0, response={"foo": "env"}, issues=issues
     )
 
     files = list((log_dir / "Env").glob("*.json"))
     assert len(files) == 1
     data = json.loads(files[0].read_text())
-    assert data["issue_ids"] == [7]
+    # Parent class logs full issue objects, not just IDs
+    assert len(data["issues"]) == 1
+    assert data["issues"][0]["issue_id"] == 7
     assert data["response"] == {"foo": "env"}
 
 

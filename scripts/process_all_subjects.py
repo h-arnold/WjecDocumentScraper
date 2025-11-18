@@ -487,7 +487,7 @@ def main(argv: list[str] | None = None) -> int:
         )
 
     # Show a sample of subjects to be processed
-    print(f"\nSubjects to process:")
+    print("\nSubjects to process:")
     for entry in subjects[:10]:
         print(f"  - {entry}")
     if len(subjects) > 10:

@@ -2,35 +2,33 @@
 
 from __future__ import annotations
 
-import os
 import sys
 from pathlib import Path
 from typing import Any, Sequence
 from unittest.mock import MagicMock
 
-
 # Fix imports to work with pytest
 try:
+    from src.llm.provider import LLMProvider
+    from src.llm.service import LLMService
+    from src.llm_review.core.state_manager import StateManager
     from src.llm_review.llm_categoriser.batch_orchestrator import (
         BatchJobMetadata,
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.llm_review.core.state_manager import StateManager
-    from src.llm.provider import LLMProvider
-    from src.llm.service import LLMService
 except ImportError:
     PROJECT_ROOT = Path(__file__).resolve().parents[1]
     if str(PROJECT_ROOT) not in sys.path:
         sys.path.insert(0, str(PROJECT_ROOT))
+    from src.llm.provider import LLMProvider
+    from src.llm.service import LLMService
+    from src.llm_review.core.state_manager import StateManager
     from src.llm_review.llm_categoriser.batch_orchestrator import (
         BatchJobMetadata,
         BatchJobTracker,
         BatchOrchestrator,
     )
-    from src.llm_review.core.state_manager import StateManager
-    from src.llm.provider import LLMProvider
-    from src.llm.service import LLMService
 
 
 class _DummyProvider(LLMProvider):
@@ -352,7 +350,7 @@ def test_batch_orchestrator_process_batch_response_handles_non_list(
 
 def test_batch_tracker_get_completed_jobs_within_hours(tmp_path: Path) -> None:
     """Test getting jobs completed within a time window."""
-    from datetime import datetime, timezone, timedelta
+    from datetime import datetime, timedelta, timezone
 
     tracking_file = tmp_path / "jobs.json"
     tracker = BatchJobTracker(tracking_file)

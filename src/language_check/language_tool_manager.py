@@ -6,8 +6,8 @@ updates (custom spellings) and shared configuration stay in one place.
 
 from __future__ import annotations
 
-from typing import Iterable, Sequence, Any
 import logging
+from typing import Any, Iterable, Sequence
 
 import language_tool_python
 

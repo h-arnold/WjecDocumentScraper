@@ -7,7 +7,8 @@ from pathlib import Path
 from typing import Iterable
 from urllib.parse import urlparse
 
-from ..postprocessing import process_single_pdf, run as run_postprocess
+from ..postprocessing import process_single_pdf
+from ..postprocessing import run as run_postprocess
 from ..scraper import (
     QUALIFICATION_URLS,
     download_subject_pdfs,

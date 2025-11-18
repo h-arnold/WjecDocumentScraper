@@ -13,8 +13,8 @@ from pathlib import Path
 from src.llm.provider_registry import create_provider_chain
 from src.llm.service import LLMService
 
-from .batch_orchestrator import BatchOrchestrator, BatchJobTracker
 from ..core.state_manager import StateManager
+from .batch_orchestrator import BatchJobTracker, BatchOrchestrator
 
 
 def add_batch_subparsers(subparsers: argparse._SubParsersAction) -> None:
@@ -542,7 +542,7 @@ def handle_batch_refresh_errors(args: argparse.Namespace) -> int:
 
                     # If job actually succeeded, update status
                     if "SUCCEEDED" in state_name:
-                        print(f"  Job actually succeeded! Updating status...")
+                        print("  Job actually succeeded! Updating status...")
                         tracker.update_job_status(
                             job_name, "pending"
                         )  # Reset to pending so batch-fetch can process it
@@ -566,7 +566,7 @@ def handle_batch_refresh_errors(args: argparse.Namespace) -> int:
                 skipped += 1
 
         print(f"\n{'=' * 60}")
-        print(f"Summary:")
+        print("Summary:")
         print(f"  Updated with errors: {updated}")
         print(f"  Actually succeeded (reset to pending): {actually_succeeded}")
         print(f"  Skipped: {skipped}")

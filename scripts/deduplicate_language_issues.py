@@ -21,7 +21,6 @@ import sys
 from pathlib import Path
 from typing import Iterable, Mapping, Sequence, Tuple
 
-
 DEFAULT_HEADERS = [
     "Subject",
     "Filename",
@@ -188,9 +187,11 @@ def run_cli(argv: list[str] | None = None) -> int:
         for row in deduped:
             # Build key for this row
             key = tuple(
-                (row.get(col, "") or "").lower()
-                if args.ignore_case
-                else (row.get(col, "") or "")
+                (
+                    (row.get(col, "") or "").lower()
+                    if args.ignore_case
+                    else (row.get(col, "") or "")
+                )
                 for col in key_columns
             )
             rc = dict(row)

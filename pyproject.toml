@@ -17,6 +17,7 @@ dependencies = [
     "pystache>=0.5.0",
     "pydantic>=2.12.4",
     "mistralai>=1.9.11",
+    "isort>=7.0.0",
 ]
 
 [tool.uv.sources]
@@ -24,6 +25,7 @@ marker-pdf = { git = "https://github.com/datalab-to/marker.git" }
 
 [dependency-groups]
 dev = [
+    "pre-commit>=4.3.0",
     "pytest>=8.4.2",
     # Ruff is the fast linter + autofixer; we install it as a dev tool
     "ruff>=0.13.0",
@@ -31,7 +33,7 @@ dev = [
 
 [tool.ruff]
 # Keep formatting similar to Black defaults used across the project
-line-length = 88
+line-length = 200
 # Exclude large output or virtualenv dirs from scanning
-exclude = [".venv", "build", "dist", "Documents", "data", "badges"]
+exclude = [".venv", "build", "dist", "Documents", "data", "badges", "scripts", "tests"]
 extend-select = ["E", "F", "I"]

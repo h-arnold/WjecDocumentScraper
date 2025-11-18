@@ -7,7 +7,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.language_check.language_check import _make_issue, _highlight_context
+from src.language_check.language_check import _make_issue
 from src.models.language_issue import LanguageIssue
 
 

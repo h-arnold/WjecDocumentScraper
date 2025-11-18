@@ -1,2 +1,2 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,0,teamworking,"...skills - Improve your collaboration and **teamworking** skills - Understand the social, profess...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"Teamworking is a correctly spelled and commonly accepted single word in UK English, as supported by authoritative dictionaries."
+0,0,teamworking,"...skills - Improve your collaboration and **teamworking** skills - Understand the social, profess...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The compound noun 'team-working' is typically hyphenated in formal UK English, and its appearance as a single word is a common parsing error from PDF conversion."

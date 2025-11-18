@@ -13,16 +13,16 @@ from pathlib import Path
 from src.llm.provider_registry import create_provider_chain
 from src.llm.service import LLMService
 
-from .runner import CategoriserRunner
 from ..core.state_manager import StateManager
 from .batch_cli import (
     add_batch_subparsers,
+    handle_batch_cancel,
     handle_batch_create,
     handle_batch_fetch,
     handle_batch_list,
     handle_batch_refresh_errors,
-    handle_batch_cancel,
 )
+from .runner import CategoriserRunner
 
 
 def parse_args(args: list[str] | None = None) -> argparse.Namespace:
@@ -367,8 +367,9 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
     provider batch consoles.
     """
     import json
-    from ..core.document_loader import load_issues
+
     from ..core.batcher import iter_batches
+    from ..core.document_loader import load_issues
     from .prompt_factory import build_prompts
 
     print("Emitting batch payloads (not calling LLM)...")
@@ -446,8 +447,8 @@ def emit_prompts(parsed_args: argparse.Namespace) -> int:
 
     For each batch this writes a system file (if present) and a user file.
     """
-    from ..core.document_loader import load_issues
     from ..core.batcher import iter_batches
+    from ..core.document_loader import load_issues
     from .prompt_factory import build_prompts
 
     print("Emitting prompts (plain text)...")

@@ -18,8 +18,8 @@ and supplying an alternative `output_dir` (useful for tests).
 from __future__ import annotations
 
 import csv
-from pathlib import Path
 import sys
+from pathlib import Path
 from typing import Iterable, List
 
 # Match the headers expected from per-document CSVs
@@ -35,7 +35,7 @@ DEFAULT_OUTPUT_FILE = "llm_categorised-language-check-report.csv"
 
 def iter_document_report_csvs(output_dir: Path = DEFAULT_OUTPUT_DIR) -> Iterable[Path]:
     """Yield all CSV files under <output_dir>/*/document_reports/*.csv."""
-    pattern = output_dir / "*" / "document_reports" / "*.csv"
+    output_dir / "*" / "document_reports" / "*.csv"
     for p in sorted(output_dir.glob("*/document_reports/*.csv")):
         yield Path(p)
 

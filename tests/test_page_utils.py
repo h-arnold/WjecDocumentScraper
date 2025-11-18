@@ -20,7 +20,6 @@ from src.utils.page_utils import (
     get_page_number_at_position,
 )
 
-
 # Simple test document with known structure
 SIMPLE_DOC = """{0}------------------------------------------------
 

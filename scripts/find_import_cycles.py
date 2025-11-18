@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Find import cycles among local 'src' modules."""
 
-from pathlib import Path
 import ast
+from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "src"

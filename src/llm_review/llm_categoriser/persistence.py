@@ -9,14 +9,17 @@ from __future__ import annotations
 
 import csv
 import json
+from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 from src.models.document_key import DocumentKey
 from src.models.language_issue import LanguageIssue
-from datetime import datetime, timezone
-from typing import Iterable
 
+from ..core.persistence import PersistenceManager
+from .config import CategoriserConfiguration
+
+# CSV headers for categoriser output
 CSV_HEADERS = [
     "issue_id",
     "page_number",
@@ -38,64 +41,35 @@ def save_batch_results(
 ) -> Path:
     """Save batch results to a CSV file.
 
-    Args:
-        key: DocumentKey identifying the document
-        batch_results: List of issue dictionaries (must include issue_id)
-        merge: If True and file exists, merge with existing rows (deduplicating by issue_id)
-        output_dir: Base directory for output (default: "Documents")
-
-    Returns:
-        Path to the saved file
-
-    Notes:
-        - Results are saved to: Documents/<subject>/document_reports/<filename>.csv
-        - Writes are atomic (temp file + replace)
-        - When merging, issues are deduplicated using `issue_id` as the primary key
-        - Force mode (--force CLI flag) clears both state and results to prevent duplicates
+    Delegates to core.persistence.PersistenceManager.
     """
-    # Construct output path
-    report_dir = output_dir / key.subject / "document_reports"
-    report_dir.mkdir(parents=True, exist_ok=True)
-
-    output_file = report_dir / key.filename.replace(".md", ".csv")
-
-    existing_rows: dict[int, dict[str, str]] = {}
-    if merge and output_file.exists():
-        existing_rows = _read_existing_rows(output_file)
-
-    # Build new rows keyed by issue_id
-    new_rows: dict[int, dict[str, str]] = {}
-    for issue in batch_results:
-        try:
-            iid, row = _normalise_issue_row(issue)
-        except ValueError as exc:
-            print(f"    Warning: Skipping issue without valid issue_id: {exc}")
-            continue
-        new_rows[iid] = row
-
-    if not new_rows and not existing_rows:
-        return output_file
-
-    merged_rows = existing_rows | new_rows
-
-    # Write atomically
-    temp_file = output_file.with_suffix(".tmp")
-    try:
-        with open(temp_file, "w", encoding="utf-8", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=CSV_HEADERS)
-            writer.writeheader()
-            for issue_id in sorted(merged_rows):
-                writer.writerow(merged_rows[issue_id])
-
-        temp_file.replace(output_file)
-
-    except OSError as e:
-        print(f"Error writing to {output_file}: {e}")
-        if temp_file.exists():
-            temp_file.unlink()
-        raise
-
-    return output_file
+    # Create a minimal config for persistence
+    config = CategoriserConfiguration(
+        input_csv_path=Path(""),  # Unused
+        output_base_dir=output_dir,
+        output_subdir="document_reports",
+        batch_size=0,  # Unused
+        max_retries=0,  # Unused
+        state_file=Path(""),  # Unused
+        subjects=None,  # Unused
+        documents=None,  # Unused
+        llm_provider=None,  # Unused
+        fail_on_quota=False,  # Unused
+        log_raw_responses=False,  # Unused
+        log_response_dir=Path(""),  # Unused
+        output_csv_columns=[
+            "issue_id",
+            "page_number",
+            "issue",
+            "highlighted_context",
+            "pass_code",
+            "error_category",
+            "confidence_score",
+            "reasoning",
+        ],
+    )
+    manager = PersistenceManager(config)
+    return manager.save_batch_results(key, batch_results, merge=merge)
 
 
 def load_document_results(
@@ -212,8 +186,9 @@ def _read_existing_rows(path: Path) -> dict[int, dict[str, str]]:
                 except ValueError:
                     continue
                 # Normalise the row to ensure all CSV_HEADERS are present.
-                # This is necessary to handle CSVs from different versions that may have missing or extra columns,
-                # ensuring consistent downstream processing regardless of the file's origin.
+                # This is necessary to handle CSVs from different versions
+                # that may have missing or extra columns, ensuring consistent
+                # downstream processing regardless of the file's origin.
                 normalised_row = {header: row.get(header, "") for header in CSV_HEADERS}
                 rows[iid] = normalised_row
     except OSError as e:

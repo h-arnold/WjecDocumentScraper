@@ -6,8 +6,8 @@ Keep the :mod:`src` namespace clean — tests and other modules should import
 
 from __future__ import annotations
 
-from .language_issue import LanguageIssue
-from .enums import ErrorCategory, PassCode
 from .document_key import DocumentKey
+from .enums import ErrorCategory, PassCode
+from .language_issue import LanguageIssue
 
 __all__ = ["LanguageIssue", "ErrorCategory", "DocumentKey", "PassCode"]

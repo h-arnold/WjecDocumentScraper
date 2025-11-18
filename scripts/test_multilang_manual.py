@@ -11,18 +11,15 @@ Usage:
     uv run python scripts/test_multilang_manual.py
 """
 
-from pathlib import Path
-import tempfile
 import sys
+import tempfile
+from pathlib import Path
 
 # Add project root to path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.language_check import (
-    check_single_document,
-    get_languages_for_subject,
-)
+from src.language_check import check_single_document, get_languages_for_subject
 
 
 def test_language_detection():
@@ -91,13 +88,13 @@ Students will develop language skills through various activities.
             print("Running multi-language check (English + French)...")
             report = check_single_document(test_doc, subject="French")
 
-            print(f"✓ Check completed successfully")
+            print("✓ Check completed successfully")
             print(f"  Subject: {report.subject}")
             print(f"  Document: {report.path.name}")
             print(f"  Total issues found: {len(report.issues)}")
 
             if report.issues:
-                print(f"\n  First 5 issues:")
+                print("\n  First 5 issues:")
                 for i, issue in enumerate(report.issues[:5], 1):
                     print(f"    {i}. [{issue.rule_id}] {issue.message[:60]}...")
                     print(
@@ -141,12 +138,12 @@ def test_german_vs_english():
         try:
             print("Checking German document...")
             german_report = check_single_document(german_doc, subject="German")
-            print(f"✓ German document checked (English + German)")
+            print("✓ German document checked (English + German)")
             print(f"  Issues: {len(german_report.issues)}")
 
             print("\nChecking English document...")
             english_report = check_single_document(english_doc, subject="History")
-            print(f"✓ English document checked (English only)")
+            print("✓ English document checked (English only)")
             print(f"  Issues: {len(english_report.issues)}")
 
         except Exception as e:

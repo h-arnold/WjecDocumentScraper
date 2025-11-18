@@ -1,11 +1,11 @@
 from __future__ import annotations
 
-from pathlib import Path
 import json
+from pathlib import Path
 
+from src.llm_review.llm_categoriser.persistence import save_failed_issues
 from src.models.document_key import DocumentKey
 from src.models.language_issue import LanguageIssue
-from src.llm_review.llm_categoriser.persistence import save_failed_issues
 
 
 def make_issue() -> LanguageIssue:
@@ -64,9 +64,9 @@ def test_runner_saves_failed_issues(tmp_path: Path, monkeypatch) -> None:
             return True
 
     from src.llm.service import LLMService
-    from src.llm_review.llm_categoriser.runner import CategoriserRunner
-    from src.llm_review.core.state_manager import StateManager
     from src.llm_review.core.batcher import Batch
+    from src.llm_review.core.state_manager import StateManager
+    from src.llm_review.llm_categoriser.runner import CategoriserRunner
     from src.models.document_key import DocumentKey
 
     providers = [DummyProvider(system_prompt="s", filter_json=True, dotenv_path=None)]
@@ -153,9 +153,9 @@ def test_runner_writes_errors_to_data(tmp_path: Path, monkeypatch) -> None:
             return True
 
     from src.llm.service import LLMService
-    from src.llm_review.llm_categoriser.runner import CategoriserRunner
-    from src.llm_review.core.state_manager import StateManager
     from src.llm_review.core.batcher import Batch
+    from src.llm_review.core.state_manager import StateManager
+    from src.llm_review.llm_categoriser.runner import CategoriserRunner
     from src.models.document_key import DocumentKey
 
     providers = [DummyProvider(system_prompt="s", filter_json=True, dotenv_path=None)]

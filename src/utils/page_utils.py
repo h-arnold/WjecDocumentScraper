@@ -16,7 +16,6 @@ import re
 from dataclasses import dataclass
 from typing import Iterable
 
-
 # Page marker pattern: {N}------------------------------------------------
 PAGE_MARKER_PATTERN = re.compile(r"^\{(\d+)\}[-]+\s*$", re.MULTILINE)
 

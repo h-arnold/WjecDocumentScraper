@@ -1,15 +1,15 @@
 import os
 import sys
-from pathlib import Path
 from argparse import Namespace
+from pathlib import Path
 
 # Ensure project root is on sys.path for test imports
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.models.document_key import DocumentKey
 from src.language_check.language_issue import LanguageIssue
+from src.models.document_key import DocumentKey
 
 
 def test_emit_prompts_writes_system_and_user(monkeypatch, tmp_path):

@@ -120,7 +120,6 @@ class GeminiLLM:
         )
 
         # Implement retry logic with exponential backoff for rate limit errors
-        last_exception: Exception | None = None
         for attempt in range(self._max_retries + 1):
             # Enforce rate limiting before making the request
             self._enforce_rate_limit()
@@ -155,7 +154,6 @@ class GeminiLLM:
 
                 # Convert known quota/rate-limit exceptions to LLMQuotaError
                 if is_quota_exhausted or is_rate_limit:
-                    last_exception = exc
 
                     # ResourceExhausted is permanent, don't retry
                     if is_quota_exhausted:

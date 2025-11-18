@@ -6,14 +6,15 @@ context including the issue table and page excerpts.
 
 from __future__ import annotations
 
+import re
+from pathlib import Path
 from typing import TYPE_CHECKING
 
-from src.prompt.render_prompt import render_template, render_prompts
 from src.language_check.report_utils import build_issue_pages
+from src.prompt.render_prompt import PROMPTS_DIR, render_prompts, render_template
 
 if TYPE_CHECKING:
     from ..core.batcher import Batch
-import re
 
 
 def build_prompts(batch: Batch) -> list[str]:
@@ -81,3 +82,8 @@ def build_prompts(batch: Batch) -> list[str]:
                 user_prompt = rendered
 
         return [system_prompt, user_prompt] if system_prompt else [user_prompt]
+
+
+def get_system_prompt() -> Path:
+    """Get the path to the system prompt template."""
+    return PROMPTS_DIR / "system_language_tool_categoriser.md"

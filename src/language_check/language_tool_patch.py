@@ -11,13 +11,13 @@ which send data in the request body and have much higher size limits.
 
 from __future__ import annotations
 
-import json
 import http.client
-from typing import Any, Optional, Dict
+import json
+from typing import Any, Dict, Optional
 
 import requests
-from language_tool_python.utils import LanguageToolError, RateLimitError
 from language_tool_python.server import DEBUG_MODE
+from language_tool_python.utils import LanguageToolError, RateLimitError
 
 
 def _query_server_post(

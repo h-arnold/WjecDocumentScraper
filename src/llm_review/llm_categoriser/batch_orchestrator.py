@@ -8,18 +8,18 @@ from __future__ import annotations
 
 import json
 import time
+from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Any
-from dataclasses import dataclass, asdict
 
-from src.models import DocumentKey, PassCode
 from src.llm.service import LLMService
+from src.models import DocumentKey, PassCode
 
 from ..core.batcher import iter_batches
 from ..core.document_loader import load_issues
+from ..core.state_manager import StateManager
 from .persistence import save_batch_results
 from .prompt_factory import build_prompts
-from ..core.state_manager import StateManager
 
 
 @dataclass
@@ -132,7 +132,7 @@ class BatchJobTracker:
         Returns:
             List of completed jobs within the time window
         """
-        from datetime import datetime, timezone, timedelta
+        from datetime import datetime, timedelta, timezone
 
         cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
         completed_jobs = []
@@ -287,7 +287,7 @@ class BatchOrchestrator:
                     continue
 
         print(f"\n{'=' * 60}")
-        print(f"Summary:")
+        print("Summary:")
         print(f"  Total documents: {len(grouped_issues)}")
         print(f"  Total batches: {total_batches}")
         print(f"  Skipped (already completed): {skipped_batches}")
@@ -461,7 +461,7 @@ class BatchOrchestrator:
                 continue
 
         print(f"\n{'=' * 60}")
-        print(f"Summary:")
+        print("Summary:")
         print(f"  Checked: {checked}")
         print(f"  Completed: {completed}")
         print(f"  Failed: {failed}")
@@ -510,7 +510,7 @@ class BatchOrchestrator:
             return validated_results
 
         if not response:
-            print(f"  Warning: Response is empty")
+            print("  Warning: Response is empty")
             return validated_results
 
         # Build a map of original issues indexed by issue_id for merging LLM
@@ -537,7 +537,7 @@ class BatchOrchestrator:
         # Process each issue in the response
         for issue_dict in response:
             if not isinstance(issue_dict, dict):
-                print(f"  Warning: Skipping non-dict entry")
+                print("  Warning: Skipping non-dict entry")
                 continue
 
             # Extract issue_id to verify it's in our batch
@@ -693,7 +693,7 @@ class BatchOrchestrator:
 
             try:
                 self.llm_service.cancel_batch_job(job.provider_name, job_name)
-                print(f"  Successfully cancelled")
+                print("  Successfully cancelled")
                 # Update status in tracker to 'failed' with cancellation message
                 self.tracker.update_job_status(job_name, "failed", "Cancelled by user")
                 cancelled += 1
@@ -704,7 +704,7 @@ class BatchOrchestrator:
                 failed_to_cancel += 1
 
         print(f"\n{'=' * 60}")
-        print(f"Summary:")
+        print("Summary:")
         print(f"  Cancelled: {cancelled}")
         print(f"  Failed to cancel: {failed_to_cancel}")
         print(f"  Skipped (not pending): {skipped}")
