@@ -1,7 +1,7 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,95,The phrase 'study of any of these' is grammatically correct and stylistically acceptable in this context.
-1,,,,,FALSE_POSITIVE,95,'With the exception of' is a standard and grammatically correct English idiom.
-2,,,,,STYLISTIC_PREFERENCE,70,"While 'outside of' is common, 'outside' is generally preferred in formal UK English as a more concise preposition."
-3,,,,,FALSE_POSITIVE,85,Both 'independently from' and 'independently of' are grammatically acceptable and widely used.
-4,,,,,FALSE_POSITIVE,100,"The word 'Cafe' is intentionally presented without an accent as an example of a minor error in the French language, making the tool's suggestion a false positive in this context."
-5,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.
+0,7,of any of,...nline resources available for the study **of any of** these example works (with the exception...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'study of any of these' is grammatically correct and stylistically acceptable in this context.
+1,7,with the exception of,...he study of any of these example works (**with the exception of** *Petits Contes de Broceliande*).  {8}--...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'With the exception of' is a standard and grammatically correct English idiom.
+2,9,outside of,...cess evidence they have been developing **outside of** supervised activities.  {10}-----------...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'outside of' is common, 'outside' is generally preferred in formal UK English as a more concise preposition."
+3,13,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,85,Both 'independently from' and 'independently of' are grammatically acceptable and widely used.
+4,20,Cafe,...ning or tense:</li><li>J'ecoute</li><li>**Cafe**</li></ul> | |  | <ul><li>Incorrect acce...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'Cafe' is intentionally presented without an accent as an example of a minor error in the French language, making the tool's suggestion a false positive in this context."
+5,22,but,...marked. The bullet points are compulsory** but** equal coverage is not required.  #### *...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it connects two independent clauses.

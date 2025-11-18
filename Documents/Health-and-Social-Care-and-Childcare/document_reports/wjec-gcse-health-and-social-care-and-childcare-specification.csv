@@ -1,17 +1,17 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'SUMMARY' has been incorrectly split into 'SUI' and 'MMAR' due to a parsing error.
-1,,,,,PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INT' and 'FRODUCTION' due to a parsing error.
-2,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split into 'SU' and 'BJECT' due to a parsing error.
-3,,,,,PARSING_ERROR,100,The word 'Information' has been incorrectly split into 'Unit I' and 'nformation' and should be capitalised.
-4,,,,,PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split into 'Oppo' and 'ortunities' due to a parsing error.
-5,,,,,PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split into 'Oppo' and 'ortunities' due to a parsing error.
-6,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split into 'AS' and 'SESSMENT' due to a parsing error.
-7,,,,,PARSING_ERROR,100,The word 'MALPRACTICE' has been incorrectly split into 'MA' and 'LPRACTICE' due to a parsing error.
-8,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split into 'TE' and 'CHNICAL' due to a parsing error.
-9,,,,,PARSING_ERROR,100,The word 'Appendix' has been incorrectly split into 'Α' and 'ppend' due to a parsing error.
-10,,,,,PARSING_ERROR,100,The word 'Appendix' has been incorrectly parsed into 'Append' and 'lix'.
-11,,,,,PARSING_ERROR,95,The compound adjective 'non-profit-making' requires hyphens for correct UK English usage.
-12,,,,,FALSE_POSITIVE,95,'School leavers' is a correct and commonly accepted compound noun in UK English.
-13,,,,,PARSING_ERROR,90,The compound adjective 'on-going' should be hyphenated for clarity in UK English.
-14,,,,,FALSE_POSITIVE,100,'Multi-disciplinary' is correctly hyphenated as a compound adjective.
-15,,,,,PARSING_ERROR,100,The compound adjective 'person-centred' requires a hyphen for correct UK English usage.
+0,3,MMAR,...-----------  #### **CONTENTS**  | SUI | **MMAR**   | RY OF ASSESSMENT                   ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'SUMMARY' has been incorrectly split into 'SUI' and 'MMAR' due to a parsing error.
+1,3,FRODUCTION,...--------------|------| | 1   | INT    | **FRODUCTION**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'INTRODUCTION' has been incorrectly split into 'INT' and 'FRODUCTION' due to a parsing error.
+2,3,BJECT,...              | 9    | | 2   | SU     | **BJECT** CONTENT                                ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split into 'SU' and 'BJECT' due to a parsing error.
+3,3,nformation,...              | .10  | |     | Unit I | **nformation**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Information' has been incorrectly split into 'Unit I' and 'nformation' and should be capitalised.
+4,3,Oppo,...                       | 26   | |     | **Oppo**   | ortunities for integration of learn...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split into 'Oppo' and 'ortunities' due to a parsing error.
+5,3,ortunities,...              | 26   | |     | Oppo   | **ortunities** for integration of learning experiences...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Opportunities' has been incorrectly split into 'Oppo' and 'ortunities' due to a parsing error.
+6,3,SESSMENT,...              | 32   | | 3   | AS     | **SESSMENT**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split into 'AS' and 'SESSMENT' due to a parsing error.
+7,3,LPRACTICE,...              | . 34 | | 4   | MA     | **LPRACTICE**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'MALPRACTICE' has been incorrectly split into 'MA' and 'LPRACTICE' due to a parsing error.
+8,3,CHNICAL,...              | . 35 | | 5   | TE     | **CHNICAL** INFORMATION                            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split into 'TE' and 'CHNICAL' due to a parsing error.
+9,3,ppend,...                       | . 38 | | Α   | **ppend**  | lix A: Opportunities for embedding e...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Appendix' has been incorrectly split into 'Α' and 'ppend' due to a parsing error.
+10,3,lix,...              | . 38 | | Α   | ppend  | **lix** A: Opportunities for embedding elements...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Appendix' has been incorrectly parsed into 'Append' and 'lix'.
+11,15,non-profit making,...d sector: services that are provided by **non-profit making** organisations in the voluntary care sec...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'non-profit-making' requires hyphens for correct UK English usage.
+12,16,school leavers,"...cy between the most and least deprived, **school leavers** with skills and qualifications, quality...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'School leavers' is a correct and commonly accepted compound noun in UK English.
+13,18,on-going,...t 2010  Learners should be aware of the **on-going** Anti-racist Wales Action Plan 2024.  {1...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,The compound adjective 'on-going' should be hyphenated for clarity in UK English.
+14,22,multi-disciplinary,...ship working:  - multi-agency working - **multi-disciplinary** teams - multi-agency panels - integrate...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Multi-disciplinary' is correctly hyphenated as a compound adjective.
+15,23,personcentred,...ers should understand the importance of **personcentred** care when professionals work with adult...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'person-centred' requires a hyphen for correct UK English usage.

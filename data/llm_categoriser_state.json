@@ -502,7 +502,7 @@
           2,
           3
         ],
-        "total_issues": 9
+        "total_issues": 39
       },
       "gcse-drama---guidance-for-teaching-unit-2.md": {
         "completed_batches": [
@@ -519,7 +519,7 @@
           4,
           5
         ],
-        "total_issues": 3
+        "total_issues": 53
       },
       "gcse-drama---option-evening-flyer.md": {
         "completed_batches": [
@@ -535,14 +535,14 @@
           3,
           4
         ],
-        "total_issues": 1
+        "total_issues": 41
       },
       "gcse-drama---unit-2-non-exam-assessment-pack-sample.md": {
         "completed_batches": [
           0,
           1
         ],
-        "total_issues": 6
+        "total_issues": 16
       },
       "gcse-drama---unit-3-interpreting-theatre.md": {
         "completed_batches": [
@@ -556,7 +556,7 @@
           7,
           8
         ],
-        "total_issues": 9
+        "total_issues": 89
       },
       "gcse-drama-unit-1-nea-assessment-handbook.md": {
         "completed_batches": [
@@ -575,14 +575,14 @@
           0,
           1
         ],
-        "total_issues": 4
+        "total_issues": 14
       },
       "wjec-gcse-drama-specification.md": {
         "completed_batches": [
           0,
           1
         ],
-        "total_issues": 3
+        "total_issues": 13
       }
     },
     "English-Language-and-Literature": {
@@ -768,7 +768,7 @@
           0,
           1
         ],
-        "total_issues": 427
+        "total_issues": 10
       }
     },
     "Dance": {
@@ -1047,15 +1047,78 @@
       },
       "gcse-religious-studies---guidance-for-teaching-unit-4.md": {
         "completed_batches": [
-          0
+          0,
+          1
         ],
-        "total_issues": 17
+        "total_issues": 7
       },
       "gcse-religious-studies---unit-1-sample-assessment-materials.md": {
         "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
           9
         ],
-        "total_issues": 98
+        "total_issues": 10
+      },
+      "gcse-religious-studies---unit-2-non-exam-assessment-pack-sample.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-religious-studies---unit-3-sample-assessment-materials.md": {
+        "completed_batches": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "total_issues": 3
+      },
+      "gcse-religious-studies---unit-4-non-exam-assessment-pack.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-religious-studies-unit-2-nea-handbook.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "wjec-gcse-religious-studies-specification.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "total_issues": 4
       }
     },
     "Food-and-Nutrition": {
@@ -1487,9 +1550,293 @@
         "completed_batches": [
           0,
           1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 3
+      },
+      "gcse-mathematics-and-numeracy---unit-2-non-calculator-higher-tier.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "total_issues": 6
+      },
+      "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "total_issues": 4
+      },
+      "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "total_issues": 1
+      },
+      "gcse-mathematics-and-numeracy-double-award---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "january-2025.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "september-2025.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "wjec-gcse-mathematics-and-numeracy-specification.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 7
+      }
+    },
+    "Music": {
+      "gcse-music---delivery-guide.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-music---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-music---guidance-for-teaching.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "gcse-music---unit-1-non-exam-assessment-pack-sample.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 7
+      },
+      "gcse-music---unit-2-composing-sample.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-music---unit-3-appraising.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-music-unit-1-nea-assessment-handbook.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-music-unit-2-nea-assessment-handbook.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "wjec-gcse-music-specification.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      }
+    },
+    "Physical-Education-and-Health": {
+      "physical-education-and-health-options-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "wjec-gcse-physical-education-and-health-specification.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      }
+    },
+    "Social-Studies": {
+      "social-studies---options-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-social-studies-specification.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      }
+    },
+    "Spanish": {
+      "gcse-spanish---delivery-guide.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-spanish---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-spanish---guidance-for-teaching-unit-1.md": {
+        "completed_batches": [
+          0,
+          1,
           2
         ],
-        "total_issues": 43
+        "total_issues": 2
+      },
+      "gcse-spanish---guidance-for-teaching-unit-2.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 8
+      },
+      "gcse-spanish---guidance-for-teaching-unit-3.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      },
+      "gcse-spanish---guidance-for-teaching-unit-4.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 6
+      },
+      "gcse-spanish---unit-1-oracy.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 5
+      },
+      "gcse-spanish---unit-2-reading-and-writing.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-spanish---unit-3-listening.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-spanish---unit-4-reading-and-writing.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-spanish-specification.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "total_issues": 6
+      }
+    },
+    "The-Sciences-Double-Award": {
+      "wjec-gcse-the-sciences-double-award-specification.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 10
       }
     }
   }

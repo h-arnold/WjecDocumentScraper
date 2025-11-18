@@ -1,11 +1,11 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,95,The term 'Proforma' is a correct English word used appropriately in this context as part of a document title.
-1,,,,,STYLISTIC_PREFERENCE,80,"The compound adjective 'audio-visual' is typically hyphenated in UK English, especially when preceding a noun, for consistency and clarity."
-2,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'the learners'; it should be 'have'.
-3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The verb 'has' does not agree with the plural subject 'the learners'; it should be 'have'.
-4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'and' would improve readability as it separates two independent clauses.
-5,,,,,FALSE_POSITIVE,90,"When 'well developed' follows the noun it modifies (predicative position), hyphenation is not typically required in UK English."
-6,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
-7,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
-8,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
-9,,,,,STYLISTIC_PREFERENCE,90,The noun 'make-up' should be hyphenated for consistency with other instances in the document and standard UK English usage.
+0,4,Proforma,...and Declaration Form - Unit 1 Programme **Proforma**  All information regarding the submissi...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Proforma' is a correct and commonly used term for a standard document or form in English, especially in administrative contexts."
+1,5,audio visual,...itable format):  - audio presentation - **audio visual** presentation - PowerPoint - written pro...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective 'audio-visual' should be hyphenated when preceding a noun, which is a common parsing error in PDF to Markdown conversion."
+2,7,has,...mining the extent to which the learners **has** met the criteria within the relevant ba...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has'."
+3,12,has,...mining the extent to which the learners **has** met the criteria within the relevant ba...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The plural subject 'learners' requires the plural verb 'have', not 'has'."
+4,12,and,...tifying individual levels of achievement** and** they do not correlate with grade bounda...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,"A comma before 'and' would improve clarity as it separates two independent clauses, though its omission does not create significant ambiguity."
+5,16,well developed,"...in response to the chosen stimulus, are **well developed** to produce a refined and coherent piece...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Well developed' is correctly unhyphenated as it follows the verb 'are' and functions as a predicate adjective.
+6,20,makeup,"...erent characters (two costume, hair and **makeup** designs in total) - sketches of both co...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,"For consistency with WJEC's preferred style and other instances in the document, 'make-up' should be hyphenated."
+7,37,makeup,"... contribution through costume, hair and **makeup** design to the performance. - The overal...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,"For consistency with WJEC's preferred style and other instances in the document, 'make-up' should be hyphenated."
+8,38,makeup,"... contribution through costume, hair and **makeup** design to the performance. - The overal...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,"For consistency with WJEC's preferred style and other instances in the document, 'make-up' should be hyphenated."
+9,39,makeup,"... contribution through costume, hair and **makeup** design to the performance. • The overal...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,90,"For consistency with WJEC's preferred style and other instances in the document, 'make-up' should be hyphenated."

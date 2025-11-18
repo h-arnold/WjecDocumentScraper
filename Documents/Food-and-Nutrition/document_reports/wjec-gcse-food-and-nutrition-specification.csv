@@ -1,11 +1,11 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across two table cells due to a parsing error.
-1,,,,,PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across two table cells, and the first part contains a non-Latin character, indicating a parsing error."
-2,,,,,PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two table cells due to a parsing error.
-3,,,,,PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two table cells due to a parsing error.
-4,,,,,PARSING_ERROR,100,The word 'Appendix' has been incorrectly split across two table cells due to a parsing error.
-5,,,,,PARSING_ERROR,95,"The term 'pre-released' should be hyphenated, consistent with its usage elsewhere in the document, indicating a parsing error."
-6,,,,,PARSING_ERROR,95,"The term 'pre-released' should be hyphenated, consistent with its usage elsewhere in the document, indicating a parsing error."
-7,,,,,FALSE_POSITIVE,100,The hyphen is correctly used as a bullet point in a list and is not part of the word 'gelation'.
-8,,,,,PARSING_ERROR,90,"A space is missing before the opening parenthesis, which is likely a parsing error from the original document format."
-9,,,,,PARSING_ERROR,90,"A space is missing before the opening parenthesis, which is likely a parsing error from the original document format."
+0,4,JECT,...          | 9  | | 2   | SUB          | **JECT** CONTENT                                ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'SUBJECT' has been incorrectly split across two table cells due to a parsing error.
+1,4,ortunities,...          | 22 | |     | Орр          | **ortunities** for integration of learning experiences...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Opportunities' has been incorrectly split across two table cells, and the first part contains a non-Latin character, indicating a parsing error."
+2,4,ESSMENT,...          | 26 | | 3   | ASS          | **ESSMENT**                                        ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'ASSESSMENT' has been incorrectly split across two table cells due to a parsing error.
+3,4,HNICAL,...          | 29 | | 5   | TEC          | **HNICAL** INFORMATION                            ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'TECHNICAL' has been incorrectly split across two table cells due to a parsing error.
+4,4,pendi,"...                         | 30 | | App | **pendi**        | x A – Preparation, knife and c...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'Appendix' has been incorrectly split across two table cells due to a parsing error.
+5,5,prereleased,...year. Centres can choose one of the two **prereleased** briefs they would like learners to comp...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The term 'pre-released' should be hyphenated, consistent with its usage elsewhere in the document, indicating a parsing error."
+6,5,prereleased,...ear. Learners can choose one of the two **prereleased** briefs they would like learners to comp...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The term 'pre-released' should be hyphenated, consistent with its usage elsewhere in the document, indicating a parsing error."
+7,19,- gelation,... and mechanical action - foam formation **- gelation** - gluten formation - Maillard reaction ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The hyphen is correctly used as a bullet point in a list and is not part of the word 'gelation'.
+8,32,(,...<li>stir-frying**</li></ul> | | toasting**(**nuts/seeds) ** | <ul><li>tempering***</l...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"A space is missing before the opening parenthesis, which is likely a parsing error from the original document format."
+9,32,(,...<ul><li>toasting*</li></ul> | | whisking**(**aeration)*** | <ul><li>water-bath (sous-...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"A space is missing before the opening parenthesis, which is likely a parsing error from the original document format."

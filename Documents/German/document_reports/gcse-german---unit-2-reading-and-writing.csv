@@ -1,6 +1,6 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The apostrophe should not be used when pluralising decades; it should be '1960s'.
-1,,,,,STYLISTIC_PREFERENCE,85,'Outside' is more concise and stylistically preferred over 'outside of' in formal writing.
-2,,,,,STYLISTIC_PREFERENCE,80,'Independently of' is the more idiomatic and precise phrasing in formal English.
-3,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'and' when it connects two independent clauses to improve readability.
-4,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'but' when it connects two independent clauses to improve readability.
+0,5,1960's,"... come to German as guest workers in the **1960's**. The film explores themes of family, mi...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The apostrophe should not be used when pluralising decades; it should be '1960s'.
+1,7,outside of,...cess evidence they have been developing **outside of** supervised activities.  {8}------------...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,'Outside' is more concise and stylistically preferred over 'outside of' in formal writing.
+2,11,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,'Independently of' is the more idiomatic and precise phrasing in formal English.
+3,21,and,...elow. The number of words is approximate** and** all work must be marked. The bullet poi...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'and' when it connects two independent clauses to improve readability.
+4,21,but,...marked. The bullet points are compulsory** but** equal coverage is not required.  #### *...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma should precede 'but' when it connects two independent clauses to improve readability.

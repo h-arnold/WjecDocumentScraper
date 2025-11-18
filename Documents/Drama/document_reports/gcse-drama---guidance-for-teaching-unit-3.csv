@@ -1,54 +1,54 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,95,The compound adjective 'live-streamed' should be hyphenated when modifying 'performances'.
-1,,,,,STYLISTIC_PREFERENCE,70,"A comma before 'or' would improve readability when connecting two interrogative phrases, but its absence is not a strict error."
-2,,,,,FALSE_POSITIVE,90,"'Key words' is a correct and acceptable two-word phrase, with 'key' functioning as an adjective."
-3,,,,,SPELLING_ERROR,100,'YouTube' is a proper noun and requires capitalisation.
-4,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,'Characters past' should be 'character's past' (singular possessive) or 'characters' past' (plural possessive) to indicate possession.
-5,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'but' when it connects two independent clauses.
-6,,,,,FALSE_POSITIVE,95,No comma is needed before 'and' when connecting two parallel phrases within a single question.
-7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'and' when it connects two independent clauses.
-8,,,,,SPELLING_ERROR,100,An apostrophe should not be used to form the plural of a decade; it should be '1940s'.
-9,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'and' when it connects two independent clauses.
-10,,,,,FALSE_POSITIVE,100,`href` is a correct HTML attribute and not a linguistic error in the document's content.
-11,,,,,FALSE_POSITIVE,100,"`youtube.com` is a correct domain name and platform reference, not a spelling error."
-12,,,,,FALSE_POSITIVE,100,"`youtube.com` is a correct domain name and platform reference, not a spelling error."
-13,,,,,FALSE_POSITIVE,100,`href` is a correct HTML attribute and not a linguistic error in the document's content.
-14,,,,,SPELLING_ERROR,100,"The word 'theatre' is redundantly repeated, creating a clear error."
-15,,,,,STYLISTIC_PREFERENCE,70,"The phrase 'as well as' is used correctly but repetitively, suggesting a stylistic improvement for conciseness."
-16,,,,,FALSE_POSITIVE,90,'In groups' is a grammatically correct and common phrasing.
-17,,,,,STYLISTIC_PREFERENCE,70,The use of 'so' is grammatically correct; a comma before it would be a stylistic choice.
-18,,,,,FALSE_POSITIVE,100,The phrase 'as well as' is used correctly to connect two elements.
-19,,,,,FALSE_POSITIVE,100,"`youtube.com` is a correct domain name and platform reference, not a spelling error."
-20,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-21,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-22,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-23,,,,,FALSE_POSITIVE,95,"The phrase ""in this moment"" is grammatically correct and appropriate for the context of discussing an image."
-24,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-25,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-26,,,,,FALSE_POSITIVE,100,"""youtube.com"" is correctly written as a domain name in lowercase within the URL context."
-27,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,"Adding an apostrophe to ""playwrights'"" would clarify that the competition is for or by young playwrights."
-28,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before ""and"" would improve clarity by separating two independent clauses."
-29,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The verb form ""understanding"" is incorrect after ""to""; it should be the infinitive ""understand""."
-30,,,,,FALSE_POSITIVE,100,'youtube.com' is a correctly spelled domain name and proper noun within the URL context.
-31,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase should be 'some of the ideas' or 'some ideas' to be grammatically correct.
-32,,,,,FALSE_POSITIVE,100,"'mold' refers to the town Mold in Wales, which is a proper noun and correct in this URL context."
-33,,,,,FALSE_POSITIVE,100,'youtube.com' is a correctly spelled domain name and proper noun within the URL context.
-34,,,,,FALSE_POSITIVE,100,'youtube.com' is a correctly spelled domain name and proper noun within the URL context.
-35,,,,,FALSE_POSITIVE,100,"'gender fluid' is a correct and recognised term in this context, referring to a gender identity."
-36,,,,,FALSE_POSITIVE,100,'East is East' is the correct title of a play and therefore a proper noun.
-37,,,,,STYLISTIC_PREFERENCE,80,'three-dimensional' should ideally be hyphenated as a compound adjective for clarity in formal UK English.
-38,,,,,FALSE_POSITIVE,95,"The word 'directors' is correctly used as a plural noun, referring to learners acting in the role of directors."
-39,,,,,FALSE_POSITIVE,100,'youtube.com' is a correctly spelled domain name and proper noun within the URL context.
-40,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-41,,,,,STYLISTIC_PREFERENCE,80,The absence of a comma before 'and' joining two independent clauses is stylistically acceptable and does not hinder clarity.
-42,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-43,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-44,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-45,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-46,,,,,FALSE_POSITIVE,100,"""youtube.com"" is a correctly spelled website domain and proper noun."
-47,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The infinitive verb 'answer' is required after 'to', not the plural noun 'answers'."
-48,,,,,FALSE_POSITIVE,100,'In pairs' is a correct and common idiom in UK English.
-49,,,,,SPELLING_ERROR,100,The word 'statical' is incorrect; the correct term related to statistics is 'statistical'.
-50,,,,,SPELLING_ERROR,100,The word 'statical' is incorrectly used; 'statistical' is required to refer to evidence derived from statistics.
-51,,,,,FALSE_POSITIVE,95,'Interview' is correctly spelled and capitalized as part of a resource title or description.
-52,,,,,FALSE_POSITIVE,90,'youtube.com' is correctly presented in lowercase as part of a web address.
+0,5,live streamed,...flecting linked to live and/or recorded/**live streamed** performances as possible theatrical inf...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The compound adjective 'live-streamed' requires a hyphen when preceding the noun 'performances'.
+1,7,or,"... items. E.g., are the items contemporary** or** could they belong to a different era? W...",PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma should precede the coordinating conjunction 'or' when it connects two independent clauses.
+2,9,key words,...cused.  #### **Development :**  Finding **key words** from the selected scene and adding them...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Key words' is correctly written as two separate words in this context.
+3,9,youtube,... Works: Table Top Shakespeare Trailer \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'youtube.com' is correctly rendered in lowercase as part of the URL.
+4,10,past,"... significant person from the characters **past** in mentioned they come on stage, played...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,An apostrophe is missing to indicate possession; it should be 'character's past' or 'characters' past'.
+5,10,but,"...or example, every character has a mother** but** how do they feel about her and how did ...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'but' when it joins two independent clauses.
+6,10,and,... a mother but how do they feel about her** and** how did they act around her?  This is a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"No comma is required before 'and' as it connects two phrases within a single clause, not two independent clauses."
+7,15,and,...rners read the opening scene of the play** and** they stage their initial ideas for the ...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'and' when it joins two independent clauses.
+8,17,1940's,"...rs decide their set design reflects the **1940's** , the costume should reflect this.  Cos...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,An apostrophe should not be used when referring to a decade; it should be '1940s'.
+9,18,and,...ecide at which point s it will be played** and** they record their ideas using a cue she...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before the coordinating conjunction 'and' when it joins two independent clauses.
+10,19,href,"... the importance of sound in theatre: <a **href**=""https://www.youtube.com/watch?v=MGtX9P...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`href` is a correct HTML attribute and not a linguistic error in the document's content.
+11,20,youtube,...avage Examines the Props of Hamilton! \(**youtube**.com\).](https://www.youtube.com/watch?v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`youtube.com` is a correct domain name used as part of a link description.
+12,20,youtube,...m/watch?v=z-YHTBcM-VM)  [DVD \(2015\) \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`youtube.com` is a correct domain name used as part of a link description.
+13,21,href,"...ate specific meaning to an audience: <a **href**=""https://www.youtube.com/watch?v=x3hYpl...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`href` is a correct HTML attribute and not a linguistic error in the document's content.
+14,23,theatre theatre,...ng: naturalism musical theatre physical **theatre theatre** in education. | This section of the exa...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The word 'theatre' is incorrectly repeated, creating a grammatical error."
+15,23,as well as,...t is written by writers both from Wales **as well as** those with diverse backgrounds. Learner...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The construction 'both... as well as' is grammatically redundant; it should be 'both... and' or simply 'as well as' without 'both'.
+16,25,groups,"...lips of different styles of theatre. In **groups** they present an ""arts feature"", where t...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'In groups' is a grammatically correct and common idiom meaning 'working as groups'.
+17,25,so,... presentation could be filmed and viewed** so** a range of opinions are offered.  Immed...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The conjunction 'so' is used correctly to introduce a result clause.
+18,25,as well as,...key elements of performance to focus on **as well as** the relevant terminology.  These analys...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The construction 'both... as well as' is grammatically redundant; it should be 'both... and' or simply 'as well as' without 'both'.
+19,25,youtube,...com/watch?v=hUEORBWHAVU)  [Marquee TV \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,`youtube.com` is a correct domain name used as part of a link description.
+20,26,youtube,...from The [Tragedy of Macbeth \(2021\) \(**youtube**.com\).](https://www.youtube.com/watch?v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+21,26,youtube,...Macbeth in Welsh \(1964\) | BBC Wales \(**youtube**.com\).](https://www.youtube.com/watch?v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+22,26,youtube,...ip 4 [Shakespeare's Macbeth Tara Arts \(**youtube**.com\).](https://www.youtube.com/watch?v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+23,27,in this moment,...ure_3.jpeg)  *Discuss the lighting used **in this moment**? Discuss how effective you think the li...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'in this moment' is grammatically correct and appropriate for the context of discussing an image.
+24,28,youtube,...uTube [Romeo and Juliet balcony scene \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+25,28,youtube,...ww.youtube.com/watch?v=yTWUk3QZoLs)  [\(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+26,28,youtube,...ww.youtube.com/watch?v=ZQzhvtsxDVM)  [\(**youtube**.com\).](https://www.youtube.com/watch?v...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The domain name 'youtube.com' is correctly written in lowercase as part of the URL reference.
+27,29,playwrights,"...their own scripts, for example, a young **playwrights** competition, which could be embedded in...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The phrase 'playwrights competition' requires a possessive apostrophe (playwrights') or should be rephrased as a compound noun (playwright competition).
+28,29,and,... staging.</li><li>6-8 scripts are chosen** and** the playwright is responsible for direc...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,A comma before 'and' would improve clarity as it separates two independent clauses.
+29,29,understanding,".../li><li>This process allows learners to **understanding** how plays are developed, designed and p...",PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The infinitive form 'to understand' is required after 'allows learners to', not the gerund 'understanding'."
+30,31,youtube,"...=a3bcswD0wZ8)  [UK Tour | ATG Tickets \(**youtube**.com\),](https://www.youtube.com/watch?v...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'youtube' is correctly used as part of a URL and should not be capitalised in this context.
+31,32,some of ideas,...RK2Z4mZZE6HQ)  - Learners could look at **some of ideas** within the pack and create their own re...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The definite article 'the' is missing before 'ideas' to form the correct phrase 'some of the ideas'.
+32,34,mold,...-riots) [part/projects/together/theatre/**mold**](https://www.theatrclwyd.com/take-part/...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Mold' is a proper noun referring to a place name in Wales and is correctly used in the URL.
+33,34,youtube,...ExO7P9NYngRuohlSbSfFWPk8DC&index=7)  [\(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'youtube' is correctly used as part of a URL and should not be capitalised in this context.
+34,35,youtube,"... directors, for example: [Woza Albert \(**youtube**.com\).](https://www.youtube.com/watch?v...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'youtube' is correctly used as part of a URL and should not be capitalised in this context.
+35,37,gender fluid,"...d explore whether some of the roles are **gender fluid**, and whether changing the gender of spe...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,'Gender fluid' is an acceptable two-word term when used predicatively; hyphenation is not strictly required.
+36,38,East is East,"...rom 'All's Fair' by Frank Vickery, and '**East is East**' by Ayub Khan Din. <ul><li>Learners cou...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'East is East' is the correct title of a play and is properly capitalised.
+37,38,three dimensional,...nted as stereotypes or whether they are **three dimensional** characters. As directors they could giv...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,'Three-dimensional' should be hyphenated as a compound adjective for clarity and consistency in formal writing.
+38,38,directors,...ey are three dimensional characters. As **directors** they could give advice to the actor on ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"Adding a comma after 'directors' would be a stylistic choice to improve flow, but its omission is not a grammatical error."
+39,38,youtube,...e Collection 3 on Drama Online)   Clip (**youtube**.com). Learners could focus on how movem...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'youtube' is correctly used as part of a URL and should not be capitalised in this context.
+40,38,youtube,...already dead' National Theatre at Home (**youtube**.com).</li></ul> | |-------|------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+41,40,and,...in which we live is continually evolving** and** we hold a shared responsibility to embr...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,"A comma before 'and' would improve clarity when joining two independent clauses, but its omission is not an absolute grammatical error."
+42,41,youtube,...le : • [Hamlet \(Blue Apple Theatre\) \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+43,41,youtube,...6I6c) -Ellis: Signs for Change - [BBC \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+44,41,youtube,...ww.youtube.com/watch?v=svgOyEmEacQ)  [\(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+45,43,youtube,...be.com/watch?v=widLgDuK-nk)  [Theatre \(**youtube**.com\)](https://www.youtube.com/watch?v=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+46,44,youtube,...t Acting Monologues Of All Time PART 1 (**youtube**.com). Although these performances are f...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'youtube.com' is correctly spelled as part of a URL and is a proper noun.
+47,47,answers,...tive. They should also be encouraged to **answers** questions</li></ul> |  {48}------------...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The verb form should be the infinitive 'answer' after 'to', not 'answers'."
+48,50,pairs,...ar Theft amongst adolescents (Face). In **pairs** they could identify some key questions ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,'In pairs' is a correct and common idiomatic expression.
+49,51,statical,"...ary. The group then votes, based on the **statical** evidence presented by both characters, ...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The word 'statical' is incorrect; it should be 'statistical' to refer to evidence based on statistics.
+50,51,statical,"...l experimentation based on the gathered **statical** evidence. The play could involve music,...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The word 'statical' is used incorrectly; the context requires 'statistical' to refer to data and statistics.
+51,53,Interview,"...ssible theatre from Wales. Cuttin' It   **Interview** with cast, Adelayo Adedayo</li><li>& Ts...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Interview' is correctly used as part of a title or description for a specific resource.
+52,53,youtube,... Adelayo Adedayo</li><li>& Tsion Habte (**youtube**.com). Chicken Shed Peter Pan.</li><li>T...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'youtube.com' is correctly presented as a lowercase URL, which is a common and acceptable format."

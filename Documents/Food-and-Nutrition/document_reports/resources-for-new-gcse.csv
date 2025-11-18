@@ -1,5 +1,5 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,"The apostrophe in 'i'r' is grammatically correct in Welsh, indicating an elision."
-1,,,,,SPELLING_ERROR,100,'Cadwoli' is a misspelling; the correct Welsh word for 'preservation' is 'Cadwraeth' (GPC).
-2,,,,,FALSE_POSITIVE,100,"The apostrophe in 'a'r' is grammatically correct in Welsh, indicating an elision."
-3,,,,,FALSE_POSITIVE,100,"The apostrophe in 'i'r' is grammatically correct in Welsh, indicating an elision."
+0,0,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The apostrophe in 'i'r' is grammatically correct in Welsh, indicating an elision."
+1,7,Cadwoli,...li tymheredd. - Hylendid a diogelwch. - **Cadwoli**. - Gwenwyn bwyd.  Adnoddau CBAC/WJEC Re...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Cadwoli' is a misspelling; the correct Welsh word for 'preservation' is 'Cadwraeth' (GPC).
+2,8,',...cture_2.jpeg)  - Tarddiad bwyd. - Bwyd a**'**r amgylchedd. - Prosesu bwyd cynradd ac ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The apostrophe in 'a'r' is grammatically correct in Welsh, indicating an elision."
+3,12,',...1.jpeg)  Yn arbennig i Gymru. Yn barod i**'**r byd.  Made for Wales. Ready for the wo...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The apostrophe in 'i'r' is grammatically correct in Welsh, indicating an elision."

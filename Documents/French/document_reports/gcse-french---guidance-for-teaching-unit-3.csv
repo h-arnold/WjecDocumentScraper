@@ -1,20 +1,20 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,Adding a comma before 'and' would improve the flow and clarity of the compound sentence.
-1,,,,,PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
-2,,,,,PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
-3,,,,,STYLISTIC_PREFERENCE,80,'All the' is more concise and stylistically preferred over 'all of the' in this context.
-4,,,,,STYLISTIC_PREFERENCE,80,'All the' is more concise and stylistically preferred over 'all of the' in this context.
-5,,,,,SPELLING_ERROR,100,The abbreviation for 'for example' should be 'e.g.' with periods in formal writing.
-6,,,,,SPELLING_ERROR,100,The abbreviation for 'for example' should be 'e.g.' with periods in formal writing.
-7,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The word 'than' is incorrectly used; it should be 'that' to introduce a relative clause.
-8,,,,,PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
-9,,,,,PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
-10,,,,,FALSE_POSITIVE,100,"""au"" is a correct French sound-spelling pattern and is used appropriately as an example in the context of specific sound-spelling patterns."
-11,,,,,PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
-12,,,,,SPELLING_ERROR,100,"The correct spelling of the video platform is ""YouTube"" (one word, capital Y, capital T)."
-13,,,,,SPELLING_ERROR,95,"""Speaking"" should not be capitalised in ""French speaking countries"", and ""French-speaking"" should be hyphenated as a compound adjective."
-14,,,,,PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
-15,,,,,PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
-16,,,,,STYLISTIC_PREFERENCE,80,"The phrase ""all of the"" is often considered wordy; ""all the"" or ""all three"" would be more concise and stylistically preferred in formal writing."
-17,,,,,PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
-18,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The word ""the"" is incorrectly placed before the verb ""create"", making the sentence grammatically unsound; it should be ""and create tasks"" or ""and then create tasks""."
+0,10,and,...s can have subtitles added automatically** and** the speed can be adjusted to suit learn...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,Adding a comma before 'and' would improve the flow and clarity of the compound sentence.
+1,11,French speaking,"... incorporate the culture and society of **French speaking** countries, not only France across all t...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+2,11,French speaking,... explore cultural aspects of France and **French speaking** countries. <ul><li>https://www.lumni.fr...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+3,11,all of the,"...y, culture and contributions | As above **all of the** cross-cutting themes can be incorporate...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,'All the' is more concise and stylistically preferred over 'all of the' in this context.
+4,11,all of the,...d into the teaching and learning across **all of the** 3 themes. As mentioned above www.1jour1...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,'All the' is more concise and stylistically preferred over 'all of the' in this context.
+5,11,eg.,"... has a wealth of videos on these themes **eg.** 'C'est quoi le racisme?', as well as se...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The abbreviation for 'for example' should be 'e.g.' with periods in formal writing.
+6,11,eg.,"... racisme?', as well as several podcasts **eg.** 'Qu'est-ce que c'est Black Lives Matter...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The abbreviation for 'for example' should be 'e.g.' with periods in formal writing.
+7,12,many,...lop listening skills.</li><li>There are **many** news and tv channels than could be expl...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The word 'than' is incorrectly used; it should be 'that' to introduce a relative clause.
+8,13,French speaking,...humanities subjects as learners explore **French speaking** countries. - There will also be crossov...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+9,14,French speaking,...acts on the way of life in a variety of **French speaking** countries. - <https://www.bbc.co.uk/bit...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'French-speaking' should be hyphenated as a compound adjective modifying 'countries'.
+10,14,au,...ecific sound-spelling patterns (é/ que/ **au** etc). - Listen to adverts for events; a...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""au"" is a correct French sound-spelling pattern and is used appropriately as an example in the context of specific sound-spelling patterns."
+11,14,French speaking,...events; attractions etc in a variety of **French speaking** countries. - Text to speech tools could...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
+12,14,You Tube,...A sweet way to learn French* Channel on **You Tube** has a number of videos suitable for lea...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct spelling of the video platform is ""YouTube"" (one word, capital Y, capital T)."
+13,14,French Speaking,...ble for learners on cultural aspects of **French Speaking** countries. - <https://www.youtube.com/w...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"""Speaking"" should not be capitalised in ""French speaking countries"", and ""French-speaking"" should be hyphenated as a compound adjective."
+14,14,French speaking,... que c'est?* Listen to a description of **French speaking** countries.  {15}-----------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
+15,15,French speaking,...the environmental issues that face many **French speaking** countries and innovative ways that thes...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
+16,15,all of the,"...<li>This theme could be embedded across **all of the** 3 themes, but especially in Theme 1 Lei...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The phrase ""all of the"" is often considered wordy; ""all the"" or ""all three"" would be more concise and stylistically preferred in formal writing."
+17,16,French speaking,...eral videos exploring life in different **French speaking** countries – learners could be encourage...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective ""French-speaking"" requires a hyphen when modifying ""countries""."
+18,21,create,...e video of a day out in Orleans and the **create** tasks in pairs to swap with another pai...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The word ""the"" is incorrectly placed before the verb ""create"", making the sentence grammatically unsound; it should be ""and create tasks"" or ""and then create tasks""."

@@ -1,0 +1,3 @@
+issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
+0,0,quickresponses,"...Questions requiring objective response, **quickresponses**, short and extended answers.  #### UNIT...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The term 'quick responses' should be two separate words, not a single merged word, as is common in PDF to Markdown conversion errors."
+1,0,selfconfidence,"...work, leadership, focus, refinement and **selfconfidence**.  The career possibilities that come fr...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The word 'self-confidence' should be hyphenated according to standard UK English conventions, which is a common parsing error from PDF conversion."

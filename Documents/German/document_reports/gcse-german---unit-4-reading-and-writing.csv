@@ -1,20 +1,20 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,85,"In formal UK English, 'outside' can function as a preposition, making 'outside the specification' more concise and stylistically preferred."
-1,,,,,FALSE_POSITIVE,95,"No comma is needed before 'but' as it connects two dependent clauses, not two independent clauses."
-2,,,,,FALSE_POSITIVE,100,'Im' is a correct German contraction ('in dem') and is used correctly within the German text.
-3,,,,,FALSE_POSITIVE,100,"'München' is the correct German spelling for the city of Munich, used correctly as a proper noun in the German text."
-4,,,,,FALSE_POSITIVE,100,"'An' is the correct preposition in the German idiom 'an der frischen Luft,' meaning 'in the fresh air.'"
-5,,,,,FALSE_POSITIVE,100,"'Österreich' is the correct German spelling for Austria, used correctly as a proper noun in the German text."
-6,,,,,FALSE_POSITIVE,95,"„ is the correct opening quotation mark in German, and `,,` is a common plain text representation of it."
-7,,,,,FALSE_POSITIVE,100,'An' is the correct preposition in German for 'at/in wonderful places' (an traumhaften Orten).
-8,,,,,FALSE_POSITIVE,100,'Im' is a correct German contraction ('in dem') and is used correctly within the German text.
-9,,,,,FALSE_POSITIVE,100,(c) is a correct and standard label for a sub-question or part of an exercise.
-10,,,,,FALSE_POSITIVE,95,The phrase 'any one' is correctly used as two words when referring to 'any single one' in this context.
-11,,,,,FALSE_POSITIVE,95,'Im' is a correct contraction of 'in dem' in German and is used correctly here.
-12,,,,,FALSE_POSITIVE,95,"'München' is the correct German spelling for the city of Munich, a proper noun."
-13,,,,,FALSE_POSITIVE,95,'an' is a correct German preposition in the phrase 'an der frischen Luft'.
-14,,,,,FALSE_POSITIVE,95,"'Österreich' is the correct German spelling for Austria, a proper noun."
-15,,,,,PARSING_ERROR,90,"The double comma '„,' is likely a parsing error for the German opening quotation mark '„'."
-16,,,,,FALSE_POSITIVE,95,'an' is a correct German preposition in the phrase 'an traumhaften Orten'.
-17,,,,,FALSE_POSITIVE,95,'Im' is a correct contraction of 'in dem' in German and is used correctly here.
-18,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,A comma before 'but' is advisable when it connects two independent clauses to improve readability.
+0,3,outside of,... specified in this specification. Words **outside of** the specification grammar and vocabular...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,"In formal UK English, 'outside' can function as a preposition, making 'outside the specification' more concise and stylistically preferred."
+1,3,but,... used that is beyond the defined content** but** that fulfils the task requirements.  Th...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"No comma is needed before 'but' as it connects two dependent clauses, not two independent clauses."
+2,6,Im,...            |  | |  | • • | Wo? Wann? | **Im** Park hinter dem Rathaus Herbst |  |  | ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Im' is a correct German contraction ('in dem') and is used correctly within the German text.
+3,6,München,"...jedes Jahr zum ""Tollwood Festival"" nach **München** in Süddeutschland. Jung und Alt lieben ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'München' is the correct German spelling for the city of Munich, used correctly as a proper noun in the German text."
+4,8,an,...strian website. Examiner  *Du liebst es **an** der frischen Luft zu sein und Leute aus...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'An' is the correct preposition in the German idiom 'an der frischen Luft,' meaning 'in the fresh air.'"
+5,8,Österreich,...nf Wochen auf unseren Campingplätzen in **Österreich** arbeiten.  *Alex (18) aus Wrexham sagt:...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'Österreich' is the correct German spelling for Austria, used correctly as a proper noun in the German text."
+6,8,",,","...eiten.  *Alex (18) aus Wrexham sagt:*  ***,,**Es war die beste Erfahrung meines Lebens...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"„ is the correct opening quotation mark in German, and `,,` is a common plain text representation of it."
+7,10,an,... Influencer zeigen falsche Urlaubsfotos **an** traumhaften Orten. Ihre Follower wollen...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'An' is the correct preposition in German for 'at/in wonderful places' (an traumhaften Orten).
+8,12,Im,"...ren, umweltfreundlichen Urlaub gemacht. **Im** Trend liegen Öko-Hotels, wo man mit dem...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Im' is a correct German contraction ('in dem') and is used correctly within the German text.
+9,12,(c),".......................................... **(c)** Es gibt umweltfreundliche Aktivitäten, ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,(c) is a correct and standard label for a sub-question or part of an exercise.
+10,19,any one,...Award one mark for: Salt / sugar / fat (**any one** answer) |  |  |  ![](_page_19_Picture_2...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The phrase 'any one' is correctly used as two words when referring to 'any single one' in this context.
+11,20,Im,... |               |  |  |  | | • • | Wo? **Im** Park hinter dem Rathaus Wann? Herbst | ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Im' is a correct contraction of 'in dem' in German and is used correctly here.
+12,20,München,... |  |  |  |  |  |  |  | |  | Veganer. | **München** in Süddeutschland. Jung und Alt lieben ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'München' is the correct German spelling for the city of Munich, a proper noun."
+13,22,an,...                         | Du liebst es **an** der frischen Luft zu sein und Leute aus...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'an' is a correct German preposition in the phrase 'an der frischen Luft'.
+14,22,Österreich,...nf Wochen auf unseren Campingplätzen in **Österreich** arbeiten.  *Alex (18) aus Wrexham sagt:...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'Österreich' is the correct German spelling for Austria, a proper noun."
+15,22,",,","...eiten.  *Alex (18) aus Wrexham sagt:*  ***,,**Es war die beste Erfahrung meines Lebens...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"The double comma '„,' is likely a parsing error for the German opening quotation mark '„'."
+16,24,an,... Influencer zeigen falsche Urlaubsfotos **an** traumhaften Orten. Ihre Follower wollen...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'an' is a correct German preposition in the phrase 'an traumhaften Orten'.
+17,26,Im,"...ren, umweltfreundlichen Urlaub gemacht. **Im** Trend liegen Öko-Hotels, wo man mit dem...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,'Im' is a correct contraction of 'in dem' in German and is used correctly here.
+18,30,but,...marked. The bullet points are compulsory** but** equal coverage is not required.  Choose...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,70,A comma before 'but' is advisable when it connects two independent clauses to improve readability.

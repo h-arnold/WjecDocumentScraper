@@ -1,21 +1,21 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,"The word 'were' is correctly used in this Shakespearean quote, representing an archaic subjunctive mood."
-1,,,,,FALSE_POSITIVE,90,The highlighted closing quotation mark is correctly placed after 'away?'.
-2,,,,,FALSE_POSITIVE,90,The highlighted opening quotation mark is correctly placed before 'Whither'.
-3,,,,,FALSE_POSITIVE,100,The word 'does' is grammatically correct in the interrogative sentence structure.
-4,,,,,FALSE_POSITIVE,100,The phrase 'really good' is part of a direct quote from a literary text and must not be altered.
-5,,,,,FALSE_POSITIVE,100,The phrase 'Of course' is correctly used as an idiom within a direct quote from a literary text.
-6,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The noun 'sentence' should be plural ('sentences') to agree with the quantifier 'two'.
-7,,,,,FALSE_POSITIVE,100,The word 'gonna' is an intentional informal contraction used within a direct quote from a literary text.
-8,,,,,FALSE_POSITIVE,100,The phrase 'You playing' is an intentional informal omission of 'are' within a direct quote from a literary text.
-9,,,,,PARSING_ERROR,100,"'liggins' is a misspelling of the proper noun 'Higgins' and is missing capitalization, indicating a parsing error."
-10,,,,,PARSING_ERROR,100,"""Vhat"" is a clear parsing error for ""What""."
-11,,,,,PARSING_ERROR,95,"""creanis"" appears to be a parsing error for a word like ""create"" or ""creates"" in the context of the sentence."
-12,,,,,ABSOLUTE_GRAMMATICAL_ERROR,90,"""by the he uses"" is grammatically incorrect and requires a noun after ""the""."
-13,,,,,PARSING_ERROR,100,"The repetition ""A A"" is a parsing error, likely missing a colon or hyphen."
-14,,,,,FALSE_POSITIVE,100,"""were favour so"" is a correct archaic/poetic usage within a Shakespearean quote."
-15,,,,,SPELLING_ERROR,100,"""maybe"" should be two words, ""may be"", when used as a verb phrase."
-16,,,,,STYLISTIC_PREFERENCE,80,"The comma before ""and"" is a stylistic choice when joining two independent clauses, and its omission here does not impede clarity."
-17,,,,,PARSING_ERROR,95,"""well chosen"" should be hyphenated as ""well-chosen"" when used as a compound adjective before a noun."
-18,,,,,STYLISTIC_PREFERENCE,80,"The comma before ""but"" is a stylistic choice when joining two independent clauses, and its omission here does not impede clarity."
+0,5,were,"...n buds appear. Sickness is catching. O, **were** favour so, Yours would I catch, fair He...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The word 'were' is correctly used in this Shakespearean quote, representing an archaic subjunctive mood."
+1,5,"""","...                |     | |  | (a) | away?**""** | Which of the following is the best de...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The highlighted closing quotation mark is correctly placed after 'away?'.
+2,5,"""","...he best definition of Hermia's question **""**Whither in this extract? | [1] | |  |  |...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The highlighted opening quotation mark is correctly placed before 'Whither'.
+3,6,does,...ole extract. What impressions of Helena **does** the writer |            | [4] | |------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'does' is grammatically correct in the interrogative sentence structure.
+4,10,really good,"...life, pretending to be wicked and being **really good** all the time. That  would be hypocrisy....",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'really good' is part of a direct quote from a literary text and must not be altered.
+5,10,course,...** *(looks at her in amazement)* Oh! Of **course** I have been rather  reckless.  **Cecily...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'Of course' is correctly used as an idiom within a direct quote from a literary text.
+6,12,sentence,...           |       |     | | Select two **sentence**. Write your answers in the spaces below...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The noun 'sentence' should be plural ('sentences') to agree with the quantifier 'two'.
+7,16,gonna,"...s? Aren't you a demon on the table? I'm **gonna** thrash him. You playing, Musty?  | (a) ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'gonna' is an intentional informal contraction used within a direct quote from a literary text.
+8,16,You playing,"...mon on the table? I'm gonna thrash him. **You playing**, Musty?  | (a) | What is the word class...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The phrase 'You playing' is an intentional informal omission of 'are' within a direct quote from a literary text.
+9,23,liggins,"...------------------------------------  | **liggins** describes Eliza as being ""as ugly as th...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'liggins' is a misspelling of the proper noun 'Higgins' and is missing capitalization, indicating a parsing error."
+10,23,Vhat,"...a as being ""as ugly as the very devil"". **Vhat** literary technique is used in this line...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"""Vhat"" is a clear parsing error for ""What""."
+11,23,creanis,... impressions of Higgins does the writer **creanis** extract?                           | at...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"""creanis"" appears to be a parsing error for a word like ""create"" or ""creates"" in the context of the sentence."
+12,24,the he,...hown |     |                  | |  | by **the he** uses to try and get rid of her. |  |  |...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,"""by the he uses"" is grammatically incorrect and requires a noun after ""the""."
+13,40,A A,...--------------------------  # **Section **A A** Midsummer Night's Dream – William Shake...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The repetition ""A A"" is a parsing error, likely missing a colon or hyphen."
+14,41,were,"...>she wishes she were more like Hermia: ""**were** favour so, / Yours would I catch""</li><...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""were favour so"" is a correct archaic/poetic usage within a Shakespearean quote."
+15,41,she maybe concealing,"...rmia: ""your tongue's sweet air""</li><li>**she maybe concealing** her jealousy with her exaggerated flatt...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"""maybe"" should be two words, ""may be"", when used as a verb phrase."
+16,55,and,"... quite yourself"" – when you're not upset** and** you're feeling calm / composed / more l...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The comma before ""and"" is a stylistic choice when joining two independent clauses, and its omission here does not impede clarity."
+17,65,well chosen,"...nd perspectives, drawing confidently on **well chosen** evidence from the text(s).</li></ul> | ...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"""well chosen"" should be hyphenated as ""well-chosen"" when used as a compound adjective before a noun."
+18,69,but,...uation and spelling have frequent errors** but** meaning is largely clear.</li></ul> | |...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The comma before ""but"" is a stylistic choice when joining two independent clauses, and its omission here does not impede clarity."
 19,69,but,...uation and spelling have frequent errors but meaning is largely clear.</li></ul> | |...,,ErrorCategory.FALSE_POSITIVE,90,"The conjunction ""but"" is used correctly to introduce a contrasting clause."

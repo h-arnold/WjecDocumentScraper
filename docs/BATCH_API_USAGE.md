@@ -258,6 +258,80 @@ except LLMProviderError as e:
 - The `batch_generate()` method is **not supported** and raises `NotImplementedError`
 - Batch jobs are provider-specific - you must use the same provider for creation and fetching
 
+## Refetching Recently Completed Batches
+
+Sometimes you may want to reprocess batches that were recently completed (for example, to test a new prompt or fix a processing issue). The `batch-fetch` command supports a `--refetch-hours` option that allows you to refetch and reprocess batches completed within a specified time window.
+
+### How It Works
+
+When you use `--refetch-hours`, the system:
+1. Identifies all batch jobs completed within the specified number of hours
+2. Resets their status from "completed" back to "pending" in the tracking file
+3. Removes their completion markers from the state file
+4. Processes them as if they were being fetched for the first time
+
+This means the batch results will be re-fetched from the API and reprocessed through the validation and persistence logic.
+
+### Usage
+
+```bash
+# Refetch batches completed in the last 6 hours
+python -m src.llm_review.llm_categoriser batch-fetch --refetch-hours 6
+
+# Refetch batches completed in the last 24 hours
+python -m src.llm_review.llm_categoriser batch-fetch --refetch-hours 24
+
+# Refetch batches completed in the last 30 minutes
+python -m src.llm_review.llm_categoriser batch-fetch --refetch-hours 0.5
+```
+
+### Example Output
+
+```
+Found 3 job(s) completed within last 6.0 hour(s)
+Reset batches/abc123... (Geography/gcse-geography.md batch 0) to pending
+Reset batches/def456... (History/gcse-history.md batch 1) to pending
+Reset batches/ghi789... (Math/gcse-math.md batch 0) to pending
+
+Checking 3 job(s)...
+
+Job batches/abc123... (Geography/gcse-geography.md batch 0)
+  Status: SUCCEEDED (still pending)
+  Saved 10 result(s) to Documents/Geography/language-issues/gcse-geography.jsonl
+
+Job batches/def456... (History/gcse-history.md batch 1)
+  Status: SUCCEEDED (still pending)
+  Saved 15 result(s) to Documents/History/language-issues/gcse-history.jsonl
+
+Job batches/ghi789... (Math/gcse-math.md batch 0)
+  Status: SUCCEEDED (still pending)
+  Saved 8 result(s) to Documents/Math/language-issues/gcse-math.jsonl
+
+============================================================
+Summary:
+  Checked: 3
+  Completed: 3
+  Failed: 0
+  Still pending: 0
+  Refetched: 3
+============================================================
+```
+
+### Use Cases
+
+- **Testing prompt changes**: Reprocess recent batches with a modified prompt to see how results change
+- **Fixing processing bugs**: If you discover a bug in validation or persistence logic, refetch recent batches to correct the data
+- **Re-validating results**: Double-check recent categorizations if you're not confident in the quality
+- **Recovering from errors**: If some batches failed during initial processing, refetch them after fixing the issue
+
+### Important Notes
+
+- The `--refetch-hours` parameter accepts floating-point values (e.g., `0.5` for 30 minutes)
+- Only jobs with status "completed" will be refetched; pending and failed jobs are not affected
+- The time window is calculated from the job's `created_at` timestamp
+- Refetching does not create new API batch jobs; it re-fetches existing results from already-completed jobs
+- Cannot be combined with `--job-names` or `--check-all-pending` (use one method at a time)
+
 ## Best Practices
 
 1. **Store job metadata**: Save the provider name and job name immediately after creation

@@ -1,22 +1,22 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,85,The word 'of' is often superfluous after 'outside' in formal writing; 'outside supervised activities' is more concise.
-1,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,"The singular subject 'The marking scheme' requires the singular verb 'is', not 'are'."
-2,,,,,STYLISTIC_PREFERENCE,80,The idiom 'independently of' is generally preferred over 'independently from' in UK English.
-3,,,,,SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
-4,,,,,SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
-5,,,,,SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
-6,,,,,PARSING_ERROR,95,"When '3 hour' functions as a compound adjective modifying 'session', it should be hyphenated as '3-hour'."
-7,,,,,SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
-8,,,,,SPELLING_ERROR,100,"The phrase should be 'at least three', not 'a least three'."
-9,,,,,STYLISTIC_PREFERENCE,80,"While grammatically correct, 'all the points' is often more concise and stylistically preferred over 'ALL of the points' in formal writing."
-10,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-11,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-12,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-13,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-14,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-15,,,,,SPELLING_ERROR,95,"In UK English, the correct spelling is 'skilfully' with a double 'l'."
-16,,,,,SPELLING_ERROR,95,"In UK English, the correct spelling is 'colours' with 'ou', not 'colors'."
-17,,,,,SPELLING_ERROR,95,"In UK English, the correct spelling is 'skilfully' with a double 'l'."
-18,,,,,SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
-19,,,,,PARSING_ERROR,100,"A space is missing between 'toasting' and the opening parenthesis, indicating a likely parsing error during conversion."
-20,,,,,FALSE_POSITIVE,100,The parenthesis is correctly used to provide an explanation for 'whisking' and is not an error.
+0,4,outside of,...cess evidence they have been developing **outside of** supervised activities.  #### **Authenti...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,85,The word 'of' is often superfluous after 'outside' in formal writing; 'outside supervised activities' is more concise.
+1,4,are,... The marking scheme for this assessment **are** included in the candidate pack.  All ma...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,"The singular subject 'The marking scheme' requires the singular verb 'is', not 'are'."
+2,9,independently from,...ive you.  It is important that you work **independently from** other candidates and the work produced ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,The idiom 'independently of' is generally preferred over 'independently from' in UK English.
+3,10,trialing,"... work should show evidence of research, **trialing** of dishes, selection of dishes, justifi...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
+4,10,trialing,...gation of your chosen brief (to include **trialing** and testing)  Task 2 (a) - Selection an...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
+5,11,trialing,...vestigate your chosen brief (to include **trialing** and testing). |  | Supervision: Direct ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
+6,14,3 hour,"...iments, as appropriate, within a single **3 hour** session. | Photographic evidence of fin...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"When '3 hour' functions as a compound adjective modifying 'session', it should be hyphenated as '3-hour'."
+7,18,trialing,...nvestigate the chosen brief (to include **trialing** and testing).  Research should link to ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The correct UK English spelling is 'trialling' with a double 'l', not 'trialing'."
+8,19,a,...linked to the chosen brief and includes **a** least three suitable factors that influ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,"The phrase should be 'at least three', not 'a least three'."
+9,21,ALL of the,"...niments, as appropriate, which includes **ALL of the** points referred to above, in the bullet...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While grammatically correct, 'all the points' is often more concise and stylistically preferred over 'ALL of the points' in formal writing."
+10,22,credit worthy,...                         |  | | 0 | Not **credit worthy** or not attempted.                      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+11,24,credit worthy,...                            | | 0 | Not **credit worthy** or not attempted.                      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+12,27,credit worthy,...              | |                 | Not **credit worthy** or not attempted.                      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+13,28,credit worthy,...                                  | Not **credit worthy** or not attempted.                      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+14,30,credit worthy,...                                  | Not **credit worthy** or not attempted.                      ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+15,31,skillfully,...  |  |  |  | |  | <ul><li>Garnishes are **skillfully** produced</li><li>Food styling has been ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"In UK English, the correct spelling is 'skilfully' with a double 'l'."
+16,31,colors,... | | Band 2 | <ul><li>A good variety of **colors** may be evident within the food outcomes...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"In UK English, the correct spelling is 'colours' with 'ou', not 'colors'."
+17,31,skillfully,... |  | |  | <ul><li>Garnishes are mostly **skillfully** produced</li></ul> |  |  |  |  |  |  | ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"In UK English, the correct spelling is 'skilfully' with a double 'l'."
+18,35,credit worthy,...--------------  **0 Award 0 marks** Not **credit worthy** or not attempted.  ![](_page_35_Picture...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The compound adjective 'creditworthy' should be written as a single word in UK English.
+19,37,(,...*\***  • **tenderising\***  • **toasting**(**nuts or seeds) \*\*** • **weighing\*\***...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"A space is missing between 'toasting' and the opening parenthesis, indicating a likely parsing error during conversion."
+20,37,(,... \*\*** • **weighing\*\***  • **whisking**(**aeration)\*\*\***  • **zesting\***  • re...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The parenthesis is correctly used to provide an explanation for 'whisking' and is not an error.

@@ -1,27 +1,27 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,"The word 'Macronutrients' is duplicated, which is a clear error in the text."
-1,,,,,PARSING_ERROR,100,'Water-soluble' should be hyphenated as a compound adjective modifying 'vitamins'.
-2,,,,,PARSING_ERROR,100,'Sugar-free' should be hyphenated as a compound adjective modifying 'orange squash'.
-3,,,,,PARSING_ERROR,95,"There is an extraneous closing parenthesis after 'd', making the phrase 'Part 'd')''."
-4,,,,,PARSING_ERROR,95,"There is an extraneous single quote at the end of 'Part 'd')'', which should be removed."
-5,,,,,PARSING_ERROR,95,"There is an extraneous closing parenthesis after 'd', making the phrase 'Part 'd')''."
-6,,,,,PARSING_ERROR,95,"There is an extraneous single quote at the end of 'Part 'd')'', which should be removed."
-7,,,,,STYLISTIC_PREFERENCE,70,'Fruit and nut' could optionally be hyphenated as 'fruit-and-nut' when used as a compound adjective for improved clarity.
-8,,,,,FALSE_POSITIVE,100,The word 'notes' is correctly used as a noun referring to the column in the table.
-9,,,,,FALSE_POSITIVE,100,The word 'notes' is correctly used as a noun referring to the column in the table.
-10,,,,,STYLISTIC_PREFERENCE,80,"While 'so that' is often preferred for clarity, 'so' is grammatically acceptable as a conjunction indicating purpose or result."
-11,,,,,STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
-12,,,,,STYLISTIC_PREFERENCE,75,"While 'cafés' with an accent is traditionally preferred in formal writing, 'cafes' without the accent is widely accepted in modern UK English."
-13,,,,,STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
-14,,,,,FALSE_POSITIVE,95,A comma is not required before 'and' as it does not separate two independent clauses in this interrogative sentence.
-15,,,,,STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
-16,,,,,PARSING_ERROR,90,"'Free-range' should be hyphenated when used as a compound adjective in this context, indicating a likely parsing error from PDF conversion."
-17,,,,,PARSING_ERROR,95,"'Cross-curricular' is a compound adjective that should be hyphenated, indicating a likely parsing error from PDF conversion."
-18,,,,,FALSE_POSITIVE,90,"'Yoghurt' is an acceptable and common spelling in UK English, making the suggestion a false positive."
-19,,,,,STYLISTIC_PREFERENCE,70,"'Subject matter' as a noun is commonly written as two words, making the hyphenation a stylistic preference rather than a strict requirement."
-20,,,,,FALSE_POSITIVE,100,'Yoghurt' is the correct UK English spelling.
-21,,,,,PARSING_ERROR,95,'Micro-organisms' should be hyphenated as a compound noun in UK English.
-22,,,,,STYLISTIC_PREFERENCE,70,The omission of a comma before 'so' is grammatically acceptable and does not hinder clarity in this context.
-23,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,The phrase 'comprising of' is redundant; 'comprising' alone means 'consisting of'.
-24,,,,,PARSING_ERROR,90,'Omega-3' should be hyphenated as a compound term in scientific contexts.
-25,,,,,SPELLING_ERROR,100,The correct spelling for the medical condition is 'Spina bifida' (two words).
+0,8,Macronutrients macronutrients,"... 1.2.1 Learners should know the role of **Macronutrients macronutrients**, including: <ul><li>carbohydrates</li><...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The word 'Macronutrients' is duplicated, which is a clear error in the text."
+1,10,water soluble,...phasise the differences between fat and **water soluble** vitamins and learners need to know that...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Water-soluble' should be hyphenated as a compound adjective modifying 'vitamins'.
+2,11,sugar free,...utter and strawberry jam and a glass of **sugar free** orange squash. - b) Use a nutritional a...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Sugar-free' should be hyphenated as a compound adjective modifying 'orange squash'.
+3,11,Part 'd,...ts you wish the learners to comment on. **Part 'd**)' could be included or removed dependin...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"There is an extraneous closing parenthesis after 'd', making the phrase 'Part 'd')''."
+4,11,',...ish the learners to comment on. Part 'd)**'** could be included or removed depending ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"There is an extraneous single quote at the end of 'Part 'd')'', which should be removed."
+5,12,Part 'd,...ts you wish the learners to comment on. **Part 'd**)' could be included or removed dependin...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"There is an extraneous closing parenthesis after 'd', making the phrase 'Part 'd')''."
+6,12,',...ish the learners to comment on. Part 'd)**'** could be included or removed depending ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"There is an extraneous single quote at the end of 'Part 'd')'', which should be removed."
+7,13,nut,...lad sandwich (4 slices bread) Fruit and **nut** flapjack Apple |  | |                  ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,'Fruit and nut' could optionally be hyphenated as 'fruit-and-nut' when used as a compound adjective for improved clarity.
+8,14,notes,"...ow, adding your initial thoughts in the **notes** column.  | Nutrient | Amount | % of rec...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'notes' is correctly used as a noun referring to the column in the table.
+9,15,notes,"...ow, adding your initial thoughts in the **notes** column.  | Nutrient | Amount | % of rec...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The word 'notes' is correctly used as a noun referring to the column in the table.
+10,16,so,...res careful planning and differentiation** so** learners of all abilities have the info...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"While 'so that' is often preferred for clarity, 'so' is grammatically acceptable as a conjunction indicating purpose or result."
+11,22,micro-organisms,"...ions required for the multiplication of **micro-organisms**: food, warmth, moisture and time. This ...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
+12,23,cafes,...schools and nurseries - restaurants and **cafes**.  Teachers can write case studies linke...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,75,"While 'cafés' with an accent is traditionally preferred in formal writing, 'cafes' without the accent is widely accepted in modern UK English."
+13,24,micro-organisms,"...ions required for the multiplication of **micro-organisms**: food, warmth, moisture and time. Learn...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
+14,24,and,...reduce food waste? - What is irradiation** and** how is it used to preserve food? - Use ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,A comma is not required before 'and' as it does not separate two independent clauses in this interrogative sentence.
+15,25,micro-organisms,"..., with learners investigating the named **micro-organisms**, food sources, incubation period and sy...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,Both 'micro-organisms' and 'microorganisms' are acceptable spellings; the hyphenated form is a stylistic choice consistently used in this document.
+16,26,free range,"... nuts</li><li>reared: factory, organic, **free range**, extensive and intensive. Learners need...",PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"'Free-range' should be hyphenated when used as a compound adjective in this context, indicating a likely parsing error from PDF conversion."
+17,27,crosscurricular,...ers should be encouraged to apply their **crosscurricular** knowledge.  {28}-----------------------...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"'Cross-curricular' is a compound adjective that should be hyphenated, indicating a likely parsing error from PDF conversion."
+18,28,yoghurt,"... jellies, juices   - milk to cheese and **yoghurt**.  Learners should be aware of:  - <span...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"'Yoghurt' is an acceptable and common spelling in UK English, making the suggestion a false positive."
+19,28,subject matter,"...develop a holistic understanding of the **subject matter**. Nutritional value, sensory qualities a...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"'Subject matter' as a noun is commonly written as two words, making the hyphenation a stylistic preference rather than a strict requirement."
+20,28,yoghurt,"... processing e.g. how to make cheese and **yoghurt**, turning fruit into jam, how to make br...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'Yoghurt' is the correct UK English spelling.
+21,43,micro organisms,...ow can we prevent the multiplication of **micro organisms** and prevent food poisoning when handlin...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Micro-organisms' should be hyphenated as a compound noun in UK English.
+22,46,so,...cess of emulsifying fat droplets in milk** so** the cream does not separate. | | Humect...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,The omission of a comma before 'so' is grammatically acceptable and does not hinder clarity in this context.
+23,47,comprising of,...                | A simple carbohydrate **comprising of** one sugar molecule.                    ...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The phrase 'comprising of' is redundant; 'comprising' alone means 'consisting of'.
+24,47,Omega 3,...                                    | | **Omega 3** and omega 6 | Essential fatty acids whi...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,'Omega-3' should be hyphenated as a compound term in scientific contexts.
+25,48,Spinabifida,...g it easier for the body to digest. | | **Spinabifida**                           | A congenita...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The correct spelling for the medical condition is 'Spina bifida' (two words).

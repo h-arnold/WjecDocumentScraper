@@ -293,8 +293,7 @@ class BatchOrchestrator:
     
     def fetch_batch_results(
         self,
-        state: StateManager,
-        report_path: Path,
+        state: CategoriserState,
         *,
         job_names: list[str] | None = None,
         check_all_pending: bool = False,
@@ -486,26 +485,6 @@ class BatchOrchestrator:
         
         if not response:
             print(f"  Warning: Response is empty")
-            return validated_results
-        
-        # Load original issues from CSV for this document
-        try:
-            key = DocumentKey(
-                subject=job_metadata.subject,
-                filename=job_metadata.filename
-            )
-            all_grouped = load_issues(report_path)
-            original_issues = all_grouped.get(key, [])
-            
-            if not original_issues:
-                print(f"  Warning: No original issues found for {key}")
-                return validated_results
-            
-            # Build map of original issues by issue_id
-            issue_map = {issue.issue_id: issue for issue in original_issues}
-            
-        except Exception as e:
-            print(f"  Error loading original issues: {e}")
             return validated_results
         
         # Process each issue in the response

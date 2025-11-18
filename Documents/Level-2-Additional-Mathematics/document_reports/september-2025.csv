@@ -1,8 +1,8 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
-1,,,,,PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
-2,,,,,PARSING_ERROR,100,"The compound adjective 'face-to-face' is missing a hyphen, which is a common parsing error."
-3,,,,,PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
-4,,,,,PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
-5,,,,,STYLISTIC_PREFERENCE,80,The hyphenated form 'Walk-throughs' is acceptable and consistent with 'Specification Walk-Through' used elsewhere in the document.
-6,,,,,SPELLING_ERROR,100,'Wil' is a misspelling of the auxiliary verb 'will'.
+0,0,qualifica,"...unning in parallel, one for the [legacy **qualifica**](https://resources-legacy.wjec.co.uk/Pa...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
+1,0,tion,...s/ResourceByArgs.aspx?subId=38&lvlId=2)[**tion**](https://resources-legacy.wjec.co.uk/Pa...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
+2,1,face-toface,"...spring term, we delivered 12 successful **face-toface** training days. Materials from these ses...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The compound adjective 'face-to-face' is missing a hyphen, which is a common parsing error."
+3,1,qualifica,"...unning in parallel, one for the [legacy **qualifica**](https://resources-legacy.wjec.co.uk/Pa...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
+4,1,tion,...s/ResourceByArgs.aspx?subId=38&lvlId=2)[**tion**](https://resources-legacy.wjec.co.uk/Pa...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'qualification' has been incorrectly split into two parts by a hyperlink due to a parsing error.
+5,2,Walk-throughs,...d our expert presenting teams. | | Exam **Walk-throughs**                                        ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,The hyphenated form 'Walk-throughs' is acceptable and consistent with 'Specification Walk-Through' used elsewhere in the document.
+6,5,wil,"...r the next few years, the English terms **wil** be placed in brackets in the examinatio...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,'Wil' is a misspelling of the auxiliary verb 'will'.

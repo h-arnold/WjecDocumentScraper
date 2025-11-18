@@ -1,15 +1,15 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,FALSE_POSITIVE,100,The double quote is correctly used to open a quoted statement in the question.
-1,,,,,FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
-2,,,,,FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
-3,,,,,FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
-4,,,,,FALSE_POSITIVE,100,"The phrase 'atlantic ocean' is presented as it appears in the original poem, which uses non-standard capitalization as a stylistic choice."
-5,,,,,FALSE_POSITIVE,100,The repetition of 'deep deep' is an intentional poetic device used for emphasis within the poem.
-6,,,,,FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
-7,,,,,SPELLING_ERROR,95,The word 'clichéd' requires an accent mark over the 'e' in UK English to indicate its pronunciation and correct spelling.
-8,,,,,PARSING_ERROR,100,'Well-selected' is a compound adjective and requires a hyphen when preceding the noun it modifies in UK English.
-9,,,,,PARSING_ERROR,100,'Would-be' is a compound adjective and requires a hyphen in UK English.
-10,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,A closing single quotation mark is missing for the poem title 'i wanna be yours'.
+0,9,"""","...-------------------------------  **8.** **""**John Cooper Clarke presents a more posit...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The double quote is correctly used to open a quoted statement in the question.
+1,16,i,...your dust let me be your ford cortina\* **i** will never rust 5 if you like your coff...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
+2,16,i,...teddy bear 15 take me with you anywhere **i** don't care i wanna be yours - let me be...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
+3,16,i,...ours - let me be your electric meter 20 **i** will not run out let me be the electric...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
+4,16,atlantic ocean,... 25 with deep devotion deep as the deep **atlantic ocean** that's how deep is my emotion deep deep...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The phrase 'atlantic ocean' is presented as it appears in the original poem, which uses non-standard capitalization as a stylistic choice."
+5,16,deep deep,...ep is my emotion deep deep deep deep de **deep deep** 30 i don't wanna be hers i wanna be you...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The repetition of 'deep deep' is an intentional poetic device used for emphasis within the poem.
+6,16,i,...ion deep deep deep deep de deep deep 30 **i** don't wanna be hers i wanna be yours  J...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"The lowercase 'i' is an intentional stylistic choice by the poet, John Cooper Clarke, and is consistent within the poem."
+7,20,cliched,"...at the gift is a very familiar, perhaps **cliched** one</li><li>These two words emphasise t...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,The word 'clichéd' requires an accent mark over the 'e' in UK English to indicate its pronunciation and correct spelling.
+8,24,wellselected,...out how meaning is created supported by **wellselected** examples and purposeful textual referen...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Well-selected' is a compound adjective and requires a hyphen when preceding the noun it modifies in UK English.
+9,25,wouldbe,"...cal masculine way, intending to woo his **wouldbe** lover, whereas Duffy's representation o...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,'Would-be' is a compound adjective and requires a hyphen in UK English.
+10,25,',...of the unselfish aspects of love - that **'**i wanna be yours can be seen as presenti...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,A closing single quotation mark is missing for the poem title 'i wanna be yours'.
 11,16,i,...teddy bear 15 take me with you anywhere i don't care i wanna be yours - let me be...,,ErrorCategory.FALSE_POSITIVE,100,The lowercase 'i' for the pronoun is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem.
 12,16,wanna,...ake me with you anywhere i don't care i wanna be yours - let me be your electric mete...,,ErrorCategory.FALSE_POSITIVE,100,The word 'wanna' is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem.
 13,16,i,...ours - let me be your electric meter 20 i will not run out let me be the electric...,,ErrorCategory.FALSE_POSITIVE,100,The lowercase 'i' for the pronoun is a deliberate stylistic choice by the poet John Cooper Clarke within the presented poem.

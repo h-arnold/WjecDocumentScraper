@@ -1,2 +1,2 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'so' is advisable when it connects two independent clauses to improve clarity and flow in formal writing.
+0,2,so,...Feature spotting will gain little credit** so** learners should ensure that they use te...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,85,A comma before 'so' is advisable when it connects two independent clauses to improve clarity and flow in formal writing.

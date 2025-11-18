@@ -1,42 +1,42 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'but' is advisable when connecting two independent clauses to improve clarity and flow in formal writing.
-1,,,,,STYLISTIC_PREFERENCE,80,The phrase 'outside of' is often considered wordy; 'outside' alone is more concise and equally correct.
-2,,,,,FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
-3,,,,,FALSE_POSITIVE,100,'au' is a correct French contraction ('à le') and not an error in this context.
-4,,,,,FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
-5,,,,,FALSE_POSITIVE,100,'informations' is the correct plural form of 'information' in French and not an error in this context.
-6,,,,,FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
-7,,,,,FALSE_POSITIVE,100,'au' is a correct French contraction ('à le') and not an error in this context.
-8,,,,,FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
-9,,,,,FALSE_POSITIVE,100,'a' is the correct third-person singular conjugation of 'avoir' in French ('il y a') and not an error in this context.
-10,,,,,STYLISTIC_PREFERENCE,80,The comma before 'but' is a stylistic choice and not strictly required for clarity in this sentence structure.
-11,,,,,FALSE_POSITIVE,100,"'bu' is the correct past participle of 'boire' in French and is used correctly in the example sentence, which itself illustrates a different type of error."
-12,,,,,FALSE_POSITIVE,100,'a' is the correct form of 'avoir' in 'il y a' and is not an error in itself; the example sentence illustrates a gender agreement error elsewhere.
-13,,,,,ABSOLUTE_GRAMMATICAL_ERROR,95,"The sentence is missing the subject pronoun 'you' after 'when', making it grammatically incomplete."
-14,,,,,FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
-15,,,,,FALSE_POSITIVE,100,'ans' is the correct French word for 'years' and is used correctly in the example sentence.
-16,,,,,FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
-17,,,,,FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
-18,,,,,FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
-19,,,,,FALSE_POSITIVE,100,'mange' is the correct French verb conjugation for 'on' in the present tense and is used correctly in the example sentence.
-20,,,,,FALSE_POSITIVE,100,The French phrase 'bon choix' is grammatically correct and commonly used.
-21,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-22,,,,,FALSE_POSITIVE,100,The French word 'informations' is correctly used in its plural form.
-23,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-24,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-25,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-26,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-27,,,,,FALSE_POSITIVE,100,The French phrase 'bon choix' is grammatically correct and commonly used.
-28,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-29,,,,,FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
-30,,,,,FALSE_POSITIVE,100,"""mange"" is the correct French verb form in this context."
-31,,,,,FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
-32,,,,,FALSE_POSITIVE,100,"""a"" is the correct French verb form in the phrase ""Il y a""."
-33,,,,,FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
-34,,,,,FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
-35,,,,,FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
-36,,,,,STYLISTIC_PREFERENCE,80,"The sentence is grammatically correct as written; adding a comma before 'but' would be a stylistic choice, not a correction."
-37,,,,,PARSING_ERROR,100,"A space is missing between ""Unit 1"" and the opening parenthesis, indicating a parsing error."
-38,,,,,PARSING_ERROR,90,"""pre-prepared"" should be hyphenated as a compound adjective in UK English for clarity."
+0,8,but,...and role play is approximately 2 minutes** but** this will depend on each candidate. The...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,A comma before 'but' is advisable when connecting two independent clauses to improve clarity and flow in formal writing.
+1,10,outside of,...cess evidence they have been developing **outside of** supervised activities.  {11}-----------...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,The phrase 'outside of' is often considered wordy; 'outside' alone is more concise and equally correct.
+2,20,bon choix,"...he following text in French:**  Un très **bon choix** d'hôtels trois étoiles, à cinq minutes ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
+3,22,au,"...a bonne cuisine française, venez manger **au** Restaurant du Marché  #### **Task 1b:**...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'au' is a correct French contraction ('à le') and not an error in this context.
+4,30,bon choix,...ng to buy the item.   - **C'est un très **bon choix**.**  {31}-------------------------------...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
+5,31,informations,...t sport you like.   - **Super voici des **informations** !** - 2. Say which sport you want to do...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'informations' is the correct plural form of 'information' in French and not an error in this context.
+6,32,bon choix,"...ad out the following sentence:  Un très **bon choix** d'hôtels trois étoiles, à cinq minutes ...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
+7,34,au,"...a bonne cuisine française, venez manger **au** Restaurant du Marché.  #### **Task 1b:*...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'au' is a correct French contraction ('à le') and not an error in this context.
+8,34,bon choix,...what food you want to order.   - **Très **bon choix**.** - 4. Ask where the toilets are.   - ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'bon choix' is a correct French phrase and not an error in this context.
+9,36,a,... food you would like to eat.   - **Il y **a** un bon restaurant à côté du musée. Vous...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'a' is the correct third-person singular conjugation of 'avoir' in French ('il y a') and not an error in this context.
+10,39,but,...ntent in appendix B of the specification** but** that fulfils the task requirements.  Wh...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,The comma before 'but' is a stylistic choice and not strictly required for clarity in this sentence structure.
+11,40,bu,"...: demain, J'ai mangé du poisson et j'ai **bu** de l'eau - missing infinitive after con...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"'bu' is the correct past participle of 'boire' in French and is used correctly in the example sentence, which itself illustrates a different type of error."
+12,40,a,...ence: je suis 15 ans - gender:   - il y **a** une parc et une cinéma - contractions: ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'a' is the correct form of 'avoir' in 'il y a' and is not an error in itself; the example sentence illustrates a gender agreement error elsewhere.
+13,44,when,... veux-tu aller voir un film ?** - 1 Say **when** would like to go to watch a film. [1](#...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The sentence is missing the subject pronoun 'you' after 'when', making it grammatically incomplete."
+14,44,:,...up> Qu'est-ce que tu veux faire après ? **:** accept any suitable question  {45}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
+15,45,ans,...table response  <sup>3</sup> J'ai seize **ans** : accept any suitable response  <span i...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'ans' is the correct French word for 'years' and is used correctly in the example sentence.
+16,45,:,...sup> Je dois prendre combien par jour ? **:** accept any suitable question  {46}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
+17,46,:,...p> Le concert commence à quelle heure ? **:** accept any suitable question  {47}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
+18,47,:,...1</sup> Tu vas arriver à quelle heure ? **:** accept any suitable question  <span id=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The colon is correctly used here to separate the example question from its accompanying instruction.
+19,47,mange,"...n id=""page-47-2""></span><sup>3</sup> On **mange** à 19 heures : accept any suitable respo...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,'mange' is the correct French verb conjugation for 'on' in the present tense and is used correctly in the example sentence.
+20,48,bon choix,...em. [4](#page-48-3)   - **C'est un très **bon choix**.**  Look for and reward any valid alter...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French phrase 'bon choix' is grammatically correct and commonly used.
+21,48,:,...tee shirt dans une couleur différente ? **:** accept any suitable question  <span id=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+22,49,informations,.... [1](#page-49-0)   - **Super voici des **informations** !** - 2. Say which sport you want to do...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French word 'informations' is correctly used in its plural form.
+23,49,:,...n><sup>3</sup> Ça coûte/c'est combien ? **:** accept any suitable question  <span id=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+24,49,:,...><sup>4</sup> Je vais retourner lundi ! **:** accept any suitable response  {50}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+25,50,:,...sup>4</sup> Ça coûte combien par nuit ? **:** accept any suitable question  {51}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+26,51,:,...> Est-ce que je dois changer de train ? **:** accept any suitable question  {52}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+27,52,bon choix,...nt to order. [3](#page-52-2)   - **Très **bon choix**.** - 4 Ask where the toilets are. [4](#...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,The French phrase 'bon choix' is grammatically correct and commonly used.
+28,52,:,...ez-vous une table pour deux personnes ? **:** accept any suitable response  <span id=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+29,52,:,...an><sup>4</sup> Où sont les toilettes ? **:** accept any suitable question  {53}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,"The colon is used as a stylistic separator between the example phrase and the instructional text, not as a grammatical error within the French sentence."
+30,53,mange,"...n id=""page-53-2""></span><sup>3</sup> On **mange** où ce soir ? : accept any suitable ques...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""mange"" is the correct French verb form in this context."
+31,53,:,...span><sup>3</sup> On mange où ce soir ? **:** accept any suitable question  <span id=...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
+32,54,a,...like to eat. [3](#page-54-2)   - **Il y **a** un bon restaurant à côté du musée. Vous...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,100,"""a"" is the correct French verb form in the phrase ""Il y a""."
+33,54,:,...-ce qu'il y a de bons restaurants ici ? **:** accept any suitable response  <sup>3</s...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
+34,54,:,.../sup> Je vais partir dans trois jours ? **:** accept any suitable response  {55}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
+35,55,:,...p> Le restaurant ouvre à quelle heure ? **:** accept any suitable question  {56}-----...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,The colon is used correctly to separate the French phrase from the explanatory note.
+36,58,but,...ions.</li><li>Able to express some ideas** but** response is rarely extended.</li><li>Ex...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The sentence is grammatically correct as written; adding a comma before 'but' would be a stylistic choice, not a correction."
+37,69,(,...ures throughout the assessment of Unit 1**(**other than the preprepared bullet points...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"A space is missing between ""Unit 1"" and the opening parenthesis, indicating a parsing error."
+38,69,preprepared,...the assessment of Unit 1(other than the **preprepared** bullet points for the presentation and ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,90,"""pre-prepared"" should be hyphenated as a compound adjective in UK English for clarity."
 39,69,(,...ures throughout the assessment of Unit 1(other than the preprepared bullet points...,,ErrorCategory.PARSING_ERROR,95,A space is missing between 'Unit 1' and the opening parenthesis.
 40,69,preprepared,...the assessment of Unit 1(other than the preprepared bullet points for the presentation and ...,,ErrorCategory.STYLISTIC_PREFERENCE,90,The prefix 'pre-' is redundant as 'prepared' already implies prior action; 'prepared' is more concise and stylistically preferred in formal writing.

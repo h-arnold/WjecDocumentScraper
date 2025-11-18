@@ -1,22 +1,22 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,PARSING_ERROR,95,"The compound adjective 'pre-released' should be hyphenated for clarity in UK English, consistent with the previous sentence."
-1,,,,,STYLISTIC_PREFERENCE,70,"While 'Vitamin D' is understandable, 'vitamin D' is the more common and scientifically preferred capitalisation for the nutrient."
-2,,,,,PARSING_ERROR,100,"The colon appears to be a stray character, likely a formatting error from conversion, and should be removed or integrated into a proper sentence structure."
-3,,,,,PARSING_ERROR,100,`&#x27;` is an HTML entity that should be rendered as a single quote.
-4,,,,,PARSING_ERROR,100,`&#x27;` is an HTML entity that should be rendered as a single quote.
-5,,,,,PARSING_ERROR,100,"'Qur' is part of 'Qur'an', which has been incorrectly split and rendered due to a parsing error."
-6,,,,,PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote, forming 'Qur'an'."
-7,,,,,POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,'Buy One Get One Free' functions as a compound adjective modifying 'offers' and would benefit from hyphenation for clarity in a formal document.
-8,,,,,PARSING_ERROR,95,'Cost-effective' is a standard hyphenated compound adjective in UK English.
-9,,,,,PARSING_ERROR,100,"The colon appears to be a stray character, likely a formatting error from conversion, and should be removed or integrated into a proper sentence structure."
-10,,,,,STYLISTIC_PREFERENCE,80,A comma before 'and' would improve readability but is not strictly necessary for grammatical correctness.
-11,,,,,SPELLING_ERROR,95,"The correct spelling in UK English for the cooking technique is 'Sautéing', not 'Sauteing'."
-12,,,,,SPELLING_ERROR,95,"The correct spelling in UK English for the cooking technique is 'Sautéing', not 'Sauteing'."
-13,,,,,PARSING_ERROR,95,The compound adjective 'classroom-based' requires a hyphen in UK English.
-14,,,,,FALSE_POSITIVE,90,The phrase 'the environment around them' is grammatically correct and clear in its context.
-15,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase 'a learners'' should be 'a learner's' to indicate singular possessive.
-16,,,,,PARSING_ERROR,95,The compound noun 'well-being' requires a hyphen in UK English.
-17,,,,,STYLISTIC_PREFERENCE,80,A comma before 'and' would improve readability but is not strictly necessary for grammatical correctness.
-18,,,,,PARSING_ERROR,100,The word 'research' is incorrectly split due to a formatting error.
-19,,,,,PARSING_ERROR,95,The compound adjective 'gluten-free' requires a hyphen in UK English.
-20,,,,,SPELLING_ERROR,90,The preferred and more common spelling in modern English and medical contexts is 'autoimmune' as a single word.
+0,4,prereleased,...ear. Learners can choose one of the two **prereleased** briefs they would like to complete.  Th...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,"The compound adjective 'pre-released' should be hyphenated for clarity in UK English, consistent with the previous sentence."
+1,7,Vitamin D,"...---  An older person would require more **Vitamin D** and Calcium rich foods such as milk, sp...",PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,70,"While 'Vitamin D' is understandable, 'vitamin D' is the more common and scientifically preferred capitalisation for the nutrient."
+2,7,:,... and prepare and cook their own meals.  **:**  - Nutritional needs across life stages...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The colon appears to be a stray character, likely a formatting error from conversion, and should be removed or integrated into a proper sentence structure."
+3,7,',"...nsume alcohol. Meat and poultry must be **'**halal ', meaning that the animals have b...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,`&#x27;` is an HTML entity that should be rendered as a single quote.
+4,7,',"...lcohol. Meat and poultry must be 'halal **'**, meaning that the animals have been sla...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,`&#x27;` is an HTML entity that should be rendered as a single quote.
+5,7,Qur,...cording to Islamic law as stated in the **Qur** 'an. Muslims will also fast between sun...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"'Qur' is part of 'Qur'an', which has been incorrectly split and rendered due to a parsing error."
+6,7,',...ing to Islamic law as stated in the Qur **'**an. Muslims will also fast between sunri...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"`&#x27;` is an HTML entity that should be rendered as a single quote, forming 'Qur'an'."
+7,8,Buy One Get One,...can make learners aware of supermarkets **Buy One Get One** Free (BOGOF ) offers and reduced cost f...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,80,'Buy One Get One Free' functions as a compound adjective modifying 'offers' and would benefit from hyphenation for clarity in a formal document.
+8,8,cost effective,...foods with a longer shelf life are more **cost effective** due to them being able to be stored for...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,'Cost-effective' is a standard hyphenated compound adjective in UK English.
+9,9,:,...he local economy and food provenance .  **:**  #### **Example activities :**  Learner...,PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The colon appears to be a stray character, likely a formatting error from conversion, and should be removed or integrated into a proper sentence structure."
+10,14,and,.... A range of textures have been provided** and** the lunchbox meets the requirements of ...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,A comma before 'and' would improve readability but is not strictly necessary for grammatical correctness.
+11,18,Sauteing,...ng * | Slicing ** Peeling * Dicing ** | **Sauteing** ** Boiling * | | Chilli con carne with ...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct spelling in UK English for the cooking technique is 'Sautéing', not 'Sauteing'."
+12,18,Sauteing,...g ** | Slicing ** Peeling * Dicing ** | **Sauteing** ** Boiling * | | Apple crumble & custar...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,"The correct spelling in UK English for the cooking technique is 'Sautéing', not 'Sauteing'."
+13,20,classroombased,... the dish. This could be completed as a **classroombased** exercise or be set as a homework task. ...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'classroom-based' requires a hyphen in UK English.
+14,23,the environment around them,"...ed Welsh produce will have an impact on **the environment around them**. By buying locally, it is better for th...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,90,The phrase 'the environment around them' is grammatically correct and clear in its context.
+15,24,a learners,...and how differing lifestyles can affect **a learners**' relationships and well being. | Learne...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The phrase 'a learners'' should be 'a learner's' to indicate singular possessive.
+16,24,well being,...an affect a learners' relationships and **well being**. | Learners will have the opportunity t...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound noun 'well-being' requires a hyphen in UK English.
+17,29,and,...y of the factors listed in Section 3.1.1** and** they will need to be able to provide wr...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,A comma before 'and' would improve readability but is not strictly necessary for grammatical correctness.
+18,33,esearch,"...ers because it will enable them to** r****esearch**, analyse, and present information effec...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,The word 'research' is incorrectly split due to a formatting error.
+19,35,glutenfree,"...to meet specific dietary needs, such as **glutenfree**, vegan, or low-sugar diets. By thinking...",PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'gluten-free' requires a hyphen in UK English.
+20,38,auto-immune,...o 12. | | Coeliac disease | A life-long **auto-immune** disorder that occurs when the body's im...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,The preferred and more common spelling in modern English and medical contexts is 'autoimmune' as a single word.

@@ -56,6 +56,9 @@ Batch API Examples:
   # Fetch specific batch job
   python -m src.llm_review.llm_categoriser batch-fetch --job-names batch-job-123
 
+  # Refetch batches completed in last 6 hours (reprocess them)
+  python -m src.llm_review.llm_categoriser batch-fetch --refetch-hours 6
+
   # List all batch jobs
   python -m src.llm_review.llm_categoriser batch-list
 

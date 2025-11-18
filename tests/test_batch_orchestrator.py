@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import sys
 from pathlib import Path
 from typing import Any, Sequence
@@ -172,7 +173,7 @@ def test_batch_job_tracker_persists_to_file(tmp_path: Path) -> None:
     assert retrieved.job_name == "job-123"
 
 
-def test_batch_orchestrator_process_batch_response_validates_correctly() -> None:
+def test_batch_orchestrator_process_batch_response_validates_correctly(tmp_path: Path) -> None:
     """Test that batch response processing validates correctly."""
     
     tracker = BatchJobTracker(Path("/tmp/test_jobs.json"))
@@ -233,7 +234,7 @@ def test_batch_orchestrator_process_batch_response_validates_correctly() -> None
     assert results[1]["issue_id"] == 2
 
 
-def test_batch_orchestrator_process_batch_response_filters_invalid() -> None:
+def test_batch_orchestrator_process_batch_response_filters_invalid(tmp_path: Path) -> None:
     """Test that batch response processing filters out invalid entries."""
     
     tracker = BatchJobTracker(Path("/tmp/test_jobs.json"))
@@ -295,7 +296,7 @@ def test_batch_orchestrator_process_batch_response_filters_invalid() -> None:
     assert results[0]["issue_id"] == 1
 
 
-def test_batch_orchestrator_process_batch_response_handles_non_list() -> None:
+def test_batch_orchestrator_process_batch_response_handles_non_list(tmp_path: Path) -> None:
     """Test that non-list responses are handled gracefully."""
     
     tracker = BatchJobTracker(Path("/tmp/test_jobs.json"))
@@ -313,7 +314,7 @@ def test_batch_orchestrator_process_batch_response_handles_non_list() -> None:
         subject="Geography",
         filename="gcse-geography.md",
         batch_index=0,
-        issue_ids=[1, 2],
+        issue_ids=[0, 1],
         created_at="2024-01-01T00:00:00Z",
         status="pending",
     )
@@ -331,3 +332,104 @@ def test_batch_orchestrator_process_batch_response_handles_non_list() -> None:
     results = orchestrator._process_batch_response(response, metadata, report_path)
     
     assert len(results) == 0
+
+
+def test_batch_tracker_get_completed_jobs_within_hours(tmp_path: Path) -> None:
+    """Test getting jobs completed within a time window."""
+    from datetime import datetime, timezone, timedelta
+    
+    tracking_file = tmp_path / "jobs.json"
+    tracker = BatchJobTracker(tracking_file)
+    
+    # Create jobs with different timestamps
+    now = datetime.now(timezone.utc)
+    
+    # Job completed 2 hours ago
+    recent_job = BatchJobMetadata(
+        provider_name="dummy",
+        job_name="job-recent",
+        subject="Geography",
+        filename="gcse-geography.md",
+        batch_index=0,
+        issue_ids=[1, 2, 3],
+        created_at=(now - timedelta(hours=2)).isoformat().replace('+00:00', 'Z'),
+        status="completed",
+    )
+    tracker.add_job(recent_job)
+    
+    # Job completed 10 hours ago
+    old_job = BatchJobMetadata(
+        provider_name="dummy",
+        job_name="job-old",
+        subject="History",
+        filename="gcse-history.md",
+        batch_index=0,
+        issue_ids=[4, 5, 6],
+        created_at=(now - timedelta(hours=10)).isoformat().replace('+00:00', 'Z'),
+        status="completed",
+    )
+    tracker.add_job(old_job)
+    
+    # Pending job (should not be returned)
+    pending_job = BatchJobMetadata(
+        provider_name="dummy",
+        job_name="job-pending",
+        subject="Math",
+        filename="gcse-math.md",
+        batch_index=0,
+        issue_ids=[7, 8, 9],
+        created_at=(now - timedelta(hours=1)).isoformat().replace('+00:00', 'Z'),
+        status="pending",
+    )
+    tracker.add_job(pending_job)
+    
+    # Get jobs completed within last 6 hours
+    jobs_within_6h = tracker.get_completed_jobs_within_hours(6.0)
+    
+    assert len(jobs_within_6h) == 1
+    assert jobs_within_6h[0].job_name == "job-recent"
+    
+    # Get jobs completed within last 12 hours
+    jobs_within_12h = tracker.get_completed_jobs_within_hours(12.0)
+    
+    assert len(jobs_within_12h) == 2
+    job_names = {job.job_name for job in jobs_within_12h}
+    assert job_names == {"job-recent", "job-old"}
+    
+    # Get jobs completed within last 1 hour
+    jobs_within_1h = tracker.get_completed_jobs_within_hours(1.0)
+    
+    assert len(jobs_within_1h) == 0
+
+
+def test_state_remove_batch_completion(tmp_path: Path) -> None:
+    """Test removing batch completion from state."""
+    from src.models import DocumentKey
+    
+    state_file = tmp_path / "state.json"
+    state = CategoriserState(state_file)
+    
+    key = DocumentKey(subject="Geography", filename="gcse-geography.md")
+    
+    # Mark some batches as completed
+    state.mark_batch_completed(key, 0, 10)
+    state.mark_batch_completed(key, 1, 10)
+    state.mark_batch_completed(key, 2, 10)
+    
+    assert state.is_batch_completed(key, 0)
+    assert state.is_batch_completed(key, 1)
+    assert state.is_batch_completed(key, 2)
+    
+    # Remove batch 1
+    state.remove_batch_completion(key, 1)
+    
+    assert state.is_batch_completed(key, 0)
+    assert not state.is_batch_completed(key, 1)
+    assert state.is_batch_completed(key, 2)
+    
+    # Verify persistence
+    state2 = CategoriserState(state_file)
+    assert state2.is_batch_completed(key, 0)
+    assert not state2.is_batch_completed(key, 1)
+    assert state2.is_batch_completed(key, 2)
+

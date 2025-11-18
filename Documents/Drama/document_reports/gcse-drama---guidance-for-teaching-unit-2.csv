@@ -1,8 +1,8 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,SPELLING_ERROR,95,The compound verb 'self-evaluate' should be hyphenated in UK English.
-1,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,A comma is required before 'and' when it joins two independent clauses.
-2,,,,,SPELLING_ERROR,95,The compound adjective 'thought-provoking' should be hyphenated when preceding a noun.
-3,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,A comma is required before 'but' when it joins two independent clauses.
-4,,,,,SPELLING_ERROR,100,The word 'he' is a typo and should be 'be' to form the correct phrase 'can be heard'.
-5,,,,,FALSE_POSITIVE,100,'Word document' is a correct and commonly used term.
-6,,,,,SPELLING_ERROR,100,'PowerPoint' is a proper noun and should be capitalized and written as one word.
+0,12,selfevaluate,...groups during the rehearsal process and **selfevaluate** and evaluate the work; this will help d...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound verb 'self-evaluate' should be hyphenated in UK English.
+1,19,and,...in which we live is continually evolving** and** we hold a shared responsibility to embr...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,Adding a comma before 'and' would improve the flow and clarity of the sentence by separating two independent clauses.
+2,19,thought provoking,...and diversity and offer challenging and **thought provoking** scenes for more able learners.</li></ul...,PassCode.LTC,ErrorCategory.PARSING_ERROR,95,The compound adjective 'thought-provoking' should be hyphenated when preceding the noun it modifies.
+3,24,but,...suring that actors are lit appropriately** but** lights are not too bright that there is...,PassCode.LTC,ErrorCategory.POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR,75,Adding a comma before 'but' would improve the flow and clarity of the sentence by separating two independent clauses.
+4,24,he,...rimented with to ensure that actors can **he** heard but also ensuring that the chosen...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,100,The word 'he' is a misspelling and should be 'be' to form the passive voice 'can be heard'.
+5,27,word,.... They could: Work collaboratively on a **word** document through their</li><li>HWB acco...,PassCode.LTC,ErrorCategory.SPELLING_ERROR,90,"'Word document' refers to a document created with Microsoft Word, so 'Word' should be capitalized as a proper noun."
+6,34,power point,"... used in performance. - In portfolio or **power point** form, designers could include their res...",PassCode.LTC,ErrorCategory.SPELLING_ERROR,95,'PowerPoint' is a proper noun and should be capitalized and written as a single word.

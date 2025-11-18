@@ -1,6 +1,6 @@
 issue_id,page_number,issue,highlighted_context,pass_code,error_category,confidence_score,reasoning
-0,,,,,STYLISTIC_PREFERENCE,80,"The comma before 'and' is a stylistic choice when joining two independent clauses, and its omission here does not cause ambiguity."
-1,,,,,ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'to' is a clear grammatical error.
-2,,,,,FALSE_POSITIVE,95,"'ISBN numbers' is a correct and commonly used phrase, not an error."
-3,,,,,FALSE_POSITIVE,95,"'ISBN numbers' is a correct and commonly used phrase, not an error."
-4,,,,,PARSING_ERROR,100,"The HTML entity '&quot;' should be a standard double quote, indicating a parsing error from the source document."
+0,1,and,...ilable online in the summer term of 2025** and** we will provide more information on the...,PassCode.LTC,ErrorCategory.STYLISTIC_PREFERENCE,80,"The comma before 'and' is a stylistic choice when joining two independent clauses, and its omission here does not cause ambiguity."
+1,1,to to,...ummary. The task will be generic enough **to to** allow the assessment of candidates' und...,PassCode.LTC,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,100,The repetition of 'to' is a clear grammatical error.
+2,1,ISBN numbers,...heir learners to study.  #### **Q: Will **ISBN numbers** of the suggested works be provided?**  ...,PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'ISBN numbers' is a correct and commonly used phrase, not an error."
+3,1,ISBN numbers,"...orks be provided?**  A: We will provide **ISBN numbers** for all suggested works at the ""Prepari...",PassCode.LTC,ErrorCategory.FALSE_POSITIVE,95,"'ISBN numbers' is a correct and commonly used phrase, not an error."
+4,2,"""","...band 5, 17-20 marks are available where **""**consistently relevant information is con...",PassCode.LTC,ErrorCategory.PARSING_ERROR,100,"The HTML entity '&quot;' should be a standard double quote, indicating a parsing error from the source document."
