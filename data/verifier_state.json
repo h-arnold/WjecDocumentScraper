@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "subjects": {
+    "Computer-Science": {
+      "gcse-computer-science---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-computer-science---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          7
+        ],
+        "total_issues": 202
+      }
+    }
+  }
+}

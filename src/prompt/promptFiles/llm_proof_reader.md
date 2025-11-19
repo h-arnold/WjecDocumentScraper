@@ -1,29 +1,77 @@
 {{> llm_reviewer_system_prompt}}
 
-{{> authoritative_sources}}
+## Document Under Review
+**Subject:** {{subject}}
+**File:** {{filename}}
 
-## Inputs
+## The Mission
+This is the **Final "Human" Pass**. The document has already been scanned by automated tools.
 
- - The document to review, marked up with page markers like `{N}------------------------------------------------` indicating page breaks.
- - A table of linguistic issues detected by LanguageTool, in markdown format. Each issue includes:
-        - `type`: The type of issue (e.g., "misspelling," "grammar").
-        - `context_from_tool`: A snippet of text surrounding the issue.
-        - `offset`: The character offset of the issue within the context snippet.
-        - `length`: The length of the issue text.
-        - `suggestions`: A list of suggested corrections.
+**Your Goal:** Act as a senior editor. You are looking for "silent" errors—issues that pass a standard spell-check but fail a human reading. Focus on meaning, flow, consistency, and complex grammatical structures.
 
-## Task
+---
 
-Your role is to carefully audit each line in the document you have been provdided. The goal is to identify all linguistic errors, including spelling, grammar, and stylistic issues. You have been provided with a language tool report that has already caught and verified some issues. 
+## 🚫 Negative Constraints (What to IGNORE)
+This document was converted from PDF via OCR. You will likely see conversion artifacts. **Do NOT report the following:**
+* **Hyphenation Issues:** (e.g., "ta- ble", "effec- tive"). Assume a separate script cleans these.
+* **Character Swaps:** (e.g., `1` instead of `l`, `0` instead of `O`) unless it creates a valid but wrong word (e.g., `10` instead of `to`).
+* **Known Issues:** Do not report any issue listed in the **Exclusion List** below.
 
-Your role is to catch issues that it is not capable of identifying. These include, but are not limited to:
+---
 
- - Contextual spelling errors that depend on the surrounding text.
- - Complex grammatical structures that may be misinterpreted by automated tools.
- - Sloppy, unclear or ambiguous phrasing that could be improved for clarity and readability.
- - Inconsistent use of terminology or style, particualrly when it is inconsitent within the document.
- - Multi-lingual issues, especially documents related to Welsh, French, Spanish and German where language_tool has only checked for English words.
+## 🎯 Detection Guidelines
+Scan the text specifically for these high-level issues:
 
-{{> error_descriptions}}
+### 1. Contextual Spelling & Homophones
+* **Atomic Typos:** Words that are spelled correctly but are wrong for the context (e.g., "their" vs "there", "assess" vs "access", "trial" vs "trail").
+* **Homophones:** e.g., "pair" vs "pear", "board" vs "bored".
+* **Proper Noun Accuracy:** Ensure terminology like "Wi-Fi" or "PowerPoint" is capitalized/spelled correctly if standard.
 
-{{> output_format}}
+### 2. Complex Grammar & Syntax
+* **Agreement:** Subject-verb agreement in complex sentences (e.g., "The list of items *are*..." -> should be "*is*").
+* **Dangling Modifiers:** e.g., "Walking down the road, the building came into view." (The building was not walking).
+* **Ambiguity:** Sentences where "it", "this", or "they" have unclear antecedents.
+
+### 3. Consistency (The "Editor's Eye")
+* **Variations:** If the text uses "co-ordinate" on page 1 and "coordinate" on page 5, flag the inconsistency.
+* **Formatting:** Inconsistent capitalization in headers or bullet points.
+
+---
+
+## Output Format
+
+Return a **single JSON array**.
+
+* **issue_id**: Integer, starting at **0** for the first issue you find and incrementing by 1.
+* **error_category**: Select from the list below.
+* **error_string**: The specific word or short phrase containing the error.
+* **context**: The sentence containing the error (plus the preceding sentence if necessary for clarity). **Maximum 2 sentences.**
+* **reasoning**: A concise explanation of why this is an error.
+* **correction**: Your suggested fix.
+
+**Allowed Categories:**
+* `CONTEXTUAL_SPELLING`: Valid words used incorrectly (homophones, wrong word).
+* `COMPLEX_GRAMMAR`: Agreement, tense, or syntactic errors.
+* `CONSISTENCY_ERROR`: Valid in isolation but inconsistent with the rest of the document.
+* `AMBIGUOUS_PHRASING`: Grammatically correct but confusing or clumsy (Stylistic).
+
+**Example Output:**
+```json
+[
+  {
+    "issue_id": 0,
+    "error_category": "CONTEXTUAL_SPELLING",
+    "error_string": "formally",
+    "context": "The students were formally invited to the event. The dress code was formerly announced.",
+    "reasoning": "Context implies 'formerly' (previously), not 'formally' (officially).",
+    "correction": "formerly"
+  },
+  {
+    "issue_id": 1,
+    "error_category": "CONSISTENCY_ERROR",
+    "error_string": "web site",
+    "context": "Visit our web site for details.",
+    "reasoning": "Document uses 'website' (one word) in all other instances.",
+    "correction": "website"
+  }
+]
