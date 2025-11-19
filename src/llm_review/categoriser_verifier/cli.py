@@ -14,6 +14,14 @@ from src.llm.provider_registry import create_provider_chain
 from src.llm.service import LLMService
 
 from ..core.state_manager import StateManager
+from .batch_cli import (
+    add_batch_subparsers,
+    handle_batch_cancel,
+    handle_batch_create,
+    handle_batch_fetch,
+    handle_batch_list,
+    handle_batch_refresh_errors,
+)
 from .runner import VerifierRunner
 
 
@@ -42,6 +50,16 @@ Examples:
   # Dry run (validate data loading only)
   python -m src.llm_review.categoriser_verifier --dry-run
 
+Batch API Examples:
+  # Create batch jobs
+  python -m src.llm_review.categoriser_verifier batch-create
+
+  # Fetch all pending batch results
+  python -m src.llm_review.categoriser_verifier batch-fetch --check-all-pending
+
+  # List all batch jobs
+  python -m src.llm_review.categoriser_verifier batch-list
+
 Environment Variables:
   VERIFIER_BATCH_SIZE        Default batch size (default: 10)
   VERIFIER_MAX_RETRIES       Maximum retries (default: 2)
@@ -55,6 +73,10 @@ Environment Variables:
   LLM_FAIL_ON_QUOTA          When set (true/1/yes/on), exit the run on quota exhaustion (default: true)
         """,
     )
+
+    # Add subparsers for batch commands
+    subparsers = parser.add_subparsers(dest="command", help="Command to run")
+    add_batch_subparsers(subparsers)
 
     # Input/output options
     parser.add_argument(
@@ -148,6 +170,18 @@ def main(args: list[str] | None = None) -> int:
         Exit code (0 for success, 1 for failure)
     """
     parsed_args = parse_args(args)
+
+    # Handle batch subcommands
+    if parsed_args.command == "batch-create":
+        return handle_batch_create(parsed_args)
+    elif parsed_args.command == "batch-fetch":
+        return handle_batch_fetch(parsed_args)
+    elif parsed_args.command == "batch-list":
+        return handle_batch_list(parsed_args)
+    elif parsed_args.command == "batch-refresh-errors":
+        return handle_batch_refresh_errors(parsed_args)
+    elif parsed_args.command == "batch-cancel":
+        return handle_batch_cancel(parsed_args)
 
     # Normalize subject and document filters to sets (case-insensitive)
     subjects = (
