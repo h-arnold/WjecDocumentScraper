@@ -16,8 +16,10 @@
           3,
           4,
           5,
+          6,
           7,
           8,
+          9,
           11,
           12,
           13,
@@ -28,7 +30,7 @@
           19,
           20
         ],
-        "total_issues": 202
+        "total_issues": 7
       },
       "gcse-computer-science---guidance-for-teaching-unit-2.csv": {
         "completed_batches": [
@@ -44,10 +46,11 @@
       },
       "gcse-computer-science---unit-1-understanding-computer-science.csv": {
         "completed_batches": [
+          0,
           1,
           2
         ],
-        "total_issues": 21
+        "total_issues": 10
       },
       "gcse-computer-science---unit-2-computer-programming-pre-released-materials.csv": {
         "completed_batches": [
@@ -65,9 +68,10 @@
       },
       "overview-of-consultation-findings.csv": {
         "completed_batches": [
+          0,
           1
         ],
-        "total_issues": 14
+        "total_issues": 10
       },
       "wjec-gcse-computer-science-specification.csv": {
         "completed_batches": [
@@ -76,6 +80,343 @@
           2
         ],
         "total_issues": 32
+      }
+    },
+    "Art-and-Design": {
+      "gcse-art-and-design---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-art-and-design---guidance-for-teaching.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 10
+      },
+      "gcse-art-and-design---unit-1-non-exam-assessment-pack.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-art-and-design---unit-2-externally-set-assignment.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-art-and-design-specification.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      }
+    },
+    "Business": {
+      "gcse-business---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-business---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-business---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 4
+      },
+      "gcse-business---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 10
+      },
+      "gcse-business---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-business---option-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-business---unit-1-introduction-to-the-business-world.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 1
+      },
+      "gcse-business---unit-2-key-business-considerations-sample.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-business---unit-3-business-strategies-for-success.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 8
+      },
+      "gcse-business-3160-unit-2-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-business-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 7
+      }
+    },
+    "Dance": {
+      "wjec-gcse-dance-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      }
+    },
+    "Design-and-Technology": {
+      "wjec-gcse-design-and-technology-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 6
+      }
+    },
+    "Digital-Media-and-Film": {
+      "wjec-gcse-digital-media-and-film-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      }
+    },
+    "Digital-Technology": {
+      "wjec-gcse-digital-technology-specification.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      }
+    },
+    "Drama": {
+      "gcse-drama---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-drama---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-drama---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 9
+      },
+      "gcse-drama---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-drama---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 1
+      },
+      "gcse-drama---option-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-drama---unit-1-non-exam-assessment-pack-sample.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 6
+      },
+      "gcse-drama---unit-2-non-exam-assessment-pack-sample.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-drama---unit-3-interpreting-theatre.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "total_issues": 8
+      },
+      "gcse-drama-unit-1-nea-assessment-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-drama-unit-2-nea-assessment-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      },
+      "wjec-gcse-drama-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      }
+    },
+    "English-Language-and-Literature": {
+      "april-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-english-language-and-literature---guidance-for-teaching.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "total_issues": 1
+      },
+      "gcse-english-language-and-literature---unit-1-context-and-meaning.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-english-language-and-literature---unit-2-belonging.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-english-language-and-literature---unit-3-influence-and-power.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-english-language-and-literature---unit-4a-motivations.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-english-language-and-literature---unit-4b-motivations.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      },
+      "gcse-english-language-and-literature---unit-5-continuity-and-change.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-english-language-and-literature---unit-6-connections.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 2
+      },
+      "gcse-english-language-and-literature-single-and-double-award---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
       }
     }
   }

@@ -59,6 +59,9 @@ class VerifierPersistenceManager:
 
     def write_aggregated_results(self, output_path: Path) -> Path:
         """Write all accumulated results to a single CSV file.
+        
+        Merges with existing results in the file if it exists, deduplicating
+        by (subject, filename, issue_id) tuple - new results override old ones.
 
         Args:
             output_path: Path to the output CSV file
@@ -68,6 +71,44 @@ class VerifierPersistenceManager:
         """
         if not self.aggregated_results:
             print("No results to write")
+            return output_path
+
+        # Load existing results if file exists
+        existing_results: dict[tuple[str, str, int], dict[str, Any]] = {}
+        if output_path.exists():
+            try:
+                with open(output_path, "r", encoding="utf-8", newline="") as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        try:
+                            key = (
+                                row.get("subject", ""),
+                                row.get("filename", ""),
+                                int(row.get("issue_id", -1)),
+                            )
+                            existing_results[key] = dict(row)
+                        except (ValueError, TypeError):
+                            # Skip rows with invalid issue_id
+                            continue
+                print(f"Loaded {len(existing_results)} existing result(s) from {output_path}")
+            except (OSError, csv.Error) as e:
+                print(f"Warning: Could not load existing results: {e}")
+
+        # Merge new results (overriding any existing entries with same key)
+        for result in self.aggregated_results:
+            try:
+                key = (
+                    result.get("subject", ""),
+                    result.get("filename", ""),
+                    int(result.get("issue_id", -1)),
+                )
+                existing_results[key] = result
+            except (ValueError, TypeError):
+                # Skip results with invalid issue_id
+                continue
+
+        if not existing_results:
+            print("No results to write after merging")
             return output_path
 
         # Ensure parent directory exists
@@ -81,23 +122,17 @@ class VerifierPersistenceManager:
                 writer.writeheader()
 
                 # Sort by subject, filename, issue_id for consistent output
-                sorted_results = sorted(
-                    self.aggregated_results,
-                    key=lambda r: (
-                        r.get("subject", ""),
-                        r.get("filename", ""),
-                        r.get("issue_id", 0),
-                    ),
-                )
+                sorted_keys = sorted(existing_results.keys())
 
-                for result in sorted_results:
+                for key in sorted_keys:
+                    result = existing_results[key]
                     # Extract only the columns we need
                     row = {col: result.get(col, "") for col in CSV_HEADERS}
                     writer.writerow(row)
 
             temp_file.replace(output_path)
             print(
-                f"\nWrote {len(self.aggregated_results)} verified issues to {output_path}"
+                f"\nWrote {len(existing_results)} verified issues to {output_path} ({len(self.aggregated_results)} new/updated)"
             )
 
         except OSError as e:

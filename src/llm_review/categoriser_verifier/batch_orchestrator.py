@@ -394,6 +394,176 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
             "skipped": skipped,
         }
 
+    def fetch_batch_results(
+        self,
+        *,
+        job_names: list[str] | None = None,
+        check_all_pending: bool = False,
+        refetch_hours: float | None = None,
+    ) -> dict[str, Any]:
+        """Fetch results from completed batch jobs.
+        
+        Overrides base method to accumulate results for aggregated CSV output.
+        """
+        # Import persistence manager
+        from .persistence import VerifierPersistenceManager
+        
+        # Create fresh persistence manager for this fetch operation
+        persistence = VerifierPersistenceManager(self.config)
+        
+        # Determine which jobs to check (same logic as base class)
+        if job_names:
+            jobs_to_check = [
+                job for job in self.tracker.get_all_jobs() if job.job_name in job_names
+            ]
+        elif check_all_pending:
+            jobs_to_check = self.tracker.get_pending_jobs()
+        elif refetch_hours is not None:
+            jobs_to_refetch = self.tracker.get_completed_jobs_within_hours(
+                refetch_hours
+            )
+            print(
+                f"Found {len(jobs_to_refetch)} job(s) completed within last {refetch_hours} hour(s)"
+            )
+
+            if not jobs_to_refetch:
+                print("No jobs to refetch")
+                return {
+                    "checked_jobs": 0,
+                    "completed_jobs": 0,
+                    "failed_jobs": 0,
+                    "refetched": 0,
+                }
+
+            for job in jobs_to_refetch:
+                key = DocumentKey(subject=job.subject, filename=job.filename)
+                self.state.remove_batch_completion(key, job.batch_index)
+                self.tracker.update_job_status(job.job_name, "pending", None)
+                print(
+                    f"Reset {job.job_name[:16]}... ({job.subject}/{job.filename} batch {job.batch_index}) to pending"
+                )
+
+            jobs_to_check = jobs_to_refetch
+        else:
+            print(
+                "No jobs specified. Use --job-names, --check-all-pending, or --refetch-hours"
+            )
+            return {"checked_jobs": 0, "completed_jobs": 0, "failed_jobs": 0}
+
+        if not jobs_to_check:
+            print("No jobs to check")
+            return {"checked_jobs": 0, "completed_jobs": 0, "failed_jobs": 0}
+
+        print(f"Checking {len(jobs_to_check)} job(s)...")
+
+        checked = 0
+        completed = 0
+        failed = 0
+        still_pending = 0
+
+        for job_metadata in jobs_to_check:
+            checked += 1
+            job_name = job_metadata.job_name
+
+            print(
+                f"\nJob {job_name[:16]}... ({job_metadata.subject}/{job_metadata.filename} batch {job_metadata.batch_index})"
+            )
+
+            try:
+                status = self.llm_service.get_batch_job_status(
+                    job_metadata.provider_name, job_name
+                )
+
+                if not status.done:
+                    print(f"  Status: {status.state} (still pending)")
+                    still_pending += 1
+                    continue
+
+                if hasattr(status, "error") and status.error:
+                    error_msg = str(status.error)
+                    print(f"  Error: Batch job failed - {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
+                    failed += 1
+                    continue
+
+                results = self.llm_service.fetch_batch_results(
+                    job_metadata.provider_name, job_name
+                )
+
+                if not results or len(results) == 0:
+                    error_msg = "No results returned"
+                    print(f"  Error: {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
+                    failed += 1
+                    continue
+
+                response = results[0]
+
+                validated_results = self._process_batch_response(
+                    response,
+                    job_metadata,
+                )
+
+                if validated_results:
+                    key = DocumentKey(
+                        subject=job_metadata.subject, filename=job_metadata.filename
+                    )
+
+                    # Add to persistence manager (accumulates in memory)
+                    persistence.add_batch_results(key, validated_results)
+                    print(f"  Validated {len(validated_results)} result(s)")
+
+                    # Mark batch as completed in state
+                    total_issues = len(job_metadata.issue_ids)
+                    self.state.mark_batch_completed(
+                        key, job_metadata.batch_index, total_issues
+                    )
+
+                    self.tracker.update_job_status(job_name, "completed")
+                    completed += 1
+                else:
+                    error_msg = "No valid results after processing"
+                    print(f"  Warning: {error_msg}")
+                    self.tracker.update_job_status(job_name, "failed", error_msg)
+                    failed += 1
+
+            except Exception as e:
+                error_msg = str(e)
+                print(f"  Error processing job: {error_msg}")
+                self.tracker.update_job_status(job_name, "failed", error_msg)
+                failed += 1
+                continue
+
+        # Write aggregated results to CSV if we have any
+        if persistence.aggregated_results:
+            output_path = (
+                self.config.aggregated_output_path
+                or Path("Documents/verified-llm-categorised-language-check-report.csv")
+            )
+            persistence.write_aggregated_results(output_path)
+
+        print(f"\n{'=' * 60}")
+        print("Summary:")
+        print(f"  Checked: {checked}")
+        print(f"  Completed: {completed}")
+        print(f"  Failed: {failed}")
+        print(f"  Still pending: {still_pending}")
+        if refetch_hours is not None:
+            print(f"  Refetched: {len(jobs_to_check)}")
+        print(f"{'=' * 60}")
+
+        result = {
+            "checked_jobs": checked,
+            "completed_jobs": completed,
+            "failed_jobs": failed,
+            "still_pending": still_pending,
+        }
+
+        if refetch_hours is not None:
+            result["refetched"] = len(jobs_to_check)
+
+        return result
+
     def _process_batch_response(
         self,
         response: Any,
