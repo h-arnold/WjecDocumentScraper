@@ -36,33 +36,6 @@ Scan the text specifically for these high-level issues:
 * **Variations:** If the text uses "co-ordinate" on page 1 and "coordinate" on page 5, flag the inconsistency.
 * **Formatting:** Inconsistent capitalization in headers or bullet points.
 
----
+{{>llm_proofreader_error_descriptions}}
 
 {{>llm_proofreader_output_format}}
-
-**Allowed Categories:**
-* `CONTEXTUAL_SPELLING`: Valid words used incorrectly (homophones, wrong word).
-* `COMPLEX_GRAMMAR`: Agreement, tense, or syntactic errors.
-* `CONSISTENCY_ERROR`: Valid in isolation but inconsistent with the rest of the document.
-* `AMBIGUOUS_PHRASING`: Grammatically correct but confusing or clumsy (Stylistic).
-
-**Example Output:**
-```json
-[
-  {
-    "issue_id": 0,
-    "error_category": "CONTEXTUAL_SPELLING",
-    "error_string": "formally",
-    "context": "The students were formally invited to the event. The dress code was formerly announced.",
-    "reasoning": "Context implies 'formerly' (previously), not 'formally' (officially).",
-    "correction": "formerly"
-  },
-  {
-    "issue_id": 1,
-    "error_category": "CONSISTENCY_ERROR",
-    "error_string": "web site",
-    "context": "Visit our web site for details.",
-    "reasoning": "Document uses 'website' (one word) in all other instances.",
-    "correction": "website"
-  }
-]

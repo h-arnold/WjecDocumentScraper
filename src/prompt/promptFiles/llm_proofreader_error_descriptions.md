@@ -1,13 +1,16 @@
 ### Error Categories
 
-- `PARSING_ERROR`: Errors likely caused by the conversion from PDF to markdown.
-    - **Examples:** missing hyphens, merged words, stray spacing, words with similar shape to the misspelling e.g. `Oueen` instead of `Queen`, `vntil` instead of `until` or `ves` instead of `yes`.
 - `SPELLING_ERROR`: Incorrect spelling or wrong word form for the context, including incorrect regional spelling variants.
     - **Examples:** `definately` instead of `definitely`, `organise` instead of `organize` in American English context, `affect` instead of `effect`.
+- `CONTEXTUAL_SPELLING: `: Valid words used incorrectly (homophones, wrong word).
+    - **Examples:** `their` vs `there`, `assess` vs `access`, `leaners` vs `learners`.
 - `ABSOLUTE_GRAMMATICAL_ERROR`: Definite grammar breach (agreement, tense, article/preposition misuse, apostrophe misuse) not attributable to style.
 - `POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR`: Grammatically debatable or awkward; improvement advisable but optional. Might be considered 'sloppy' for formal writing.
 - `STYLISTIC_PREFERENCE`: Stylistic suggestion where the original is acceptable.
-- `FALSE_POSITIVE`: Tool misfire; terminology, proper nouns, code, or foreign words that are correct as written.
+- `CONSISTENCY_ERROR`: Valid in isolation but inconsistent with the rest of the document.
+    - **Examples:** Mixing `web site` and `website`, inconsistent capitalisation in headers or bullet points, inconsistent use of initialisms (e.g., `UK` vs `U.K.`).
+- `AMBIGUOUS_PHRASING`: Grammatically correct but confusing, clusmy or unclear in meaning. This is particularly important for areas where precision is critical e.g. terminology definitions, assessment criteria.
+
 
 Always return the enum values exactly as written above (UPPER_SNAKE_CASE).
 
