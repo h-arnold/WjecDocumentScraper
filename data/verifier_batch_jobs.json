@@ -2209,5 +2209,5954 @@
     "created_at": "2025-11-19T15:31:46Z",
     "status": "pending",
     "error_message": null
+  },
+  "batches/ot69uroctsx1vpwjws5m3r7or0q6hhzd3oog": {
+    "provider_name": "gemini",
+    "job_name": "batches/ot69uroctsx1vpwjws5m3r7or0q6hhzd3oog",
+    "subject": "English-Language-and-Literature",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:31:48Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/jcahiw2ulzs2ys2v1bjqkq6zys0frbtfdbnz": {
+    "provider_name": "gemini",
+    "job_name": "batches/jcahiw2ulzs2ys2v1bjqkq6zys0frbtfdbnz",
+    "subject": "English-Language-and-Literature",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:31:49Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/xjc1ji8qdutxpsgyl46ausxfitr9226bgkj5": {
+    "provider_name": "gemini",
+    "job_name": "batches/xjc1ji8qdutxpsgyl46ausxfitr9226bgkj5",
+    "subject": "English-Language-and-Literature",
+    "filename": "september-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:31:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/qn757n4v6p9qipmyut969ia3pj4414xw7ti7": {
+    "provider_name": "gemini",
+    "job_name": "batches/qn757n4v6p9qipmyut969ia3pj4414xw7ti7",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      4,
+      6,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "created_at": "2025-11-19T15:31:52Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/o93g2kna7kok8tjwwjssk342pr57koso9ck1": {
+    "provider_name": "gemini",
+    "job_name": "batches/o93g2kna7kok8tjwwjssk342pr57koso9ck1",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      33,
+      34,
+      37,
+      40,
+      41
+    ],
+    "created_at": "2025-11-19T15:31:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/20limhse82ab2jc2zwjrdp6b3lr3507tf5r9": {
+    "provider_name": "gemini",
+    "job_name": "batches/20limhse82ab2jc2zwjrdp6b3lr3507tf5r9",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      43,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      59
+    ],
+    "created_at": "2025-11-19T15:31:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1xurjjvmxk6lozp2968cnq7qdtueyog6o2j3": {
+    "provider_name": "gemini",
+    "job_name": "batches/1xurjjvmxk6lozp2968cnq7qdtueyog6o2j3",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      60,
+      61,
+      62,
+      63,
+      65,
+      66,
+      67,
+      69,
+      70,
+      72
+    ],
+    "created_at": "2025-11-19T15:31:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8skvzumiu2eybwqx4io4f2exjmajyakautp9": {
+    "provider_name": "gemini",
+    "job_name": "batches/8skvzumiu2eybwqx4io4f2exjmajyakautp9",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      73,
+      74,
+      76,
+      77,
+      83,
+      88,
+      89,
+      114,
+      115,
+      117
+    ],
+    "created_at": "2025-11-19T15:31:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/z8fchshgjo0bulki049ikuv5cazlnljjrmh6": {
+    "provider_name": "gemini",
+    "job_name": "batches/z8fchshgjo0bulki049ikuv5cazlnljjrmh6",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      118,
+      119,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "created_at": "2025-11-19T15:32:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/m7fieknkxo8255dt9wibhytt71jqr6d91srb": {
+    "provider_name": "gemini",
+    "job_name": "batches/m7fieknkxo8255dt9wibhytt71jqr6d91srb",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      130,
+      132,
+      135,
+      137,
+      139,
+      140
+    ],
+    "created_at": "2025-11-19T15:32:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/gy0svk1fy8twfdago7nde9qadbq6y9x5e2ag": {
+    "provider_name": "gemini",
+    "job_name": "batches/gy0svk1fy8twfdago7nde9qadbq6y9x5e2ag",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      17,
+      18
+    ],
+    "created_at": "2025-11-19T15:32:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/k8tvu315j42va1ucpn6l9rc1xi10dqgvay50": {
+    "provider_name": "gemini",
+    "job_name": "batches/k8tvu315j42va1ucpn6l9rc1xi10dqgvay50",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      19,
+      21,
+      23,
+      26
+    ],
+    "created_at": "2025-11-19T15:32:04Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/mc5hwhoujt7lzzyxxnyjomhf79ukocoj075j": {
+    "provider_name": "gemini",
+    "job_name": "batches/mc5hwhoujt7lzzyxxnyjomhf79ukocoj075j",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature-single-and-double-award-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:32:06Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5ws6jqlza2xidkpcdqyyvxm6iw9ojl5mgmm4": {
+    "provider_name": "gemini",
+    "job_name": "batches/5ws6jqlza2xidkpcdqyyvxm6iw9ojl5mgmm4",
+    "subject": "English-Language-and-Literature",
+    "filename": "wjec-gcse-english-language-and-literature-single-and-double-award-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      14,
+      19
+    ],
+    "created_at": "2025-11-19T15:32:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/kbhsdrulk0ob6wxbkxzalilbknubsvqcwnhu": {
+    "provider_name": "gemini",
+    "job_name": "batches/kbhsdrulk0ob6wxbkxzalilbknubsvqcwnhu",
+    "subject": "Food-and-Nutrition",
+    "filename": "appendix-a-chart.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2
+    ],
+    "created_at": "2025-11-19T15:32:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ua4y5jvvj9nhmfjxwpxbj9l1uxhbuypsvfch": {
+    "provider_name": "gemini",
+    "job_name": "batches/ua4y5jvvj9nhmfjxwpxbj9l1uxhbuypsvfch",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "created_at": "2025-11-19T15:32:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/3dgkkgc5379apl11lwajrt7uak8jgjmjo902": {
+    "provider_name": "gemini",
+    "job_name": "batches/3dgkkgc5379apl11lwajrt7uak8jgjmjo902",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:32:13Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/im7793avy1bc96q348uhdkqqar3b9746a6ml": {
+    "provider_name": "gemini",
+    "job_name": "batches/im7793avy1bc96q348uhdkqqar3b9746a6ml",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:32:15Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0vxmkkvw1jd8jmwanqobmre6f13liq1wuv8h": {
+    "provider_name": "gemini",
+    "job_name": "batches/0vxmkkvw1jd8jmwanqobmre6f13liq1wuv8h",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-1.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13,
+      15,
+      16,
+      17,
+      19,
+      21,
+      22,
+      23,
+      24
+    ],
+    "created_at": "2025-11-19T15:32:16Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zxc07b0n2jmocqsgzbt6eitmm27hv6hc9ehq": {
+    "provider_name": "gemini",
+    "job_name": "batches/zxc07b0n2jmocqsgzbt6eitmm27hv6hc9ehq",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-1.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      25
+    ],
+    "created_at": "2025-11-19T15:32:17Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5pfq0x3efey3ffl7baav6bsppjbj6qnk41xu": {
+    "provider_name": "gemini",
+    "job_name": "batches/5pfq0x3efey3ffl7baav6bsppjbj6qnk41xu",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:32:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/vtxk9iizr5wix5svu3v86zina8btsravbpc4": {
+    "provider_name": "gemini",
+    "job_name": "batches/vtxk9iizr5wix5svu3v86zina8btsravbpc4",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-2.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "created_at": "2025-11-19T15:32:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5rb6h1lic06gni8qkb8uqc1bx8yzm5on2msi": {
+    "provider_name": "gemini",
+    "job_name": "batches/5rb6h1lic06gni8qkb8uqc1bx8yzm5on2msi",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:32:23Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/gjzds7w6fw9mon90ji5rp9934amgm6l2lc2t": {
+    "provider_name": "gemini",
+    "job_name": "batches/gjzds7w6fw9mon90ji5rp9934amgm6l2lc2t",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---guidance-for-teaching-unit-3.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "created_at": "2025-11-19T15:32:24Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/x9k5qict2yjnsz6mii9p4ogx17s7ak9dz1hf": {
+    "provider_name": "gemini",
+    "job_name": "batches/x9k5qict2yjnsz6mii9p4ogx17s7ak9dz1hf",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---option-evening-flyer.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:32:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/13ezi2qaljpeqwtp9ubou6fig49g8yav5gpt": {
+    "provider_name": "gemini",
+    "job_name": "batches/13ezi2qaljpeqwtp9ubou6fig49g8yav5gpt",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      9,
+      10,
+      14,
+      15,
+      17,
+      18,
+      19,
+      20,
+      22
+    ],
+    "created_at": "2025-11-19T15:32:27Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/z1h4hdvyrcw7dx5f49b5m8bdxtjxwd8zlhbc": {
+    "provider_name": "gemini",
+    "job_name": "batches/z1h4hdvyrcw7dx5f49b5m8bdxtjxwd8zlhbc",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "created_at": "2025-11-19T15:32:29Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tgbtno1pfk7bfyl03d1ida2oro3tyqpmspn9": {
+    "provider_name": "gemini",
+    "job_name": "batches/tgbtno1pfk7bfyl03d1ida2oro3tyqpmspn9",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-2-food-investigation.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:32:31Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ufzh3ghi4mqkylj5o3jfzz8dp7o70ph8pcw3": {
+    "provider_name": "gemini",
+    "job_name": "batches/ufzh3ghi4mqkylj5o3jfzz8dp7o70ph8pcw3",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-2-non-exam-assessment-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:32:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8f43zzo2exu3cplspgc6g1fpm5d9oblyyk7k": {
+    "provider_name": "gemini",
+    "job_name": "batches/8f43zzo2exu3cplspgc6g1fpm5d9oblyyk7k",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:32:35Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/cnxfvhcczicxe46xtzlppdlp1s64l28qre4i": {
+    "provider_name": "gemini",
+    "job_name": "batches/cnxfvhcczicxe46xtzlppdlp1s64l28qre4i",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "created_at": "2025-11-19T15:32:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zfmylrkvz9sx3ap8twb3jro3lq1wc144jwc0": {
+    "provider_name": "gemini",
+    "job_name": "batches/zfmylrkvz9sx3ap8twb3jro3lq1wc144jwc0",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:32:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zu2s1boor1cej8udf5l1vggyoi3dmv9a9x7q": {
+    "provider_name": "gemini",
+    "job_name": "batches/zu2s1boor1cej8udf5l1vggyoi3dmv9a9x7q",
+    "subject": "Food-and-Nutrition",
+    "filename": "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "created_at": "2025-11-19T15:32:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/gbafvg95e7w0jc9edvwoxssl45y9rp8i6ent": {
+    "provider_name": "gemini",
+    "job_name": "batches/gbafvg95e7w0jc9edvwoxssl45y9rp8i6ent",
+    "subject": "Food-and-Nutrition",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:32:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/udnghaua4ukbm5uidfx9nojduo9ttbqyui1x": {
+    "provider_name": "gemini",
+    "job_name": "batches/udnghaua4ukbm5uidfx9nojduo9ttbqyui1x",
+    "subject": "Food-and-Nutrition",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:32:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zkkom3sv2us5c13cn667as5nrh1lwicgjwh3": {
+    "provider_name": "gemini",
+    "job_name": "batches/zkkom3sv2us5c13cn667as5nrh1lwicgjwh3",
+    "subject": "Food-and-Nutrition",
+    "filename": "resources-for-new-gcse.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1
+    ],
+    "created_at": "2025-11-19T15:32:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/at6q9m4doua6u4atbivyncgmn9ib1mg7643c": {
+    "provider_name": "gemini",
+    "job_name": "batches/at6q9m4doua6u4atbivyncgmn9ib1mg7643c",
+    "subject": "Food-and-Nutrition",
+    "filename": "techniques-summary.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:32:45Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/s0ex4toq4tt2xmg32z3fesvzv2vrq88irngv": {
+    "provider_name": "gemini",
+    "job_name": "batches/s0ex4toq4tt2xmg32z3fesvzv2vrq88irngv",
+    "subject": "Food-and-Nutrition",
+    "filename": "techniques-summary.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:32:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6vrbmsrk5sgemggu6l9thfty7mg3gk5bkjwd": {
+    "provider_name": "gemini",
+    "job_name": "batches/6vrbmsrk5sgemggu6l9thfty7mg3gk5bkjwd",
+    "subject": "Food-and-Nutrition",
+    "filename": "techniques-summary.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "created_at": "2025-11-19T15:32:48Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1z0apd0g561qw8ou78gnz69bqulplap8acf2": {
+    "provider_name": "gemini",
+    "job_name": "batches/1z0apd0g561qw8ou78gnz69bqulplap8acf2",
+    "subject": "Food-and-Nutrition",
+    "filename": "unit-2---work-smarter-not-harder.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "created_at": "2025-11-19T15:32:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/kicbl54n6prv0ycwd69p4jostvxi1aybsjf4": {
+    "provider_name": "gemini",
+    "job_name": "batches/kicbl54n6prv0ycwd69p4jostvxi1aybsjf4",
+    "subject": "Food-and-Nutrition",
+    "filename": "unit-3---presenting-food-outcomes.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:32:52Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/fl6tnoctf0730sajj06kaiioejxuwzq5p28y": {
+    "provider_name": "gemini",
+    "job_name": "batches/fl6tnoctf0730sajj06kaiioejxuwzq5p28y",
+    "subject": "Food-and-Nutrition",
+    "filename": "unit-3---upskilling.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      15
+    ],
+    "created_at": "2025-11-19T15:32:53Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/fbe67s6qq405xon9wxx8rq0z5u4odkdcenvd": {
+    "provider_name": "gemini",
+    "job_name": "batches/fbe67s6qq405xon9wxx8rq0z5u4odkdcenvd",
+    "subject": "Food-and-Nutrition",
+    "filename": "unit-3---upskilling.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "created_at": "2025-11-19T15:32:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yhj82f84ftz9p3nz0f5p0zezkt1y09jgm661": {
+    "provider_name": "gemini",
+    "job_name": "batches/yhj82f84ftz9p3nz0f5p0zezkt1y09jgm661",
+    "subject": "Food-and-Nutrition",
+    "filename": "wjec-gcse-food-and-nutrition-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:32:56Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7bm9oalevsyw4hod0a3sxggql8aycqoac6h6": {
+    "provider_name": "gemini",
+    "job_name": "batches/7bm9oalevsyw4hod0a3sxggql8aycqoac6h6",
+    "subject": "French",
+    "filename": "gcse-french---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      4
+    ],
+    "created_at": "2025-11-19T15:32:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2z5y4scqfjqdkk47xfxrbfq0p19kug83kkyy": {
+    "provider_name": "gemini",
+    "job_name": "batches/2z5y4scqfjqdkk47xfxrbfq0p19kug83kkyy",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "created_at": "2025-11-19T15:33:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/f5yomamfw5y52rpxc9q5qk9c2vmp9vt4end4": {
+    "provider_name": "gemini",
+    "job_name": "batches/f5yomamfw5y52rpxc9q5qk9c2vmp9vt4end4",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:33:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yyskjnesdx1p892km3ki9k2mn474qcvv5uis": {
+    "provider_name": "gemini",
+    "job_name": "batches/yyskjnesdx1p892km3ki9k2mn474qcvv5uis",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:33:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/afx4s3454s8lv18yntakircnju1qpt3gt99f": {
+    "provider_name": "gemini",
+    "job_name": "batches/afx4s3454s8lv18yntakircnju1qpt3gt99f",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-3.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "created_at": "2025-11-19T15:33:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ns8cfaf09of90woqetl6u09zxcyce2yv267p": {
+    "provider_name": "gemini",
+    "job_name": "batches/ns8cfaf09of90woqetl6u09zxcyce2yv267p",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      12,
+      13,
+      17
+    ],
+    "created_at": "2025-11-19T15:33:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/hmogztvteyj32y1vpo6im39uujk4t4887ppu": {
+    "provider_name": "gemini",
+    "job_name": "batches/hmogztvteyj32y1vpo6im39uujk4t4887ppu",
+    "subject": "French",
+    "filename": "gcse-french---guidance-for-teaching-unit-4.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      19,
+      20,
+      22,
+      23,
+      27
+    ],
+    "created_at": "2025-11-19T15:33:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/oozrli718hl34ie7n9x7mt3nfpwayd12t0bj": {
+    "provider_name": "gemini",
+    "job_name": "batches/oozrli718hl34ie7n9x7mt3nfpwayd12t0bj",
+    "subject": "French",
+    "filename": "gcse-french---unit-1-oracy.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      10,
+      13,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "created_at": "2025-11-19T15:33:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2134ve2lbijtzg0zec04a5xs7ffz19q1sa5c": {
+    "provider_name": "gemini",
+    "job_name": "batches/2134ve2lbijtzg0zec04a5xs7ffz19q1sa5c",
+    "subject": "French",
+    "filename": "gcse-french---unit-2-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      5
+    ],
+    "created_at": "2025-11-19T15:33:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ppu18vxsmn18i7xmkehstms1t950dqsram9m": {
+    "provider_name": "gemini",
+    "job_name": "batches/ppu18vxsmn18i7xmkehstms1t950dqsram9m",
+    "subject": "French",
+    "filename": "gcse-french---unit-3-listening.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2
+    ],
+    "created_at": "2025-11-19T15:33:12Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/xrme29tb76qcpms7l3iwuomatwsg6j3koyag": {
+    "provider_name": "gemini",
+    "job_name": "batches/xrme29tb76qcpms7l3iwuomatwsg6j3koyag",
+    "subject": "French",
+    "filename": "gcse-french---unit-4-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      9,
+      18
+    ],
+    "created_at": "2025-11-19T15:33:14Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/nkwnxdfsjbc4lbpwkwh6g4w4ywn4le8v8izq": {
+    "provider_name": "gemini",
+    "job_name": "batches/nkwnxdfsjbc4lbpwkwh6g4w4ywn4le8v8izq",
+    "subject": "French",
+    "filename": "gcse-french--faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      4
+    ],
+    "created_at": "2025-11-19T15:33:16Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/utfxu6odq43p9ijwvqh2tcvc6dq2pt8r7fqe": {
+    "provider_name": "gemini",
+    "job_name": "batches/utfxu6odq43p9ijwvqh2tcvc6dq2pt8r7fqe",
+    "subject": "French",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:33:18Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/v2tjyhgw4ypzwdbq4wdpblf7eiyjdcwu0t42": {
+    "provider_name": "gemini",
+    "job_name": "batches/v2tjyhgw4ypzwdbq4wdpblf7eiyjdcwu0t42",
+    "subject": "French",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10
+    ],
+    "created_at": "2025-11-19T15:33:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/9p8sd0tl5kjq8mlgg9z78xp844kqlozybg10": {
+    "provider_name": "gemini",
+    "job_name": "batches/9p8sd0tl5kjq8mlgg9z78xp844kqlozybg10",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      5,
+      15,
+      24,
+      27,
+      30,
+      32,
+      33,
+      37,
+      41
+    ],
+    "created_at": "2025-11-19T15:33:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yunx78d79amyla525bicct1ezev2eqb2fum3": {
+    "provider_name": "gemini",
+    "job_name": "batches/yunx78d79amyla525bicct1ezev2eqb2fum3",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      49,
+      51,
+      52,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "created_at": "2025-11-19T15:33:23Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/dktde7kgt28oumcmhxx5qg1xltxtqwvly2nj": {
+    "provider_name": "gemini",
+    "job_name": "batches/dktde7kgt28oumcmhxx5qg1xltxtqwvly2nj",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      75,
+      76
+    ],
+    "created_at": "2025-11-19T15:33:25Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1a2fax5pcrrv2jtd42ndoal4y5aaqcccuex2": {
+    "provider_name": "gemini",
+    "job_name": "batches/1a2fax5pcrrv2jtd42ndoal4y5aaqcccuex2",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      78,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "created_at": "2025-11-19T15:33:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/dhwxavx0on2abik675q9oc8iswfdw6djsc2i": {
+    "provider_name": "gemini",
+    "job_name": "batches/dhwxavx0on2abik675q9oc8iswfdw6djsc2i",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      89,
+      96,
+      106,
+      108,
+      109,
+      115,
+      116,
+      118,
+      120,
+      121
+    ],
+    "created_at": "2025-11-19T15:33:28Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/s980qkep6gq2oft4wi8tm4s8pxsen2avag0o": {
+    "provider_name": "gemini",
+    "job_name": "batches/s980qkep6gq2oft4wi8tm4s8pxsen2avag0o",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      123,
+      127,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "created_at": "2025-11-19T15:33:30Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6wwku0a69qp226dpfsdsbdykfn2zs8rj800z": {
+    "provider_name": "gemini",
+    "job_name": "batches/6wwku0a69qp226dpfsdsbdykfn2zs8rj800z",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      148,
+      149,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "created_at": "2025-11-19T15:33:31Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tmaabn9b1vyuxrc5dr89f7zhti8k3haxwsj0": {
+    "provider_name": "gemini",
+    "job_name": "batches/tmaabn9b1vyuxrc5dr89f7zhti8k3haxwsj0",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 7,
+    "issue_ids": [
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177
+    ],
+    "created_at": "2025-11-19T15:33:32Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zhk2xg62brlzobyacd80yab2lyq4e4qr1f37": {
+    "provider_name": "gemini",
+    "job_name": "batches/zhk2xg62brlzobyacd80yab2lyq4e4qr1f37",
+    "subject": "French",
+    "filename": "wjec-gcse-french-specification.csv",
+    "batch_index": 8,
+    "issue_ids": [
+      178,
+      179,
+      180,
+      181,
+      183
+    ],
+    "created_at": "2025-11-19T15:33:34Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/iai3iyne3nci3r7h58x0qbzg8brbj2x28z6w": {
+    "provider_name": "gemini",
+    "job_name": "batches/iai3iyne3nci3r7h58x0qbzg8brbj2x28z6w",
+    "subject": "Geography",
+    "filename": "cylchlythyr-ionawr-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      5,
+      6
+    ],
+    "created_at": "2025-11-19T15:33:35Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/qxp2i3clxbo9uvjv3ww9uex6bmibno483evq": {
+    "provider_name": "gemini",
+    "job_name": "batches/qxp2i3clxbo9uvjv3ww9uex6bmibno483evq",
+    "subject": "Geography",
+    "filename": "fieldwork-opportunities-at-gwersyll-yr-urdd-pentre-ifan.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1
+    ],
+    "created_at": "2025-11-19T15:33:37Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/idwdoo97p72wehirygw4xmkle9am3aegjoyf": {
+    "provider_name": "gemini",
+    "job_name": "batches/idwdoo97p72wehirygw4xmkle9am3aegjoyf",
+    "subject": "Geography",
+    "filename": "gcse-geography---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:33:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/vkeoncsf8w4wpd6p9ffv5auvjwhic0mtqy8r": {
+    "provider_name": "gemini",
+    "job_name": "batches/vkeoncsf8w4wpd6p9ffv5auvjwhic0mtqy8r",
+    "subject": "Geography",
+    "filename": "gcse-geography---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:33:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/fpipwbfnnytv5c3hzd62llnb8vozkubhyz6p": {
+    "provider_name": "gemini",
+    "job_name": "batches/fpipwbfnnytv5c3hzd62llnb8vozkubhyz6p",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      14,
+      15
+    ],
+    "created_at": "2025-11-19T15:33:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ma8xdvulax4ru56nv8h0tj3enoapo8dmi6c8": {
+    "provider_name": "gemini",
+    "job_name": "batches/ma8xdvulax4ru56nv8h0tj3enoapo8dmi6c8",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-1.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      16,
+      17,
+      18,
+      19,
+      24,
+      27,
+      29,
+      33,
+      34,
+      37
+    ],
+    "created_at": "2025-11-19T15:33:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0v85ekawc589u6diyd7yrtr9pt1j6ij64hcl": {
+    "provider_name": "gemini",
+    "job_name": "batches/0v85ekawc589u6diyd7yrtr9pt1j6ij64hcl",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-1.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      38,
+      39,
+      40,
+      41,
+      43,
+      44,
+      45,
+      46
+    ],
+    "created_at": "2025-11-19T15:33:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/xpmcznour87iy9xrlqqa5so39yg08srg7bln": {
+    "provider_name": "gemini",
+    "job_name": "batches/xpmcznour87iy9xrlqqa5so39yg08srg7bln",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:33:46Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/niy9r184262svjz5idkluhp09tbaaxm0raek": {
+    "provider_name": "gemini",
+    "job_name": "batches/niy9r184262svjz5idkluhp09tbaaxm0raek",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-2.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      22
+    ],
+    "created_at": "2025-11-19T15:33:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/e9ssirizjiqsiusawv4so47s36czfh7oc7ph": {
+    "provider_name": "gemini",
+    "job_name": "batches/e9ssirizjiqsiusawv4so47s36czfh7oc7ph",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-2.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      23,
+      25,
+      26
+    ],
+    "created_at": "2025-11-19T15:33:49Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/71mu6hbfjpltendre04ttvlaqxk9zeafddau": {
+    "provider_name": "gemini",
+    "job_name": "batches/71mu6hbfjpltendre04ttvlaqxk9zeafddau",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      12,
+      13,
+      15
+    ],
+    "created_at": "2025-11-19T15:33:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2rtitfb561xa0gmnoolj23qdjf778snzrhzj": {
+    "provider_name": "gemini",
+    "job_name": "batches/2rtitfb561xa0gmnoolj23qdjf778snzrhzj",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-3.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      17,
+      18,
+      27,
+      31,
+      35,
+      36,
+      38,
+      39,
+      40,
+      41
+    ],
+    "created_at": "2025-11-19T15:33:52Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6cr79cgz2njlsiwsun2yhenpf8eii0itf8n1": {
+    "provider_name": "gemini",
+    "job_name": "batches/6cr79cgz2njlsiwsun2yhenpf8eii0itf8n1",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-3.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      49,
+      50,
+      51,
+      54,
+      55
+    ],
+    "created_at": "2025-11-19T15:33:53Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/paish3d1wvul56zzesqisiqfpre4eml9g7aw": {
+    "provider_name": "gemini",
+    "job_name": "batches/paish3d1wvul56zzesqisiqfpre4eml9g7aw",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-3.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "created_at": "2025-11-19T15:33:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/eamhxaaspz33j6t36pqn2unpix8v6mj6qq6c": {
+    "provider_name": "gemini",
+    "job_name": "batches/eamhxaaspz33j6t36pqn2unpix8v6mj6qq6c",
+    "subject": "Geography",
+    "filename": "gcse-geography---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:33:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/qefzcl6oc2jkiqf2j70bz7o8o8j5yupfbmtt": {
+    "provider_name": "gemini",
+    "job_name": "batches/qefzcl6oc2jkiqf2j70bz7o8o8j5yupfbmtt",
+    "subject": "Geography",
+    "filename": "gcse-geography---guided-learning-hours-table.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:33:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5ex69ps0plcu1ii4izb20qnknvuvac232yrk": {
+    "provider_name": "gemini",
+    "job_name": "batches/5ex69ps0plcu1ii4izb20qnknvuvac232yrk",
+    "subject": "Geography",
+    "filename": "gcse-geography---unit-1-our-physical-and-human-world.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:34:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/p1hv0f5wblohujculjl2qa4h4w27xcq00hfj": {
+    "provider_name": "gemini",
+    "job_name": "batches/p1hv0f5wblohujculjl2qa4h4w27xcq00hfj",
+    "subject": "Geography",
+    "filename": "gcse-geography---unit-1-our-physical-and-human-world.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "created_at": "2025-11-19T15:34:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/sh8wawidi92gudt3dulvgr3mnbkanfkliqj9": {
+    "provider_name": "gemini",
+    "job_name": "batches/sh8wawidi92gudt3dulvgr3mnbkanfkliqj9",
+    "subject": "Geography",
+    "filename": "gcse-geography---unit-1-our-physical-and-human-world.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "created_at": "2025-11-19T15:34:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/uda3dffoa4w2dxw9w4uos79ig3ron6ns0ef0": {
+    "provider_name": "gemini",
+    "job_name": "batches/uda3dffoa4w2dxw9w4uos79ig3ron6ns0ef0",
+    "subject": "Geography",
+    "filename": "gcse-geography---unit-3-our-dynamic-and-diverse-world.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      11,
+      15
+    ],
+    "created_at": "2025-11-19T15:34:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1p273r0e49ldnt96y3jh12lf0qydou1hmhaz": {
+    "provider_name": "gemini",
+    "job_name": "batches/1p273r0e49ldnt96y3jh12lf0qydou1hmhaz",
+    "subject": "Geography",
+    "filename": "gcse-geography---unit-3-our-dynamic-and-diverse-world.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "created_at": "2025-11-19T15:34:06Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zgl8i41i1djg0viawlsp6xcpqnexnxwpxtxb": {
+    "provider_name": "gemini",
+    "job_name": "batches/zgl8i41i1djg0viawlsp6xcpqnexnxwpxtxb",
+    "subject": "Geography",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:34:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/st60ex1dlnp10feerqiqhe4x81qgni1h33gy": {
+    "provider_name": "gemini",
+    "job_name": "batches/st60ex1dlnp10feerqiqhe4x81qgni1h33gy",
+    "subject": "Geography",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:34:09Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/p5qw2x7yf6qpnbprwgttjwvolz5tthnuscen": {
+    "provider_name": "gemini",
+    "job_name": "batches/p5qw2x7yf6qpnbprwgttjwvolz5tthnuscen",
+    "subject": "Geography",
+    "filename": "wjec-gcse-geography-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:34:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/nid26xl7t4r3389kxhmn7gis9v97tj5w4z30": {
+    "provider_name": "gemini",
+    "job_name": "batches/nid26xl7t4r3389kxhmn7gis9v97tj5w4z30",
+    "subject": "Geography",
+    "filename": "wjec-gcse-geography-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      22,
+      23,
+      24
+    ],
+    "created_at": "2025-11-19T15:34:12Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/l353k7w3245d9ojfvcstn3ke44o10u23msqx": {
+    "provider_name": "gemini",
+    "job_name": "batches/l353k7w3245d9ojfvcstn3ke44o10u23msqx",
+    "subject": "Geography",
+    "filename": "wjec-gcse-geography-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      26,
+      29,
+      30
+    ],
+    "created_at": "2025-11-19T15:34:14Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ievcpsesicxwagjl98bzlw1vv58ps9i5i3vx": {
+    "provider_name": "gemini",
+    "job_name": "batches/ievcpsesicxwagjl98bzlw1vv58ps9i5i3vx",
+    "subject": "Geography",
+    "filename": "wjec-gcse-geography-unit-2-external-nea-handbook.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "created_at": "2025-11-19T15:34:16Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1fpjqoitct9gl8mjvvbtv84qjw92www526fu": {
+    "provider_name": "gemini",
+    "job_name": "batches/1fpjqoitct9gl8mjvvbtv84qjw92www526fu",
+    "subject": "Geography",
+    "filename": "wjec-gcse-geography-unit-4-internal-nea-handbook.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:34:17Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0yku2081l312fi68i31sgl7a16awh5xffd3c": {
+    "provider_name": "gemini",
+    "job_name": "batches/0yku2081l312fi68i31sgl7a16awh5xffd3c",
+    "subject": "German",
+    "filename": "gcse-german---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2
+    ],
+    "created_at": "2025-11-19T15:34:18Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6hzpwjyqfgbr0hfq6sngge0jm3ej90wz5bg0": {
+    "provider_name": "gemini",
+    "job_name": "batches/6hzpwjyqfgbr0hfq6sngge0jm3ej90wz5bg0",
+    "subject": "German",
+    "filename": "gcse-german---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "created_at": "2025-11-19T15:34:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/l2bae3mi89gl9pa7rybjf4ohwzfgwph8bc45": {
+    "provider_name": "gemini",
+    "job_name": "batches/l2bae3mi89gl9pa7rybjf4ohwzfgwph8bc45",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:34:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/qqzokztfwjxhm3usai46eqkfncir58h21tm0": {
+    "provider_name": "gemini",
+    "job_name": "batches/qqzokztfwjxhm3usai46eqkfncir58h21tm0",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-1.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:34:22Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/r8xnuzoi2gsvlr4is3sqsybsydbbc72dknrk": {
+    "provider_name": "gemini",
+    "job_name": "batches/r8xnuzoi2gsvlr4is3sqsybsydbbc72dknrk",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "created_at": "2025-11-19T15:34:23Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/a5fk2jwcuv0a2u71xx2i5j3i4c62giwkz1ij": {
+    "provider_name": "gemini",
+    "job_name": "batches/a5fk2jwcuv0a2u71xx2i5j3i4c62giwkz1ij",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "created_at": "2025-11-19T15:34:25Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/c5m6ah71r3l6qjas1vsvohp9ses83jw6zsuq": {
+    "provider_name": "gemini",
+    "job_name": "batches/c5m6ah71r3l6qjas1vsvohp9ses83jw6zsuq",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      14
+    ],
+    "created_at": "2025-11-19T15:34:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/av0ui66kxz30lsh6oabyqov3q0tcdcwwm4m0": {
+    "provider_name": "gemini",
+    "job_name": "batches/av0ui66kxz30lsh6oabyqov3q0tcdcwwm4m0",
+    "subject": "German",
+    "filename": "gcse-german---guidance-for-teaching-unit-4.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      15,
+      16,
+      17,
+      19,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:34:27Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/th8cvs4006il0ecvm40ftrajj5pbsoz1kvkt": {
+    "provider_name": "gemini",
+    "job_name": "batches/th8cvs4006il0ecvm40ftrajj5pbsoz1kvkt",
+    "subject": "German",
+    "filename": "gcse-german---unit-1-oracy.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      15,
+      17
+    ],
+    "created_at": "2025-11-19T15:34:29Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/hxw8odm4f1an2we219595th9smhszubphv27": {
+    "provider_name": "gemini",
+    "job_name": "batches/hxw8odm4f1an2we219595th9smhszubphv27",
+    "subject": "German",
+    "filename": "gcse-german---unit-1-oracy.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:34:31Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8986yozb1hgweybv45edvoq0mi35bhnf3y8k": {
+    "provider_name": "gemini",
+    "job_name": "batches/8986yozb1hgweybv45edvoq0mi35bhnf3y8k",
+    "subject": "German",
+    "filename": "gcse-german---unit-2-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "created_at": "2025-11-19T15:34:32Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/t5rd50rkei9k3md5srkmdc2fgkz8qi79w3u8": {
+    "provider_name": "gemini",
+    "job_name": "batches/t5rd50rkei9k3md5srkmdc2fgkz8qi79w3u8",
+    "subject": "German",
+    "filename": "gcse-german---unit-3-listening.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:34:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2s3fen103ub9o3k5tur2hfszvaurdju2ba1a": {
+    "provider_name": "gemini",
+    "job_name": "batches/2s3fen103ub9o3k5tur2hfszvaurdju2ba1a",
+    "subject": "German",
+    "filename": "gcse-german---unit-4-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      15,
+      18
+    ],
+    "created_at": "2025-11-19T15:34:35Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/l6lgg0njc7grg8jl0ju5orsdnbhi9qtl4qoq": {
+    "provider_name": "gemini",
+    "job_name": "batches/l6lgg0njc7grg8jl0ju5orsdnbhi9qtl4qoq",
+    "subject": "German",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:34:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/x5ed4vw9z2wm6bkfq76aj6c2pd0kq4ak7dx4": {
+    "provider_name": "gemini",
+    "job_name": "batches/x5ed4vw9z2wm6bkfq76aj6c2pd0kq4ak7dx4",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      9,
+      10,
+      11,
+      12,
+      14,
+      17
+    ],
+    "created_at": "2025-11-19T15:34:37Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/f09j3ut1p320595m42vziybnta4ohcb9nhsw": {
+    "provider_name": "gemini",
+    "job_name": "batches/f09j3ut1p320595m42vziybnta4ohcb9nhsw",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      19,
+      27,
+      33,
+      34,
+      35,
+      36,
+      39,
+      41,
+      42,
+      43
+    ],
+    "created_at": "2025-11-19T15:34:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/mhhehzbqu86j1efk3ajkbjm42ztu9riaeqbv": {
+    "provider_name": "gemini",
+    "job_name": "batches/mhhehzbqu86j1efk3ajkbjm42ztu9riaeqbv",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "created_at": "2025-11-19T15:34:40Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ct8oc76ufsvado29v70br6oi91qi7g6hk1zb": {
+    "provider_name": "gemini",
+    "job_name": "batches/ct8oc76ufsvado29v70br6oi91qi7g6hk1zb",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ],
+    "created_at": "2025-11-19T15:34:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/9y8rjq4nl5zpqocghux7e1d3sv8q3f2n9yy9": {
+    "provider_name": "gemini",
+    "job_name": "batches/9y8rjq4nl5zpqocghux7e1d3sv8q3f2n9yy9",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      75,
+      80,
+      81,
+      82
+    ],
+    "created_at": "2025-11-19T15:34:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/nxx4xthe8288bug7qe0ksmciotoiw48pqvcq": {
+    "provider_name": "gemini",
+    "job_name": "batches/nxx4xthe8288bug7qe0ksmciotoiw48pqvcq",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "created_at": "2025-11-19T15:34:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2e24a81o7dtivgqfelvsr8ieshwcsjh9lv4m": {
+    "provider_name": "gemini",
+    "job_name": "batches/2e24a81o7dtivgqfelvsr8ieshwcsjh9lv4m",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "created_at": "2025-11-19T15:34:45Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rfyrsh34gfj28twhp8f99mj8j73lxqt476jc": {
+    "provider_name": "gemini",
+    "job_name": "batches/rfyrsh34gfj28twhp8f99mj8j73lxqt476jc",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 7,
+    "issue_ids": [
+      105,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "created_at": "2025-11-19T15:34:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/551xzbktzrcjzg31xc4zvujslrzgdil90tmv": {
+    "provider_name": "gemini",
+    "job_name": "batches/551xzbktzrcjzg31xc4zvujslrzgdil90tmv",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 8,
+    "issue_ids": [
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "created_at": "2025-11-19T15:34:48Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/w17pssmf20z4s1lq8gkt2vg8bc8mhtt8pq3g": {
+    "provider_name": "gemini",
+    "job_name": "batches/w17pssmf20z4s1lq8gkt2vg8bc8mhtt8pq3g",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 9,
+    "issue_ids": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "created_at": "2025-11-19T15:34:49Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/l291xtc4lruq3uq4nmpyxbxfiaada757brqo": {
+    "provider_name": "gemini",
+    "job_name": "batches/l291xtc4lruq3uq4nmpyxbxfiaada757brqo",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 10,
+    "issue_ids": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "created_at": "2025-11-19T15:34:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ryhui518b08pomq7p40jogbwnjdapbb5jlt4": {
+    "provider_name": "gemini",
+    "job_name": "batches/ryhui518b08pomq7p40jogbwnjdapbb5jlt4",
+    "subject": "German",
+    "filename": "wjec-gcse-german-specification.csv",
+    "batch_index": 11,
+    "issue_ids": [
+      146
+    ],
+    "created_at": "2025-11-19T15:34:52Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/kur11ssdeapzv8y455av09vhl1r0t8jb0b4p": {
+    "provider_name": "gemini",
+    "job_name": "batches/kur11ssdeapzv8y455av09vhl1r0t8jb0b4p",
+    "subject": "Health-and-Social-Care-and-Childcare",
+    "filename": "wjec-gcse-health-and-social-care-and-childcare-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:34:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/z912lh40cp33utxw8odq98l5rjcbxyijzl70": {
+    "provider_name": "gemini",
+    "job_name": "batches/z912lh40cp33utxw8odq98l5rjcbxyijzl70",
+    "subject": "Health-and-Social-Care-and-Childcare",
+    "filename": "wjec-gcse-health-and-social-care-and-childcare-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      13,
+      15
+    ],
+    "created_at": "2025-11-19T15:34:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2hgh7wi87muzgpzqjrdd36brp236pok7inpu": {
+    "provider_name": "gemini",
+    "job_name": "batches/2hgh7wi87muzgpzqjrdd36brp236pok7inpu",
+    "subject": "History",
+    "filename": "frequently-asked-questions.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:34:56Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tqz9lulpltez2eoio15qxj2wnsp7c9z7lvnr": {
+    "provider_name": "gemini",
+    "job_name": "batches/tqz9lulpltez2eoio15qxj2wnsp7c9z7lvnr",
+    "subject": "History",
+    "filename": "gcse-history---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      3
+    ],
+    "created_at": "2025-11-19T15:34:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rvckpofkds1cqopbkg2l0xnkfbc505dm9yyi": {
+    "provider_name": "gemini",
+    "job_name": "batches/rvckpofkds1cqopbkg2l0xnkfbc505dm9yyi",
+    "subject": "History",
+    "filename": "gcse-history---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:34:59Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ncxkwboo3p63ftox0zwiteh38oc7z43uw5ua": {
+    "provider_name": "gemini",
+    "job_name": "batches/ncxkwboo3p63ftox0zwiteh38oc7z43uw5ua",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "created_at": "2025-11-19T15:35:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/05077fksz8cmyphq5gos8fmtzugqrqu47vrd": {
+    "provider_name": "gemini",
+    "job_name": "batches/05077fksz8cmyphq5gos8fmtzugqrqu47vrd",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      4,
+      6,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:02Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/apn9x31k6tkr3k0ip8oy52vfrvsyjwv47j2j": {
+    "provider_name": "gemini",
+    "job_name": "batches/apn9x31k6tkr3k0ip8oy52vfrvsyjwv47j2j",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      3,
+      4
+    ],
+    "created_at": "2025-11-19T15:35:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tdt5f35ezc77ddju5e7dqgypwsoo9e4jclv5": {
+    "provider_name": "gemini",
+    "job_name": "batches/tdt5f35ezc77ddju5e7dqgypwsoo9e4jclv5",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      9,
+      10,
+      11,
+      14
+    ],
+    "created_at": "2025-11-19T15:35:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/cdf5bh1abs82k3oge0jrdh1qoo7pvmli76t7": {
+    "provider_name": "gemini",
+    "job_name": "batches/cdf5bh1abs82k3oge0jrdh1qoo7pvmli76t7",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.4.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      15
+    ],
+    "created_at": "2025-11-19T15:35:06Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rheyojcfbwvoq97nbekmq956tla7knobe4r5": {
+    "provider_name": "gemini",
+    "job_name": "batches/rheyojcfbwvoq97nbekmq956tla7knobe4r5",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.5.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      4,
+      17,
+      19,
+      22,
+      23
+    ],
+    "created_at": "2025-11-19T15:35:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/xk26ixb20wkf86966xai75f3cp0iym7k7vng": {
+    "provider_name": "gemini",
+    "job_name": "batches/xk26ixb20wkf86966xai75f3cp0iym7k7vng",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-1-option-1.6.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      4,
+      5,
+      7,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:35:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/54rbaee5a373javb24ig9v8jyurflyh0pmxf": {
+    "provider_name": "gemini",
+    "job_name": "batches/54rbaee5a373javb24ig9v8jyurflyh0pmxf",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      19
+    ],
+    "created_at": "2025-11-19T15:35:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/at5bc9277prytqxdl8ibdtsh859t1c10bga9": {
+    "provider_name": "gemini",
+    "job_name": "batches/at5bc9277prytqxdl8ibdtsh859t1c10bga9",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:35:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/i3m3doak2zkma779tp7imyq2edqpa3jxfsta": {
+    "provider_name": "gemini",
+    "job_name": "batches/i3m3doak2zkma779tp7imyq2edqpa3jxfsta",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:35:12Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/u5jyp3hfc4mj3vwmw27j198fscapyituxq20": {
+    "provider_name": "gemini",
+    "job_name": "batches/u5jyp3hfc4mj3vwmw27j198fscapyituxq20",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:35:13Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/syz4v5tvpecvod0lwzs4ca0czywpooxk0y3w": {
+    "provider_name": "gemini",
+    "job_name": "batches/syz4v5tvpecvod0lwzs4ca0czywpooxk0y3w",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.4.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      13,
+      14,
+      15
+    ],
+    "created_at": "2025-11-19T15:35:15Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/x5jq8nkclu6xvmyjjy7e4kpdydp38il8ywji": {
+    "provider_name": "gemini",
+    "job_name": "batches/x5jq8nkclu6xvmyjjy7e4kpdydp38il8ywji",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.5.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:17Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ufw76suzgknir8g9p1yisk06pkwz3p1u7ckt": {
+    "provider_name": "gemini",
+    "job_name": "batches/ufw76suzgknir8g9p1yisk06pkwz3p1u7ckt",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-2-option-2.6.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      12,
+      13,
+      14
+    ],
+    "created_at": "2025-11-19T15:35:18Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tyryam5bukbf126crpjss7h0kflsmqzp4voc": {
+    "provider_name": "gemini",
+    "job_name": "batches/tyryam5bukbf126crpjss7h0kflsmqzp4voc",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      8,
+      10
+    ],
+    "created_at": "2025-11-19T15:35:20Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/csfogx2g2mztt5k7angyhqyuox5qplobzxh6": {
+    "provider_name": "gemini",
+    "job_name": "batches/csfogx2g2mztt5k7angyhqyuox5qplobzxh6",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:35:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/x4psh41dz2uroyjshav370wx6980imhtg3ha": {
+    "provider_name": "gemini",
+    "job_name": "batches/x4psh41dz2uroyjshav370wx6980imhtg3ha",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      5,
+      11,
+      15,
+      16
+    ],
+    "created_at": "2025-11-19T15:35:22Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7jdmnyqrn5d2a80whyo7oi68skr2k5k3yhvg": {
+    "provider_name": "gemini",
+    "job_name": "batches/7jdmnyqrn5d2a80whyo7oi68skr2k5k3yhvg",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:35:24Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/xt96bsamqawgvzy3ovrilcalh9oeysh88d9j": {
+    "provider_name": "gemini",
+    "job_name": "batches/xt96bsamqawgvzy3ovrilcalh9oeysh88d9j",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.5.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      6,
+      11,
+      12,
+      14,
+      15
+    ],
+    "created_at": "2025-11-19T15:35:25Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/btswgygxoyanzsqvhc5knvnla0a2fzz81o6b": {
+    "provider_name": "gemini",
+    "job_name": "batches/btswgygxoyanzsqvhc5knvnla0a2fzz81o6b",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.6.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:35:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/37wepvvv51wa4af8r0u6gak88earwiqflb2n": {
+    "provider_name": "gemini",
+    "job_name": "batches/37wepvvv51wa4af8r0u6gak88earwiqflb2n",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-3-option-3.6.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      13,
+      14
+    ],
+    "created_at": "2025-11-19T15:35:28Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/4ejysn8dtm4dj8tgu6krd312buytw8d74ijf": {
+    "provider_name": "gemini",
+    "job_name": "batches/4ejysn8dtm4dj8tgu6krd312buytw8d74ijf",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:35:30Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/cp2s2nsc4fj6mctuonqhfblfbt4gaj2cvx2d": {
+    "provider_name": "gemini",
+    "job_name": "batches/cp2s2nsc4fj6mctuonqhfblfbt4gaj2cvx2d",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      22,
+      23,
+      24
+    ],
+    "created_at": "2025-11-19T15:35:31Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/mjo3er1828df1e0vvftrpjzblcnsn8kub7ud": {
+    "provider_name": "gemini",
+    "job_name": "batches/mjo3er1828df1e0vvftrpjzblcnsn8kub7ud",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      26,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "created_at": "2025-11-19T15:35:32Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/q3co4z2oj6qoqii796y70kkjgpymxtk0n0r1": {
+    "provider_name": "gemini",
+    "job_name": "batches/q3co4z2oj6qoqii796y70kkjgpymxtk0n0r1",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-medieval---example-teaching-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/vm7sr35hd3ywg3ah7fij3twaovr4q5iz1a70": {
+    "provider_name": "gemini",
+    "job_name": "batches/vm7sr35hd3ywg3ah7fij3twaovr4q5iz1a70",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-medieval---example-teaching-pack.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      15,
+      16,
+      18,
+      19,
+      20
+    ],
+    "created_at": "2025-11-19T15:35:35Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/nndfsnpmaa33nztvcl7eba6v3hmdbf34qvf7": {
+    "provider_name": "gemini",
+    "job_name": "batches/nndfsnpmaa33nztvcl7eba6v3hmdbf34qvf7",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      8,
+      10,
+      11,
+      13,
+      15
+    ],
+    "created_at": "2025-11-19T15:35:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/liry045n0e8kwvvxxw9htbop6iarlcihn6dn": {
+    "provider_name": "gemini",
+    "job_name": "batches/liry045n0e8kwvvxxw9htbop6iarlcihn6dn",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      16,
+      17,
+      18,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:35:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/htqz8l3orc3yphk0r0q5t1lrdtcbs4leoq1k": {
+    "provider_name": "gemini",
+    "job_name": "batches/htqz8l3orc3yphk0r0q5t1lrdtcbs4leoq1k",
+    "subject": "History",
+    "filename": "gcse-history---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:35:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yn1z61z2homd9fuqs2jvbdq1xbgmm7dgyd8n": {
+    "provider_name": "gemini",
+    "job_name": "batches/yn1z61z2homd9fuqs2jvbdq1xbgmm7dgyd8n",
+    "subject": "History",
+    "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---early-modern.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/t3sqp5ydju07kwb9w51nilu4f2hfezz7m92m": {
+    "provider_name": "gemini",
+    "job_name": "batches/t3sqp5ydju07kwb9w51nilu4f2hfezz7m92m",
+    "subject": "History",
+    "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---medieval.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:42Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/v88kmtgyit9pjfhsv08bj3o3l4e2dmxvnfcw": {
+    "provider_name": "gemini",
+    "job_name": "batches/v88kmtgyit9pjfhsv08bj3o3l4e2dmxvnfcw",
+    "subject": "History",
+    "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:35:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/nu5q6qsu9nzbinpq4nohzsngtelz7oz9h63d": {
+    "provider_name": "gemini",
+    "job_name": "batches/nu5q6qsu9nzbinpq4nohzsngtelz7oz9h63d",
+    "subject": "History",
+    "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      30,
+      31,
+      32,
+      33
+    ],
+    "created_at": "2025-11-19T15:35:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/90iwhpce6j702ni46jehbe2dln18dwcliql5": {
+    "provider_name": "gemini",
+    "job_name": "batches/90iwhpce6j702ni46jehbe2dln18dwcliql5",
+    "subject": "History",
+    "filename": "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "created_at": "2025-11-19T15:35:45Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/b2w2keh4nz50ovr8eozk021zvtfb5l9h1tjf": {
+    "provider_name": "gemini",
+    "job_name": "batches/b2w2keh4nz50ovr8eozk021zvtfb5l9h1tjf",
+    "subject": "History",
+    "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---early-modern.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      4,
+      6,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:35:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/z5d608xqjwrr5na26slka8mzadfuwvmt2qni": {
+    "provider_name": "gemini",
+    "job_name": "batches/z5d608xqjwrr5na26slka8mzadfuwvmt2qni",
+    "subject": "History",
+    "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---medieval.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      3,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:48Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/w5ka78ntjdu6g52j0e7qlw7he7j7v222wj1p": {
+    "provider_name": "gemini",
+    "job_name": "batches/w5ka78ntjdu6g52j0e7qlw7he7j7v222wj1p",
+    "subject": "History",
+    "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---modern.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      6,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "created_at": "2025-11-19T15:35:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0ivzk5gv4zlr47ck5l1ueg9kqa7z055wbi5n": {
+    "provider_name": "gemini",
+    "job_name": "batches/0ivzk5gv4zlr47ck5l1ueg9kqa7z055wbi5n",
+    "subject": "History",
+    "filename": "gcse-history---unit-3-a-study-of-a-period-in-world-history---modern.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      40,
+      41,
+      42,
+      43
+    ],
+    "created_at": "2025-11-19T15:35:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tcltht10e1drx5dt8mw9ic6m8df9hscrmdq0": {
+    "provider_name": "gemini",
+    "job_name": "batches/tcltht10e1drx5dt8mw9ic6m8df9hscrmdq0",
+    "subject": "History",
+    "filename": "gcse-history---unit-4-a-changing-society.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:35:52Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/qdrxie3xyor9y6ldmoufq2dj9vhr5zz555ot": {
+    "provider_name": "gemini",
+    "job_name": "batches/qdrxie3xyor9y6ldmoufq2dj9vhr5zz555ot",
+    "subject": "History",
+    "filename": "gcse-history---unit-4-a-changing-society.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      19,
+      20
+    ],
+    "created_at": "2025-11-19T15:35:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/tt05ebnrjqdwxp58j0ry9ueqyp8ii203z51q": {
+    "provider_name": "gemini",
+    "job_name": "batches/tt05ebnrjqdwxp58j0ry9ueqyp8ii203z51q",
+    "subject": "History",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:35:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6yx1t0q5umu3446hb1552j2c00118byaew9l": {
+    "provider_name": "gemini",
+    "job_name": "batches/6yx1t0q5umu3446hb1552j2c00118byaew9l",
+    "subject": "History",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:35:56Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ob72ovi7e52b1a077kwbsw0bm69ubv34dngr": {
+    "provider_name": "gemini",
+    "job_name": "batches/ob72ovi7e52b1a077kwbsw0bm69ubv34dngr",
+    "subject": "History",
+    "filename": "wjec-gcse-history-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      14
+    ],
+    "created_at": "2025-11-19T15:35:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/e8jq5frsmi5px44qcjepxfyyxhvaq7bq0pak": {
+    "provider_name": "gemini",
+    "job_name": "batches/e8jq5frsmi5px44qcjepxfyyxhvaq7bq0pak",
+    "subject": "History",
+    "filename": "wjec-gcse-history-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      21,
+      25,
+      27,
+      36,
+      37,
+      38,
+      39
+    ],
+    "created_at": "2025-11-19T15:35:59Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7jn0oo6w8mcajm3h300ncn9q2w6u5a2udfrk": {
+    "provider_name": "gemini",
+    "job_name": "batches/7jn0oo6w8mcajm3h300ncn9q2w6u5a2udfrk",
+    "subject": "Integrated-Science-Single-Award",
+    "filename": "wjec-gcse-integrated-science-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:36:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/x9kjvfa7hrq5mqmtwyrhytbjt1xalfrhom7i": {
+    "provider_name": "gemini",
+    "job_name": "batches/x9kjvfa7hrq5mqmtwyrhytbjt1xalfrhom7i",
+    "subject": "Integrated-Science-Single-Award",
+    "filename": "wjec-gcse-integrated-science-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      20,
+      22
+    ],
+    "created_at": "2025-11-19T15:36:02Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/vazcdm02rg2ly9iafw0csadjg6abvxm6h0g3": {
+    "provider_name": "gemini",
+    "job_name": "batches/vazcdm02rg2ly9iafw0csadjg6abvxm6h0g3",
+    "subject": "Integrated-Science-Single-Award",
+    "filename": "wjec-gcse-integrated-science-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      24,
+      27,
+      28,
+      30,
+      31,
+      33,
+      35,
+      36,
+      37
+    ],
+    "created_at": "2025-11-19T15:36:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/clia5m0ksmx73x8q0xb0pxzdcli755rqfd7y": {
+    "provider_name": "gemini",
+    "job_name": "batches/clia5m0ksmx73x8q0xb0pxzdcli755rqfd7y",
+    "subject": "Level-2-Additional-Mathematics",
+    "filename": "additional-mathematics---options-evening-flyer.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:36:04Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bnxqwpafapu058thbqadagujw9f0jv69dsd3": {
+    "provider_name": "gemini",
+    "job_name": "batches/bnxqwpafapu058thbqadagujw9f0jv69dsd3",
+    "subject": "Level-2-Additional-Mathematics",
+    "filename": "september-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "created_at": "2025-11-19T15:36:06Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bvxckunlge3bspptm9cn0c6cgy74n47xqett": {
+    "provider_name": "gemini",
+    "job_name": "batches/bvxckunlge3bspptm9cn0c6cgy74n47xqett",
+    "subject": "Level-2-Additional-Mathematics",
+    "filename": "wjec-level-2-additional-mathematics-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:36:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/fyouk7ikemiz5w1p1tkbymjfedezmdzccsi1": {
+    "provider_name": "gemini",
+    "job_name": "batches/fyouk7ikemiz5w1p1tkbymjfedezmdzccsi1",
+    "subject": "Level-2-Additional-Mathematics",
+    "filename": "wjec-level-2-additional-mathematics-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      14,
+      16,
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "created_at": "2025-11-19T15:36:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bt9ijk1r31ak3sdtj7yehv2druieybovpu7r": {
+    "provider_name": "gemini",
+    "job_name": "batches/bt9ijk1r31ak3sdtj7yehv2druieybovpu7r",
+    "subject": "Level-2-Additional-Mathematics",
+    "filename": "wjec-level-2-additional-mathematics-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      23,
+      24,
+      25,
+      26,
+      28,
+      29,
+      57,
+      58
+    ],
+    "created_at": "2025-11-19T15:36:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0cdlseffjymyjpjy71gvk045y9mvi15mn1nz": {
+    "provider_name": "gemini",
+    "job_name": "batches/0cdlseffjymyjpjy71gvk045y9mvi15mn1nz",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "april-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2
+    ],
+    "created_at": "2025-11-19T15:36:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yf1p3bz3g9r01rk60jvft7fljj2odjrpyzc4": {
+    "provider_name": "gemini",
+    "job_name": "batches/yf1p3bz3g9r01rk60jvft7fljj2odjrpyzc4",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---guidance-for-teaching.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      4,
+      8,
+      9,
+      17,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "created_at": "2025-11-19T15:36:13Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/seoxmbcvpxnxo0jou859nbw2q6uo0cbm1ivj": {
+    "provider_name": "gemini",
+    "job_name": "batches/seoxmbcvpxnxo0jou859nbw2q6uo0cbm1ivj",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---guidance-for-teaching.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      58,
+      105
+    ],
+    "created_at": "2025-11-19T15:36:14Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zn3fck2t58t5g80pw0asfo6dc2thto18vhdo": {
+    "provider_name": "gemini",
+    "job_name": "batches/zn3fck2t58t5g80pw0asfo6dc2thto18vhdo",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---guidance-for-teaching.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      133,
+      136,
+      138,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "created_at": "2025-11-19T15:36:15Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/k4onb3hb0nh6yp6wgwnhnfsvhj5tij3i0mcy": {
+    "provider_name": "gemini",
+    "job_name": "batches/k4onb3hb0nh6yp6wgwnhnfsvhj5tij3i0mcy",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---guidance-for-teaching.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      147,
+      148,
+      149,
+      179,
+      180,
+      181,
+      182,
+      188,
+      191,
+      193
+    ],
+    "created_at": "2025-11-19T15:36:17Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zwpuek2f1s2o1pxfizfal87pknwxcbaueb7z": {
+    "provider_name": "gemini",
+    "job_name": "batches/zwpuek2f1s2o1pxfizfal87pknwxcbaueb7z",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---guidance-for-teaching.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      194,
+      195,
+      196,
+      198,
+      200,
+      201,
+      202,
+      204,
+      207
+    ],
+    "created_at": "2025-11-19T15:36:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rb0eiu8zadcrcbgd37vgz0hm7t1ki75rvpvx": {
+    "provider_name": "gemini",
+    "job_name": "batches/rb0eiu8zadcrcbgd37vgz0hm7t1ki75rvpvx",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-foundation-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "created_at": "2025-11-19T15:36:20Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2729fm0wct543pt1cd1gp0tjqa6wmf0tcwbm": {
+    "provider_name": "gemini",
+    "job_name": "batches/2729fm0wct543pt1cd1gp0tjqa6wmf0tcwbm",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-higher-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:36:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/r1drgteo6tmngbl5ctbmsi5bltz1dktoqne8": {
+    "provider_name": "gemini",
+    "job_name": "batches/r1drgteo6tmngbl5ctbmsi5bltz1dktoqne8",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-higher-tier.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "created_at": "2025-11-19T15:36:22Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/s6rdt1wkqr5dcnhvvb6wnabyjp2r05vinpl8": {
+    "provider_name": "gemini",
+    "job_name": "batches/s6rdt1wkqr5dcnhvvb6wnabyjp2r05vinpl8",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-higher-tier.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      32,
+      34,
+      35
+    ],
+    "created_at": "2025-11-19T15:36:24Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/mj9vr0bjwisnbhhxjz9tbm4ig162ldgb7uwx": {
+    "provider_name": "gemini",
+    "job_name": "batches/mj9vr0bjwisnbhhxjz9tbm4ig162ldgb7uwx",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-higher-tier.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      44,
+      49,
+      52,
+      53
+    ],
+    "created_at": "2025-11-19T15:36:25Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/4rexqabuviuunxjzu2xi9e79i86phkrmvzx7": {
+    "provider_name": "gemini",
+    "job_name": "batches/4rexqabuviuunxjzu2xi9e79i86phkrmvzx7",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-2-non-calculator-foundation-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      9,
+      10,
+      11,
+      12,
+      15,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "created_at": "2025-11-19T15:36:27Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/arbekzhslrr8sykbi3iv1qh7xjrd5vhvxdyg": {
+    "provider_name": "gemini",
+    "job_name": "batches/arbekzhslrr8sykbi3iv1qh7xjrd5vhvxdyg",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-2-non-calculator-foundation-tier.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      42
+    ],
+    "created_at": "2025-11-19T15:36:28Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/z6yxoc1392fqadwzwm7yionmpc0g6c8qunnr": {
+    "provider_name": "gemini",
+    "job_name": "batches/z6yxoc1392fqadwzwm7yionmpc0g6c8qunnr",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-2-non-calculator-higher-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      20,
+      24
+    ],
+    "created_at": "2025-11-19T15:36:30Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/4gpebyc8o3cib7ihd7octyjrxyfybtp50tvj": {
+    "provider_name": "gemini",
+    "job_name": "batches/4gpebyc8o3cib7ihd7octyjrxyfybtp50tvj",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-2-non-calculator-higher-tier.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      25,
+      26,
+      52,
+      53,
+      54,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "created_at": "2025-11-19T15:36:31Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/e7wpoxqr9we1o9c4df0f0shmon2ct5pzd9q8": {
+    "provider_name": "gemini",
+    "job_name": "batches/e7wpoxqr9we1o9c4df0f0shmon2ct5pzd9q8",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-2-non-calculator-higher-tier.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      95,
+      101,
+      103,
+      105,
+      107
+    ],
+    "created_at": "2025-11-19T15:36:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/obtnkgv7d66ll0363zzgto26l2rko753aa9b": {
+    "provider_name": "gemini",
+    "job_name": "batches/obtnkgv7d66ll0363zzgto26l2rko753aa9b",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      4,
+      5,
+      6,
+      7,
+      9,
+      19,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:36:34Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/d0bk4j1u2n2d0t1nt0n0antohtg4itv5m5pp": {
+    "provider_name": "gemini",
+    "job_name": "batches/d0bk4j1u2n2d0t1nt0n0antohtg4itv5m5pp",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      31,
+      38
+    ],
+    "created_at": "2025-11-19T15:36:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/sglgmpye27w4lcpy23xwtioi8qi02d9bpmwh": {
+    "provider_name": "gemini",
+    "job_name": "batches/sglgmpye27w4lcpy23xwtioi8qi02d9bpmwh",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      39,
+      42,
+      52
+    ],
+    "created_at": "2025-11-19T15:36:37Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/32lwj8o6mze4814rj1sjw5n0jlx2nya430k4": {
+    "provider_name": "gemini",
+    "job_name": "batches/32lwj8o6mze4814rj1sjw5n0jlx2nya430k4",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:36:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/h1w1q2dk0llofirv6t6gbfjw9nv6pswlg89r": {
+    "provider_name": "gemini",
+    "job_name": "batches/h1w1q2dk0llofirv6t6gbfjw9nv6pswlg89r",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      34,
+      43,
+      45,
+      46,
+      48
+    ],
+    "created_at": "2025-11-19T15:36:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/3pybgy93icabcez2q7ogwja2tlbn5l9edyo3": {
+    "provider_name": "gemini",
+    "job_name": "batches/3pybgy93icabcez2q7ogwja2tlbn5l9edyo3",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      51,
+      70
+    ],
+    "created_at": "2025-11-19T15:36:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/kbhhwih84ohcehsgp87srge1wq0jc2ztx83o": {
+    "provider_name": "gemini",
+    "job_name": "batches/kbhhwih84ohcehsgp87srge1wq0jc2ztx83o",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "gcse-mathematics-and-numeracy-double-award---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1
+    ],
+    "created_at": "2025-11-19T15:36:42Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/wxaj2gx3d426xucbjg4aybae3k5q27ci46ev": {
+    "provider_name": "gemini",
+    "job_name": "batches/wxaj2gx3d426xucbjg4aybae3k5q27ci46ev",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "january-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2
+    ],
+    "created_at": "2025-11-19T15:36:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/6ftliqoyize394xorpodh0nvdskkmns4f22z": {
+    "provider_name": "gemini",
+    "job_name": "batches/6ftliqoyize394xorpodh0nvdskkmns4f22z",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:36:45Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/se4urmnwiymz6luf89lbjfhlx5owefoebcvn": {
+    "provider_name": "gemini",
+    "job_name": "batches/se4urmnwiymz6luf89lbjfhlx5owefoebcvn",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:36:46Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7593alfmilesw0gdf8jmb7l4p5i6bgce4afg": {
+    "provider_name": "gemini",
+    "job_name": "batches/7593alfmilesw0gdf8jmb7l4p5i6bgce4afg",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "september-2025.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "created_at": "2025-11-19T15:36:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/keg7393m4qtd4f2d6p9kb4qteg43cwwfv0dq": {
+    "provider_name": "gemini",
+    "job_name": "batches/keg7393m4qtd4f2d6p9kb4qteg43cwwfv0dq",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "wjec-gcse-mathematics-and-numeracy-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      9,
+      10,
+      11,
+      13,
+      14,
+      17,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:36:49Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/upan5cykwhfqhes7brdu961b5u5b303h8lga": {
+    "provider_name": "gemini",
+    "job_name": "batches/upan5cykwhfqhes7brdu961b5u5b303h8lga",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "wjec-gcse-mathematics-and-numeracy-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      31,
+      43
+    ],
+    "created_at": "2025-11-19T15:36:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/pxotcdtk4k0bg1co4y46kpkj5zlqrws0he7r": {
+    "provider_name": "gemini",
+    "job_name": "batches/pxotcdtk4k0bg1co4y46kpkj5zlqrws0he7r",
+    "subject": "Mathematics-and-Numeracy",
+    "filename": "wjec-gcse-mathematics-and-numeracy-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      45,
+      46
+    ],
+    "created_at": "2025-11-19T15:36:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/knsq5v7m6x969x5e4q1t5op47i8xr1m89sn2": {
+    "provider_name": "gemini",
+    "job_name": "batches/knsq5v7m6x969x5e4q1t5op47i8xr1m89sn2",
+    "subject": "Music",
+    "filename": "gcse-music---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:36:53Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/j3rxyuw39ccotndrrt9we4qecq095rnumm5u": {
+    "provider_name": "gemini",
+    "job_name": "batches/j3rxyuw39ccotndrrt9we4qecq095rnumm5u",
+    "subject": "Music",
+    "filename": "gcse-music---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:36:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/cm123prvnzxg6ikuro8ud9gs87ujrbaocsxk": {
+    "provider_name": "gemini",
+    "job_name": "batches/cm123prvnzxg6ikuro8ud9gs87ujrbaocsxk",
+    "subject": "Music",
+    "filename": "gcse-music---guidance-for-teaching.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:36:56Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ydmrztyv66w9yuwzyf6lft8rtd41fgzygq2t": {
+    "provider_name": "gemini",
+    "job_name": "batches/ydmrztyv66w9yuwzyf6lft8rtd41fgzygq2t",
+    "subject": "Music",
+    "filename": "gcse-music---guidance-for-teaching.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:36:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bv77im5g1pkx3zoq4h1n9h71ntx05omkb9q8": {
+    "provider_name": "gemini",
+    "job_name": "batches/bv77im5g1pkx3zoq4h1n9h71ntx05omkb9q8",
+    "subject": "Music",
+    "filename": "gcse-music---unit-1-non-exam-assessment-pack-sample.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:36:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rcs01cd0vgkof20ikcdyjkezxc9aswetcxh7": {
+    "provider_name": "gemini",
+    "job_name": "batches/rcs01cd0vgkof20ikcdyjkezxc9aswetcxh7",
+    "subject": "Music",
+    "filename": "gcse-music---unit-1-non-exam-assessment-pack-sample.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      14,
+      16
+    ],
+    "created_at": "2025-11-19T15:37:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/jmmhi34f58wtxfko7drtmr70jbiv21l9migb": {
+    "provider_name": "gemini",
+    "job_name": "batches/jmmhi34f58wtxfko7drtmr70jbiv21l9migb",
+    "subject": "Music",
+    "filename": "gcse-music---unit-2-composing-sample.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:37:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/jkmnlbng5uqkrdb4ipbdye5zbiyjabqsg1pe": {
+    "provider_name": "gemini",
+    "job_name": "batches/jkmnlbng5uqkrdb4ipbdye5zbiyjabqsg1pe",
+    "subject": "Music",
+    "filename": "gcse-music---unit-3-appraising.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "created_at": "2025-11-19T15:37:03Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/dbt7v8vys96v92yc20nzv8zckkttcr7wy0mh": {
+    "provider_name": "gemini",
+    "job_name": "batches/dbt7v8vys96v92yc20nzv8zckkttcr7wy0mh",
+    "subject": "Music",
+    "filename": "gcse-music-unit-1-nea-assessment-handbook.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "created_at": "2025-11-19T15:37:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1emhsm6cwe4zq43hhejlgtvgcdve9mhjjoes": {
+    "provider_name": "gemini",
+    "job_name": "batches/1emhsm6cwe4zq43hhejlgtvgcdve9mhjjoes",
+    "subject": "Music",
+    "filename": "gcse-music-unit-2-nea-assessment-handbook.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:37:06Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/mgk7112489m8fwxtb2brihbti8npg5hoy8rd": {
+    "provider_name": "gemini",
+    "job_name": "batches/mgk7112489m8fwxtb2brihbti8npg5hoy8rd",
+    "subject": "Music",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:37:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/3nhyon526nws2l5b4ams9mpb764j3vb5468u": {
+    "provider_name": "gemini",
+    "job_name": "batches/3nhyon526nws2l5b4ams9mpb764j3vb5468u",
+    "subject": "Music",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      13
+    ],
+    "created_at": "2025-11-19T15:37:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/se1dp0w7p4cgnh414vwwkj2y3con4j75g239": {
+    "provider_name": "gemini",
+    "job_name": "batches/se1dp0w7p4cgnh414vwwkj2y3con4j75g239",
+    "subject": "Music",
+    "filename": "wjec-gcse-music-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:37:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/uwekd8w7wquzam065flhpcm3byjphn43mvt8": {
+    "provider_name": "gemini",
+    "job_name": "batches/uwekd8w7wquzam065flhpcm3byjphn43mvt8",
+    "subject": "Music",
+    "filename": "wjec-gcse-music-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12
+    ],
+    "created_at": "2025-11-19T15:37:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/az12rced7xj6fcushe9ed0esrqx3vahbid17": {
+    "provider_name": "gemini",
+    "job_name": "batches/az12rced7xj6fcushe9ed0esrqx3vahbid17",
+    "subject": "Physical-Education-and-Health",
+    "filename": "physical-education-and-health-options-evening-flyer.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1
+    ],
+    "created_at": "2025-11-19T15:37:12Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0ee7d5i59egytfxeeoulm00nl0wz25abvw5q": {
+    "provider_name": "gemini",
+    "job_name": "batches/0ee7d5i59egytfxeeoulm00nl0wz25abvw5q",
+    "subject": "Physical-Education-and-Health",
+    "filename": "wjec-gcse-physical-education-and-health-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "created_at": "2025-11-19T15:37:13Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/dwqkuamuy0yhhoq8u9hta2hbr2tl80snh0zp": {
+    "provider_name": "gemini",
+    "job_name": "batches/dwqkuamuy0yhhoq8u9hta2hbr2tl80snh0zp",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "created_at": "2025-11-19T15:37:15Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/i23s7zb2hrlxq3pfublhf199ckq07o1wq7a1": {
+    "provider_name": "gemini",
+    "job_name": "batches/i23s7zb2hrlxq3pfublhf199ckq07o1wq7a1",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---delivery-guide.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "created_at": "2025-11-19T15:37:16Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/fpp0xyqfhfrub46rfip0gh9ipiddo3bnua7y": {
+    "provider_name": "gemini",
+    "job_name": "batches/fpp0xyqfhfrub46rfip0gh9ipiddo3bnua7y",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3
+    ],
+    "created_at": "2025-11-19T15:37:18Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0xr3yqydqt44h1pjk6tg66mcexa7q09rcrd9": {
+    "provider_name": "gemini",
+    "job_name": "batches/0xr3yqydqt44h1pjk6tg66mcexa7q09rcrd9",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      8,
+      24,
+      25,
+      29,
+      33,
+      42,
+      43
+    ],
+    "created_at": "2025-11-19T15:37:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zjeeng34tnxsmf5brrg7bmmtwgyl6x5j3i11": {
+    "provider_name": "gemini",
+    "job_name": "batches/zjeeng34tnxsmf5brrg7bmmtwgyl6x5j3i11",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      45,
+      46,
+      47,
+      59,
+      60,
+      64,
+      65,
+      70,
+      75,
+      88
+    ],
+    "created_at": "2025-11-19T15:37:20Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zv7c9tmosyi74ygpfprmfd2c8ndhztjmad58": {
+    "provider_name": "gemini",
+    "job_name": "batches/zv7c9tmosyi74ygpfprmfd2c8ndhztjmad58",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      95,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      117,
+      121,
+      136
+    ],
+    "created_at": "2025-11-19T15:37:22Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/g7m0wkttfyv1hdmep6gye3fpt7v7oiecu93p": {
+    "provider_name": "gemini",
+    "job_name": "batches/g7m0wkttfyv1hdmep6gye3fpt7v7oiecu93p",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      142,
+      155,
+      156,
+      167,
+      168,
+      169,
+      170,
+      173,
+      183,
+      193
+    ],
+    "created_at": "2025-11-19T15:37:23Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bpr2i4tln7c7mu1xwn0cw2iw45s0mek5zvnq": {
+    "provider_name": "gemini",
+    "job_name": "batches/bpr2i4tln7c7mu1xwn0cw2iw45s0mek5zvnq",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      195,
+      197,
+      198,
+      200,
+      202,
+      203,
+      205,
+      206,
+      209,
+      211
+    ],
+    "created_at": "2025-11-19T15:37:24Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/pabxdxfd5zy3mz5f55q7gfirix6w2vj20rj6": {
+    "provider_name": "gemini",
+    "job_name": "batches/pabxdxfd5zy3mz5f55q7gfirix6w2vj20rj6",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      218,
+      220,
+      222,
+      223,
+      227,
+      231,
+      233,
+      234,
+      235,
+      236
+    ],
+    "created_at": "2025-11-19T15:37:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/lj2hlkv6zrmk7anylk9tcu8nxkd6dylrdp8f": {
+    "provider_name": "gemini",
+    "job_name": "batches/lj2hlkv6zrmk7anylk9tcu8nxkd6dylrdp8f",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      249,
+      250,
+      252
+    ],
+    "created_at": "2025-11-19T15:37:28Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/j39x4i4vqsbel9gxv6nswl2qloz6rxlzc1ox": {
+    "provider_name": "gemini",
+    "job_name": "batches/j39x4i4vqsbel9gxv6nswl2qloz6rxlzc1ox",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 7,
+    "issue_ids": [
+      254,
+      255,
+      256,
+      257,
+      259,
+      263,
+      264,
+      265,
+      266,
+      281
+    ],
+    "created_at": "2025-11-19T15:37:29Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/jw1etscnncjtrqrrondpx8c5y7sob1jk9fqz": {
+    "provider_name": "gemini",
+    "job_name": "batches/jw1etscnncjtrqrrondpx8c5y7sob1jk9fqz",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 8,
+    "issue_ids": [
+      284,
+      293,
+      294,
+      296,
+      297,
+      298,
+      326,
+      327,
+      336,
+      362
+    ],
+    "created_at": "2025-11-19T15:37:30Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0nupt7yw5jn27emlgtevczn7250icooyh9ig": {
+    "provider_name": "gemini",
+    "job_name": "batches/0nupt7yw5jn27emlgtevczn7250icooyh9ig",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 9,
+    "issue_ids": [
+      366,
+      367,
+      368,
+      379,
+      389,
+      395,
+      414,
+      417,
+      438,
+      441
+    ],
+    "created_at": "2025-11-19T15:37:32Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1vvdem949bpystut4eeontii6i2xlzoh504q": {
+    "provider_name": "gemini",
+    "job_name": "batches/1vvdem949bpystut4eeontii6i2xlzoh504q",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-1.csv",
+    "batch_index": 10,
+    "issue_ids": [
+      445,
+      450,
+      452,
+      453,
+      454,
+      455,
+      456,
+      458
+    ],
+    "created_at": "2025-11-19T15:37:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/k4vhn4o7jnucbpi9xjjfmu9btkdjwdljbtpj": {
+    "provider_name": "gemini",
+    "job_name": "batches/k4vhn4o7jnucbpi9xjjfmu9btkdjwdljbtpj",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:37:34Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/lwd54813tdha5lu4ch0alun74rx5eckhq648": {
+    "provider_name": "gemini",
+    "job_name": "batches/lwd54813tdha5lu4ch0alun74rx5eckhq648",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-2.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20
+    ],
+    "created_at": "2025-11-19T15:37:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/oi4bwbvf8doqvdc4tthb11xjex7dqyh0p02i": {
+    "provider_name": "gemini",
+    "job_name": "batches/oi4bwbvf8doqvdc4tthb11xjex7dqyh0p02i",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-2.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      21
+    ],
+    "created_at": "2025-11-19T15:37:37Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/lqaer0br1rf1b9n1440ornnu2czff25zm6hj": {
+    "provider_name": "gemini",
+    "job_name": "batches/lqaer0br1rf1b9n1440ornnu2czff25zm6hj",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      2,
+      7,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "created_at": "2025-11-19T15:37:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/860okmtfbwjhc6m1awxldx515zd0tgvrb1hh": {
+    "provider_name": "gemini",
+    "job_name": "batches/860okmtfbwjhc6m1awxldx515zd0tgvrb1hh",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      21,
+      22,
+      23,
+      32,
+      33,
+      34,
+      35,
+      36,
+      47,
+      50
+    ],
+    "created_at": "2025-11-19T15:37:40Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0w3syrko444wkud8nt303nsjv8oh28o3t05g": {
+    "provider_name": "gemini",
+    "job_name": "batches/0w3syrko444wkud8nt303nsjv8oh28o3t05g",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      57,
+      62,
+      64,
+      65,
+      83,
+      85,
+      86,
+      87,
+      89,
+      94
+    ],
+    "created_at": "2025-11-19T15:37:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/9s0aavg0np15hb6l7brsphiv8vy56pzsxoc9": {
+    "provider_name": "gemini",
+    "job_name": "batches/9s0aavg0np15hb6l7brsphiv8vy56pzsxoc9",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      96,
+      97,
+      99,
+      102,
+      103,
+      108,
+      122,
+      124,
+      125,
+      126
+    ],
+    "created_at": "2025-11-19T15:37:42Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/rlf86suwm4hhkopbf6aqthmk65g3t46lficb": {
+    "provider_name": "gemini",
+    "job_name": "batches/rlf86suwm4hhkopbf6aqthmk65g3t46lficb",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      130,
+      131,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      143,
+      144
+    ],
+    "created_at": "2025-11-19T15:37:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/e92252oszm8fvynt8uqd69byx819ktbai1qv": {
+    "provider_name": "gemini",
+    "job_name": "batches/e92252oszm8fvynt8uqd69byx819ktbai1qv",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      154,
+      157,
+      158,
+      159
+    ],
+    "created_at": "2025-11-19T15:37:45Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ecl0lqr42v06bmyprtkjlb25vt35s3eovecy": {
+    "provider_name": "gemini",
+    "job_name": "batches/ecl0lqr42v06bmyprtkjlb25vt35s3eovecy",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      160,
+      161,
+      162,
+      164,
+      165,
+      168,
+      169,
+      174,
+      175,
+      176
+    ],
+    "created_at": "2025-11-19T15:37:46Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1srwc5uocvz7osrusanu8as6nqqd64pbjrzu": {
+    "provider_name": "gemini",
+    "job_name": "batches/1srwc5uocvz7osrusanu8as6nqqd64pbjrzu",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 7,
+    "issue_ids": [
+      177,
+      179,
+      180,
+      197,
+      198,
+      201,
+      208,
+      214,
+      215,
+      216
+    ],
+    "created_at": "2025-11-19T15:37:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2pju5j1kffnghoswxl1bijakkggfe1xbf750": {
+    "provider_name": "gemini",
+    "job_name": "batches/2pju5j1kffnghoswxl1bijakkggfe1xbf750",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 8,
+    "issue_ids": [
+      217,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      228
+    ],
+    "created_at": "2025-11-19T15:37:49Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0s9fum1rt9oh4adymcptcwgvzc0l6y3ec7ev": {
+    "provider_name": "gemini",
+    "job_name": "batches/0s9fum1rt9oh4adymcptcwgvzc0l6y3ec7ev",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 9,
+    "issue_ids": [
+      230,
+      234,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "created_at": "2025-11-19T15:37:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/lemuvhpwueoxuxslef0fsppd8rpaadhr3fmu": {
+    "provider_name": "gemini",
+    "job_name": "batches/lemuvhpwueoxuxslef0fsppd8rpaadhr3fmu",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 10,
+    "issue_ids": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      254,
+      255,
+      256
+    ],
+    "created_at": "2025-11-19T15:37:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/zv023pkav2zp7b02xbva3kozrkdtyuy11he4": {
+    "provider_name": "gemini",
+    "job_name": "batches/zv023pkav2zp7b02xbva3kozrkdtyuy11he4",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 11,
+    "issue_ids": [
+      257,
+      258,
+      259,
+      260,
+      261,
+      263,
+      264,
+      265,
+      266,
+      267
+    ],
+    "created_at": "2025-11-19T15:37:53Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/u4qr7crvsmslg11hh8rzvb79393w96939qky": {
+    "provider_name": "gemini",
+    "job_name": "batches/u4qr7crvsmslg11hh8rzvb79393w96939qky",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 12,
+    "issue_ids": [
+      268,
+      269,
+      271,
+      272,
+      273,
+      275,
+      276,
+      277,
+      278,
+      279
+    ],
+    "created_at": "2025-11-19T15:37:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/p50vkuk5cp271y5qtga0z613dlj0nkynzsg3": {
+    "provider_name": "gemini",
+    "job_name": "batches/p50vkuk5cp271y5qtga0z613dlj0nkynzsg3",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 13,
+    "issue_ids": [
+      280,
+      281,
+      282,
+      283,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290
+    ],
+    "created_at": "2025-11-19T15:37:55Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/3eob2mogs6xju4p85y4i27hx3xk9v7f6xdiy": {
+    "provider_name": "gemini",
+    "job_name": "batches/3eob2mogs6xju4p85y4i27hx3xk9v7f6xdiy",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 14,
+    "issue_ids": [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300
+    ],
+    "created_at": "2025-11-19T15:37:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/lpvqti35et2ozh29l409903eovbvrtsrh0qa": {
+    "provider_name": "gemini",
+    "job_name": "batches/lpvqti35et2ozh29l409903eovbvrtsrh0qa",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 15,
+    "issue_ids": [
+      301,
+      302,
+      303,
+      305,
+      311,
+      325,
+      337,
+      343,
+      344,
+      347
+    ],
+    "created_at": "2025-11-19T15:37:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/uwk2gqr5khohi6hxm1gf0k0arqht7essed05": {
+    "provider_name": "gemini",
+    "job_name": "batches/uwk2gqr5khohi6hxm1gf0k0arqht7essed05",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-3.csv",
+    "batch_index": 16,
+    "issue_ids": [
+      348,
+      350,
+      354,
+      357,
+      358,
+      359,
+      372,
+      373,
+      374,
+      377
+    ],
+    "created_at": "2025-11-19T15:38:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7z6lk606k1slu5xgam0xfvb7aduovhl1m3qx": {
+    "provider_name": "gemini",
+    "job_name": "batches/7z6lk606k1slu5xgam0xfvb7aduovhl1m3qx",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:38:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/0r0qf5rdsy7qd81foynbeqdyqgg1pp8d6kko": {
+    "provider_name": "gemini",
+    "job_name": "batches/0r0qf5rdsy7qd81foynbeqdyqgg1pp8d6kko",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---guidance-for-teaching-unit-4.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      15,
+      16
+    ],
+    "created_at": "2025-11-19T15:38:02Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/gsuowrq09lk7udmeohr0s6a0oeq8li070gyi": {
+    "provider_name": "gemini",
+    "job_name": "batches/gsuowrq09lk7udmeohr0s6a0oeq8li070gyi",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-1-sample-assessment-materials.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      10,
+      12,
+      13,
+      14,
+      15
+    ],
+    "created_at": "2025-11-19T15:38:04Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7140us1w2lns0cgyz1on6fpavodevrzxg6xj": {
+    "provider_name": "gemini",
+    "job_name": "batches/7140us1w2lns0cgyz1on6fpavodevrzxg6xj",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-1-sample-assessment-materials.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      24,
+      26,
+      27
+    ],
+    "created_at": "2025-11-19T15:38:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/7mnpcjo32qyxnelzvswzwq5z1iel1k15vj75": {
+    "provider_name": "gemini",
+    "job_name": "batches/7mnpcjo32qyxnelzvswzwq5z1iel1k15vj75",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-1-sample-assessment-materials.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      81,
+      85,
+      86,
+      87,
+      90
+    ],
+    "created_at": "2025-11-19T15:38:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5nopum00xpcvxu2p7yr52aoksatkhyuwrwsu": {
+    "provider_name": "gemini",
+    "job_name": "batches/5nopum00xpcvxu2p7yr52aoksatkhyuwrwsu",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-1-sample-assessment-materials.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      95,
+      97
+    ],
+    "created_at": "2025-11-19T15:38:08Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/wzn4cy29bv2z544by28u6foorcm62u92q9u7": {
+    "provider_name": "gemini",
+    "job_name": "batches/wzn4cy29bv2z544by28u6foorcm62u92q9u7",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-2-non-exam-assessment-pack-sample.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5
+    ],
+    "created_at": "2025-11-19T15:38:10Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/sabgiac67u03idp3f5baomqcgl122v34d0ri": {
+    "provider_name": "gemini",
+    "job_name": "batches/sabgiac67u03idp3f5baomqcgl122v34d0ri",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-3-sample-assessment-materials.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      17,
+      20,
+      21,
+      22
+    ],
+    "created_at": "2025-11-19T15:38:11Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/egsxq69c9cfipi8cu2r5ytcxdrj8xxa21zrh": {
+    "provider_name": "gemini",
+    "job_name": "batches/egsxq69c9cfipi8cu2r5ytcxdrj8xxa21zrh",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-3-sample-assessment-materials.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      33,
+      41,
+      51
+    ],
+    "created_at": "2025-11-19T15:38:12Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/f9f3nwd6pomuhth95netb5kqy9ekmia0z2rf": {
+    "provider_name": "gemini",
+    "job_name": "batches/f9f3nwd6pomuhth95netb5kqy9ekmia0z2rf",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-3-sample-assessment-materials.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      62,
+      64,
+      66,
+      67,
+      71,
+      73,
+      75,
+      76,
+      77,
+      78
+    ],
+    "created_at": "2025-11-19T15:38:14Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8pnt0hviw33x5vg15viniirt4nmw4423p4f2": {
+    "provider_name": "gemini",
+    "job_name": "batches/8pnt0hviw33x5vg15viniirt4nmw4423p4f2",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-3-sample-assessment-materials.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      79,
+      82
+    ],
+    "created_at": "2025-11-19T15:38:15Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/4zn3vy2ppj7crv5euyyhgd0bymx66bmyfbxc": {
+    "provider_name": "gemini",
+    "job_name": "batches/4zn3vy2ppj7crv5euyyhgd0bymx66bmyfbxc",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies---unit-4-non-exam-assessment-pack.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "created_at": "2025-11-19T15:38:17Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/gjl1y3cb6qwxzjgsxtd7x8ssxbhha9595tip": {
+    "provider_name": "gemini",
+    "job_name": "batches/gjl1y3cb6qwxzjgsxtd7x8ssxbhha9595tip",
+    "subject": "Religious-Studies",
+    "filename": "gcse-religious-studies-unit-2-nea-handbook.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "created_at": "2025-11-19T15:38:18Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/93z54iwricycia7fa4vlpzgnjn5kiwpk3ams": {
+    "provider_name": "gemini",
+    "job_name": "batches/93z54iwricycia7fa4vlpzgnjn5kiwpk3ams",
+    "subject": "Religious-Studies",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11
+    ],
+    "created_at": "2025-11-19T15:38:19Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yni37qpu19wptvhlt87jc84e4gxp27cisoge": {
+    "provider_name": "gemini",
+    "job_name": "batches/yni37qpu19wptvhlt87jc84e4gxp27cisoge",
+    "subject": "Religious-Studies",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      13
+    ],
+    "created_at": "2025-11-19T15:38:21Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yn0mxo46th1q50li0bajd76negbim8l2ux6c": {
+    "provider_name": "gemini",
+    "job_name": "batches/yn0mxo46th1q50li0bajd76negbim8l2ux6c",
+    "subject": "Religious-Studies",
+    "filename": "wjec-gcse-religious-studies-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:38:22Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/yijdkqn3a2chedvia41wx6uwe6r90g2zrquc": {
+    "provider_name": "gemini",
+    "job_name": "batches/yijdkqn3a2chedvia41wx6uwe6r90g2zrquc",
+    "subject": "Religious-Studies",
+    "filename": "wjec-gcse-religious-studies-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      27,
+      28,
+      29,
+      31,
+      34,
+      36,
+      38,
+      39,
+      42,
+      45
+    ],
+    "created_at": "2025-11-19T15:38:24Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/4ooqdpmacz9raldpxddrznb8xnpcrx2kugv4": {
+    "provider_name": "gemini",
+    "job_name": "batches/4ooqdpmacz9raldpxddrznb8xnpcrx2kugv4",
+    "subject": "Religious-Studies",
+    "filename": "wjec-gcse-religious-studies-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      46,
+      53,
+      56,
+      57,
+      59,
+      64,
+      68,
+      69,
+      72,
+      73
+    ],
+    "created_at": "2025-11-19T15:38:26Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/h7evif7fd53qc79ne2ke2wctdnv0tt9o0rme": {
+    "provider_name": "gemini",
+    "job_name": "batches/h7evif7fd53qc79ne2ke2wctdnv0tt9o0rme",
+    "subject": "Religious-Studies",
+    "filename": "wjec-gcse-religious-studies-specification.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      83,
+      84
+    ],
+    "created_at": "2025-11-19T15:38:27Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/bifi08usfki49xi77gavcgvegvbximn5w3og": {
+    "provider_name": "gemini",
+    "job_name": "batches/bifi08usfki49xi77gavcgvegvbximn5w3og",
+    "subject": "Religious-Studies",
+    "filename": "wjec-gcse-religious-studies-specification.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "created_at": "2025-11-19T15:38:29Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/j2vz41tnje7kmmkvnb7tiaxi68wc1rhjkpx6": {
+    "provider_name": "gemini",
+    "job_name": "batches/j2vz41tnje7kmmkvnb7tiaxi68wc1rhjkpx6",
+    "subject": "Social-Studies",
+    "filename": "social-studies---options-evening-flyer.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0
+    ],
+    "created_at": "2025-11-19T15:38:30Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5eqkdqxl6epfh2cjvpzdd6kfvi6zx0orx8bc": {
+    "provider_name": "gemini",
+    "job_name": "batches/5eqkdqxl6epfh2cjvpzdd6kfvi6zx0orx8bc",
+    "subject": "Social-Studies",
+    "filename": "wjec-gcse-social-studies-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:38:32Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/ftjorv68sgbyhu95x3cjuqzydnxx3jrfgy79": {
+    "provider_name": "gemini",
+    "job_name": "batches/ftjorv68sgbyhu95x3cjuqzydnxx3jrfgy79",
+    "subject": "Social-Studies",
+    "filename": "wjec-gcse-social-studies-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10,
+      11,
+      13
+    ],
+    "created_at": "2025-11-19T15:38:33Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/9k4otzyngysaxt7r6b259un97pu0dbsdu4je": {
+    "provider_name": "gemini",
+    "job_name": "batches/9k4otzyngysaxt7r6b259un97pu0dbsdu4je",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---delivery-guide.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "created_at": "2025-11-19T15:38:34Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/h2rhu7wepk5ip7sekyoiasruccpt9smyrzqs": {
+    "provider_name": "gemini",
+    "job_name": "batches/h2rhu7wepk5ip7sekyoiasruccpt9smyrzqs",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---faqs.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "created_at": "2025-11-19T15:38:36Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/jeptmmjo6fedmsb6qy56zspakpp3owxjv7pq": {
+    "provider_name": "gemini",
+    "job_name": "batches/jeptmmjo6fedmsb6qy56zspakpp3owxjv7pq",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-1.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "created_at": "2025-11-19T15:38:37Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/i29rdr3ezsqw6x84gcenp6r17h1881qdp5um": {
+    "provider_name": "gemini",
+    "job_name": "batches/i29rdr3ezsqw6x84gcenp6r17h1881qdp5um",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-1.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21
+    ],
+    "created_at": "2025-11-19T15:38:38Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/1nz4odmxnl3cfnir0avf7pf8he5be3dh2thr": {
+    "provider_name": "gemini",
+    "job_name": "batches/1nz4odmxnl3cfnir0avf7pf8he5be3dh2thr",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-2.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      16
+    ],
+    "created_at": "2025-11-19T15:38:39Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/5arakzh2pjk3z8u2rxlf5mtj3buxctw6j5xl": {
+    "provider_name": "gemini",
+    "job_name": "batches/5arakzh2pjk3z8u2rxlf5mtj3buxctw6j5xl",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-2.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      17
+    ],
+    "created_at": "2025-11-19T15:38:41Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/o54vqr1plpqva5yrsgszkjnyqerao0os8d3n": {
+    "provider_name": "gemini",
+    "job_name": "batches/o54vqr1plpqva5yrsgszkjnyqerao0os8d3n",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-3.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:38:42Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/t85b7k1ijhn3ha8ajux2jet3kfmm8khrzj70": {
+    "provider_name": "gemini",
+    "job_name": "batches/t85b7k1ijhn3ha8ajux2jet3kfmm8khrzj70",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---guidance-for-teaching-unit-4.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:38:43Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/2o80dns5i3lld97fijq7lyn8o2cgy29tzppw": {
+    "provider_name": "gemini",
+    "job_name": "batches/2o80dns5i3lld97fijq7lyn8o2cgy29tzppw",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---unit-1-oracy.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      13,
+      14
+    ],
+    "created_at": "2025-11-19T15:38:44Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/kcvlwqsjrmtyoyll9doedqoeen295s5waktq": {
+    "provider_name": "gemini",
+    "job_name": "batches/kcvlwqsjrmtyoyll9doedqoeen295s5waktq",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---unit-2-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      4
+    ],
+    "created_at": "2025-11-19T15:38:46Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8jjltmovag08k5v420lqf4wte6sqv8y1xfm6": {
+    "provider_name": "gemini",
+    "job_name": "batches/8jjltmovag08k5v420lqf4wte6sqv8y1xfm6",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---unit-3-listening.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      8
+    ],
+    "created_at": "2025-11-19T15:38:47Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/8knblls9gpwfs280lr84kf27kcxffebyr3eh": {
+    "provider_name": "gemini",
+    "job_name": "batches/8knblls9gpwfs280lr84kf27kcxffebyr3eh",
+    "subject": "Spanish",
+    "filename": "gcse-spanish---unit-4-reading-and-writing.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      7,
+      10
+    ],
+    "created_at": "2025-11-19T15:38:48Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/l649287mam2jn6m54yehhmt899yt6ydqc20j": {
+    "provider_name": "gemini",
+    "job_name": "batches/l649287mam2jn6m54yehhmt899yt6ydqc20j",
+    "subject": "Spanish",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "created_at": "2025-11-19T15:38:50Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/be0frmiuxhai915th2j90pt9n0iaei0allue": {
+    "provider_name": "gemini",
+    "job_name": "batches/be0frmiuxhai915th2j90pt9n0iaei0allue",
+    "subject": "Spanish",
+    "filename": "overview-of-consultation-findings.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      10
+    ],
+    "created_at": "2025-11-19T15:38:51Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/pakfofga89lhbpsa2jnjea0jizecdcb0lxps": {
+    "provider_name": "gemini",
+    "job_name": "batches/pakfofga89lhbpsa2jnjea0jizecdcb0lxps",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "created_at": "2025-11-19T15:38:53Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/e6rd8zkx1z2lc4gwkz40y51w6r80eh8wlwrr": {
+    "provider_name": "gemini",
+    "job_name": "batches/e6rd8zkx1z2lc4gwkz40y51w6r80eh8wlwrr",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      26,
+      28,
+      30,
+      31
+    ],
+    "created_at": "2025-11-19T15:38:54Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/iq69v4a3ogftjro2raq6lzjr1gqi4zcxdyuo": {
+    "provider_name": "gemini",
+    "job_name": "batches/iq69v4a3ogftjro2raq6lzjr1gqi4zcxdyuo",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      60,
+      61
+    ],
+    "created_at": "2025-11-19T15:38:56Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/9lwlmzfstav0161ru0wy6gcy121s1btlt0yc": {
+    "provider_name": "gemini",
+    "job_name": "batches/9lwlmzfstav0161ru0wy6gcy121s1btlt0yc",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 3,
+    "issue_ids": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ],
+    "created_at": "2025-11-19T15:38:57Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/v4ynzz7c1mm98nmv3hsey12re9j6rq0ay6sp": {
+    "provider_name": "gemini",
+    "job_name": "batches/v4ynzz7c1mm98nmv3hsey12re9j6rq0ay6sp",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 4,
+    "issue_ids": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "created_at": "2025-11-19T15:38:58Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/072wq47e60k64w5m8w77216zfoic0x168zo0": {
+    "provider_name": "gemini",
+    "job_name": "batches/072wq47e60k64w5m8w77216zfoic0x168zo0",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 5,
+    "issue_ids": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      103,
+      110
+    ],
+    "created_at": "2025-11-19T15:39:00Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/th0qsnk1i8qk2kpf5ezoq9p6kaojfnfaoaxq": {
+    "provider_name": "gemini",
+    "job_name": "batches/th0qsnk1i8qk2kpf5ezoq9p6kaojfnfaoaxq",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 6,
+    "issue_ids": [
+      120,
+      123,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "created_at": "2025-11-19T15:39:01Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/vo9uzhk9mmtv3jmh5agcmqfzjvxz8zzd2i18": {
+    "provider_name": "gemini",
+    "job_name": "batches/vo9uzhk9mmtv3jmh5agcmqfzjvxz8zzd2i18",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 7,
+    "issue_ids": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "created_at": "2025-11-19T15:39:02Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/c7z9v838t7pmjxfzp1903e87tt0dr6z6n40b": {
+    "provider_name": "gemini",
+    "job_name": "batches/c7z9v838t7pmjxfzp1903e87tt0dr6z6n40b",
+    "subject": "Spanish",
+    "filename": "wjec-gcse-spanish-specification.csv",
+    "batch_index": 8,
+    "issue_ids": [
+      148,
+      149
+    ],
+    "created_at": "2025-11-19T15:39:04Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/dgmzx1id18h4r1p3ed7zfonru3cmrswt9l4o": {
+    "provider_name": "gemini",
+    "job_name": "batches/dgmzx1id18h4r1p3ed7zfonru3cmrswt9l4o",
+    "subject": "The-Sciences-Double-Award",
+    "filename": "wjec-gcse-the-sciences-double-award-specification.csv",
+    "batch_index": 0,
+    "issue_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "created_at": "2025-11-19T15:39:05Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/c6nmh5vo68xxo0t9i863vyjj9ptz9hxgf0ro": {
+    "provider_name": "gemini",
+    "job_name": "batches/c6nmh5vo68xxo0t9i863vyjj9ptz9hxgf0ro",
+    "subject": "The-Sciences-Double-Award",
+    "filename": "wjec-gcse-the-sciences-double-award-specification.csv",
+    "batch_index": 1,
+    "issue_ids": [
+      12,
+      14,
+      15,
+      16,
+      20,
+      24,
+      29,
+      31,
+      32,
+      33
+    ],
+    "created_at": "2025-11-19T15:39:07Z",
+    "status": "pending",
+    "error_message": null
+  },
+  "batches/04yj4suclft5wzv4o8gueexmzea2df0ob7f9": {
+    "provider_name": "gemini",
+    "job_name": "batches/04yj4suclft5wzv4o8gueexmzea2df0ob7f9",
+    "subject": "The-Sciences-Double-Award",
+    "filename": "wjec-gcse-the-sciences-double-award-specification.csv",
+    "batch_index": 2,
+    "issue_ids": [
+      34,
+      35,
+      37,
+      38,
+      39
+    ],
+    "created_at": "2025-11-19T15:39:08Z",
+    "status": "pending",
+    "error_message": null
   }
 }
