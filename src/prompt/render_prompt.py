@@ -66,6 +66,7 @@ def render_template(
         "llm_reviewer_system_prompt",
         "authoritative_sources",
         "error_descriptions",
+        "output_format",
     ]:
         partial_content = _read_prompt(f"{partial_name}.md")
         partials[partial_name] = _strip_code_fences(partial_content)
@@ -90,10 +91,12 @@ def render_prompts(
 
     # Load partials (shared by both templates)
     partials = {}
+
     for partial_name in [
         "llm_reviewer_system_prompt",
         "authoritative_sources",
         "error_descriptions",
+        "output_format",
     ]:
         partial_content = _read_prompt(f"{partial_name}.md")
         partials[partial_name] = _strip_code_fences(partial_content)
