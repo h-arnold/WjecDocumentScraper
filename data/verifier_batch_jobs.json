@@ -10,8 +10,8 @@
       1
     ],
     "created_at": "2025-11-19T14:06:02Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/4q8gwsg1jk0c3eie5zenh533wqbr9b342f1o": {
     "provider_name": "gemini",
@@ -32,8 +32,8 @@
       12
     ],
     "created_at": "2025-11-19T14:06:03Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/sur090mgml55x3wjex38amylqdazijw6xv4c": {
     "provider_name": "gemini",
@@ -54,8 +54,8 @@
       29
     ],
     "created_at": "2025-11-19T14:06:05Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/uvlkbyit0l8oih8s8jm812rgqd3mpyzxu1x5": {
     "provider_name": "gemini",
@@ -76,8 +76,8 @@
       53
     ],
     "created_at": "2025-11-19T14:06:06Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/3mq4zovaa4fkt3byjzas3zhu1k35gevm66l9": {
     "provider_name": "gemini",
@@ -93,8 +93,8 @@
       4
     ],
     "created_at": "2025-11-19T14:06:08Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/bycctlcyccbni37asykmauwr4cew0la1cla7": {
     "provider_name": "gemini",
@@ -111,8 +111,8 @@
       7
     ],
     "created_at": "2025-11-19T14:06:09Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fhfnh2rp91y5qknxf3icg4bxva8d60gc5djz": {
     "provider_name": "gemini",
@@ -133,8 +133,8 @@
       12
     ],
     "created_at": "2025-11-19T14:06:10Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/gz6rk6qu1aot15kdxxez1vrs1bwxmk6mxw7r": {
     "provider_name": "gemini",
@@ -146,8 +146,8 @@
       13
     ],
     "created_at": "2025-11-19T14:06:12Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/227db9r9tmulyvqda65ylk49surk1ok9a4lh": {
     "provider_name": "gemini",
@@ -163,8 +163,8 @@
       4
     ],
     "created_at": "2025-11-19T14:06:13Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zl50ce8l4itkt3jke4lpkxlaeg62vligs4d2": {
     "provider_name": "gemini",
@@ -176,8 +176,8 @@
       2
     ],
     "created_at": "2025-11-19T14:06:14Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/bxn7cnoxr87e18fbuzfdl291uzwyahuk8tzt": {
     "provider_name": "gemini",
@@ -193,8 +193,8 @@
       11
     ],
     "created_at": "2025-11-19T14:06:15Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/snticj7tshgvgv1mkapn906aaj6dq7p2bvy3": {
     "provider_name": "gemini",
@@ -215,8 +215,8 @@
       11
     ],
     "created_at": "2025-11-19T14:06:17Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fg59fmxkyu1vgi680egcki6g8x9hghg9708l": {
     "provider_name": "gemini",
@@ -237,8 +237,8 @@
       22
     ],
     "created_at": "2025-11-19T14:06:18Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/eovqrfcfa9fktl84qpja5agkdq6ib2jx9tjc": {
     "provider_name": "gemini",
@@ -259,8 +259,8 @@
       32
     ],
     "created_at": "2025-11-19T14:06:19Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/drywpallfltyfijdvfbkenngpbro4etjx7j2": {
     "provider_name": "gemini",
@@ -275,8 +275,8 @@
       37
     ],
     "created_at": "2025-11-19T14:06:21Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5yn0c0x2s2y9z8jp3p0uz5m2zxng0qrsktt9": {
     "provider_name": "gemini",
@@ -297,8 +297,8 @@
       17
     ],
     "created_at": "2025-11-19T14:06:22Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/cqdyquaxzt5j9fjajm60iqr0tmbvx33x01ji": {
     "provider_name": "gemini",
@@ -319,8 +319,8 @@
       30
     ],
     "created_at": "2025-11-19T14:06:24Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/aed05qjl5u1kh3znmtw5m3u7y26wkxbmllma": {
     "provider_name": "gemini",
@@ -338,8 +338,8 @@
       11
     ],
     "created_at": "2025-11-19T14:06:25Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/rg68kxwz43y8wcsgudnfqp9vtcsgugc8nvy6": {
     "provider_name": "gemini",
@@ -351,8 +351,8 @@
       0
     ],
     "created_at": "2025-11-19T14:06:27Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/vsg1buma3eacheuk3aiq8q11bvzcqy9kir8l": {
     "provider_name": "gemini",
@@ -373,8 +373,8 @@
       9
     ],
     "created_at": "2025-11-19T14:06:29Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/3tjx54st5dguz0k9ghboi5t7qem9z6kfuisi": {
     "provider_name": "gemini",
@@ -395,8 +395,8 @@
       21
     ],
     "created_at": "2025-11-19T14:06:30Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/pnrsq9s3u6k8ikps9tmvv0wg3276c31q5n4y": {
     "provider_name": "gemini",
@@ -408,8 +408,8 @@
       23
     ],
     "created_at": "2025-11-19T14:06:32Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/g9l27p8a62xsj92m3s3deyjwtu7egf9cla3c": {
     "provider_name": "gemini",
@@ -425,8 +425,8 @@
       4
     ],
     "created_at": "2025-11-19T14:06:33Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/400i4wbgusal41osinvetjv8ynqy68r8qswz": {
     "provider_name": "gemini",
@@ -447,8 +447,8 @@
       11
     ],
     "created_at": "2025-11-19T14:06:35Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/meyseokrsbxekx3qtgkv86rt4czgjmj289sw": {
     "provider_name": "gemini",
@@ -467,8 +467,8 @@
       42
     ],
     "created_at": "2025-11-19T14:06:36Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/a7c92qk80ns4qgiadjytdzovn0xq2p7vbz4l": {
     "provider_name": "gemini",
@@ -480,8 +480,8 @@
       0
     ],
     "created_at": "2025-11-19T14:06:37Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/78rocvagngk74zva02nkqx1mg6ai3l39ixie": {
     "provider_name": "gemini",
@@ -502,8 +502,8 @@
       12
     ],
     "created_at": "2025-11-19T14:06:39Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/q3p3u2lsa0g7yqzw4rmj5toux3mb0dnomifk": {
     "provider_name": "gemini",
@@ -515,8 +515,8 @@
       13
     ],
     "created_at": "2025-11-19T14:06:40Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2d29caayrpjfjy7ebahvfm0a0y4lvjmiol1e": {
     "provider_name": "gemini",
@@ -537,8 +537,8 @@
       9
     ],
     "created_at": "2025-11-19T14:06:41Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/q69ee7q20shcwtona0n2m8qnjufl72z4xhqa": {
     "provider_name": "gemini",
@@ -556,8 +556,8 @@
       20
     ],
     "created_at": "2025-11-19T14:06:43Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/4cnr90tm9w38j819kiyw3y7zw2oq75g0o6qs": {
     "provider_name": "gemini",
@@ -578,8 +578,8 @@
       164
     ],
     "created_at": "2025-11-19T14:06:45Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/rtdru8hhzj5j9mjibesc13jlyi79zj1z9wcj": {
     "provider_name": "gemini",
@@ -597,8 +597,8 @@
       200
     ],
     "created_at": "2025-11-19T14:06:46Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/yacnwujmftjg8d3fe7f0hc49tfcsq1fksf01": {
     "provider_name": "gemini",
@@ -619,8 +619,8 @@
       13
     ],
     "created_at": "2025-11-19T14:06:48Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/u7lcrp3xhqn8khsxscmlkh7mmez5no01xqel": {
     "provider_name": "gemini",
@@ -641,8 +641,8 @@
       10
     ],
     "created_at": "2025-11-19T14:06:49Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/9anf23k7jf5lfqko78p2tgt0khv8o4vrd9as": {
     "provider_name": "gemini",
@@ -663,8 +663,8 @@
       12
     ],
     "created_at": "2025-11-19T14:06:50Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ou1xs8rayepnqwyvzi75gtatmjpqykyfr5nb": {
     "provider_name": "gemini",
@@ -676,8 +676,8 @@
       13
     ],
     "created_at": "2025-11-19T14:06:52Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jeakw91y3jxirh1vvtub44ofvk38uazuekc7": {
     "provider_name": "gemini",
@@ -698,8 +698,8 @@
       11
     ],
     "created_at": "2025-11-19T14:06:54Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1wxxqiq3mlkmwxlq186moquy4liky7fbqpz9": {
     "provider_name": "gemini",
@@ -716,8 +716,8 @@
       18
     ],
     "created_at": "2025-11-19T14:06:55Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/haxc2ammfr2pi1cdz8fpdi7efhqk0h0jq0za": {
     "provider_name": "gemini",
@@ -738,8 +738,8 @@
       9
     ],
     "created_at": "2025-11-19T14:06:56Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/7b577st0rxd5tlqic8wypl18hfi62ctc9k8p": {
     "provider_name": "gemini",
@@ -754,8 +754,8 @@
       16
     ],
     "created_at": "2025-11-19T14:06:58Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/04ko81ct6ays4h643jmw2ouo6i2qherj9ldo": {
     "provider_name": "gemini",
@@ -776,8 +776,8 @@
       12
     ],
     "created_at": "2025-11-19T14:06:59Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/seczgxksa0qpkx7h4vhnrtxjcl0r7diwtyek": {
     "provider_name": "gemini",
@@ -795,8 +795,8 @@
       6
     ],
     "created_at": "2025-11-19T14:07:01Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/7i5fg23ewl191kezjdh2lwf9y7iuo8cq64z4": {
     "provider_name": "gemini",
@@ -811,8 +811,8 @@
       5
     ],
     "created_at": "2025-11-19T14:07:02Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xsy1byfgv0381mo1tfeut3o10tvns962r5o5": {
     "provider_name": "gemini",
@@ -833,8 +833,8 @@
       9
     ],
     "created_at": "2025-11-19T14:07:04Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/pch4xxwrvzv5ugxtbkwn9gwd5w30pphop8zj": {
     "provider_name": "gemini",
@@ -855,8 +855,8 @@
       25
     ],
     "created_at": "2025-11-19T14:07:05Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tcwohx1tumqphf9dccpc5do3gov6efd8vp4k": {
     "provider_name": "gemini",
@@ -876,8 +876,8 @@
       37
     ],
     "created_at": "2025-11-19T14:07:07Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/130loza5pzi7yyv5nk1cphb1ei9yzqp2idw0": {
     "provider_name": "gemini",
@@ -895,8 +895,8 @@
       6
     ],
     "created_at": "2025-11-19T14:07:08Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/82jkti92b8npgn199y7jyq7k707kch1prz7s": {
     "provider_name": "gemini",
@@ -917,8 +917,8 @@
       18
     ],
     "created_at": "2025-11-19T14:07:10Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/700a71yict6r0xhnc8b8fmza8f2809s8hggu": {
     "provider_name": "gemini",
@@ -939,8 +939,8 @@
       49
     ],
     "created_at": "2025-11-19T14:07:11Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/t23l276jk3vqzxnz7fzf645brgy4ohpf0p82": {
     "provider_name": "gemini",
@@ -952,8 +952,8 @@
       50
     ],
     "created_at": "2025-11-19T14:07:12Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5o2pfft6okw5zf76ynrtx9fmets1lvkamwb0": {
     "provider_name": "gemini",
@@ -966,8 +966,8 @@
       1
     ],
     "created_at": "2025-11-19T14:07:14Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jmr6nvsc21j53s2rda683h6nx1tn9x230la6": {
     "provider_name": "gemini",
@@ -988,8 +988,8 @@
       11
     ],
     "created_at": "2025-11-19T14:07:16Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/s7p1fzjwmsl7ay387mpwoq75t2ieadulbt9x": {
     "provider_name": "gemini",
@@ -1010,8 +1010,8 @@
       22
     ],
     "created_at": "2025-11-19T14:07:17Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2s08rh92y9oyuj77nsxwn0szuk5po4vr21f4": {
     "provider_name": "gemini",
@@ -1032,8 +1032,8 @@
       33
     ],
     "created_at": "2025-11-19T14:07:18Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/g6uwzwce3awpulfuflgk2tqeomeqbhb0v7f5": {
     "provider_name": "gemini",
@@ -1050,8 +1050,8 @@
       40
     ],
     "created_at": "2025-11-19T14:07:20Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tbgpe0ezs3d8igfaw36p3l6h1tg8ok90zx3i": {
     "provider_name": "gemini",
@@ -1069,8 +1069,8 @@
       15
     ],
     "created_at": "2025-11-19T14:07:21Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/45374h7njwlxur9vpt6gg69whiq7nour88ti": {
     "provider_name": "gemini",
@@ -1091,8 +1091,8 @@
       10
     ],
     "created_at": "2025-11-19T14:07:23Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mmmwka0jqkv7kwexmiv3x2ai51s4lltmx3fl": {
     "provider_name": "gemini",
@@ -1113,8 +1113,8 @@
       23
     ],
     "created_at": "2025-11-19T14:07:24Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/11c7ktwacua2qkn6dx4o50w7pgypd3wey87c": {
     "provider_name": "gemini",
@@ -1135,8 +1135,8 @@
       35
     ],
     "created_at": "2025-11-19T14:07:25Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/8lq1z7erh57aiz5p7b39wj7nmdlddnnh8i9f": {
     "provider_name": "gemini",
@@ -1157,8 +1157,8 @@
       45
     ],
     "created_at": "2025-11-19T14:07:27Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nl072x80hvtjcug9vqk3kx3gaogt9k37i15u": {
     "provider_name": "gemini",
@@ -1179,8 +1179,8 @@
       59
     ],
     "created_at": "2025-11-19T14:07:28Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nwafj6cpww6r2v9jsfczfbxh2ssqn90ieevz": {
     "provider_name": "gemini",
@@ -1201,8 +1201,8 @@
       69
     ],
     "created_at": "2025-11-19T14:07:29Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mij80crydnjjw0xn6ogbfmnb89p56rrpmba8": {
     "provider_name": "gemini",
@@ -1223,8 +1223,8 @@
       80
     ],
     "created_at": "2025-11-19T14:07:30Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jx0wb1ifmdsgc540qxpw5w1c8gloatcl2wx8": {
     "provider_name": "gemini",
@@ -1243,8 +1243,8 @@
       88
     ],
     "created_at": "2025-11-19T14:07:32Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z8xax9uv8oca7qtj6pnwqofweny2ot1doh8p": {
     "provider_name": "gemini",
@@ -1263,8 +1263,8 @@
       9
     ],
     "created_at": "2025-11-19T14:07:33Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1bkw8fbq2pmsl6oalq8mw1dfdxtuqmd3ah3p": {
     "provider_name": "gemini",
@@ -1277,8 +1277,8 @@
       3
     ],
     "created_at": "2025-11-19T14:07:34Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nvnne7g1bls5jai808z3o6appkh0u8gqblih": {
     "provider_name": "gemini",
@@ -1299,8 +1299,8 @@
       10
     ],
     "created_at": "2025-11-19T14:07:35Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2zak6zw87jta0f0r0cy88j5o018rng9d0gpp": {
     "provider_name": "gemini",
@@ -1314,8 +1314,8 @@
       13
     ],
     "created_at": "2025-11-19T14:07:37Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tfz1m2fw1e4yspoybytai8e1vkajvnur90kf": {
     "provider_name": "gemini",
@@ -1336,8 +1336,8 @@
       9
     ],
     "created_at": "2025-11-19T14:07:38Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/d5ivosuy0jwqziojqu6wjq0liikjvgu8jndb": {
     "provider_name": "gemini",
@@ -1351,8 +1351,8 @@
       12
     ],
     "created_at": "2025-11-19T14:07:40Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ew1kngx4de8kbrnm1826z4tzty5w3fhi251r": {
     "provider_name": "gemini",
@@ -1367,8 +1367,8 @@
       3
     ],
     "created_at": "2025-11-19T14:07:41Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/w3mf9nhg8mxej2dt81z48xytaw1wxndi6p6j": {
     "provider_name": "gemini",
@@ -1389,8 +1389,8 @@
       30
     ],
     "created_at": "2025-11-19T14:07:42Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/0w768tt7uo7xave7r2wxal6un5mzgn1gv9w9": {
     "provider_name": "gemini",
@@ -1411,8 +1411,8 @@
       72
     ],
     "created_at": "2025-11-19T14:07:43Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/vaaggepbshz648539x7kvj2wprer14be7t9i": {
     "provider_name": "gemini",
@@ -1433,8 +1433,8 @@
       108
     ],
     "created_at": "2025-11-19T14:07:45Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/k693gofmcg2zgopa0g4waqq52i5kkcnpwhwk": {
     "provider_name": "gemini",
@@ -1455,8 +1455,8 @@
       156
     ],
     "created_at": "2025-11-19T14:07:46Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nwksoxo9mn7twwsvi92pkhexsvnz9kcvojao": {
     "provider_name": "gemini",
@@ -1477,8 +1477,8 @@
       171
     ],
     "created_at": "2025-11-19T14:07:47Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/oikn1ebzq9nfdty4xgp6xnrj084zagjj5xjy": {
     "provider_name": "gemini",
@@ -1499,8 +1499,8 @@
       194
     ],
     "created_at": "2025-11-19T14:07:49Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ior3frzil7u7m2go9fl0vj4aw1ueneh4n8h1": {
     "provider_name": "gemini",
@@ -1521,8 +1521,8 @@
       209
     ],
     "created_at": "2025-11-19T14:07:50Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fh6s7sqjjn1wr19god79ntzcps3fjb1yfk8y": {
     "provider_name": "gemini",
@@ -1543,8 +1543,8 @@
       227
     ],
     "created_at": "2025-11-19T14:07:52Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/y45gi8qctcnzkopiegslp0osmaj1gp1mwjon": {
     "provider_name": "gemini",
@@ -1565,8 +1565,8 @@
       257
     ],
     "created_at": "2025-11-19T14:07:53Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z7wejmjv197g37rftloburuk9zb94pynd8k3": {
     "provider_name": "gemini",
@@ -1587,8 +1587,8 @@
       283
     ],
     "created_at": "2025-11-19T14:07:55Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1timnakr5m8c1piha8w3ph7bofy4nucrmzmc": {
     "provider_name": "gemini",
@@ -1609,8 +1609,8 @@
       311
     ],
     "created_at": "2025-11-19T14:07:56Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/lom85lk17mall6a5brdq26j5gnbu8m0wmgmh": {
     "provider_name": "gemini",
@@ -1631,8 +1631,8 @@
       323
     ],
     "created_at": "2025-11-19T14:07:57Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/dtj8fxcam74v8egoe7036ems7d9ccw1e4yjm": {
     "provider_name": "gemini",
@@ -1653,8 +1653,8 @@
       351
     ],
     "created_at": "2025-11-19T14:07:58Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/e104vragr8nxexlflk39p7prr1c7nwkms8di": {
     "provider_name": "gemini",
@@ -1675,8 +1675,8 @@
       372
     ],
     "created_at": "2025-11-19T14:08:00Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/u74mcj2eywzg5263cl2x6gzob7a6rb9pv3pc": {
     "provider_name": "gemini",
@@ -1697,8 +1697,8 @@
       385
     ],
     "created_at": "2025-11-19T14:08:01Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nshdpxgierrzq27n3t4hs0x32lp1lgojtlc9": {
     "provider_name": "gemini",
@@ -1719,8 +1719,8 @@
       401
     ],
     "created_at": "2025-11-19T14:08:02Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ft12ar4wtr3nuh37bo2b556g66j4fd73i8xo": {
     "provider_name": "gemini",
@@ -1741,8 +1741,8 @@
       423
     ],
     "created_at": "2025-11-19T14:08:03Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ql5aul0po8l24eaepej101aornzojvvlobt6": {
     "provider_name": "gemini",
@@ -1754,8 +1754,8 @@
       426
     ],
     "created_at": "2025-11-19T14:08:05Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zwel15h0trxq8smdu542ezm456508weiy8g4": {
     "provider_name": "gemini",
@@ -1773,8 +1773,8 @@
       28
     ],
     "created_at": "2025-11-19T14:08:06Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/402y8335j3z0420gyyl1qivactlmz2z3o6iu": {
     "provider_name": "gemini",
@@ -1790,8 +1790,8 @@
       8
     ],
     "created_at": "2025-11-19T14:08:08Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/at0mfbb94o62dlb3960raegneffj321661ng": {
     "provider_name": "gemini",
@@ -1812,8 +1812,8 @@
       14
     ],
     "created_at": "2025-11-19T14:08:09Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/arhzvwnljnvefl206lvf6at9qe0kt3190zs9": {
     "provider_name": "gemini",
@@ -1834,8 +1834,8 @@
       18
     ],
     "created_at": "2025-11-19T14:08:10Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/krptso4ufsbhdv2ghmk4r2wp6ykd9fear25c": {
     "provider_name": "gemini",
@@ -1856,8 +1856,8 @@
       13
     ],
     "created_at": "2025-11-19T14:08:12Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z57cegw5rqqujuaxjsbl1gvykxzoj38wzsk9": {
     "provider_name": "gemini",
@@ -1870,8 +1870,8 @@
       15
     ],
     "created_at": "2025-11-19T14:08:13Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xplctrra0ght5qyk7czy77klyxowla6qs6bs": {
     "provider_name": "gemini",
@@ -1888,8 +1888,8 @@
       9
     ],
     "created_at": "2025-11-19T14:08:14Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/v7p0v8yezi5nr1ni22jw1syx3ip1gs43p80l": {
     "provider_name": "gemini",
@@ -1910,8 +1910,8 @@
       9
     ],
     "created_at": "2025-11-19T14:08:16Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/lweea9lxckpta9f6v5256lict2vy79ncjm59": {
     "provider_name": "gemini",
@@ -1932,8 +1932,8 @@
       23
     ],
     "created_at": "2025-11-19T14:08:17Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jeu6f3vch8nwezepli02z7zogg4yld9k6rfz": {
     "provider_name": "gemini",
@@ -1946,8 +1946,8 @@
       25
     ],
     "created_at": "2025-11-19T14:08:19Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6c09bu7yxqla7v16mh4we1fjrku694xmkl26": {
     "provider_name": "gemini",
@@ -1959,8 +1959,8 @@
       0
     ],
     "created_at": "2025-11-19T14:08:20Z",
-    "status": "completed",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/vkytf15qf29wc9scc05pvta473k0yyr05nxe": {
     "provider_name": "gemini",
@@ -1975,8 +1975,8 @@
       6
     ],
     "created_at": "2025-11-19T15:14:03Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mihz3vtdfdizmtah6gbbvssxn2sjtwvskg0u": {
     "provider_name": "gemini",
@@ -1994,8 +1994,8 @@
       6
     ],
     "created_at": "2025-11-19T15:14:04Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ha3dc4amgrmvoc0t6znk3iifi1qx4payvom3": {
     "provider_name": "gemini",
@@ -2013,8 +2013,8 @@
       6
     ],
     "created_at": "2025-11-19T15:14:05Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5if1gakri4awcx6ky8oqjqlplva72jk7pr29": {
     "provider_name": "gemini",
@@ -2035,8 +2035,8 @@
       10
     ],
     "created_at": "2025-11-19T15:14:07Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xoh60yl6wsf9udscvzjzipxmxshf74xjc4d0": {
     "provider_name": "gemini",
@@ -2049,8 +2049,8 @@
       13
     ],
     "created_at": "2025-11-19T15:14:09Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/kx92vkqpjtcekyr4wgmka7aw1thijx4dqn5f": {
     "provider_name": "gemini",
@@ -2065,8 +2065,8 @@
       3
     ],
     "created_at": "2025-11-19T15:14:10Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/9ny8yno25lao5bz4l6pkv5udh8wdyv2buwfx": {
     "provider_name": "gemini",
@@ -2087,8 +2087,8 @@
       25
     ],
     "created_at": "2025-11-19T15:14:12Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6ujgmzakj2w9fl10mfh9pbybrisclmbx0lmb": {
     "provider_name": "gemini",
@@ -2109,8 +2109,8 @@
       41
     ],
     "created_at": "2025-11-19T15:14:14Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/w5dvyaob9tjhp6xjon0s2cx7hn6wtb9wus5h": {
     "provider_name": "gemini",
@@ -2131,8 +2131,8 @@
       59
     ],
     "created_at": "2025-11-19T15:14:15Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/trmz3u657oy2zmotaj9zhe8qa0jjoxfyqrbj": {
     "provider_name": "gemini",
@@ -2153,8 +2153,8 @@
       72
     ],
     "created_at": "2025-11-19T15:14:17Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5zi2tuy2zlp1c67m9f41tdzotsfmbbcwpyi5": {
     "provider_name": "gemini",
@@ -2169,8 +2169,8 @@
       6
     ],
     "created_at": "2025-11-19T15:31:43Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5op5q0c5n106pmjnfjbwmlllg1m93jjkywvj": {
     "provider_name": "gemini",
@@ -2188,8 +2188,8 @@
       6
     ],
     "created_at": "2025-11-19T15:31:44Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jxt02faocxh6euldxp6f5nxrmzn5m5pm7ugq": {
     "provider_name": "gemini",
@@ -2207,8 +2207,8 @@
       6
     ],
     "created_at": "2025-11-19T15:31:46Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ot69uroctsx1vpwjws5m3r7or0q6hhzd3oog": {
     "provider_name": "gemini",
@@ -2229,8 +2229,8 @@
       10
     ],
     "created_at": "2025-11-19T15:31:48Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/jcahiw2ulzs2ys2v1bjqkq6zys0frbtfdbnz": {
     "provider_name": "gemini",
@@ -2243,8 +2243,8 @@
       13
     ],
     "created_at": "2025-11-19T15:31:49Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xjc1ji8qdutxpsgyl46ausxfitr9226bgkj5": {
     "provider_name": "gemini",
@@ -2259,8 +2259,8 @@
       3
     ],
     "created_at": "2025-11-19T15:31:51Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/qn757n4v6p9qipmyut969ia3pj4414xw7ti7": {
     "provider_name": "gemini",
@@ -2281,8 +2281,8 @@
       25
     ],
     "created_at": "2025-11-19T15:31:52Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/o93g2kna7kok8tjwwjssk342pr57koso9ck1": {
     "provider_name": "gemini",
@@ -2303,8 +2303,8 @@
       41
     ],
     "created_at": "2025-11-19T15:31:54Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/20limhse82ab2jc2zwjrdp6b3lr3507tf5r9": {
     "provider_name": "gemini",
@@ -2325,8 +2325,8 @@
       59
     ],
     "created_at": "2025-11-19T15:31:55Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1xurjjvmxk6lozp2968cnq7qdtueyog6o2j3": {
     "provider_name": "gemini",
@@ -2347,8 +2347,8 @@
       72
     ],
     "created_at": "2025-11-19T15:31:57Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/8skvzumiu2eybwqx4io4f2exjmajyakautp9": {
     "provider_name": "gemini",
@@ -2369,8 +2369,8 @@
       117
     ],
     "created_at": "2025-11-19T15:31:58Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z8fchshgjo0bulki049ikuv5cazlnljjrmh6": {
     "provider_name": "gemini",
@@ -2391,8 +2391,8 @@
       128
     ],
     "created_at": "2025-11-19T15:32:00Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/m7fieknkxo8255dt9wibhytt71jqr6d91srb": {
     "provider_name": "gemini",
@@ -2409,8 +2409,8 @@
       140
     ],
     "created_at": "2025-11-19T15:32:01Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/gy0svk1fy8twfdago7nde9qadbq6y9x5e2ag": {
     "provider_name": "gemini",
@@ -2431,8 +2431,8 @@
       18
     ],
     "created_at": "2025-11-19T15:32:03Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/k8tvu315j42va1ucpn6l9rc1xi10dqgvay50": {
     "provider_name": "gemini",
@@ -2447,8 +2447,8 @@
       26
     ],
     "created_at": "2025-11-19T15:32:04Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mc5hwhoujt7lzzyxxnyjomhf79ukocoj075j": {
     "provider_name": "gemini",
@@ -2469,8 +2469,8 @@
       9
     ],
     "created_at": "2025-11-19T15:32:06Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5ws6jqlza2xidkpcdqyyvxm6iw9ojl5mgmm4": {
     "provider_name": "gemini",
@@ -2483,8 +2483,8 @@
       19
     ],
     "created_at": "2025-11-19T15:32:08Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/kbhsdrulk0ob6wxbkxzalilbknubsvqcwnhu": {
     "provider_name": "gemini",
@@ -2498,8 +2498,8 @@
       2
     ],
     "created_at": "2025-11-19T15:32:10Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ua4y5jvvj9nhmfjxwpxbj9l1uxhbuypsvfch": {
     "provider_name": "gemini",
@@ -2517,8 +2517,8 @@
       14
     ],
     "created_at": "2025-11-19T15:32:11Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/3dgkkgc5379apl11lwajrt7uak8jgjmjo902": {
     "provider_name": "gemini",
@@ -2530,8 +2530,8 @@
       0
     ],
     "created_at": "2025-11-19T15:32:13Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/im7793avy1bc96q348uhdkqqar3b9746a6ml": {
     "provider_name": "gemini",
@@ -2552,8 +2552,8 @@
       11
     ],
     "created_at": "2025-11-19T15:32:15Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/0vxmkkvw1jd8jmwanqobmre6f13liq1wuv8h": {
     "provider_name": "gemini",
@@ -2574,8 +2574,8 @@
       24
     ],
     "created_at": "2025-11-19T15:32:16Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zxc07b0n2jmocqsgzbt6eitmm27hv6hc9ehq": {
     "provider_name": "gemini",
@@ -2587,8 +2587,8 @@
       25
     ],
     "created_at": "2025-11-19T15:32:17Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5pfq0x3efey3ffl7baav6bsppjbj6qnk41xu": {
     "provider_name": "gemini",
@@ -2609,8 +2609,8 @@
       11
     ],
     "created_at": "2025-11-19T15:32:19Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/vtxk9iizr5wix5svu3v86zina8btsravbpc4": {
     "provider_name": "gemini",
@@ -2628,8 +2628,8 @@
       19
     ],
     "created_at": "2025-11-19T15:32:21Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5rb6h1lic06gni8qkb8uqc1bx8yzm5on2msi": {
     "provider_name": "gemini",
@@ -2650,8 +2650,8 @@
       9
     ],
     "created_at": "2025-11-19T15:32:23Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/gjzds7w6fw9mon90ji5rp9934amgm6l2lc2t": {
     "provider_name": "gemini",
@@ -2672,8 +2672,8 @@
       20
     ],
     "created_at": "2025-11-19T15:32:24Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/x9k5qict2yjnsz6mii9p4ogx17s7ak9dz1hf": {
     "provider_name": "gemini",
@@ -2685,8 +2685,8 @@
       0
     ],
     "created_at": "2025-11-19T15:32:26Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/13ezi2qaljpeqwtp9ubou6fig49g8yav5gpt": {
     "provider_name": "gemini",
@@ -2707,8 +2707,8 @@
       22
     ],
     "created_at": "2025-11-19T15:32:27Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z1h4hdvyrcw7dx5f49b5m8bdxtjxwd8zlhbc": {
     "provider_name": "gemini",
@@ -2724,8 +2724,8 @@
       27
     ],
     "created_at": "2025-11-19T15:32:29Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tgbtno1pfk7bfyl03d1ida2oro3tyqpmspn9": {
     "provider_name": "gemini",
@@ -2740,8 +2740,8 @@
       3
     ],
     "created_at": "2025-11-19T15:32:31Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ufzh3ghi4mqkylj5o3jfzz8dp7o70ph8pcw3": {
     "provider_name": "gemini",
@@ -2756,8 +2756,8 @@
       3
     ],
     "created_at": "2025-11-19T15:32:33Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/8f43zzo2exu3cplspgc6g1fpm5d9oblyyk7k": {
     "provider_name": "gemini",
@@ -2778,8 +2778,8 @@
       9
     ],
     "created_at": "2025-11-19T15:32:35Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/cnxfvhcczicxe46xtzlppdlp1s64l28qre4i": {
     "provider_name": "gemini",
@@ -2800,8 +2800,8 @@
       19
     ],
     "created_at": "2025-11-19T15:32:36Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zfmylrkvz9sx3ap8twb3jro3lq1wc144jwc0": {
     "provider_name": "gemini",
@@ -2822,8 +2822,8 @@
       9
     ],
     "created_at": "2025-11-19T15:32:38Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zu2s1boor1cej8udf5l1vggyoi3dmv9a9x7q": {
     "provider_name": "gemini",
@@ -2844,8 +2844,8 @@
       19
     ],
     "created_at": "2025-11-19T15:32:39Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/gbafvg95e7w0jc9edvwoxssl45y9rp8i6ent": {
     "provider_name": "gemini",
@@ -2866,8 +2866,8 @@
       11
     ],
     "created_at": "2025-11-19T15:32:41Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/udnghaua4ukbm5uidfx9nojduo9ttbqyui1x": {
     "provider_name": "gemini",
@@ -2880,8 +2880,8 @@
       13
     ],
     "created_at": "2025-11-19T15:32:43Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zkkom3sv2us5c13cn667as5nrh1lwicgjwh3": {
     "provider_name": "gemini",
@@ -2893,8 +2893,8 @@
       1
     ],
     "created_at": "2025-11-19T15:32:44Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/at6q9m4doua6u4atbivyncgmn9ib1mg7643c": {
     "provider_name": "gemini",
@@ -2915,8 +2915,8 @@
       11
     ],
     "created_at": "2025-11-19T15:32:45Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/s0ex4toq4tt2xmg32z3fesvzv2vrq88irngv": {
     "provider_name": "gemini",
@@ -2937,8 +2937,8 @@
       21
     ],
     "created_at": "2025-11-19T15:32:47Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6vrbmsrk5sgemggu6l9thfty7mg3gk5bkjwd": {
     "provider_name": "gemini",
@@ -2957,8 +2957,8 @@
       29
     ],
     "created_at": "2025-11-19T15:32:48Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1z0apd0g561qw8ou78gnz69bqulplap8acf2": {
     "provider_name": "gemini",
@@ -2975,8 +2975,8 @@
       8
     ],
     "created_at": "2025-11-19T15:32:50Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/kicbl54n6prv0ycwd69p4jostvxi1aybsjf4": {
     "provider_name": "gemini",
@@ -2992,8 +2992,8 @@
       5
     ],
     "created_at": "2025-11-19T15:32:52Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fl6tnoctf0730sajj06kaiioejxuwzq5p28y": {
     "provider_name": "gemini",
@@ -3014,8 +3014,8 @@
       15
     ],
     "created_at": "2025-11-19T15:32:53Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fbe67s6qq405xon9wxx8rq0z5u4odkdcenvd": {
     "provider_name": "gemini",
@@ -3030,8 +3030,8 @@
       19
     ],
     "created_at": "2025-11-19T15:32:55Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/yhj82f84ftz9p3nz0f5p0zezkt1y09jgm661": {
     "provider_name": "gemini",
@@ -3051,8 +3051,8 @@
       9
     ],
     "created_at": "2025-11-19T15:32:56Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/7bm9oalevsyw4hod0a3sxggql8aycqoac6h6": {
     "provider_name": "gemini",
@@ -3066,8 +3066,8 @@
       4
     ],
     "created_at": "2025-11-19T15:32:58Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2z5y4scqfjqdkk47xfxrbfq0p19kug83kkyy": {
     "provider_name": "gemini",
@@ -3082,8 +3082,8 @@
       6
     ],
     "created_at": "2025-11-19T15:33:00Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/f5yomamfw5y52rpxc9q5qk9c2vmp9vt4end4": {
     "provider_name": "gemini",
@@ -3100,8 +3100,8 @@
       5
     ],
     "created_at": "2025-11-19T15:33:01Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/yyskjnesdx1p892km3ki9k2mn474qcvv5uis": {
     "provider_name": "gemini",
@@ -3122,8 +3122,8 @@
       9
     ],
     "created_at": "2025-11-19T15:33:03Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/afx4s3454s8lv18yntakircnju1qpt3gt99f": {
     "provider_name": "gemini",
@@ -3142,8 +3142,8 @@
       18
     ],
     "created_at": "2025-11-19T15:33:05Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ns8cfaf09of90woqetl6u09zxcyce2yv267p": {
     "provider_name": "gemini",
@@ -3164,8 +3164,8 @@
       17
     ],
     "created_at": "2025-11-19T15:33:07Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/hmogztvteyj32y1vpo6im39uujk4t4887ppu": {
     "provider_name": "gemini",
@@ -3181,8 +3181,8 @@
       27
     ],
     "created_at": "2025-11-19T15:33:08Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/oozrli718hl34ie7n9x7mt3nfpwayd12t0bj": {
     "provider_name": "gemini",
@@ -3202,8 +3202,8 @@
       40
     ],
     "created_at": "2025-11-19T15:33:10Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2134ve2lbijtzg0zec04a5xs7ffz19q1sa5c": {
     "provider_name": "gemini",
@@ -3216,8 +3216,8 @@
       5
     ],
     "created_at": "2025-11-19T15:33:11Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ppu18vxsmn18i7xmkehstms1t950dqsram9m": {
     "provider_name": "gemini",
@@ -3231,8 +3231,8 @@
       2
     ],
     "created_at": "2025-11-19T15:33:12Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xrme29tb76qcpms7l3iwuomatwsg6j3koyag": {
     "provider_name": "gemini",
@@ -3246,8 +3246,8 @@
       18
     ],
     "created_at": "2025-11-19T15:33:14Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nkwnxdfsjbc4lbpwkwh6g4w4ywn4le8v8izq": {
     "provider_name": "gemini",
@@ -3261,8 +3261,8 @@
       4
     ],
     "created_at": "2025-11-19T15:33:16Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/utfxu6odq43p9ijwvqh2tcvc6dq2pt8r7fqe": {
     "provider_name": "gemini",
@@ -3283,8 +3283,8 @@
       9
     ],
     "created_at": "2025-11-19T15:33:18Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/v2tjyhgw4ypzwdbq4wdpblf7eiyjdcwu0t42": {
     "provider_name": "gemini",
@@ -3296,8 +3296,8 @@
       10
     ],
     "created_at": "2025-11-19T15:33:19Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/9p8sd0tl5kjq8mlgg9z78xp844kqlozybg10": {
     "provider_name": "gemini",
@@ -3318,8 +3318,8 @@
       41
     ],
     "created_at": "2025-11-19T15:33:21Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/yunx78d79amyla525bicct1ezev2eqb2fum3": {
     "provider_name": "gemini",
@@ -3340,8 +3340,8 @@
       61
     ],
     "created_at": "2025-11-19T15:33:23Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/dktde7kgt28oumcmhxx5qg1xltxtqwvly2nj": {
     "provider_name": "gemini",
@@ -3362,8 +3362,8 @@
       76
     ],
     "created_at": "2025-11-19T15:33:25Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1a2fax5pcrrv2jtd42ndoal4y5aaqcccuex2": {
     "provider_name": "gemini",
@@ -3384,8 +3384,8 @@
       88
     ],
     "created_at": "2025-11-19T15:33:26Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/dhwxavx0on2abik675q9oc8iswfdw6djsc2i": {
     "provider_name": "gemini",
@@ -3406,8 +3406,8 @@
       121
     ],
     "created_at": "2025-11-19T15:33:28Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/s980qkep6gq2oft4wi8tm4s8pxsen2avag0o": {
     "provider_name": "gemini",
@@ -3428,8 +3428,8 @@
       147
     ],
     "created_at": "2025-11-19T15:33:30Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6wwku0a69qp226dpfsdsbdykfn2zs8rj800z": {
     "provider_name": "gemini",
@@ -3450,8 +3450,8 @@
       167
     ],
     "created_at": "2025-11-19T15:33:31Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tmaabn9b1vyuxrc5dr89f7zhti8k3haxwsj0": {
     "provider_name": "gemini",
@@ -3472,8 +3472,8 @@
       177
     ],
     "created_at": "2025-11-19T15:33:32Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zhk2xg62brlzobyacd80yab2lyq4e4qr1f37": {
     "provider_name": "gemini",
@@ -3489,8 +3489,8 @@
       183
     ],
     "created_at": "2025-11-19T15:33:34Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/iai3iyne3nci3r7h58x0qbzg8brbj2x28z6w": {
     "provider_name": "gemini",
@@ -3504,8 +3504,8 @@
       6
     ],
     "created_at": "2025-11-19T15:33:35Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/qxp2i3clxbo9uvjv3ww9uex6bmibno483evq": {
     "provider_name": "gemini",
@@ -3518,8 +3518,8 @@
       1
     ],
     "created_at": "2025-11-19T15:33:37Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/idwdoo97p72wehirygw4xmkle9am3aegjoyf": {
     "provider_name": "gemini",
@@ -3535,8 +3535,8 @@
       5
     ],
     "created_at": "2025-11-19T15:33:38Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/vkeoncsf8w4wpd6p9ffv5auvjwhic0mtqy8r": {
     "provider_name": "gemini",
@@ -3551,8 +3551,8 @@
       3
     ],
     "created_at": "2025-11-19T15:33:39Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/fpipwbfnnytv5c3hzd62llnb8vozkubhyz6p": {
     "provider_name": "gemini",
@@ -3573,8 +3573,8 @@
       15
     ],
     "created_at": "2025-11-19T15:33:41Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ma8xdvulax4ru56nv8h0tj3enoapo8dmi6c8": {
     "provider_name": "gemini",
@@ -3595,8 +3595,8 @@
       37
     ],
     "created_at": "2025-11-19T15:33:43Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/0v85ekawc589u6diyd7yrtr9pt1j6ij64hcl": {
     "provider_name": "gemini",
@@ -3615,8 +3615,8 @@
       46
     ],
     "created_at": "2025-11-19T15:33:44Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xpmcznour87iy9xrlqqa5so39yg08srg7bln": {
     "provider_name": "gemini",
@@ -3637,8 +3637,8 @@
       11
     ],
     "created_at": "2025-11-19T15:33:46Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/niy9r184262svjz5idkluhp09tbaaxm0raek": {
     "provider_name": "gemini",
@@ -3659,8 +3659,8 @@
       22
     ],
     "created_at": "2025-11-19T15:33:47Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/e9ssirizjiqsiusawv4so47s36czfh7oc7ph": {
     "provider_name": "gemini",
@@ -3674,8 +3674,8 @@
       26
     ],
     "created_at": "2025-11-19T15:33:49Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/71mu6hbfjpltendre04ttvlaqxk9zeafddau": {
     "provider_name": "gemini",
@@ -3696,8 +3696,8 @@
       15
     ],
     "created_at": "2025-11-19T15:33:51Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2rtitfb561xa0gmnoolj23qdjf778snzrhzj": {
     "provider_name": "gemini",
@@ -3718,8 +3718,8 @@
       41
     ],
     "created_at": "2025-11-19T15:33:52Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6cr79cgz2njlsiwsun2yhenpf8eii0itf8n1": {
     "provider_name": "gemini",
@@ -3740,8 +3740,8 @@
       55
     ],
     "created_at": "2025-11-19T15:33:53Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/paish3d1wvul56zzesqisiqfpre4eml9g7aw": {
     "provider_name": "gemini",
@@ -3757,8 +3757,8 @@
       62
     ],
     "created_at": "2025-11-19T15:33:55Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/eamhxaaspz33j6t36pqn2unpix8v6mj6qq6c": {
     "provider_name": "gemini",
@@ -3773,8 +3773,8 @@
       3
     ],
     "created_at": "2025-11-19T15:33:57Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/qefzcl6oc2jkiqf2j70bz7o8o8j5yupfbmtt": {
     "provider_name": "gemini",
@@ -3786,8 +3786,8 @@
       0
     ],
     "created_at": "2025-11-19T15:33:58Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/5ex69ps0plcu1ii4izb20qnknvuvac232yrk": {
     "provider_name": "gemini",
@@ -3808,8 +3808,8 @@
       13
     ],
     "created_at": "2025-11-19T15:34:00Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/p1hv0f5wblohujculjl2qa4h4w27xcq00hfj": {
     "provider_name": "gemini",
@@ -3830,8 +3830,8 @@
       24
     ],
     "created_at": "2025-11-19T15:34:01Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/sh8wawidi92gudt3dulvgr3mnbkanfkliqj9": {
     "provider_name": "gemini",
@@ -3846,8 +3846,8 @@
       28
     ],
     "created_at": "2025-11-19T15:34:03Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/uda3dffoa4w2dxw9w4uos79ig3ron6ns0ef0": {
     "provider_name": "gemini",
@@ -3868,8 +3868,8 @@
       15
     ],
     "created_at": "2025-11-19T15:34:05Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1p273r0e49ldnt96y3jh12lf0qydou1hmhaz": {
     "provider_name": "gemini",
@@ -3890,8 +3890,8 @@
       25
     ],
     "created_at": "2025-11-19T15:34:06Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/zgl8i41i1djg0viawlsp6xcpqnexnxwpxtxb": {
     "provider_name": "gemini",
@@ -3912,8 +3912,8 @@
       11
     ],
     "created_at": "2025-11-19T15:34:08Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/st60ex1dlnp10feerqiqhe4x81qgni1h33gy": {
     "provider_name": "gemini",
@@ -3926,8 +3926,8 @@
       13
     ],
     "created_at": "2025-11-19T15:34:09Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/p5qw2x7yf6qpnbprwgttjwvolz5tthnuscen": {
     "provider_name": "gemini",
@@ -3948,8 +3948,8 @@
       13
     ],
     "created_at": "2025-11-19T15:34:11Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nid26xl7t4r3389kxhmn7gis9v97tj5w4z30": {
     "provider_name": "gemini",
@@ -3970,8 +3970,8 @@
       24
     ],
     "created_at": "2025-11-19T15:34:12Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/l353k7w3245d9ojfvcstn3ke44o10u23msqx": {
     "provider_name": "gemini",
@@ -3985,8 +3985,8 @@
       30
     ],
     "created_at": "2025-11-19T15:34:14Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ievcpsesicxwagjl98bzlw1vv58ps9i5i3vx": {
     "provider_name": "gemini",
@@ -4006,8 +4006,8 @@
       8
     ],
     "created_at": "2025-11-19T15:34:16Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/1fpjqoitct9gl8mjvvbtv84qjw92www526fu": {
     "provider_name": "gemini",
@@ -4022,8 +4022,8 @@
       3
     ],
     "created_at": "2025-11-19T15:34:17Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/0yku2081l312fi68i31sgl7a16awh5xffd3c": {
     "provider_name": "gemini",
@@ -4036,8 +4036,8 @@
       2
     ],
     "created_at": "2025-11-19T15:34:18Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/6hzpwjyqfgbr0hfq6sngge0jm3ej90wz5bg0": {
     "provider_name": "gemini",
@@ -4053,8 +4053,8 @@
       4
     ],
     "created_at": "2025-11-19T15:34:19Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/l2bae3mi89gl9pa7rybjf4ohwzfgwph8bc45": {
     "provider_name": "gemini",
@@ -4075,8 +4075,8 @@
       9
     ],
     "created_at": "2025-11-19T15:34:21Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/qqzokztfwjxhm3usai46eqkfncir58h21tm0": {
     "provider_name": "gemini",
@@ -4091,8 +4091,8 @@
       13
     ],
     "created_at": "2025-11-19T15:34:22Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/r8xnuzoi2gsvlr4is3sqsybsydbbc72dknrk": {
     "provider_name": "gemini",
@@ -4111,8 +4111,8 @@
       8
     ],
     "created_at": "2025-11-19T15:34:23Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/a5fk2jwcuv0a2u71xx2i5j3i4c62giwkz1ij": {
     "provider_name": "gemini",
@@ -4128,8 +4128,8 @@
       5
     ],
     "created_at": "2025-11-19T15:34:25Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/c5m6ah71r3l6qjas1vsvohp9ses83jw6zsuq": {
     "provider_name": "gemini",
@@ -4150,8 +4150,8 @@
       14
     ],
     "created_at": "2025-11-19T15:34:26Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/av0ui66kxz30lsh6oabyqov3q0tcdcwwm4m0": {
     "provider_name": "gemini",
@@ -4168,8 +4168,8 @@
       21
     ],
     "created_at": "2025-11-19T15:34:27Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/th8cvs4006il0ecvm40ftrajj5pbsoz1kvkt": {
     "provider_name": "gemini",
@@ -4190,8 +4190,8 @@
       17
     ],
     "created_at": "2025-11-19T15:34:29Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/hxw8odm4f1an2we219595th9smhszubphv27": {
     "provider_name": "gemini",
@@ -4204,8 +4204,8 @@
       21
     ],
     "created_at": "2025-11-19T15:34:31Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/8986yozb1hgweybv45edvoq0mi35bhnf3y8k": {
     "provider_name": "gemini",
@@ -4221,8 +4221,8 @@
       4
     ],
     "created_at": "2025-11-19T15:34:32Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/t5rd50rkei9k3md5srkmdc2fgkz8qi79w3u8": {
     "provider_name": "gemini",
@@ -4236,8 +4236,8 @@
       3
     ],
     "created_at": "2025-11-19T15:34:33Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2s3fen103ub9o3k5tur2hfszvaurdju2ba1a": {
     "provider_name": "gemini",
@@ -4251,8 +4251,8 @@
       18
     ],
     "created_at": "2025-11-19T15:34:35Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/l6lgg0njc7grg8jl0ju5orsdnbhi9qtl4qoq": {
     "provider_name": "gemini",
@@ -4273,8 +4273,8 @@
       10
     ],
     "created_at": "2025-11-19T15:34:36Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/x5ed4vw9z2wm6bkfq76aj6c2pd0kq4ak7dx4": {
     "provider_name": "gemini",
@@ -4295,8 +4295,8 @@
       17
     ],
     "created_at": "2025-11-19T15:34:37Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/f09j3ut1p320595m42vziybnta4ohcb9nhsw": {
     "provider_name": "gemini",
@@ -4317,8 +4317,8 @@
       43
     ],
     "created_at": "2025-11-19T15:34:39Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mhhehzbqu86j1efk3ajkbjm42ztu9riaeqbv": {
     "provider_name": "gemini",
@@ -4339,8 +4339,8 @@
       53
     ],
     "created_at": "2025-11-19T15:34:40Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ct8oc76ufsvado29v70br6oi91qi7g6hk1zb": {
     "provider_name": "gemini",
@@ -4361,8 +4361,8 @@
       63
     ],
     "created_at": "2025-11-19T15:34:41Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/9y8rjq4nl5zpqocghux7e1d3sv8q3f2n9yy9": {
     "provider_name": "gemini",
@@ -4383,8 +4383,8 @@
       82
     ],
     "created_at": "2025-11-19T15:34:43Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/nxx4xthe8288bug7qe0ksmciotoiw48pqvcq": {
     "provider_name": "gemini",
@@ -4405,8 +4405,8 @@
       92
     ],
     "created_at": "2025-11-19T15:34:44Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2e24a81o7dtivgqfelvsr8ieshwcsjh9lv4m": {
     "provider_name": "gemini",
@@ -4427,8 +4427,8 @@
       102
     ],
     "created_at": "2025-11-19T15:34:45Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/rfyrsh34gfj28twhp8f99mj8j73lxqt476jc": {
     "provider_name": "gemini",
@@ -4449,8 +4449,8 @@
       115
     ],
     "created_at": "2025-11-19T15:34:47Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/551xzbktzrcjzg31xc4zvujslrzgdil90tmv": {
     "provider_name": "gemini",
@@ -4471,8 +4471,8 @@
       125
     ],
     "created_at": "2025-11-19T15:34:48Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/w17pssmf20z4s1lq8gkt2vg8bc8mhtt8pq3g": {
     "provider_name": "gemini",
@@ -4493,8 +4493,8 @@
       135
     ],
     "created_at": "2025-11-19T15:34:49Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/l291xtc4lruq3uq4nmpyxbxfiaada757brqo": {
     "provider_name": "gemini",
@@ -4515,8 +4515,8 @@
       145
     ],
     "created_at": "2025-11-19T15:34:50Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ryhui518b08pomq7p40jogbwnjdapbb5jlt4": {
     "provider_name": "gemini",
@@ -4528,8 +4528,8 @@
       146
     ],
     "created_at": "2025-11-19T15:34:52Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/kur11ssdeapzv8y455av09vhl1r0t8jb0b4p": {
     "provider_name": "gemini",
@@ -4550,8 +4550,8 @@
       9
     ],
     "created_at": "2025-11-19T15:34:54Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/z912lh40cp33utxw8odq98l5rjcbxyijzl70": {
     "provider_name": "gemini",
@@ -4566,8 +4566,8 @@
       15
     ],
     "created_at": "2025-11-19T15:34:55Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/2hgh7wi87muzgpzqjrdd36brp236pok7inpu": {
     "provider_name": "gemini",
@@ -4579,8 +4579,8 @@
       0
     ],
     "created_at": "2025-11-19T15:34:56Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tqz9lulpltez2eoio15qxj2wnsp7c9z7lvnr": {
     "provider_name": "gemini",
@@ -4593,8 +4593,8 @@
       3
     ],
     "created_at": "2025-11-19T15:34:57Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/rvckpofkds1cqopbkg2l0xnkfbc505dm9yyi": {
     "provider_name": "gemini",
@@ -4606,8 +4606,8 @@
       0
     ],
     "created_at": "2025-11-19T15:34:59Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ncxkwboo3p63ftox0zwiteh38oc7z43uw5ua": {
     "provider_name": "gemini",
@@ -4624,8 +4624,8 @@
       6
     ],
     "created_at": "2025-11-19T15:35:00Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/05077fksz8cmyphq5gos8fmtzugqrqu47vrd": {
     "provider_name": "gemini",
@@ -4641,8 +4641,8 @@
       9
     ],
     "created_at": "2025-11-19T15:35:02Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/apn9x31k6tkr3k0ip8oy52vfrvsyjwv47j2j": {
     "provider_name": "gemini",
@@ -4656,8 +4656,8 @@
       4
     ],
     "created_at": "2025-11-19T15:35:03Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tdt5f35ezc77ddju5e7dqgypwsoo9e4jclv5": {
     "provider_name": "gemini",
@@ -4678,8 +4678,8 @@
       14
     ],
     "created_at": "2025-11-19T15:35:05Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/cdf5bh1abs82k3oge0jrdh1qoo7pvmli76t7": {
     "provider_name": "gemini",
@@ -4691,8 +4691,8 @@
       15
     ],
     "created_at": "2025-11-19T15:35:06Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/rheyojcfbwvoq97nbekmq956tla7knobe4r5": {
     "provider_name": "gemini",
@@ -4708,8 +4708,8 @@
       23
     ],
     "created_at": "2025-11-19T15:35:07Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xk26ixb20wkf86966xai75f3cp0iym7k7vng": {
     "provider_name": "gemini",
@@ -4726,8 +4726,8 @@
       11
     ],
     "created_at": "2025-11-19T15:35:08Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/54rbaee5a373javb24ig9v8jyurflyh0pmxf": {
     "provider_name": "gemini",
@@ -4746,8 +4746,8 @@
       19
     ],
     "created_at": "2025-11-19T15:35:10Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/at5bc9277prytqxdl8ibdtsh859t1c10bga9": {
     "provider_name": "gemini",
@@ -4767,8 +4767,8 @@
       12
     ],
     "created_at": "2025-11-19T15:35:11Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/i3m3doak2zkma779tp7imyq2edqpa3jxfsta": {
     "provider_name": "gemini",
@@ -4788,8 +4788,8 @@
       13
     ],
     "created_at": "2025-11-19T15:35:12Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/u5jyp3hfc4mj3vwmw27j198fscapyituxq20": {
     "provider_name": "gemini",
@@ -4810,8 +4810,8 @@
       12
     ],
     "created_at": "2025-11-19T15:35:13Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/syz4v5tvpecvod0lwzs4ca0czywpooxk0y3w": {
     "provider_name": "gemini",
@@ -4825,8 +4825,8 @@
       15
     ],
     "created_at": "2025-11-19T15:35:15Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/x5jq8nkclu6xvmyjjy7e4kpdydp38il8ywji": {
     "provider_name": "gemini",
@@ -4846,8 +4846,8 @@
       9
     ],
     "created_at": "2025-11-19T15:35:17Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/ufw76suzgknir8g9p1yisk06pkwz3p1u7ckt": {
     "provider_name": "gemini",
@@ -4866,8 +4866,8 @@
       14
     ],
     "created_at": "2025-11-19T15:35:18Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/tyryam5bukbf126crpjss7h0kflsmqzp4voc": {
     "provider_name": "gemini",
@@ -4881,8 +4881,8 @@
       10
     ],
     "created_at": "2025-11-19T15:35:20Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/csfogx2g2mztt5k7angyhqyuox5qplobzxh6": {
     "provider_name": "gemini",
@@ -4901,8 +4901,8 @@
       11
     ],
     "created_at": "2025-11-19T15:35:21Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/x4psh41dz2uroyjshav370wx6980imhtg3ha": {
     "provider_name": "gemini",
@@ -4918,8 +4918,8 @@
       16
     ],
     "created_at": "2025-11-19T15:35:22Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/7jdmnyqrn5d2a80whyo7oi68skr2k5k3yhvg": {
     "provider_name": "gemini",
@@ -4940,8 +4940,8 @@
       12
     ],
     "created_at": "2025-11-19T15:35:24Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/xt96bsamqawgvzy3ovrilcalh9oeysh88d9j": {
     "provider_name": "gemini",
@@ -4958,8 +4958,8 @@
       15
     ],
     "created_at": "2025-11-19T15:35:25Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/btswgygxoyanzsqvhc5knvnla0a2fzz81o6b": {
     "provider_name": "gemini",
@@ -4980,8 +4980,8 @@
       10
     ],
     "created_at": "2025-11-19T15:35:26Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/37wepvvv51wa4af8r0u6gak88earwiqflb2n": {
     "provider_name": "gemini",
@@ -4994,8 +4994,8 @@
       14
     ],
     "created_at": "2025-11-19T15:35:28Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/4ejysn8dtm4dj8tgu6krd312buytw8d74ijf": {
     "provider_name": "gemini",
@@ -5016,8 +5016,8 @@
       11
     ],
     "created_at": "2025-11-19T15:35:30Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/cp2s2nsc4fj6mctuonqhfblfbt4gaj2cvx2d": {
     "provider_name": "gemini",
@@ -5038,8 +5038,8 @@
       24
     ],
     "created_at": "2025-11-19T15:35:31Z",
-    "status": "pending",
-    "error_message": null
+    "status": "failed",
+    "error_message": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'Requested entity was not found.', 'status': 'NOT_FOUND'}}"
   },
   "batches/mjo3er1828df1e0vvftrpjzblcnsn8kub7ud": {
     "provider_name": "gemini",
@@ -5058,7 +5058,7 @@
       36
     ],
     "created_at": "2025-11-19T15:35:32Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/q3co4z2oj6qoqii796y70kkjgpymxtk0n0r1": {
@@ -5080,7 +5080,7 @@
       9
     ],
     "created_at": "2025-11-19T15:35:33Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/vm7sr35hd3ywg3ah7fij3twaovr4q5iz1a70": {
@@ -5100,7 +5100,7 @@
       20
     ],
     "created_at": "2025-11-19T15:35:35Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/nndfsnpmaa33nztvcl7eba6v3hmdbf34qvf7": {
@@ -5122,7 +5122,7 @@
       15
     ],
     "created_at": "2025-11-19T15:35:36Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/liry045n0e8kwvvxxw9htbop6iarlcihn6dn": {
@@ -5139,7 +5139,7 @@
       21
     ],
     "created_at": "2025-11-19T15:35:38Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/htqz8l3orc3yphk0r0q5t1lrdtcbs4leoq1k": {
@@ -5153,7 +5153,7 @@
       3
     ],
     "created_at": "2025-11-19T15:35:39Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/yn1z61z2homd9fuqs2jvbdq1xbgmm7dgyd8n": {
@@ -5171,7 +5171,7 @@
       9
     ],
     "created_at": "2025-11-19T15:35:41Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/t3sqp5ydju07kwb9w51nilu4f2hfezz7m92m": {
@@ -5191,7 +5191,7 @@
       9
     ],
     "created_at": "2025-11-19T15:35:42Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/v88kmtgyit9pjfhsv08bj3o3l4e2dmxvnfcw": {
@@ -5213,7 +5213,7 @@
       13
     ],
     "created_at": "2025-11-19T15:35:43Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/nu5q6qsu9nzbinpq4nohzsngtelz7oz9h63d": {
@@ -5235,7 +5235,7 @@
       33
     ],
     "created_at": "2025-11-19T15:35:44Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/90iwhpce6j702ni46jehbe2dln18dwcliql5": {
@@ -5253,7 +5253,7 @@
       39
     ],
     "created_at": "2025-11-19T15:35:45Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/b2w2keh4nz50ovr8eozk021zvtfb5l9h1tjf": {
@@ -5270,7 +5270,7 @@
       10
     ],
     "created_at": "2025-11-19T15:35:47Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/z5d608xqjwrr5na26slka8mzadfuwvmt2qni": {
@@ -5287,7 +5287,7 @@
       9
     ],
     "created_at": "2025-11-19T15:35:48Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/w5ka78ntjdu6g52j0e7qlw7he7j7v222wj1p": {
@@ -5309,7 +5309,7 @@
       14
     ],
     "created_at": "2025-11-19T15:35:50Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0ivzk5gv4zlr47ck5l1ueg9kqa7z055wbi5n": {
@@ -5331,7 +5331,7 @@
       43
     ],
     "created_at": "2025-11-19T15:35:51Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/tcltht10e1drx5dt8mw9ic6m8df9hscrmdq0": {
@@ -5353,7 +5353,7 @@
       9
     ],
     "created_at": "2025-11-19T15:35:52Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/qdrxie3xyor9y6ldmoufq2dj9vhr5zz555ot": {
@@ -5373,7 +5373,7 @@
       20
     ],
     "created_at": "2025-11-19T15:35:54Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/tt05ebnrjqdwxp58j0ry9ueqyp8ii203z51q": {
@@ -5395,7 +5395,7 @@
       10
     ],
     "created_at": "2025-11-19T15:35:55Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/6yx1t0q5umu3446hb1552j2c00118byaew9l": {
@@ -5409,7 +5409,7 @@
       13
     ],
     "created_at": "2025-11-19T15:35:56Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/ob72ovi7e52b1a077kwbsw0bm69ubv34dngr": {
@@ -5431,7 +5431,7 @@
       14
     ],
     "created_at": "2025-11-19T15:35:58Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/e8jq5frsmi5px44qcjepxfyyxhvaq7bq0pak": {
@@ -5450,7 +5450,7 @@
       39
     ],
     "created_at": "2025-11-19T15:35:59Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/7jn0oo6w8mcajm3h300ncn9q2w6u5a2udfrk": {
@@ -5472,7 +5472,7 @@
       9
     ],
     "created_at": "2025-11-19T15:36:00Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/x9kjvfa7hrq5mqmtwyrhytbjt1xalfrhom7i": {
@@ -5494,7 +5494,7 @@
       22
     ],
     "created_at": "2025-11-19T15:36:02Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/vazcdm02rg2ly9iafw0csadjg6abvxm6h0g3": {
@@ -5515,7 +5515,7 @@
       37
     ],
     "created_at": "2025-11-19T15:36:03Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/clia5m0ksmx73x8q0xb0pxzdcli755rqfd7y": {
@@ -5528,7 +5528,7 @@
       0
     ],
     "created_at": "2025-11-19T15:36:04Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bnxqwpafapu058thbqadagujw9f0jv69dsd3": {
@@ -5547,7 +5547,7 @@
       6
     ],
     "created_at": "2025-11-19T15:36:06Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bvxckunlge3bspptm9cn0c6cgy74n47xqett": {
@@ -5569,7 +5569,7 @@
       9
     ],
     "created_at": "2025-11-19T15:36:07Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/fyouk7ikemiz5w1p1tkbymjfedezmdzccsi1": {
@@ -5591,7 +5591,7 @@
       22
     ],
     "created_at": "2025-11-19T15:36:08Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bt9ijk1r31ak3sdtj7yehv2druieybovpu7r": {
@@ -5611,7 +5611,7 @@
       58
     ],
     "created_at": "2025-11-19T15:36:10Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0cdlseffjymyjpjy71gvk045y9mvi15mn1nz": {
@@ -5626,7 +5626,7 @@
       2
     ],
     "created_at": "2025-11-19T15:36:11Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/yf1p3bz3g9r01rk60jvft7fljj2odjrpyzc4": {
@@ -5648,7 +5648,7 @@
       48
     ],
     "created_at": "2025-11-19T15:36:13Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/seoxmbcvpxnxo0jou859nbw2q6uo0cbm1ivj": {
@@ -5670,7 +5670,7 @@
       105
     ],
     "created_at": "2025-11-19T15:36:14Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/zn3fck2t58t5g80pw0asfo6dc2thto18vhdo": {
@@ -5692,7 +5692,7 @@
       146
     ],
     "created_at": "2025-11-19T15:36:15Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/k4onb3hb0nh6yp6wgwnhnfsvhj5tij3i0mcy": {
@@ -5714,7 +5714,7 @@
       193
     ],
     "created_at": "2025-11-19T15:36:17Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/zwpuek2f1s2o1pxfizfal87pknwxcbaueb7z": {
@@ -5735,7 +5735,7 @@
       207
     ],
     "created_at": "2025-11-19T15:36:19Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/rb0eiu8zadcrcbgd37vgz0hm7t1ki75rvpvx": {
@@ -5752,7 +5752,7 @@
       7
     ],
     "created_at": "2025-11-19T15:36:20Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/2729fm0wct543pt1cd1gp0tjqa6wmf0tcwbm": {
@@ -5774,7 +5774,7 @@
       12
     ],
     "created_at": "2025-11-19T15:36:21Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/r1drgteo6tmngbl5ctbmsi5bltz1dktoqne8": {
@@ -5796,7 +5796,7 @@
       22
     ],
     "created_at": "2025-11-19T15:36:22Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/s6rdt1wkqr5dcnhvvb6wnabyjp2r05vinpl8": {
@@ -5818,7 +5818,7 @@
       35
     ],
     "created_at": "2025-11-19T15:36:24Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/mj9vr0bjwisnbhhxjz9tbm4ig162ldgb7uwx": {
@@ -5839,7 +5839,7 @@
       53
     ],
     "created_at": "2025-11-19T15:36:25Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/4rexqabuviuunxjzu2xi9e79i86phkrmvzx7": {
@@ -5861,7 +5861,7 @@
       40
     ],
     "created_at": "2025-11-19T15:36:27Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/arbekzhslrr8sykbi3iv1qh7xjrd5vhvxdyg": {
@@ -5874,7 +5874,7 @@
       42
     ],
     "created_at": "2025-11-19T15:36:28Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/z6yxoc1392fqadwzwm7yionmpc0g6c8qunnr": {
@@ -5896,7 +5896,7 @@
       24
     ],
     "created_at": "2025-11-19T15:36:30Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/4gpebyc8o3cib7ihd7octyjrxyfybtp50tvj": {
@@ -5918,7 +5918,7 @@
       64
     ],
     "created_at": "2025-11-19T15:36:31Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/e7wpoxqr9we1o9c4df0f0shmon2ct5pzd9q8": {
@@ -5940,7 +5940,7 @@
       107
     ],
     "created_at": "2025-11-19T15:36:33Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/obtnkgv7d66ll0363zzgto26l2rko753aa9b": {
@@ -5962,7 +5962,7 @@
       21
     ],
     "created_at": "2025-11-19T15:36:34Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/d0bk4j1u2n2d0t1nt0n0antohtg4itv5m5pp": {
@@ -5984,7 +5984,7 @@
       38
     ],
     "created_at": "2025-11-19T15:36:36Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/sglgmpye27w4lcpy23xwtioi8qi02d9bpmwh": {
@@ -5999,7 +5999,7 @@
       52
     ],
     "created_at": "2025-11-19T15:36:37Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/32lwj8o6mze4814rj1sjw5n0jlx2nya430k4": {
@@ -6021,7 +6021,7 @@
       9
     ],
     "created_at": "2025-11-19T15:36:38Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/h1w1q2dk0llofirv6t6gbfjw9nv6pswlg89r": {
@@ -6043,7 +6043,7 @@
       48
     ],
     "created_at": "2025-11-19T15:36:39Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/3pybgy93icabcez2q7ogwja2tlbn5l9edyo3": {
@@ -6057,7 +6057,7 @@
       70
     ],
     "created_at": "2025-11-19T15:36:41Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/kbhhwih84ohcehsgp87srge1wq0jc2ztx83o": {
@@ -6071,7 +6071,7 @@
       1
     ],
     "created_at": "2025-11-19T15:36:42Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/wxaj2gx3d426xucbjg4aybae3k5q27ci46ev": {
@@ -6086,7 +6086,7 @@
       2
     ],
     "created_at": "2025-11-19T15:36:43Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/6ftliqoyize394xorpodh0nvdskkmns4f22z": {
@@ -6108,7 +6108,7 @@
       11
     ],
     "created_at": "2025-11-19T15:36:45Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/se4urmnwiymz6luf89lbjfhlx5owefoebcvn": {
@@ -6122,7 +6122,7 @@
       13
     ],
     "created_at": "2025-11-19T15:36:46Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/7593alfmilesw0gdf8jmb7l4p5i6bgce4afg": {
@@ -6141,7 +6141,7 @@
       6
     ],
     "created_at": "2025-11-19T15:36:47Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/keg7393m4qtd4f2d6p9kb4qteg43cwwfv0dq": {
@@ -6163,7 +6163,7 @@
       21
     ],
     "created_at": "2025-11-19T15:36:49Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/upan5cykwhfqhes7brdu961b5u5b303h8lga": {
@@ -6185,7 +6185,7 @@
       43
     ],
     "created_at": "2025-11-19T15:36:50Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/pxotcdtk4k0bg1co4y46kpkj5zlqrws0he7r": {
@@ -6199,7 +6199,7 @@
       46
     ],
     "created_at": "2025-11-19T15:36:51Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/knsq5v7m6x969x5e4q1t5op47i8xr1m89sn2": {
@@ -6215,7 +6215,7 @@
       3
     ],
     "created_at": "2025-11-19T15:36:53Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/j3rxyuw39ccotndrrt9we4qecq095rnumm5u": {
@@ -6233,7 +6233,7 @@
       5
     ],
     "created_at": "2025-11-19T15:36:54Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/cm123prvnzxg6ikuro8ud9gs87ujrbaocsxk": {
@@ -6255,7 +6255,7 @@
       9
     ],
     "created_at": "2025-11-19T15:36:56Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/ydmrztyv66w9yuwzyf6lft8rtd41fgzygq2t": {
@@ -6271,7 +6271,7 @@
       13
     ],
     "created_at": "2025-11-19T15:36:57Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bv77im5g1pkx3zoq4h1n9h71ntx05omkb9q8": {
@@ -6293,7 +6293,7 @@
       9
     ],
     "created_at": "2025-11-19T15:36:58Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/rcs01cd0vgkof20ikcdyjkezxc9aswetcxh7": {
@@ -6307,7 +6307,7 @@
       16
     ],
     "created_at": "2025-11-19T15:37:00Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/jmmhi34f58wtxfko7drtmr70jbiv21l9migb": {
@@ -6325,7 +6325,7 @@
       5
     ],
     "created_at": "2025-11-19T15:37:01Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/jkmnlbng5uqkrdb4ipbdye5zbiyjabqsg1pe": {
@@ -6345,7 +6345,7 @@
       8
     ],
     "created_at": "2025-11-19T15:37:03Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/dbt7v8vys96v92yc20nzv8zckkttcr7wy0mh": {
@@ -6364,7 +6364,7 @@
       8
     ],
     "created_at": "2025-11-19T15:37:05Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/1emhsm6cwe4zq43hhejlgtvgcdve9mhjjoes": {
@@ -6382,7 +6382,7 @@
       5
     ],
     "created_at": "2025-11-19T15:37:06Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/mgk7112489m8fwxtb2brihbti8npg5hoy8rd": {
@@ -6404,7 +6404,7 @@
       12
     ],
     "created_at": "2025-11-19T15:37:07Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/3nhyon526nws2l5b4ams9mpb764j3vb5468u": {
@@ -6417,7 +6417,7 @@
       13
     ],
     "created_at": "2025-11-19T15:37:08Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/se1dp0w7p4cgnh414vwwkj2y3con4j75g239": {
@@ -6439,7 +6439,7 @@
       10
     ],
     "created_at": "2025-11-19T15:37:10Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/uwekd8w7wquzam065flhpcm3byjphn43mvt8": {
@@ -6452,7 +6452,7 @@
       12
     ],
     "created_at": "2025-11-19T15:37:11Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/az12rced7xj6fcushe9ed0esrqx3vahbid17": {
@@ -6466,7 +6466,7 @@
       1
     ],
     "created_at": "2025-11-19T15:37:12Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0ee7d5i59egytfxeeoulm00nl0wz25abvw5q": {
@@ -6486,7 +6486,7 @@
       7
     ],
     "created_at": "2025-11-19T15:37:13Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/dwqkuamuy0yhhoq8u9hta2hbr2tl80snh0zp": {
@@ -6508,7 +6508,7 @@
       16
     ],
     "created_at": "2025-11-19T15:37:15Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/i23s7zb2hrlxq3pfublhf199ckq07o1wq7a1": {
@@ -6524,7 +6524,7 @@
       20
     ],
     "created_at": "2025-11-19T15:37:16Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/fpp0xyqfhfrub46rfip0gh9ipiddo3bnua7y": {
@@ -6539,7 +6539,7 @@
       3
     ],
     "created_at": "2025-11-19T15:37:18Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0xr3yqydqt44h1pjk6tg66mcexa7q09rcrd9": {
@@ -6561,7 +6561,7 @@
       43
     ],
     "created_at": "2025-11-19T15:37:19Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/zjeeng34tnxsmf5brrg7bmmtwgyl6x5j3i11": {
@@ -6583,7 +6583,7 @@
       88
     ],
     "created_at": "2025-11-19T15:37:20Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/zv7c9tmosyi74ygpfprmfd2c8ndhztjmad58": {
@@ -6605,7 +6605,7 @@
       136
     ],
     "created_at": "2025-11-19T15:37:22Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/g7m0wkttfyv1hdmep6gye3fpt7v7oiecu93p": {
@@ -6627,7 +6627,7 @@
       193
     ],
     "created_at": "2025-11-19T15:37:23Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bpr2i4tln7c7mu1xwn0cw2iw45s0mek5zvnq": {
@@ -6649,7 +6649,7 @@
       211
     ],
     "created_at": "2025-11-19T15:37:24Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/pabxdxfd5zy3mz5f55q7gfirix6w2vj20rj6": {
@@ -6671,7 +6671,7 @@
       236
     ],
     "created_at": "2025-11-19T15:37:26Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/lj2hlkv6zrmk7anylk9tcu8nxkd6dylrdp8f": {
@@ -6693,7 +6693,7 @@
       252
     ],
     "created_at": "2025-11-19T15:37:28Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/j39x4i4vqsbel9gxv6nswl2qloz6rxlzc1ox": {
@@ -6715,7 +6715,7 @@
       281
     ],
     "created_at": "2025-11-19T15:37:29Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/jw1etscnncjtrqrrondpx8c5y7sob1jk9fqz": {
@@ -6737,7 +6737,7 @@
       362
     ],
     "created_at": "2025-11-19T15:37:30Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0nupt7yw5jn27emlgtevczn7250icooyh9ig": {
@@ -6759,7 +6759,7 @@
       441
     ],
     "created_at": "2025-11-19T15:37:32Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/1vvdem949bpystut4eeontii6i2xlzoh504q": {
@@ -6779,7 +6779,7 @@
       458
     ],
     "created_at": "2025-11-19T15:37:33Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/k4vhn4o7jnucbpi9xjjfmu9btkdjwdljbtpj": {
@@ -6801,7 +6801,7 @@
       9
     ],
     "created_at": "2025-11-19T15:37:34Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/lwd54813tdha5lu4ch0alun74rx5eckhq648": {
@@ -6823,7 +6823,7 @@
       20
     ],
     "created_at": "2025-11-19T15:37:36Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/oi4bwbvf8doqvdc4tthb11xjex7dqyh0p02i": {
@@ -6836,7 +6836,7 @@
       21
     ],
     "created_at": "2025-11-19T15:37:37Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/lqaer0br1rf1b9n1440ornnu2czff25zm6hj": {
@@ -6858,7 +6858,7 @@
       19
     ],
     "created_at": "2025-11-19T15:37:38Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/860okmtfbwjhc6m1awxldx515zd0tgvrb1hh": {
@@ -6880,7 +6880,7 @@
       50
     ],
     "created_at": "2025-11-19T15:37:40Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0w3syrko444wkud8nt303nsjv8oh28o3t05g": {
@@ -6902,7 +6902,7 @@
       94
     ],
     "created_at": "2025-11-19T15:37:41Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/9s0aavg0np15hb6l7brsphiv8vy56pzsxoc9": {
@@ -6924,7 +6924,7 @@
       126
     ],
     "created_at": "2025-11-19T15:37:42Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/rlf86suwm4hhkopbf6aqthmk65g3t46lficb": {
@@ -6946,7 +6946,7 @@
       144
     ],
     "created_at": "2025-11-19T15:37:44Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/e92252oszm8fvynt8uqd69byx819ktbai1qv": {
@@ -6968,7 +6968,7 @@
       159
     ],
     "created_at": "2025-11-19T15:37:45Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/ecl0lqr42v06bmyprtkjlb25vt35s3eovecy": {
@@ -6990,7 +6990,7 @@
       176
     ],
     "created_at": "2025-11-19T15:37:46Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/1srwc5uocvz7osrusanu8as6nqqd64pbjrzu": {
@@ -7012,7 +7012,7 @@
       216
     ],
     "created_at": "2025-11-19T15:37:47Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/2pju5j1kffnghoswxl1bijakkggfe1xbf750": {
@@ -7034,7 +7034,7 @@
       228
     ],
     "created_at": "2025-11-19T15:37:49Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0s9fum1rt9oh4adymcptcwgvzc0l6y3ec7ev": {
@@ -7056,7 +7056,7 @@
       244
     ],
     "created_at": "2025-11-19T15:37:50Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/lemuvhpwueoxuxslef0fsppd8rpaadhr3fmu": {
@@ -7078,7 +7078,7 @@
       256
     ],
     "created_at": "2025-11-19T15:37:51Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/zv023pkav2zp7b02xbva3kozrkdtyuy11he4": {
@@ -7100,7 +7100,7 @@
       267
     ],
     "created_at": "2025-11-19T15:37:53Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/u4qr7crvsmslg11hh8rzvb79393w96939qky": {
@@ -7122,7 +7122,7 @@
       279
     ],
     "created_at": "2025-11-19T15:37:54Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/p50vkuk5cp271y5qtga0z613dlj0nkynzsg3": {
@@ -7144,7 +7144,7 @@
       290
     ],
     "created_at": "2025-11-19T15:37:55Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/3eob2mogs6xju4p85y4i27hx3xk9v7f6xdiy": {
@@ -7166,7 +7166,7 @@
       300
     ],
     "created_at": "2025-11-19T15:37:57Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/lpvqti35et2ozh29l409903eovbvrtsrh0qa": {
@@ -7188,7 +7188,7 @@
       347
     ],
     "created_at": "2025-11-19T15:37:58Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/uwk2gqr5khohi6hxm1gf0k0arqht7essed05": {
@@ -7210,7 +7210,7 @@
       377
     ],
     "created_at": "2025-11-19T15:38:00Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/7z6lk606k1slu5xgam0xfvb7aduovhl1m3qx": {
@@ -7232,7 +7232,7 @@
       9
     ],
     "created_at": "2025-11-19T15:38:01Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/0r0qf5rdsy7qd81foynbeqdyqgg1pp8d6kko": {
@@ -7247,7 +7247,7 @@
       16
     ],
     "created_at": "2025-11-19T15:38:02Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/gsuowrq09lk7udmeohr0s6a0oeq8li070gyi": {
@@ -7269,7 +7269,7 @@
       15
     ],
     "created_at": "2025-11-19T15:38:04Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/7140us1w2lns0cgyz1on6fpavodevrzxg6xj": {
@@ -7291,7 +7291,7 @@
       27
     ],
     "created_at": "2025-11-19T15:38:05Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/7mnpcjo32qyxnelzvswzwq5z1iel1k15vj75": {
@@ -7313,7 +7313,7 @@
       90
     ],
     "created_at": "2025-11-19T15:38:07Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/5nopum00xpcvxu2p7yr52aoksatkhyuwrwsu": {
@@ -7327,7 +7327,7 @@
       97
     ],
     "created_at": "2025-11-19T15:38:08Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/wzn4cy29bv2z544by28u6foorcm62u92q9u7": {
@@ -7344,7 +7344,7 @@
       5
     ],
     "created_at": "2025-11-19T15:38:10Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/sabgiac67u03idp3f5baomqcgl122v34d0ri": {
@@ -7366,7 +7366,7 @@
       22
     ],
     "created_at": "2025-11-19T15:38:11Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/egsxq69c9cfipi8cu2r5ytcxdrj8xxa21zrh": {
@@ -7388,7 +7388,7 @@
       51
     ],
     "created_at": "2025-11-19T15:38:12Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/f9f3nwd6pomuhth95netb5kqy9ekmia0z2rf": {
@@ -7410,7 +7410,7 @@
       78
     ],
     "created_at": "2025-11-19T15:38:14Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/8pnt0hviw33x5vg15viniirt4nmw4423p4f2": {
@@ -7424,7 +7424,7 @@
       82
     ],
     "created_at": "2025-11-19T15:38:15Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/4zn3vy2ppj7crv5euyyhgd0bymx66bmyfbxc": {
@@ -7440,7 +7440,7 @@
       4
     ],
     "created_at": "2025-11-19T15:38:17Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/gjl1y3cb6qwxzjgsxtd7x8ssxbhha9595tip": {
@@ -7460,7 +7460,7 @@
       8
     ],
     "created_at": "2025-11-19T15:38:18Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/93z54iwricycia7fa4vlpzgnjn5kiwpk3ams": {
@@ -7482,7 +7482,7 @@
       11
     ],
     "created_at": "2025-11-19T15:38:19Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/yni37qpu19wptvhlt87jc84e4gxp27cisoge": {
@@ -7496,7 +7496,7 @@
       13
     ],
     "created_at": "2025-11-19T15:38:21Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/yn0mxo46th1q50li0bajd76negbim8l2ux6c": {
@@ -7518,7 +7518,7 @@
       10
     ],
     "created_at": "2025-11-19T15:38:22Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/yijdkqn3a2chedvia41wx6uwe6r90g2zrquc": {
@@ -7540,7 +7540,7 @@
       45
     ],
     "created_at": "2025-11-19T15:38:24Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/4ooqdpmacz9raldpxddrznb8xnpcrx2kugv4": {
@@ -7562,7 +7562,7 @@
       73
     ],
     "created_at": "2025-11-19T15:38:26Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/h7evif7fd53qc79ne2ke2wctdnv0tt9o0rme": {
@@ -7584,7 +7584,7 @@
       84
     ],
     "created_at": "2025-11-19T15:38:27Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/bifi08usfki49xi77gavcgvegvbximn5w3og": {
@@ -7605,7 +7605,7 @@
       93
     ],
     "created_at": "2025-11-19T15:38:29Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/j2vz41tnje7kmmkvnb7tiaxi68wc1rhjkpx6": {
@@ -7618,7 +7618,7 @@
       0
     ],
     "created_at": "2025-11-19T15:38:30Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/5eqkdqxl6epfh2cjvpzdd6kfvi6zx0orx8bc": {
@@ -7640,7 +7640,7 @@
       9
     ],
     "created_at": "2025-11-19T15:38:32Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/ftjorv68sgbyhu95x3cjuqzydnxx3jrfgy79": {
@@ -7655,7 +7655,7 @@
       13
     ],
     "created_at": "2025-11-19T15:38:33Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/9k4otzyngysaxt7r6b259un97pu0dbsdu4je": {
@@ -7671,7 +7671,7 @@
       6
     ],
     "created_at": "2025-11-19T15:38:34Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/h2rhu7wepk5ip7sekyoiasruccpt9smyrzqs": {
@@ -7688,7 +7688,7 @@
       4
     ],
     "created_at": "2025-11-19T15:38:36Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/jeptmmjo6fedmsb6qy56zspakpp3owxjv7pq": {
@@ -7710,7 +7710,7 @@
       10
     ],
     "created_at": "2025-11-19T15:38:37Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/i29rdr3ezsqw6x84gcenp6r17h1881qdp5um": {
@@ -7732,7 +7732,7 @@
       21
     ],
     "created_at": "2025-11-19T15:38:38Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/1nz4odmxnl3cfnir0avf7pf8he5be3dh2thr": {
@@ -7754,7 +7754,7 @@
       16
     ],
     "created_at": "2025-11-19T15:38:39Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/5arakzh2pjk3z8u2rxlf5mtj3buxctw6j5xl": {
@@ -7767,7 +7767,7 @@
       17
     ],
     "created_at": "2025-11-19T15:38:41Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/o54vqr1plpqva5yrsgszkjnyqerao0os8d3n": {
@@ -7788,7 +7788,7 @@
       12
     ],
     "created_at": "2025-11-19T15:38:42Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/t85b7k1ijhn3ha8ajux2jet3kfmm8khrzj70": {
@@ -7810,7 +7810,7 @@
       12
     ],
     "created_at": "2025-11-19T15:38:43Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/2o80dns5i3lld97fijq7lyn8o2cgy29tzppw": {
@@ -7826,7 +7826,7 @@
       14
     ],
     "created_at": "2025-11-19T15:38:44Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/kcvlwqsjrmtyoyll9doedqoeen295s5waktq": {
@@ -7841,7 +7841,7 @@
       4
     ],
     "created_at": "2025-11-19T15:38:46Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/8jjltmovag08k5v420lqf4wte6sqv8y1xfm6": {
@@ -7855,7 +7855,7 @@
       8
     ],
     "created_at": "2025-11-19T15:38:47Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/8knblls9gpwfs280lr84kf27kcxffebyr3eh": {
@@ -7870,7 +7870,7 @@
       10
     ],
     "created_at": "2025-11-19T15:38:48Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/l649287mam2jn6m54yehhmt899yt6ydqc20j": {
@@ -7892,7 +7892,7 @@
       9
     ],
     "created_at": "2025-11-19T15:38:50Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/be0frmiuxhai915th2j90pt9n0iaei0allue": {
@@ -7905,7 +7905,7 @@
       10
     ],
     "created_at": "2025-11-19T15:38:51Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/pakfofga89lhbpsa2jnjea0jizecdcb0lxps": {
@@ -7927,7 +7927,7 @@
       12
     ],
     "created_at": "2025-11-19T15:38:53Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/e6rd8zkx1z2lc4gwkz40y51w6r80eh8wlwrr": {
@@ -7949,7 +7949,7 @@
       31
     ],
     "created_at": "2025-11-19T15:38:54Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/iq69v4a3ogftjro2raq6lzjr1gqi4zcxdyuo": {
@@ -7971,7 +7971,7 @@
       61
     ],
     "created_at": "2025-11-19T15:38:56Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/9lwlmzfstav0161ru0wy6gcy121s1btlt0yc": {
@@ -7993,7 +7993,7 @@
       71
     ],
     "created_at": "2025-11-19T15:38:57Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/v4ynzz7c1mm98nmv3hsey12re9j6rq0ay6sp": {
@@ -8015,7 +8015,7 @@
       81
     ],
     "created_at": "2025-11-19T15:38:58Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/072wq47e60k64w5m8w77216zfoic0x168zo0": {
@@ -8037,7 +8037,7 @@
       110
     ],
     "created_at": "2025-11-19T15:39:00Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/th0qsnk1i8qk2kpf5ezoq9p6kaojfnfaoaxq": {
@@ -8059,7 +8059,7 @@
       137
     ],
     "created_at": "2025-11-19T15:39:01Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/vo9uzhk9mmtv3jmh5agcmqfzjvxz8zzd2i18": {
@@ -8081,7 +8081,7 @@
       147
     ],
     "created_at": "2025-11-19T15:39:02Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/c7z9v838t7pmjxfzp1903e87tt0dr6z6n40b": {
@@ -8095,7 +8095,7 @@
       149
     ],
     "created_at": "2025-11-19T15:39:04Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/dgmzx1id18h4r1p3ed7zfonru3cmrswt9l4o": {
@@ -8117,7 +8117,7 @@
       11
     ],
     "created_at": "2025-11-19T15:39:05Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/c6nmh5vo68xxo0t9i863vyjj9ptz9hxgf0ro": {
@@ -8139,7 +8139,7 @@
       33
     ],
     "created_at": "2025-11-19T15:39:07Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   },
   "batches/04yj4suclft5wzv4o8gueexmzea2df0ob7f9": {
@@ -8156,7 +8156,7 @@
       39
     ],
     "created_at": "2025-11-19T15:39:08Z",
-    "status": "pending",
+    "status": "completed",
     "error_message": null
   }
 }

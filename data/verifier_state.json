@@ -30,7 +30,7 @@
           19,
           20
         ],
-        "total_issues": 7
+        "total_issues": 97
       },
       "gcse-computer-science---guidance-for-teaching-unit-2.csv": {
         "completed_batches": [
@@ -50,7 +50,7 @@
           1,
           2
         ],
-        "total_issues": 10
+        "total_issues": 15
       },
       "gcse-computer-science---unit-2-computer-programming-pre-released-materials.csv": {
         "completed_batches": [
@@ -71,7 +71,7 @@
           0,
           1
         ],
-        "total_issues": 10
+        "total_issues": 13
       },
       "wjec-gcse-computer-science-specification.csv": {
         "completed_batches": [
@@ -95,7 +95,7 @@
           1,
           2
         ],
-        "total_issues": 10
+        "total_issues": 30
       },
       "gcse-art-and-design---unit-1-non-exam-assessment-pack.csv": {
         "completed_batches": [
@@ -114,7 +114,7 @@
           0,
           1
         ],
-        "total_issues": 1
+        "total_issues": 11
       },
       "wjec-gcse-art-and-design-specification.csv": {
         "completed_batches": [
@@ -143,14 +143,14 @@
           2,
           3
         ],
-        "total_issues": 4
+        "total_issues": 34
       },
       "gcse-business---guidance-for-teaching-unit-3.csv": {
         "completed_batches": [
           0,
           1
         ],
-        "total_issues": 10
+        "total_issues": 20
       },
       "gcse-business---guidance-for-teaching-unit-4.csv": {
         "completed_batches": [
@@ -170,7 +170,7 @@
           1,
           2
         ],
-        "total_issues": 1
+        "total_issues": 21
       },
       "gcse-business---unit-2-key-business-considerations-sample.csv": {
         "completed_batches": [
@@ -183,7 +183,7 @@
           0,
           1
         ],
-        "total_issues": 8
+        "total_issues": 18
       },
       "gcse-business-3160-unit-2-nea-handbook.csv": {
         "completed_batches": [
@@ -196,14 +196,14 @@
           0,
           1
         ],
-        "total_issues": 1
+        "total_issues": 11
       },
       "wjec-gcse-business-specification.csv": {
         "completed_batches": [
           0,
           1
         ],
-        "total_issues": 7
+        "total_issues": 17
       }
     },
     "Dance": {
@@ -212,7 +212,7 @@
           0,
           1
         ],
-        "total_issues": 1
+        "total_issues": 11
       }
     },
     "Design-and-Technology": {
@@ -221,7 +221,7 @@
           0,
           1
         ],
-        "total_issues": 6
+        "total_issues": 16
       }
     },
     "Digital-Media-and-Film": {
@@ -230,7 +230,7 @@
           0,
           1
         ],
-        "total_issues": 4
+        "total_issues": 14
       }
     },
     "Digital-Technology": {
@@ -260,7 +260,7 @@
           1,
           2
         ],
-        "total_issues": 9
+        "total_issues": 29
       },
       "gcse-drama---guidance-for-teaching-unit-2.csv": {
         "completed_batches": [
@@ -274,7 +274,7 @@
           1,
           2
         ],
-        "total_issues": 1
+        "total_issues": 21
       },
       "gcse-drama---option-evening-flyer.csv": {
         "completed_batches": [
@@ -289,7 +289,7 @@
           2,
           3
         ],
-        "total_issues": 6
+        "total_issues": 36
       },
       "gcse-drama---unit-2-non-exam-assessment-pack-sample.csv": {
         "completed_batches": [
@@ -308,7 +308,7 @@
           6,
           7
         ],
-        "total_issues": 8
+        "total_issues": 78
       },
       "gcse-drama-unit-1-nea-assessment-handbook.csv": {
         "completed_batches": [
@@ -327,14 +327,14 @@
           0,
           1
         ],
-        "total_issues": 3
+        "total_issues": 13
       },
       "wjec-gcse-drama-specification.csv": {
         "completed_batches": [
           0,
           1
         ],
-        "total_issues": 3
+        "total_issues": 13
       }
     },
     "English-Language-and-Literature": {
@@ -365,7 +365,7 @@
           16,
           17
         ],
-        "total_issues": 1
+        "total_issues": 171
       },
       "gcse-english-language-and-literature---unit-1-context-and-meaning.csv": {
         "completed_batches": [
@@ -396,7 +396,7 @@
           0,
           1
         ],
-        "total_issues": 2
+        "total_issues": 12
       },
       "gcse-english-language-and-literature---unit-5-continuity-and-change.csv": {
         "completed_batches": [
@@ -410,13 +410,1110 @@
           1,
           2
         ],
-        "total_issues": 2
+        "total_issues": 22
       },
       "gcse-english-language-and-literature-single-and-double-award---faqs.csv": {
         "completed_batches": [
           0
         ],
         "total_issues": 1
+      },
+      "gcse-english-language-and-literature-unit-2-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-english-language-and-literature-unit-3-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-english-language-and-literature-unit-5-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 12
+      },
+      "september-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "total_issues": 66
+      },
+      "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
+      },
+      "wjec-gcse-english-language-and-literature-single-and-double-award-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 12
+      }
+    },
+    "History": {
+      "gcse-history---guidance-for-teaching-unit-4---a-changing-society-early-modern---example-teaching-pack.csv": {
+        "completed_batches": [
+          2
+        ],
+        "total_issues": 8
+      },
+      "gcse-history---guidance-for-teaching-unit-4---a-changing-society-medieval---example-teaching-pack.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 8
+      },
+      "gcse-history---guidance-for-teaching-unit-4---a-changing-society-modern---example-teaching-pack.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 5
+      },
+      "gcse-history---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-history---unit-1-an-in-depth-study-on-welsh-history---early-modern.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-history---unit-1-an-in-depth-study-on-welsh-history---medieval.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-history---unit-1-an-in-depth-study-on-welsh-history---modern.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 6
+      },
+      "gcse-history---unit-3-a-study-of-a-period-in-world-history---early-modern.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-history---unit-3-a-study-of-a-period-in-world-history---medieval.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-history---unit-3-a-study-of-a-period-in-world-history---modern.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 10
+      },
+      "gcse-history---unit-4-a-changing-society.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 8
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      },
+      "wjec-gcse-history-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 7
+      },
+      "frequently-asked-questions.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-history---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-history---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.1.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.2.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.3.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.4.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 11
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.5.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-history---guidance-for-teaching-unit-1-option-1.6.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.1.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.2.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.3.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.4.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 13
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.5.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-history---guidance-for-teaching-unit-2-option-2.6.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-history---guidance-for-teaching-unit-3-option-3.1.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      }
+    },
+    "Integrated-Science-Single-Award": {
+      "wjec-gcse-integrated-science-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 9
+      }
+    },
+    "Level-2-Additional-Mathematics": {
+      "additional-mathematics---options-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "september-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "wjec-level-2-additional-mathematics-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 8
+      }
+    },
+    "Mathematics-and-Numeracy": {
+      "april-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-mathematics-and-numeracy---guidance-for-teaching.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 9
+      },
+      "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-foundation-tier.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-mathematics-and-numeracy---unit-1-financial-mathematics-and-other-applications-of-numeracy-higher-tier.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 9
+      },
+      "gcse-mathematics-and-numeracy---unit-2-non-calculator-foundation-tier.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "gcse-mathematics-and-numeracy---unit-2-non-calculator-higher-tier.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 10
+      },
+      "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-foundation-tier.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 3
+      },
+      "gcse-mathematics-and-numeracy---unit-3-calculator-allowed-higher-tier.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 2
+      },
+      "gcse-mathematics-and-numeracy-double-award---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "january-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      },
+      "september-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "wjec-gcse-mathematics-and-numeracy-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 2
+      }
+    },
+    "Music": {
+      "gcse-music---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-music---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-music---guidance-for-teaching.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "gcse-music---unit-1-non-exam-assessment-pack-sample.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      },
+      "gcse-music---unit-2-composing-sample.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-music---unit-3-appraising.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-music-unit-1-nea-assessment-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-music-unit-2-nea-assessment-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-music-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      }
+    },
+    "Physical-Education-and-Health": {
+      "physical-education-and-health-options-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "wjec-gcse-physical-education-and-health-specification.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      }
+    },
+    "Religious-Studies": {
+      "gcse-religious-studies---delivery-guide.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "gcse-religious-studies---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-religious-studies---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "total_issues": 8
+      },
+      "gcse-religious-studies---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 1
+      },
+      "gcse-religious-studies---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "total_issues": 10
+      },
+      "gcse-religious-studies---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      },
+      "gcse-religious-studies---unit-1-sample-assessment-materials.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 2
+      },
+      "gcse-religious-studies---unit-2-non-exam-assessment-pack-sample.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-religious-studies---unit-3-sample-assessment-materials.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 2
+      },
+      "gcse-religious-studies---unit-4-non-exam-assessment-pack.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-religious-studies-unit-2-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 2
+      },
+      "wjec-gcse-religious-studies-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 9
+      }
+    },
+    "Social-Studies": {
+      "social-studies---options-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-social-studies-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 3
+      }
+    },
+    "Spanish": {
+      "gcse-spanish---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-spanish---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-spanish---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 10
+      },
+      "gcse-spanish---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "gcse-spanish---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-spanish---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "gcse-spanish---unit-1-oracy.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-spanish---unit-2-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-spanish---unit-3-listening.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-spanish---unit-4-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 1
+      },
+      "wjec-gcse-spanish-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "total_issues": 2
+      }
+    },
+    "The-Sciences-Double-Award": {
+      "wjec-gcse-the-sciences-double-award-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 5
+      }
+    },
+    "Food-and-Nutrition": {
+      "appendix-a-chart.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-food-and-nutrition---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 7
+      },
+      "gcse-food-and-nutrition---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 21
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 17
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 20
+      },
+      "gcse-food-and-nutrition---option-evening-flyer.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 15
+      },
+      "gcse-food-and-nutrition---unit-2-food-investigation.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-food-and-nutrition---unit-2-non-exam-assessment-pack.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 20
+      },
+      "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 20
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 12
+      },
+      "resources-for-new-gcse.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "techniques-summary.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 28
+      },
+      "unit-2---work-smarter-not-harder.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "unit-3---presenting-food-outcomes.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "unit-3---upskilling.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
+      },
+      "wjec-gcse-food-and-nutrition-specification.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      }
+    },
+    "French": {
+      "gcse-french---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-french---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-french---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 6
+      },
+      "gcse-french---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 18
+      },
+      "gcse-french---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 15
+      },
+      "gcse-french---unit-1-oracy.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "gcse-french---unit-2-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-french---unit-3-listening.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-french---unit-4-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-french--faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 11
+      },
+      "wjec-gcse-french-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "total_issues": 85
+      }
+    },
+    "Geography": {
+      "cylchlythyr-ionawr-2025.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "fieldwork-opportunities-at-gwersyll-yr-urdd-pentre-ifan.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-geography---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-geography---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-geography---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 28
+      },
+      "gcse-geography---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 23
+      },
+      "gcse-geography---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "total_issues": 35
+      },
+      "gcse-geography---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      },
+      "gcse-geography---guided-learning-hours-table.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-geography---unit-1-our-physical-and-human-world.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 24
+      },
+      "gcse-geography---unit-3-our-dynamic-and-diverse-world.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 20
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 12
+      },
+      "wjec-gcse-geography-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 23
+      },
+      "wjec-gcse-geography-unit-2-external-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 9
+      },
+      "wjec-gcse-geography-unit-4-internal-nea-handbook.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 4
+      }
+    },
+    "German": {
+      "gcse-german---delivery-guide.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 2
+      },
+      "gcse-german---faqs.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-german---guidance-for-teaching-unit-1.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
+      },
+      "gcse-german---guidance-for-teaching-unit-2.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 8
+      },
+      "gcse-german---guidance-for-teaching-unit-3.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-german---guidance-for-teaching-unit-4.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 16
+      },
+      "gcse-german---unit-1-oracy.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 12
+      },
+      "gcse-german---unit-2-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 5
+      },
+      "gcse-german---unit-3-listening.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-german---unit-4-reading-and-writing.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "overview-of-consultation-findings.csv": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 10
+      },
+      "wjec-gcse-german-specification.csv": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "total_issues": 111
+      }
+    },
+    "Health-and-Social-Care-and-Childcare": {
+      "wjec-gcse-health-and-social-care-and-childcare-specification.csv": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 14
       }
     }
   }
