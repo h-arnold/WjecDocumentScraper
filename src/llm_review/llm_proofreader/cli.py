@@ -20,7 +20,7 @@ from .batch_cli import (
     handle_batch_fetch,
     handle_batch_list,
 )
-from .runner import ProofreaderRunner
+from .page_runner import PageBasedProofreaderRunner
 
 
 def parse_args(args: list[str] | None = None) -> argparse.Namespace:
@@ -42,8 +42,8 @@ Synchronous Examples:
   # Force reprocessing (ignore state)
   python -m src.llm_review.llm_proofreader --force
 
-  # Use a different batch size
-  python -m src.llm_review.llm_proofreader --batch-size 5
+  # Use a different pages per batch
+  python -m src.llm_review.llm_proofreader --pages-per-batch 5
 
   # Dry run (validate data loading only)
   python -m src.llm_review.llm_proofreader --dry-run
@@ -62,9 +62,9 @@ Batch API Examples:
   python -m src.llm_review.llm_proofreader batch-list
 
 Environment Variables:
-  LLM_PROOFREADER_BATCH_SIZE     Default batch size (default: 10)
+  LLM_PROOFREADER_BATCH_SIZE     Default pages per batch (default: 3)
   LLM_PROOFREADER_MAX_RETRIES    Maximum retries (default: 2)
-  LLM_PROOFREADER_STATE_FILE     State file path (default: data/llm_proofreader_state.json)
+  LLM_PROOFREADER_STATE_FILE     State file path (default: data/llm_page_proofreader_state.json)
   LLM_PROOFREADER_LOG_RESPONSES  Set to true/1 to dump raw LLM JSON responses for each batch attempt
   LLM_PROOFREADER_LOG_DIR        Override directory for raw response logs (default: data/llm_proofreader_responses)
   GEMINI_MIN_REQUEST_INTERVAL    Min seconds between Gemini requests (default: 0)
@@ -78,14 +78,6 @@ Environment Variables:
     # Add subparsers for batch commands
     subparsers = parser.add_subparsers(dest="command", help="Command to run")
     add_batch_subparsers(subparsers)
-
-    # Input/output options
-    parser.add_argument(
-        "--from-report",
-        type=Path,
-        default=Path("Documents/verified-llm-categorised-language-check-report.csv"),
-        help="Path to verified-llm-categorised-language-check-report.csv (default: Documents/verified-llm-categorised-language-check-report.csv)",
-    )
 
     # Filtering options
     parser.add_argument(
@@ -102,10 +94,10 @@ Environment Variables:
 
     # Batch configuration
     parser.add_argument(
-        "--batch-size",
+        "--pages-per-batch",
         type=int,
-        default=int(os.environ.get("LLM_PROOFREADER_BATCH_SIZE", "10")),
-        help="Number of issues per batch (default: 10)",
+        default=int(os.environ.get("LLM_PROOFREADER_BATCH_SIZE", "3")),
+        help="Number of pages per batch (default: 3, or LLM_PROOFREADER_BATCH_SIZE env var)",
     )
 
     parser.add_argument(
@@ -215,13 +207,6 @@ def main(argv: list[str] | None = None) -> int:
         else:
             load_dotenv(override=True)
 
-        # Validate report file exists
-        if not args.from_report.exists():
-            print(
-                f"Error: Report file not found: {args.from_report}", file=sys.stderr
-            )
-            return 1
-
         # Handle --emit-batch-payload mode
         if args.emit_batch_payload:
             return emit_batch_payloads(args)
@@ -257,16 +242,23 @@ def main(argv: list[str] | None = None) -> int:
         # Initialize state manager
         state = StateManager(args.state_file)
 
-        # Create runner
-        runner = ProofreaderRunner(
+        # Determine fail_on_quota: CLI arg wins, else environment variable, else default True
+        if args.fail_on_quota is not None:
+            fail_on_quota = args.fail_on_quota
+        else:
+            env_flag = os.environ.get("LLM_FAIL_ON_QUOTA", "true")
+            fail_on_quota = env_flag.strip().lower() in {"true", "1", "yes", "on"}
+
+        # Create page-based runner (this is now the default and only mode)
+        runner = PageBasedProofreaderRunner(
             llm_service,
             state,
-            batch_size=args.batch_size,
+            pages_per_batch=args.pages_per_batch,
             max_retries=args.max_retries,
+            fail_on_quota=fail_on_quota,
         )
 
         # Set config parameters for the run
-        runner.config.input_csv_path = args.from_report
         runner.config.subjects = set(args.subjects) if args.subjects else None
         runner.config.documents = set(args.documents) if args.documents else None
 
@@ -283,7 +275,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"  Total batches: {summary['total_batches']}")
         print(f"  Processed batches: {summary['processed_batches']}")
         print(f"  Skipped batches: {summary['skipped_batches']}")
-        print(f"  Total issues: {summary['total_issues']}")
+        print(f"  Total pages: {summary['total_pages']}")
         print("=" * 60)
 
         return 0
