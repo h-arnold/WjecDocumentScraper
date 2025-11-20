@@ -134,7 +134,7 @@ def load_page_based_documents(
             
             # Get page numbers (or use 0 for documents without markers)
             if page_markers:
-                page_numbers = sorted(page_markers.keys())
+                page_numbers = sorted([marker.page_number for marker in page_markers])
             else:
                 page_numbers = [0]  # Whole document as page 0
             
@@ -284,7 +284,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
 
-from src.language_check.language_issue import LanguageIssue
+from src.models import LanguageIssue
 from src.utils.page_utils import extract_pages_text, find_page_markers
 
 
@@ -393,8 +393,6 @@ def build_page_prompts(batch: PageBatch) -> list[str]:
     Returns:
         A list with two strings: [system_prompt, user_prompt]
     """
-    from src.language_check.report_utils import build_issue_pages
-    
     # Build structured page data with pre-existing issues
     page_data = []
     for page_num in sorted(batch.page_context.keys()):
@@ -941,11 +939,11 @@ def test_page_based_runner_full_workflow(tmp_path):
     # Create test document with page markers
     content = """# Document Title
 
----PAGE 1---
+{1}------------------------------------------------
 
 Content on page 1
 
----PAGE 2---
+{2}------------------------------------------------
 
 Content on page 2
 """

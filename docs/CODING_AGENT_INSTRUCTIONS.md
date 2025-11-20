@@ -79,7 +79,7 @@ uv run python -m src.llm_review.llm_proofreader.cli --page-based --subjects "Art
 
 The `language_check` module already processes documents page-by-page. Study these files:
 - `src/language_check/language_check.py` - Document processing
-- `src/language_check/page_utils.py` - Page marker handling
+- `src/utils/page_utils.py` - Page marker handling
 - `src/language_check/report_utils.py` - Report building
 
 ### Maintain Consistency
