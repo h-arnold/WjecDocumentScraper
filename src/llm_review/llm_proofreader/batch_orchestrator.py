@@ -17,7 +17,6 @@ from ..core.batch_orchestrator import Batch, BatchOrchestrator
 from ..core.state_manager import StateManager
 from .config import ProofreaderConfiguration
 from .data_loader import load_proofreader_issues
-from .persistence import save_proofreader_results
 from .prompt_factory import build_prompts as build_prompt_templates
 
 
@@ -201,3 +200,123 @@ class ProofreaderBatchOrchestrator(BatchOrchestrator):
             print(f"    Warning: {len(failed)} issue(s) failed validation")
 
         return validated
+
+    def create_batch_jobs(
+        self,
+        *,
+        force: bool = False,
+    ) -> dict[str, Any]:
+        """Create batch jobs for all document batches using proofreader data loader.
+
+        This override ensures that only SPELLING_ERROR and ABSOLUTE_GRAMMATICAL_ERROR
+        issues are included in batch jobs.
+
+        Args:
+            force: If True, create jobs even for already-completed batches
+
+        Returns:
+            Dictionary with job creation statistics
+        """
+        from pathlib import Path
+
+        from ..core.batcher import iter_batches
+
+        print(f"Loading issues from {self.config.input_csv_path}...")
+        grouped_issues = load_proofreader_issues(
+            self.config.input_csv_path,
+            subjects=self.config.subjects,
+            documents=self.config.documents,
+        )
+
+        if not grouped_issues:
+            print("No issues found matching the filters")
+            return {
+                "total_documents": 0,
+                "total_batches": 0,
+                "created_jobs": 0,
+                "skipped_batches": 0,
+            }
+
+        print(f"Loaded {len(grouped_issues)} document(s) with issues")
+
+        total_batches = 0
+        created_jobs = 0
+        skipped_batches = 0
+
+        for key, issues in grouped_issues.items():
+            print(f"\nProcessing {key} ({len(issues)} issues)...")
+
+            # Convert CSV filename to MD for markdown path
+            md_filename = key.filename
+            if md_filename.endswith(".csv"):
+                md_filename = md_filename[:-4] + ".md"
+            elif not md_filename.endswith(".md"):
+                md_filename = md_filename + ".md"
+
+            markdown_path = Path("Documents") / key.subject / "markdown" / md_filename
+
+            for batch in iter_batches(
+                issues,
+                self.config.batch_size,
+                markdown_path,
+                subject=key.subject,
+                filename=key.filename,
+            ):
+                total_batches += 1
+
+                if not force and self.state.is_batch_completed(key, batch.index):
+                    print(f"  Batch {batch.index}: Already completed (skipping)")
+                    skipped_batches += 1
+                    continue
+
+                # Build prompts
+                prompts = self.build_prompts(batch)
+
+                # Create batch job
+                try:
+                    job_name = self.llm_service.create_batch_job(
+                        prompts,
+                        metadata={
+                            "subject": key.subject,
+                            "filename": key.filename,
+                            "batch_index": batch.index,
+                        },
+                    )
+
+                    # Track the job
+                    from ..core.batch_orchestrator import BatchJobMetadata
+                    from datetime import datetime, timezone
+
+                    job_metadata = BatchJobMetadata(
+                        provider_name=self.llm_service.providers[0].name,
+                        job_name=job_name,
+                        subject=key.subject,
+                        filename=key.filename,
+                        batch_index=batch.index,
+                        issue_ids=[i.issue_id for i in batch.issues],
+                        created_at=datetime.now(timezone.utc).isoformat(),
+                        status="pending",
+                    )
+                    self.tracker.add_job(job_metadata)
+
+                    print(f"  Batch {batch.index}: Created job {job_name[:16]}...")
+                    created_jobs += 1
+
+                except Exception as e:
+                    print(f"  Batch {batch.index}: Failed to create job - {e}")
+                    continue
+
+        print(f"\n{'=' * 60}")
+        print("Summary:")
+        print(f"  Total documents: {len(grouped_issues)}")
+        print(f"  Total batches: {total_batches}")
+        print(f"  Created jobs: {created_jobs}")
+        print(f"  Skipped (already done): {skipped_batches}")
+        print(f"{'=' * 60}")
+
+        return {
+            "total_documents": len(grouped_issues),
+            "total_batches": total_batches,
+            "created_jobs": created_jobs,
+            "skipped_batches": skipped_batches,
+        }

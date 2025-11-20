@@ -14,8 +14,8 @@ A focused LLM-driven proofreader for final review of spelling and grammatical er
 - prompt_factory.build_prompts(batch: Batch) -> list[str]  # returns [system_prompt, user_prompt]
   - Uses build_issue_pages() to structure issues by page with full context
 - runner.run(*, force: bool, dry_run: bool) -> dict[str, Any]  # orchestrates batches, LLM calls, validation, persistence
-- persistence.save_proofreader_results(output_path: Path, results: list[LanguageIssue], *, columns: list[str])
 - batch_orchestrator.ProofreaderBatchOrchestrator: Handles async batch job creation and retrieval
+- Persistence handled by core.PersistenceManager (inherited from parent classes)
 - state.* (read/write JSON state file to resume operations)
 
 Model contract:
