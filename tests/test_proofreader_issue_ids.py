@@ -1,17 +1,28 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from pathlib import Path
+import sys
 
 import pytest
 
+# Ensure project root is importable (consistent with other tests)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from src.llm.service import LLMService
 from src.llm_review.core.state_manager import StateManager
 from src.llm_review.llm_proofreader.runner import ProofreaderRunner
 from src.models import DocumentKey, LanguageIssue
 from src.models.enums import ErrorCategory
 
 
-class _StubLLMService:
-    """Minimal stub for LLMService that should never be invoked in these tests."""
+class _StubLLMService(LLMService):
+    """Minimal LLMService stub for validation tests."""
+
+    def __init__(self) -> None:
+        super().__init__(providers=[])
 
     def generate(self, user_prompts, *, filter_json=False):  # pragma: no cover - defensive
         raise AssertionError("LLMService.generate should not be called during validation tests")
@@ -144,7 +155,7 @@ def test_issue_id_counter_rolls_back_on_validation_error(
 
     assert validated == []
     assert failed == {40}
-    assert errors["batch_errors"]
+    assert errors[40]
 
     # Next successful validation should still start from zero
     good_response = [_make_response_row("fixed")]
