@@ -39,4 +39,6 @@ Each error object **must** include **all and only** the fields above.
 
 IMPORTANT: Always return a JSON array even for a single issue.
 
+Write in British English only.
+
 Do not return the single object without wrapping it in an array. Also ensure every string uses double-quotes and there are no trailing commas.

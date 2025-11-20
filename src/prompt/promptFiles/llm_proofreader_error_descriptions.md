@@ -17,10 +17,3 @@
     - **Examples:** Referring to Lenin's `April Theses` as the `April Thesis`.
 
 Always return the enum values exactly as written above (UPPER_SNAKE_CASE).
-
-#### Rules for Commas before Conjunctions (and, but, or)
-
-Classify comma issues between independent clauses using the following hierarchy:
-
-1.  **`ABSOLUTE_GRAMMATICAL_ERROR`**: Use this if the text contains a **comma splice** (two independent clauses joined only by a comma without a conjunction) or a **run-on sentence** (two independent clauses joined with no punctuation).
-2.  **`AMBIGUOUS_PHRASING`**: Use this if the absence (or presence) of the comma causes the subject of the second clause to be misidentified.
