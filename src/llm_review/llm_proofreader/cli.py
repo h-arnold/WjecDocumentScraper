@@ -207,15 +207,13 @@ def main(argv: list[str] | None = None) -> int:
             max_retries=args.max_retries,
         )
 
-        # Convert subjects/documents to sets if provided
-        subjects = set(args.subjects) if args.subjects else None
-        documents = set(args.documents) if args.documents else None
+        # Set config parameters for the run
+        runner.config.input_csv_path = args.from_report
+        runner.config.subjects = set(args.subjects) if args.subjects else None
+        runner.config.documents = set(args.documents) if args.documents else None
 
         # Run the workflow
         summary = runner.run(
-            args.from_report,
-            subjects=subjects,
-            documents=documents,
             force=args.force,
             dry_run=args.dry_run,
         )

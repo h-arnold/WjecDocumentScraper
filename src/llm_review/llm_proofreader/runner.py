@@ -95,19 +95,13 @@ class ProofreaderRunner(ReviewRunner):
 
     def run(
         self,
-        report_path: Path,
         *,
-        subjects: set[str] | None = None,
-        documents: set[str] | None = None,
         force: bool = False,
         dry_run: bool = False,
     ) -> dict[str, Any]:
         """Run the proofreading workflow.
 
         Args:
-            report_path: Path to verified-llm-categorised-language-check-report.csv
-            subjects: Optional subject filter
-            documents: Optional document filter
             force: If True, reprocess all batches (ignore state)
             dry_run: If True, only validate data loading (don't call LLM)
 
@@ -118,17 +112,12 @@ class ProofreaderRunner(ReviewRunner):
         from ..core.batcher import iter_batches
         from .data_loader import load_proofreader_issues
 
-        # Update config with runtime parameters
-        self.config.input_csv_path = report_path
-        self.config.subjects = subjects
-        self.config.documents = documents
-
         # Load issues using custom loader that filters error categories
-        print(f"Loading issues from {report_path}...")
+        print(f"Loading issues from {self.config.input_csv_path}...")
         grouped_issues = load_proofreader_issues(
-            report_path,
-            subjects=subjects,
-            documents=documents,
+            self.config.input_csv_path,
+            subjects=self.config.subjects,
+            documents=self.config.documents,
         )
 
         if not grouped_issues:
