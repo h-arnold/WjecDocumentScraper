@@ -98,6 +98,27 @@ Usage example (used in GitHub workflow):
 Notes:
   - The script is used from `.github/workflows/update-leaners-badge.yml` which runs it daily and commits the badge if changed.
 
+## src/scripts/document_stats.py
+
+Purpose: Generate statistics about documents in the `Documents/` folder, including counts of PDF files, converted markdown files, and total pages per subject.
+
+Usage example:
+
+  uv run python src/scripts/document_stats.py
+
+Output:
+  - Number of PDF documents per subject (from `pdfs/` folder)
+  - Number of converted markdown documents per subject (from `markdown/` folder)
+  - Total pages per subject (determined by the last page marker `{N}----` in each markdown document)
+  - Grand totals for all subjects
+
+Notes:
+  - Page markers follow the format `{N}------------------------------------------------` where N is the 0-indexed page number.
+  - Documents without page markers are counted as single-page documents.
+  - The script uses the `find_page_markers` function from `src.utils.page_utils` to parse page information.
+
+Related tests: `tests/test_document_stats.py`
+
 ## scripts/test_multilang_manual.py and `scripts/README_MANUAL_TESTING.md`
 
 Purpose: Manual test harness for multi-language language checking. The script exercises LanguageTool downloads and multi-language checking behaviour (English + subject languages) and is used when network access is available.
