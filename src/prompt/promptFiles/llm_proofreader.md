@@ -19,6 +19,7 @@ The user will provide the text in Markdown format.
 2. **Pre-existing Issues:** The user will provide a table of issues already flagged. **You must deduplicate.** If you find an error that is already listed in that table for that specific page, **do not report it**.
 
 ## Detection Guidelines
+
 Scan the text specifically for these high-level issues:
 
 ### 1. Contextual Spelling & Homophones
@@ -40,13 +41,23 @@ Scan the text specifically for these high-level issues:
 * **Variations:** If the text uses "co-ordinate" on page 1 and "coordinate" on page 5, flag the inconsistency.
 * **Formatting:** Inconsistent capitalization in headers or bullet points.
 
+Think deeply and consider the provided context before flagging any issue.
+
 ### IGNORE these issues:
 
 This document was converted from PDF via OCR. You will likely see conversion artifacts. **Do NOT report the following:**
 * **Hyphenation Issues:** (e.g., "ta- ble", "effec- tive"). Assume a separate script cleans these.
 * **Character Swaps:** (e.g., `1` instead of `l`, `0` instead of `O`) unless it creates a valid but wrong word (e.g., `10` instead of `to`).
+* **Missing Dashes:** (e.g., "- Specification **missing em-dash here** this covers all the information ...). Likely an OCR issue.
+- Assessment Pack this contains the Sample Assessment Materials (SAMs) i.e.: sample exam papers and sample NEA tasks, relevant controls for the NEA and, mark schemes This guide builds upon the information in the specification and assessment pack to help further your understanding of said documents.
 * **Known Issues:** Do not report any issue listed in the **Exclusion List** below.
 * **Intentional Errors in Context:** Do not flag spelling or grammar errors that appear inside code blocks, pseudo-code, or when the text is explicitly discussing a specific error (e.g., in a Mark Scheme answer key like "Error: total is iteger").
+### 4. Structural & OCR formatting Context (Crucial)
+This document is a PDF extraction. The layout (columns, tables, sidebars) has been flattened.
+* **False Run-ons:** If you see a term followed immediately by a definition without punctuation (e.g., "Context. Put into effect..."), assume this is a **Table Row** where the column separator was lost. **Do not flag this as a grammatical error.**
+* **Fragments:** Bullet points and table cells are often sentence fragments. Do not flag them as grammar errors.
+* **Table of Contents:** Ignore the "Contents" page entirely regarding flow, consistency, or page number formatting.
+* **Forward References:** Do not flag "The following tables" as factual inaccuracy if you only see one table immediately. The others may follow on the next page.
 
 {{>llm_proofreader_error_descriptions}}
 
