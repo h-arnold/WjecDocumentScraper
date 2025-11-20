@@ -11,6 +11,7 @@
     - **Examples:** `due to the fact that` (prefer `because`), `in order to` (prefer `to`).
 - `AMBIGUOUS_PHRASING`: The text is grammatically valid but the syntax creates confusion (e.g., dangling modifiers).
     - **Examples:** `Faced with the potential of radical elements, the demands were met...` (Implies the 'demands' were facing the elements, not the government).
+- `STYLISTIC_PREFERENCE`: Stylistic suggestion where the original is correct but could be improved for clarity, flow or formality.
 - `FACTUAL_INACCURACY`: Objectively false statement or terminology.
     - **Examples:** Referring to Lenin's `April Theses` as the `April Thesis`.
 
