@@ -9,6 +9,8 @@ This is the **Final "Human" Pass**. The document has already been scanned by aut
 
 **Your Goal:** Act as a senior editor. You are looking for "silent" errors—issues that pass a standard spell-check but fail a human reading. Focus on meaning, flow, consistency, and complex grammatical structures.
 
+**IMPORTANT:** All spelling and grammar checks must use British English conventions. Where there is doubt, consult the Oxford English Dictionary (OED) or Collins Dictionary as authoritative sources.
+
 ---
 
 ## Negative Constraints (What to IGNORE)
@@ -28,9 +30,14 @@ Scan the text specifically for these high-level issues:
 * **Proper Noun Accuracy:** Ensure terminology like "Wi-Fi" or "PowerPoint" is capitalized/spelled correctly if standard.
 
 ### 2. Complex Grammar & Syntax
-* **Agreement:** Subject-verb agreement in complex sentences (e.g., "The list of items *are*..." -> should be "*is*").
-* **Dangling Modifiers:** e.g., "Walking down the road, the building came into view." (The building was not walking).
-* **Ambiguity:** Sentences where "it", "this", or "they" have unclear antecedents.
+* **Strict Subject-Verb Agreement:**
+    * **Distractor Nouns:** Ensure the verb agrees with the true subject, not the nearest noun (e.g., "The list of items *are*..." -> "*is*").
+    * **Compound Technical Subjects:** Flag instances where two distinct technical concepts joined by "and" take a singular verb. In formal specifications, "A and B" are plural, even if they achieve a single result.
+        * *Error:* "Indentation and white space *improves* readability." (Implies they are one single concept).
+        * *Correction:* "Indentation and white space *improve* readability." (Acknowledges two distinct tools).
+* **Dangling Modifiers:** Ensure the introductory phrase logically modifies the subject immediately following it.
+    * *Error:* "Walking down the road, the building came into view." (The building was not walking).
+* **Ambiguity:** Flag sentences where pronouns ("it", "this", "they") could refer to multiple preceding nouns, forcing the reader to guess.
 
 ### 3. Consistency (The "Editor's Eye")
 * **Variations:** If the text uses "co-ordinate" on page 1 and "coordinate" on page 5, flag the inconsistency.

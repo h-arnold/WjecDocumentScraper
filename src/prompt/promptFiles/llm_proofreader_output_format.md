@@ -1,5 +1,7 @@
 ## Output Format
 
+All spelling and grammar rules must be based on British English.
+
 Return a **single top-level JSON array** (no surrounding object, no page keys) and nothing else. Do not include backticks, commentary, or any text before or after the JSON. Each array element represents one issue from the table.
 
 For each issue, output a full object following the format below:
