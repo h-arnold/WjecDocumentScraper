@@ -114,6 +114,7 @@ def build_issue_pages(
                 "issues": issue_rows,
                 "page_content": page_context.get(page, ""),
                 "issue_count": len(issue_rows),
+                "has_existing_issues": True,
             }
         )
 
