@@ -266,9 +266,7 @@ class ProofreaderRunner(ReviewRunner):
             # final stored result. This ensures the resulting object has the
             # detection fields present.
             try:
-                iid = (
-                    issue_dict.get("issue_id") if isinstance(issue_dict, dict) else None
-                )
+                iid = issue_dict.get("issue_id")
 
                 if iid is not None and iid in issue_map:
                     # Merge proofreader results into the original detection
