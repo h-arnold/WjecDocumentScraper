@@ -18,7 +18,6 @@ class ErrorCategory(str, Enum):
 
     PARSING_ERROR = "PARSING_ERROR"
     SPELLING_ERROR = "SPELLING_ERROR"
-    CONTEXTUAL_SPELLING = "CONTEXTUAL_SPELLING"
     ABSOLUTE_GRAMMATICAL_ERROR = "ABSOLUTE_GRAMMATICAL_ERROR"
     POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR = (
         "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR"  # Deprecated -
@@ -40,10 +39,14 @@ class PassCode(str, Enum):
     Values:
         LT: Language Tool
         LTC: Language Tool Categorisation
+        LCV: LLM Categoriser Verification
+        LP: LLM Proofreader
     """
 
     LT = "LT"
     LTC = "LTC"
+    LCV = "LCV"
+    LP = "LP"
 
     @classmethod
     def all_values(cls) -> list[str]:
