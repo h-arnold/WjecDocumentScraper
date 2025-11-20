@@ -1026,7 +1026,7 @@ Critically reflect on work as it progresses to review what has been learned and 
 
 Present personal and imaginative final outcomes that, together with selective evidence of the thinking and production processes, effectively realise the student's stated intentions and demonstrate critical understanding of visual, tactile and, where appropriate, other forms of communication.
 
-Make explicit connections between the different elements of the submission, including contextual, practical and written responses, presenting work that is meaningful, well-informed and in a sequence that can be easily followed.
+Make explicit connections between the different elements of the submission, including contextual, practical and written responses, presenting work that is meaningful, wellinformed and in a sequence that can be easily followed.
 
 Consider different presentational formats and select the most appropriate for the submission. Consideration should be given to how to engage the interest of a real or imagined audience. This will be for different purposes and is likely to take different forms depending on the selected pathway i.e:
 
