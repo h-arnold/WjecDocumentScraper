@@ -47,10 +47,10 @@ Follow Step 1-4 in the guide to create:
 
 ### 3. Update CLI (Step 5)
 
-Modify `src/llm_review/llm_proofreader/cli.py` to add:
-- `--page-based` flag
-- `--pages-per-batch` parameter
-- Conditional logic to use either page-based or issue-based runner
+Modify `src/llm_review/llm_proofreader/cli.py` to use page-based processing:
+- Update `--pages-per-batch` parameter to default to 3
+- Use `LLM_PROOFREADER_BATCH_SIZE` environment variable
+- Replace runner logic to use `PageBasedProofreaderRunner` as the default
 
 ### 4. Write Tests
 
@@ -67,10 +67,10 @@ Use examples from the implementation guide.
 uv run pytest tests/test_page_data_loader.py -v
 
 # Test with dry run
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --dry-run
+uv run python -m src.llm_review.llm_proofreader.cli --dry-run
 
 # Test with small subject
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --subjects "Art-and-Design" --pages-per-batch 3
+uv run python -m src.llm_review.llm_proofreader.cli --subjects "Art-and-Design" --pages-per-batch 3
 ```
 
 ## Key Design Principles
@@ -92,9 +92,9 @@ The `language_check` module already processes documents page-by-page. Study thes
 ### Keep It Modular
 
 - Each new module should be independent and testable
-- Don't modify existing issue-based system
-- Add new functionality alongside existing code
-- Use feature flags (like `--page-based`) for gradual adoption
+- Page-based processing is now the default mode
+- Add new functionality with clean interfaces
+- Use the `LLM_PROOFREADER_BATCH_SIZE` environment variable for configuration
 
 ## Critical Implementation Details
 
@@ -109,8 +109,8 @@ The LLM should see them but NOT report them again.
 
 ### 2. Page Batching Strategy
 
-- Default: 5 pages per batch
-- Adjustable via `--pages-per-batch`
+- Default: 3 pages per batch
+- Adjustable via `--pages-per-batch` or `LLM_PROOFREADER_BATCH_SIZE` environment variable
 - Consider token limits when batching
 - Each batch should include full page content + pre-existing issues for those pages
 
@@ -142,7 +142,7 @@ Before submitting, verify:
 
 ## Common Pitfalls to Avoid
 
-1. **Don't break existing system**: Keep issue-based mode working
+1. **Don't use outdated patterns**: Page-based is now the default mode
 2. **Don't forget page markers**: Use `find_page_markers()` from page_utils
 3. **Don't skip error handling**: Follow patterns from `language_check.py`
 4. **Don't hardcode paths**: Use Path objects and configuration
@@ -161,8 +161,8 @@ Refer to these sections in the implementation guide:
 
 Your implementation is complete when:
 
-1. ✅ Can run: `uv run python -m src.llm_review.llm_proofreader.cli --page-based --dry-run`
-2. ✅ Can process a full document with: `--page-based --subjects "Art-and-Design"`
+1. ✅ Can run: `uv run python -m src.llm_review.llm_proofreader.cli --dry-run`
+2. ✅ Can process a full document with: `--subjects "Art-and-Design"`
 3. ✅ Pre-existing issues appear in prompts but aren't re-reported
 4. ✅ Output CSV files contain new findings
 5. ✅ State file allows resumption

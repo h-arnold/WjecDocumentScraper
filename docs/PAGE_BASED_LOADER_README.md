@@ -96,14 +96,13 @@ Use this to track your progress:
 - [ ] Create `tests/test_page_data_loader.py`
 - [ ] Create `tests/test_page_based_runner_integration.py`
 - [ ] Run unit tests: `uv run pytest tests/test_page_data_loader.py -v`
-- [ ] Test dry run: `uv run python -m src.llm_review.llm_proofreader.cli --page-based --dry-run`
-- [ ] Test with sample subject: `uv run python -m src.llm_review.llm_proofreader.cli --page-based --subjects "Art-and-Design"`
+- [ ] Test dry run: `uv run python -m src.llm_review.llm_proofreader.cli --dry-run`
+- [ ] Test with sample subject: `uv run python -m src.llm_review.llm_proofreader.cli --subjects "Art-and-Design"`
 
 ### Phase 4: Validation
 - [ ] Verify pre-existing issues appear in prompts
 - [ ] Verify new findings saved to CSV
 - [ ] Verify state management works
-- [ ] Verify backward compatibility maintained
 - [ ] Review output quality
 
 ---
@@ -113,13 +112,13 @@ Use this to track your progress:
 ### Testing
 ```bash
 # Dry run to validate setup
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --dry-run
+uv run python -m src.llm_review.llm_proofreader.cli --dry-run
 
 # Test with single subject
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --subjects "Art-and-Design"
+uv run python -m src.llm_review.llm_proofreader.cli --subjects "Art-and-Design"
 
 # Adjust batch size
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --pages-per-batch 3
+uv run python -m src.llm_review.llm_proofreader.cli --pages-per-batch 2
 
 # Run unit tests
 uv run pytest tests/test_page_data_loader.py -v
@@ -127,6 +126,9 @@ uv run pytest tests/test_page_data_loader.py -v
 
 ### Configuration
 ```bash
+# Set default batch size
+export LLM_PROOFREADER_BATCH_SIZE=3
+
 # Enable detailed logging
 export LLM_PROOFREADER_LOG_RESPONSES=1
 export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
@@ -144,7 +146,7 @@ export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
 
 ### Modified Files (2)
 1. `src/llm_review/llm_proofreader/prompt_factory.py` (add `build_page_prompts()`)
-2. `src/llm_review/llm_proofreader/cli.py` (add `--page-based` flag)
+2. `src/llm_review/llm_proofreader/cli.py` (replace with page-based runner)
 
 ### Test Files (2)
 1. `tests/test_page_data_loader.py`
@@ -157,7 +159,8 @@ export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
 ### Page-Based Processing
 - Processes **all pages** regardless of detected issues
 - Batches by page ranges (not issue counts)
-- Default: 5 pages per batch
+- Default: 3 pages per batch
+- Configurable via `LLM_PROOFREADER_BATCH_SIZE` environment variable
 
 ### Pre-existing Issue Context
 - Loads from `Documents/language-check-report.csv`
@@ -165,11 +168,11 @@ export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
 - Displays as "already flagged" in prompts
 - Prevents duplicate reporting
 
-### Backward Compatibility
-- Existing issue-based system unchanged
-- New mode via `--page-based` flag
-- Separate state: `data/llm_page_proofreader_state.json`
-- Separate output: `Documents/<subject>/llm_page_proofreader_reports/`
+### Default Mode
+- Page-based processing is now the default
+- Replaces previous issue-based system
+- State: `data/llm_page_proofreader_state.json`
+- Output: `Documents/<subject>/llm_page_proofreader_reports/`
 
 ---
 
@@ -183,7 +186,7 @@ Your implementation is complete when:
 4. ✅ New findings saved to output CSV
 5. ✅ State file enables resumption
 6. ✅ All unit tests pass
-7. ✅ Backward compatibility maintained
+7. ✅ Default batch size is 3 pages
 
 ---
 

@@ -56,22 +56,21 @@ The guide follows proven patterns from the existing `language_check` module, whi
 - State management for resumable operations
 - CSV report generation
 
-### Backward Compatibility
+### Default Mode
 
-The new system is designed to coexist with the existing issue-based system:
+Page-based processing is now the default and only mode for the llm_proofreader module:
 
-- Existing `load_proofreader_issues()` remains unchanged
-- Existing `ProofreaderRunner` remains operational
-- New page-based mode activated via `--page-based` CLI flag
-- Separate state file: `data/llm_page_proofreader_state.json`
-- Separate output directory: `llm_page_proofreader_reports/`
+- Replaces the previous issue-based system
+- Uses `PageBasedProofreaderRunner` by default
+- State file: `data/llm_page_proofreader_state.json`
+- Output directory: `llm_page_proofreader_reports/`
 
 ### Key Features
 
 #### Page-Based Processing
 - Processes **all pages** regardless of detected issues
-- Batches by page ranges (default: 5 pages per batch)
-- Adjustable via `--pages-per-batch` parameter
+- Batches by page ranges (default: 3 pages per batch)
+- Adjustable via `--pages-per-batch` parameter or `LLM_PROOFREADER_BATCH_SIZE` environment variable
 - Respects document page markers from Markdown files
 
 #### Pre-Existing Issue Context
@@ -108,48 +107,44 @@ The guide includes test examples for:
 
 ## Migration Path
 
-The guide provides a 4-phase migration strategy:
+The guide provides a 3-phase implementation strategy:
 
 ### Phase 1: Development (Week 1-2)
 - Implement new modules
 - Write unit tests
 - Test with sample documents
 
-### Phase 2: Parallel Operation (Week 3)
-- Run both systems on same documents
-- Compare results
+### Phase 2: Testing and Validation (Week 2)
+- Test with full documents
+- Validate results
 - Fine-tune parameters
 
-### Phase 3: Production (Week 4)
-- Make page-based mode default
+### Phase 3: Production (Week 3)
+- Deploy page-based processing
 - Update documentation
 - Monitor performance
-
-### Phase 4: Optimization (Ongoing)
-- Tune batch sizes
-- Implement batch API support
-- Add parallel processing
 
 ## Usage Examples
 
 ### Basic Usage
 ```bash
 # Dry run to validate
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --dry-run
+uv run python -m src.llm_review.llm_proofreader.cli --dry-run
 
 # Process specific subject
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --subjects "Art-and-Design"
+uv run python -m src.llm_review.llm_proofreader.cli --subjects "Art-and-Design"
 
 # Adjust batch size
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --pages-per-batch 3
+uv run python -m src.llm_review.llm_proofreader.cli --pages-per-batch 2
 
 # Force reprocessing
-uv run python -m src.llm_review.llm_proofreader.cli --page-based --force
+uv run python -m src.llm_review.llm_proofreader.cli --force
 ```
 
 ### Configuration
 ```bash
 # Environment variables
+export LLM_PROOFREADER_BATCH_SIZE=3
 export LLM_PROOFREADER_LOG_RESPONSES=1
 export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
 ```

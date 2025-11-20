@@ -54,10 +54,10 @@ LLM Review
 
 ### Key Design Decisions
 
-1. **Page-centric batching**: Instead of batching by issues, batch by page ranges (e.g., 5-10 pages per batch)
+1. **Page-centric batching**: Batches by page ranges (e.g., 3 pages per batch by default)
 2. **Pre-existing issues as context**: Load issues from existing reports and display them as "Ignore - already flagged" sections
 3. **Full document coverage**: Every page is reviewed, even if no issues were previously detected
-4. **Maintain backward compatibility**: Keep the existing `load_proofreader_issues()` for potential future use
+4. **Replaces issue-based system**: Page-based processing is now the default and only mode
 
 ## Implementation Steps
 
@@ -479,7 +479,7 @@ class PageBasedProofreaderRunner(ReviewRunner):
         llm_service: LLMService,
         state: StateManager,
         *,
-        pages_per_batch: int = 5,
+        pages_per_batch: int = 3,
         max_retries: int = 2,
         log_raw_responses: bool | None = None,
         log_response_dir: Path | None = None,
@@ -490,7 +490,7 @@ class PageBasedProofreaderRunner(ReviewRunner):
         Args:
             llm_service: LLM service for making API calls
             state: State manager for tracking progress
-            pages_per_batch: Number of pages per batch (default 5)
+            pages_per_batch: Number of pages per batch (default 3)
             max_retries: Maximum retry attempts for failed validations
             log_raw_responses: Whether to log raw LLM responses
             log_response_dir: Directory for response logs
@@ -756,53 +756,37 @@ class PageBasedProofreaderRunner(ReviewRunner):
             return None
 ```
 
-### Step 5: Add CLI Integration
+### Step 5: Update CLI Integration
 
 **File Modification**: `src/llm_review/llm_proofreader/cli.py`
 
-Add a new CLI option to use page-based processing:
+Replace the existing runner logic with page-based processing:
 
 ```python
-# Add to argument parser
-parser.add_argument(
-    "--page-based",
-    action="store_true",
-    help="Use page-based processing instead of issue-based processing",
-)
-
+# Add to argument parser - update the batch size argument
 parser.add_argument(
     "--pages-per-batch",
     type=int,
-    default=5,
-    help="Number of pages per batch (for page-based mode)",
+    default=int(os.environ.get("LLM_PROOFREADER_BATCH_SIZE", "3")),
+    help="Number of pages per batch (default: 3, or LLM_PROOFREADER_BATCH_SIZE env var)",
 )
 
-# In main() function, add conditional logic:
+# In main() function, replace the runner initialization:
 def main():
     args = parser.parse_args()
     
     # ... existing code for LLM service setup ...
     
-    if args.page_based:
-        # Use page-based runner
-        from .page_runner import PageBasedProofreaderRunner
-        
-        runner = PageBasedProofreaderRunner(
-            llm_service,
-            state,
-            pages_per_batch=args.pages_per_batch,
-            max_retries=args.max_retries,
-            fail_on_quota=not args.continue_on_quota,
-        )
-    else:
-        # Use existing issue-based runner
-        runner = ProofreaderRunner(
-            llm_service,
-            state,
-            batch_size=args.batch_size,
-            max_retries=args.max_retries,
-            fail_on_quota=not args.continue_on_quota,
-        )
+    # Use page-based runner (this is now the default and only mode)
+    from .page_runner import PageBasedProofreaderRunner
+    
+    runner = PageBasedProofreaderRunner(
+        llm_service,
+        state,
+        pages_per_batch=args.pages_per_batch,
+        max_retries=args.max_retries,
+        fail_on_quota=not args.continue_on_quota,
+    )
     
     # Run the workflow
     stats = runner.run(force=args.force, dry_run=args.dry_run)
@@ -980,41 +964,44 @@ Content on page 2
 3. Test with small sample documents
 4. Validate prompt rendering with pre-existing issues
 
-### Phase 2: Parallel Operation (Week 3)
+### Phase 2: Testing and Validation (Week 2)
 
-1. Keep existing issue-based system operational
-2. Add `--page-based` flag to CLI
-3. Run both systems on same documents and compare results
-4. Fine-tune pages_per_batch parameter based on token limits
+1. Test with sample documents
+2. Validate prompt rendering with pre-existing issues
+3. Fine-tune pages_per_batch parameter based on token limits
+4. Compare results with previous runs
 
-### Phase 3: Production Deployment (Week 4)
+### Phase 3: Production Deployment (Week 3)
 
-1. Make page-based mode the default
-2. Update documentation
-3. Create migration guide for users
-4. Monitor performance and accuracy
+1. Deploy page-based processing
+2. Monitor performance and accuracy
+3. Create user guide for new system
+4. Collect feedback and iterate
 
 ## Configuration and Tuning
 
 ### Recommended Parameters
 
 ```bash
-# Small documents (< 20 pages)
---pages-per-batch 10
-
-# Medium documents (20-50 pages)
---pages-per-batch 5
-
-# Large documents (> 50 pages)
+# Default (recommended for most documents)
 --pages-per-batch 3
 
-# Very detailed review
+# Small documents (< 20 pages) or faster processing
+--pages-per-batch 5
+
+# Large documents (> 50 pages) or detailed review
+--pages-per-batch 2
+
+# Very detailed review or hitting token limits
 --pages-per-batch 1
 ```
 
 ### Environment Variables
 
 ```bash
+# Set default pages per batch
+export LLM_PROOFREADER_BATCH_SIZE=3
+
 # Enable detailed logging
 export LLM_PROOFREADER_LOG_RESPONSES=1
 export LLM_PROOFREADER_LOG_DIR=data/llm_proofreader_responses
