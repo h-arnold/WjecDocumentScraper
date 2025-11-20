@@ -300,15 +300,19 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
     """
     import json
 
-    from ..core.batcher import iter_batches
-    from .data_loader import load_proofreader_issues
-    from .prompt_factory import build_prompts
+    from .page_batcher import iter_page_batches
+    from .page_data_loader import load_page_based_documents
+    from .prompt_factory import build_page_prompts
 
     print("Emitting batch payloads (not calling LLM)...")
 
     try:
-        grouped_issues = load_proofreader_issues(
-            parsed_args.from_report,
+        documents_root = Path("Documents")
+        existing_report = Path("Documents/language-check-report.csv")
+
+        document_metadata = load_page_based_documents(
+            documents_root,
+            existing_report if existing_report.exists() else None,
             subjects=set(parsed_args.subjects) if parsed_args.subjects else None,
             documents=set(parsed_args.documents) if parsed_args.documents else None,
         )
@@ -316,8 +320,8 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
         print(f"Error loading issues: {e}", file=sys.stderr)
         return 1
 
-    if not grouped_issues:
-        print("No issues found matching the filters")
+    if not document_metadata:
+        print("No documents found matching the filters")
         return 0
 
     output_dir = Path("data/batch_payloads")
@@ -325,24 +329,17 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
 
     payload_count = 0
 
-    for key, issues in grouped_issues.items():
-        # Get Markdown path - convert .csv extension to .md if needed
-        md_filename = key.filename
-        if md_filename.endswith(".csv"):
-            md_filename = md_filename[:-4] + ".md"
-        elif not md_filename.endswith(".md"):
-            md_filename = md_filename + ".md"
-        
-        markdown_path = Path("Documents") / key.subject / "markdown" / md_filename
+    for key, metadata in document_metadata.items():
+        markdown_path = metadata["markdown_path"]
 
-        for batch in iter_batches(
-            issues,
-            parsed_args.batch_size,
+        for batch in iter_page_batches(
+            metadata,
+            parsed_args.pages_per_batch,
             markdown_path,
             subject=key.subject,
             filename=key.filename,
         ):
-            prompts = build_prompts(batch)
+            prompts = build_page_prompts(batch)
 
             # Determine system and user parts for the payload; keep 'prompts'
             # for backward compatibility but also expose explicit keys.
@@ -358,7 +355,11 @@ def emit_batch_payloads(parsed_args: argparse.Namespace) -> int:
                 "subject": batch.subject,
                 "filename": batch.filename,
                 "batch_index": batch.index,
-                "issue_count": len(batch.issues),
+                "page_range": {
+                    "start": batch.page_range[0],
+                    "end": batch.page_range[1],
+                },
+                "page_count": len(batch.page_context),
                 "prompts": prompts,
                 "system": system_text,
                 "user": user_prompts,
@@ -386,15 +387,19 @@ def emit_prompts(parsed_args: argparse.Namespace) -> int:
 
     For each batch this writes a system file (if present) and a user file.
     """
-    from ..core.batcher import iter_batches
-    from .data_loader import load_proofreader_issues
-    from .prompt_factory import build_prompts
+    from .page_batcher import iter_page_batches
+    from .page_data_loader import load_page_based_documents
+    from .prompt_factory import build_page_prompts
 
     print("Emitting prompts (plain text)...")
 
     try:
-        grouped_issues = load_proofreader_issues(
-            parsed_args.from_report,
+        documents_root = Path("Documents")
+        existing_report = Path("Documents/language-check-report.csv")
+
+        document_metadata = load_page_based_documents(
+            documents_root,
+            existing_report if existing_report.exists() else None,
             subjects=set(parsed_args.subjects) if parsed_args.subjects else None,
             documents=set(parsed_args.documents) if parsed_args.documents else None,
         )
@@ -402,8 +407,8 @@ def emit_prompts(parsed_args: argparse.Namespace) -> int:
         print(f"Error loading issues: {e}", file=sys.stderr)
         return 1
 
-    if not grouped_issues:
-        print("No issues found matching the filters")
+    if not document_metadata:
+        print("No documents found matching the filters")
         return 0
 
     output_dir = Path("data/prompt_payloads")
@@ -411,24 +416,17 @@ def emit_prompts(parsed_args: argparse.Namespace) -> int:
 
     file_count = 0
 
-    for key, issues in grouped_issues.items():
-        # Get Markdown path - convert .csv extension to .md if needed
-        md_filename = key.filename
-        if md_filename.endswith(".csv"):
-            md_filename = md_filename[:-4] + ".md"
-        elif not md_filename.endswith(".md"):
-            md_filename = md_filename + ".md"
-        
-        markdown_path = Path("Documents") / key.subject / "markdown" / md_filename
+    for key, metadata in document_metadata.items():
+        markdown_path = metadata["markdown_path"]
 
-        for batch in iter_batches(
-            issues,
-            parsed_args.batch_size,
+        for batch in iter_page_batches(
+            metadata,
+            parsed_args.pages_per_batch,
             markdown_path,
             subject=key.subject,
             filename=key.filename,
         ):
-            prompts = build_prompts(batch)
+            prompts = build_page_prompts(batch)
 
             # System prompt is optional
             system_text = prompts[0] if len(prompts) > 1 else ""

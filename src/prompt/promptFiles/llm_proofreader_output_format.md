@@ -6,7 +6,7 @@ Return a **single top-level JSON array** (no surrounding object, no page keys) a
 
 For each issue, output a full object following the format below:
 
-- `issue_id`: integer — the issue identifier from the input CSV (auto-increment per-document)
+- `issue_id`: integer — start at 0 
 - `issue`: The specific word or short phrase containing the error.
 - `page_number`: The page number where the issue is located from your context.
 - `highlighted_context`: The sentence containing the error (plus the preceding and succeeding sentence, if necessary for clarity) with the error highlighted using double asterisks `**` before and after the error.
@@ -30,7 +30,7 @@ For each issue, output a full object following the format below:
     "issue_id": 1,
     "issue": "well-run",
     "highlighted_context": "This was a **well-run** event that concluded smoothly.",
-    "error_category": "POSSIBLE_AMBIGUOUS_GRAMMATICAL_ERROR",
+    "error_category": "STYLISTIC_PREFERENCE",
     "confidence_score": 88,
     "reasoning": "Compound adjective requires hyphenation in UK English when used before a noun."
   }
