@@ -84,6 +84,10 @@ class StateManager:
             if temp_file.exists():
                 temp_file.unlink()
 
+    def save(self) -> None:
+        """Persist the current state to disk."""
+        self._save()
+
     def is_batch_completed(self, key: DocumentKey, batch_index: int) -> bool:
         """Check if a batch has been completed.
 

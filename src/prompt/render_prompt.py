@@ -70,6 +70,7 @@ def render_template(
         ],
         "llm_proofreader.md": [
             "llm_reviewer_system_prompt",
+            "authoritative_sources",
             "llm_proofreader_error_descriptions",
             "llm_proofreader_output_format",
         ],
@@ -126,6 +127,13 @@ def render_prompts(
         ],
         "llm_proofreader.md": [
             "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "llm_proofreader_error_descriptions",
+            "llm_proofreader_output_format",
+        ],
+        "user_llm_proofreader.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
             "llm_proofreader_error_descriptions",
             "llm_proofreader_output_format",
         ],
