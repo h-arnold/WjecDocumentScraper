@@ -48,8 +48,8 @@ Think deeply and consider the provided context before flagging any issue.
 This document was converted from PDF via OCR. You will likely see conversion artifacts. **Do NOT report the following:**
 * **Hyphenation Issues:** (e.g., "ta- ble", "effec- tive"). Assume a separate script cleans these.
 * **Character Swaps:** (e.g., `1` instead of `l`, `0` instead of `O`) unless it creates a valid but wrong word (e.g., `10` instead of `to`).
-* **Missing Dashes:** (e.g., "- Specification **missing em-dash here** this covers all the information ...). Likely an OCR issue.
-- Assessment Pack this contains the Sample Assessment Materials (SAMs) i.e.: sample exam papers and sample NEA tasks, relevant controls for the NEA and, mark schemes This guide builds upon the information in the specification and assessment pack to help further your understanding of said documents.
+* **Missing Dashes:** (e.g., "- Specification **missing em-dash here** this covers all the information ...). Likely an OCR error.
+* **Missing colons:** (e.g., "**Wireless NICs** uses Wi-Fi technology to connect to a ... "). Some writers prefer endashes to colons which gets missed in OCR. 
 * **Known Issues:** Do not report any issue listed in the **Exclusion List** below.
 * **Intentional Errors in Context:** Do not flag spelling or grammar errors that appear inside code blocks, pseudo-code, or when the text is explicitly discussing a specific error (e.g., in a Mark Scheme answer key like "Error: total is iteger").
 ### 4. Structural & OCR formatting Context (Crucial)
@@ -58,6 +58,11 @@ This document is a PDF extraction. The layout (columns, tables, sidebars) has be
 * **Fragments:** Bullet points and table cells are often sentence fragments. Do not flag them as grammar errors.
 * **Table of Contents:** Ignore the "Contents" page entirely regarding flow, consistency, or page number formatting.
 * **Forward References:** Do not flag "The following tables" as factual inaccuracy if you only see one table immediately. The others may follow on the next page.
+* **Page Numbers:** These start at 0, so you may find that references to a page in the text refer to the page after. E.g., "see page 5" may refer to the content on page 6.
+### 5. List and Bullet Point Structure
+* **Distinguish Lists from Headers:** If a line starts with a hyphen `-` or a bullet point, treat it as a **list item**, NOT a heading.
+    * **Do NOT** demand colons after bold words if they appear to be part of a bulleted list (e.g., `- **Design**` followed by `- **Algorithms**` is a list of peers, not a header and sub-item).
+* **OCR "Run-ons":** If you encounter a sentence that seems to merge two distinct thoughts without punctuation (e.g., "...mark schemes This guide..."), assume this is an OCR error splitting two list items or table rows and ignore.
 
 {{>llm_proofreader_error_descriptions}}
 
