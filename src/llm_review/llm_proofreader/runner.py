@@ -146,8 +146,14 @@ class ProofreaderRunner(ReviewRunner):
             print(f"\nProcessing {key} ({len(issues)} issues)...")
             total_issues += len(issues)
 
-            # Get Markdown path
-            markdown_path = Path("Documents") / key.subject / "markdown" / key.filename
+            # Get Markdown path - convert .csv extension to .md if needed
+            md_filename = key.filename
+            if md_filename.endswith(".csv"):
+                md_filename = md_filename[:-4] + ".md"
+            elif not md_filename.endswith(".md"):
+                md_filename = md_filename + ".md"
+            
+            markdown_path = Path("Documents") / key.subject / "markdown" / md_filename
 
             # Clear state if force mode
             if force:
