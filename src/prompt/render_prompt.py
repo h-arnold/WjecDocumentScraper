@@ -55,19 +55,41 @@ def _strip_code_fences(s: str) -> str:
 
 
 def render_template(
-    template_name: str = "language_tool_categoriser.md", context: dict | None = None
+    template_name: str = "language_tool_categoriser.md",
+    context: dict | None = None,
 ) -> str:
     template = _read_prompt(template_name)
 
-    # Load required partials
-    partials = {}
+    # Map of template to required partials
+    template_partials = {
+        "language_tool_categoriser.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "error_descriptions",
+            "output_format",
+        ],
+        "llm_proofreader.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "llm_proofreader_error_descriptions",
+            "llm_proofreader_output_format",
+        ],
+        # Add more templates and their partials here as needed
+    }
 
-    for partial_name in [
-        "llm_reviewer_system_prompt",
-        "authoritative_sources",
-        "error_descriptions",
-        "output_format",
-    ]:
+    # Default to the original partials if template not listed
+    partial_names = template_partials.get(
+        template_name,
+        [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "error_descriptions",
+            "output_format",
+        ],
+    )
+
+    partials = {}
+    for partial_name in partial_names:
         partial_content = _read_prompt(f"{partial_name}.md")
         partials[partial_name] = _strip_code_fences(partial_content)
 
@@ -89,15 +111,52 @@ def render_prompts(
         (system_prompt, user_prompt)
     """
 
-    # Load partials (shared by both templates)
-    partials = {}
+    # Map of template to required partials (shared for both system and user)
+    template_partials = {
+        "system_language_tool_categoriser.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "error_descriptions",
+            "output_format",
+        ],
+        "user_language_tool_categoriser.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "error_descriptions",
+            "output_format",
+        ],
+        "llm_proofreader.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "llm_proofreader_error_descriptions",
+            "llm_proofreader_output_format",
+        ],
+        "user_llm_proofreader.md": [
+            "llm_reviewer_system_prompt",
+            "authoritative_sources",
+            "llm_proofreader_error_descriptions",
+            "llm_proofreader_output_format",
+        ],
+        # Add more templates and their partials here as needed
+    }
 
-    for partial_name in [
-        "llm_reviewer_system_prompt",
-        "authoritative_sources",
-        "error_descriptions",
-        "output_format",
-    ]:
+    # Use the union of all partials needed for both templates
+    partial_names = set()
+    for tpl in (system_template, user_template):
+        partial_names.update(
+            template_partials.get(
+                tpl,
+                [
+                    "llm_reviewer_system_prompt",
+                    "authoritative_sources",
+                    "error_descriptions",
+                    "output_format",
+                ],
+            )
+        )
+
+    partials = {}
+    for partial_name in partial_names:
         partial_content = _read_prompt(f"{partial_name}.md")
         partials[partial_name] = _strip_code_fences(partial_content)
 

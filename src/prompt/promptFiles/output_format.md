@@ -5,7 +5,7 @@ Return a **single top-level JSON array** (no surrounding object, no page keys) a
 For each issue, return exactly the following fields and nothing more:
 
 - `issue_id`: integer — the issue identifier from the input CSV (auto-increment per-document)
-- `error_category`: one of the enum values listed in "Error Categories" above (e.g., `PARSING_ERROR`)
+- `error_category`: one of the enum values listed in "Error Categories" above (e.g., `SPELLING_ERROR`)
 - `confidence_score`: integer 0–100 (if you prefer to provide 0–1 floats, the runner will convert them)
 - `reasoning`: single-sentence justification
 

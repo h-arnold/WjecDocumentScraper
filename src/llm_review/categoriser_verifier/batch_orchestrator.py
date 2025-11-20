@@ -12,8 +12,9 @@ from typing import Any
 from pydantic import ValidationError
 
 from src.models import DocumentKey, ErrorCategory, LanguageIssue, PassCode
-from ..core.batcher import Batch, iter_batches
+
 from ..core.batch_orchestrator import BatchJobMetadata, BatchOrchestrator
+from ..core.batcher import Batch, iter_batches
 from .data_loader import load_categorised_issues
 from .prompt_factory import build_prompts
 
@@ -27,7 +28,7 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
         force: bool = False,
     ) -> dict[str, Any]:
         """Create batch jobs for all document batches.
-        
+
         Overrides base method to use load_categorised_issues and filter false positives.
         """
         print(f"Loading issues from {self.config.input_csv_path}...")
@@ -101,11 +102,11 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
                 # batch_payload = [user_prompts]
                 # This seems to imply it sends only user prompts in the batch payload?
                 # Let's check LLMService.create_batch_job.
-                
+
                 # Assuming the base class logic is correct for the provider (Gemini).
                 # Gemini batch API usually takes a list of requests.
                 # If we are using the standard create_batch_job, we should follow the pattern.
-                
+
                 if len(prompts) > 1:
                     user_prompts = prompts[1:]
                 else:
@@ -154,7 +155,7 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
         issues: list[LanguageIssue],
     ) -> tuple[list[dict[str, Any]], set[int], dict[object, list[str]]]:
         """Validate LLM response and return validated results, failed ids and error messages.
-        
+
         Replicates logic from VerifierRunner.validate_response.
         """
         validated_results: list[dict[str, Any]] = []
@@ -402,15 +403,15 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
         refetch_hours: float | None = None,
     ) -> dict[str, Any]:
         """Fetch results from completed batch jobs.
-        
+
         Overrides base method to accumulate results for aggregated CSV output.
         """
         # Import persistence manager
         from .persistence import VerifierPersistenceManager
-        
+
         # Create fresh persistence manager for this fetch operation
         persistence = VerifierPersistenceManager(self.config)
-        
+
         # Determine which jobs to check (same logic as base class)
         if job_names:
             jobs_to_check = [
@@ -536,9 +537,8 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
 
         # Write aggregated results to CSV if we have any
         if persistence.aggregated_results:
-            output_path = (
-                self.config.aggregated_output_path
-                or Path("Documents/verified-llm-categorised-language-check-report.csv")
+            output_path = self.config.aggregated_output_path or Path(
+                "Documents/verified-llm-categorised-language-check-report.csv"
             )
             persistence.write_aggregated_results(output_path)
 
@@ -574,7 +574,7 @@ class VerifierBatchOrchestrator(BatchOrchestrator):
         Overrides base method to use load_categorised_issues.
         """
         key = DocumentKey(subject=job_metadata.subject, filename=job_metadata.filename)
-        
+
         # Use load_categorised_issues instead of load_issues
         grouped_issues = load_categorised_issues(
             self.config.input_csv_path,
