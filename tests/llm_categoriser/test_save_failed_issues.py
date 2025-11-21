@@ -102,7 +102,7 @@ def test_runner_saves_failed_issues(tmp_path: Path, monkeypatch) -> None:
     saved = {}
 
     def fake_save_failed_issues(
-        key, batch_idx, failed_issues, *, error_messages=None, output_dir=Path("data")
+        self, key, batch_idx, failed_issues, *, error_messages=None
     ):
         p = tmp_path / "errors" / key.subject
         p.mkdir(parents=True, exist_ok=True)
@@ -112,9 +112,9 @@ def test_runner_saves_failed_issues(tmp_path: Path, monkeypatch) -> None:
         saved["errors"] = error_messages
         return f
 
-    # Patch the function used by runner (imported into runner module at import time)
+    # Patch the method used by runner (via PersistenceManager)
     monkeypatch.setattr(
-        "src.llm_review.llm_categoriser.runner.save_failed_issues",
+        "src.llm_review.core.persistence.PersistenceManager.save_failed_issues",
         fake_save_failed_issues,
     )
 
@@ -187,7 +187,7 @@ def test_runner_writes_errors_to_data(tmp_path: Path, monkeypatch) -> None:
 
     # Wrap the real persistence so it writes into tmp_path
     def real_save_failed_issues(
-        key, batch_idx, failed_issues, *, error_messages=None, output_dir=Path("data")
+        self, key, batch_idx, failed_issues, *, error_messages=None
     ):
         return persistence_mod.save_failed_issues(
             key,
@@ -198,7 +198,7 @@ def test_runner_writes_errors_to_data(tmp_path: Path, monkeypatch) -> None:
         )
 
     monkeypatch.setattr(
-        "src.llm_review.llm_categoriser.runner.save_failed_issues",
+        "src.llm_review.core.persistence.PersistenceManager.save_failed_issues",
         real_save_failed_issues,
     )
 

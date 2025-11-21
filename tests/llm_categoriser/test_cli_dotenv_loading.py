@@ -109,7 +109,10 @@ def test_cli_respects_llm_primary_from_env(
         side_effect=capture_create_provider_chain,
     ):
         with patch("src.llm_review.llm_categoriser.cli.CategoriserRunner"):
-            exit_code = main(["--from-report", str(csv_file), "--dry-run"])
+            # Pass --dotenv explicitly to ensure it's loaded in the test environment
+            exit_code = main(
+                ["--from-report", str(csv_file), "--dry-run", "--dotenv", str(env_file)]
+            )
 
             assert exit_code == 0
 
@@ -158,7 +161,15 @@ def test_cli_provider_flag_overrides_env(
     ):
         with patch("src.llm_review.llm_categoriser.cli.CategoriserRunner"):
             exit_code = main(
-                ["--from-report", str(csv_file), "--provider", "gemini", "--dry-run"]
+                [
+                    "--from-report",
+                    str(csv_file),
+                    "--provider",
+                    "gemini",
+                    "--dry-run",
+                    "--dotenv",
+                    str(env_file),
+                ]
             )
 
             assert exit_code == 0
