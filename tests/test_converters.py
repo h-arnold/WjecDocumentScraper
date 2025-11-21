@@ -661,8 +661,8 @@ def test_docling_converter_page_markers_work_with_page_utils(
         "docling.document_converter.DocumentConverter", DummyDocumentConverter
     )
 
-    from src.utils.page_utils import find_page_markers, build_page_number_map
     from src.converters.converters import create_converter
+    from src.utils.page_utils import build_page_number_map, find_page_markers
 
     converter = create_converter("docling")
     try:

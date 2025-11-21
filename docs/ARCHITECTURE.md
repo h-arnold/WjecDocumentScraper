@@ -67,6 +67,7 @@ Once PDFs have been downloaded, the optional organiser lives in `src/postprocess
    - The conversion system uses a pluggable architecture defined in `src/converters/converters.py`:
      - `PdfToMarkdownConverter` - Abstract base class for all converters
     - `MarkerConverter` - Uses [marker](https://github.com/datalab-to/marker) for advanced OCR and layout detection (default)
+     - `DoclingConverter` - Uses [docling](https://github.com/DS4SD/docling) for document conversion with page markers
      - `create_converter(converter_type: str) -> PdfToMarkdownConverter` - Factory function to create converters
    - `convert_pdf_to_markdown(converter: PdfToMarkdownConverter, pdf_path: Path, markdown_directory: Path) -> Path`
      - Uses the provided converter to create a Markdown rendition for each PDF inside `markdown/`.
@@ -74,6 +75,14 @@ Once PDFs have been downloaded, the optional organiser lives in `src/postprocess
      - Processes a single PDF file: copies to `pdfs/` if in subject root, converts to Markdown.
      - Returns `SinglePdfResult` with `success`, `pdf_path`, `markdown_path`, and `error` fields.
      - Validates that the PDF is within a subject directory structure (not at Documents root).
+
+### Converter page markers
+
+All converters produce page markers in a consistent format: `{N}------------------------------------------------` where N is the page number (starting from 0) and the marker consists of exactly 48 dashes. This format is recognized by the `page_utils` module for page extraction and navigation.
+
+- `MarkerConverter`: Enables `paginate_output` config option to insert page markers during conversion
+- `DoclingConverter`: Uses `page_break_placeholder` parameter in `export_to_markdown()` and post-processes to add sequential page numbers
+
 
 4. Orchestration
   - `process_subject(subject_dir: Path, converter_type: str = "marker") -> SubjectResult`
@@ -90,6 +99,7 @@ Once PDFs have been downloaded, the optional organiser lives in `src/postprocess
 - Concurrency is opt-in; when using multiple workers, per-subject work must remain independent so that converter instances are created per subject to avoid thread-safety issues.
 - Failures in conversion are logged and recorded, but other files continue processing; exit code aggregates whether any subject produced errors.
 - Converters must implement the `PdfToMarkdownConverter` interface with `convert(pdf_path: Path) -> ConversionResult` and `close() -> None` methods.
+- All converters must produce page markers in the format `{N}------------------------------------------------` (48 dashes) for compatibility with page_utils functions.
 
 ## Public API (contracts)
 
