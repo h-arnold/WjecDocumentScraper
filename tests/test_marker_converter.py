@@ -51,7 +51,11 @@ def test_marker_converter_enables_paginated_output(
 
     result = converter.convert(sample_pdf_path)
 
-    assert captured["config"] == {"paginate_output": True}
+    # Config now includes Gemini settings in addition to paginate_output
+    assert captured["config"]["paginate_output"] is True
+    assert captured["config"]["use_llm"] is True
+    assert "gemini_api_key" in captured["config"]
+    assert "gemini_model_name" in captured["config"]
     assert captured["pdf_path"] == sample_pdf_path
     assert result.markdown == "page 1 content"
     assert result.metadata == {
@@ -107,8 +111,15 @@ def test_marker_converter_injects_page_markers(
     finally:
         converter.close()
 
-    assert captured["converter_config"] == {"paginate_output": True}
-    assert captured["renderer_config"] == {"paginate_output": True}
+    # Config now includes Gemini settings in addition to paginate_output
+    assert captured["converter_config"]["paginate_output"] is True
+    assert captured["converter_config"]["use_llm"] is True
+    assert "gemini_api_key" in captured["converter_config"]
+    assert "gemini_model_name" in captured["converter_config"]
+    
+    # Renderer still gets the same config
+    assert captured["renderer_config"]["paginate_output"] is True
+    assert captured["renderer_config"]["use_llm"] is True
     assert captured["pdf_path"] == sample_pdf_path
     assert captured["renderer_document"] is not None
 

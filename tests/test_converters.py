@@ -120,14 +120,19 @@ def test_marker_converter_handles_markdown_output(monkeypatch, tmp_path: Path) -
     class DummyPdfConverter:
         def __init__(self, artifact_dict, config=None):
             assert artifact_dict == {"fake": True}
-            assert config == {"paginate_output": True}
+            # Config now includes Gemini settings in addition to paginate_output
+            assert config.get("paginate_output") is True
+            assert "use_llm" in config
+            assert "gemini_api_key" in config
+            assert "gemini_model_name" in config
 
         def __call__(self, path: str):
             return DummyMarkdownOutput()
 
     class FailingRenderer:
         def __init__(self, config=None):
-            assert config == {"paginate_output": True}
+            # Config now includes Gemini settings in addition to paginate_output
+            assert config.get("paginate_output") is True
 
         def __call__(self, document):  # pragma: no cover - guard
             raise AssertionError("MarkdownRenderer should not be used")
@@ -161,7 +166,11 @@ def test_marker_converter_falls_back_to_renderer(monkeypatch, tmp_path: Path) ->
     class DummyPdfConverter:
         def __init__(self, artifact_dict, config=None):
             assert artifact_dict == {"fake": True}
-            assert config == {"paginate_output": True}
+            # Config now includes Gemini settings in addition to paginate_output
+            assert config.get("paginate_output") is True
+            assert "use_llm" in config
+            assert "gemini_api_key" in config
+            assert "gemini_model_name" in config
 
         def __call__(self, path: str):
             return dummy_document
@@ -174,7 +183,8 @@ def test_marker_converter_falls_back_to_renderer(monkeypatch, tmp_path: Path) ->
 
     class CapturingRenderer:
         def __init__(self, config=None):
-            assert config == {"paginate_output": True}
+            # Config now includes Gemini settings in addition to paginate_output
+            assert config.get("paginate_output") is True
 
         def __call__(self, document):
             assert document is dummy_document
@@ -225,3 +235,72 @@ def test_normalise_marker_markdown_converts_breaks_to_lists() -> None:
     )
 
     assert _normalise_marker_markdown(raw) == expected
+
+
+def test_marker_converter_accepts_dotenv_path(monkeypatch, tmp_path: Path) -> None:
+    """Test that MarkerConverter accepts and uses dotenv_path parameter."""
+    import os
+    
+    # Create a test .env file with a custom API key
+    env_file = tmp_path / "test.env"
+    env_file.write_text("GEMINI_API_KEY=test_key_from_file\n", encoding="utf-8")
+    
+    # Clear any existing GEMINI_API_KEY from environment
+    monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    
+    # Mock the marker components
+    class DummyPdfConverter:
+        def __init__(self, artifact_dict, config=None):
+            # Store the config for verification
+            self.config = config
+            
+        def __call__(self, path: str):
+            return SimpleNamespace(markdown="# Test", images=None, metadata=None)
+    
+    monkeypatch.setattr("marker.models.create_model_dict", lambda: {"fake": True})
+    monkeypatch.setattr("marker.converters.pdf.PdfConverter", DummyPdfConverter)
+    
+    # Create converter with dotenv_path
+    converter = MarkerConverter(dotenv_path=env_file)
+    
+    # Verify that the environment variable was loaded
+    assert os.environ.get("GEMINI_API_KEY") == "test_key_from_file"
+    
+    # Verify that the converter config has the API key
+    assert converter._config["gemini_api_key"] == "test_key_from_file"
+    
+    converter.close()
+
+
+def test_create_converter_passes_dotenv_path(monkeypatch, tmp_path: Path) -> None:
+    """Test that create_converter factory passes dotenv_path to MarkerConverter."""
+    import os
+    
+    # Create a test .env file
+    env_file = tmp_path / "factory_test.env"
+    env_file.write_text("GEMINI_API_KEY=factory_test_key\n", encoding="utf-8")
+    
+    # Clear any existing GEMINI_API_KEY from environment
+    monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    
+    # Mock the marker components
+    class DummyPdfConverter:
+        def __init__(self, artifact_dict, config=None):
+            self.config = config
+            
+        def __call__(self, path: str):
+            return SimpleNamespace(markdown="# Test", images=None, metadata=None)
+    
+    monkeypatch.setattr("marker.models.create_model_dict", lambda: {"fake": True})
+    monkeypatch.setattr("marker.converters.pdf.PdfConverter", DummyPdfConverter)
+    
+    # Create converter through factory with dotenv_path
+    converter = create_converter("marker", dotenv_path=env_file)
+    
+    # Verify that the environment variable was loaded
+    assert os.environ.get("GEMINI_API_KEY") == "factory_test_key"
+    
+    # Verify that the converter config has the API key
+    assert converter._config["gemini_api_key"] == "factory_test_key"
+    
+    converter.close()

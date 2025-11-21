@@ -197,14 +197,17 @@ class MarkItDownConverter(PdfToMarkdownConverter):
 class MarkerConverter(PdfToMarkdownConverter):
     """Converter using the marker library."""
 
-    def __init__(self) -> None:
+    def __init__(self, *, dotenv_path: str | Path | None = None) -> None:
         from dotenv import load_dotenv
         from marker.converters.pdf import PdfConverter
         from marker.converters.ocr import OCRConverter
         from marker.models import create_model_dict
 
         # Load environment variables from .env file before accessing GEMINI_API_KEY
-        load_dotenv()
+        if dotenv_path is not None:
+            load_dotenv(dotenv_path=Path(dotenv_path))
+        else:
+            load_dotenv()
 
         self._model_dict = create_model_dict()
         # Enable page markers so output matches marker CLI --paginate flag.
@@ -264,11 +267,15 @@ class MarkerConverter(PdfToMarkdownConverter):
         pass
 
 
-def create_converter(converter_type: str) -> PdfToMarkdownConverter:
+def create_converter(
+    converter_type: str, *, dotenv_path: str | Path | None = None
+) -> PdfToMarkdownConverter:
     """Factory function to create a converter of the specified type.
 
     Args:
         converter_type: Type of converter to create ('markitdown' or 'marker').
+        dotenv_path: Optional path to .env file for loading environment variables.
+                     Only used by converters that need API keys (e.g., marker with Gemini).
 
     Returns:
         A PdfToMarkdownConverter instance.
@@ -281,7 +288,7 @@ def create_converter(converter_type: str) -> PdfToMarkdownConverter:
     if converter_type == "markitdown":
         return MarkItDownConverter()
     elif converter_type == "marker":
-        return MarkerConverter()
+        return MarkerConverter(dotenv_path=dotenv_path)
     else:
         raise ValueError(
             f"Unknown converter type: {converter_type}. "
