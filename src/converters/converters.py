@@ -219,7 +219,7 @@ class MarkerConverter(PdfToMarkdownConverter):
             "gemini_api_key": os.environ.get("GEMINI_API_KEY"),
             "gemini_model_name": "gemini-2.5-flash-lite",
         }
-        self._converter = PDFConverter(
+        self._converter = PdfConverter(
             artifact_dict=self._model_dict,
             config=self._config,
         )
