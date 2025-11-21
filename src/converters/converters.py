@@ -252,13 +252,33 @@ class MarkerConverter(PdfToMarkdownConverter):
         pass
 
 
+class DoclingConverter(PdfToMarkdownConverter):
+    """Converter using the docling library."""
+
+    def __init__(self) -> None:
+        from docling.document_converter import DocumentConverter
+
+        self._converter = DocumentConverter()
+
+    def convert(self, pdf_path: Path) -> ConversionResult:
+        """Convert a PDF using docling."""
+        result = self._converter.convert(pdf_path)
+        markdown_text = result.document.export_to_markdown()
+
+        return ConversionResult(markdown=markdown_text, metadata={})
+
+    def close(self) -> None:
+        """Clean up docling resources if needed."""
+        pass
+
+
 def create_converter(
     converter_type: str, *, dotenv_path: str | Path | None = None
 ) -> PdfToMarkdownConverter:
     """Factory function to create a converter of the specified type.
 
     Args:
-        converter_type: Type of converter to create ('marker').
+        converter_type: Type of converter to create ('marker' or 'docling').
         dotenv_path: Optional path to .env file for loading environment variables.
                      Only used by converters that need API keys (e.g., marker with Gemini).
 
@@ -270,11 +290,12 @@ def create_converter(
     """
     converter_type = converter_type.lower()
 
-    # Only the 'marker' backend is supported now.
     if converter_type == "marker":
         return MarkerConverter(dotenv_path=dotenv_path)
+    elif converter_type == "docling":
+        return DoclingConverter()
     else:
         raise ValueError(
             f"Unknown converter type: {converter_type}. "
-            f"Valid options are: 'marker'"
+            f"Valid options are: 'marker', 'docling'"
         )

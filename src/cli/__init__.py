@@ -68,7 +68,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--converter",
         default="marker",
-        choices=["marker"],
+        choices=["marker", "docling"],
         help="Converter to use for PDF to Markdown conversion during post-processing (default: marker).",
     )
     return parser
