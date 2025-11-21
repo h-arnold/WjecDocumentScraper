@@ -335,9 +335,9 @@ content
 
 *Specification Reference*
 
-Teachers could invite local entrepreneurs into school (physically or online) from the community to talk to learners about their enterprise, this will allow learners to develop their listening skills, drawing links between the presentation given by the visitor and their own business knowledge. This will further embed and give real life context to their learning. Teachers can use a range of online video and podcast resources, such as [Elkington's Triple Bottom Line \(CSR\) |](https://www.tutor2u.net/business/reference/csr-elkingtons-triple-bottom-line)  [Reference Library | Business | tutor2u](https://www.tutor2u.net/business/reference/csr-elkingtons-triple-bottom-line) to help learners understand the concept. They can then use these as a starting point for class discussions where learners will be
+Teachers could invite local entrepreneurs into school (physically or online) from the community to talk to learners about their enterprise, this will allow learners to develop their listening skills, drawing links between the presentation given by the visitor and their own business knowledge. This will further embed and give real life context to their learning. Teachers can use a range of online video and podcast resources, such as [Elkington's Triple Bottom Line \(CSR\) |](https://www.tutor2u.net/business/reference/csr-elkingtons-triple-bottom-line)  [Reference Library | Business | tutor2u](https://www.tutor2u.net/business/reference/csr-elkingtons-triple-bottom-line) to help learners understand the concept. They can then use these as a
 
-able to express their views and also listen to the views of
+starting point for class discussions where learners will be able to express their views and also listen to the views of
 
 others, further embedding their learning.
 
