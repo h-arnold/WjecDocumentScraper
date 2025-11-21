@@ -5,7 +5,6 @@ from __future__ import annotations
 from .converters import (
     ConversionResult,
     MarkerConverter,
-    MarkItDownConverter,
     PdfToMarkdownConverter,
     create_converter,
 )
@@ -15,7 +14,7 @@ from .converters import (
 __all__ = [
     "ConversionResult",
     "PdfToMarkdownConverter",
-    "MarkItDownConverter",
+    # MarkItDown support removed; only MarkerConverter is exported.
     "MarkerConverter",
     "create_converter",
     # LLM specific exports were removed. Import via `src.llm` instead.

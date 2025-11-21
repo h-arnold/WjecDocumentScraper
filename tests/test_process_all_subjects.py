@@ -267,7 +267,7 @@ class TestProcessSubject:
         result = process_subject(
             "Test-Subject",
             docs,
-            "markitdown",
+            "marker",
             "uv run python",
             repo_root,
         )
@@ -288,7 +288,7 @@ class TestProcessSubject:
         result = process_subject(
             "NoSuchSubject",
             docs,
-            "markitdown",
+            "marker",
             "uv run python",
             repo_root,
         )
@@ -306,7 +306,7 @@ class TestProcessSubject:
         result = process_subject(
             "Bad-Subject",
             docs,
-            "markitdown",
+            "marker",
             "uv run python",
             repo_root,
         )
@@ -340,7 +340,7 @@ class TestBuildParser:
                 "--state-file",
                 "state.txt",
                 "--converter",
-                "markitdown",
+                "marker",
                 "--uv-cmd",
                 "python",
                 "--dry-run",
@@ -351,7 +351,7 @@ class TestBuildParser:
         assert args.root == Path("MyDocs")
         assert args.branch == "my-branch"
         assert args.state_file == Path("state.txt")
-        assert args.converter == "markitdown"
+        assert args.converter == "marker"
         assert args.uv_cmd == "python"
         assert args.dry_run is True
         assert args.reset is True

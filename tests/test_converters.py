@@ -16,7 +16,6 @@ from types import SimpleNamespace
 from src.converters.converters import (
     ConversionResult,
     MarkerConverter,
-    MarkItDownConverter,
     PdfToMarkdownConverter,
     _normalise_marker_markdown,
     create_converter,
@@ -37,27 +36,16 @@ def test_conversion_result_with_metadata() -> None:
     assert result.metadata == {"key": "value"}
 
 
-def test_create_converter_markitdown() -> None:
-    """Test creating a MarkItDown converter."""
-    converter = create_converter("markitdown")
-    assert isinstance(converter, MarkItDownConverter)
-    assert isinstance(converter, PdfToMarkdownConverter)
-    converter.close()
-
-
 def test_create_converter_case_insensitive() -> None:
-    """Test that converter type is case-insensitive."""
-    converter1 = create_converter("markitdown")
-    converter2 = create_converter("MARKITDOWN")
-    converter3 = create_converter("MarkItDown")
+    """Test that converter type is case-insensitive for 'marker'."""
+    converter1 = create_converter("marker")
+    converter2 = create_converter("MARKER")
 
-    assert isinstance(converter1, MarkItDownConverter)
-    assert isinstance(converter2, MarkItDownConverter)
-    assert isinstance(converter3, MarkItDownConverter)
+    assert isinstance(converter1, MarkerConverter)
+    assert isinstance(converter2, MarkerConverter)
 
     converter1.close()
     converter2.close()
-    converter3.close()
 
 
 def test_create_converter_invalid_type() -> None:
@@ -67,44 +55,12 @@ def test_create_converter_invalid_type() -> None:
         assert False, "Should have raised ValueError"
     except ValueError as e:
         assert "Unknown converter type: invalid" in str(e)
-        assert "markitdown" in str(e).lower()
         assert "marker" in str(e).lower()
 
 
-def test_markitdown_converter_with_real_pdf(tmp_path: Path) -> None:
-    """Test MarkItDown converter with a real PDF file."""
-    # Find a PDF in the Documents directory
-    project_root = Path(__file__).resolve().parents[1]
-    pdf_path = (
-        project_root
-        / "Documents"
-        / "Digital-Media-and-Film"
-        / "pdfs"
-        / "wjec-gcse-digital-media-and-film-specification.pdf"
-    )
-
-    if not pdf_path.exists():
-        # Skip test if no PDF is available
-        return
-
-    converter = MarkItDownConverter()
-    try:
-        result = converter.convert(pdf_path)
-
-        assert isinstance(result, ConversionResult)
-        assert result.markdown is not None
-        assert len(result.markdown) > 0
-        assert isinstance(result.markdown, str)
-
-        # Check that the markdown contains expected content
-        assert "WJEC" in result.markdown or "Digital Media" in result.markdown
-    finally:
-        converter.close()
-
-
 def test_converter_close_is_safe() -> None:
-    """Test that calling close multiple times is safe."""
-    converter = MarkItDownConverter()
+    """Test that calling close multiple times is safe for MarkerConverter."""
+    converter = MarkerConverter()
     converter.close()
     converter.close()  # Should not raise
 

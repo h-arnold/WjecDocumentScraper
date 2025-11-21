@@ -117,13 +117,11 @@ The CLI can tidy downloaded folders and convert PDFs to Markdown using your choi
 - `--post-process-only` skips downloading and processes the existing output directory.
 - `--post-process-file <path>` processes a single PDF file (copy to pdfs/ if needed, convert to Markdown). Cannot be combined with `--post-process` or `--post-process-only`.
 - `--post-process-workers N` limits how many subject folders are handled concurrently (ignored for the `marker` converter, which always runs a single worker).
-- `--converter {markitdown,marker}` selects the PDF to Markdown converter (default: `markitdown`).
+-- `--converter {marker}` selects the PDF to Markdown converter (default: `marker`).
 
 #### Available Converters
 
-**MarkItDown** (default): Fast, reliable converter using Microsoft's MarkItDown library. Suitable for most use cases.
-
-**Marker**: Advanced converter using the [marker](https://github.com/datalab-to/marker) library with superior OCR and layout detection capabilities. Requires downloading ML models on first use and may need GPU resources for optimal performance. Post-processing always runs with a single worker to avoid duplicate model downloads, even if a higher worker count is requested.
+**Marker** (default): Advanced converter using the [marker](https://github.com/datalab-to/marker) library with superior OCR and layout detection capabilities. Requires downloading ML models on first use and may need GPU resources for optimal performance. Post-processing always runs with a single worker to avoid duplicate model downloads, even if a higher worker count is requested.
 
 Examples:
 
@@ -138,7 +136,7 @@ uv run python main.py --subjects Geography --post-process --converter marker
 uv run python main.py --output Documents --post-process-only --converter marker
 
 # Process a single PDF file
-uv run python main.py --post-process-file Documents/Art-and-Design/sample.pdf --converter markitdown
+uv run python main.py --post-process-file Documents/Art-and-Design/sample.pdf --converter marker
 ```
 
 ### Long-running batch processing
@@ -167,8 +165,7 @@ uv run python scripts/process_all_subjects.py --reset
 # Use a different branch name
 uv run python scripts/process_all_subjects.py --branch my-processed-docs
 
-# Use markitdown converter instead of marker
-uv run python scripts/process_all_subjects.py --converter markitdown
+# Marker is the only supported converter backend now
 
 # Specify custom paths
 uv run python scripts/process_all_subjects.py --root ./MyDocuments --state-file ./state.txt

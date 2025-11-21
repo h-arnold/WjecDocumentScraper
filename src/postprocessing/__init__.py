@@ -76,14 +76,14 @@ def convert_pdf_to_markdown(
 
 
 def process_single_pdf(
-    pdf_path: Path, converter_type: str = "markitdown"
+    pdf_path: Path, converter_type: str = "marker"
 ) -> SinglePdfResult:
     """Process a single PDF file: copy to pdfs/ if needed, convert to markdown.
 
     Args:
         pdf_path: Path to the PDF file to process. Must be within a subject directory
                   (either at the root or in the pdfs/ subdirectory).
-        converter_type: Type of converter to use ("markitdown" or "marker").
+        converter_type: Type of converter to use ("marker").
 
     Returns:
         SinglePdfResult indicating success/failure and paths.
@@ -189,7 +189,7 @@ def process_single_pdf(
 
 
 def process_subject(
-    subject_dir: Path, converter_type: str = "markitdown"
+    subject_dir: Path, converter_type: str = "marker"
 ) -> SubjectResult:
     """Copy PDFs and render Markdown for a single subject directory."""
     pdf_directory = subject_dir / "pdfs"
@@ -211,7 +211,7 @@ def process_subject(
                 logger.exception("Failed to convert %s (I/O error)", pdf_path)
                 result.errors.append(f"{pdf_path.name}: {exc}")
             except Exception as exc:
-                # Catch converter-specific exceptions (e.g., MarkItDownException)
+                # Catch converter-specific exceptions and any other unexpected errors
                 # and any other unexpected errors
                 logger.exception("Failed to convert %s", pdf_path)
                 result.errors.append(f"{pdf_path.name}: {exc}")
@@ -224,7 +224,7 @@ def process_subject(
 def run(
     root: Path,
     max_workers: int | None = None,
-    converter_type: str = "markitdown",
+    converter_type: str = "marker",
     allowed_subject_dirs: set[str] | None = None,
 ) -> list[SubjectResult]:
     """Process each subject directory and return per-subject results."""
@@ -299,9 +299,9 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--converter",
-        default="markitdown",
-        choices=["markitdown", "marker"],
-        help="Converter to use for PDF to Markdown conversion (default: markitdown).",
+        default="marker",
+        choices=["marker"],
+        help="Converter to use for PDF to Markdown conversion (default: marker).",
     )
     return parser
 

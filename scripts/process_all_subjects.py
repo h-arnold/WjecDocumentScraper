@@ -609,8 +609,7 @@ Examples:
   # Dry run to see what would be processed
   uv run python scripts/process_all_subjects.py --dry-run
 
-  # Use markitdown converter instead of marker
-  uv run python scripts/process_all_subjects.py --converter markitdown
+    # Marker is the only supported converter backend
 
   # Force re-processing of all PDFs (even if markdown exists)
   uv run python scripts/process_all_subjects.py --force
@@ -646,8 +645,8 @@ Examples:
     parser.add_argument(
         "--converter",
         default="marker",
-        choices=["markitdown", "marker"],
-        help="Converter to use for PDF to Markdown conversion (default: marker)",
+        choices=["marker"],
+        help="Converter to use for PDF to Markdown conversion (currently only 'marker' is supported)",
     )
 
     parser.add_argument(

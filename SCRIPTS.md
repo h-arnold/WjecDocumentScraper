@@ -26,9 +26,7 @@ Usage examples (from `README.md` and script docstring):
 
     uv run python scripts/process_all_subjects.py --branch myBranch
 
-  - Use a different converter (e.g., `markitdown`):
-
-    uv run python scripts/process_all_subjects.py --converter markitdown
+  - Converter backend is `marker` (MarkItDown support removed).
 
 Notes and behaviour:
   - Creates or checks out a branch (default: `processedDocuments`) to commit progress.

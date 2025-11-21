@@ -37,7 +37,7 @@ If you need details or examples for any of the above, see docs/ARCHITECTURE.md (
 - Add/remove subjects: Edit `QUALIFICATION_URLS` in `src/scraper/__init__.py` (keep exact subject strings; CLI matches case-insensitively).
 - Adjust parsing or fetching: Update functions in `src/scraper/__init__.py` (see docs/ARCHITECTURE.md for the data flow and parsing rules, including React-props parsing and the optional key-documents endpoint).
 - CLI behavior or options: Modify `src/cli/__init__.py` (keep `--subjects`, `--list-subjects`, `--dry-run`, `-o/--output`).
-- Post-processing workflow: Edit `src/postprocessing/__init__.py` (ThreadPool orchestrator that copies PDFs into `pdfs/`, converts them to Markdown via MarkItDown or Marker, and surfaces errors). Keep CLI worker limits and summary messaging consistent with `src/cli/__init__.py`.
+   - Post-processing workflow: Edit `src/postprocessing/__init__.py` (ThreadPool orchestrator that copies PDFs into `pdfs/`, converts them to Markdown via Marker, and surfaces errors). Keep CLI worker limits and summary messaging consistent with `src/cli/__init__.py`.
 - Converter behavior: Edit `src/converters/converters.py` (converter classes and factory function).
 - Page utilities: Edit `src/utils/page_utils.py` (page marker extraction functions).
 - Language checking: Edit `src/language_check/language_check.py` (spelling and grammar checking logic).

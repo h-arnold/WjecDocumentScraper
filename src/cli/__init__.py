@@ -67,9 +67,9 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--converter",
-        default="markitdown",
-        choices=["markitdown", "marker"],
-        help="Converter to use for PDF to Markdown conversion during post-processing (default: markitdown).",
+        default="marker",
+        choices=["marker"],
+        help="Converter to use for PDF to Markdown conversion during post-processing (default: marker).",
     )
     return parser
 
@@ -95,7 +95,7 @@ def resolve_subjects(subject_args: list[str] | None) -> tuple[dict[str, str], se
 def perform_post_processing(
     output_root: Path,
     max_workers: int | None,
-    converter_type: str = "markitdown",
+    converter_type: str = "marker",
     subject_filters: set[str] | None = None,
 ) -> int:
     """Invoke the post-processing pipeline and print a concise summary."""

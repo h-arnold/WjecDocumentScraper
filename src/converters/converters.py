@@ -176,22 +176,8 @@ class PdfToMarkdownConverter(ABC):
         pass
 
 
-class MarkItDownConverter(PdfToMarkdownConverter):
-    """Converter using the MarkItDown library."""
-
-    def __init__(self) -> None:
-        from markitdown import MarkItDown
-
-        self._converter = MarkItDown()
-
-    def convert(self, pdf_path: Path) -> ConversionResult:
-        """Convert a PDF using MarkItDown."""
-        result = self._converter.convert(pdf_path)
-        return ConversionResult(markdown=result.markdown)
-
-    def close(self) -> None:
-        """MarkItDown doesn't require cleanup."""
-        pass
+# Note: MarkItDown support was intentionally removed. Marker is the
+# single supported converter implementation in this project.
 
 
 class MarkerConverter(PdfToMarkdownConverter):
@@ -200,7 +186,6 @@ class MarkerConverter(PdfToMarkdownConverter):
     def __init__(self, *, dotenv_path: str | Path | None = None) -> None:
         from dotenv import load_dotenv
         from marker.converters.pdf import PdfConverter
-        from marker.converters.ocr import OCRConverter
         from marker.models import create_model_dict
 
         # Load environment variables from .env file before accessing GEMINI_API_KEY
@@ -273,7 +258,7 @@ def create_converter(
     """Factory function to create a converter of the specified type.
 
     Args:
-        converter_type: Type of converter to create ('markitdown' or 'marker').
+        converter_type: Type of converter to create ('marker').
         dotenv_path: Optional path to .env file for loading environment variables.
                      Only used by converters that need API keys (e.g., marker with Gemini).
 
@@ -285,12 +270,11 @@ def create_converter(
     """
     converter_type = converter_type.lower()
 
-    if converter_type == "markitdown":
-        return MarkItDownConverter()
-    elif converter_type == "marker":
+    # Only the 'marker' backend is supported now.
+    if converter_type == "marker":
         return MarkerConverter(dotenv_path=dotenv_path)
     else:
         raise ValueError(
             f"Unknown converter type: {converter_type}. "
-            f"Valid options are: 'markitdown', 'marker'"
+            f"Valid options are: 'marker'"
         )
