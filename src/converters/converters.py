@@ -255,6 +255,10 @@ class MarkerConverter(PdfToMarkdownConverter):
 class DoclingConverter(PdfToMarkdownConverter):
     """Converter using the docling library."""
 
+    # Page marker format to match marker converter: {N} followed by 48 dashes
+    _PAGE_MARKER_DASHES = 48
+    _PAGE_MARKER_PLACEHOLDER = "{DOCLING_PAGE}"
+
     def __init__(self) -> None:
         from docling.document_converter import DocumentConverter
 
@@ -263,9 +267,45 @@ class DoclingConverter(PdfToMarkdownConverter):
     def convert(self, pdf_path: Path) -> ConversionResult:
         """Convert a PDF using docling."""
         result = self._converter.convert(pdf_path)
-        markdown_text = result.document.export_to_markdown()
+        
+        # Use a unique placeholder for page breaks during export
+        placeholder = self._PAGE_MARKER_PLACEHOLDER + "-" * self._PAGE_MARKER_DASHES
+        markdown_text = result.document.export_to_markdown(
+            page_break_placeholder=placeholder
+        )
+        
+        # Post-process to replace placeholders with actual page numbers
+        markdown_text = self._add_page_numbers(markdown_text)
 
         return ConversionResult(markdown=markdown_text, metadata={})
+
+    def _add_page_numbers(self, markdown: str) -> str:
+        """Replace page marker placeholders with actual page numbers.
+        
+        Replaces {DOCLING_PAGE}----... with {0}----..., {1}----..., etc.
+        to match the format used by marker converter.
+        
+        Args:
+            markdown: The markdown text with placeholders
+            
+        Returns:
+            The markdown text with numbered page markers
+        """
+        placeholder = self._PAGE_MARKER_PLACEHOLDER + "-" * self._PAGE_MARKER_DASHES
+        lines = markdown.split("\n")
+        page_number = 0
+        result_lines = []
+        
+        for line in lines:
+            if line.strip() == placeholder:
+                # Replace with numbered page marker
+                page_marker = "{" + str(page_number) + "}" + "-" * self._PAGE_MARKER_DASHES
+                result_lines.append(page_marker)
+                page_number += 1
+            else:
+                result_lines.append(line)
+        
+        return "\n".join(result_lines)
 
     def close(self) -> None:
         """Clean up docling resources if needed."""
