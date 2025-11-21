@@ -645,8 +645,8 @@ Examples:
     parser.add_argument(
         "--converter",
         default="marker",
-        choices=["marker"],
-        help="Converter to use for PDF to Markdown conversion (currently only 'marker' is supported)",
+        choices=["marker", "docling"],
+        help="Converter to use for PDF to Markdown conversion (default: marker).",
     )
 
     parser.add_argument(

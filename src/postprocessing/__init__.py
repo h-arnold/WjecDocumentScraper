@@ -83,7 +83,7 @@ def process_single_pdf(
     Args:
         pdf_path: Path to the PDF file to process. Must be within a subject directory
                   (either at the root or in the pdfs/ subdirectory).
-        converter_type: Type of converter to use ("marker").
+        converter_type: Type of converter to use ("marker" or "docling").
 
     Returns:
         SinglePdfResult indicating success/failure and paths.
