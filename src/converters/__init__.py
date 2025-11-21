@@ -14,7 +14,8 @@ from .converters import (
 __all__ = [
     "ConversionResult",
     "PdfToMarkdownConverter",
-    # MarkItDown support removed; only MarkerConverter is exported.
+    # MarkItDown support removed; only MarkerConverter is exported from this module.
+    # Other converters (e.g., DoclingConverter) exist in converters.py but are not exported here.
     "MarkerConverter",
     "create_converter",
     # LLM specific exports were removed. Import via `src.llm` instead.

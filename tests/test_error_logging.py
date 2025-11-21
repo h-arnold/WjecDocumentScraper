@@ -146,7 +146,7 @@ class TestProcessAllSubjectsErrorLogging:
             "src.postprocessing.process_single_pdf",
             side_effect=ValueError("Test exception"),
         ):
-                result = process_pdf_file(pdf_path, "marker", PROJECT_ROOT)
+            result = process_pdf_file(pdf_path, "marker", PROJECT_ROOT)
 
         # Verify the result indicates failure
         assert result is False

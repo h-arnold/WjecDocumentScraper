@@ -176,8 +176,8 @@ class PdfToMarkdownConverter(ABC):
         pass
 
 
-# Note: MarkItDown support was intentionally removed. Marker is the
-# single supported converter implementation in this project.
+# Note: MarkItDown support was intentionally removed. Marker and Docling are the
+# two supported converter implementations in this project.
 
 
 class MarkerConverter(PdfToMarkdownConverter):

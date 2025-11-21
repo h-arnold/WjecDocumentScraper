@@ -212,7 +212,7 @@ def process_subject(
                 result.errors.append(f"{pdf_path.name}: {exc}")
             except Exception as exc:
                 # Catch converter-specific exceptions and any other unexpected errors
-                # and any other unexpected errors
+
                 logger.exception("Failed to convert %s", pdf_path)
                 result.errors.append(f"{pdf_path.name}: {exc}")
     finally:
