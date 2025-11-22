@@ -57,7 +57,7 @@ class TestPostprocessingErrorLogging:
         mock_converter.close = Mock()
 
         with patch("src.postprocessing.create_converter", return_value=mock_converter):
-            result = process_single_pdf(pdf_path, "markitdown")
+            result = process_single_pdf(pdf_path, "marker")
 
         # Verify the result indicates failure
         assert result.success is False
@@ -86,7 +86,7 @@ class TestPostprocessingErrorLogging:
                 mock_converter = Mock()
                 mock_converter.close = Mock()
                 mock_create.return_value = mock_converter
-                result = process_single_pdf(pdf_path, "markitdown")
+                result = process_single_pdf(pdf_path, "marker")
 
         # Verify the result indicates failure
         assert result.success is False
@@ -115,7 +115,7 @@ class TestPostprocessingErrorLogging:
         mock_converter.close = Mock()
 
         with patch("src.postprocessing.create_converter", return_value=mock_converter):
-            result = process_subject(subject_dir, "markitdown")
+            result = process_subject(subject_dir, "marker")
 
         # Verify errors were recorded
         assert len(result.errors) > 0
@@ -146,7 +146,7 @@ class TestProcessAllSubjectsErrorLogging:
             "src.postprocessing.process_single_pdf",
             side_effect=ValueError("Test exception"),
         ):
-            result = process_pdf_file(pdf_path, "markitdown", PROJECT_ROOT)
+            result = process_pdf_file(pdf_path, "marker", PROJECT_ROOT)
 
         # Verify the result indicates failure
         assert result is False
@@ -182,7 +182,7 @@ class TestProcessAllSubjectsErrorLogging:
             side_effect=OSError("Command not found"),
         ):
             result = process_subject(
-                "Test-Subject", docs_dir, "markitdown", "uv run python", cwd
+                "Test-Subject", docs_dir, "marker", "uv run python", cwd
             )
 
         # Verify the result indicates failure

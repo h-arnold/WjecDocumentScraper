@@ -132,7 +132,7 @@ class ProofreaderBatchOrchestrator(BatchOrchestrator):
                     )
                     # Ensure pass_code is LP
                     validated = validated.model_copy(update={"pass_code": PassCode.LP})
-                    
+
                 validated_results.append(validated.model_dump())
 
                 # If the LLM supplied an explicit issue_id, mark it as validated.
@@ -284,8 +284,9 @@ class ProofreaderBatchOrchestrator(BatchOrchestrator):
                     )
 
                     # Track the job
-                    from ..core.batch_orchestrator import BatchJobMetadata
                     from datetime import datetime, timezone
+
+                    from ..core.batch_orchestrator import BatchJobMetadata
 
                     job_metadata = BatchJobMetadata(
                         provider_name=self.llm_service.providers[0].name,

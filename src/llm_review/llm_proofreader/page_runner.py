@@ -89,10 +89,7 @@ class PageBasedProofreaderRunner(ReviewRunner):
         self.pages_per_batch = pages_per_batch
 
         if self.config.log_raw_responses:
-            print(
-                f"Raw response logging enabled -> "
-                f"{self.config.log_response_dir}"
-            )
+            print(f"Raw response logging enabled -> " f"{self.config.log_response_dir}")
 
     def run(
         self,
@@ -111,10 +108,10 @@ class PageBasedProofreaderRunner(ReviewRunner):
         """
         # Load documents with page-based structure
         print("Loading documents for page-based processing...")
-        
+
         documents_root = Path("Documents")
         existing_report = self.config.input_csv_path
-        
+
         document_metadata = load_page_based_documents(
             documents_root,
             existing_report if existing_report.exists() else None,
@@ -187,7 +184,9 @@ class PageBasedProofreaderRunner(ReviewRunner):
 
     def _process_page_batch(self, key, batch: PageBatch) -> bool:
         """Process a single page batch with retries."""
-        print(f"  Batch {batch.index}: Pages {batch.page_range[0]}-{batch.page_range[1]}")
+        print(
+            f"  Batch {batch.index}: Pages {batch.page_range[0]}-{batch.page_range[1]}"
+        )
 
         for attempt in range(self.config.max_retries + 1):
             # Build prompts

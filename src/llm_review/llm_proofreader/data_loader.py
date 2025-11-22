@@ -148,7 +148,9 @@ def _parse_verified_csv(
                     context=row["highlighted_context"].strip(),
                     highlighted_context=row["highlighted_context"].strip(),
                     issue=row["issue"].strip(),
-                    page_number=int(row["page_number"]) if row.get("page_number") else None,
+                    page_number=(
+                        int(row["page_number"]) if row.get("page_number") else None
+                    ),
                     issue_id=int(row["issue_id"]),
                     pass_code=PassCode.LP,  # Set to LP for proofreader
                     error_category=error_category,

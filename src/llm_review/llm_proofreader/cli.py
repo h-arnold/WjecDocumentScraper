@@ -112,7 +112,9 @@ Environment Variables:
         "--state-file",
         type=Path,
         default=Path(
-            os.environ.get("LLM_PROOFREADER_STATE_FILE", "data/llm_proofreader_state.json")
+            os.environ.get(
+                "LLM_PROOFREADER_STATE_FILE", "data/llm_proofreader_state.json"
+            )
         ),
         help="Path to state file for tracking progress",
     )

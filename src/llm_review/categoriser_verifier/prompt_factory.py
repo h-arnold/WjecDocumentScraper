@@ -65,10 +65,10 @@ def build_prompts(batch: Batch) -> list[str]:
 
 def get_system_prompt_text() -> str:
     """Get the rendered system prompt text without batch context.
-    
+
     Used by CLI initialization to configure the LLM service.
     For batch-specific prompts, use build_prompts() instead.
-    
+
     Returns:
         The rendered system prompt as a string
     """

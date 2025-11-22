@@ -321,7 +321,7 @@ def handle_batch_create(args: argparse.Namespace) -> int:
 
     tracker = BatchJobTracker(args.tracking_file)
     state = StateManager(args.state_file)
-    
+
     # Create a dummy config for the orchestrator
     config = VerifierConfiguration(
         input_csv_path=args.from_report,
@@ -356,6 +356,7 @@ def handle_batch_create(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1
 
@@ -396,13 +397,13 @@ def handle_batch_fetch(args: argparse.Namespace) -> int:
 
     state = StateManager(args.state_file)
     tracker = BatchJobTracker(args.tracking_file)
-    
+
     # Create a dummy config for the orchestrator
     config = VerifierConfiguration(
         input_csv_path=args.from_report,
         output_base_dir=Path("Documents"),
         output_subdir="verifier_reports",
-        batch_size=10, # Not used for fetching
+        batch_size=10,  # Not used for fetching
         state_file=args.state_file,
         subjects=None,
         documents=None,
@@ -435,6 +436,7 @@ def handle_batch_fetch(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1
 
@@ -448,7 +450,7 @@ def handle_batch_list(args: argparse.Namespace) -> int:
 
         tracker = BatchJobTracker(args.tracking_file)
         state = StateManager(Path("data/verifier_state.json"))
-        
+
         # Dummy config
         config = VerifierConfiguration(
             input_csv_path=Path("Documents/llm_categorised-language-check-report.csv"),
@@ -565,6 +567,7 @@ def handle_batch_refresh_errors(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1
 
@@ -605,7 +608,7 @@ def handle_batch_cancel(args: argparse.Namespace) -> int:
 
     tracker = BatchJobTracker(args.tracking_file)
     state = StateManager(Path("data/verifier_state.json"))
-    
+
     # Dummy config
     config = VerifierConfiguration(
         input_csv_path=Path("Documents/llm_categorised-language-check-report.csv"),
@@ -643,5 +646,6 @@ def handle_batch_cancel(args: argparse.Namespace) -> int:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         import traceback
+
         traceback.print_exc()
         return 1

@@ -1,14 +1,12 @@
+{1}------------------------------------------------
 
+## PHYSICAL EDUCATION AND HEALTH? WHY CHOOSE GCSE
 
-{0}------------------------------------------------
+## The GCSE PHYSICAL EDUCATION AND HEALTH will
 
-# PHYSICAL EDUCATION AND HEALTH? WHY CHOOSE GCSE
+enable you to engage in a practical course, designed to encourage you to be inspired, motivated and challenged by the subject and allow you to make informed decisions about further learning opportunities and career pathways. You will acquire the knowledge, understanding, skills and values to develop and maintain your performance in sports or physical activities and understand the benefits to health, fitness and well-being.
 
-![](_page_0_Picture_1.jpeg)
-
-The GCSE PHYSICAL EDUCATION AND HEALTH will enable you to engage in a practical course, designed to encourage you to be inspired, motivated and challenged by the subject and allow you to make informed decisions about further learning opportunities and career pathways. You will acquire the knowledge, understanding, skills and values to develop and maintain your performance in sports or physical activities and understand the benefits to health, fitness and well-being.
-
-#### WHAT WILL I STUDY?
+## WHAT WILL I STUDY?
 
 The specification in Physical Education and Health will enable you to make connections between theory and practice so that you are able to apply your understanding of the factors that underpin health and wellbeing, sports and physical activity and use this knowledge to improve performance.
 
@@ -22,7 +20,7 @@ The specification in Physical Education and Health will enable you to make conne
 - 80 marks
 - Questions requiring objective response, quickresponses, short and extended answers.
 
-#### UNIT 2: PERFORMANCE AND PERSONAL TRAINING
+## UNIT 2: PERFORMANCE AND PERSONAL TRAINING
 
 Non-examination assessment: internally assessed by your teacher and externally moderated by a WJEC visiting moderator
 
@@ -46,7 +44,7 @@ By studying Physical Education and Health you will be able to:
 - understand the factors that impact on levels of activity and the relationship with physical, social and emotional health and wellbeing
 - understand the socio-cultural influences on participation, and contemporary developments within sport and physical activity.
 
-#### CAREERS IN PHYSICAL EDUCATION AND HEALTH
+## CAREERS IN PHYSICAL EDUCATION AND HEALTH
 
 This qualification provides an excellent foundation for the study of WJEC AS and A Level Physical Education or WJEC Level 3 Sport. It will also provide a satisfying and worthwhile course of study if you choose not to progress further.
 
@@ -54,8 +52,10 @@ Importantly, studying GCSE Physical Education and Health will develop many trans
 
 The career possibilities that come from studying Physical Education and Health are extensive, but a few are listed here:
 
-[Fitness Instructor,](https://successatschool.org/advice/jobs-a-z/fitness-instructor/1798) [Personal Trainer,](https://successatschool.org/advice/jobs-a-z/personal-trainer/1573) PE [Teacher,](https://successatschool.org/advice/jobs-a-z/secondary-teacher/1468)  University Lecturer, [Physiotherapist,](https://successatschool.org/advice/jobs-a-z/physiotherapist/1564) Sports Massage Therapist, Leisure and Recreation Manager, Sports Business Manager, Sports Administrator, Sports Coach, Sports Development Officer, Sports Journalist, Sports Commentator, Sports Medicine, Professional Sports Performer, Sports Scientist, Sports Nutritionist, Professional Sports Official/ Referee, Event Coordinator.
+Fitness Instructor, Personal Trainer, PE Teacher, University Lecturer, Physiotherapist, Sports Massage Therapist, Leisure and Recreation Manager, Sports Business Manager, Sports Administrator, Sports Coach, Sports Development Officer, Sports Journalist, Sports Commentator, Sports Medicine, Professional Sports Performer, Sports Scientist, Sports Nutritionist, Professional Sports Official/ Referee, Event Coordinator.
 
 FIND OUT MORE -TALK TO YOUR TEACHER TODAY!
 
-![](_page_0_Picture_34.jpeg)
+<!-- image -->
+
+<!-- image -->

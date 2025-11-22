@@ -1,62 +1,52 @@
-
-
-{0}------------------------------------------------
-
-![](_page_0_Picture_0.jpeg)
-
-![](_page_0_Picture_1.jpeg)
-
-Yn arbennig i Gymru. Yn barod i'r byd.
-
-Made for Wales. Ready for the world.
-
-![](_page_0_Picture_4.jpeg)
-
 {1}------------------------------------------------
 
-TGAU GCSE
+<!-- image -->
 
-# TGAU Bwyd a Maeth GCSE Food & Nutrition
+Yn arbennig i Gymru. Yn barod i'r byd. Made for Wales. Ready for the world.
 
-![](_page_1_Picture_2.jpeg)
+<!-- image -->
 
-## ADNODDAU/ RESOURCES
+<!-- image -->
 
-![](_page_1_Picture_4.jpeg)
+
 
 {2}------------------------------------------------
 
-## UNED 1/UNIT 1
 
-![](_page_2_Picture_2.jpeg)
 
-## Unit 1
+TGAU GCSE
 
-- 1.1 Food commodity groups
-- 1.2 Nutrients for a balanced diet
-- 1.3 Diet and health
-- 1.4 Cooking food
-- 1.5 Food spoilage
-- 1.6 From field to fork
+## TGAU Bwyd a Maeth GCSE Food &amp; Nutrition
 
-## Uned 1
+## ADNODDAU/ RESOURCES
 
-- 1.1 Grwpiau cynwyddau bwyd
-- 1.2 Maetholion ar gyfer deiet cytbwys
-- 1.3 Deiet ac iechyd
-- 1.4 Coginio bwyd
-- 1.5 Dirywiad bwyd
-- 1.6 O'r fferm i'r fforc
+<!-- image -->
+
+<!-- image -->
+
+
 
 {3}------------------------------------------------
 
-## 1.1 Grwpiau cynwyddau Bwyd/Food commodity groups
 
-![](_page_3_Picture_2.jpeg)
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+TGAU GCSE
 
-[Food commodities \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/food-commodities-14-16-years/) Food A Fact Of Life
+## UNED 1/UNIT 1
+
+Unit 1 1.1 Food commodity groups 1.2 Nutrients for a balanced diet 1.3 Diet and health 1.4 Cooking food 1.5 Food spoilage 1.6 From field to fork
+
+Uned 1 1.1 Grwpiau cynwyddau bwyd 1.2 Maetholion ar gyfer deiet cytbwys 1.3 Deiet ac iechyd 1.4 Coginio bwyd 1.5 Dirywiad bwyd 1.6 O'r fferm i'r fforc
+
+<!-- image -->
+
+
+
+{4}------------------------------------------------
+
+
+
+TGAU GCSE
 
 - Bwydydd carbohydrad, fel ffibr, startsh a siwgr
 - Bwydydd llaeth a dewisiadau eraill
@@ -64,326 +54,337 @@ Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but ma
 - Bwydydd protein fel wyau, pysgod a chig
 - Ffrwythau a llysiau
 
+## 1.1 Grwpiau cynwyddau Bwyd/Food commodity groups
+
+## Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+
+Food commodities (14-16 Years) - Food A Fact Of Life https://www.foodafactoflife.org.uk/media/9853/cereals-and-rice-ko-14-16fc.docx
+
+https://www.foodafactoflife.org.uk/media/uosnwml5/food-commodities-ko-14-16-dairy.docx https://www.foodafactoflife.org.uk/media/anzh3rdz/fish-and-shellfish-ko-14-16fc.docx
+
+https://www.foodafactoflife.org.uk/media/bbopqtox/fruit-and-veg-ko-1416.docx https://www.foodafactoflife.org.uk/media/qcyd0nuu/meat-ko-14-16fc.docx
+
+https://www.foodafactoflife.org.uk/media/9851/potatoes-ko-1416fc.docx
+
+Home | HCC / Meat Promotion Wales
+
+Fish in School Hero Programme | Seafood | Education | Fish Focus
+
+Egg Health, Nutrition, Research and Resources | Official Egg info
+
+Home - NFU Education (nfuonline.com)
+
+Vegetarian &amp; Vegan Products, Meat Free Recipes &amp; News | Quorn
+
+The Vegetarian Society UK (vegsoc.org)
+
+Publications | Dairy UK (milk.co.uk) | STEM
+
 - Carbohydrate foods, such as fibre, starch and sugar
 - Dairy foods and alternatives
 - Fats and oils
 - Protein foods such as eggs, fish and meat
 - Fruits and vegetables
 
-<https://www.foodafactoflife.org.uk/media/9853/cereals-and-rice-ko-14-16fc.docx>
+<!-- image -->
 
-<https://www.foodafactoflife.org.uk/media/uosnwml5/food-commodities-ko-14-16-dairy.docx>
 
-<https://www.foodafactoflife.org.uk/media/anzh3rdz/fish-and-shellfish-ko-14-16fc.docx>
 
-<https://www.foodafactoflife.org.uk/media/bbopqtox/fruit-and-veg-ko-1416.docx>
+{5}------------------------------------------------
 
-<https://www.foodafactoflife.org.uk/media/qcyd0nuu/meat-ko-14-16fc.docx>
 
-<https://www.foodafactoflife.org.uk/media/9851/potatoes-ko-1416fc.docx>
 
-[Home | HCC / Meat Promotion Wales](https://meatpromotion.wales/en)
+TGAU GCSE
 
-[Fish in School Hero Programme | Seafood | Education | Fish Focus](https://fishfocus.co.uk/fish-in-school-hero-programme/)
-
-[Egg Health, Nutrition, Research and Resources | Official Egg info](https://www.egginfo.co.uk/)
-
-Home - [NFU Education \(nfuonline.com\)](https://education.nfuonline.com/)
-
-[Vegetarian & Vegan Products, Meat Free Recipes & News | Quorn](https://www.quorn.co.uk/)
-
-[The Vegetarian Society UK \(vegsoc.org\)](https://vegsoc.org/)
-
-[Publications | Dairy UK \(milk.co.uk\)](https://milk.co.uk/publications/)
-
-[| STEM](https://www.stem.org.uk/resources/elibrary/resource/31263/nuffield-home-economics-food-science)
-
-{4}------------------------------------------------
-
-## 1.2 Maetholion ar gyfer deiet cytbwys/Nutrients for a balanced diet
-
-![](_page_4_Picture_2.jpeg)
-
-### • Macrofaetholion
-
+- Macrofaetholion
 - Microfaetholion
 - Dŵr a ffibr
 - Macronutrients
 - Micronutrients
-- Water & Fibre
+- Water &amp; Fibre
 
-#### Adnoddau CBAC/WJEC Resources
+## 1.2 Maetholion ar gyfer deiet cytbwys/Nutrients for a balanced diet
 
-[https://resource.download.wjec.co.uk/vtc/2016-17/16-17\\_2-41/eng/unit\\_1/index.html](https://resource.download.wjec.co.uk/vtc/2016-17/16-17_2-41/eng/unit_1/index.html) 
+## Adnoddau CBAC/WJEC Resources
 
-[https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\\_1-43/principles-of-nutrition.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/principles-of-nutrition.pdf)
+https://resource.download.wjec.co.uk/vtc/2016-17/16-17\_2-41/eng/unit\_1/index.html https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\_1-43/principles-of-nutrition.pdf
 
-[https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\\_1-43/eatwell-guide.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/eatwell-guide.pdf)
+https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\_1-43/eatwell-guide.pdf https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\_1-43/diet-and-lifestyle.pdf https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\_1-43/diet-and-lifestyle.pdf
 
-[https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\\_1-43/diet-and-lifestyle.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/diet-and-lifestyle.pdf)
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful https://www.bbc.co.uk/bitesize/guides/ztw3y4j/revision/1
 
-[https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\\_1-43/diet-and-lifestyle.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/diet-and-lifestyle.pdf)
+https://www.bbc.co.uk/bitesize/guides/zqj66yc/revision/1
 
-#### Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+www.bbc.co.uk/bitesize/guides/znnqqhv/revision/2
 
-<https://www.bbc.co.uk/bitesize/guides/ztw3y4j/revision/1>
+www.bbc.co.uk/bitesize/guides/znnqqhv/revision/3
 
-<https://www.bbc.co.uk/bitesize/guides/zqj66yc/revision/1>
+https://www.foodafactoflife.org.uk/media/9847/macronutrients-fibre-and-water-14-16-kohe.docx https://www.foodafactoflife.org.uk/media/9848/micronutrients-14-16-kohe.docx
 
-[www.bbc.co.uk/bitesize/guides/znnqqhv/revision/2](https://www.bbc.co.uk/bitesize/guides/znnqqhv/revision/2)
+https://www.foodafactoflife.org.uk/media/9858/eatwell-guide-ko-11-16he.docx https://www.foodafactoflife.org.uk/media/9846/energy-and-activity-14-16-kohe.docx
 
-[www.bbc.co.uk/bitesize/guides/znnqqhv/revision/3](https://www.bbc.co.uk/bitesize/guides/znnqqhv/revision/3)
+https://www.bbc.co.uk/bitesize/guides/zqj66yc/revision/1
 
-<https://www.foodafactoflife.org.uk/media/9847/macronutrients-fibre-and-water-14-16-kohe.docx>
+https://www.bbc.co.uk/bitesize/guides/z8rqw6f/revision/1
 
-<https://www.foodafactoflife.org.uk/media/9848/micronutrients-14-16-kohe.docx>
+The Eatwell Guide - GOV.UK (www.gov.uk)
 
-<https://www.foodafactoflife.org.uk/media/9858/eatwell-guide-ko-11-16he.docx>
+Eat well - NHS (www.nhs.uk)
 
-<https://www.foodafactoflife.org.uk/media/9846/energy-and-activity-14-16-kohe.docx>
+<!-- image -->
 
-<https://www.bbc.co.uk/bitesize/guides/zqj66yc/revision/1>
 
-<https://www.bbc.co.uk/bitesize/guides/z8rqw6f/revision/1>
 
-The Eatwell Guide - [GOV.UK \(www.gov.uk\)](https://www.gov.uk/government/publications/the-eatwell-guide)
+{6}------------------------------------------------
 
-Eat well - [NHS \(www.nhs.uk\)](https://www.nhs.uk/live-well/eat-well/)
 
-{5}------------------------------------------------
 
-## 1.3 Deiet ac Iechyd/Diet and Health
-
-![](_page_5_Picture_2.jpeg)
+## TGAU GCSE
 
 - Sut mae anghenion maeth yn newid dros gamau bywyd.
 - Anghenion maeth unigolion ag anghenion dietegol neu ddiffygion penodol.
 - Tueddiadau presennol sy'n ymwneud â materion deiet yng Nghymru
 
+## 1.3 Deiet ac Iechyd/Diet and Health
+
+<!-- image -->
+
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+
 - How nutritional needs change over the life stages.
 - Nutritional needs of individuals with specific dietary needs or deficiencies.
 - Current trends relating to dietary issues in Wales
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
-
 1.3.1
+
+https://www.foodafactoflife.org.uk/14-16-years/healthy-eating-14-16-years/nutritionalneeds-through-life-14-16-years
 
 1.3.2
 
-[https://www.foodafactoflife.org.uk/14-16-years/healthy-eating-14-16-years/nutritional](https://www.foodafactoflife.org.uk/14-16-years/healthy-eating-14-16-years/nutritional-needs-through-life-14-16-years)[needs-through-life-14-16-years](https://www.foodafactoflife.org.uk/14-16-years/healthy-eating-14-16-years/nutritional-needs-through-life-14-16-years) 
-
-[Health issues \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/healthy-eating-14-16-years/health-issues-14-16-years/) Food A Fact Of Life
-
-<https://www.bbc.co.uk/bitesize/guides/z7yttv4/revision/1>
-
-<https://www.bbc.co.uk/bitesize/guides/zk92msg/revision/1>
-
-<https://www.bbc.co.uk/bitesize/guides/z23yfcw/revision/1>
-
-The NHS website - [NHS \(www.nhs.uk\)](https://www.nhs.uk/)
-
-[Food allergy and intolerance | Food Standards Agency](https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance)
-
-Diabetes UK - [Know diabetes. Fight diabetes. | Diabetes UK](https://www.diabetes.org.uk/)
-
-[www.bhf.org.uk](https://www.bhf.org.uk/)
-
-[https://www.foodafactoflife.org.uk/media/zmmalrhu/knowledge-organiser-wfcf-ko-1416fc](https://www.foodafactoflife.org.uk/media/zmmalrhu/knowledge-organiser-wfcf-ko-1416fc-v2.docx)[v2.docx](https://www.foodafactoflife.org.uk/media/zmmalrhu/knowledge-organiser-wfcf-ko-1416fc-v2.docx) 
-
 1.3.3
 
-<https://www.foodafactoflife.org.uk/media/9849/food-choice-14-16-koca.docx> [https://www.foodafactoflife.org.uk/media/9850/food-labelling-and-health-claims-14-16](https://www.foodafactoflife.org.uk/media/9850/food-labelling-and-health-claims-14-16-koca.docx) [koca.docx](https://www.foodafactoflife.org.uk/media/9850/food-labelling-and-health-claims-14-16-koca.docx) 
+Health issues (14-16 Years) - Food A Fact Of Life https://www.bbc.co.uk/bitesize/guides/z7yttv4/revision/1 https://www.bbc.co.uk/bitesize/guides/zk92msg/revision/1 https://www.bbc.co.uk/bitesize/guides/z23yfcw/revision/1 The NHS website - NHS (www.nhs.uk) Food allergy and intolerance | Food Standards Agency Diabetes UK - Know diabetes. Fight diabetes. | Diabetes UK www.bhf.org.uk https://www.foodafactoflife.org.uk/media/zmmalrhu/knowledge-organiser-wfcf-ko-1416fcv2.docx
 
-Food choice - [Food A Fact Of Life](https://www.foodafactoflife.org.uk/14-16-years/consumer-awareness-14-16-years/food-choice/)
+https://www.foodafactoflife.org.uk/media/9849/food-choice-14-16-koca.docx https://www.foodafactoflife.org.uk/media/9850/food-labelling-and-health-claims-14-16koca.docx
 
-[Consumer awareness -](https://www.foodafactoflife.org.uk/14-16-years/consumer-awareness-14-16-years/consumer-awareness/) Food A Fact Of Life
+Food choice - Food A Fact Of Life
 
-<https://www.foodafactoflife.org.uk/14-16-years/consumer-awareness-14-16-years/food-labelling/>
+Consumer awareness - Food A Fact Of Life https://www.foodafactoflife.org.uk/14-16-years/consumer-awareness-14-16-years/food-labelling/ Where food comes from (14-16 Years) - Food A Fact Of Life
 
-[Where food comes from \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/where-food-comes-from-14-16-years/) Food A Fact Of Life
+https://www.bbc.co.uk/bitesize/guides/z7fw7p3/revision/1
 
-<https://www.bbc.co.uk/bitesize/guides/z7fw7p3/revision/1>
+https://www.bbc.co.uk/bitesize/guides/ztqhh39/revision/1
 
-<https://www.bbc.co.uk/bitesize/guides/ztqhh39/revision/1>
 
-{6}------------------------------------------------
 
-## 1.4 Coginio bwyd/ Cooking food
+{7}------------------------------------------------
 
-![](_page_6_Picture_2.jpeg)
+
+
+TGAU GCSE
 
 - Pam rydym yn coginio bwyd.
 - Dulliau trosglwyddo gwres.
 - Dulliau coginio.
 
+## 1.4 Coginio bwyd/ Cooking food
+
+## Adnoddau CBAC/WJEC Resources
+
 - Why we cook food.
 - Methods of heat transfer.
 - Cooking methods.
 
-#### Adnoddau CBAC/WJEC Resources
-
-[effect-of-cooking-on-food.pdf \(wjec.co.uk\)](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/effect-of-cooking-on-food.pdf) [Resource WJEC Educational Resources Website](https://resources.wjec.co.uk/Pages/ResourceSingle.aspx?rIid=871)
+effect-of-cooking-on-food.pdf (wjec.co.uk) Resource WJEC Educational Resources Website
 
 Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
 
-[Cooking resources \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/cooking-14-16-years/cooking-resources-14-16-years/) Food A Fact Of Life [| STEM](https://www.stem.org.uk/resources/elibrary/resource/31263/nuffield-home-economics-food-science)
+Cooking resources (14-16 Years) - Food A Fact Of Life | STEM
 
-[How is heat transferred during cooking? \(scienceofcooking.com\)](https://www.scienceofcooking.com/how-is-heat-transferred-in-cooking.html)
+How is heat transferred during cooking? (scienceofcooking.com)
 
-{7}------------------------------------------------
+<!-- image -->
 
-## 1.5 Dirywiad Bwyd/Food Spoilage
 
-![](_page_7_Picture_2.jpeg)
+
+{8}------------------------------------------------
+
+
+
+TGAU GCSE
 
 - Storio a rheoli tymheredd.
 - Hylendid a diogelwch.
 - Cadwoli.
 - Gwenwyn bwyd.
 
-Adnoddau CBAC/WJEC Resources
+## 1.5 Dirywiad Bwyd/Food Spoilage
 
-[https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\\_1-43/food-spoilage.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/food-spoilage.pdf) 
+## Adnoddau CBAC/WJEC Resources
+
+https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20\_1-43/food-spoilage.pdf
+
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful https://www.bbc.co.uk/bitesize/guides/zndnsrd/revision/1
+
+www.bbc.co.uk/bitesize/guides/z77v3k7/revision/1
+
+Food safety (14-16 Years) - Food A Fact Of Life https://www.foodafactoflife.org.uk/media/9842/food-spoilage-contamination-and-poisoning-14-16-koc.docx
+
+https://www.foodafactoflife.org.uk/media/9843/good-food-hygiene-practices-14-16-koc.docx
+
+Homepage | Food Standards Agency
+
+Food preservation | Definition, Importance, &amp; Methods | Britannica
+
+| STEM
 
 - Storage and temperature control.
 - Hygiene and safety.
 - Preservation.
 - Food poisoning.
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+<!-- image -->
 
-<https://www.bbc.co.uk/bitesize/guides/zndnsrd/revision/1>
 
-[www.bbc.co.uk/bitesize/guides/z77v3k7/revision/1](https://www.bbc.co.uk/bitesize/guides/z77v3k7/revision/1)
 
-[Food safety \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/cooking-14-16-years/food-safety-14-16-years/) Food A Fact Of Life
+{9}------------------------------------------------
 
-<https://www.foodafactoflife.org.uk/media/9842/food-spoilage-contamination-and-poisoning-14-16-koc.docx>
 
-<https://www.foodafactoflife.org.uk/media/9843/good-food-hygiene-practices-14-16-koc.docx>
 
-[Homepage | Food Standards Agency](https://www.food.gov.uk/)
-
-[Food preservation | Definition, Importance, & Methods | Britannica](https://www.britannica.com/topic/food-preservation)
-
-[| STEM](https://www.stem.org.uk/elibrary/resource/35844)
-
-{8}------------------------------------------------
-
-## 1.6 O'r fferm i'r fforc/From field to fork
-
-![](_page_8_Picture_2.jpeg)
+TGAU GCSE
 
 - Tarddiad bwyd.
 - Bwyd a'r amgylchedd.
 - Prosesu bwyd cynradd ac eilaidd.
 
+## 1.6 O'r fferm i'r fforc/From field to fork
+
+## Adnoddau CBAC/WJEC Resources
+
+## GCSE Food and Nutrition
+
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+
+Where food comes from (14-16 Years) - Food A Fact Of Life www.bbc.co.uk/bitesize/guides/zks8jty/revision/1
+
+www.bbc.co.uk/bitesize/guides/zks8jty/revision/3
+
+www.bbc.co.uk/bitesize/guides/zks8jty/revision/2
+
+seasonal eating - BBC Bitesize
+
+Food processing - BBC Bitesize
+
+What Are Food Miles? | Connect4Climate
+
+Seasonal calendar - BBC Good Food
+
+Traditional Welsh dishes | Wales.com
+
+BBC Two - Inside the Factory - Available now
+
+Farming techniques - Food production - AQA - GCSE Biology (Single Science) Revision - AQA - BBC Bitesize
+
+Home - NFU Education (nfuonline.com)
+
+Household Food and Drink Waste in Wales 2021-22 | WRAP (wrapcymru.org.uk)
+
 - Food origin.
 - Food and the environment.
 - Primary and secondary food processing.
 
-#### Adnoddau CBAC/WJEC Resources
+<!-- image -->
 
-[GCSE Food and Nutrition](https://www.wjec.co.uk/qualifications/food-and-nutrition-gcse/?sub_nav_level=digital-resources#tab_resources)
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
 
-[Where food comes from \(14-16 Years\) -](https://www.foodafactoflife.org.uk/14-16-years/where-food-comes-from-14-16-years/) Food A Fact Of Life
+{10}------------------------------------------------
 
-[www.bbc.co.uk/bitesize/guides/zks8jty/revision/1](https://www.bbc.co.uk/bitesize/guides/zks8jty/revision/1)
 
-[www.bbc.co.uk/bitesize/guides/zks8jty/revision/3](https://www.bbc.co.uk/bitesize/guides/zks8jty/revision/3)
 
-[www.bbc.co.uk/bitesize/guides/zks8jty/revision/2](https://www.bbc.co.uk/bitesize/guides/zks8jty/revision/2)
-
-[seasonal eating -](https://www.bbc.co.uk/bitesize/topics/zfmpb9q/articles/z3tcydm#zyb6trd) BBC Bitesize
-
-[Food processing -](https://www.bbc.co.uk/bitesize/topics/zfmpb9q/articles/zb46jsg#zmx496f) BBC Bitesize
-
-[What Are Food Miles? | Connect4Climate](https://www.connect4climate.org/initiative/what-are-food-miles)
-
-[Seasonal calendar -](https://www.bbcgoodfood.com/seasonal-calendar?IGNORE_GEO_REDIRECT_GLOBAL=true&v=999083390) BBC Good Food
-
-[Traditional Welsh dishes | Wales.com](https://www.wales.com/visit/food-drink/essential-welsh-eats)
-
-BBC Two - [Inside the Factory -](https://www.bbc.co.uk/programmes/b07mddqk/episodes/player?page=2) Available now
-
-Farming techniques - Food production - AQA - [GCSE Biology \(Single Science\) Revision -](https://www.bbc.co.uk/bitesize/guides/ztwvk2p/revision/3) AQA - BBC Bitesize
-
-Home - [NFU Education \(nfuonline.com\)](https://education.nfuonline.com/)
-
-[Household Food and Drink Waste in Wales 2021-22 | WRAP \(wrapcymru.org.uk\)](https://wrapcymru.org.uk/resources/report/household-food-and-drink-waste-wales-2021-22)
-
-{9}------------------------------------------------
-
-## Uned 2 Yr Ymchwiliad Bwyd/Unit 2 The Food Investigation
-
-![](_page_9_Picture_2.jpeg)
+TGAU GCSE
 
 - Gwyddor bwyd.
 - Cynllunio arbrofion gwyddor bwyd.
 - Gwyddor bwyd ar waith.
 
+## Uned 2 Yr Ymchwiliad Bwyd/Unit 2 The Food Investigation
+
+## Adnoddau CBAC/WJEC Resources
+
+## GCSE Food and Nutrition
+
+https://www.wjec.co.uk/media/ll5pjqlo/work-smarter-not-harder-nea-1-wjec-final-version.pptx
+
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+
+## Gwyddor bwyd (14-16 oed) - 'Food A Fact of Life'
+
+Food investigation: how to begin a food investigation | Institute of Food Science and Technology (ifst.org)
+
 - The science of food.
 - Planning food science experiments.
 - Food science in action.
 
-#### Adnoddau CBAC/WJEC Resources
+<!-- image -->
 
-#### [GCSE Food and Nutrition](https://www.wjec.co.uk/qualifications/food-and-nutrition-gcse/?sub_nav_level=digital-resources#tab_resources)
 
-<https://www.wjec.co.uk/media/ll5pjqlo/work-smarter-not-harder-nea-1-wjec-final-version.pptx>
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+{11}------------------------------------------------
 
-[Gwyddor bwyd \(14-16 oed\) –](https://www.foodafactoflife.org.uk/14-16-years/food-science-14-16-years/) 'Food A Fact of Life'
 
-[Food investigation: how to begin a food investigation | Institute of Food Science and Technology \(ifst.org\)](https://www.ifst.org/lovefoodlovescience/resources/food-investigation-how-begin-food-investigation)
 
-{10}------------------------------------------------
-
-## Uned 3 Bwyd a Maeth ar waith/Unit 3 Food & Nutrition in action
-
-![](_page_10_Picture_2.jpeg)
+TGAU GCSE
 
 - Ffactorau sy'n effeithio ar ddewisiadau bwyd.
 - Technegau cynllunio, paratoi a choginio bwyd
 - Coginio ar gyfer cynulleidfa a phwrpas.
 
+## Uned 3 Bwyd a Maeth ar waith/Unit 3 Food &amp; Nutrition in action
+
+## Adnoddau CBAC/WJEC Resources
+
+https://www.wjec.co.uk/media/tbufmvbx/upskilling-recipes.pptx https://www.wjec.co.uk/umbraco/surface/blobstorage/download?nodeId=50748 https://www.wjec.co.uk/umbraco/surface/blobstorage/download?nodeId=5380 https://resource.download.wjec.co.uk/vtc/2016-17/16-17\_2-41/eng/unit\_2/index.html https://resource.download.wjec.co.uk/vtc/2016-17/16-17\_2-41/eng/unit\_1/index.html
+
+GCSE Food and Nutrition
+
+Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
+
+Gwyddor bwyd (11-14 oed) - 'Food A Fact of Life' Gwyddor bwyd (14-16 oed) - 'Food A Fact of Life' Ryseitiau - 'Food A Fact Of Life' Fideos coginio (14-16 Years) - Food A Fact Of Life
+
 - Factors affecting food choices.
 - Food planning, cooking and preparation techniques.
 - Cooking for an audience and purpose.
 
-#### Adnoddau CBAC/WJEC Resources
+<!-- image -->
 
-<https://www.wjec.co.uk/media/tbufmvbx/upskilling-recipes.pptx> <https://www.wjec.co.uk/umbraco/surface/blobstorage/download?nodeId=50748> <https://www.wjec.co.uk/umbraco/surface/blobstorage/download?nodeId=5380> [https://resource.download.wjec.co.uk/vtc/2016-17/16-17\\_2-41/eng/unit\\_2/index.html](https://resource.download.wjec.co.uk/vtc/2016-17/16-17_2-41/eng/unit_2/index.html) [https://resource.download.wjec.co.uk/vtc/2016-17/16-17\\_2-41/eng/unit\\_1/index.html](https://resource.download.wjec.co.uk/vtc/2016-17/16-17_2-41/eng/unit_1/index.html) [GCSE Food and Nutrition](https://www.wjec.co.uk/qualifications/food-and-nutrition-gcse/?sub_nav_level=digital-resources#tab_resources)
 
-Heb eu ardystio gan CBAC ond efallai yn ddefnyddiol. Not endorsed by WJEC but may be useful
-
-[Gwyddor bwyd \(11-14 oed\) –](https://www.foodafactoflife.org.uk/11-14-years/nutritional-analysis-11-14-years/) 'Food A Fact of Life' [Gwyddor bwyd \(14-16 oed\) –](https://www.foodafactoflife.org.uk/14-16-years/nutritional-analysis-14-16-years/) 'Food A Fact of Life' Ryseitiau – ['Food A Fact Of Life'](https://www.foodafactoflife.org.uk/recipes/) [Fideos coginio \(14-16 Years\) –](https://www.foodafactoflife.org.uk/14-16-years/cooking-14-16-years/cooking-videos-14-16-years/) Food A Fact Of Life
-
-{11}------------------------------------------------
-
-![](_page_11_Picture_1.jpeg)
-
-# Canllawiau Addysgu Guidance for Teaching
-
-# SAM/DAE
-
-[GCSE Food and Nutrition | Made for Wales](https://www.wjec.co.uk/qualifications/gcse-food-and-nutrition-teaching-from-2025/#tab_keydocuments)
-
-[TGAU Bwyd](https://www.cbac.co.uk/cymwysterau/tgau-bwyd-a-maeth-dysgu-o-2025/#tab_keydocuments) a Maeth
 
 {12}------------------------------------------------
 
-![](_page_12_Picture_0.jpeg)
 
-![](_page_12_Picture_1.jpeg)
 
-Yn arbennig i Gymru. Yn barod i'r byd.
+## Canllawiau Addysgu Guidance for Teaching
 
-Made for Wales. Ready for the world.
+SAM/DAE
+
+GCSE Food and Nutrition | Made for Wales
+
+TGAU Bwyd a Maeth
+
+<!-- image -->
+
+
+
+{13}------------------------------------------------
+
+
+
+<!-- image -->
+
+Yn arbennig i Gymru. Yn barod i'r byd. Made for Wales. Ready for the world.
 
 www.cbac.co.uk/YnarbennigiGymru www.wjec.co.uk/MadeforWales
 
-![](_page_12_Picture_5.jpeg)
+<!-- image -->
+
+<!-- image -->

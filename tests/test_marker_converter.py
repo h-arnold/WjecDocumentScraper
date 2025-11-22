@@ -116,7 +116,7 @@ def test_marker_converter_injects_page_markers(
     assert captured["converter_config"]["use_llm"] is True
     assert "gemini_api_key" in captured["converter_config"]
     assert "gemini_model_name" in captured["converter_config"]
-    
+
     # Renderer still gets the same config
     assert captured["renderer_config"]["paginate_output"] is True
     assert captured["renderer_config"]["use_llm"] is True

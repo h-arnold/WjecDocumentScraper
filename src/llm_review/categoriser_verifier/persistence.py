@@ -59,7 +59,7 @@ class VerifierPersistenceManager:
 
     def write_aggregated_results(self, output_path: Path) -> Path:
         """Write all accumulated results to a single CSV file.
-        
+
         Merges with existing results in the file if it exists, deduplicating
         by (subject, filename, issue_id) tuple - new results override old ones.
 
@@ -90,7 +90,9 @@ class VerifierPersistenceManager:
                         except (ValueError, TypeError):
                             # Skip rows with invalid issue_id
                             continue
-                print(f"Loaded {len(existing_results)} existing result(s) from {output_path}")
+                print(
+                    f"Loaded {len(existing_results)} existing result(s) from {output_path}"
+                )
             except (OSError, csv.Error) as e:
                 print(f"Warning: Could not load existing results: {e}")
 

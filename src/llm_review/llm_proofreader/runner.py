@@ -61,7 +61,9 @@ class ProofreaderRunner(ReviewRunner):
 
         # Create a configuration object for the parent class
         config = ProofreaderConfiguration(
-            input_csv_path=Path("Documents/verified-llm-categorised-language-check-report.csv"),
+            input_csv_path=Path(
+                "Documents/verified-llm-categorised-language-check-report.csv"
+            ),
             output_base_dir=Path("Documents"),
             output_subdir="llm_proofreader_reports",
             batch_size=batch_size,
@@ -148,7 +150,7 @@ class ProofreaderRunner(ReviewRunner):
                 md_filename = md_filename[:-4] + ".md"
             elif not md_filename.endswith(".md"):
                 md_filename = md_filename + ".md"
-            
+
             markdown_path = Path("Documents") / key.subject / "markdown" / md_filename
 
             # Clear state if force mode
@@ -220,7 +222,9 @@ class ProofreaderRunner(ReviewRunner):
         """
         document_key = self._active_document_key
         if document_key is None:
-            raise RuntimeError("ProofreaderRunner.validate_response called without active document context")
+            raise RuntimeError(
+                "ProofreaderRunner.validate_response called without active document context"
+            )
 
         self._ensure_issue_counter(document_key)
 
@@ -276,12 +280,16 @@ class ProofreaderRunner(ReviewRunner):
 
             except ValidationError as e:
                 had_errors = True
-                target_key = original_issue.issue_id if original_issue else "batch_errors"
+                target_key = (
+                    original_issue.issue_id if original_issue else "batch_errors"
+                )
                 error_messages.setdefault(target_key, []).append(str(e))
                 continue
             except Exception as e:
                 had_errors = True
-                target_key = original_issue.issue_id if original_issue else "batch_errors"
+                target_key = (
+                    original_issue.issue_id if original_issue else "batch_errors"
+                )
                 error_messages.setdefault(target_key, []).append(str(e))
                 continue
 
@@ -294,7 +302,9 @@ class ProofreaderRunner(ReviewRunner):
 
         return validated_results, failed_issue_ids, error_messages
 
-    def _initialise_issue_counter(self, key: DocumentKey, *, reset: bool = False) -> None:
+    def _initialise_issue_counter(
+        self, key: DocumentKey, *, reset: bool = False
+    ) -> None:
         """Ensure the next issue-id counter is ready for a document."""
         if reset:
             self._next_issue_id[key] = 0
@@ -345,16 +355,25 @@ class ProofreaderRunner(ReviewRunner):
                 raise ValueError("page_number must be an integer if provided")
 
         return {
-            "filename": original_issue.filename if original_issue else fallback_filename,
+            "filename": (
+                original_issue.filename if original_issue else fallback_filename
+            ),
             "rule_id": original_issue.rule_id if original_issue else "LLM_PROOFREADER",
-            "message": original_issue.message if original_issue else "Issue detected by LLM proofreader",
-            "issue_type": original_issue.issue_type if original_issue else "proofreading",
+            "message": (
+                original_issue.message
+                if original_issue
+                else "Issue detected by LLM proofreader"
+            ),
+            "issue_type": (
+                original_issue.issue_type if original_issue else "proofreading"
+            ),
             "replacements": original_issue.replacements if original_issue else [],
             "context": llm_issue.get("highlighted_context")
             or (original_issue.context if original_issue else ""),
             "highlighted_context": llm_issue.get("highlighted_context")
             or (original_issue.highlighted_context if original_issue else ""),
-            "issue": llm_issue.get("issue") or (original_issue.issue if original_issue else ""),
+            "issue": llm_issue.get("issue")
+            or (original_issue.issue if original_issue else ""),
             "page_number": _get_page_number(),
             "issue_id": original_issue.issue_id if original_issue else -1,
             "pass_code": PassCode.LP,

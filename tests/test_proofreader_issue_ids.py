@@ -1,8 +1,8 @@
 from __future__ import annotations
 
+import sys
 from dataclasses import dataclass
 from pathlib import Path
-import sys
 
 import pytest
 
@@ -24,8 +24,12 @@ class _StubLLMService(LLMService):
     def __init__(self) -> None:
         super().__init__(providers=[])
 
-    def generate(self, user_prompts, *, filter_json=False):  # pragma: no cover - defensive
-        raise AssertionError("LLMService.generate should not be called during validation tests")
+    def generate(
+        self, user_prompts, *, filter_json=False
+    ):  # pragma: no cover - defensive
+        raise AssertionError(
+            "LLMService.generate should not be called during validation tests"
+        )
 
 
 @dataclass
@@ -76,7 +80,9 @@ def _make_response_row(issue: str, *, page: int = 1) -> dict[str, object]:
     }
 
 
-def test_issue_ids_start_from_zero_and_increment(proofreader_runner: _RunnerFixtures) -> None:
+def test_issue_ids_start_from_zero_and_increment(
+    proofreader_runner: _RunnerFixtures,
+) -> None:
     runner = proofreader_runner.runner
     key = DocumentKey("Subject", "doc.md")
     issues = [_make_issue(10), _make_issue(11)]

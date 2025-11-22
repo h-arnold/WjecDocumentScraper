@@ -1,82 +1,92 @@
+{1}------------------------------------------------
 
+<!-- image -->
 
-{0}------------------------------------------------
-
-![](_page_0_Picture_0.jpeg)
-
-![](_page_0_Picture_1.jpeg)
-
-# WJEC GCSE French
+## WJEC GCSE French
 
 Approved by Qualifications Wales
 
-# Sample Assessment Materials
+## Sample Assessment Materials
 
-Unit 1: Oracy Teaching from 2025 For award from 2027
+Unit 1: Oracy Teaching from 2025
 
-![](_page_0_Picture_6.jpeg)
+For award from 2027
 
-Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
+<!-- image -->
 
-Made for Wales.
+Made for Wales. Ready for the world.
 
-{1}------------------------------------------------
+<!-- image -->
 
-![](_page_1_Picture_0.jpeg)
+
 
 {2}------------------------------------------------
 
-#### Contents
 
-| About this pack: information for teachers | 3  |
-|-------------------------------------------|----|
-| Instructions for teachers                 | 4  |
-| Task 1: Read aloud and role play          | 4  |
-| Task 2: Presentation and Discussion       | 5  |
-| Task 3: Conversation                      | 6  |
-| Allocation of Role play cards:            | 7  |
-| Approximate timings for oral assessment   | 8  |
-| Conducting the assessment                 |    |
-| Managing the assessment                   | 10 |
-| Question paper                            | 13 |
-| Read aloud and role play                  |    |
-| Mark Scheme                               | 38 |
-| Mapping of tasks to assessment objectives | 60 |
-| Information for candidates                | 61 |
-| Preparing your work                       | 61 |
-| Plagiarism                                | 61 |
-| Penalties for breaking the regulations    | 61 |
-| Candidate Declaration Form                | 63 |
-| Candidate Time Record Sheet               | 64 |
-| Centre Form                               | 65 |
-| Appendix – Guide to Controls              | 67 |
 
-![](_page_2_Picture_3.jpeg)
+WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
 
-**Copyright** © WJEC CBAC Limited 2024.
+
 
 {3}------------------------------------------------
 
-# <span id="page-3-0"></span>About this pack: information for teachers
+
+
+## Contents
+
+| About this pack: information for teachers ..............................................................................3             |
+|---------------------------------------------------------------------------------------------------------------------------------------|
+| Instructions for teachers........................................................................................................4    |
+| Task 1: Read aloud and role play ......................................................................................4              |
+| Task 2: Presentation and Discussion.................................................................................5                 |
+| Task 3: Conversation.........................................................................................................6        |
+| Allocation of Role play cards: ............................................................................................7          |
+| Approximate timings for oral assessment ..........................................................................8                   |
+| Conducting the assessment ............................................................................................10              |
+| Managing the assessment...............................................................................................10              |
+| Question paper ...................................................................................................................13  |
+| Read aloud and role play.................................................................................................14           |
+| Mark Scheme..................................................................................................................38       |
+| Mapping of tasks to assessment objectives.....................................................................60                      |
+| Information for candidates...................................................................................................61       |
+| Preparing your work ........................................................................................................61        |
+| Plagiarism........................................................................................................................61  |
+| Penalties for breaking the regulations..............................................................................61                |
+| Candidate Declaration Form ...............................................................................................63          |
+| Candidate Time Record Sheet............................................................................................64             |
+| Centre Form........................................................................................................................65 |
+| Appendix - Guide to Controls .............................................................................................67          |
+
+## Copyright
+
+© WJEC CBAC Limited 2024.
+
+
+
+{4}------------------------------------------------
+
+
+
+## About this pack: information for teachers
 
 This pack contains the assessment materials for Unit 1: Oracy
 
-Within this pack, you will find:
+## Within this pack, you will find:
 
 - information for teachers on how to manage arrangements for assessment
 - a Centre Form
 - a Candidate Declaration Form
 - a Candidate Time Record sheet.
 
-![](_page_3_Picture_8.jpeg)
 
-© WJEC CBAC Ltd. 2024
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
-## <span id="page-4-0"></span>Instructions for teachers
 
-The assessment lasts for 7–10 minutes Preparation time: 10 minutes 30% of qualification 60 marks
+
+## Instructions for teachers
+
+The assessment lasts for 7-10 minutes Preparation time: 10 minutes 30% of qualification 60 marks
 
 This unit requires candidates to speak using clear and comprehensible French to:
 
@@ -86,21 +96,19 @@ This unit requires candidates to speak using clear and comprehensible French to:
 
 The rubrics and stimuli will all be in Cymraeg/English (except for the read aloud task). The language of response will be in the assessed language.
 
-**Candidates are not permitted to use a dictionary in any part of the assessment. The assessment must be submitted digitally.**
+Candidates are not permitted to use a dictionary in any part of the assessment. The assessment must be submitted digitally.
 
-#### <span id="page-4-1"></span>**Task 1: Read aloud and role play**
+## Task 1: Read aloud and role play
 
 Candidates can make notes on one-side of A4 paper for the read aloud and role play during the preparation time (the notes will not be marked as part of the assessment).
 
-#### **Task 1a: The read aloud**
-
-**The candidate will begin by reading aloud the short sentence in French.**
+## Task 1a: The read aloud The candidate will begin by reading aloud the short sentence in French.
 
 The candidate will begin by reading aloud the short sentence in the assessed language to demonstrate their understanding of sound-spelling correspondence.
 
-#### **Task 1b: The role play**
+## Task 1b: The role play
 
-The role play contains **four** interactions. The teacher will start the role play, they are not required to read out the scenario to the candidate and **must not** rephrase the prompts. Candidates may refer to notes to support them with the read aloud and the role play which must be given to the teacher immediately after the assessment.
+The role play contains four interactions. The teacher will start the role play, they are not required to read out the scenario to the candidate and must not rephrase the prompts. Candidates may refer to notes to support them with the read aloud and the role play which must be given to the teacher immediately after the assessment.
 
 During the role play, candidates will:
 
@@ -120,29 +128,37 @@ Candidates should be able to demonstrate their understanding of the assessed lan
 - in the home
 - in town.
 
-{5}------------------------------------------------
+
+
+{6}------------------------------------------------
+
+
 
 Candidates should be able to engage in transactions including asking and answering questions, asking for advice, making a complaint, reporting a problem, explaining, describing, giving reasons and expressing opinions. The scenario will provide candidates with guidance and prompts in Cymraeg/English on the responses that are required.
 
-**Total time for read aloud and role play: 2 minutes Total marks: 11 marks (AO2 – 8 marks) (AO3 – 3 marks)**
+## Total time for read aloud and role play: 2 minutes
 
-#### <span id="page-5-0"></span>**Task 2: Presentation and Discussion**
+Total marks: 11 marks
 
-#### **Task 2a**
+(AO2 - 8 marks) (AO3 - 3 marks)
+
+## Task 2: Presentation and Discussion
+
+## Task 2a
 
 Candidates will:
 
-- give an oral presentation in which they communicate information, describe and narrate events. The presentation may be prepared two weeks in advance of the first timetabled assessment. The presentation can be on a subject of the candidate's choosing which falls within **one** of the following **three** broad themes:
-  - Theme 1: language for leisure and wellbeing
-  - Theme 2: language for travel
-  - Theme 3: language for work and study.
+- give an oral presentation in which they communicate information, describe and narrate events. The presentation may be prepared two weeks in advance of the first timetabled assessment. The presentation can be on a subject of the candidate's choosing which falls within one of the following three broad themes:
+- Theme 1: language for leisure and wellbeing
+- Theme 2: language for travel
+- Theme 3: language for work and study.
 
-#### Candidates will be marked on:
+Candidates will be marked on:
 
 - communicating information, describing, and narrating events (AO1)
 - using generally accurate pronunciation and intonation in order to communicate with a speaker of the language (AO3).
 
-#### **Marks: (AO1 – 6 marks) (AO3 – 3 marks)**
+## Marks: (AO1 - 6 marks) (AO3 - 3 marks)
 
 Candidates may prepare their presentation two weeks prior to the first timetabled assessment.
 
@@ -150,32 +166,32 @@ Candidates are not permitted to use a dictionary in the preparation of their pre
 
 Candidates may refer to prepared bullet points to support them with the delivery of their presentation [max. 30 words], complete and continuous sentences are not permitted. The bullet points must be given to the teacher immediately after the presentation (the bullet points will not be marked as part of the assessment).
 
-#### **Task 2b**
+## Task 2b
 
 Candidates will:
 
-- take part in an **unprepared** discussion relating to the presentation in the present, past and future tenses. Teachers will lead the discussion by asking questions relating to the presentation. The teacher may repeat or rephrase questions that the candidate does not understand.
+- take part in an unprepared discussion relating to the presentation in the present, past and future tenses. Teachers will lead the discussion by asking questions relating to the presentation. The teacher may repeat or rephrase questions that the candidate does not understand.
 - Teachers should provide opportunities for candidates to:
-  - give clear responses to the questions they are asked (AO1)
-  - use a variety of vocabulary, grammatical structures and different timeframes accurately (AO3).
+- give clear responses to the questions they are asked (AO1)
+- use a variety of vocabulary, grammatical structures and different timeframes accurately (AO3).
 
 Candidates may refer to prepared bullet points [max 30 words], to support them with the delivery of their presentation. The bullet points must be given to the teacher immediately after the presentation.
 
 Examples of topics for the presentation are included in the Unit 1 Guidance for Teaching document.
 
-{6}------------------------------------------------
+## Marks: (AO1 - 10 marks) (AO3 - 5 marks)
 
-**Marks: (AO1 – 10 marks) (AO3 – 5 marks)**
 
-The presentation should last **no longer than 1 minute.**
 
-The discussion should last between **2-3 minutes.**
+{7}------------------------------------------------
 
-**Total time for presentation and discussion: 3-4 minutes. Total marks for presentation and discussion: 24 marks**
 
-**(AO1 – 16 marks) (AO3 – 8 marks)**
 
-#### <span id="page-6-0"></span>**Task 3: Conversation**
+The presentation should last no longer than 1 minute. The discussion should last between 2-3 minutes.
+
+Total time for presentation and discussion: 3-4 minutes. Total marks for presentation and discussion: 24 marks (AO1 - 16 marks) (AO3 - 8 marks)
+
+## Task 3: Conversation
 
 Candidates will contribute to a conversation based on one of the 3 broad themes. The conversation should be based on a different broad theme to the one chosen for the presentation. Teachers must inform candidates of the allocated broad theme for the conversation at the start of the 10 minutes preparation time.
 
@@ -190,29 +206,31 @@ The purpose of this element of the task is to encourage the candidate to demonst
 
 Candidates may refer to notes made on the theme of the conversation during the preparation time which must be given to the teacher immediately after the assessment.
 
-#### Questioning technique:
+## Questioning technique:
 
 - Teachers should avoid asking prepared questions and should instead build a conversation based on individual candidate responses.
 - Questions should ideally be succinct so that there is less teacher talk and more candidate talk.
-- Closed questions, which generally lead to yes/no answers, should be followed-up with an opportunity to express opinions or give more information (prompted, for example, by *'Pourquoi ?'* Or '*Pourquoi pas ?').*
+- Closed questions, which generally lead to yes/no answers, should be followed-up with an opportunity to express opinions or give more information (prompted, for example, by 'Pourquoi ?' Or ' Pourquoi pas ?').
 - Where possible, more open questions should be used in order to allow the candidate to offer more information/more developed responses.
-- Useful question openers for extended answers could be '*Parle-moi de…'*, '*Décris-moi…'* or *'Que penses-tu de…?'* for example.
+- Useful question openers for extended answers could be ' Parle-moi de…' , ' Décris-moi…' or 'Que penses-tu de…?' for example.
 
-**Total time for conversation: 2-4 minutes**
+## Total time for conversation: 2-4 minutes
 
-**Total marks: 25 marks**
-
-**(AO1 – 20 marks) (AO3 – 5 marks)**
+## Total marks: 25 marks (AO1 - 20 marks) (AO3 - 5 marks)
 
 Teachers should tailor the complexity of the questions to the ability of the candidate. Questions may be repeated or rephrased during this part of the task. The teacher should use their judgement as to when to move on if a candidate does not understand or respond to a question even after rephrasing. In order to sustain conversation and avoid long silences, it is better to move to a different question to encourage the candidate to keep talking. Candidates should be given the opportunity to respond in the present, past and future tenses. Candidates may refer to notes to support them with the theme of the conversation which must be given to the teacher immediately after the assessment.
 
-{7}------------------------------------------------
+
+
+{8}------------------------------------------------
+
+
 
 When asking questions Teachers should use the different areas of the broad theme as well as the candidate's interests and experiences to continue the conversation. Candidates should be given the opportunity to respond in the present, past and future tenses.
 
 Examples of questions that may be asked for each broad theme in the past, present and future tenses are included in the Unit 1 Guidance for Teaching document.
 
-#### <span id="page-7-0"></span>**Allocation of Role play cards:**
+## Allocation of Role play cards:
 
 The allocation of cards for the role play will be generated by the candidate's choice of broad theme for the presentation.
 
@@ -222,32 +240,36 @@ There will be six role plays for Theme 1 and six role plays for Theme 2.
 
 The first candidate must be given either card 1a or card 2a, depending on their choice of presentation. The second candidate must be given the prescribed card from the next row (depending on their choice of presentation), this sequence will continue for each teacher (not by the centre as a whole). After breaks in testing (including lunchtime and overnight) the sequence should continue. For example, if candidate 3 is tested before a break, the next candidate will be candidate 4. Teachers must follow this prescribed order.
 
-| Candidate Order | Theme 1 Presentation | Theme 2 Presentation | Theme 3 Presentation |
-|--------------------|-------------------------|-------------------------|-------------------------|
-| 1                  | 2a                      | 1a                      | 1a                      |
-| 2                  | 2b                      | 1b                      | 2b                      |
-| 3                  | 2c                      | 1c                      | 1c                      |
-| 4                  | 2d                      | 1d                      | 2d                      |
-| 5                  | 2e                      | 1e                      | 1e                      |
-| 6                  | 2f                      | 1f                      | 2f                      |
-| 7                  | 2d                      | 1d                      | 2f                      |
-| 8                  | 2a                      | 1f                      | 1b                      |
-| 9                  | 2b                      | 1a                      | 2c                      |
-| 10                 | 2e                      | 1e                      | 1d                      |
-| 11                 | 2f                      | 1c                      | 2e                      |
-| 12                 | 2c                      | 1b                      | 1a                      |
+|   Candidate Order | Theme 1 Presentation   | Theme 2 Presentation   | Theme 3 Presentation   |
+|-------------------|------------------------|------------------------|------------------------|
+|                 1 | 2a                     | 1a                     | 1a                     |
+|                 2 | 2b                     | 1b                     | 2b                     |
+|                 3 | 2c                     | 1c                     | 1c                     |
+|                 4 | 2d                     | 1d                     | 2d                     |
+|                 5 | 2e                     | 1e                     | 1e                     |
+|                 6 | 2f                     | 1f                     | 2f                     |
+|                 7 | 2d                     | 1d                     | 2f                     |
+|                 8 | 2a                     | 1f                     | 1b                     |
+|                 9 | 2b                     | 1a                     | 2c                     |
+|                10 | 2e                     | 1e                     | 1d                     |
+|                11 | 2f                     | 1c                     | 2e                     |
+|                12 | 2c                     | 1b                     | 1a                     |
 
 The allocation of role plays is designed to ensure that the assessment experienced by each candidate samples a range of vocabulary from the vocabulary list.
 
-{8}------------------------------------------------
 
-#### **Task setting**
+
+{9}------------------------------------------------
+
+
+
+## Task setting
 
 Tasks are set by WJEC. The assessment will be carried out by teachers at the centre, audio recorded and marked by external examiners. The role play cards will be sent to the Examinations Officer at the centre in a secure pack. Each centre will receive two packs. There will be instructions not to open the package until the specified date. Each candidate will be allocated one card. The list allocating the card to each candidate is shown above. The teacher must ensure that each candidate is assessed with the correct card. Teacher prompts for the role play, and guidance on setting questions for the discussion and conversation are provided below. The Teacher may open the packs up to three working days in advance of the first assessment date at the centre.
 
 Centres must keep a record of the schedule (including dates) on which the assessments are conducted on the declaration form below. This form is for the centre and candidates to sign and declare that assessments have been conducted according to the requirements in the Assessment Pack and this must be submitted to WJEC with the audio recordings. Audio files should be uploaded to the WJEC Portal within 48 hours or two working days of the speaking assessments taking place.
 
-#### **Task taking**
+## Task taking
 
 Each candidate will have a preparation time of ten minutes prior to the commencement of the assessment. This preparation time must be supervised by an exam invigilator organised by the centre and who is not a subject specialist.
 
@@ -257,7 +279,7 @@ Candidates are advised to spend their 10 minutes preparation time, practising th
 
 The candidate may bring prepared bullet points [maximum 30 words] to support with the delivery of the presentation into the assessment. During the preparation time, the candidate may, if they wish, make notes on the read aloud and role play, and the allocated theme of the conversation on one-side of A4 paper and refer to these during the assessment. The teacher must check the notes prior to the commencement of the assessment and remove the bullet points from the candidate if they contain complete and continuous sentences. Otherwise, the notes must be handed to the teacher at the end of the test, along with the role play. After the preparation period of 10 minutes, the teacher must ensure that the candidate spends the following times on each task:
 
-#### <span id="page-8-0"></span>**Approximate timings for oral assessment**
+## Approximate timings for oral assessment
 
 | Task                        | Approximate timings      |
 |-----------------------------|--------------------------|
@@ -267,15 +289,21 @@ The candidate may bring prepared bullet points [maximum 30 words] to support wit
 
 The timing for the read aloud and role play is approximately 2 minutes but this will depend on each candidate. The timing for the presentation, discussion and conversation should be adhered to so that the candidate is able to access the full range of marks. The overall
 
-{9}------------------------------------------------
 
-timings must be adhered to and any speaking evidence that exceeds these timings will not be marked.
-
-![](_page_9_Picture_2.jpeg)
 
 {10}------------------------------------------------
 
-#### <span id="page-10-0"></span>**Conducting the assessment**
+
+
+timings must be adhered to and any speaking evidence that exceeds these timings will not be marked.
+
+
+
+{11}------------------------------------------------
+
+
+
+## Conducting the assessment
 
 Candidates will be allowed one attempt at the assessment. Once the recording begins it cannot be paused or stopped until the end of the assessment. The only circumstances in which a candidate can be re-tested are if there is a technical malfunction during the assessment (so that, for example, the assessment has not been recorded or is inaudible) or an incident occurs beyond the teacher's control which prevents the completion of the assessment. In any such circumstance, the teacher must inform WJEC immediately via the Examinations Officer at the centre. WJEC will then inform the centre which role play to use in place of the original allocation.
 
@@ -283,15 +311,15 @@ Detailed instructions regarding the process for submitting the materials will be
 
 When introducing each candidate, the following convention must be used: Specification/centre number/candidate number/candidate name/role play card/presentation theme/conversation theme/date.
 
-#### <span id="page-10-1"></span>**Managing the assessment**
+## Managing the assessment
 
 This is a WJEC marked (external) non-examination assessment. The following arrangements must be followed when managing the assessment
 
-#### **Task setting**
+## Task setting
 
 This assessment has been produced by WJEC and cannot be changed
 
-#### **Time**
+## Time
 
 Candidates must be allowed 10 minutes to complete this assessment. Candidates should spend approximately:
 
@@ -301,25 +329,37 @@ Candidates must be allowed 10 minutes to complete this assessment. Candidates sh
 
 The time suggested for each task takes account of the contribution of the task to the overall assessment requirements. There can be no changes to the total time available for this assessment.
 
-#### **Resources**
+## Resources
 
 Resources are not permitted for the preparation of the presentation. Candidates may take the pre-prepared bullet points for the presentation and the notes made on one-side of A4 paper during the preparation time into their assessment.
 
-#### **Collaboration**
+## Collaboration
 
-Group work is **not** allowed. Candidates must complete all tasks individually.
+Group work is not allowed. Candidates must complete all tasks individually.
 
-#### **Supervision**
+## Supervision
 
 Candidates must be supervised by an assessor whilst completing the activities. Centres must have in place systems to ensure candidates cannot access evidence they have been developing outside of supervised activities.
 
-{11}------------------------------------------------
 
-![](_page_11_Picture_1.jpeg)
 
 {12}------------------------------------------------
 
-#### **Authentication**
+
+
+© WJEC CBAC Ltd. 2024
+
+CYFRINACHOL - CONFIDENTIAL
+
+CYFRINACHOL - CONFIDENTIAL
+
+
+
+{13}------------------------------------------------
+
+
+
+## Authentication
 
 Supervision must be in place to ensure the authenticity of evidence produced for summative assessment.
 
@@ -331,85 +371,87 @@ Candidates must sign the declaration to confirm that all evidence submitted for 
 
 Assessors must sign the declaration to confirm that evidence submitted for moderation was completed under the controlled conditions set out in this assessment.
 
-#### **Task marking**
+## Task marking
 
 WJEC will mark all evidence produced by candidates.
 
-Centres **must** ensure that candidates complete a time sheet and candidate declaration form; these are included in the candidate assessment pack.
+Centres must ensure that candidates complete a time sheet and candidate declaration form; these are included in the candidate assessment pack.
 
-#### **Notes on the completion of the Time Sheet and Candidate Declaration Form**
+## Notes on the completion of the Time Sheet and Candidate Declaration Form
 
 - Please log the dates and times that work took place. No work must have taken place outside the hours listed on this form
 - The forms must be completed and sent digitally to the awarding body
 - The form can be completed electronically or manually. Electronic signatures will be accepted.
 
-#### **Further information**
+## Further information
 
 You should refer to the JCQ Instructions for conducting non-examination assessment for further information on managing assessment within our GCSE Qualifications.
 
-**This pack is a sample. It must not be used for live assessment.**
+This pack is a sample. It must not be used for live assessment.
 
-{13}------------------------------------------------
 
-### <span id="page-13-0"></span>Question paper
 
-![](_page_13_Picture_2.jpeg)
+{14}------------------------------------------------
 
-**GCSE**
 
-**FRENCH**
 
-**3830QSL-1**
+## Question paper
 
-**UNIT 1: ORACY**
+<!-- image -->
 
-**7–10 minutes** 
+GCSE
 
-**10 minutes preparation time**
+FRENCH
 
-**SAMPLE ASSESSMENT MATERIALS**
+3830QSL-1
 
-#### **INSTRUCTIONS TO CANDIDATES**
+UNIT 1: ORACY
 
-This assessment will last **7-10 minutes**.
+7-10 minutes 10 minutes preparation time
 
-There are **three** parts to the assessment:
+SAMPLE ASSESSMENT MATERIALS
+
+## INSTRUCTIONS TO CANDIDATES
+
+This assessment will last 7-10 minutes .
+
+There are three parts to the assessment:
 
 - read aloud and role play
 - presentation and discussion
 - conversation.
 
-You will have **10 minutes** to prepare.
+You will have 10 minutes to prepare.
 
-#### **Role play**
+## Role play
 
 You should try to reply with a short phrase or sentence including a relevant verb. One-word answers will not be enough for full marks.
 
-#### **Presentation and discussion**
+## Presentation and discussion
 
 You will present on the subject of your choice from one of the broad themes. Your teacher will then ask you questions relating to the presentation.
 
-#### **Conversation**
+## Conversation
 
-You will take part in an unprepared conversation related to **one** of the **three broad themes.**
+You will take part in an unprepared conversation related to one of the three broad themes.
 
-#### **INFORMATION FOR CANDIDATES**
+## INFORMATION FOR CANDIDATES
 
-**Dictionaries are not permitted.** 
+Dictionaries are not permitted.
 
-#### **Read aloud and role play**
+## Read aloud and role play
 
 You can make notes on A4 paper for the read aloud and role play card during the preparation time.
 
-#### **Presentation**
+## Presentation
 
-You can take prepared bullet points [maximum 30 words] to support you with the delivery of the presentation into the test, complete and continuous sentences are **not** permitted.
+You can take prepared bullet points [maximum 30 words] to support you with the delivery of the presentation into the test, complete and continuous sentences are not permitted.
 
-#### **Conversation**
+## Conversation
 
 You can make notes on A4 paper on the theme of the conversation during the preparation time.
 
-You **must** hand your presentation bullet points, A4 notes sheet and role play card to your teacher at the end of the test.
+You must hand your presentation bullet points, A4 notes sheet and role play card to your teacher at the end of the test.
 
 The role play is worth 11 marks.
 
@@ -417,625 +459,793 @@ The presentation and discussion are worth 24 marks.
 
 The conversation is worth 25 marks.
 
-A total of **3** marks will be awarded for sound-spelling correspondence in both the role play and presentation. A total of **10** marks will be awarded for using good grammar and sentence structure in the discussion and the conversation.
+A total of 3 marks will be awarded for sound-spelling correspondence in both the role play and presentation. A total of 10 marks will be awarded for using good grammar and sentence structure in the discussion and the conversation.
 
-{14}------------------------------------------------
 
-#### <span id="page-14-0"></span>**Read aloud and role play**
 
-**TASK 1 Theme 1 Card A**
+{15}------------------------------------------------
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
 
-#### **Read out the following text in French:**
+## Read aloud and role play
+
+## TASK 1 Theme 1 Card A
+
+## READ ALOUD AND ROLE PLAY (11 MARKS)
+
+## Task 1a:
+
+Read out the following text in French:
 
 Cette semaine au cinéma, tarif réduit pour les étudiants tous les soirs.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are talking to your French friend about going to the cinema.
 - Your teacher will play the part of the friend you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say when you would like to go to watch a film.
-- 2. Say what time the film starts.
-- 3. Say how much the ticket costs.
-- 4. Ask what they want to do after the film.
+1. Say when you would like to go to watch a film.
+2. Say what time the film starts.
+3. Say how much the ticket costs.
+4. Ask what they want to do after the film.
 
-{15}------------------------------------------------
 
-**TASK 1 Theme 1 Card B**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+{16}------------------------------------------------
 
-#### **Task 1a:**
 
-#### **Read out the following text in French:**
+
+## TASK 1 Theme 1 Card B
+
+## Task 1a:
+
+Read out the following text in French:
 
 La pharmacie en ville peut vous donner des conseils sur la santé.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are visiting France and feel ill.
 - Your teacher will play the part of the person you speak to in the pharmacy.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say what is wrong with you.
-- 2. Say you would like some medicine.
-- 3. Say how old you are.
-- 4. Ask how many you must take per day.
+1. Say what is wrong with you.
+2. Say you would like some medicine.
+3. Say how old you are.
+4. Ask how many you must take per day.
 
-{16}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 1 Card C**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{17}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 1 Card C
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Concerts en plein air de toutes sortes de musiques françaises cet été.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are buying tickets for a concert in France.
 - Your teacher will play the part of the ticket agent you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say you want to buy a ticket.
-- 2. Say which date you want.
-- 3. Say how many tickets you would like.
-- 4. Ask at what time the concert starts.
+1. Say you want to buy a ticket.
+2. Say which date you want.
+3. Say how many tickets you would like.
+4. Ask at what time the concert starts.
 
-{17}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 1 Card D**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{18}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 1 Card D
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Lundi soir, le jeune français qui passera le weekend chez moi, va téléphoner.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are talking to a French teenager about their visit to your house.
 - Your teacher will play the part of the teenager you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Ask when they are going to arrive.
-- 2. Say what the weather is like.
-- 3. Say at what time you eat in the evening.
-- 4. Say what you are doing this weekend.
+1. Ask when they are going to arrive.
+2. Say what the weather is like.
+3. Say at what time you eat in the evening.
+4. Say what you are doing this weekend.
 
-{18}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 1 Card E**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{19}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 1 Card E
+
+## Task 1a:
+
+Read out the following text in French:
 
 Venez en ville pour la grande ouverture de notre nouveau magasin de vêtements !
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are in a shop in France and want to buy a new item of clothing.
 - Your teacher will play the part of the shop assistant you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say what item of clothing you want.
-- 2. Say what size you want.
-- 3. Ask if they have the item in a different colour.
-- 4. Say that you are going to buy the item.
+1. Say what item of clothing you want.
+2. Say what size you want.
+3. Ask if they have the item in a different colour.
+4. Say that you are going to buy the item.
 
-{19}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 1 Card F**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{20}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 1 Card F
+
+## READ ALOUD AND ROLE PLAY (11 MARKS)
+
+## Task 1a: Read out the following text in French:
 
 Découvrez toutes les activités proposées au centre sportif pendant les vacances scolaires.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are at a French leisure centre.
 - Your teacher will play the part of the receptionist.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say what sport you like.
-- 2. Say which sport you want to do.
-- 3. Ask how much it costs.
-- 4. Say when you are going to return.
+1. Say what sport you like.
+2. Say which sport you want to do.
+3. Ask how much it costs.
+4. Say when you are going to return.
 
-{20}------------------------------------------------
 
-**TASK 1 Theme 2 Card A**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+{21}------------------------------------------------
 
-#### **Task 1a:**
 
-#### **Read out the following text in French:**
+
+## TASK 1 Theme 2 Card A
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Un très bon choix d'hôtels trois étoiles, à cinq minutes du centre-ville.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are in a Tourist Information Office in France.
 - Your teacher will play the part of the employee that you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say you would like to book a bedroom.
-- 2. Say which date you want to book for.
-- 3. Say how long you want to stay there.
-- 4. Ask how much it costs.
+1. Say you would like to book a bedroom.
+2. Say which date you want to book for.
+3. Say how long you want to stay there.
+4. Ask how much it costs.
 
-{21}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 2 Card B**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{22}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 2 Card B
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Prenez le TGV pour passer une journée à Paris, il est rapide et confortable.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You want to buy a train ticket to Paris.
 - Your teacher will play the part of the ticket agent you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say that you would like to buy a ticket.
-- 2. Say that you are visiting Paris.
-- 3. Say when you want to travel.
-- 4. Ask if you must change trains.
+1. Say that you would like to buy a ticket.
+2.   Say that you are visiting Paris.
+3. Say when you want to travel.
+4.   Ask if you must change trains.
 
-{22}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 2 Card C**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{23}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 2 Card C
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Si vous aimez la bonne cuisine française, venez manger au Restaurant du Marché
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You want to eat in a restaurant in France.
 - Your teacher will play the part of the employee you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Ask for a table for two people.
-- 2. Say where you would like your table to be.
-- 3. Say what food you want to order.
-- 4. Ask where the toilets are.
+1. Ask for a table for two people.
+2. Say where you would like your table to be.
+3. Say what food you want to order.
+4. Ask where the toilets are.
 
-{23}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 2 Card D**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{24}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 2 Card D
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Les attractions touristiques ouvertes pendant l'été sont à prix réduit pour les jeunes.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - Your French friend wants to take you to visit a tourist attraction.
 - Your teacher will play the part of the friend you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say which tourist attraction you want to visit.
-- 2. Say why you want to go there.
-- 3. Ask where you are eating this evening.
-- 4. Say what you would like to eat.
+1. Say which tourist attraction you want to visit.
+2. Say why you want to go there.
+3. Ask where you are eating this evening.
+4. Say what you would like to eat.
 
-{24}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 2 Card E**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{25}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 2 Card E
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Très beau château à visiter dans le vieux quartier de la ville.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are visiting France and want to explore the town you are in.
 - Your teacher will play the part of the person you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say that you are looking for the museum.
-- 2. Ask if there are any good restaurants here.
-- 3. Say what food you would like to eat.
-- 4. Say when you are leaving.
+1. Say that you are looking for the museum.
+2. Ask if there are any good restaurants here.
+3. Say what food you would like to eat.
+4. Say when you are leaving.
 
-{25}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 2 Card F**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{26}------------------------------------------------
 
-#### **Read out the following text in French:**
+
+
+## TASK 1 Theme 2 Card F
+
+## Task 1a:
+
+## Read out the following text in French:
 
 Camping à cinq minutes de la plage avec un restaurant et une belle piscine.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Take part in the role play with your teacher.**
+Take part in the role play with your teacher.
+
+## Scenario:
 
 - You are talking to the receptionist at a campsite in France.
 - Your teacher will play the part of the receptionist you speak to.
 - They will ask you some questions in French. You must reply in French.
 - You should try to reply with a short phrase or sentence including a relevant verb. Oneword answers will not be enough for full marks.
 - Your teacher will speak first.
-- 1. Say that you have a reservation.
-- 2. Say what your surname is and spell it.
-- 3. Say that you would like some bread.
-- 4. Ask at what time the restaurant opens.
+1. Say that you have a reservation.
+2. Say what your surname is and spell it.
+3. Say that you would like some bread.
+4. Ask at what time the restaurant opens.
 
-{26}------------------------------------------------
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-**TASK 1 Theme 1 Card A**
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+{27}------------------------------------------------
+
+
+
+TASK 1 Theme 1 Card A
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Cette semaine au cinéma, tarif réduit pour les étudiants tous les soirs.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Quand veux-tu aller voir un film ?**
-- 1. Say when you would like to go to watch a film.
-  - **Bonne idée ! Le film commence à quelle heure ?**
-- 2. Say what time the film starts.
-  - **Bien. Ça coûte combien ?**
-- 3. Say how much the ticket costs.
-  - **Ah bon !**
-- 4. Ask what they want to do after the film.
-  - **On peut aller au café.**
+Teacher prompts: You address the candidate as 'tu', you will start the role play.
 
-{27}------------------------------------------------
+- Quand veux-tu aller voir un film ?
+1. Say when you would like to go to watch a film.
+- Bonne idée ! Le film commence à quelle heure ?
+2. Say what time the film starts.
+- Bien. Ça coûte combien ?
+3. Say how much the ticket costs.
+- Ah bon !
+4. Ask what they want to do after the film.
+- On peut aller au café.
 
-**TASK 1 Theme 1 Card B**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{28}------------------------------------------------
+
+
+
+## TASK 1 Theme 1 Card B
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 La pharmacie en ville peut vous donner des conseils sur la santé.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say what is wrong with you.
-  - **Vous voulez quelque chose pour la douleur ?**
-- 2. Say you would like some medicine.
-  - **Vous avez quel âge ?**
-- 3. Say how old you are.
-  - **Prenez ces comprimés.**
-- 4. Ask how many you must take per day.
-  - **Deux comprimés, quatre fois par jour.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{28}------------------------------------------------
+- Bonjour, je peux vous aider ?
+1. Say what is wrong with you.
+- Vous voulez quelque chose pour la douleur ?
+2. Say you would like some medicine.
+- Vous avez quel âge ?
+3. Say how old you are.
+- Prenez ces comprimés.
+4. Ask how many you must take per day.
+- Deux comprimés, quatre fois par jour.
 
-**TASK 1 Theme 1 Card C**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{29}------------------------------------------------
+
+
+
+TASK 1 Theme 1 Card C
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Concerts en plein air de toutes sortes de musiques françaises cet été.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say you want to buy a ticket.
-  - **Très bien. C'est pour quelle date ?**
-- 2. Say which date you want.
-  - **Pas de problème. Vous voulez combien de tickets ?**
-- 3. Say how many tickets you would like.
-  - **Bien. C'est tout ?**
-- 4. Ask at what time the concert starts.
-  - **Le concert va commencer à 20 heures.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{29}------------------------------------------------
+- Bonjour, je peux vous aider ?
+1. Say you want to buy a ticket.
+- Très bien. C'est pour quelle date ?
+2. Say which date you want.
+- Pas de problème. Vous voulez combien de tickets ?
+3. Say how many tickets you would like.
+- Bien. C'est tout ?
+4. Ask at what time the concert starts.
+- Le concert va commencer à 20 heures.
 
-**TASK 1 Theme 1 Card D**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{30}------------------------------------------------
+
+
+
+## TASK 1 Theme 1 Card D
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Lundi soir, le jeune français qui passera le weekend chez moi, va téléphoner.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Âllo, c'est Dominique. Je vais passer le weekend chez toi.**
-- 1. Ask when they are going to arrive
-  - **Je vais arriver à 18 heures. Quel temps fait-il au Pays de Galles en ce moment ?**
-- 2. Say what the weather is like.
-  - **D'accord. Vous mangez à quelle heure le soir ?**
-- 3. Say at what time you eat in the evening.
-  - **Super. Qu'est-ce qu'on fait ce weekend ?**
-- 4. Say what you are doing this weekend.
-  - **Parfait. À bientôt !**
+Teacher prompts: You address the candidate as 'tu', you will start the role play.
 
-{30}------------------------------------------------
+- Âllo, c'est Dominique. Je vais passer le weekend chez toi.
+1. Ask when they are going to arrive
+- Je vais arriver à 18 heures. Quel temps fait-il au Pays de Galles en ce moment ?
+2. Say what the weather is like.
+- D'accord. Vous mangez à quelle heure le soir ?
+3. Say at what time you eat in the evening.
+- Super. Qu'est-ce qu'on fait ce weekend ?
+4. Say what you are doing this weekend.
+- Parfait. À bientôt !
 
-**TASK 1 Theme 1 Card E**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{31}------------------------------------------------
+
+
+
+TASK 1 Theme 1 Card E
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Venez en ville pour la grande ouverture de notre nouveau magasin de vêtements !
 
-#### **Task 1b:**
+Task 1b:
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say what item of clothing you want.
-  - **Ah oui, par ici. Vous faites quelle taille ?**
-- 2. Say what size you want.
-  - **Voilà. Vous pouvez l'essayer là-bas.**
-- 3. Ask if they have the item in a different colour.
-  - **Nous avons la même chose en rouge.**
-- 4. Say that you are going to buy the item.
-  - **C'est un très bon choix.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{31}------------------------------------------------
+- Bonjour, je peux vous aider ?
+1. Say what item of clothing you want.
+- Ah oui, par ici. Vous faites quelle taille ?
+2. Say what size you want.
+- Voilà. Vous pouvez l'essayer là-bas.
+3. Ask if they have the item in a different colour.
+- Nous avons la même chose en rouge.
+4. Say that you are going to buy the item.
+- C'est un très bon choix.
 
-**TASK 1 Theme 1 Card F**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{32}------------------------------------------------
+
+
+
+## TASK 1 Theme 1 Card F
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Découvrez toutes les activités proposées au centre sportif pendant les vacances scolaires.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour je peux vous aider ?**
-- 1. Say what sport you like.
-  - **Super voici des informations !**
-- 2. Say which sport you want to do.
-  - **D'accord, je vais vous réserver une place.**
-- 3. Ask how much it costs.
-  - **C'est gratuit pendant les vacances scolaires.**
-- 4. Say when you are going to return.
-  - **Mais oui, il faut en profiter !**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{32}------------------------------------------------
+- Bonjour je peux vous aider ?
+1. Say what sport you like.
+- Super voici des informations !
+2. Say which sport you want to do.
+- D'accord, je vais vous réserver une place.
+3. Ask how much it costs.
+- C'est gratuit pendant les vacances scolaires.
+4. Say when you are going to return.
+- Mais oui, il faut en profiter !
 
-**TASK 1 Theme 2 Card A**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{33}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card A
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Un très bon choix d'hôtels trois étoiles, à cinq minutes du centre-ville.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say you would like to book a bedroom.
-  - **Bien sûr. C'est pour quelle date ?**
-- 2. Say which date you want to book for.
-  - **D'accord. Et vous voulez rester combien de nuits ?**
-- 3. Say how long you want to stay there.
-  - **Oui, c'est possible.**
-- 4. Ask how much it costs.
-  - **Ça va coûter 50€ par nuit.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{33}------------------------------------------------
+- Bonjour, je peux vous aider ?
+1. Say you would like to book a bedroom.
+- Bien sûr. C'est pour quelle date ?
+2. Say which date you want to book for.
+- D'accord. Et vous voulez rester combien de nuits ?
+3. Say how long you want to stay there.
+- Oui, c'est possible.
+4. Ask how much it costs.
+- Ça va coûter 50€ par nuit.
 
-**TASK 1 Theme 2 Card B**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{34}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card B
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Prenez le TGV pour passer une journée à Paris, il est rapide et confortable.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour. Je peux vous aider ?**
-- 1. Say that you would like to buy a ticket.
-  - **Bien sûr. Où est-ce que vous allez ?**
-- 2. Say that you are visiting Paris.
-  - **C'est pour quelle date ?**
-- 3. Say when you want to travel.
-  - **Oui, pas de problème.**
-- 4. Ask if you must change trains.
-  - **Non, c'est direct.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{34}------------------------------------------------
+- Bonjour. Je peux vous aider ?
+1. Say that you would like to buy a ticket.
+- Bien sûr. Où est-ce que vous allez ?
+2. Say that you are visiting Paris.
+- C'est pour quelle date ?
+3. Say when you want to travel.
+- Oui, pas de problème.
+4. Ask if you must change trains.
+- Non, c'est direct.
 
-**TASK 1 Theme 2 Card C**
+## TEACHER COPY
 
-#### **ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{35}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card C
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Si vous aimez la bonne cuisine française, venez manger au Restaurant du Marché.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonsoir, je peux vous aider ?**
-- 1. Ask for a table for two people.
-  - **Oui, où préférez-vous vous asseoir ?**
-- 2. Say where you would like your table to be.
-  - **Voilà. Qu'est-ce que vous voulez manger ?**
-- 3. Say what food you want to order.
-  - **Très bon choix.**
-- 4. Ask where the toilets are.
-  - **Là-bas, à gauche.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{35}------------------------------------------------
+- Bonsoir, je peux vous aider ?
+1. Ask for a table for two people.
+- Oui, où préférez-vous vous asseoir ?
+2. Say where you would like your table to be.
+- Voilà. Qu'est-ce que vous voulez manger ?
+3. Say what food you want to order.
+- Très bon choix.
+4. Ask where the toilets are.
+- Là-bas, à gauche.
 
-**TASK 1 Theme 2 Card D**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{36}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card D
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Les attractions touristiques ouvertes pendant l'été à prix réduit pour les jeunes.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Quelle attraction est-ce que tu veux visiter pendant ton séjour ?**
-- 1. Say which tourist attraction you want to visit.
-  - **Pourquoi est-ce que tu veux aller là-bas ?**
-- 2. Say why you want to go there.
-  - **D'accord. On peut y aller plus tard.**
-- 3. Ask where you are eating this evening.
-  - **Au restaurant. Qu'est-ce que tu voudrais manger ?**
-- 4. Say what you would like to eat.
-  - **Alors, je connais un bon restaurant !**
+Teacher prompts: You address the candidate as 'tu', you will start the role play.
 
-{36}------------------------------------------------
+- Quelle attraction est-ce que tu veux visiter pendant ton séjour ?
+1. Say which tourist attraction you want to visit.
+- Pourquoi est-ce que tu veux aller là-bas ?
+2. Say why you want to go there.
+- D'accord. On peut y aller plus tard.
+3. Ask where you are eating this evening.
+- Au restaurant. Qu'est-ce que tu voudrais manger ?
+4. Say what you would like to eat.
+- Alors, je connais un bon restaurant !
 
-**TASK 1 Theme 2 Card E**
+## TEACHER COPY
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **Task 1a:**
+
+
+{37}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card E
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Très beau château à visiter dans le vieux quartier de la ville.
 
-#### **Task 1b:**
+## Task 1b:
 
-**Teacher prompts: You address the candidate as 'vous', you will start the role play.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-- **Vous êtes perdu ?**
-- 1. Say that you are looking for the museum.
-  - **Alors, descendez cette rue et prenez la deuxième à gauche.**
-- 2. Ask if there are any good restaurants here.
-  - **Vous aimez quelle sorte de cuisine ?**
-- 3. Say what food you would like to eat.
-  - **Il y a un bon restaurant à côté du musée. Vous partez quand ?**
-- 4. Say when you are leaving.
-  - **Alors, vous devriez visiter le château avant de partir.**
+- Vous êtes perdu ?
+1. Say that you are looking for the museum.
+- Alors, descendez cette rue et prenez la deuxième à gauche.
+2. Ask if there are any good restaurants here.
+- Vous aimez quelle sorte de cuisine ?
+3. Say what food you would like to eat.
+- Il y a un bon restaurant à côté du musée. Vous partez quand ?
+4. Say when you are leaving.
+- Alors, vous devriez visiter le château avant de partir.
 
-{37}------------------------------------------------
+## TEACHER COPY
 
-**TASK 1 Theme 2 Card F**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
 
-#### **READ ALOUD AND ROLE PLAY (11 MARKS)**
 
-#### **Task 1a:**
+
+{38}------------------------------------------------
+
+
+
+## TASK 1 Theme 2 Card F
+
+## Task 1a:
 
 The candidate will read out the following sentence:
 
 Camping à cinq minutes de la plage avec un restaurant et une belle piscine.
 
-#### **Task 1b:**
+## Task 1b:
 
-- **Bonjour et bienvenue au camping.**
-- 1. Say that you have a reservation.
-  - **Très bien, c'est à quel nom ?**
-- 2. Say what your surname is and spell it.
-  - **Vous voulez commander du pain pour demain ?**
-- 3. Say that you would like some bread.
-  - **Bien sûr !**
-- 4. Ask at what time the restaurant opens.
-  - **Tous les jours à 19 heures.**
+Teacher prompts: You address the candidate as 'vous', you will start the role play.
 
-{38}------------------------------------------------
+- Bonjour et bienvenue au camping.
+1. Say that you have a reservation.
+- Très bien, c'est à quel nom ?
+2. Say what your surname is and spell it.
+- Vous voulez commander du pain pour demain ?
+3. Say that you would like some bread.
+- Bien sûr !
+4. Ask at what time the restaurant opens.
+- Tous les jours à 19 heures.
 
-#### <span id="page-38-0"></span>**Mark Scheme**
+## TEACHER COPY
 
-#### **Generic marking principles**
+## READ ALOUD AND ROLE PLAY (11 MARKS)
+
+
+
+{39}------------------------------------------------
+
+
+
+## Mark Scheme
+
+## Generic marking principles
 
 - Marks awarded are always whole marks (not half marks, or other fractions).
 - Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited according to the quality of the candidate responses seen).
 - Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in mind.
 
-#### **General Advice**
+## General Advice
 
-Examiners are asked to read and digest thoroughly all the information set out in the document *Instructions for Examiners* sent as part of the stationery pack. It is essential for the smooth running of the examination that these instructions are adhered to by all.
+Examiners are asked to read and digest thoroughly all the information set out in the document Instructions for Examiners sent as part of the stationery pack. It is essential for the smooth running of the examination that these instructions are adhered to by all.
 
 Particular attention should be paid to the following instructions regarding marking:
 
@@ -1046,17 +1256,21 @@ Particular attention should be paid to the following instructions regarding mark
 
 Centres are instructed to ensure that each candidate carries out the correctly allocated role play card from the list. Examiners will be provided with a copy of this list and are required to check that the correct card has been used. In cases where an incorrect card has been used, the examiner is requested to inform WJEC.
 
-#### **Banded mark schemes (Speaking)**
+## Banded mark schemes (Speaking)
 
 Banded mark schemes are divided so that each band within a section has a relevant descriptor. The descriptors for the band provide a description of the performance level across the tested AOs for that band. Each band contains marks. To reach the highest level of the mark scheme a candidate must meet the requirements of the highest mark band. Where a response is not creditworthy, that is, it contains nothing of any significance to the mark scheme, or where no response has been provided, no marks should be awarded.
 
-#### **Stage 1 – Deciding on the band**
+## Stage 1 - Deciding on the band
 
 When deciding on a band, the candidate response should be viewed holistically. Beginning at the lowest band, examiners should look at the candidate's response and check whether it matches the descriptor for that band. If the descriptors at the lowest band are satisfied, examiners should move up to the next band and repeat this process for each band until the descriptor most closely matches the work.
 
-{39}------------------------------------------------
 
-#### **Stage 2 – Deciding on the mark**
+
+{40}------------------------------------------------
+
+
+
+## Stage 2 - Deciding on the mark
 
 Having determined the appropriate band, deciding on a mark within a band will be made on the basis of a 'best fit' procedure, weaknesses in some areas being compensated for by strengths in others.
 
@@ -1077,59 +1291,35 @@ When marking, equal credit is to be given for language used that is beyond the d
 
 When speaking about themselves, gender identification should not be an issue as candidates should be using first-person pronouns. If candidates choose to speak in the third person, they must be consistent in their pronoun choices, for example, use of 'they/them/xe/xhe' should not be seen as grammatically incorrect if the candidate is consistently using the chosen pronoun throughout their speaking. Please be mindful of candidates' choices in assessing all work. When discussing another individual in the third person where gender or gender preference is unknown or undisclosed, WJEC expects consistent application of the gender agreement of the candidate's choice.
 
-{40}------------------------------------------------
 
-#### **Glossary of terms**
-
-The following glossary of terms provides guidance on terms used within the banded mark schemes
-
-**Major error** An error that impedes communication and prevents the meaning from being understood by the listener.
-
-Examples of major errors in simple spoken language:
-
-- errors in conjugation of verbs: elle aime jouer dans le parc ? when intended meaning is to ask a question: tu aimes jouer dans le parc ?
-- use of verb infinitive instead of past tense conjugation: la semaine dernière je dormir tard
-- pronunciation of the last consonant or syllable making the word unrecognisable in French:
-
-**juillet – pronounced as jewillet le dos – pronounced as le doss**
-
-• use of Mother-tongue to replace French vocabulary: je vais en holiday.
-
-Examples of major errors in complex spoken language:
-
-- incongruent verb tenses with expressions of time: demain, J'ai mangé du poisson et j'ai bu de l'eau
-- missing infinitive after conjugated verb: je vais les animaux
-- incorrect vocabulary usage resulting in contradictory or nonsensical communication: j'ai beaucoup d'argent parce que j'aime sauver.
-
-**Minor error** An error that does not impede communication and allows the meaning to be conveyed despite the error. Examples include minor errors in pronunciation, incorrect gender, adjectival agreement and word order of adjectives and application of grammar for contractions.
-
-#### Examples:
-
-- word order of adjectives: les vidéo jeux
-- incorrect determiners: ma meilleur copain
-- missing definite / indefinite articles: elle a yeux bleues il porte pantalon
-- mother-tongue interference: je suis 15 ans
-- gender:
-  - il y a une parc et une cinéma
-- contractions:
-  - je vais a le restaurant
-- adjectival agreement: elle achète un vélo blanche.
-
-GCSE French Unit 1: Oracy 40
-
-© WJEC CBAC Ltd. 2024
 
 {41}------------------------------------------------
 
-| Clear          | The message is unambiguous.                                                                                   |
-|----------------|---------------------------------------------------------------------------------------------------------------|
-| Understandable | Able to be understood.                                                                                        |
-| Development | Additional detail which elaborates. It can be a clause or separate phrase. |
-| Extended | A longer sequence which may include additional clause(s) giving further details, reasoning and/or opinion. |
-| Communication  | Exchanging of information.                                                                                    |
-| Relevant       | Connected or appropriate to the stimulus.                                                                     |
 
-#### **Differentiation of descriptors in the mark scheme**
+
+## Glossary of terms
+
+The following glossary of terms provides guidance on terms used within the banded mark schemes
+
+| Major error   | An error that impedes communication and prevents the meaning from being understood by the listener. Examples of major errors in simple spoken language: • errors in conjugation of verbs: elle aime jouer dans le parc ? when intended meaning is to ask a question: tu aimes jouer dans le parc ? • use of verb infinitive instead of past tense conjugation: la semaine dernière je dormir tard • pronunciation of the last consonant or syllable making the word unrecognisable in French: juillet - pronounced as jewillet le dos - pronounced as le doss • use of Mother-tongue to replace French vocabulary: je vais en holiday. Examples of major errors in complex spoken language: • incongruent verb tenses with expressions of time: demain, J'ai mangé du poisson et j'ai bu de l'eau • missing infinitive after conjugated verb: je vais les animaux • incorrect vocabulary usage resulting in contradictory or nonsensical communication:   |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Minor error   | An error that does not impede communication and allows the meaning to be conveyed despite the error. Examples include minor errors in pronunciation, incorrect gender, adjectival agreement and word order of adjectives and application of grammar for contractions. Examples: • word order of adjectives: les vidéo jeux • incorrect determiners: ma meilleur copain • missing definite / indefinite articles: elle a yeux bleues il porte pantalon • mother-tongue interference: je suis 15 ans • gender: il y a une parc et une cinéma • contractions: je vais a le restaurant • adjectival agreement: elle achète un vélo blanche.                                                                                                                                                                                                                                                                                                                   |
+
+
+
+{42}------------------------------------------------
+
+
+
+| Clear          | The message is unambiguous.                                                                                |
+|----------------|------------------------------------------------------------------------------------------------------------|
+| Understandable | Able to be understood.                                                                                     |
+| Development    | Additional detail which elaborates. It can be a clause or separate phrase.                                 |
+| Extended       | A longer sequence which may include additional clause(s) giving further details, reasoning and/or opinion. |
+| Communication  | Exchanging of information.                                                                                 |
+| Relevant       | Connected or appropriate to the stimulus.                                                                  |
+
+## Differentiation of descriptors in the mark scheme
 
 The following words are used from top to lower bands in all banded mark schemes:
 
@@ -1143,11 +1333,13 @@ The following words are used from top to lower bands in all banded mark schemes:
 
 Please note that these should be viewed in conjunction with the descriptor as they may not always go from top to lower, for example: frequent errors would be in a lower mark band.
 
-![](_page_41_Picture_12.jpeg)
 
-{42}------------------------------------------------
 
-#### **Task 1 – Read aloud and role Play**
+{43}------------------------------------------------
+
+
+
+## Task 1 - Read aloud and role Play
 
 This task tests the candidate's ability to communicate using spoken language to convey their understanding of written language. The candidate is also tested on their knowledge and application of sound spelling correspondence.
 
@@ -1157,488 +1349,574 @@ AO3 Demonstrate knowledge of grammar, vocabulary and sound-spelling corresponden
 
 AO2 Understand and respond to written language through communication and expression in speaking is tested in the role play.
 
-There are **11** marks available for this task.
+There are 11 marks available for this task.
 
-#### **AO3: (3 marks)**
+## AO3: (3 marks)
 
 The candidate is required to read aloud a sentence in French to demonstrate knowledge of sound-spelling correspondence.
 
-| Mark | Descriptor                                                                                                                          |
-|------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | Consistently accurate pronunciation, with few lapses in sound-spelling correspondences which do not impede comprehension. |
-| 2 | Occasionally accurate pronunciation, with some lapses in sound-spelling correspondences which may impede comprehension. |
-| 1 | Pronunciation is rarely accurate, with frequent lapses in sound-spelling correspondences which frequently impedes comprehension. |
-| 0    | The response is not worthy of credit                                                                                                |
+|   Mark | Descriptor                                                                                                                       |
+|--------|----------------------------------------------------------------------------------------------------------------------------------|
+|      3 | Consistently accurate pronunciation, with few lapses in sound-spelling correspondences which do not impede comprehension.        |
+|      2 | Occasionally accurate pronunciation, with some lapses in sound-spelling correspondences which may impede comprehension.          |
+|      1 | Pronunciation is rarely accurate, with frequent lapses in sound-spelling correspondences which frequently impedes comprehension. |
+|      0 | The response is not worthy of credit                                                                                             |
 
-#### **AO2: (8 marks)**
+## AO2: (8 marks)
 
-The candidate is required to ask a question and make statements in response to **four** written prompts.
+The candidate is required to ask a question and make statements in response to four written prompts.
 
 For each candidate response, examiners should apply the following mark grid:
 
-| Mark | Descriptor                                                                                                                   |
-|------|------------------------------------------------------------------------------------------------------------------------------|
-| 2 | The response or question is fully communicated and unambiguous with a verb in the appropriate tense plus relevant detail. |
-| 1 | The response or question is ambiguous or is only partially communicated with either appropriate verb or detail. |
-| 0    | The response is not worthy of credit.                                                                                        |
+|   Mark | Descriptor                                                                                                                |
+|--------|---------------------------------------------------------------------------------------------------------------------------|
+|      2 | The response or question is fully communicated and unambiguous with a verb in the appropriate tense plus relevant detail. |
+|      1 | The response or question is ambiguous or is only partially communicated with either appropriate verb or detail.           |
+|      0 | The response is not worthy of credit.                                                                                     |
 
-{43}------------------------------------------------
 
-#### **Guidance for Examiners**
-
-Pages 42-53 suggest indicative content for the role plays tasks.
-
-Do remember that this indicative content is a guide to the type of responses candidates **may** give; look for and reward all valid alternatives.
-
-Candidates are instructed on the front of the question paper that they should try to respond with a short phrase or sentence including a relevant verb and that one-word answers will not be enough for full marks. Where one-word answers are given in response to a prompt, each such responses cannot score more than 1 mark.
-
-![](_page_43_Picture_5.jpeg)
 
 {44}------------------------------------------------
 
-**TASK 1 Theme 1 Card A** 
 
-#### **ROLE PLAY**
 
-#### **Indicative content**
+## Guidance for Examiners
 
-- **Quand veux-tu aller voir un film ?**
-- 1 Say when would like to go to watch a film. [1](#page-44-0)
-  - **Bonne idée ! Le film commence à quelle heure ?**
-- 2. Say what time the film starts.[2](#page-44-1)
-  - **Bien. Ça coûte combien ?**
-- 3. Say how much the ticket costs. [3](#page-44-2)
-  - **Ah bon !**
-- 4. Ask what they want to do after the film.[4](#page-44-3)
-  - **On peut aller au café.**
+Pages 42-53 suggest indicative content for the role plays tasks.
 
-Look for and reward any valid alternatives.
+Do remember that this indicative content is a guide to the type of responses candidates may give; look for and reward all valid alternatives.
 
-© WJEC CBAC Ltd. 2024
+Candidates are instructed on the front of the question paper that they should try to respond with a short phrase or sentence including a relevant verb and that one-word answers will not be enough for full marks. Where one-word answers are given in response to a prompt, each such responses cannot score more than 1 mark.
 
-<span id="page-44-0"></span><sup>1</sup> Je voudrais aller demain/mercredi : accept any suitable response
 
-<span id="page-44-1"></span><sup>2</sup> Le film commence à huit heures : accept any suitable response
-
-<sup>3</sup> Un ticket coûte 7 euros : accept any suitable response
-
-<span id="page-44-3"></span><span id="page-44-2"></span><sup>4</sup> Qu'est-ce que tu veux faire après ? : accept any suitable question
 
 {45}------------------------------------------------
 
-**TASK 1 Theme 1 Card B** 
 
-#### **ROLE PLAY**
 
-#### **Indicative content**
+TASK 1 Theme 1 Card A
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say what is wrong with you. [1](#page-45-0)
-  - **Vous voulez quelque chose pour la douleur ?**
-- 2. Say you would like some medicine. [2](#page-45-1)
-  - **Vous avez quel âge ?**
-- 3. Say how old you are. [3](#page-45-2)
-  - **Prenez ces comprimés.**
-- 4. Ask how many you must take per day. [4](#page-45-3)
-  - **Deux comprimés, quatre fois par jour.**
+## Indicative content
 
-<span id="page-45-1"></span><span id="page-45-0"></span><sup>1</sup> J'ai mal à la tête : accept any suitable response
-
-<sup>2</sup> Je voudrais un médicament : accept any suitable response
-
-<sup>3</sup> J'ai seize ans : accept any suitable response
-
-<span id="page-45-3"></span><span id="page-45-2"></span><sup>4</sup> Je dois prendre combien par jour ? : accept any suitable question
-
-{46}------------------------------------------------
-
-**TASK 1 Theme 1 Card C**
-
-#### **ROLE PLAY**
-
-#### **Indicative content**
-
-- **Bonjour, je peux vous aider ?**
-- 1. Say you want to buy a ticket. [1](#page-46-0)
-  - **Très bien. C'est pour quelle date ?**
-- 2. Say which date you want. [2](#page-46-1)
-  - **Pas de problème. Vous voulez combien de tickets ?**
-- 3. Say how many tickets you would like. [3](#page-46-2)
-  - **Bien. C'est tout ?**
-- 4. Ask at what time the concert starts. [4](#page-46-3)
-  - **Le concert va commencer à 20 heures.**
-
-<span id="page-46-0"></span><sup>1</sup> Je veux acheter un ticket : accept any suitable response
-
-<span id="page-46-1"></span><sup>2</sup> C'est pour le 2 juin : accept any suitable response
-
-<span id="page-46-2"></span><sup>3</sup> Je voudrais deux tickets : accept any suitable response
-
-<span id="page-46-3"></span><sup>4</sup> Le concert commence à quelle heure ? : accept any suitable question
-
-{47}------------------------------------------------
-
-**TASK 1 Theme 1 Card D**
-
-#### **ROLE PLAY**
-
-#### **Indicative content**
-
-- **Âllo, c'est Dominique. Je vais passer le weekend chez toi.**
-- 1. Ask when they are going to arrive. [1](#page-47-0)
-  - **Je vais arriver à 18 heures. Quel temps fait-il au Pays de Galles en ce moment ?**
-- 2. Say what the weather is like. [2](#page-47-1)
-  - **D'accord. Vous mangez à quelle heure le soir ?**
-- 3. Say at what time you eat in the evening. [3](#page-47-2)
-  - **Super. Qu'est-ce qu'on fait ce weekend ?**
-- 4. Say what you are doing this weekend. [4](#page-47-3)
-  - **Parfait. À bientôt !**
-
-<span id="page-47-0"></span><sup>1</sup> Tu vas arriver à quelle heure ? : accept any suitable question
-
-<span id="page-47-1"></span><sup>2</sup> Il fait beau : accept any suitable response
-
-<span id="page-47-2"></span><sup>3</sup> On mange à 19 heures : accept any suitable response
-
-<span id="page-47-3"></span><sup>4</sup> Nous visitons le château : accept any suitable response
-
-{48}------------------------------------------------
-
-**TASK 1 Theme 1 Card E**
-
-#### **ROLE PLAY**
-
-#### **Indicative content**
-
-- **Bonjour, je peux vous aider ?**
-- 1. Say what item of clothing you want. [1](#page-48-0)
-  - **Ah oui, par ici. Vous faites quelle taille ?**
-- 2. Say what size you want. [2](#page-48-1)
-  - **Voilà. Vous pouvez l'essayer là-bas.**
-- 3. Ask if they have the item in a different colour. [3](#page-48-2)
-  - **Nous avons la même chose en rouge.**
-- 4. Say that you are going to buy the item. [4](#page-48-3)
-  - **C'est un très bon choix.**
+- Quand veux-tu aller voir un film ?
+- 1 Say when would like to go to watch a film. 1
+- Bonne idée ! Le film commence à quelle heure ?
+2. Say what time the film starts. 2
+- Bien. Ça coûte combien ?
+3. Say how much the ticket costs. 3
+- Ah bon !
+4. Ask what they want to do after the film. 4
+- On peut aller au café.
 
 Look for and reward any valid alternatives.
 
-© WJEC CBAC Ltd. 2024
+1  Je voudrais aller demain/mercredi : accept any suitable response
 
-<span id="page-48-1"></span><span id="page-48-0"></span><sup>1</sup> Je veux un tee shirt : accept any suitable response
+2  Le film commence à huit heures : accept any suitable response
 
-<sup>2</sup> Je suis de taille moyenne : accept any suitable response
+3  Un ticket coûte 7 euros : accept any suitable response
 
-<sup>3</sup> Est-ce que vous avez le tee shirt dans une couleur différente ? : accept any suitable question
+4  Qu'est-ce que tu veux faire après ? : accept any suitable question
 
-<span id="page-48-3"></span><span id="page-48-2"></span><sup>4</sup> Je vais acheter le tee shirt : accept any suitable response
+## ROLE PLAY
+
+
+
+{46}------------------------------------------------
+
+
+
+TASK 1 Theme 1 Card B
+
+## Indicative content
+
+- Bonjour, je peux vous aider ?
+1.   Say what is wrong with you. 1
+- Vous voulez quelque chose pour la douleur ?
+2.   Say you would like some medicine. 2
+- Vous avez quel âge ?
+3.   Say how old you are. 3
+- Prenez ces comprimés.
+4.   Ask how many you must take per day. 4
+- Deux comprimés, quatre fois par jour.
+
+Look for and reward any valid alternatives.
+
+1  J'ai mal à la tête : accept any suitable response
+
+2  Je voudrais un médicament : accept any suitable response
+
+3  J'ai seize ans : accept any suitable response
+
+4  Je dois prendre combien par jour ? : accept any suitable question
+
+## ROLE PLAY
+
+
+
+{47}------------------------------------------------
+
+
+
+TASK 1 Theme 1 Card C
+
+## Indicative content
+
+- Bonjour, je peux vous aider ?
+1. Say you want to buy a ticket. 1
+- Très bien. C'est pour quelle date ?
+2. Say which date you want. 2
+- Pas de problème. Vous voulez combien de tickets ?
+3. Say how many tickets you would like. 3
+- Bien. C'est tout ?
+4. Ask at what time the concert starts. 4
+- Le concert va commencer à 20 heures.
+
+Look for and reward any valid alternatives.
+
+1  Je veux acheter un ticket : accept any suitable response
+
+2  C'est pour le 2 juin : accept any suitable response
+
+3  Je voudrais deux tickets : accept any suitable response
+
+4  Le concert commence à quelle heure ? : accept any suitable question
+
+## ROLE PLAY
+
+
+
+{48}------------------------------------------------
+
+
+
+## TASK 1 Theme 1 Card D
+
+## Indicative content
+
+- Âllo, c'est Dominique. Je vais passer le weekend chez toi.
+1. Ask when they are going to arrive. 1
+- Je vais arriver à 18 heures. Quel temps fait-il au Pays de Galles en ce moment ?
+2. Say what the weather is like. 2
+- D'accord. Vous mangez à quelle heure le soir ?
+3. Say at what time you eat in the evening. 3
+- Super. Qu'est-ce qu'on fait ce weekend ?
+4. Say what you are doing this weekend. 4
+- Parfait. À bientôt !
+
+Look for and reward any valid alternatives.
+
+1 Tu vas arriver à quelle heure ? : accept any suitable question
+
+2  Il fait beau : accept any suitable response
+
+3  On mange à 19 heures : accept any suitable response
+
+4  Nous visitons le château : accept any suitable response
+
+## ROLE PLAY
+
+
 
 {49}------------------------------------------------
 
-**TASK 1 Theme 1 Card F**
 
-#### **ROLE PLAY**
 
-#### **Indicative content**
+## TASK 1 Theme 1 Card E
 
-- **Bonjour je peux vous aider ?**
-- 1. Say what sport you like. [1](#page-49-0)
-  - **Super voici des informations !**
-- 2. Say which sport you want to do. [2](#page-49-1)
-  - **D'accord, je vais vous réserver une place.**
-- 3. Ask how much it costs. [3](#page-49-2)
-  - **C'est gratuit pendant les vacances scolaires.**
-- 4. Say when you are going to return. [4](#page-49-3)
-  - **Mais oui, il faut en profiter !**
+## Indicative content
 
-<span id="page-49-1"></span><span id="page-49-0"></span>
+- Bonjour, je peux vous aider ?
+1.   Say what item of clothing you want. 1
+- Ah oui, par ici. Vous faites quelle taille ?
+2.   Say what size you want. 2
+- Voilà. Vous pouvez l'essayer là-bas.
+3.   Ask if they have the item in a different colour. 3
+- Nous avons la même chose en rouge.
+4.   Say that you are going to buy the item. 4
+- C'est un très bon choix.
 
-<sup>1</sup> J'aime la natation : accept any suitable response 2 Je veux faire de la natation : accept any suitable response
+Look for and reward any valid alternatives.
 
-<span id="page-49-2"></span><sup>3</sup> Ça coûte/c'est combien ? : accept any suitable question
+1  Je veux un tee shirt : accept any suitable response
 
-<span id="page-49-3"></span><sup>4</sup> Je vais retourner lundi ! : accept any suitable response
+2  Je suis de taille moyenne : accept any suitable response
+
+3  Est-ce que vous avez le tee shirt dans une couleur différente ? : accept any suitable question
+
+4  Je vais acheter le tee shirt : accept any suitable response
+
+## ROLE PLAY
+
+
 
 {50}------------------------------------------------
 
-**TASK 1 Theme 2 Card A**
 
-#### **ROLE PLAY**
 
-- **Bonjour, je peux vous aider ?**
-- 1. Say you would like to book a bedroom. [1](#page-50-0)
-  - **Bien sûr. C'est pour quelle date ?**
-- 2. Say which date you want to book for.[2](#page-50-1)
-  - **D'accord. Et vous voulez rester combien de nuits ?**
-- 3. Say how long you want to stay there. [3](#page-50-2)
-  - **Oui, c'est possible**. [4](#page-50-3)
-- 4. Ask how much it costs.
-  - **Ça va coûter 50€ par nuit.**
+## TASK 1 Theme 1 Card F
 
-<span id="page-50-0"></span><sup>1</sup> Je voudrais réserver une chambre : accept any suitable response
+## Indicative content
 
-<span id="page-50-1"></span><sup>2</sup> C'est pour le weekend prochain : accept any suitable response
+- Bonjour je peux vous aider ?
+1.   Say what sport you like. 1
+- Super voici des informations !
+2.   Say which sport you want to do. 2
+- D'accord, je vais vous réserver une place.
+3.   Ask how much it costs. 3
+- C'est gratuit pendant les vacances scolaires.
+4.   Say when you are going to return. 4
+- Mais oui, il faut en profiter !
 
-<sup>3</sup> Je veux rester trois nuits : accept any suitable question
+Look for and reward any valid alternatives.
 
-<span id="page-50-3"></span><span id="page-50-2"></span><sup>4</sup> Ça coûte combien par nuit ? : accept any suitable question
+1  J'aime la natation : accept any suitable response
+
+2  Je veux faire de la natation : accept any suitable response
+
+3  Ça coûte/c'est combien ? : accept any suitable question
+
+4  Je vais retourner lundi ! : accept any suitable response
+
+## ROLE PLAY
+
+
 
 {51}------------------------------------------------
 
-**TASK 1 Theme 2 Card B**
 
-#### **ROLE PLAY**
 
-- **Bonjour. Je peux vous aider ?**
-- 1. Say that you would like to buy a ticket.[1](#page-51-0)
-  - **Bien sûr. Où est-ce que vous allez ?**
-- 2. Say that you are visiting Paris.[2](#page-51-1)
-  - **C'est pour quelle date ?**
-- 3. Say when you want to travel. [3](#page-51-2)
-  - **Oui, pas de problème.**
-- 4. Ask if you must change trains.[4](#page-51-3)
-  - **Non, c'est direct.**
+## TASK 1 Theme 2 Card A
 
-<span id="page-51-1"></span><span id="page-51-0"></span>![](_page_51_Picture_13.jpeg)
+## Indicative content
 
-<sup>2</sup> Je visite Paris : accept any suitable response
+- Bonjour, je peux vous aider ?
+1.   Say you would like to book a bedroom. 1
+- Bien sûr. C'est pour quelle date ?
+2.   Say which date you want to book for. 2
+- D'accord. Et vous voulez rester combien de nuits ?
+3.   Say how long you want to stay there. 3
+- Oui, c'est possible . 4
+4.   Ask how much it costs.
+- Ça va coûter 50€ par nuit.
 
-<span id="page-51-2"></span><sup>3</sup> Je veux voyager le 10 juin : accept any suitable response
+1  Je voudrais réserver une chambre : accept any suitable response
 
-<span id="page-51-3"></span><sup>4</sup> Est-ce que je dois changer de train ? : accept any suitable question
+2  C'est pour le weekend prochain : accept any suitable response
+
+3  Je veux rester trois nuits : accept any suitable question
+
+4  Ça coûte combien par nuit ? : accept any suitable question
+
+## ROLE PLAY
+
+
 
 {52}------------------------------------------------
 
-**TASK 1 Theme 2 Card C**
 
-#### **ROLE PLAY**
 
-- **Bonsoir, je peux vous aider ?**
-- 1. Ask for a table for two people. [1](#page-52-0)
-  - **Oui, où préférez-vous vous asseoir ?**
-- 2. Say where you would like your table to be. [2](#page-52-1)
-  - **Voilà. Qu'est-ce que vous voulez manger ?**
-- 3. Say what food you want to order. [3](#page-52-2)
-  - **Très bon choix.**
-- 4 Ask where the toilets are. [4](#page-52-3)
-  - **Là-bas, à gauche.**
+## TASK 1 Theme 2 Card B
 
-<span id="page-52-0"></span><sup>1</sup> avez-vous une table pour deux personnes ? : accept any suitable response
+## Indicative content
 
-<span id="page-52-1"></span><sup>2</sup> Je voudrais une table dehors : accept any suitable response
+- Bonjour. Je peux vous aider ?
+1. Say that you would like to buy a ticket. 1
+- Bien sûr. Où est-ce que vous allez ?
+2. Say that you are visiting Paris. 2
+- C'est pour quelle date ?
+3. Say when you want to travel. 3
+- Oui, pas de problème.
+4. Ask if you must change trains. 4
+- Non, c'est direct.
 
-<sup>3</sup> Je prends un steak-frites : accept any suitable response
+1  Je voudrais acheter un billet : accept any suitable response
 
-<span id="page-52-3"></span><span id="page-52-2"></span><sup>4</sup> Où sont les toilettes ? : accept any suitable question
+2  Je visite Paris : accept any suitable response
+
+3  Je veux voyager le 10 juin : accept any suitable response
+
+4  Est-ce que je dois changer de train ? : accept any suitable question
+
+## ROLE PLAY
+
+
 
 {53}------------------------------------------------
 
-**TASK 1 Theme 2 Card D**
 
-#### **ROLE PLAY**
 
-- **Quelle attraction est-ce que tu veux visiter pendant ton séjour ?**
-- 1. Say which tourist attraction you want to visit.[1](#page-53-0)
-  - **Pourquoi est-ce que tu veux aller là-bas ?**
-- 2. Say why you want to go there.[2](#page-53-1)
-  - **D'accord. On peut y aller plus tard.**
-- 3. Ask where you are eating this evening. [3](#page-53-2)
-  - **Au restaurant. Qu'est-ce que tu voudrais manger ?**
-- 4. Say what you would like to eat. [4](#page-53-3)
-  - **Alors, je connais un bon restaurant !**
+## TASK 1 Theme 2 Card C
 
-<span id="page-53-1"></span><span id="page-53-0"></span><sup>1</sup> Je veux visiter le musée : accept any suitable response
+## Indicative content
 
-<sup>2</sup> J'adore l'histoire : accept any suitable response
+- Bonsoir, je peux vous aider ?
+1.   Ask for a table for two people. 1
+- Oui, où préférez-vous vous asseoir ?
+2.   Say where you would like your table to be. 2
+- Voilà. Qu'est-ce que vous voulez manger ?
+3.   Say what food you want to order. 3
+- Très bon choix.
+- 4 Ask where the toilets are. 4
+- Là-bas, à gauche.
 
-<span id="page-53-2"></span><sup>3</sup> On mange où ce soir ? : accept any suitable question
+1  avez-vous une table pour deux personnes ? : accept any suitable response
 
-<span id="page-53-3"></span><sup>4</sup> Je voudrais manger une pizza : accept any suitable response
+2  Je voudrais une table dehors : accept any suitable response
+
+3  Je prends un steak-frites : accept any suitable response
+
+4  Où sont les toilettes ? : accept any suitable question
+
+## ROLE PLAY
+
+
 
 {54}------------------------------------------------
 
-**TASK 1 Theme 2 Card E**
 
-#### **ROLE PLAY**
 
-#### **Indicative content**
+## TASK 1 Theme 2 Card D
 
-- **Vous êtes perdu ?**
-- 1. Say that you are looking for the museum. [1](#page-54-0)
-  - **Alors, descendez cette rue et prenez la deuxième à gauche.**
-- 2. Ask if there are any good restaurants here. [2](#page-54-1)
-  - **Vous aimez quelle sorte de cuisine ?**
-- 3. Say what food you would like to eat. [3](#page-54-2)
-  - **Il y a un bon restaurant à côté du musée. Vous partez quand ?**
-- 4. Say when you are leaving. [4](#page-54-3)
-  - **Alors, vous devriez visiter le château avant de partir.**
+## Indicative content
 
-© WJEC CBAC Ltd. 2024
+- Quelle attraction est-ce que tu veux visiter pendant ton séjour ?
+1.   Say which tourist attraction you want to visit. 1
+- Pourquoi est-ce que tu veux aller là-bas ?
+2.   Say why you want to go there. 2
+- D'accord. On peut y aller plus tard.
+3.   Ask where you are eating this evening. 3
+- Au restaurant. Qu'est-ce que tu voudrais manger ?
+4.   Say what you would like to eat. 4
+- Alors, je connais un bon restaurant !
 
-<span id="page-54-0"></span><sup>1</sup>Je cherche le musée : accept any suitable response
+1  Je veux visiter le musée : accept any suitable response
 
-<span id="page-54-1"></span><sup>2</sup> Est-ce qu'il y a de bons restaurants ici ? : accept any suitable response
+2  J'adore l'histoire : accept any suitable response
 
-<sup>3</sup> Je voudrais manger la cuisine française : accept any suitable response
+3  On mange où ce soir ? : accept any suitable question
 
-<span id="page-54-3"></span><span id="page-54-2"></span><sup>4</sup> Je vais partir dans trois jours ? : accept any suitable response
+4  Je voudrais manger une pizza : accept any suitable response
+
+## ROLE PLAY
+
+
 
 {55}------------------------------------------------
 
-**TASK 1 Theme 2 Card F**
 
-#### **ROLE PLAY**
 
-- **Bonjour et bienvenue au camping.**
-- 1. Say that you have a reservation. [1](#page-55-0)
-  - **Très bien, c'est à quel nom ?**
-- 2. Say what your surname is and spell it. [2](#page-55-1)
-  - **Vous voulez commander du pain pour demain ?**
-- 3. Say that you would like some bread. [3](#page-55-2)
-  - **Bien sûr !**
-- 4. Ask at what time the restaurant opens. [4](#page-55-3)
-  - **Tous les jours à 19 heures.**
+## TASK 1 Theme 2 Card E
 
-<span id="page-55-0"></span><sup>1</sup> J'ai une réservation : accept any suitable response
+## Indicative content
 
-<span id="page-55-1"></span><sup>2</sup> C'est Smith, S M I T H : accept any suitable response
+- Vous êtes perdu ?
+1. Say that you are looking for the museum. 1
+- Alors, descendez cette rue et prenez la deuxième à gauche.
+2.   Ask if there are any good restaurants here. 2
+- Vous aimez quelle sorte de cuisine ?
+3. Say what food you would like to eat. 3
+- Il y a un bon restaurant à côté du musée. Vous partez quand ?
+4.   Say when you are leaving. 4
+- Alors, vous devriez visiter le château avant de partir.
 
-<span id="page-55-2"></span><sup>3</sup> Je voudrais une baguette : accept any suitable response
+1 Je cherche le musée : accept any suitable response
 
-<span id="page-55-3"></span><sup>4</sup> Le restaurant ouvre à quelle heure ? : accept any suitable question
+2  Est-ce qu'il y a de bons restaurants ici ? : accept any suitable response
+
+3  Je voudrais manger la cuisine française : accept any suitable response
+
+4  Je vais partir dans trois jours ? : accept any suitable response
+
+## ROLE PLAY
+
+
 
 {56}------------------------------------------------
 
-#### **Task 2**
+
+
+## TASK 1 Theme 2 Card F
+
+## Indicative content
+
+- Bonjour et bienvenue au camping.
+1.   Say that you have a reservation. 1
+- Très bien, c'est à quel nom ?
+2.   Say what your surname is and spell it. 2
+- Vous voulez commander du pain pour demain ?
+3.   Say that you would like some bread. 3
+- Bien sûr !
+4.   Ask at what time the restaurant opens. 4
+- Tous les jours à 19 heures.
+
+1  J'ai une réservation : accept any suitable response
+
+2  C'est Smith, S M I T H : accept any suitable response
+
+3  Je voudrais une baguette : accept any suitable response
+
+4  Le restaurant ouvre à quelle heure ? : accept any suitable question
+
+## ROLE PLAY
+
+
+
+{57}------------------------------------------------
+
+
+
+## Task 2
 
 This task tests the candidate's ability to communicate in speech.
 
 Each candidate will be required to give a presentation followed by a discussion based on the presentation.
 
-#### **Task 2 – Presentation and discussion** (24 marks)
+## Task 2 - Presentation and discussion (24 marks)
 
-#### **Assessment Grids for Task 2a (Presentation) (9 marks) The following Assessment Objectives are tested in task 2a:**
+## Assessment Grids for Task 2a (Presentation) (9 marks)
+
+The following Assessment Objectives are tested in task 2a:
 
 - AO1 Understand and respond to spoken language through communication and expression in speaking
 - AO3 Demonstrate knowledge of grammar, vocabulary, and sound-spelling correspondence.
 
-#### **AO1: (6 marks for communication and expression in speaking)**
+## AO1: (6 marks for communication and expression in speaking)
 
-| Band | Marks [6] | AO1 Understand and respond to spoken language through communication and expression in speaking |
-|------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 5-6 | <ul><li>Consistently communicates information, always describes and narrates events.</li><li>Able to consistently develop ideas with extended responses.</li><li>The message is always comprehensible.</li></ul> |
-| 2 | 3-4 | <ul><li>Communicates information, frequently describes and narrates events.</li><li>Able to develop ideas with some extended responses.</li><li>The message is generally comprehensible.</li></ul> |
-| 1 | 1-2 | <ul><li>Communicates minimal information.</li><li>May need some teacher prompting.</li><li>Limited ideas expressed, often without extension.</li><li>The message is sometimes unclear.</li></ul> |
-| 0    | 0         | Response not worthy of credit.                                                                                                                                                                            |
+|   Band | Marks [6]   | AO1 Understand and respond to spoken language through communication and expression in speaking                                                                                       |
+|--------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      3 | 5-6         | • Consistently communicates information, always describes and narrates events. • Able to consistently develop ideas with extended responses. • The message is always comprehensible. |
+|      2 | 3-4         | • Communicates information, frequently describes and narrates events. • Able to develop ideas with some extended responses. • The message is generally comprehensible.               |
+|      1 | 1-2         | • Communicates minimal information. • May need some teacher prompting. • Limited ideas expressed, often without extension. • The message is sometimes unclear.                       |
+|      0 | 0           | Response not worthy of credit.                                                                                                                                                       |
 
-#### **AO3: (3 marks for demonstration of sound-spelling correspondence)**
+## AO3: (3 marks for demonstration of sound-spelling correspondence)
 
-| Mark | Descriptor                                                                                                     |  |  |
-|------|----------------------------------------------------------------------------------------------------------------|--|--|
-| 3 | Consistently accurate pronunciation and intonation, with few lapses which do not impede comprehension. |  |  |
-| 2 | Occasionally accurate pronunciation and intonation, with some lapses which may impede comprehension. |  |  |
-| 1 | Minimal accurate pronunciation and intonation, with frequent lapses which frequently impedes comprehension. |  |  |
-| 0    | The response is not worthy of credit                                                                           |  |  |
+|   Mark | Descriptor                                                                                                  |
+|--------|-------------------------------------------------------------------------------------------------------------|
+|      3 | Consistently accurate pronunciation and intonation, with few lapses which do not impede comprehension.      |
+|      2 | Occasionally accurate pronunciation and intonation, with some lapses which may impede comprehension.        |
+|      1 | Minimal accurate pronunciation and intonation, with frequent lapses which frequently impedes comprehension. |
+|      0 | The response is not worthy of credit                                                                        |
 
-{57}------------------------------------------------
 
-#### **Assessment Grid for Task 2b (Discussion) (15 marks) AO1: (10 marks)**
-
-| Band | Marks [10] | AO1 Understand and respond to spoken language through communication and expression in speaking |
-|------|------------|-----------------------------------------------------------------------------------------------------------|
-| 5 | 9-10 | <ul><li>Responds appropriately to all questions.</li><li>The message is always comprehensible.</li></ul> |
-| 4 | 7-8 | <ul><li>Responds appropriately to almost all questions.</li><li>The message is almost always comprehensible.</li></ul> |
-| 3 | 5-6 | <ul><li>Responds appropriately to most questions.</li><li>The message is mostly comprehensible.</li></ul> |
-| 2 | 3-4 | <ul><li>Responds appropriately to few questions.</li><li>The message is often unclear.</li></ul> |
-| 1 | 1-2 | <ul><li>Responds to few questions.</li><li>The message frequently breaks down.</li></ul> |
-| 0    | 0          | Response not worthy of credit.                                                                            |
-
-#### **AO3: (5 marks)**
-
-| Band | Marks [5] | AO3 Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence. |
-|------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | 5 | <ul><li>A wide variety of relevant vocabulary and structures are used.</li><li>Consistently accurate language – any errors are minor.</li></ul> |
-| 4 | 4 | <ul><li>A variety of relevant vocabulary and structures are used.</li><li>Accurate language – there may be few minor errors and very few major errors.</li></ul> |
-| 3 | 3 | <ul><li>Generally relevant vocabulary and structures are used.</li><li>Generally accurate language – there may be some minor errors and few major errors.</li></ul> |
-| 2 | 2 | <ul><li>Some relevant vocabulary and structures are used.</li><li>Some accurate language – there may be frequent minor errors and some major errors.</li></ul> |
-| 1 | 1 | <ul><li>Limited relevant vocabulary and structures are used.</li><li>Limited accuracy – there may be frequent errors both major and minor.</li></ul> |
-| 0    | 0         | Response not worthy of credit.                                                                                                                            |
-
-A major error may impact communication. A minor error may not impact communication.
 
 {58}------------------------------------------------
 
-#### **Assessment Grids for Task 3 (25 marks)**
 
-#### **AO1 (20 marks)**
 
-| Band | Marks [20] | AO1 Understand and respond to spoken language through communication and expression in speaking |
-|------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | 17-20 | <ul><li>Responds appropriately to all questions.</li><li>Able to consistently develop ideas with extended responses.</li><li>Explain points of view.</li><li>Different time frames are always accurate.</li><li>The message is always comprehensible.</li></ul> |
-| 4 | 13-16 | <ul><li>Responds appropriately to almost all questions.</li><li>Able to develop ideas with extended responses.</li><li>Express factual information and points of view.</li><li>Different time frames are mostly accurate.</li><li>The message is almost always comprehensible.</li></ul> |
-| 3 | 9-12 | <ul><li>Responds appropriately to most questions.</li><li>Able to develop some ideas with occasional extended responses.</li><li>Express points of view.</li><li>Different time frames are generally accurate.</li><li>The message is mostly comprehensible.</li></ul> |
-| 2 | 5-8 | <ul><li>Responds appropriately to few questions.</li><li>Able to express some ideas but response is rarely extended.</li><li>Express simple opinions.</li><li>Different time frames are sometimes accurate.</li><li>The message is often unclear.</li></ul> |
-| 1 | 1-4 | <ul><li>Responds to few questions.</li><li>Limited ideas expressed, often without extension.</li><li>Conveys minimal information.</li><li>Time frames are rarely accurate.</li><li>The message frequently breaks down.</li></ul> |
-| 0    | 0          | Response not worthy of credit.                                                                                                                                                                                                                                              |
+## Assessment Grid for Task 2b (Discussion) (15 marks) AO1: (10 marks)
 
-{59}------------------------------------------------
+|   Band | Marks [10]   | AO1 Understand and respond to spoken language through communication and expression in speaking   |
+|--------|--------------|--------------------------------------------------------------------------------------------------|
+|      5 | 9-10         | • Responds appropriately to all questions. • The message is always comprehensible.               |
+|      4 | 7-8          | • Responds appropriately to almost all questions. • The message is almost always comprehensible. |
+|      3 | 5-6          | • Responds appropriately to most questions. • The message is mostly comprehensible.              |
+|      2 | 3-4          | • Responds appropriately to few questions. • The message is often unclear.                       |
+|      1 | 1-2          | • Responds to few questions. • The message frequently breaks down.                               |
+|      0 | 0            | Response not worthy of credit.                                                                   |
 
-#### **AO3 (5 marks)**
+## AO3: (5 marks)
 
-| Band | Marks [5] | AO3 Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence. |
-|------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | 5 | <ul><li>A wide variety of relevant vocabulary and structures are used.</li><li>Consistently accurate language – any errors are minor.</li></ul> |
-| 4 | 4 | <ul><li>A variety of vocabulary and structures are used.</li><li>Accurate language – there may be few minor errors and very few major errors.</li></ul> |
-| 3 | 3 | <ul><li>Generally relevant vocabulary and structures are used.</li><li>Generally accurate language – there may be some minor errors and few major errors.</li></ul> |
-| 2 | 2 | <ul><li>Some relevant vocabulary and structures are used.</li><li>Some accurate language – there may be frequent minor errors and some major errors.</li></ul> |
-| 1 | 1 | <ul><li>Limited vocabulary is used.</li><li>Limited accuracy – there may be frequent errors both major and minor.</li></ul> |
-| 0    | 0         | Response not worthy of credit.                                                                                                                            |
+|   Band |   Marks [5] | AO3 Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence.                                                           |
+|--------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 |           5 | • A wide variety of relevant vocabulary and structures are used. • Consistently accurate language - any errors are minor.                     |
+|      4 |           4 | • A variety of relevant vocabulary and structures are used. • Accurate language - there may be few minor errors and very few major errors.    |
+|      3 |           3 | • Generally relevant vocabulary and structures are used. • Generally accurate language - there may be some minor errors and few major errors. |
+|      2 |           2 | • Some relevant vocabulary and structures are used. • Some accurate language - there may be frequent minor errors and some major errors.      |
+|      1 |           1 | • Limited relevant vocabulary and structures are used. • Limited accuracy - there may be frequent errors both major and minor.                |
+|      0 |           0 | Response not worthy of credit.                                                                                                                |
 
 A major error may impact communication.
 
 A minor error may not impact communication.
 
+
+
+{59}------------------------------------------------
+
+
+
+## Assessment Grids for Task 3 (25 marks)
+
+## AO1 (20 marks)
+
+|   Band | Marks [20]   | AO1 Understand and respond to spoken language through communication and expression in speaking                                                                                                                                                   |
+|--------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 | 17-20        | • Responds appropriately to all questions. • Able to consistently develop ideas with extended responses. • Explain points of view. • Different time frames are always accurate. • The message is always comprehensible.                          |
+|      4 | 13-16        | • Responds appropriately to almost all questions. • Able to develop ideas with extended responses. • Express factual information and points of view. • Different time frames are mostly accurate. • The message is almost always comprehensible. |
+|      3 | 9-12         | • Responds appropriately to most questions. • Able to develop some ideas with occasional extended responses. • Express points of view. • Different time frames are generally accurate. • The message is mostly comprehensible.                   |
+|      2 | 5-8          | • Responds appropriately to few questions. • Able to express some ideas but response is rarely extended. • Express simple opinions. • Different time frames are sometimes accurate. • The message is often unclear.                              |
+|      1 | 1-4          | • Responds to few questions. • Limited ideas expressed, often without extension. • Conveys minimal information. • Time frames are rarely accurate. • The message frequently breaks down.                                                         |
+|      0 | 0            | Response not worthy of credit.                                                                                                                                                                                                                   |
+
+
+
 {60}------------------------------------------------
 
-#### <span id="page-60-0"></span>**Mapping of tasks to assessment objectives**
 
-#### **Unit 1**
 
-| Task                              | Mark allocation |           |           |           |  |  |  |  |  |  |  |
-|-----------------------------------|-----------------|-----------|-----------|-----------|--|--|--|--|--|--|--|
-|                                   | Total Marks     | AO1 Marks | AO2 Marks | AO3 Marks |  |  |  |  |  |  |  |
-| 1. Role play                      | 11              | 0         | 8         | 3         |  |  |  |  |  |  |  |
-| 2. Presentation and discussion | 24 | 16 | 0 | 8 |  |  |  |  |  |  |  |
-| 3. Conversation                   | 25              | 20        | 0         | 5         |  |  |  |  |  |  |  |
-| Total marks                       | 60              | 36        | 8         | 16        |  |  |  |  |  |  |  |
+## AO3 (5 marks)
 
-![](_page_60_Picture_4.jpeg)
+|   Band |   Marks [5] | AO3 Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence.                                                           |
+|--------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 |           5 | • A wide variety of relevant vocabulary and structures are used. • Consistently accurate language - any errors are minor.                     |
+|      4 |           4 | • A variety of vocabulary and structures are used. • Accurate language - there may be few minor errors and very few major errors.             |
+|      3 |           3 | • Generally relevant vocabulary and structures are used. • Generally accurate language - there may be some minor errors and few major errors. |
+|      2 |           2 | • Some relevant vocabulary and structures are used. • Some accurate language - there may be frequent minor errors and some major errors.      |
+|      1 |           1 | • Limited vocabulary is used. • Limited accuracy - there may be frequent errors both major and minor.                                         |
+|      0 |           0 | Response not worthy of credit.                                                                                                                |
+
+A major error may impact communication. A minor error may not impact communication.
+
+
 
 {61}------------------------------------------------
 
-#### <span id="page-61-0"></span>**Information for candidates**
 
-The following information has been taken from the [JCQ Information for candidates –](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) non[examination assessments](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) and the [JCQ Artificial Intelligence \(AI\) Use in Assessments:](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/)  [Protecting the Integrity of Qualifications.](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/) This tells you about things that you **must** and **must not** do when you are completing your assessment. If there is anything that you do not understand, you **must** ask your teacher.
 
-#### **Preparing your work**
+## Mapping of tasks to assessment objectives
 
-- <span id="page-61-1"></span>• When you submit your work and sign your candidate declaration form, you need to ensure that your final product reflects your own independent work and isn't copied or paraphrased from another source such as an AI tool.
-- If you receive help and guidance from someone other than your teacher, you **must** tell your teacher who will then record the nature of the assistance given to you.
-- If you worked as part of a group on a task, you **must** each write up your own account of the assignment. Even if the data you have is the same, you **must** describe in your own words how that data was obtained, and you **must** independently draw your own conclusions from the data.
-- Take care of your work and keep it safe. **Do not** leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You **must** always keep your work secure and confidential whilst you are preparing it; **do not** share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
-- **Do not** be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) – this is cheating. Electronic tools used by WJEC can detect this sort of copying.
-- <span id="page-61-2"></span>• You **must not** write inappropriate, offensive or obscene material.
+Unit 1
 
-#### **Plagiarism**
+| Task                           | Mark allocation   | Mark allocation   | Mark allocation   | Mark allocation   |
+|--------------------------------|-------------------|-------------------|-------------------|-------------------|
+|                                | Total Marks       | AO1 Marks         | AO2 Marks         | AO3 Marks         |
+| 1. Role play 11                |                   | 0                 | 8                 | 3                 |
+| 2. Presentation and discussion | 24                | 16                | 0                 | 8                 |
+| 3. Conversation                | 25                | 20                | 0                 | 5                 |
+| Total marks                    | 60                | 36                | 8                 | 16                |
 
-Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. **It is a form of cheating which is taken very seriously.** Don't think you won't be caught; there are many ways to detect plagiarism:
+
+
+{62}------------------------------------------------
+
+
+
+## Information for candidates
+
+The following information has been taken from the JCQ Information for candidates - nonexamination assessments and the JCQ Artificial Intelligence (AI) Use in Assessments: Protecting the Integrity of Qualifications. This tells you about things that you must and must not do when you are completing your assessment. If there is anything that you do not understand, you must ask your teacher.
+
+## Preparing your work
+
+- When you submit your work and sign your candidate declaration form, you need to ensure that your final product reflects your own independent work and isn't copied or paraphrased from another source such as an AI tool.
+- If you receive help and guidance from someone other than your teacher, you must tell your teacher who will then record the nature of the assistance given to you.
+- If you worked as part of a group on a task, you must each write up your own account of the assignment. Even if the data you have is the same, you must describe in your own words how that data was obtained, and you must independently draw your own conclusions from the data.
+- Take care of your work and keep it safe. Do not leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You must always keep your work secure and confidential whilst you are preparing it; do not share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
+- Do not be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) - this is cheating. Electronic tools used by WJEC can detect this sort of copying.
+- You must not write inappropriate, offensive or obscene material.
+
+## Plagiarism
+
+Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. It is a form of cheating which is taken very seriously. Don't think you won't be caught; there are many ways to detect plagiarism:
 
 - Markers can spot changes in the style of writing and use of language.
-- Markers are highly experienced subject specialists they may have read the source you are using, or even marked the work you have copied from!
+- Markers are highly experienced subject specialists - they may have read the source you are using, or even marked the work you have copied from!
 - Internet search engines and specialised computer software can be used to match phrases or pieces of text with original sources and to detect changes in the grammar and style of writing or punctuation.
 
-#### **Penalties for breaking the regulations**
+## Penalties for breaking the regulations
 
-<span id="page-61-3"></span>If it is discovered that you have broken the regulations, one of the following penalties will be applied:
+If it is discovered that you have broken the regulations, one of the following penalties will be applied:
 
 - the piece of work will be awarded zero marks
 - you will be disqualified from that unit for the assessment series in question
@@ -1647,98 +1925,136 @@ Plagiarism involves taking someone else's words, thoughts or ideas and trying to
 
 WJEC will decide which penalty is appropriate.
 
-**Remember – it's your qualification so it needs to be your own work.**
+Remember - it's your qualification so it needs to be your own work.
 
-{62}------------------------------------------------
 
-![](_page_62_Picture_1.jpeg)
 
 {63}------------------------------------------------
 
-### <span id="page-63-0"></span>Candidate Declaration Form
 
-#### **You must complete Part A and Part B of this form**
 
-| Centre No:       | Centre Name:       |
-|------------------|--------------------|
-| Candidate No: | Candidate Name: |
-| Unit Title:      |                    |
+© WJEC CBAC Ltd. 2024
 
-#### **Part A: Candidate Declaration**
+CYFRINACHOL - CONFIDENTIAL
 
-| References: Give details of the exact source of any non-original material used in the assignment. | List of software packages/AI tools/chatbots1 : Give brief details of how these have been used in the assignment. |  |  |  |  |
-|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-|                                                                                                      |                                                                                                                           |  |  |  |  |
 
-#### **Authentication Declaration**
-
-I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
-
-| Candidate Signature: |  | Date: |
-|----------------------|--|-------|
-
-<span id="page-63-1"></span><sup>1</sup> Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 [\(https://openai.com/blog/chatgpt/\)](https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used. This must be submitted with your work, so your teacher/assessor is able to review the work, the AI-generated content and how it has been used.
 
 {64}------------------------------------------------
 
-## <span id="page-64-0"></span>Candidate Time Record Sheet
 
-| Centre No:                |                                |    |  |  | Centre Name:                                                                             |       |       |                                   |
-|---------------------------|--------------------------------|----|--|--|------------------------------------------------------------------------------------------|-------|-------|-----------------------------------|
-| Candidate No: |  |  |  |  | Candidate Name: |  |  |  |
-| Unit Title:               |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  | The total time allowed must not exceed 2 hours 20 minutes.                               |       |       |                                   |
-|                           | Dates                          |    |  |  |                                                                                          |       |       | Time Allowed (2 hours 20 minutes) |
-| DD                        | MM                             | YY |  |  |                                                                                          | Hours |       | Minutes                           |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  |                                                                                          |       |       |                                   |
-|                           |                                |    |  |  | I certify that all candidates entered were informed of the above dates.                  |       |       |                                   |
-| Supervisors Signature: |  |  |  |  |  |  | Date: |  |
-|                           | assistance beyond that allowed |    |  |  | I confirm that the evidence submitted for assessment has been produced by me without any |       |       |                                   |
-| Candidate's Signature: |  |  |  |  |  |  | Date: |  |
+
+## Candidate Declaration Form
+
+## You must complete Part A and Part B of this form
+
+Centre No:
+
+Centre Name:
+
+Candidate No:
+
+Candidate Name:
+
+Unit Title:
+
+## Part A: Candidate Declaration
+
+References: Give details of the exact source of any non-original material used in the assignment.
+
+List of software packages/AI tools/chatbots 1 : Give brief details of how these have been used in the assignment.
+
+## Authentication Declaration
+
+I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
+
+Candidate Signature:
+
+Date:
+
+1  Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 (https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used.  This must be submitted with your work, so your teacher/assessor is able to review the work, the AI-generated content and how it has been used.
+
+
 
 {65}------------------------------------------------
 
-# Centre Form
 
-#### **Centre Number:**
 
-<span id="page-65-0"></span>
+## Candidate Time Record Sheet
 
-| Candidate order and candidate number e.g.: 1. 20056 | Candidate name | Role Play e.g. Card (1a) | Presentation e.g. Theme 3 | Conversation e.g. Theme 2 | Date |
-|-----------------------------------------------------------|----------------|-----------------------------|------------------------------|------------------------------|------|
-| 1.                                                        |                |                             |                              |                              |      |
-| 2.                                                        |                |                             |                              |                              |      |
-| 3.                                                        |                |                             |                              |                              |      |
-| 4.                                                        |                |                             |                              |                              |      |
-| 5.                                                        |                |                             |                              |                              |      |
-| 6.                                                        |                |                             |                              |                              |      |
-| 7.                                                        |                |                             |                              |                              |      |
-| 8.                                                        |                |                             |                              |                              |      |
-| 9.                                                        |                |                             |                              |                              |      |
-| 10.                                                       |                |                             |                              |                              |      |
-| 11.                                                       |                |                             |                              |                              |      |
-| 12.                                                       |                |                             |                              |                              |      |
-| 13.                                                       |                |                             |                              |                              |      |
-| 14.                                                       |                |                             |                              |                              |      |
-| 15.                                                       |                |                             |                              |                              |      |
-| 16.                                                       |                |                             |                              |                              |      |
+Centre No:
+
+Centre Name:
+
+Candidate No:
+
+Candidate Name:
+
+Unit Title:
+
+The total time allowed must not exceed 2 hours 20 minutes.
+
+Dates
+
+Time Allowed (2 hours 20 minutes)
+
+DD
+
+MM
+
+YY
+
+Hours
+
+Minutes
+
+I certify that all candidates entered were informed of the above dates.
+
+Supervisors Signature:
+
+Date:
+
+I confirm that the evidence submitted for assessment has been produced by me without any assistance beyond that allowed
+
+Candidate's Signature:
+
+Date:
+
+
 
 {66}------------------------------------------------
 
-![](_page_66_Picture_1.jpeg)
+
+
+## Centre Form
+
+## Centre Number:
+
+|   Candidate order and candidate number e.g.: 1. 20056 | Candidate name   | Role Play e.g. Card (1a)   | Presentation e.g. Theme 3   | Conversation e.g. Theme 2   | Date   |
+|-------------------------------------------------------|------------------|----------------------------|-----------------------------|-----------------------------|--------|
+|                                                     1 |                  |                            |                             |                             |        |
+|                                                     2 |                  |                            |                             |                             |        |
+|                                                     3 |                  |                            |                             |                             |        |
+|                                                     4 |                  |                            |                             |                             |        |
+|                                                     5 |                  |                            |                             |                             |        |
+|                                                     6 |                  |                            |                             |                             |        |
+|                                                     7 |                  |                            |                             |                             |        |
+|                                                     8 |                  |                            |                             |                             |        |
+|                                                     9 |                  |                            |                             |                             |        |
+|                                                    10 |                  |                            |                             |                             |        |
+|                                                    11 |                  |                            |                             |                             |        |
+|                                                    12 |                  |                            |                             |                             |        |
+|                                                    13 |                  |                            |                             |                             |        |
+|                                                    14 |                  |                            |                             |                             |        |
+|                                                    15 |                  |                            |                             |                             |        |
+|                                                    16 |                  |                            |                             |                             |        |
+
+
 
 {67}------------------------------------------------
 
-# <span id="page-67-0"></span>Appendix – Guide to Controls
+
+
+## Appendix - Guide to Controls
 
 Unit 1 is internally assessed through NEA. Controls are provided to:
 
@@ -1750,72 +2066,96 @@ Unit 1 is internally assessed through NEA. Controls are provided to:
 
 There are a number of different aspects that are controlled within the internal assessment.
 
-#### These are:
+## These are:
 
-- **supervision** how closely candidates should be monitored as they carry out the tasks
-- **guidance** how much help you are allowed to provide candidates as they are completing the tasks
-- **resources** whether candidates are allowed access to any resources as they're completing the tasks and if so, what resources
-- **collaboration**  whether candidates are allowed to work with others as they're completing the tasks.
+- supervision - how closely candidates should be monitored as they carry out the tasks
+- guidance - how much help you are allowed to provide candidates as they are completing the tasks
+- resources - whether candidates are allowed access to any resources as they're completing the tasks and if so, what resources
+- collaboration - whether candidates are allowed to work with others as they're completing the tasks.
 
-#### **Supervision**
+## Supervision
 
-Unit 1 control (for the preparation of the presentation) the level of supervision is **Indirect**.
+Unit 1 control (for the preparation of the presentation) the level of supervision is Indirect .
 
-Unit 1 control (for the assessment of all speaking tasks) the level of supervision is **Direct.**
+Unit 1 control (for the assessment of all speaking tasks) the level of supervision is Direct.
 
 Please see the controls in the table below:
 
-| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Direct | The use of resources is tightly prescribed. The centre must ensure that: <ul><li>all candidates are within direct sight of the supervisor throughout the session(s)</li><li>display materials which might provide assistance are removed or covered</li><li>there is no access to e-mail, the internet or mobile phones</li><li>candidates complete their work independently</li><li>interaction with other candidates does not occur</li><li>no assistance of any description is provided.</li><li>candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.</li></ul> |
-|  | Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
+<!-- image -->
+
+| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Direct | The use of resources is tightly prescribed. The centre must ensure that: • all candidates are within direct sight of the supervisor throughout the session(s) • display materials which might provide assistance are removed or covered • there is no access to e-mail, the internet or mobile phones • candidates complete their work independently • interaction with other candidates does not occur • no assistance of any description is provided. • candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions. Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
+
+
 
 {68}------------------------------------------------
 
-|          | Candidates do not need to be directly supervised at all times.                                                                                                                                                                                           |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Indirect | The centre must ensure that: <ul><li>all candidates participate in the assessment</li><li>there is sufficient supervision to ensure that work can be authenticated</li><li>the work an individual candidate submits for assessment is his/her own.</li></ul> |
-|  | Candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions. |
 
-#### **Guidance**
 
-Unit 1 control (for the preparation of the presentation) the level of guidance is **Permitted**.
+Indirect
 
-Unit 1 control (for the assessment of all speaking tasks) the level of guidance is **Not Permitted.**
+## Guidance
+
+Unit 1 control (for the preparation of the presentation) the level of guidance is Permitted .
+
+Unit 1 control (for the assessment of all speaking tasks) the level of guidance is Not Permitted.
 
 Please see the controls in the table below:
 
-| Category of Advice/Feedback:                                                                                                   | Not Permitted | Permitted |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------|-----------|
-| Teachers can:                                                                                                                  |               |           |
-| Review candidates' work and provide oral and written advice at a general level in order to secure a functional outcome. | x |  |
-| Evaluate progress to date and propose broad approaches for improvement. | x | x |
-| Provide detailed specific advice on how to improve drafts to meet assessment criteria. | x | x |
-| Give detailed feedback on errors and omissions which leave candidates with no opportunity to show initiative themselves. | x | x |
-| Intervene personally to improve the presentation or content of work. | x | x |
+| Category of Advice/Feedback:                                                                                             | Not Permitted   | Permitted   |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
+| Teachers can:                                                                                                            |                 |             |
+| Review candidates' work and provide oral and written advice at a general level in order to secure a functional outcome.  | x               |            |
+| Evaluate progress to date and propose broad approaches for improvement.                                                  | x               | x           |
+| Provide detailed specific advice on how to improve drafts to meet assessment criteria.                                   | x               | x           |
+| Give detailed feedback on errors and omissions which leave candidates with no opportunity to show initiative themselves. | x               | x           |
+| Intervene personally to improve the presentation or content of work.                                                     | x               | x           |
 
 N.B. In all levels of Guidance, teachers are permitted to intervene/advise on issues of safety.
 
+Candidates do not need to be directly supervised at all times.
+
+The centre must ensure that:
+
+- all candidates participate in the assessment
+- there is sufficient supervision to ensure that work can be authenticated
+- the work an individual candidate submits for assessment is his/her own.
+
+Candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.
+
+
+
 {69}------------------------------------------------
 
-#### **Resources**
+
+
+## Resources
 
 One level of resources features throughout the assessment of Unit 1(other than the preprepared bullet points for the presentation and the notes made on one-side of A4 paper during the preparation time):
 
-![](_page_69_Picture_3.jpeg)
+The use of resources is not allowed.
 
-#### **Collaboration**
+Access to the Internet is not permitted.
+
+Candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.
+
+If the specification allows candidates to bring their own computers or other electronic devices into formally supervised sessions, appropriate checks must be carried out to ensure that all materials stored on the devices is permissible and that access to the internet is disabled.
+
+Not permitted
+
+## Collaboration
 
 Collaboration is not permitted. Candidates must not collaborate in any way during the task.
 
 All work produced must be the candidate's own.
 
-#### **Redrafting**
+## Redrafting
 
 Re-drafting is allowed only within the time of the NEA and without teacher feedback.
 
-#### **Time**
+## Time
 
-The total time candidates are allowed to spend on the Unit 1 (preparation of the presentation) is **2** hours.
+The total time candidates are allowed to spend on the Unit 1 (preparation of the presentation) is 2 hours.
 
-The total time candidates are allowed to spend on the Unit 1 (preparation (immediately before the Unit 1 assessment) and the actual assessment) is **20** minutes.
+The total time candidates are allowed to spend on the Unit 1 (preparation (immediately before the Unit 1 assessment) and the actual assessment) is 20 minutes.
