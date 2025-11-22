@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Geography
@@ -16,7 +18,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -38,6 +52,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Specification Stems ..................................................................................................... 10          |
 | Command words.......................................................................................................... 11            |
 | Important Dates .................................................................................................................. 19 |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Aims of the Delivery Guide
 
@@ -74,6 +94,12 @@ The purpose of this unit is to:
 
 Learners should also develop their mathematical and statistical skills whilst preparing for this Unit. The depth of coverage required of these skills is given in Appendix B on pages 44-45 of the specification.
 
+
+
+{5}------------------------------------------------
+
+
+
 ## Unit 2
 
 ## Developing Fieldwork Skills
@@ -100,6 +126,12 @@ This assessment contributes to 25% of the overall qualification grade and will t
 This unit will be assessed through an externally set assignment and will be set and marked by WJEC. Assessments must be submitted digitally (they may be handwritten and scanned or completed digitally).
 
 Centres will be expected to carry out fieldwork for the Unit 2 enquiry on one day, outside the classroom and school grounds. This must be accompanied by a fieldwork statement, signed by the Head of Centre, outlining the date, location and nature of the fieldwork conducted. Centres are encouraged to undertake further fieldwork during the course, either to support learning or to practice for the Unit 2 enquiry, however this is not required to be declared on the fieldwork statement.
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Unit 3
 
@@ -140,9 +172,21 @@ For this assessment learners are required to undertake a decision-making exercis
 
 The assignment, including the Resource Pack, will be released during the first week of September for assessment in that academic year. The Resource Pack will change annually. Learners should not have access to the Resource Pack until the start of the assessment. Centres have the flexibility to decide when during the year learners undertake the assignment.
 
+
+
+{7}------------------------------------------------
+
+
+
 This assessment contributes to 15% of the overall qualification grade and will take 5 hours to complete. The assignment could be completed in one sitting, or in multiple, shorter sessions. The assignment will be marked out of a total of 60 marks.
 
 This unit will be assessed through an externally set assignment and will be marked by the centre and moderated by WJEC. Assessments must be submitted digitally (they may be handwritten and scanned or completed digitally).
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -194,6 +238,12 @@ Units 1-3 will be available from 2026, with Unit 4 available in 2027.
 
 The first award of the qualification will be 2027.
 
+
+
+{9}------------------------------------------------
+
+
+
 ## Assessment Objectives
 
 ## Unit 1
@@ -228,6 +278,12 @@ The distribution of the assessment objectives for this unit is:
 |-------|-------|-------|---------|
 | 5%    | 5%    | 5%    | 15%     |
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -258,6 +314,12 @@ Each stem is used for a slightly different reason
 | Learners should be aware of | When learners do not need to understand all aspects of the specified content in detail. Teachers should refer to guidance for teaching documents for further guidance on the depth and breadth to which this content should be taught.   |
 | Learners should understand  | When learners are required to demonstrate greater depth than straight identification or recall, for example they can apply knowledge to familiar or unfamiliar contexts and can synthesise and evaluate information for a given purpose. |
 | Learners should be able to  | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques.                                                                                    |
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Command words
 
@@ -293,6 +355,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Sort/ Order                       | Arrange systematically.                                                                                                                                                                                   |
 | State                             | Express in clear terms.                                                                                                                                                                                   |
 
+
+
+{12}------------------------------------------------
+
+
+
 | Command words for application/demonstration of skills:   | Command words for application/demonstration of skills:                                                                                                          |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Command Word                                             | Requirements of response                                                                                                                                        |
@@ -321,6 +389,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Interrogate                                              | Question formally and systematically.                                                                                                                           |
 | Investigate                                              | Carry out research or study into a subject or problem.                                                                                                          |
 
+
+
+{13}------------------------------------------------
+
+
+
 | Make/Produce/Create   | To create/make/manufacture.                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|
 | Modify                | Make changes to give a new orientation to or to serve a new end.                                                |
@@ -347,6 +421,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Translate             | Change words into a different language.                                                                         |
 | Use                   | Apply the information provided to a particular theory or concept. Employ, take or hold something for a purpose. |
 | Write                 | Formulate and write down (for example an algorithm).                                                            |
+
+
+
+{14}------------------------------------------------
+
+
 
 | Command words for synthesis and evaluation   | Command words for synthesis and evaluation                                                                                                                                                     |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -377,6 +457,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Support                                      | To maintain or advocate.                                                                                                                                                                       |
 | Synthesise                                   | Combine information, objects or ideas.                                                                                                                                                         |
 
+
+
+{15}------------------------------------------------
+
+
+
 ## Skills Questions and Assessment Objectives
 
 Skills can cover both AO2 and AO3 questions. Please use the following table as a guide distinguish the difference between the two.
@@ -394,6 +480,12 @@ Skills can cover both AO2 and AO3 questions. Please use the following table as a
 | identifying from a source              | looking at patterns and trends       |
 | labelling                              | predicting                           |
 | measuring                              |                                      |
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Mark Schemes
 
@@ -417,11 +509,23 @@ For short answer questions with a range of possible responses
 | (c)        | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer. | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer. | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer. | Give two reasons why the amount of water in the rivers of a Welsh drainage basin, like the one in Diagram 1, is usually higher in winter than in summer. |
 |            | Award one or two marks for basic reasons, for example: • fewer leaves on trees in winter so less interception of rainfall • precipitation is higher in winter so more water in the rivers • lower temperatures meaning less evaporation from the river surfaces • snow is more likely in winter so adds water to the rivers when melting • winter storms bring more rainfall so more water in the rivers. Award three or four marks for more developed reasons, for example: • fewer leaves on trees in winter so less interception meaning water gets into the rivers more quickly and increases flow/discharge • precipitation is higher in winter, so soil becomes saturated more quickly and water enters rivers more quickly • lower temperatures give frozen ground, so less water is available to evaporate from the rivers • snow is more likely in winter so adds water to rivers when melting, especially if the soil is frozen underneath and infiltration doesn't happen | Award one or two marks for basic reasons, for example: • fewer leaves on trees in winter so less interception of rainfall • precipitation is higher in winter so more water in the rivers • lower temperatures meaning less evaporation from the river surfaces • snow is more likely in winter so adds water to the rivers when melting • winter storms bring more rainfall so more water in the rivers. Award three or four marks for more developed reasons, for example: • fewer leaves on trees in winter so less interception meaning water gets into the rivers more quickly and increases flow/discharge • precipitation is higher in winter, so soil becomes saturated more quickly and water enters rivers more quickly • lower temperatures give frozen ground, so less water is available to evaporate from the rivers • snow is more likely in winter so adds water to rivers when melting, especially if the soil is frozen underneath and infiltration doesn't happen | 4                                                                                                                                                        |                                                                                                                                                          |                                                                                                                                                          | 4                                                                                                                                                        |
 
+
+
+{17}------------------------------------------------
+
+
+
 ## Levels based mark schemes
 
 For questions requiring extended responses
 
 <!-- image -->
+
+
+
+{18}------------------------------------------------
+
+
 
 |   Band | AO2                                                                                                                                                                                                                                                                                                                |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -430,6 +534,12 @@ For questions requiring extended responses
 |      2 | A basic discussion, which demonstrates: • some knowledge and understanding of impacts of international migration • imbalance • partial use of examples which draw on information from different impacts • a generally clear and structured response.                                                               |
 |      1 | 1-2 marks A limited discussion, which demonstrates: • minimal knowledge and understanding of impacts of international migration • a one-sided viewpoint • no use of examples • a lack of clarity in parts, and statements that are linked by a basic structure.                                                    |
 |      0 | 0 marks Response not creditworthy or not attempted.                                                                                                                                                                                                                                                                |
+
+
+
+{19}------------------------------------------------
+
+
 
 ## Important Dates
 

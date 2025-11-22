@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Design and Technology
@@ -16,7 +18,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -27,6 +41,12 @@ This specification meets the requirements of the following regulatory documents 
 ## Copyright
 
 © WJEC CBAC Limited 2025.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## CONTENTS
 
@@ -51,6 +71,12 @@ This specification meets the requirements of the following regulatory documents 
 |                                                                                                            | 5.1                                                                                                                        | Making entries........................................................................................ 46                  |
 |                                                                                                            | 5.2                                                                                                                        | Grading, awarding and reporting ............................................................ 47                            |
 | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 48                        | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 48                                        | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 48                                        |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## GCSE DESIGN AND TECHNOLOGY SUMMARY OF ASSESSMENT
 
@@ -95,6 +121,12 @@ Qualification Approval Number: C00/5167/8
 
 80 marks
 
+
+
+{6}------------------------------------------------
+
+
+
 ## GCSE DESIGN AND TECHNOLOGY
 
 ## 1 INTRODUCTION
@@ -120,6 +152,12 @@ This GCSE Design and Technology qualification is underpinned by the Curriculum f
 In developing this qualification, we have considered where there are opportunities to embed the cross-curricular themes and where there are opportunities for integral skills and cross-curricular skills to be developed. Appendix A provides a simple mapping, and information to support teachers will be provided in the Guidance for Teaching.
 
 We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 42. The Guidance for Teaching will include further information on integrating these learning experiences into delivery.
+
+
+
+{7}------------------------------------------------
+
+
 
 The GCSE Design and Technology qualification supports the Curriculum for Wales by:
 
@@ -156,6 +194,12 @@ The qualification allows learners to develop a strong foundation of knowledge, s
 
 GCSE Design and Technology has been designed to be delivered within 120 -140 guided learning hours. The qualification has been primarily designed as a 2-year programme for learners in years 10 and 11.
 
+
+
+{8}------------------------------------------------
+
+
+
 ## 1.5 Use of language
 
 As our understanding of diversity, equity, and inclusion evolves, so must our language. Updated terminology better reflects individual identities and fosters respect and accuracy. Language used should be specific as possible. Staying informed and adaptable is crucial, as inclusive language promotes dignity and equity. Recognising that language will continue to evolve, we will remain open to further amendments to ensure it accurately represents and supports all individuals. WJEC will inform centres of any amendments and the most up to date version of the specification will always be on the website.
@@ -171,6 +215,12 @@ Access arrangements and reasonable adjustments are made for eligible learners to
 Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website (www.jcq.org.uk).
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
+
+
+
+{9}------------------------------------------------
+
+
 
 ## 2 SUBJECT CONTENT
 
@@ -201,6 +251,12 @@ The use of the word ' including ' indicates that the specified content must be t
 
 The use of the words 'for example' or 'such as' indicates that the specified content is for guidance only, and alternative examples could be chosen.
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Unit 1
 
 ## Design and Technology in the 21 st  Century
@@ -221,6 +277,12 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 - analysing existing products that respond to the users' needs, wants and values
 - developing learners' understanding of factors that affect and influence design including historical, social/cultural, environmental and economic.
 
+
+
+{11}------------------------------------------------
+
+
+
 ## Areas of content
 
 | 1.1 Design and Technology in the 21 st Century (Core Knowledge and Understanding)                                                                                                                                                                       | 1.1 Design and Technology in the 21 st Century (Core Knowledge and Understanding)                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -230,8 +292,20 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 | 1.1.1 New and emerging technologies                                                                                                                                                                                                                     | Learners should know: • how technology impacts product development including: • about market pull • about technology push. Learners should understand: • how new and emerging technologies can impact industry and enterprise • the advantages and disadvantages of computer aided design (CAD) including: • augmented reality • virtual reality • artificial intelligence (AI) • the advantages and disadvantages of computer aided manufacture (CAM) including: • laser cutting • 3D printing • 4D printing. |
 | 1.1.2 Modern and smart materials                                                                                                                                                                                                                        | Learners should know: • about developments in modern and smart materials including: • fibres, fabrics and plastics that respond to the environment or external stimuli • photochromic • thermochromic • micro-encapsulation • SMA - shape memory alloys • Polymorph • Biometrics.                                                                                                                                                                                                                              |
 
+
+
+{12}------------------------------------------------
+
+
+
 | 1.1.3 Sustainable design   | Learners should know: • about the impact of design and technology on users, society, the environment and our world • about the importance of meeting today's needs without compromising the needs of future generations • about consumer rights and protection for consumers when purchasing and using products • about legislation including: • British Standards Institute (BSI) • International Standards Organisation (ISO) • Trade Descriptions Act. Learners should be able to: • conduct a life-cycle analysis of a material or product including: • the environmental impact from cradle to grave. Learners should understand: • the importance of sustainability and environmental responsibilities when designing and making products including: • life cycle analysis (LCA) • circular economy • the 6 Rs of sustainability - rethink, reuse, recycle, repair, reduce, refuse • carbon footprint • sustainable design and built in/planned obsolescence • the responsibilities of designers and manufacturers for example: • the environment • Fair Trade • working conditions. • the impact products have on users and society, including: • global responsibilities and its effects on people and culture • moral and ethical factors related to the manufacture of products, the sale and use of products • the Product Life Cycle (the product ' s commercial life) - introduction, growth, maturity, decline.   |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{13}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -239,8 +313,20 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 |------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.5 Contemporary design thinking; historical and cultural influences | Learners should be able to: • describe how history and culture can influence contemporary design thinking • i dentify and discuss works of past and present designers, including: • Engineering Design pathway only: • Lord Richard Rogers • Mark Rober • Fashion and Textiles pathway only: • Sian O'Doherty • Iris Van Herpen • Product Design pathway only: • Frank Lloyd-Wright • Alessi & Co. Learners should understand: • the cyclic process and principles that support the commercial development of products, including: • design briefs                                                                                                                                                                                                                                                                          |
 
+
+
+{14}------------------------------------------------
+
+
+
 | • design specifications • user centred design • communication of ideas • modelling and testing ideas • working drawings and schedules • manufacturing specifications • quality control. • factors that influence design, including: • ergonomics • anthropometrics • economic • biomimicry.   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{15}------------------------------------------------
+
+
 
 | 1.1(a) Design and Technology in the 21 st Century (Engineering Design)                                                                                                                                                                                                           | 1.1(a) Design and Technology in the 21 st Century (Engineering Design)                                                                                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -285,8 +371,20 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{16}------------------------------------------------
+
+
+
 | 1.1.7 Thermoforming and thermosetting polymers   | Learners should know: • the physical characteristics of thermoplastic and thermosetting plastics, including: • thermoplastics: • acrylic • polyvinyl chloride (PVC) • acrylonitrile butadiene styrene (ABS) • polylactic acid (PLA) • nylon (polyamide) • Styrofoam and blue foam modelling. • thermosetting plastics: • urea formaldehyde • epoxy resins. Learners should be able to: • explain the advantages and disadvantages of using polymers in products including: • sourcing raw materials • life cycle of polymer • single use plastics. Learners should understand: • the physical properties of the named polymers including: • thermal conductivity • electrical conductivity/insulation. • the mechanical properties of the named polymers, including: • tensile strength • toughness • plasticity • malleability • hardness. • non-biodegradable and biodegradable polymers • commonly used industrial manufacturing processes for plastics including: • injection moulding • vacuum forming • extrusion • laser cutter • 3D printing.   |
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{17}------------------------------------------------
+
+
 
 | 1.1.8 Modern, smart and emerging materials and technology   | Learners should be able to: • compare and explain the use of smart materials that are more appropriate for a product or component • identify and explain the benefits and limitations of smart materials. Learners should understand: • the developments in modern and smart materials • materials that respond to the environment or external stimuli including: • shape memory materials - polymers (SMP) and metals (SMA) • thermochromic • photochromic • conductive polymers • micro-encapsulation. • the physical and mechanical properties of named modern materials • the benefits and uses for modern materials including: • carbon fibre • glass reinforced polyester (GRP) • titanium alloy • Kevlar. • the benefits of electrical components that respond to the environment or external stimuli including: • electroluminescent film or wire i.e. LCD • piezoelectric materials • Quantum Tunnelling Composite (QTC). • the advantages and disadvantages of using new and emerging technology in engineering including: • Artificial Intelligence (AI) and Machine Learning (ML) • robotics and automation • 3D Printing (Additive Manufacturing) • Internet of Things (IoT), including: • Wi-Fi connectivity • Bluetooth connection • that emerging technology can be seen as a driving force   |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -294,20 +392,50 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{18}------------------------------------------------
+
+
+
 <!-- image -->
 
 | • phototransistor • light dependent resistor (LDR) • microphone • proximity sensor. • about processing control devices, including: • transistor • thyristor • integrated circuit (ICs) • microcontroller • peripheral / programmable interface controller (PIC). • about output signal receivers, including: • buzzer & piezo • loudspeaker • bulbs • light emitting diode (LED) • liquid crystal display (LCD) • motors - dc motors, servo, stepper • solenoids. • about other commonly uses electrical components in circuits including: • resistors • variable resistors • capacitors • relays. Learners should be able to: • discuss and graphically communicate concepts, including: • circuit diagrams • block diagrams • flowcharts. • read, discuss and amend common system circuit diagrams, including: • transistor circuits • darlington pair circuits • thyristor circuits • programmable interface controller (PIC) circuits • relay circuits - used to operate higher-powered circuits. • recognise the relationships between voltage, current and resistance and calculate ohms law • calculate basic potential divides in circuits. Learners should understand: • the importance of feedback within a system • the use of sub routines or macros to control systems • the benefits and limitations of programmable microcontrollers & peripheral interface controllers (PIC) • that programmable microcontrollers & peripheral interface controllers (PIC) can interface with other devices or systems • that programmable microcontrollers & peripheral Interface controllers (PIC) can be reprogrammed repeatedly.   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{19}------------------------------------------------
+
+
+
 | 1.1.10 Forces and movement   | Learners should know: • the types of movement: linear, reciprocation, rotary, oscillation • the principle of a mechanical device to transform input motion and force into a desired output motion and force • that a mechanical system can be defined as input, process, output • the levers classification, including: • class 1 - fulcrum at the centre of the lever • class 2 - load at the centre of the lever • class 3 - effort at the centre of the lever. Learners should be able to calculate: • velocity ratio: RV of driver*diameter of driver = RV of driven*diameter of driven • velocity ratio for simple and compound gear systems: RV of driver*teeth on driver = RV of driven*teeth on driven • the rotational velocity • mechanical advantage • forces acting in simple lever systems using the principle of moments. Learners should understand: • mechanical systems that can: • increase or decrease speed of movement • change magnitude • change direction of force • change movement/rotation. • the function of mechanical products that have: • pulley and belt systems • simple and compound gear systems • worm drive systems • bevel gear systems • rack and pinion • ratchet and pawl • levers and linkages • crank and slider • cams - pear shaped, eccentric, drop/snail. • the effects of different forces upon simple structures, including: • tension forces • compression forces • torsion forces - twisting action • bending forces. • the difference between static and dynamic forces in basic structures.   |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{20}------------------------------------------------
+
+
 
 | 1.1.11 Surface finishes and treatments         | Learners should know: • how different surface treatments and finishes prolong material life and are sometimes used to improve aesthetic appeal. Learners should understand: • the advantages and disadvantages of thermosetting and thermoforming plastics • mechanical components and products often requiring additional surface treatments to assist functionality • metal surface treatments and finishing processes including: • powder and plastic coating • paint and primer. • surface finishes applied to electronic devices for functional or aesthetic purposes, including: • instructions for the user / operating scale (on/off) for adjustable components • the need for protective surface finishes (solder mask) for PCBs prevented unwanted soldering or oxidisation • the use of used of protective finishes for different environments (protective encapsulation) prolongs function and product life.   |
 |------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.12 Stock forms of materials and components | Learners should know: • the different common forms that metals are available in, including: • rod form - round, square & hexagonal • tube form - round, square • strip • sheet • angle • channel. • the wide range of forms that plastic polymers are available in, including: • powders • granules • pellets • liquids • films • sheets • extruded shapes. • the use of bought-in components, including: • fasteners - nuts and bolts, screws, rivets, washers • bearings • mechanical components - spur gears, worm gears, belts, motors (dc motors, stepper, servo) • electrical components. • the advantages and disadvantages of using standard form & bought-in materials/components.                                                                                                                                                                                                                                |
 
+
+
+{21}------------------------------------------------
+
+
+
 | 1.1.13 Engineering manufacture and industry   | Learners should understand: • the different scales of production • different methods of manufacture and when each is appropriately used, including: • one-off production • batch production • mass production • Just in Time (JIT). • common methods, components and interfaces for prototype modelling and testing/simulating in engineering, including: • CAD software - designing and simulating function and performance • breadboard circuits • strip/vero board circuits • printed circuit boards (PCBs). • appropriate manufacturing methods and techniques when producing products or components related to the scale of production needed, including: • templates • jigs • formers • CAD/CAM. • the process of manufacturing PCB's, including: • chemical processes (e.g., ferric chloride or ammonium persulfate) etching to remove unwanted copper from a copper-clad substrate • mechanical CNC milling removes excess material. • the advantages and disadvantages of CAD/CAM in the production of a product and/or component • the advantages and disadvantages of through hole assembly and surface mount technology (SMT) and through-hole technology (THT) when manufacturing circuits • the different assembly processes for electrical circuits including: • manually (by hand) for small-scale production • automation (pick-and-place) manufacture. • the advantages and disadvantages of soldering techniques, including: • hand soldering • reflow soldering • wave soldering. • the importance of quality control testing in industry to limit faults, including: • in-circuit testing - electrical tests for component placement, polarity, and functionality.   |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{22}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -318,9 +446,21 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 | 1.1.14 1.1.15 Woven, knitted and 1.1.16 Technical textiles 1.1.17 Modern, smart and 1.1.18 Stock forms of materials 1.1.19 Surface finishes and 1.1.20 Specialist techniques 1.1.21 The fashion and textile Content | non-woven textiles emerging materials and technology and components treatments and processes industry Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 1.1.14 Natural, synthetic, blended and mixed fibres                                                                                                                                                                 | Learners should know: • that all fibres have inherent properties, for example: • strength • elasticity • absorbency • durability • insulation • flammability • water repellence • anti-static • resistance to acid, bleach and sunlight. • that fibres can be blended or mixed to improve the properties and uses of yarns and fabrics, for example: • Blends: polyester and cotton, silk and viscose, hemp and cotton • Mixture: cotton and wool, elastane with wool, nylon and cotton. • that polymers can be natural or synthetic • the difference between a fibre and a polymer • the differences between a thermoforming (thermoplastic) and thermosetting material or fibre • the properties of polymers, for example: • weight • hardness • elasticity • conductivity/insulation • toughness • strength. Learners should be able to distinguish between finite and non-finite fibres and explain the environmental impact of each named fibre. Learners should understand that fibres are classified according to their source, including: • natural fibres: • animal fibres - wool/fleece including mohair, cashmere, angora, alpaca, llama |
 
+
+
+{23}------------------------------------------------
+
+
+
 |                                               | • insect fibres - silk • plant (cellulosic) fibres - cotton, linen, hemp, jute, bamboo, soya. • synthetic fibres: • polyester • acrylic • nylon (polyamide) • elastane (Lycra®). • regenerated fibres: • viscose • acetate • lyocell • the difference between fibre types, including: • staple filaments • continuous filaments • textured yarns • novelty yarns for example chenille. Learners should be aware that the fibre type determines the fabric weight, flexibility, handle and end use of materials.                                                                                                                                                                                                                                                                                |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.15 Woven, knitted and non- woven textiles | Learners should know: • that textile materials have different characteristics depending on the method of construction. Learners should be able to: • explain the advantages and disadvantages of each construction method and how they affect end use. Learners should understand: • that textile materials are made by different methods of construction, including: • woven: • plain • twill • satin • herringbone • pile. • knitted: • warp knit • weft knit. • non-woven: • thermal - heat and pressure • mechanical - needle punched • chemical - use of adhesives. • laminating methods, including: • use of breathable membranes • bonding foam to knitted or woven fabric • bonding plastic to cotton to simulate leather. • coated fabrics, for example: • PVC. • felting • quilting. |
+
+
+
+{24}------------------------------------------------
+
+
 
 |                                                            | Learners should be aware that the fibre source, yarn type, construction method and applied finishes all contribute to a textile fabric's characteristics and end use.                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -330,11 +470,23 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{25}------------------------------------------------
+
+
+
 <!-- image -->
 
 |                                        | • buckles • Velcro • eyelets • ties • press studs. • threads: • embroidery • sewing • overlocker • conductive. • trims: • lace • braids • ribbon • tapes • cords • elastics • support, (for example boning), • beads • sequins • lights (LEDs). • select and justify the use of components in fashion and textile products.                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.19 Surface finishes and treatments | Learners should be able to: • select, describe and use a range of decorative techniques to embellish textile materials, including: • Dyeing: piece, dip, random, tie and dye, batik (as above) • Printing: silk screen, roller, block, marbling, digital ink-jet transfer (CAM) • Painting: felt tip, fabric paint stencilling • Embroidery: including hand, free machine and computerised • Appliqué • Beadwork • Patchwork • Laser cutting and engraving • Quilting • 3D printing. Learners should understand: • the importance of applying specialist finishes to textile materials • that finishes are applied to textile materials for different reasons including: • aesthetic qualities: • colour • pattern • texture • lustre • weight. |
+
+
+
+{26}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -344,14 +496,32 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{27}------------------------------------------------
+
+
+
 <!-- image -->
 
 |                                         | • tailor's tacking. • visual checks for pattern drop/match • correct use of thread, including: • colour • type • shade • stitch length. • selection of correct needle type for material • appropriate choice of construction techniques, including: • joining: seams - plain, French, double stitched, overlocked, bound, neatening methods • shaping: darts, princess line seams, gathers, tucks, pleats, casings (draw cord/elastic), use of elastic • edge finishes: hems (types of), facings, piping, frills, binding. • identify and use style details, including: • sleeves: raglan, set-in, gathered, short/long • necklines: square, round, V, halter, sweetheart, boat • collars: shirt, rever, roll, shawl • pockets: patch, shaped, in-side seam • fastenings: zips, buttons, buckles, Velcro, eyelets, ties, poppers • pleats: knife, box, inverted, kick • leg lengths: shorts, cropped, long. Learners should be aware of: • comparable industrial processes for mass production • industrial tools and equipment for large scale manufacture, for example, computerised lay planning   |
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.21 The fashion and textile industry | Learners should understand: • the different scales of production • different methods of manufacture and when each is appropriately used, including: • job production (custom-made, bespoke or one-off) • batch production • mass production • Just in Time (JIT). • how manufacturing systems are organised, including: • straight line production • progressive bundle system (PBS) • cell production. • the advantages and disadvantages to manufacturers and workers employed in each manufacturing system • how CAD/CAM is used in industry including the advantages/disadvantages, laser cutting, 3D printing • that different sectors exist within the fashion industry, including: • street style fashion • contemporary fashion • ready to wear (prêt-à-porter) • designer • haute couture.                                                                                                                                                                                                                                                                                                   |
 
+
+
+{28}------------------------------------------------
+
+
+
 | • the role of designers, image makers, trendsetters and influencers • fashion forecasting and predictions • the role of leading international fashion centres.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{29}------------------------------------------------
+
+
 
 | 1.1(c) Design and Technology in the 21 st Century (Product Design)                                                                                                                                           | 1.1(c) Design and Technology in the 21 st Century (Product Design)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -360,11 +530,23 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 | 1.1.22 1.1.23 Natural and manufactured 1.1.24 Thermoforming 1.1.25 Modern, smart and 1.1.26 Specialist techniques 1.1.27 Surface finishes 1.1.28 Stock forms of materials 1.1.29 Product manufacture Content | timbers thermosetting plastics emerging materials and technology and processes and treatments and components and industry Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 1.1.22 Ferrous and non-ferrous metals                                                                                                                                                                        | Learners should be able to compare and explain the suitability of metals for a product, including: • aesthetic appeal • physical properties. Learners should understand: • the aesthetic and functional properties of ferrous metals, including: • mild steel • stainless steel • high carbon steel. • the aesthetic and functional properties of non-ferrous metals, including: • titanium • aluminium • copper • brass. • the functional properties of the above-named ferrous and non-ferrous metals, including: • melting point • thermal and electrical conductivity. • the mechanical properties of the above-named ferrous and non-ferrous metals, including: • tensile strength • toughness • density • plasticity • malleability • hardness. |
 
+
+
+{30}------------------------------------------------
+
+
+
 | 1.1.23 Natural and manufactured timbers         | Learners should be able to: • differentiate between a hardwood and softwood • differentiate between natural wood and man-made boards. Learners should understand: • the aesthetic and functional properties of hardwoods and softwoods, including: • beech • balsa • scots pine • parana pine. • the aesthetic and functional properties and strengths/weaknesses of manufactured boards, including: • plywood • medium density fibreboard (MDF). • the physical and working properties of hardwoods, softwoods and man-made boards, including: • toughness • flexibility • strength • absorbency • surface finish • colour.                                                                                                                                                                                                                                                                                            |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.24 Thermoforming and thermosetting plastics | Learners should know: • how different surface treatments and finishes prolong material life and are sometimes used to improve aesthetic appeal. Learners should understand: • the aesthetic and functional properties of thermoforming and thermosetting polymers, including: • acrylic • styrofoam and other modelling foams • acrylonitrile butadiene styrene (ABS) • nylon • epoxy resins. • the advantages and disadvantages of thermosetting and thermoforming plastics • the physical properties of thermoforming (thermoplastic) and thermosetting plastics, including: • thermal conductivity • electrical conductivity/insulation. • the mechanical properties of thermoforming (thermoplastic) and thermosetting plastics, including: • tensile strength • elasticity • toughness • plasticity • malleability • hardness. • the advantages and disadvantages of biopolymers and synthetic oil-based polymers. |
 
 © WJEC CBAC Ltd 2025.
+
+
+
+{31}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -374,13 +556,31 @@ On-screen examination -1 hour 30 minutes 30% of qualification 80 marks
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{32}------------------------------------------------
+
+
+
 |                                        | Learners should understand about: • CAM machines, including: • laser cutters • 3D printers. • plastics and how they can be joined in a permanent or temporary way, including: • plastic welding • nuts, bolts and washers • screws • rivets. • adhesives and the materials they are used on including: • polyvinyl acetate (PVA) (wood to wood) • contact adhesive • epoxy resin (wood to other materials). • commonly used industrial manufacturing processes for metals, including: • pillar drill to drill holes to various diameters • extrusion • casting. • commonly used industrial manufacturing processes for woods, including: • sawing woods • pillar drill to drill holes to various diameters • lathe • jointing • veneering • laminating. • commonly used industrial manufacturing processes for plastics, including: • injection moulding • vacuum forming • extrusion • laser cutter   |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.27 Surface finishes and treatments | Learners should know how different surface treatments and finishes prolong material life and can be used to improve aesthetic appeal. Learners should understand: • metal surface treatments and finishing processes, including: • powder and plastic coating • paint • primer. • how natural timber and manufactured timbers and boards can be protected using: • varnish • wax • paint • sealants and primers. • the self-finishing nature of many thermosetting and thermoforming plastics.                                                                                                                                                                                                                                                                                                                                                                                                         |
 
+
+
+{33}------------------------------------------------
+
+
+
 | 1.1.28 Stock forms of materials and components   | Learners should know that: • natural timber is available in different sectional forms, various standard sizes (sawn or planed), for example: • dowel • plank • board. • manufactured boards are commonly available in sheet form and in standard sizes and various thicknesses • standardised fixtures and fittings that allow for the manufacture of mass-produced products to be self- assembly, including: • KDF (Knock-down fittings). • plastic polymers are available in a wide range of forms, including: • powders • granules.                                                                                                                            |
 |--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.29 Product manufacture and industry          | Learners should understand: • the different scales of production • different methods of manufacture and when each is appropriately used, including: • job production (custom-made, bespoke or one-off) • batch production • mass production • Just in Time (JIT). • the importance of CAM in modern high-volume production • the use of Ergonomics and Anthropometrics in the design and development of products • the role of leading national and international design organisations such as the Design Council. Learners should know: • how manufacturing systems are organised • the most appropriate scale of production • about continuous flow production. |
+
+
+
+{34}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -412,15 +612,33 @@ The purpose of this unit is to:
 | Content                                                                                                             | Amplification                                                                                                                                                                                                                                                                                                                                                   |
 | 2.1.1 Contextual challenges and user-centred design                                                                 | Learners should understand: • that contexts are a starting point to inform possible outcomes • the principles of a user-centred design approach. Learners are required to: • identify problems and opportunities for design, and the development of possible briefs • identify potential user groups • consider the needs, wants and values of the end user(s). |
 
+
+
+{35}------------------------------------------------
+
+
+
 | 2.1.2 Research and investigation       | Learners should be able to: • explore and investigate existing products and/or situations before deciding upon whether there is a real need for a product. Learners are required to: • conduct relevant research and investigation, including: • research, for example: • a client interview • secondary research, for example: • published demographic research • collate data and use it to aid further work • use collated data to inform possible specification points for designing.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.3 Design briefs and specifications | Learners should be able to: • write design briefs for specific needs, wants or interests • write specifications that are derived from their own investigations, including: • the needs, wants and values of users                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 2.1.4 Iterative design                 | • qualitative and quantitative criteria. Learners should understand: • that designing does not take place in isolation, there are wider issues to be considered, including: • ergonomics • anthropometrics • environmental • social • economic • moral. • the constraints that influence the process of design and making • that the world around us can influence and inspire design and design thinking, including: • biomimicry and the natural world • inanimate objects for example architecture. • different design strategies that can be used to generate initial ideas and avoid design fixation, for example: • collaboration - discover, define, develop, deliver • user-centred design • systems thinking. Learners are required to: • explore and develop their ideas using an iterative approach • communicate, record and justify design ideas, applying suitable techniques appropriate to endorsed pathways, for example: • formal and informal 2D and 3D drawing • system and schematic diagrams • annotated sketches • exploded diagrams • fashion illustrations and fashion drawings • fashion flats |
 
+
+
+{36}------------------------------------------------
+
+
+
 |                                                                | • models, samples, toiles • presentations • written notes • flow diagrams • working drawings • schedules • audio and visual recordings • mathematical modelling • computer-based tools, for example, AI.                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.5 Manufacturing prototypes                                 | Learners are required to: • design, develop and manufacture a prototype, which: • responds to the needs and wants of the user • is fit for purpose • is of high quality • exhibits good/excellent craftmanship • demonstrates functionality • considers aesthetic values for example: feel, texture, shape, colour • addresses marketability - in its current form or requires further development • includes innovative features, for example, use of smart materials. NOTE: In the context of this unit, 'prototype' is used to describe all working solutions including products, models and systems. |
 | 2.1.6 Analysing and evaluating design decisions and prototypes | Learners are required to: • respond thoughtfully and make informed judgements when evaluating their own prototype • act on the views of others • make suggestions for improvements of their own prototype and how these modifications could be made • respond to feedback from others or clients and suggest improvements/modifications of their prototype.                                                                                                                                                                                                                                              |
+
+
+
+{37}------------------------------------------------
+
+
 
 | 2.1 (a) Design Project (Engineering Design)                                                                                                                                                                                                                                   | 2.1 (a) Design Project (Engineering Design)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -432,9 +650,21 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{38}------------------------------------------------
+
+
+
 |                                        | Learners should know: • about and adhere to all relevant health and safety regulations as appropriate to the environment they are working in • how to apply quality control and quality assurance checks. Learners should be aware of: • other techniques, materials, and/or components as appropriate to the prototype, for example: • wastage • addition • deforming                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.10 Surface treatments and finishes | Learners should be able to: • select and use appropriate surface finishing techniques for different materials , for example: • adding ribs, textures, contours or user interface features for surface details, • include specific features for components like LEDs, switches, variable resistors, display outputs, speakers and other appropriate control components. • utilise appropriate finishing techniques for electronic and mechanical systems to enhance functionality and product life , for example: • polishing, painting or applying appropriate finishes to specific materials • including user information such as on/off positions of switches • produce and apply logos, graphics and decals for products • including appropriate methods for accessing control systems of products, for example, battery compartments, or internal systems. • u nderstand the importance of finishing techniques in protecting materials and enhancing their aesthetic qualities. |
+
+
+
+{39}------------------------------------------------
+
+
 
 | 2.1 (b) Design Project                                                                                                                                                                                                                                                                                                    | 2.1 (b) Design Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -446,9 +676,21 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{40}------------------------------------------------
+
+
+
 |                                        | Learners should know: • about and adhere to all relevant health and safety regulations as appropriate to the environment they are working in • how to apply quality control and quality assurance checks. Learners should be aware of: • other techniques, materials, and/or components as appropriate to the prototype, for example: • wastage • addition • deforming                                                                                                                                                                                                                   |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.14 Surface treatments and finishes | Learners should be able to: • select and utilise appropriate surface treatments and finishes for functional and aesthetic purposes for example: • surface embellishments • embroidery • printing/colouring • quilting. • use appropriate surface finishes for different materials • use appropriate finishes to protect and enhance aesthetic qualities and materials, for example: • fixing colours • appropriate seam finishes (internal and external) • pressing. • understand the importance of finishing techniques in protecting material and enhancing their aesthetic qualities. |
+
+
+
+{41}------------------------------------------------
+
+
 
 | 2.1(c) Design Project (Product Design)                                                                                                                                                                                                                                                                                                                                       | 2.1(c) Design Project (Product Design)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -458,9 +700,21 @@ The purpose of this unit is to:
 | 2.1.16 Marking out methods                                                                                                                                                                                                                                                                                                                                                   | Learners should be able to: • use appropriate and accurate marking out methods to create a specific outcome, including: • measure and mark out accurately • use a range of tools and equipment as appropriate, for example: • ruler • tape measure • points and datum • centre squares or combination squares for marking centres of round bars • surface plates and Vee block • use of accurate templates, jigs • consider how to minimise waste and make allowances for effective cutting methods • ensure precision in lines and surfaces • work within specified tolerances. |
 | 2.1.17 Specialist techniques and processes                                                                                                                                                                                                                                                                                                                                   | Learners should be able to: • select and use specialist techniques and processes to shape, construct and assemble a high-quality prototype, as appropriate to the materials and/or components being used • select and use specialist techniques • select and use hand tools and appropriate machinery to the material being shaped or worked, for example: • pillar drills • lathes • vacuum formers • laser cutters • CNC lathes • 3D printers. • apply appropriate construction techniques, for example: • joints or fixings • adhesives.                                      |
 
+
+
+{42}------------------------------------------------
+
+
+
 |                                        | Learners should know: • about and adhere to all relevant health and safety regulations as appropriate to the environment they are working in • how to apply quality control and quality assurance checks. Learners should be aware of: • other techniques, materials, and/or components as appropriate to the prototype, for example: • wastage • addition • deforming • reforming.                                                                                                                                                                                                                                    |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.18 Surface treatments and finishes | Learners should be able to: • select and use appropriate surface treatments and finishes for functional and aesthetic purposes, for example: • surface embellishments • engraving • etching • vinyl stickers. • use appropriate surface finishes for different materials • use appropriate finishes to protect and enhance aesthetic qualities and materials, for example: • primers and paint (including spray paint) • wax • removal of saw marks and polished edges on plastic • dip coating. • u nderstand the importance of finishing techniques in protecting materials and enhancing their aesthetic qualities. |
+
+
+
+{43}------------------------------------------------
+
+
 
 ## Opportunities for integration of learning experiences
 
@@ -474,6 +728,12 @@ GCSE Design and Technology generates opportunities for the following learning ex
 - gain awareness and appreciation of some of the different careers and work-related areas that draw upon design and technology.
 
 Further amplification of the opportunities to develop cross-cutting themes, cross-curricular skills and integral skills can be found in Appendix A. The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences into delivery.
+
+
+
+{44}------------------------------------------------
+
+
 
 ## 3 ASSESSMENT
 
@@ -507,6 +767,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 2            | -     | 15%   | 35%   | 20%   | 70%     |
 | Overall weighting | 15%   | 30%   | 35%   | 20%   | 100%    |
 
+
+
+{45}------------------------------------------------
+
+
+
 ## 3.2 Arrangements for non-examination assessment
 
 ## Unit 2: Design Project
@@ -530,6 +796,12 @@ The assessment contributes to 70% of the overall qualification and will be marke
 
 This unit will be assessed by the centre and externally moderated by WJEC.
 
+
+
+{46}------------------------------------------------
+
+
+
 ## 4 MALPRACTICE
 
 Before the course starts, the teacher is responsible for informing candidates of WJEC's regulations concerning malpractice. Candidates must not take part in any unfair practice in the preparation of work for GCSE Design and Technology.
@@ -539,6 +811,12 @@ Information regarding malpractice is available in our Guide to preventing, repor
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
+
+
+
+{47}------------------------------------------------
+
+
 
 ## 5 TECHNICAL INFORMATION
 
@@ -565,9 +843,21 @@ The entry codes appear below:
 
 The current edition of our Entry Procedures and Coding Information gives up-to-date entry procedures.
 
+
+
+{48}------------------------------------------------
+
+
+
 ## 5.2 Grading, awarding and reporting
 
 GCSE qualifications are reported on an eight point scale from A*-G, where A* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
+
+
+
+{49}------------------------------------------------
+
+
 
 ## Appendix A: Opportunities for embedding elements of the Curriculum for Wales
 
@@ -585,6 +875,12 @@ GCSE qualifications are reported on an eight point scale from A*-G, where A* is 
 | Reading                                                           |                                   |                                   |
 | Speaking                                                          |                                   |                                   |
 | Writing                                                           |                                   |                                   |
+
+
+
+{50}------------------------------------------------
+
+
 
 | Curriculum for Wales Strands                                                                                                             | Unit 1                             | Unit 2                             |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------|

@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## NEWSLETTER - SEPTEMBER 2025 WJEC GCSE SCIENCES
 
 Welcome back! We hope you enjoyed a well deserved break over the summer.
@@ -40,6 +42,12 @@ Publish guidance for teaching: 22 January 2026
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 ## PL Events and Materials
 
 | PL Type                                                                                                                                                                                                                                                                                                                                                              | Aims                                                                                                                                                                                                                                                | Format and Notes                                                                                                                                                                                                                                                                                                                                                       |
@@ -55,6 +63,12 @@ Publish guidance for teaching: 22 January 2026
 Following a consultation under the guidance of Canolfan Bedwyr, which is Bangor University's Centre for Welsh Language Services, Research and Technology (who are responsible for Y Termiadur Addysg), a decision was made to change the Welsh language terminology currently in use for 'speed' and 'velocity'.
 
 <!-- image -->
+
+
+
+{3}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -103,6 +117,12 @@ Based on the recommendations of Canolfan Bedwyr therefore, 'cyflymder' (speed) a
 - -GCSE Integrated Science - teaching from 2026
 
 In order to mitigate for any confusion which may be caused by this change, the English terms will be put in brackets the first time the terms appear in an examination paper.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Current GCSE/Level 2 specifications
 

@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE French
@@ -16,7 +18,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -39,6 +53,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Command words.......................................................................................................... 11            |
 | Important Dates .................................................................................................................. 18 |
 
+
+
+{4}------------------------------------------------
+
+
+
 ## Aims of the Delivery Guide
 
 The aim of the Delivery Guide is to give an overview of the qualification and to help teachers understand how we assess the GCSE. It will offer an introduction to the specification, an assessment overview, and will support teachers in better understanding how to prepare their learners for the assessment of the different units. More information on each unit can be found in the separate unit guides.
@@ -60,6 +80,12 @@ This is a linear qualification. This qualification is not tiered.
 
 All units are compulsory.
 
+
+
+{5}------------------------------------------------
+
+
+
 ## Themes and the Use of Language
 
 The following diagram shows example topics that could be used within all of the three broad themes.
@@ -67,6 +93,12 @@ The following diagram shows example topics that could be used within all of the 
 It is important for teachers to ensure that all topics and associated vocabulary are transferable across all three themes and should not be used solely in one theme. The examples given are neither prescriptive, nor exhaustive and teachers can and should, deliver the vocabulary through their own engaging and motivating topics, using language in a natural and reoccurring way.
 
 <!-- image -->
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -102,9 +134,21 @@ Tasks will be set by WJEC. The assessment will be carried out by teachers at the
 
 The assessment will consist of three tasks: a read aloud and role play, a presentation and discussion, and a conversation.
 
+
+
+{7}------------------------------------------------
+
+
+
 There will be a teacher booklet that will provide instructions and guidance as to how to conduct the assessment, and WJEC will provide detail as to the read aloud and role-play card to be allocated to each learner in the Assessment Pack. Centres are required to ensure that each candidate uses the correct allocated card.
 
 The speaking assessments will take place during a five-week period between April and May, specified annually by WJEC. Centres may open the packs up to three working days in advance of the first timetabled assessment. The preparation period for the presentation may begin two weeks prior to the first timetabled assessment.
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -132,6 +176,12 @@ The assessment will take place during an eight-week period between March and May
 
 The Assessment Pack will be updated and released annually and will include an updated role play card allocation table along with the specific period in which the speaking assessments, and Unit 2 must take place.
 
+
+
+{9}------------------------------------------------
+
+
+
 ## Unit 3
 
 ## Listening
@@ -148,6 +198,12 @@ The purpose of this unit is to:
 The unit will be based on the following:
 
 <!-- image -->
+
+
+
+{10}------------------------------------------------
+
+
 
 ## Unit 4
 
@@ -167,6 +223,12 @@ The purpose of this unit is to:
 The unit will be based on the following:
 
 <!-- image -->
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -232,6 +294,12 @@ Learners are not permitted to use a dictionary in any part of the assessment.
 
 70 marks
 
+
+
+{12}------------------------------------------------
+
+
+
 ## Assessment Objectives
 
 Unit 1
@@ -266,6 +334,12 @@ The distribution of the assessment objectives for this unit is:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{13}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -289,6 +363,12 @@ When you look through the specification you will notice in the amplification col
 | Specification Stem         | When it is used                                                                                                                                       |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Learners should be able to | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques. |
+
+
+
+{14}------------------------------------------------
+
+
 
 ## Command words
 
@@ -322,6 +402,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Compare                      | Identify similarities .                                                                                                             |
 | Complete                     | Add necessary items/information.                                                                                                    |
 
+
+
+{15}------------------------------------------------
+
+
+
 | Consider                       | Review and respond to given info.                                                                                                                                                                        |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Define                         | Give the precise meaning of a term.                                                                                                                                                                      |
@@ -344,6 +430,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Match/Link                     | To choose something that has the same quality as something.                                                                                                                                              |
 | Name                           | Identify or make a list.                                                                                                                                                                                 |
 
+
+
+{16}------------------------------------------------
+
+
+
 | Outline            | Set out the main characteristics.                                                                               |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|
 | Participate        | Play a role in.                                                                                                 |
@@ -363,6 +455,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Translate          | Change words into a different language.                                                                         |
 | Use                | Apply the information provided to a particular theory or concept. Employ, take or hold something for a purpose. |
 
+
+
+{17}------------------------------------------------
+
+
+
 ## Mark Schemes
 
 Mark schemes and/or assessment criteria test the intended learning outcomes for a component. They describe the knowledge and skills (and possibly attitude) that a candidate is expected to demonstrate in their responses and they are then used in marking the work.
@@ -379,6 +477,12 @@ For very short answer questions requiring one correct response.
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Both                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Higher education is necessary for a good job. ✓ IT skills are important. ✓                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lucien Béatrice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+{18}------------------------------------------------
+
+
 
 | Experience of teamwork is useful.   | ✓   |
 |-------------------------------------|-----|
@@ -398,6 +502,12 @@ For short answer questions with a range of possible responses.
 |      |                                              |                                              | Award one mark for a correct answer, for example: • abroad/in another country                                                     | 1 1                                                               |
 |      |                                              | (ii)                                         | What does Lucien advise, to avoid stress? Write two details.                                                                      | What does Lucien advise, to avoid stress? Write two details.      |
 |      |                                              |                                              | Award one mark for each correct answer up to a maximum of two marks, for example: • life outside work • hobby/pastime • stay fit. | 2 2                                                               |
+
+
+
+{19}------------------------------------------------
+
+
 
 ## Levels based mark schemes
 
@@ -423,6 +533,12 @@ Write around 120 words in French
 | 1-4    | • Limited information is conveyed. • Responses are rarely developed. • Communication is rarely understandable                                                                       | 1                                                             |
 | 0      | Response not worthy credit.                                                                                                                                                         | 0 • of                                                        |
 
+
+
+{20}------------------------------------------------
+
+
+
 | Band    | Marks [/15]                                                                                                                                                                                                    | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification.                                                                                            |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13-15   | • A wide range of appropriate vocabulary and structures are used, with some complex language. • Highly successful use of verb and tense formations. • Language used is highly accurate - any errors are minor. | 5                                                                                                                                                                                                             |
@@ -435,6 +551,12 @@ Write around 120 words in French
 ## Guidance on application of mark scheme
 
 A mark of zero for AO2 will result in a mark of zero for AO3.
+
+
+
+{21}------------------------------------------------
+
+
 
 ## Important Dates
 

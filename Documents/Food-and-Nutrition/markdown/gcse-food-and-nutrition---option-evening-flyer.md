@@ -1,36 +1,38 @@
+{1}------------------------------------------------
+
 ## WHY CHOOSE GCSE
 
-The WJEC GCSE in Food and Nutrition will equip you with theknowledge,understanding and skillsrequired to cook and applythe principles of food science,nutritionand healthy eating. It will encourage you to cook a range of dishesandwillgiveyoutherequiredknowledgeand understandingtoenableyou tomakeinformeddecisions about food and nutrition. With the knowledge you gain, you will be able to feed yourselves and others affordably andnutritiously,nowandlaterinlife.
+TheWJEC GCSEinFood andNutritionwill equipyou with theknowledge,understanding and skillsrequired to cook and applythe principles of food science,nutrition and healthy eating.It will encourage you to cook a range of dishesandwillgiveyoutherequiredknowledgeand understandingtoenableyoutomakeinformeddecisions about food and nutrition. With the knowledge you gain, you will be able to feed yourselves and others affordably and nutritiously, now and later in life.
 
 ## WHATWILLISTUDY?
 
-The specification infood and nutritionwillenableyou to makeconnectionsbetweentheoryandpracticesothat you are able to applyyour understanding of food science andnutritiontopracticalcooking.Thecontentrelatesto the study of bothfood and drinks.
+Thespecification infoodandnutritionwillenableyou to makeconnectionsbetweentheoryandpracticesothat you are able to apply your understanding of food science and nutrition to practical cooking. The content relates to thestudyofbothfoodanddrinks.
 
 ## HOWWILLIBEASSESSED?
 
-## UNIT1:PrinciplesofFoodandNutrition
+## UNIT 1: Principles of Food and Nutrition
 
-This will be assessed through an on-screen written examination. 1hour30 minutes 40%ofqualification 80marks Two sectionsbothcontaining compulsoryquestions.
+This will be assessed through an on-screen written examination. 40%of qualification 80marks Two sections both containing compulsory questions.
 
-SectionA:questionsbasedonstimulusmaterials. SectionB:arange ofquestion types to assess allcontent related tofood and nutrition.
+SectionA:questionsbasedonstimulusmaterials. SectionB:arange ofquestion typesto assess allcontent related tofood and nutrition.
 
-## UNIT2Foodinvestigation
+## UNIT 2Foodinvestigation
 
-Thiswillbeassessedthroughanon-examination assessment: marked by your teacher， externally moderatedby WJEC.Thisis worth2O%of the total qualification.
+Thiswillbeassessedthroughanon-examination assessment: marked by your teacher, externally moderatedbyWJEC.Thisisworth2O%of thetotal qualification.
 
 10-hour task
 
-20%ofthetotalmarksavailable
+20% of the total marks available
 
-Willinvolvepracticalexperimentalworkandwritten workbased ona specificfood commoditye.g.bread, pastry.
+Willinvolvepracticalexperimentalworkandwritten work based on a specific food commodity e.g.bread, pastry.
 
-## UNIT3-Food&amp;Nutritioninaction
+## UNIT3-Food&amp;Nutrition inaction
 
-Thiswillbeassessedthroughanon-examination assessment:markedbyyourteacher，externally moderatedbyWJEC.Thisisworth4O%of thetotal qualification.
+Thiswillbeassessedthroughanon-examination assessment:markedbyyourteacher，externally moderatedby WJEC.Thisisworth4O%of thetotal qualification.
 
 15-hour task
 
-Will involve researchto respond to a given brief plus planning,preparation,cooking(1x3-hoursession）and presentation of three dishes plus accompaniments (where appropriate) to form a menu.
+Willinvolveresearchtorespondtoagivenbriefplus planning,preparation,cooking(1x 3-hour session）and presentation of three dishes plus accompaniments (where appropriate) to form a menu.
 
 <!-- image -->
 
@@ -38,16 +40,16 @@ Will involve researchto respond to a given brief plus planning,preparation,cooki
 
 ## WHATSKILLSWILLIDEVELOP?
 
-Bystudyingfood and nutritionyouwill be ableto:
+Bystudyingfood andnutritionyouwill beable to:
 
-- demonstrate effective and safe cooking skills by planning,preparing and cooking a variety of food commodities whilst using different cooking techniques and equipment.
-- Developknowledgeandunderstandingof thefunctionalpropertiesandchemical characteristics offood as wellas a sound knowledgeofthenutritionalcontentof food and drinks.
-- Understand therelationshipbetweendiet, nutritionandhealth，including the physiological andpsychological effects of poor diet and health.
-- Understand theeconomic,environmental, ethicalandsocio-culturalinfluenceson food availability, production processes, diet and health choices demonstrate knowledge and understanding of functionalandnutritional properties, sensoryqualitiesandmicrobiologicalfood safetyconsiderationswhenpreparing, processing,storing，cooking and serving food.
-- Understandandexplorearangeof ingredients andprocessesfromdifferent culinarytraditions (traditionalWelsh, Britishandinternational)to inspirenew ideas ormodifyexistingrecipes.
+- demonstrate effective and safecooking skills by planning, preparing and cooking a variety of food commodities whilst using different cooking techniques equipment.
+- Developknowledge andunderstanding of thefunctionalpropertiesandchemical characteristicsoffoodaswellasasound knowledgeof thenutritionalcontentof food and drinks.
+- Understand therelationshipbetweendiet, nutritionandhealth，including the physiological and psychological effects of poor diet and health.
+- Understand the economic,environmental, ethicalandsocio-culturalinfluenceson food availability, production processes, diet and healthchoices demonstrate knowledge and understanding of functionalandnutritionalproperties, sensoryqualitiesandmicrobiologicalfood safetyconsiderationswhenpreparing, processing，storing,cooking and serving food.
+- Understandandexplorearangeof ingredients andprocessesfromdifferent culinarytraditions(traditionalWelsh, Britishandinternational）toinspire new ideas ormodifyexistingrecipes.
 
 ## CAREERSINFOOD&amp;NUTRITION
 
-Thisqualificationwillbuildonsubjectcontentthat you will have been taught through the progression steps andwillprovideasuitablefoundationforthe studyofFoodandNutritionatLevel3forexample theWJECLevel3CertificateinFoodScienceand Nutrition.Thisqualificationwillalsoprovidea coherent,satisfyingandworthwhilecourseofstudy for youif you do not progressto studyfurtherinthis subject.Inaddition,thequalificationwillintroduce youtoanewwayofthinking aboutfoodwhichcould helpyoumakeinformeddecisions aboutawide range of career pathways.
+Thisqualificationwillbuildonsubjectcontentthat youwillhavebeentaughtthroughtheprogression stepsandwillprovideasuitablefoundationforthe studyofFoodandNutritionatLevel3forexample theWJECLevel3CertificateinFoodScienceand Nutrition.Thisqualificationwillalsoprovidea coherent,satisfying and worthwhile course of study for you ifyou donotprogressto studyfurtherinthis subject.Inaddition,the qualification will introduce you to a new way of thinking about food which could helpyoumakeinformeddecisionsaboutawide range of career pathways.
 
 FINDOUTMORE-TALKTOYOURTEACHERTODAY!

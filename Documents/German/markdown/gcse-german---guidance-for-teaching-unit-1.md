@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE German
@@ -18,13 +20,31 @@ This Qualifications Wales regulated qualification is not available to centres in
 
 Made for Wales. Ready for the world.
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## SUMMARY OF AMENDMENTS
 
 |   Version | Description                            |   Page number |
 |-----------|----------------------------------------|---------------|
 |         2 | Include possible conversation question |            31 |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -46,6 +66,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Language for Travel.....................................................................................................31                 |
 | Language for Leisure and Wellbeing............................................................................31                           |
 
+
+
+{5}------------------------------------------------
+
+
+
 ## Introduction
 
 The WJEC GCSE German has been approved by Qualifications Wales and is available to all centres in Wales. It will be awarded for the first time in Summer 2027, using grades A* to G.
@@ -64,6 +90,12 @@ The principal aim of the Guidance for Teaching is to support teachers in the del
 - Exam Results Analysis
 - Online Examination Review
 
+
+
+{6}------------------------------------------------
+
+
+
 ## Qualification Structure
 
 WJEC GCSE German consists of 4 units. The qualification is linear and does not contain tiering. There is no hierarchy to the order the units should be taught.
@@ -74,6 +106,12 @@ WJEC GCSE German consists of 4 units. The qualification is linear and does not c
 | Reading and Writing | Non-examination assessment | 15%                  | Unit 2      |
 | Listening           | Written examination        | 20%                  | Unit 3      |
 | Reading and Writing | Written examination        | 35%                  | Unit 4      |
+
+
+
+{7}------------------------------------------------
+
+
 
 ## Assessment
 
@@ -98,6 +136,12 @@ Preparation time: 10 minutes
 Learners are not permitted to use a dictionary in any part of the assessment.
 
 60 marks
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Overview of Unit 1
 
@@ -124,6 +168,12 @@ Preparation time: 10 minutes
 The unit is based on the following:
 
 <!-- image -->
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Assessment details
 
@@ -171,6 +221,12 @@ Learners should be able to demonstrate their understanding of the assessed langu
 - in the home
 - in town.
 
+
+
+{10}------------------------------------------------
+
+
+
 Candidates should be able to engage in transactions including asking and answering questions, asking for advice, making a complaint, reporting a problem, explaining, describing, giving reasons and expressing opinions. The scenario will provide candidates with guidance and prompts in Cymraeg/English on the responses that are required.
 
 ## Total time for read aloud and role play: 2 minutes
@@ -214,6 +270,12 @@ Candidates will:
 
 Candidates may refer to prepared bullet points [max 30 words], to support them with the delivery of their presentation. The bullet points must be given to the teacher immediately after the presentation.
 
+
+
+{11}------------------------------------------------
+
+
+
 ## Marks: (AO1 - 10 marks) (AO3 - 5 marks)
 
 The presentation should last no longer than 1 minute.
@@ -250,6 +312,12 @@ Total time for conversation: 2-4 minutes Total marks: 25 marks (AO1 - 20 marks) 
 
 Teachers should tailor the complexity of the questions to the ability of the candidate. Questions may be repeated or rephrased during this part of the task. The teacher should use their judgement as to when to move on if a candidate does not understand or respond to a question even after rephrasing. In order to sustain conversation and avoid long silences, it is better to move to a different question to encourage the candidate to keep talking. Candidates should be given the opportunity to respond in the present, past and future tenses.
 
+
+
+{12}------------------------------------------------
+
+
+
 Candidates may refer to notes to support them with the theme of the conversation which must be given to the teacher immediately after the assessment.
 
 When asking questions Teachers should use the different areas of the broad theme as well as the candidate's interests and experiences to continue the conversation. Candidates should be given the opportunity to respond in the present, past and future tenses.
@@ -279,6 +347,12 @@ The first candidate must be given either card 1a or card 2a, depending on their 
 |                11 | 2f                     | 1c                     | 2e                     |
 |                12 | 2c                     | 1b                     | 1a                     |
 
+
+
+{13}------------------------------------------------
+
+
+
 The allocation of role plays is designed to ensure that the assessment experienced by each candidate samples a range of vocabulary from the vocabulary list.
 
 Please note the allocation order will change each year.
@@ -299,6 +373,12 @@ Candidates are advised to spend their 10 minutes preparation time, practising th
 
 The candidate may bring prepared bullet points [maximum 30 words] to support with the delivery of the presentation into the assessment. During the preparation time, the candidate may, if they wish, make notes on the read aloud and role play, and the allocated theme of the conversation on one-side of A4 paper and refer to these during the assessment. The teacher must check the notes prior to the commencement of the assessment and remove the bullet points from the candidate if they contain complete and continuous sentences. Otherwise, the notes must be handed to the teacher at the end of the test, along with the role play. After the preparation period of 10 minutes, the teacher must ensure that the candidate spends the following times on each task:
 
+
+
+{14}------------------------------------------------
+
+
+
 ## Approximate timings for oral assessment
 
 | Task                        | Approximate timings      |
@@ -317,12 +397,24 @@ Detailed instructions regarding the process for submitting the materials will be
 
 When introducing each candidate, the following convention must be used: Specification/centre number/candidate number/candidate name/role play card/ presentation theme/conversation theme/date.
 
+
+
+{15}------------------------------------------------
+
+
+
 ## Unit 1 Assessment objectives and weightings
 
 | AO1   | Understand and respond to spoken language through communication and expression in speaking and writing   | 18%   |
 |-------|----------------------------------------------------------------------------------------------------------|-------|
 | AO2   | Understand and respond to written language through communication and expression in speaking and writing. | 4%    |
 | AO3   | Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence.                          | 8%    |
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Unit 1 Teacher Guidance
 
@@ -331,24 +423,66 @@ When introducing each candidate, the following convention must be used: Specific
 |                                | Content Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Oracy Speaking and Listening   | Learners should be able to: • develop their listening skills to understand and respond to different types of spoken language in a range of different contexts • use their knowledge of grammar and vocabulary to support their understanding including the relationship between the past, present and future tenses • communicate and interact clearly and effectively for different purposes • communicate information, ideas and opinions in a variety of contexts • use their knowledge of vocabulary and grammar to communicate meaningfully • reference past, present and future events where appropriate • use more complex structures where appropriate • use generally accurate pronunciation and intonation. | • Activities in this area will complement work carried out in Unit 3. You should provide learners with opportunities to listen and respond to questions across the three themes on a regular basis. You may wish to establish hot-seating sessions on particular aspects of each theme where learners both devise and answer questions asked by other class members, such as the topic of my favourite holiday destination. 'Speed dating' could also be used as a fun way of engaging learners in listening and speaking on a particular theme. • Other listening/speaking games such as 'What am I?', where one learner reads a definition and another learner has both the answer and the subsequent definition, would be useful to encourage oral responses to spoken language. Such activities could be tailored to different contexts and themes and would allow learners to respond to what they hear as well as allowing them opportunities to read aloud. Taboo is also a useful game where learners need to describe something without using the word. • If learners have access to digital technology at home, you could use apps such as 'Vocaroo'. Learners would listen to your question and record their response. Pad let could also be used for this type of activity. Teachers can insert a voice file with a question and learners could record an answer. • The wheel of names could be easily adapted to have a range of questions related to a topic at the start of a lesson. The wheel is spun. One learner could read the question aloud and someone else in the class could answer. |
 
+
+
+{17}------------------------------------------------
+
+
+
 | • You may wish to teach patterns for the past, present and future tenses individually at first. This may well be part of a spiral curriculum which has been introduced in earlier years. Once learners are confident with the formation of each one, you could explicitly compare written tense patterns and sound patterns so they are aware of similarities and differences and become adept at distinguishing between these. You could play different games using mini white boards with delayed dictation/translation or just reading aloud a tense pattern e.g. ich bin in die Stadt gegangen and asking learners to identify whether the pattern is past/present/future. Asking them why is also important to check for understanding. Such work will support Units 3 and 4. • Attention should also be given to time markers. Learners could, for example, categorise a range of time markers into past/present/future (letzte Woche/heute/nächste Woche) from what they hear or read. It may be helpful over time to create banks of questions and responses in different tenses to ask for advice/information, etc. • It is important that learners are aware that grammatical structures and vocabulary are transferable from one theme to another. To practise this, you could provide learners with specific grammatical structures/vocabulary and challenge them to create as many sentences as possible with these on any theme. • Structures could include key phrases such as es gibt, ich denke, dass or meiner Meinung nach to encourage learners to think across themes. The task could be differentiated to be in the past, present or future tense or a combination of these. You could use a photo or image as a stimulus, such as a picture of a school and ask learners to give three sentences in the past, present or future using key phrases. Transferring the key phrases to another theme will be important to signpost to the learners that phrases are not limited to one theme.   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{18}------------------------------------------------
+
+
 
 | • Supporting learners to communicate ideas and opinions could be achieved through activities such as mini debates, where learners provide opinions and justifications on different discussion points from across themes, for example Sport ist nicht wichtig! You may also wish to ask learners to report back on a topic they have researched where they provide both information and opinions. Providing a list of sentence starters with opinion phrases such as ich denke, dass; meiner Meinung nach; ich glaube, dass would be helpful for learners to refer to during such oral activities and to keep as a future reference. See Appendix B of the specification for further vocabulary. • It would be helpful to highlight complex structures, including idioms, when they arise in work completed for other units - this could be from Unit 2. A class bank of structures could be collated and shared with learners so that they can use them when planning and performing mini presentations in a range of contexts, such as a talking about their school, or what they do in their free time. You may wish to make learners aware of the importance of including more complex structures by highlighting where they are accredited in mark schemes or planning them into self/peer assessments so that learners understand that they gain 'bonus points' for incorporating such language.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{19}------------------------------------------------
+
+
+
 | • To enable learners to develop accurate pronunciation and intonation, sound-spelling correspondence rules should be taught explicitly and then practised on a regular basis. Learners should have opportunities to read aloud from a range of material so that they consolidate patterns and develop confidence. They could, for example, practise the pronunciation of 12-14 word sentences as they read their Unit 2 text. It would be helpful to provide learners with a reference list of common sound-spelling correspondence rules to which they could refer as they read aloud, for example when working in pairs, so that they can reflect upon and improve each other's pronunciation. A list of these can be found in Appendix A of the specification. Other activities which would support learners to consider sound-spelling correspondence include listening to songs and completing gap-fill activities, or the teacher mispronouncing words that learners are reading and asking learners to spot the mistake (faulty echo type activities). Delayed dictation and delayed translation are also good activities to support sound-spelling correspondence.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{20}------------------------------------------------
+
+
 
 | Learners should be able to demonstrate their understanding of German through their responses in a range of different settings to include the following: • train / bus station • tourist information office • cinema / theatre / venue • campsite / hostel / hotel • pharmacy / doctor's surgery / hospital • leisure centre • shops • café / restaurant • in the home • in town.   | • In order to develop learners' vocabulary to speak in different settings, you may wish to set vocabulary learning tasks using online language learning sites such as Memrise or Quizlet. Online activities such as Kahoot and Blooket can also be used as whole- class vocabulary learning activities for specific themes (see Appendix B of the specification for vocabulary lists). • Learners can listen to podcasts, for example on Spotify or YouTube, in order to develop vocabulary and structures related to specific contexts. You may also wish to ask learners to write role plays on each of these topics. They could also write and perform raps/songs with questions and information from different settings. • It is important that learners can use the du and Sie forms of address and they should have opportunities in role play practice to use both of these to form questions and provide information.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Learners should be able to engage in transactions including: • asking and responding to questions • asking for advice • making a complaint • reporting a problem • explaining, describing and giving reasons • expressing opinions.                                                                                                                                                | • It would be helpful to explicitly discuss different question words with learners. This could be done, for example, by asking learners to formulate questions based on an image/photo or in preparation for an interview with a German speaker. See Appendix B of the specification for question structures. • Making learners aware of negative phrases for transactions is also advisable, for example , es gibt kein/keinen/keine..ich habe keinen/keine/kein... Opinion phrases such as ich finde, dass/ich denke, dass/ich glaube, dass/Meiner Meinung nach and c onjunctions for presenting reasons such as denn and weil should also be practised explicitly . It would be helpful to regularly provide learners with different role play scenarios from across the three themes so they can practise using this language.                                                                                              |
 
+
+
+{21}------------------------------------------------
+
+
+
 | Learners will be required to: • participate in a role play • give a presentation, prepared in advance, based on their own interest and take part in a short unprepared discussion relating to the presentation • take part in a short unprepared conversation.   | • Learners may wish to write and perform their own role plays around contexts from the three themes. They could, for example write a scene for a soap opera containing specific information. Learners could be asked as a starter activity to prepare the answer to one written bullet point and then to read this to a partner/the class for feedback. • Question phrases could also be practised in this way and taken from any of the three themes so that learners are aware that these structures are transferable across themes. • Learners should have regular opportunities to present to others in a range of contexts. You may wish to begin with learners presenting a few sentences on a subject that they have researched. Initially, this could be carried out in pairs/groups and with visual support such as a PowerPoint, Canva, or use of a picture or infographic. Presentations could also be encouraged in the style of a podcast or TikTok video or vlog on aspects such as a different cultural festival in German/Austria or Switzerland, or a learner's favourite music group. • In preparation for the Unit 1 examination, learners should also have regular practice devising bullet points to support their presentations. You may wish to take an example presentation and discuss explicitly with the class what the key points are that would formulate the bullet points and how these would best help them to remember the structure of their work. Learners could then carry out this activity for other exemplar presentations before devising bullet points for their own work. • It would also be helpful if learners became accustomed to anticipating the sorts of questions that might be asked about their presentations. Again, this could initially be done as a whole-class activity with consideration given to the 5Ws that they may be familiar with from their study of English.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{22}------------------------------------------------
+
+
+
 | • You could also encourage learners to formulate a follow-up question each to ask to their peers who are presenting to the class on different topics. As well as helping them to predict questions, this will also help develop learners' listening skills. • A key consideration for the unprepared conversation is to remind learners that the grammatical structures and vocabulary they learn across the three themes can be transferred and recycled in different contexts. • Learners should be given regular opportunities to convey information, describe and narrate events across the three themes and to develop their responses by providing opinions and reasons. Learners could participate in an interview-style activity where they are a celebrity and their partner asks them unseen questions from one or more of the themes, or they could engage in a mock interview for a Saturday job with a partner. Discussion with learners around the preparation of questions for such activities would be crucial and it would be important to highlight that questions should be designed to allow learners to respond in different tenses and to develop their answers as fully as possible. • To add to the authenticity of such activities you may wish audio- record the interviews as podcasts or TikTok videos. This would allow learners the opportunity to reflect, identifying their own strengths and areas for development following the oral work. • It may be helpful to devise a bank of questions for learners across the 3 themes which include opportunities for expression in the past, present and future tenses. Tense work could also be practised, for example, by asking learners to change a conversation about the future into the past by changing tenses and time markers. This would also complement learners' work in Unit 4.   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{23}------------------------------------------------
+
+
 
 ## Learning Experiences
 
@@ -358,18 +492,42 @@ Learners should be encouraged to consider the following learning experiences and
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | learn about the culture and society in the countries and communities where the international language is spoken | • For Theme 1 you may wish to ask learners to research a singer from a German-speaking country/community. They could listen to their music and plan and present a brief presentation about them including their background, their music and their popularity. This would allow learners to use a range of vocabulary and structures that can also be applied to other themes and units. It would provide them with practice of arranging their ideas in a logical order and developing bullet points that will best support them when speaking. As an extension to this, other learners could prepare questions to ask. This would allow for the teaching of question structures and allow the presenter to practise responding spontaneously on a familiar topic. Initially they could use a PowerPoint or 'canva' or infographic to support their presentation. This could be done in pairs to allow learners to gain confidence. • Alternatively, learners could choose a recipe from a German-speaking country and could use a range of imperatives to prepare a list of instructions for preparing and cooking the dish. This could be recorded as a vlog/podcast/TikTok. • For Theme 2 you could ask learners to choose a destination in a German-speaking country. They could devise and read aloud a list of questions that you would ask the travel agent about their holiday. You could then develop this activity into a role play where one partner asks the questions and the other partner answers based on the information about the country that they have discovered in their research. |
 
+
+
+{24}------------------------------------------------
+
+
+
 | explore the cross-cutting themes of human rights and diversity, including Black, Asian and minority ethnic perspectives, identity, culture and contributions   | • You may wish to ask learners to watch an extract of the film 'Almanya' and use resources on the Goethe Institute's website to support discussions on characters and themes. They could role play one of the characters and record an interview with them. • Learners could listen to extracts of German music recorded by German artists of diverse backgrounds. You could ask them to give their favourite and explain why. Learners could then choose their favourite artist and produce a short                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | have direct or indirect contact with speakers of the language                                                                                                  | presentation on the artist. • Centres and learners will be able to use initiatives such as MFL Mentoring - Modern Foreign Languages and Llwybrau at Ieithoedd Cymru Routes into Languages Cymru. • Both schemes support international languages and multilingualism in the new curriculum for Wales. Centres can request visits from Mentors and Student Language Ambassadors and sessions can be in person or online. • Centres can also apply for funding via Taith - Hwb (gov.wales) to take part in educational international exchanges. • You could also partner with a school in German-speaking country, for example, via the British Council: Partner with a school. Learners could engage in a joint project with a German-speaking school focusing on elements of Theme 2 such as discussing the local impact of climate change or learning about each other's town. Aspects of Theme 3 could also be a focus for example , learners could share photos of school life on Padlet. |
+
+
+
+{25}------------------------------------------------
+
+
 
 | engage with the language from a variety of sources and in a variety of genres and media         | • Learners will have the opportunity to engage with the language from a variety of sources and in a variety of genres and media throughout the specification. • It is vital to allow learners these opportunities so that they develop their creativity and self-expression through their German oracy. To support learners to express themselves for different purposes and audiences you could ensure that they are exposed to different text types, for example listening to or reading language which is designed to persuade, inform, instruct and recount. Learners may watch a short news report and then create and perform one of their own, perhaps linked to sustainability or the world of work. They could also plan and perform a chat show style question and answer session around keeping healthy or school life. You may also wish to use the selected literary text as a stimulus for learners to develop their own speaking work. They could, for example, create interviews with characters, record vlogs on themes/characters or create TikTok's on characters. Additionally, learners could listen to German podcasts and use these as a springboard to create and perform their own. Starting points could be: • https://www.easygerman.org/podcast • https://slowgerman.com/   |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | demonstrate language strategies and language learning skills, including the use of dictionaries | • Learners will have the opportunity to demonstrate language strategies and language learning skills, including the use of dictionaries throughout the specification. • To allow learners to become increasingly independent in their language learning and to convey their own ideas and viewpoints it is essential that they develop sound dictionary skills, and this includes online dictionaries such as dict.cc. Learners should be taught explicitly how to identify and search for nouns, verbs, adjectives and adverbs and how to apply these to their own writing and speaking work. • Providing a consistent colour-coding system for parts of speech would support learners in their grammatical skills. Analysing how parts of a sentence fit together could be facilitated by colour-coding and could support learners in their own use of grammar.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
+
+
+{26}------------------------------------------------
+
+
+
 | translanguaging                                                                                                                     | • Learners will have the opportunity to use their translanguaging skills throughout the specification. • You may wish to provide activities which allow learners to work in Cymraeg/English, German and other languages the learners may speak to develop their German oracy. They could, for example, listen to a documentary in Cymraeg/English on a German-speaking actor/musician and subsequently complete a fact-file about them in German and present this to the class in German. Practising role play tasks would also allow learners to develop their translanguaging as they read instructions in Cymraeg/English and formulate appropriate statements or questions in German. • You could also use translanguaging to encourage the learners to make connections between German and other languages they make speak.   |
 |-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | make use of digital technology                                                                                                      | • Learners will have the opportunity to make use of digital technology in all units. • You could make use of digital technology in order for learners to gain greater understanding of German-speaking countries and communities and to encourage and motivate learners. Use of digital technology in language learning can also raise confidence levels. • Examples of digital platforms which could be used to support speaking and listening are Padlet, making a vlog, making a TikTok video, creation of avatars using voki, and Adobe Express can also be used to create characters and record sound.                                                                                                                                                                                                                        |
 | making appropriate connections with other parts of the curriculum to develop and deepen learners' bilingual and multilingual skills | • Learners will be encouraged to make connections with other parts of the curriculum throughout their learning of German with cross-curricular connections to humanities subjects and of course with the other languages within the LLC Area of Learning Experience. • It is helpful to draw upon learners' understanding and skills in both English and Cymraeg to further develop their understanding and use of the German language. You could, for example, compare grammatical patterns such as the placement of adjectives in different languages or the use of formal and informal forms of address. Comparing and contrasting sound-spelling correspondence would also be worthwhile, as well as discussing the use and translation of idioms in different languages.                                                      |
+
+
+
+{27}------------------------------------------------
+
+
 
 ## Opportunities for embedding elements of the Curriculum for Wales
 
@@ -379,20 +537,44 @@ Learners should be encouraged to consider the following learning experiences and
 | Local, National & International Contexts and Sustainability | There are many opportunities to include Local, National & International Contexts and Sustainability in GCSE German. These opportunities are important to Learners because they allow learners to develop their curiosity about the German language and different cultures in German speaking countries, as well as gaining an understanding of the importance of international languages. It will help them to gain their own sense of linguistic and cultural identity within their own community and the wider world. Study of local, national and international context in Theme 2 will also give them a greater awareness of environmental issues and potential solutions. Below are some examples of how Local, National & International Contexts and Sustainability can be embedded into teaching and learning: |
 | Local, National & International Contexts and Sustainability | Example • Learners could explore environmental issues and sustainability within Theme 2. Learners could, for example, research and provide a short presentation on recycling in a German- speaking country and compare this with their own area. This could be supported by a PowerPoint/Sway/photos/video. • Learners could identify the advantages and disadvantages of public transport in their own region or town and compare this to a region or town in a German speaking country. They could consider aspects such as types of transport, cost and reliability. They could discuss this in pairs with the help of sentence starters to structure their conversations. Key vocabulary (Specification: Appendix B) and grammatical structures (Specification: Appendix A) would need to be taught in advance.   |
 
+
+
+{28}------------------------------------------------
+
+
+
 | Human Rights Education and Diversity   | There are many opportunities to include Human Rights Education and Diversity in GCSE German. These opportunities are important to Learners because learners will develop respect for languages spoken by others and empathise with other cultural identities, understanding similarities and differences. Below are some examples of how Human Rights Education and Diversity can be embedded into teaching and learning:                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Human Rights Education and Diversity   | Example • Based around Theme 1, learners could investigate the hobbies or food habits of young people in a German-speaking country to gain a greater sense of this aspect of their culture. They could , for example, research this through an online discussion with learners in a partner German-speaking country. Learners could then prepare and present similar information about their eating habits and those of their country. • Learners could investigate the musical tastes of young people in a German-speaking country and investigate why this music is popular/the origins of the music. They could compare and contrast with the music they listen to. Learners could present their findings as a vlog or in the form of an interview which they script and record. Alternatively, they could present this in the form of an infographic. |
+
+
+
+{29}------------------------------------------------
+
+
 
 | Careers and Work-Related Experiences   | There are many opportunities to include Career and Work-Related Experiences (CWRE) in GCSE German. These opportunities are important to Learners because they can appreciate the importance of being multilingual to expand their career opportunities and gain a greater understanding of career options open to them because of their study of German. Below are some examples of how CWRE can be embedded into teaching and learning:   |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Careers and Work-Related Experiences   | Example • Learners could research what jobs young people with language skills can do. They could carry out their research by planning questions and interviewing MfL mentors, who are German speakers, currently in higher education in Wales.                                                                                                                                                                                             |
 |                                        | • Links could be made to the German department in the local university and a virtual meeting could be set up where learners ask students who are studying German about their language skills and what they plan to do with them. • In pairs, learners could plan questions and answers for a mock interview for a part-time job. Learners could then take part in the interviews which could be filmed and subsequently evaluated.         |
 
+
+
+{30}------------------------------------------------
+
+
+
 | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Listening                            | There are many opportunities to include Literacy in GCSE German. These opportunities are important to Learners because they will develop effective listening skills to respond effectively to questions in different contexts. They will also be able to describe, narrate and express opinions in a range of contexts when speaking. Below are some examples of how Literacy can be embedded into teaching and learning:                                                                                                        |
 | Listening                            | Example • Learners could work in small groups with one person reading instructions aloud and the other learners responding to these, for example by carrying out actions and drawing what is being described. • Learners could take part in oracy games such as a running dictation which encourages both the speaker and the writer to focus on the accuracy of sound-spelling correspondence.                                                                                                                                  |
 | Speaking                             | Example • Looking at a stimulus photo or picture, learners could describe, narrate and explain based around key question words. Learners could have access to a range of sentence starters to help them structure their ideas. Discussions could focus on the past, present and future tense. • One partner could read a short extract from the selected literary text of Unit 2. The other partner could then identify which sentence is being read. This will support learners to develop their sound-spelling correspondence. |
+
+
+
+{31}------------------------------------------------
+
+
 
 | Cross-curricular Skills - Numeracy                                                                             | Cross-curricular Skills - Numeracy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -402,10 +584,22 @@ Learners should be encouraged to consider the following learning experiences and
 | Interacting and Collaborating                                                                                  | There are many opportunities to include Digital Competency in GCSE German. These opportunities are important to Learners because they support learners to be collaborative communicators Below are some examples of how Digital Competency can be embedded into teaching and learning:                                                                                                                                                                                                                                              |
 | Interacting and Collaborating                                                                                  | Example • Learners could engage in a series of online discussions with school pupils in a German- speaking country using Microsoft Teams, Zoom, or just in a written form using Padlet to provide information about themselves across the three Themes. • Learners would make use of a wide variety of technology to share and present ideas orally to each other (Padlet, vlogs, TikTok, Vocaroo, flip, Canva, PowerPoint, voki, Adobe Creative). Chat GPT with the introduction of audio could also be used to support oral work. |
 
+
+
+{32}------------------------------------------------
+
+
+
 | Integral Skills                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Creativity and Innovation             | There are many opportunities to include Creativity and Innovation in GCSE German. These opportunities are important to Learners because learners will have opportunities to experiment and use their spoken German creatively to communicate information and opinions. Below are some examples of how Creativity and Innovation can be embedded into teaching and learning: Example                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Critical Thinking and Problem Solving | There are many opportunities to include Critical Thinking and Problem Solving in GCSE German. These opportunities are important to Learners because they will help learners to communicate spontaneously, working out what they hear and read and choosing language to respond appropriately. Below are some examples of how Critical Thinking and Problem Solving can be embedded into teaching and learning: Example • Learners could engage in a hot-seating session or speed dating session where they answer a series of unprepared questions from one of the three themes. Learners should practise recycling structures and vocabulary, as well as employing their understanding of tenses and pronunciation in order to convey information, ideas and opinions as accurately as possible. |
+
+
+
+{33}------------------------------------------------
+
+
 
 | Planning and Organisation   | There are many opportunities to include Planning and Organisation in GCSE German. These opportunities are important to Learners because learners will learn to plan information and ideas in a logical order and to reflect on and make improvements to their speaking work. They will learn to manage the timing of their speaking work and identify prompts and bullet points which will best support them in their speaking presentations. Below are some examples of how Planning and Organisation can be embedded into teaching and learning:                                                                                                                                      |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -413,7 +607,19 @@ Learners should be encouraged to consider the following learning experiences and
 | Personal Effectiveness      | There are many opportunities to include Personal Effectiveness in GCSE German. These opportunities are important to Learners because learners they will gain confidence and independence in their oracy. Below are some examples of how Personal Effectiveness can be embedded into teaching and learning:                                                                                                                                                                                                                                                                                                                                                                              |
 | Personal Effectiveness      | Example • Learners could record a vlog/TikTok video on healthy eating. They could then listen back to their performances in pairs and evaluate the accuracy of their pronunciation by cross- checking with sound-spelling correspondence rules. Learners could identify any sound- spelling correspondence rules which they need to work on further in preparation for their next oral activity.                                                                                                                                                                                                                                                                                        |
 
+
+
+{34}------------------------------------------------
+
+
+
 - Learners could write and perform a dialogue on what they do usually at the weekend in the present tense. They could then be asked to re-read the conversation but transferring it to the past tense. Following this oral work, learners could review their use of the past tense by referring to their grammar notes to make improvements to the accuracy of their past tense dialogues.
+
+
+
+{35}------------------------------------------------
+
+
 
 ## Possible questions for the conversation task.
 
@@ -460,6 +666,12 @@ N.B these are not prescriptive or exhaustive and teacher-examiners may ask any q
 | Welche Probleme gibt es in deiner Gegend?                                 |
 | Was recycelst du zu Hause?                                                |
 | Was hast du letzte Woche gemacht, um umweltfreundlich zu sein?            |
+
+
+
+{36}------------------------------------------------
+
+
 
 ## Language for Study and Work
 

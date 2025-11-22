@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 <!-- image -->
@@ -16,7 +18,19 @@ For award from 2027
 
 Made for Wales. Ready for the world.
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## SUMMARY OF AMENDMENTS
 
@@ -24,6 +38,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 |-----------|------------------------------------------------------------------------|---------------|
 |         2 | Reduction to the Unit 1 task word count from 350-500 words to 250-400. | 9 and 26      |
 |         3 | Amended wording to mark scheme for question 6.                         | 19            |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -44,6 +64,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 15
 
 32
+
+
+
+{5}------------------------------------------------
+
+
 
 .
 
@@ -108,6 +134,12 @@ Centre number
 |   Candidate number |
 |--------------------|
 |                  0 |
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Section A
 
@@ -197,7 +229,19 @@ He wants to own a boat.
 
 [2]
 
+
+
+{7}------------------------------------------------
+
+
+
 Examiner only
+
+
+
+{8}------------------------------------------------
+
+
 
 - 6 . How does Carol Ann Duffy explore the idea of giving gifts in the poem 'Valentine'? Refer to words and phrases from the poem in your answer.
 
@@ -225,6 +269,12 @@ Examiner only
 
 [5] Examiner only
 
+
+
+{9}------------------------------------------------
+
+
+
 7. How does John Cooper Clarke use repetition of words and phrases to affect tone and meaning in 'i wanna be yours'? Give examples from the poem in your answer.
 
 ….........................................................................................................................
@@ -250,6 +300,12 @@ Examiner only
 [5]
 
 Examiner only
+
+
+
+{10}------------------------------------------------
+
+
 
 8. 'John Cooper Clarke presents a more positive view of love in 'i wanna be yours' than Carol Ann Duffy does in 'Valentine' .
 
@@ -301,6 +357,12 @@ In your response, you could:
 
 Examiner only
 
+
+
+{11}------------------------------------------------
+
+
+
 .............................................................................................................................
 
 .............................................................................................................................
@@ -353,6 +415,12 @@ Examiner only
 
 Examiner only
 
+
+
+{12}------------------------------------------------
+
+
+
 ….........................................................................................................................
 
 .............................................................................................................................
@@ -372,6 +440,12 @@ Examiner only
 .............................................................................................................................
 
 Examiner only
+
+
+
+{13}------------------------------------------------
+
+
 
 - 9.
 
@@ -423,6 +497,12 @@ Write a speech giving your thoughts on this idea and whether you think it is the
 
 .............................................................................................................................
 
+
+
+{14}------------------------------------------------
+
+
+
 ….........................................................................................................................
 
 .............................................................................................................................
@@ -459,9 +539,21 @@ Write a speech giving your thoughts on this idea and whether you think it is the
 
 Examiner only
 
+
+
+{15}------------------------------------------------
+
+
+
 | Question number   | Additional page, if required. the question number(s) in the left-hand                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                   | Write margin. ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... ............................................................................................................................. …......................................................................................................................... |
+
+
+
+{16}------------------------------------------------
+
+
 
 <!-- image -->
 
@@ -470,6 +562,12 @@ Examiner only
 ## Resource Folder
 
 ## Unit 1: Content and Meaning
+
+
+
+{17}------------------------------------------------
+
+
 
 - 5
 
@@ -489,6 +587,12 @@ let me be your electric meter i will not run out 20 let me be the electric heate
 * ford cortina - a vintage car
 
 John Cooper Clarke
+
+
+
+{18}------------------------------------------------
+
+
 
 ## Valentine (1993)
 
@@ -519,6 +623,12 @@ Here. It will blind you with tears like a lover. It will make your reflection a 
 I am trying to be truthful.
 
 Carol Ann Duffy
+
+
+
+{19}------------------------------------------------
+
+
 
 ## Generic marking principles
 
@@ -551,6 +661,12 @@ WJEC GCSE English Language and Literature Unit 1 Sample External Assessment
 
 ## Guidance for examiners
 
+
+
+{20}------------------------------------------------
+
+
+
 The marking of banded mark questions should always be positive. This means that, for each candidate's response, marks are accumulated for the demonstration of relevant skills, knowledge and understanding: they are not deducted from a maximum on the basis of errors or omissions.
 
 Examiners should first read and annotate the candidate's answer to pick out the evidence that is being assessed in that question. The mark scheme can then be applied. This is done as a two-stage process.
@@ -571,6 +687,12 @@ This mark scheme instructs examiners to look for and reward valid alternatives w
 
 WJEC GCSE English Language and Literature Unit 1 Sample External Assessment
 
+
+
+{21}------------------------------------------------
+
+
+
 ## Section A Reading
 
 | Question   | Question   | Answer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | AO1   | AO2   | Total Mark   |
@@ -578,11 +700,23 @@ WJEC GCSE English Language and Literature Unit 1 Sample External Assessment
 | 1.         | (a)        | What is the word class of the two words from the first line of 'Valentine' underlined below: 'Not a red rose or a satin heart.' Award one mark for the term adjective or the term modifier , one mark maximum.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [1]   |       | [1]          |
 |            | (b)        | Explain the effect that the words red and satin have in the poem. Award one mark to those who give a straightforward explanation of the effect of the word 'red', for instance saying that it makes the rose sound bright or romantic. Reward valid alternatives. Award one mark to those who give a straightforward explanation of the effect of the word 'satin', for instance saying that it makes it the heart sound luxurious, romantic or made of material. Reward valid alternatives. Award up to two marks to those who give a more detailed explanation of how either of both of these words are used to achieve effects. For instance: • The word satin suggests that the gift is fake/superficial • The word red suggests that the gift is a very familiar, perhaps cliched one • These two words emphasise that they are commercial, standard Valentine gifts. Reward valid alternatives. If only one of the two words is referred to then award a maximum of two marks. | [4]   |       | [4]          |
 
+
+
+{22}------------------------------------------------
+
+
+
 |   Question | Answer                                                                                                                                                                                                                                                                                                                                                                                                                                                              | AO1   | AO2   | Total Mark   |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|--------------|
 |          2 | In 'Valentine', what does the poet say about the onion given as a gift? Tick one statement. • It will be useful for cooking. • It will make the other person cry until they can't see. ✓ • It will get harder and stale. • It will remind the other person of a ball. Award one mark for a tick against the second option. Where a candidate has ticked/indicated more than the stipulated number of answers including the correct answer, no marks can be awarded. | [1]   |       | [1]          |
 |          3 | What is meant by the phrase 'its fierce kiss will stay on your lips' in 'Valentine'? Tick one statement. • an onion has a strong and lingering taste ✓ • the poet is asking the other person to kiss the onion • the poet finds onions tasty • the other person is angry about being given an onion as a gift.                                                                                                                                                      | [1]   |       | [1]          |
 |          4 | What is meant by the phrase 'you call the shots' in 'i wanna be yours'? Tick one statement. • She is the one with the gun • He wants her to be in charge ✓ • She must say when he has to shoot the ball • He wants to be the one in charge. Award one mark for a tick against the second option. Where a candidate has ticked/indicated more than the stipulated number of answers including the correct answer, no marks can be awarded.                           | [1]   |       | [1]          |
+
+
+
+{23}------------------------------------------------
+
+
 
 |   5. | Read lines 10-17 of 'i wanna be yours'. Which of the statements below about these lines of the poem are true? Tick two statements. • He only wants to be with her on sunny days • He wants to protect her when it is raining ✓ • He says it doesn't rain very often • He doesn't mind where she travels with him ✓ • He wants her to be like a cuddly toy • He wants to own a boat. Award one mark for each true statement identified (up to a maximum of two marks). The correct statements are the second and fourth options. Where a candidate has ticked/indicated more than two answers, mark all responses, total the number of marks, and deduct one mark for every additional response ticked over the number stipulated in the question.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [2]   | [2]   |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
@@ -590,11 +724,29 @@ WJEC GCSE English Language and Literature Unit 1 Sample External Assessment
 
 WJEC GCSE English Language and Literature Unit 1 Sample External Assessment
 
+
+
+{24}------------------------------------------------
+
+
+
 | Ideas candidates might explore may include:: • The poet is giving an unusual gift, an onion, which is different to traditional Valentine's gifts such as red roses and satin hearts • She is giving an unusual gift because it is a more accurate representation of love (layers, causes pain, lethal etc.) (I am trying to be truthful) • The poet is insistent about the gift when she says 'Here' and 'Take it' for example • Gifts have consequences, and these are definite, recognised by the words 'it will'. • Emotions are created by the giving of love, and these can be painful (wobbling photo of grief, cling to your knife etc.) • The gift of an onion is a physical metaphor for the giving of love. Reward valid alternatives.   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{25}------------------------------------------------
+
+
+
 | 7. How does John Cooper Clarke use repetition phrases to affect tone and meaning in Give examples from the poem in your Give 0 marks for responses where there credit. Give 1 mark to those who identify and superficial details. These answers may with the text and/or question. Give 2 marks to those who give straightforward supported by simple textual references. rely on paraphrasing or narrative approaches. Give 3 marks to those who make some supported by some textual references. show increasing awareness of the writer's some simple inferences are emerging. Give 4 marks to those who make detailed how meaning is created supported by references. These answers should show of the writer's craft and are able to make inferences. Give 5 marks to those who make accurate comments about how meaning is created selected examples and purposeful textual These answers will include more insightful an assured understanding of the wr iter's Ideas candidates might explore may • The poet repeats the word 'let' to pleading nature of his request • The poet repeats 'let me' to show lover rather than anyone else • The poet repeats 'you' and 'yours' address is to this one specific woman power is hers and the focus is on • The poet repeats the phrase 'let me emphasise the strength and/or urgency He is insistent • The poet repeats the phrase 'i wanna end of each stanza to create a refrain the exact nature of his request, saying belong to her just like the possessions   | [5]   | [5]   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
+
+
+
+{26}------------------------------------------------
+
+
 
 | 8.   | 'John Cooper Clarke presents a more positive view of love in 'i wanna be yours' than Carol Ann Duffy does in 'Valentine'' Using linguistic and literary approaches, explain to what extent you agree with this statement. Remember to discuss the contexts of the poems where appropriate in your answer. In your response, you could: • explain what the poems are about • compare different aspects of the poems • discuss how themes and ideas are presented and structured • explore the poets' choices of words, phrases and images, and the effects they create • give your personal response to the poems.   | [22]   | [3]   | [25]   |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|--------|
@@ -616,6 +768,12 @@ The most successful responses will include consideration of a range of detail fr
 
 Less successful responses will be underdeveloped and based on a simple understanding of one or both poems showing a basic awareness of the presentation of love. There may be awareness of the context of the poems perhaps including that of the reader. Responses at this level may sometimes be general and rely on any potential links to own experiences. There may be some attempt at comparison between the poems.
 
+
+
+{27}------------------------------------------------
+
+
+
 ## Mark scheme
 
 Unit 1 Question 8                                                                                                                                                                   Marks available 25
@@ -636,16 +794,34 @@ In your response, you could:
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |      5 | 18-22 marks Candidates: • show a convincing and perceptive understanding, considering a wide range of different aspects of content; responses are sustained, detailed and critical in their engagement and may include offering some reasoned judgements or considered personal response. • offer a sustained and convincing selection of relevant points, along with detailed and interesting development of ideas. A sophisticated evaluation of relevant points is given to demonstrate how they illustrate and support interpretations. • make developed and sustained comparisons and/or links with detailed and persuasive explanations. • provide sustained and thoughtful synthesis and/or summary of information, ideas and themes, using appropriate details to explain the relevance and impact of the links and/or comparisons made. • offer well-reasoned explanations of how a comprehensive range of aspects of language, structure and form contribute to the presentation of information, ideas and themes. • give well-reasoned and persuasive explanations of a comprehensive range of examples of the impact of language, structure and form. • show a comprehensive and sophisticated understanding of contexts, making convincing explanations about their impact. |
 
+
+
+{28}------------------------------------------------
+
+
+
 |    | • show a full and thorough understanding how contexts may inform viewpoints and perspectives, drawing confidently on well-chosen evidence from the text(s).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  4 | 14-17 marks Candidates: • show secure understanding, demonstrating that they have considered a range of aspects of the content; responses develop points to engage critically with a range of ideas and may begin to offer considered personal response. • offer a competent selection of points offered, and meaningful development of ideas. Secure evaluation of relevant points to demonstrate how they illustrate and support interpretations. • make appropriate and meaningful comparisons and/or links with clear explanations. • provide accurate synthesis and/or summary of information, ideas and themes, with some attempt to explain the relevance and impact of the links and/or comparisons made. • offer detailed explanations of how a range of relevant aspects of language, structure and form contribute to the presentation of information, ideas and themes. • give secure explanations of a range of relevant examples of the impact of language, structure and form. • show a secure understanding of contexts, making appropriate observations about their impact. • show secure understanding of how contexts may inform different viewpoints and perspectives, supporting their views with relevant evidence from the text(s). |
 |  3 | 10-13 marks Candidates: • show some understanding of the main features of the content; responses focus on the main points with some development of ideas. • select a broad range of appropriate points with clear development of ideas. Some appropriate evaluation is made of how the points illustrate and support interpretations. • make appropriate comparisons and/or links with some explanation. • provide clear and appropriate synthesis and/or summary of information, ideas and themes. • offer straightforward explanations of how different aspects of language, structure and form contribute to the presentation of information, ideas and themes. • give straightforward explanations about the impact of language, structure and form. • show clear understanding of, with emerging awareness of their impact. • show clear understanding of how contexts may inform different viewpoints and perspectives, and select some appropriate material from the text(s) to support their views.                                                                                                                                                                                                                                                |
+
+
+
+{29}------------------------------------------------
+
+
 
 |    | 6-9 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  2 | Candidates: • show a basic understanding with some weaknesses in interpreting content; responses are likely to be undeveloped and take a descriptive approach. • select some points with some basic evidence of development of ideas. Simple explanation is given of how the points illustrate and support interpretations. • make some basic comparisons and/or links with little explanation. • provide basic synthesis and/or summary of information, ideas and themes, which may contain some errors. • comment on some basic examples of how language, structure and form contribute to the presentation of information, ideas and themes. • make basic comments on the impact of language, structure and form, although not all will be clear or relevant. • show basic understanding of contexts, making undeveloped comments that may not be relevant to the text. • show basic understanding of how contexts may inform different viewpoints and perspectives. |
 |  1 | 1- 5 marks Candidates: • show limited understanding with some misinterpretation of content; responses are likely to be brief and simple. • offer a limited number of points, without development or evaluation. • make a limited number of basic comparisons and/or links often without explanation. • provide limited and often inaccurate synthesis and/or summary of information, ideas and themes. • make simple and limited comments on how language, structure and form contribute to the presentation of information, ideas and themes. • make limited comments on the impact of language, structure and form. • show limited understanding of contexts, making only brief and generalised comments. • show limited understanding of how contexts inform different viewpoints and perspectives.                                                                                                                                                                  |
 |  0 | 0 marks Nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
+{30}------------------------------------------------
+
+
 
 | AO2: Learners are assessed for the quality of their written communication, including the accuracy of their language.   | AO2: Learners are assessed for the quality of their written communication, including the accuracy of their language.                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -655,13 +831,31 @@ In your response, you could:
 | 1                                                                                                                      | 1 mark • Candidates rarely use appropriate grammar and syntax and errors may impede meaning. • Errors in punctuation and spelling are likely to impede clarity or meaning.                                                             |
 | 0                                                                                                                      | 0 marks Nothing worthy of credit.                                                                                                                                                                                                      |
 
+
+
+{31}------------------------------------------------
+
+
+
 | Question   | Answer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | AO1   | AO2   | Total marks   |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|---------------|
 | 9 or 10    | In this section, you will be assessed for the quality of your writing skills. You should aim to write about 250 - 400 words . Choose one of the following for your writing: EITHER, Your school or college has decided to have an extra day off each year and that it should be Valentine's Day, so that love can be celebrated. You have been asked to give your views to the rest of your year group. Write a speech giving your thoughts on this idea and whether you think it is the best choice for the extra day off. This speech is to people of your own age. OR, Write an extract from a novel in which one character advises another about going on a first date. These questions cover assessment objective AO2 including all of its sub strands. |       | [15]  | [15]          |
 | 9.         | For Question 9 the most successful responses are likely to: • Clearly address the specified audience and make attempts to engage them • Talk about reasons both for and against the proposal • Come to a conclusion about whether this is a good idea or not • Be persuasive in arguments supporting this conclusion • Have a clear beginning and end of the response that appears typical of a speech • Use an accurate and effective register and style in addressing the audience, perhaps making good use of the pronouns 'you' or 'we'.                                                                                                                                                                                                                 |       |       |               |
 
+
+
+{32}------------------------------------------------
+
+
+
 | 10.   | For Question 10 the most successful responses are likely to: • Establish two clear characters and the situation in which the advice is given • Establish a tone for the advice, perhaps an informal conversation or a more formal warning of the possible pitfalls • Include advice that is detailed and specific • Employ humour, or another identifiable dynamic between the characters, such as jealousy, concern or control • Have a significant end point. Even though this is an extract from a longer work there should be a relevant and clearly identifiable ending to the exchange between the characters • Use the advice expressed to highlight the strength or limitations of the relationship between the characters or to focus more on the strength or limitations of one of the characters.   |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{33}------------------------------------------------
+
+
 
 ## Unit 1 Section B
 
@@ -679,14 +873,32 @@ Write an extract from a novel in which one character advises another about going
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |      5 | 13-15 marks • Communication is consistently clear, with confident and persuasive use of language for effect, and evidence of originality of imagination. • Candidates make well-considered choices of forms, vocabulary and/or techniques, showing sophisticated awareness of audience engagement. • Candidates consistently and creatively adapt communication, purposefully selecting appropriate register, vocabulary and techniques. • Communication is consistently coherent, purposefully organised with a wide variety of sophisticated linguistic and structural features. • Candidates confidently use a wide range of sentence structures, that thoughtfully enhance clarity, and successfully support purpose and create effect. • Candidates consistently and purposefully use appropriate grammar. • A wide range of punctuation is used confidently and accurately. Spelling is almost always correct, including that of complex/irregular words. |
 
+
+
+{34}------------------------------------------------
+
+
+
 |   4 | 10-12 marks • Communication is clear, with secure use of language for effect and evidence of sustained and interesting imagination. • Candidates use a broad range of well-chosen forms, vocabulary and/or techniques, with secure awareness of audience engagement. • Candidates adapt communication securely, and show some confidence in selecting appropriate register, vocabulary and techniques. • Communication is mostly coherent, effectively organised with a variety of well-chosen linguistic and structural features. • Candidates use a range of sentence structures, that enhance clarity, and are deliberately used for purpose and effect. • Candidates use appropriate grammar. • A range of punctuation is used accurately, and spelling is secure.     |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   3 | 7-9 marks • Communication is mostly clear, with appropriate use of language for effect and evidence of engaging imagination. • Candidates use a range of appropriate forms, vocabulary and/or techniques, with clear awareness of audience engagement. • Candidates adapt communication, showing some evidence of selecting appropriate register, vocabulary and techniques. • Communication is generally coherent, organised with some use of linguistic and/or structural features. • Candidates use varied sentence structures, which sometimes enhance clarity, and may be used for specific purpose or effect. • Candidates generally use appropriate grammar. • Punctuation and spelling are generally accurate with occasional errors, which do not impede meaning. |
+
+
+
+{35}------------------------------------------------
+
+
 
 | 2   | 4-6 marks • Communication shows basic clarity, with some effective use of language and some evidence of imagination emerging. • Candidates use some appropriate forms, vocabulary and/or techniques, which demonstrate some awareness of audience engagement. • Candidates begin to adapt communication, with some basic attempts to select appropriate register, vocabulary and techniques. • Communication shows some coherence with occasional use of basic linguistic and/or structural features. • Candidates use basic sentence structures which do not always enhance clarity, purpose and/ or effect. • Candidates occasionally use appropriate grammar, but it is inconsistent in accuracy. • Punctuation and spelling have frequent errors, but meaning is largely clear.   |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     | 1-3 marks • Communication shows limited clarity, with limited effectiveness in use of language and little evidence of imagination. • Forms, vocabulary and/or techniques are often inappropriate, ineffective and inconsistent, and show limited awareness of audience. • Candidates rarely adapt communication; register, vocabulary or techniques may not be appropriate. • Communication shows occasional coherence, but this may be limited by the lack of organisation. Linguistic and structural features are limited and may be inaccurate. • Candidates show limited ability to vary sentence structures. • Candidates rarely use appropriate grammar and errors may impede meaning. • Errors in punctuation and spelling are likely to impede clarity or meaning.            |
 | 1 0 | 0 marks Nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+
+
+{36}------------------------------------------------
+
+
 
 ## Mapping of questions to specification content and assessment objectives: Unit 1
 

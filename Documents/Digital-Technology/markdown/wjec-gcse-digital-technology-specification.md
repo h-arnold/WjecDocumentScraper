@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Digital T echnology
@@ -8,17 +10,25 @@ Approved by Qualifications Wales
 
 Teaching from 2026 For award from 2028
 
-cuwithcredentials"in fc,fc=l.ajax=!!c,1
-
-.ahrfields[f];b.mimeTypes6g.overrideMinelyp
-
 <!-- image -->
 
 Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -27,6 +37,12 @@ This specification meets the requirements of the following regulatory documents 
 - Approval Criteria for GCSE Digital Technology which sets out the subject specific requirements for GCSE Digital Technology from September 2025 and beyond.
 
 Copyright © WJEC CBAC Limited 2025.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## CONTENTS
 
@@ -60,6 +76,12 @@ Copyright © WJEC CBAC Limited 2025.
 | Appendix F: Decision Guide for assessing the suitability of game development software....................................................................................................................      | Appendix F: Decision Guide for assessing the suitability of game development software....................................................................................................................      | Appendix F: Decision Guide for assessing the suitability of game development software....................................................................................................................      | 55                                                                                        |
 | Appendix G: Decision Guide for assessing the suitability of photo editing software.                                                                                                                            | Appendix G: Decision Guide for assessing the suitability of photo editing software.                                                                                                                            | Appendix G: Decision Guide for assessing the suitability of photo editing software.                                                                                                                            | 56                                                                                        |
 | Appendix H: Decision Guide for assessing the suitability of graphics software........                                                                                                                          | Appendix H: Decision Guide for assessing the suitability of graphics software........                                                                                                                          | Appendix H: Decision Guide for assessing the suitability of graphics software........                                                                                                                          | 57                                                                                        |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## GCSE DIGITAL TECHNOLOGY SUMMARY OF ASSESSMENT
 
@@ -103,6 +125,12 @@ The first award of the qualification will be 2028.
 
 Qualification Approval Number: C00/5167/7
 
+
+
+{6}------------------------------------------------
+
+
+
 ## GCSE DIGITAL TECHNOLOGY
 
 ## 1 INTRODUCTION
@@ -143,6 +171,12 @@ The GCSE Digital Technology qualification supports the Curriculum for Wales by:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{7}------------------------------------------------
+
+
+
 - make informed decisions about the future development and application of technology.
 - supporting the principles of progression 2  by encouraging learners to:
 - apply an iterative approach, through trial and improvement, to design processes
@@ -170,6 +204,12 @@ As our understanding of diversity, equity, and inclusion evolves, so must our la
 
 3 https://hwb.gov.wales/curriculum-for-wales/science-and-technology/designing-your-curriculum/#specific-considerations-forthis-area
 
+
+
+{8}------------------------------------------------
+
+
+
 ## 1.6 Equality and fair access
 
 The specification may be followed by any learner, irrespective of gender, ethnic, religious or cultural background. It has been designed to avoid, where possible, features that could, without justification, make it more difficult for a learner to access and achieve because they have a particular protected characteristic.
@@ -181,6 +221,12 @@ Access arrangements and reasonable adjustments are made for eligible learners to
 Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website (www.jcq.org.uk).
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
+
+
+
+{9}------------------------------------------------
+
+
 
 ## 2 SUBJECT CONTENT
 
@@ -195,6 +241,12 @@ The amplification provided in the right-hand column uses the following four stem
 The use of the word ' including ' indicates that the specified content must be taught and could be subject to assessment.
 
 The use of the words 'for example' or 'such as' indicates that the specified content is for guidance only, and alternative examples could be chosen.
+
+
+
+{10}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -222,8 +274,20 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{11}------------------------------------------------
+
+
+
 | 1.1.2 Analogue and digital data   | Learners should know: • what analogue data is • what digital data is • examples of analogue and digital data • the key differences between analogue and digital data, including: • accuracy • processes. Learners should know: • the key principles of converting sound from analogue to digital data, including: • sampling • sample frequency • bit depth • the key principles of converting light from analogue to digital data, including: • sampling • colour depth • resolution • the impact on analogue to digital conversion of sound and light, including: • quality • file storage size. Learners should know: • how image data is stored, effects on scaling and quality for digital visual media, including: • vector graphics • bitmap graphics • moving image files. Learners should understand the principles of data compression for digitally stored media, including: • lossy and lossless compression in different contexts • calculating compression ratios and the changes in file sizes • impact on file storage size and quality.   |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{12}------------------------------------------------
+
+
 
 | 1.2                                                                                                                                                                                                                                                                                                       | Digital technology systems                                                                                                                                                                                                                                                                                | Digital technology systems                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -233,6 +297,12 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{13}------------------------------------------------
+
+
+
 |                                         | • fibre • mobile communication, such as 4G and 5G • Wi-Fi (802.11) • Bluetooth. Learners should understand how Geographical Information Systems (GIS) use these transmission technologies to collect, share, and update spatial data in real time. Learners should understand the advantages and disadvantages associated with technologies used for transmitting data, including: • speed and reliability • coverage and accessibility • cost and infrastructure • security considerations.                                                              |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.2.2 The features of operating systems | Learners should know the purpose and function of the operating system. Learners should know how operating systems manage: • resources • peripherals, including input and output devices • spooling • memory • processes • security • user interfaces. Learners should know: • the characteristics and uses of user interfaces, including: • Command Line Interface (CLI) • Graphical User Interface (GUI) • Touch Sensitive Interface (TSI) • biometrics • voice driven interface • eye tracking interface. Learners should understand the advantages and |
@@ -240,12 +310,30 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{14}------------------------------------------------
+
+
+
 | 1.2.4 Data backup   | Learners should understand the importance of backing up data. Learners should know: • the purpose and key-features of data backup processes, including: • full backup • incremental backup • differential backup • Grandfather - Father - Son (GFS) methodology as an approach for backing-up data. Learners should know: • the characteristics and suitability of backup storage media, including: • cloud storage • magnetic storage • optical storage • solid state storage. Learners should understand the advantages and disadvantages associated with these backup storage media, including: • cost • durability • portability • speed • storage capacity. Learners should know the purpose of backup strategies, including: • regular scheduling • versioning • offsite backup. Learners should know the need for a disaster recovery plan, including: • restoration process, including: • data backup and recovery • system restoration • testing and maintenance • security considerations, including: • access control • encryption • disaster prevention measures.   |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{15}------------------------------------------------
+
+
 
 | 1.2.5 Cloud services                     | Learners should understand cloud services including: • the difference between cloud computing and cloud storage • the benefits of cloud services, including: • scalability • cost-effectiveness • accessibility • reliability • security • flexibility • challenges and considerations, including: • data privacy • vendor lock-in • downtime and service interruptions • cost management.                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.2.6 The Systems Development Life Cycle | Learners should understand: • the purpose of the Systems Development Life Cycle • the phases of the Systems Development Life Cycle, including: • scoping and feasibility • analysis • design • implementation • testing • deployment • maintenance. Learners should know: • processes involved in implementing digital systems, including: • direct 'big bang' method • parallel method • phased method • pilot method. Learners should understand the advantages and disadvantages when selecting a process for implementing digital systems. Learners should know the benefits of using digital systems, including: • automation of processes • communication and collaboration • data management and analysis • innovation and competitiveness • resource management • scalability and flexibility. |
+
+
+
+{16}------------------------------------------------
+
+
 
 | 1.3                                                                                                                                                                                                                                             | Digital Communication                                                                                                                                                                                                                           | Digital Communication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -254,8 +342,20 @@ The purpose of this unit is to:
 | 1.3.1 Digital communication methods for personal, social and business uses                                                                                                                                                                      | 1.3.1 Digital communication methods for personal, social and business uses                                                                                                                                                                      | Learners should know the purpose and key features of digital communication methods for individuals, society and business, including: • blogs • collaborative tools • email • forums and online communities • Instant Messaging (IM) and chat applications • Short Message Service (SMS) • social media platforms • video call                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 1.3.2 Reliability of online sources                                                                                                                                                                                                             | 1.3.2 Reliability of online sources                                                                                                                                                                                                             | • Voice Over Internet Protocol (VoIP). . Learners should understand: • the importance of using reliable online sources • the factors that determine reliability, including: • accuracy and objectivity • author credentials • citations and references • peer review • publication date • source reputation • methods of evaluating online sources, including: • analysing writing style • checking for bias • cross-referencing • domain analysis • fact-checking • the challenges when considering the reliability of online sources, including: • digital literacy • echo chambers • misinformation • disinformation. Learners should know examples of reliable online sources, including: • academic journals • government websites • professional organisations • reputable news outlets. |
 
+
+
+{17}------------------------------------------------
+
+
+
 | 1.3.3 Social networking practices and ownership   | Learners should know practices of social media platforms, including: • creating and sharing user-generated content • joining groups and engaging in online communities • profiles and managing online identity • tagging, liking, status updates and checking-in • trends and viral content. Learners should understand how social networking impacts on digital content ownership, including: • media ownership • management of content rights.   |
 |---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{18}------------------------------------------------
+
+
 
 | 1.4                                                                                                                                                                                                                | The digital shift: work, trade, and monetisation                                                                                                                                                                   | The digital shift: work, trade, and monetisation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -265,6 +365,12 @@ The purpose of this unit is to:
 | 1.4.2 Changing relationships of marketplace models                                                                                                                                                                 | 1.4.2 Changing relationships of marketplace models                                                                                                                                                                 | Learners should know the purpose and features of different marketplace models, including: • Business to Business (B2B) • Business to Consumer (B2C) • Consumer to Consumer (C2C). Learners should understand: • the advantages and disadvantages of the changing relationship of these marketplace models on: • business • consumers.                                                                                                                                                                                                                                                                                                                         |
 | 1.4.3 Rise of services and monetising content.                                                                                                                                                                     | 1.4.3 Rise of services and monetising content.                                                                                                                                                                     | Learners should understand how and why content and services are monetised, including: • advertising through websites • data mining and analytics • freemium models and in-app purchases • marketing to prospective and existing customers by email, social media or other means • subscription based services and their impact on revenue generation.                                                                                                                                                                                                                                                                                                         |
 
+
+
+{19}------------------------------------------------
+
+
+
 | 1.5                                                                                                                                                                                                                                           | Securing data and systems                                                                                                                                                                                                                     | Securing data and systems                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In this section learners will gain knowledge and understanding of the following: 1.5.1 The range of threats to data 1.5.2 The consequence of cyber-attacks on organisations 1.5.3 Digital footprints 1.5.4 Legal and ethical responsibilities | In this section learners will gain knowledge and understanding of the following: 1.5.1 The range of threats to data 1.5.2 The consequence of cyber-attacks on organisations 1.5.3 Digital footprints 1.5.4 Legal and ethical responsibilities | In this section learners will gain knowledge and understanding of the following: 1.5.1 The range of threats to data 1.5.2 The consequence of cyber-attacks on organisations 1.5.3 Digital footprints 1.5.4 Legal and ethical responsibilities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -272,9 +378,21 @@ The purpose of this unit is to:
 | 1.5.1 The range of threats to data                                                                                                                                                                                                            | 1.5.1 The range of threats to data                                                                                                                                                                                                            | Learners should know the characteristics of threats to data, including: • deliberate destruction of data • Denial of Service (DoS) attacks • Distributed Denial of Service (DDoS) attacks • human error • malware • Man-in-the-Middle (MitM) attacks • phishing • physical threats to data • social engineering • zero-day exploits. Learners should know the cyber security controls organisations can use to prevent threats to data, including: • install and update antivirus software regularly • train employees to recognise phishing attempts and use email filters • implement strict verification protocols and staff training • use firewalls, load balancers and traffic monitoring • use encrypted connections and strong authentication methods • apply security patches and updates promptly • secure hardware with locks and access control • provide regular training and implement robust approval processes • use access control and data redundancy for protection • use VPNs for remote employees to minimise unauthorised access and data breaches. |
 | 1.5.2 The consequence of cyber attacks on organisations                                                                                                                                                                                       | 1.5.2 The consequence of cyber attacks on organisations                                                                                                                                                                                       | Learners should know the potential consequences of cyber attacks on organisations, including: • data loss • direct and indirect financial loss • employee impact • legal consequences • operational disruption • reputation damage. Learners should know the purpose of cyber attack recovery plans, including: • business continuity plans • disaster recovery plan • ensuring regular backups of data • redundant systems and failover.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
+
+
+{20}------------------------------------------------
+
+
+
 | 1.5.3 Digital footprints                 | Learners should know the types and features of digital footprints, including: • active • passive. Learners should understand the implications of digital footprints, including: • data mining • impact on future opportunities • personal privacy and security • targeted advertising. Learners should know the strategies and importance of managing digital footprints, including: • adjusting privacy settings • avoiding oversharing information • reviewing and cleaning up digital footprints • using software tools and technologies, such as privacy- focused browsers and Virtual Private Networks (VPNs). Learners should understand: • the potential impact and use of digital footprints for different groups, including: • businesses • employees • security services   |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.5.4 Legal and ethical responsibilities | Learners should know the purposes, provisions, exceptions and penalties outlined in the following acts: • The Computer Misuse Act 1990 • The Copyright Act 1988 • The Data Protection Act 2018 including the General Data Protection Regulation (GDPR) • The Investigatory Powers Act 2016 • Online Safety Act 2023. Learners should understand the ethical impact of: • data and digital systems, including: • individual • organisations • society • the use of Artificial Intelligence (AI) in automated decision making.                                                                                                                                                                                                                                                         |
+
+
+
+{21}------------------------------------------------
+
+
 
 | 1.6                                                                                                                                                                                                                                                                          | Emerging and evolving digital technologies                                                                                                                                                                                                                                   | Emerging and evolving digital technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -285,9 +403,21 @@ The purpose of this unit is to:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{22}------------------------------------------------
+
+
+
 |                                                                        | Learners should understand the potential impact of artificial intelligence ( AI) models, including: • bias in decision making • privacy concerns • job automation • ethical concerns • misuse.                                                                                                                                                            |
 |------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.6.3 Emerging trends and future developments of digital technologies. | Learners should know the impact of emerging digital technology on individuals, organisations and society, including: • 5G and next-generation networking • artificial intelligence (AI) and machine learning • blockchain technologies • cyber security • Internet of Things (IoT) • quantum computing • Virtual Reality (VR) and Augmented Reality (AR). |
+
+
+
+{23}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -315,9 +445,21 @@ Centres can select suitable software to develop digital products. Centres should
 | Section                                                                                                                                      | Section                                                                                                                                      | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 2.1.1 Cleansing and organising data                                                                                                          | 2.1.1 Cleansing and organising data                                                                                                          | Learners should understand: • different types of data and their characteristics • techniques for cleansing and organising data. Leaners should be able review quantitative data and use suitable spreadsheet skills, formulas and functions to cleanse and organise data for data analytics to take place. Learners should be able to: • review quantitative data and use suitable spreadsheet skills, formulas and functions to cleanse and organise data for data analytics to take place, including: • data cleansing, such as: • correct errors • insert missing values • remove duplicates • remove outliers • use standard data formats • validate data against known standards or rules • data organising, such as: • filtering and searching using formulas/functions • sorting • categorise • format data and tables • using in-built filters |
 
+
+
+{24}------------------------------------------------
+
+
+
 |                      | • create pivot tables. • use suitable formulas and functions from each level of complexity (categorised as basic, medium and complex, as listed in Appendix A).                                                                                                                                                                                                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.1.2 Data analytics | Learners should understand: • how descriptive data analytics uses statistical summaries to identify patterns, trends, and relationships within the data • how data can be presented using visualisations. Learners should be able to use data analytics to: • identify audience needs, trends, and preferences by applying suitable software techniques • report results in a suitable format, including suitable graphs or charts. |
+
+
+
+{25}------------------------------------------------
+
+
 
 ## 2.2 Proposing and designing digital products
 
@@ -328,6 +470,12 @@ In this unit learners will gain knowledge and understanding of the following are
 | 2.2.1 Digital products proposal  | Learners should understand how to develop a digital product proposal. Learners should be able to propose suitable digital products based on a client brief and qualitative data provided, including: • specific and measurable success criteria that includes: • alignment with outcomes from data analytics results • design aspects that reflect qualitative data provided • functionality and usability • time planning document to ensure the development process is completed on time, including the following elements: • tasks • activities • milestones.                                            |
 | 2.2.2 Designing digital products | Learners should understand how to effectively design digital products. Learners should be able to use their success criteria, client brief and qualitative data provided to plan: • annotated initial design options for digital products, such as: • Decision Guides • mock-ups • sitemaps • storyboards • wireframes • visual aspects, including: • colour schemes • layout • typography • sound aspects, such as: • background music • sound effects • voiceovers or narration. Learners should be able to: • justify choices of selected design options for digital products based on success criteria. |
 
+
+
+{26}------------------------------------------------
+
+
+
 | 2.3                                                                                                                                                                                                                 | Implementation                                                                                                                                                                                                      | Implementation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.3.1 Website implementation 2.3.2a Computer game implementation Or 2.3.2b 2 Dimensional (2D) animation implementation | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.3.1 Website implementation 2.3.2a Computer game implementation Or 2.3.2b 2 Dimensional (2D) animation implementation | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.3.1 Website implementation 2.3.2a Computer game implementation Or 2.3.2b 2 Dimensional (2D) animation implementation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -335,9 +483,21 @@ In this unit learners will gain knowledge and understanding of the following are
 | 2.3.1 Website implementation                                                                                                                                                                                        | 2.3.1 Website implementation                                                                                                                                                                                        | Learners should understand: • the features of a functional, multi-page website • the skills needed to create and export a functional, multi- page website. Learners should be able to create a functional, multi-page website which includes the following features, including: • suitable media • effective navigation between pages • hyperlinks to external documents. Leaners should be able to develop a functional multipage (three pages) website that reflects: • success criteria • chosen design options • qualitative data. Learners should be able to: • demonstrate suitable web development skills from each level of complexity (categorised as basic, medium and complex, as listed in Appendix A). Learners should be able to export the multi-page website into a hostable file format, such as: • Hyper Text Mark-up Language (HTML) • Cascading Style Sheets (CSS) |
 | 2.3.2a Computer game implementation                                                                                                                                                                                 | 2.3.2a Computer game implementation                                                                                                                                                                                 | Learners should understand: • the features of a functional, multi-level computer game • the skills needed to create and export a functional multi- level computer game. Learners should be able to apply technical skills to develop a computer game, including: • writing scripts using scripting-based languages to control game behaviour, such as: • player movement • enemy automation • game logic • scoring systems • lives or damage systems • designing and using game characters, objects, and environments including animation • creating multiple game levels                                                                                                                                                                                                                                                                                                              |
 
+
+
+{27}------------------------------------------------
+
+
+
 |                                                    | • adding sound effects and background music to enhance the gaming experience • creating intuitive, interactive and engaging interface elements, such as: • menu screens • Heads-Up Displays (HUDs) • using suitable game development techniques from each level of complexity (categorised as basic, medium and complex, as listed in Appendix A). Learners should be able to export the game to a standalone application.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2.3.2b 2 Dimensional (2D) animation implementation | Learners should understand: • the features of a functional, 2D animation • the skills needed to create and export a functional 2D animation. Learners should be able to apply technical skills to develop a 2D animation, including: • designing a range of different characters, including animated sprites • using suitable animation production skills, such as: • camera movement • frame-by-frame • masking • onion skinning • rigging • rotoscoping • tweening • embedding suitable sound to enhance the animation: • creating multiple animation sets to depict various scenes and actions • using animation timeline skills to control the timing and movement of animations • using suitable animation techniques from each level of complexity (categorised as basic, medium and complex, as listed in Appendix A). Learners should be able to export the animation to a format which will allow for embedding within a webpage. |
+
+
+
+{28}------------------------------------------------
+
+
 
 | 2.4                                                                                                                                                                                                                         | Testing and evaluating digital products and development approaches                                                                                                                                                          | Testing and evaluating digital products and development approaches                                                                                                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -345,6 +505,12 @@ In this unit learners will gain knowledge and understanding of the following are
 | Section                                                                                                                                                                                                                     | Section                                                                                                                                                                                                                     | Amplification                                                                                                                                                                                                                                                   |
 | 2.4.1 Effectiveness of ongoing testing for the digital products                                                                                                                                                             | 2.4.1 Effectiveness of ongoing testing for the digital products                                                                                                                                                             | Learners should understand how to evaluate the effectiveness of their ongoing testing of the digital products, including: • identifying and removing errors • ensuring the final digital products operate as expected • if the success criteria have been met . |
 | 2.4.2 Evaluation of digital products and development processes                                                                                                                                                              | 2.4.2 Evaluation of digital products and development processes                                                                                                                                                              | Learners should understand how to evaluate if their digital products meet success criteria, including: • the completed products • the development process • application of skills.                                                                              |
+
+
+
+{29}------------------------------------------------
+
+
 
 ## Unit 3
 
@@ -370,12 +536,30 @@ Centres can select suitable software to create and manipulate digital media asse
 | Section                                                                                                                                                                                                                                                  | Section                                                                                                                                                                                                                                                  | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 3.1.1 Factors influencing social media platform choices                                                                                                                                                                                                  | 3.1.1 Factors influencing social media platform choices                                                                                                                                                                                                  | Learners should understand: • how the age group of a target audience and other demographic factors influence the choice of social media platform, such as: • cultural or ethnic backgrounds • gender • geographic locations • income • interests and behaviours of users • lifestyle • the characteristics of different social media platforms and its impact on user engagement, such as: • algorithmic content delivery • community building • engagement tracking • interactivity and engagement • monetisation • multi-device accessibility • multimedia integration • personalisation • privacy and security • public and private communications • real-time updates • user-generated content • the features of different social media platforms and its impact on user engagement, such as: |
 
+
+
+{30}------------------------------------------------
+
+
+
 |                                  | • advertising tools • analytics • content sharing • direct and private messaging • dynamic news feeds • e-commerce integration • geotagging • groups or communities • hashtags • notifications and alerts • profiles • stories.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3.1.2 Digital marketing strategy | Learners should understand how a digital marketing strategy can help an organisation achieve its aims, using: • forms of digital marketing, such as: • influencer marketing • paid advertising • branding elements • notifications • comments and reviews • media uploads • following or subscribing • sharing options. • placement strategies used in digital marketing such as: • direct messages • event pages • influencer collaborations • live streams • sponsored posts • stories • video platforms. • targeting strategies used in digital marketing, such as: • audience segmentation • behavioural targeting • geographic targeting • demographic targeting • interest targeting • retargeting or re-engaging users • time-based targeting. Learners should understand how an effective digital marketing strategy relies on the coherence. |
 
+
+
+{31}------------------------------------------------
+
+
+
 | 3.1.3 Digital marketing campaign benefits, opportunities and risks   | Learners should understand how a digital marketing campaign posted on social media can influence an organisation in achieving its aims through: • the benefits and opportunities, such as: • increased reach • cost-effectiveness • targeted marketing • measurable results • real-time engagement • personalisation • brand awareness • customer insights • enhanced customer relationships • content variety • viral potential. • the risks, such as: • advertising fraud • algorithm changes • compliance issues • content mismanagement • intellectual property infringement • market saturation • negative publicity • privacy concerns • reputation damage.   |
 |----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{32}------------------------------------------------
+
+
 
 ## 3.2 Developing and implementing a digital marketing strategy
 
@@ -389,8 +573,20 @@ Centres can select suitable software to create and manipulate digital media asse
 | 3.2.1 Developing a digital marketing strategy                                   | Learners should understand how to create a digital marketing strategy that considers user engagement. Learners should be able to develop a digital marketing strategy that: • includes specific and measurable success criteria • reflects the needs of the target audience, including: • demographic factors • characteristics of the chosen social media platform • features of the chosen social media platform • forms of digital marketing • placement strategies • targeting strategies.                                                                                           |
 | 3.2.2 Design and develop coherence between digital media assets and copy (text) | Learners should understand how to design and develop coherence between created or manipulated digital media assets and copy (text). Learners should be able to: • use a standard design method to create an annotated initial design for the digital marketing video, such as: • storyboards • wireframes • develop coherence between created or manipulated digital media assets and copy (text), including the following factors: • brand identity • content themes • style and tone • target audience • unified message • visual and written content • optimised for chosen platform. |
 
+
+
+{33}------------------------------------------------
+
+
+
 | 3.2.3 Applying software skills   | Learners should understand the skills needed to: • create or manipulate coherent digital assets • export a suitable digital marketing video. Learners should be able to apply suitable software skills when: • creating or manipulating suitable digital assets (using suitable skills from each level of complexity categorised as basic, medium and complex, as listed in Appendix B) which align with the formulated digital marketing video, including: • copy (text) • photos • graphics • moving images • exporting the digital marketing video to ensure that it is suitable, including the following factors: • video formatting • resolution settings • audio settings • compression techniques • demonstrating coherence between all digital assets.   |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{34}------------------------------------------------
+
+
 
 ## Opportunities for integration of learning experiences
 
@@ -405,6 +601,12 @@ GCSE Digital Technology generates opportunities for the following learning exper
 The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences and skills into delivery.
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills please see Appendix C.
+
+
+
+{35}------------------------------------------------
+
+
 
 ## 3 ASSESSMENT
 
@@ -439,6 +641,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 3            | -     | 5%    | 5%    | 10%   | 20%     |
 | Overall weighting | 20%   | 25%   | 20%   | 35%   | 100%    |
 
+
+
+{36}------------------------------------------------
+
+
+
 ## 3.2 Arrangements for non-examination assessment
 
 ## Unit 2: Overview
@@ -467,6 +675,12 @@ For this assessment, learners receive a client brief that describes the organisa
 
 Learners must undertake research on social media platforms to recommend a suitable platform for the organisation specified in the client brief. Based on their research, they will develop a digital marketing campaign document outlining their recommendation. During their research time, they must also source digital assets. This research time does not form part of their non-examination assessment time, and during this period they will have access to the internet.
 
+
+
+{37}------------------------------------------------
+
+
+
 Learners will then develop a plan for their campaign. Using the digital assets they have created or manipulated, they will produce a digital marketing campaign video, applying suitable software skills in its production. Lastly, learners will export the video in a suitable format.
 
 Learners may complete the assessment anytime during the course. However, centres should ensure that assessment is completed only when learners have undertaken the necessary teaching and learning and developed the required skills and knowledge.
@@ -477,6 +691,12 @@ The client brief will be set by WJEC annually and available via the WJEC Portal 
 
 This unit will be assessed by the centre and externally moderated by WJEC.
 
+
+
+{38}------------------------------------------------
+
+
+
 ## 4 MALPRACTICE
 
 Before the course starts, the teacher is responsible for informing candidates of WJEC's regulations concerning malpractice. Candidates must not take part in any unfair practice in the preparation of work for GCSE Digital Technology
@@ -486,6 +706,12 @@ Information regarding malpractice is available in our Guide to preventing, repor
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
+
+
+
+{39}------------------------------------------------
+
+
 
 ## 5 TECHNICAL INFORMATION
 
@@ -521,6 +747,12 @@ There is no limit on the number of times a candidate can resit an individual uni
 
 The 'fresh start' rule does not apply to post -16 candidates.
 
+
+
+{40}------------------------------------------------
+
+
+
 If a candidate has been entered for but is absent for a unit, the absence does not count as an attempt. The candidate would, however, qualify as a resit candidate in the final resit series.
 
 Marks for non-examination assessment may be used for the life of the specification.
@@ -549,6 +781,12 @@ Individual unit results are reported on a uniform mark scale (UMS) with the foll
 | Unit 2        |     80 |   64 |  55 |  46 |  38 |  32 |  26 |  20 |  14 |
 | Unit 3        |     60 |   47 |  42 |  37 |  30 |  26 |  22 |  16 |  11 |
 | Subject Award |    220 |  167 | 145 | 123 | 100 |  86 |  72 |  57 |  43 |
+
+
+
+{41}------------------------------------------------
+
+
 
 ## Appendix A: Digital Skills
 
@@ -588,6 +826,12 @@ Add or edit validation rules, against known standards or rules, to the dataset t
 - create drop-down lists for categorisation *
 - grouping and rearranging rows or columns to organise data **
 
+
+
+{42}------------------------------------------------
+
+
+
 ## Format data and tables:
 
 - apply basic formatting such as, font styles, colour, and borders *
@@ -626,6 +870,12 @@ Add or edit validation rules, against known standards or rules, to the dataset t
 - MIN *
 - IF *
 
+
+
+{43}------------------------------------------------
+
+
+
 - Using medium level formulas and functions:
 - Nested IFs **
 - VLOOKUP **
@@ -646,6 +896,12 @@ Add or edit validation rules, against known standards or rules, to the dataset t
 - SORTBY ***
 - UNIQUE ***
 
+
+
+{44}------------------------------------------------
+
+
+
 | Website development skills                                                                                                                                | Animation development skills                                           | Computer game development skills              |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------|
 | • using basic HTML (Hyper Text Markup Language) tags *                                                                                                    | • moving shapes*                                                       | • importing sprites *                         |
@@ -659,6 +915,12 @@ Add or edit validation rules, against known standards or rules, to the dataset t
 | • using flexbox and grid layouts **                                                                                                                       | • animated background **                                               | • animating sprites **                        |
 | • adding basic JavaScript: • variables and data types ** • basic control structures (e.g., if- else) **                                                   | • multiple simultaneous animated events **                             | • creation of splash screen **                |
 
+
+
+{45}------------------------------------------------
+
+
+
 ## GCSE DIGITAL TECHNOLOGY 44
 
 | • use of date function **                                                                                                                                                     |                                                                                                                             |                                                                                                                                    |
@@ -670,11 +932,23 @@ Add or edit validation rules, against known standards or rules, to the dataset t
 |                                                                                                                                                                               | • use of rigged / boned asset for animation ***                                                                             | • creation of a persistent leader board ***                                                                                        |
 |                                                                                                                                                                               | • correctly exported as embeddable content ***                                                                              | • use of external controller ***                                                                                                   |
 
+
+
+{46}------------------------------------------------
+
+
+
 | • use of subtitles to match narration ***                                | • correctly exported as embeddable content ***   |
 |--------------------------------------------------------------------------|--------------------------------------------------|
 | • use of narration ***                                                   |                                                  |
 | • custom easing functions for precise control over animation timing. *** |                                                  |
 | • interactive animation through scripting ***                            |                                                  |
+
+
+
+{47}------------------------------------------------
+
+
 
 ## Appendix B: Skills when creating digital assets
 
@@ -684,14 +958,38 @@ Levels of complexity *** Complex ** Medium * Basic
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | • font colour: select a colour that contrasts well with the background for better visibility * • font size: adjust the size of the text to make it more readable or to fit the design * • font style: choose from various fonts for example serif, sans-serif, script, and decorative * • text alignment: align text to the left, centre, or right, or justify * • text position: place text at various positions on the screen (top, bottom, centre, etc.) * | • brightness: increase or decrease the lightness of the photo * • contrast: adjust the difference between the light and dark areas * • crop: trim the edges to focus on a specific area or to change the aspect ratio * • flip: mirror the photo horizontally or vertically * • resize: adjust the dimensions of the photo to fit different formats or resolutions * • rotate: turn the photo to the desired orientation * | • fill: apply solid colours, gradients, or patterns to shapes and areas * • lines: create and adjust lines, including their thickness, style (solid, dashed), and colour * • shapes: draw and manipulate basic shapes like rectangles, circles, and polygons * • stroke: add and customize the outline of shapes, including colour, width, and style * • text: add and style text with various fonts, sizes, colours, and effects * • blending modes: combine layers in several ways to | • cropping: adjust the frame to focus on a specific area or change the aspect ratio * • trimming: cut out unwanted sections from the beginning, middle, or end of the video * • resizing: change the dimensions of the video to fit different formats or resolutions * • rotation: rotate the video to the desired orientation * • aspect ratio: adjust the width- to-height ratio to fit different screens (16:9, 4:3, etc.) ** • audio: add, remove, or adjust audio tracks, including background music and sound effects ** |
 
+
+
+{48}------------------------------------------------
+
+
+
 | • text animation: add animations for example in, slide, bounce, typewriter effects • text background: background colour behind the text readability ** • text duration: set the text appears screen ** • text effects: apply example glow, blur, emboss to enhance ** • text opacity: adjust transparency of blend it with the • text outline: add the text for better • text shadow: apply ** • text rotation: rotate fit the design or dynamic effect **   | • saturation: enhance or reduce the intensity of colours * • sharpness: enhance the clarity and detail * • borders/frames: add decorative edges around the photo ** • blur: soften the focus for a dreamy effect or to reduce noise ** • exposure: adjust the amount of light in the photo ** • filters: apply preset colour adjustments for different moods or styles ** • hue: change the overall colour tone of the photo ** • text: add captions, titles, or watermarks ** • vignette: darken or lighten the edges of the photo to draw attention to the centre ** • cloning/healing: remove blemishes or unwanted   | achieve different visual effects ** • effects: apply special effects like shadows, glows, and reflections ** • filters: apply effects like blur, sharpen, and artistic filters to elements ** • gradients: create smooth transitions between colours for backgrounds or shapes ** • layers: organize elements on different layers for easier editing and composition ** • opacity: adjust the transparency of elements to create layering effects ** • patterns: use repeating designs to fill areas or create textures ** • alignment: align elements relative to each other or to the canvas *** • clipping paths: use paths to define areas where elements are visible ***   | • colour correction: adjust brightness, contrast, saturation, and hue ** • filters: apply colour adjustments and effects to change the look and feel of the video ** • speed adjustment: speed up or slow down the video for effect ** • stabilisation: reduce camera shake for smoother footage ** • transitions: add effects between clips, such as fades, wipes, or dissolves ** • voiceover: record and add narration to the video ** • watermark: add a logo or text as a watermark ** • effects: apply visual effects like slow motion and reverse*** • layers: overlay multiple video clips, images, and text ***   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{49}------------------------------------------------
+
+
 
 | • text spacing: adjust letter spacing and line height for better readability ** • text transitions: use transitions to smoothly introduce or remove text from the screen ** • text 3d effects: apply 3d transformations to text for depth and perspective. ** • kerning: adjust the spacing between characters to fine- tune the text's appearance *** • text gradient direction: control the direction of the gradient (e.g., horizontal, vertical, diagonal) *** • text reflection: add a mirrored reflection of the text, which can be positioned below or beside it for a stylised effect *** • text masking: use masks to reveal or hide parts of the text creatively. ***   | elements by copying parts of the photo *** • dodging & burning - lighten (dodge) or darken (burn) specific areas to enhance depth and contrast *** • gradient mapping - apply custom gradients to create stylized colour effects *** • layers: combine multiple images or effects in a non- destructive way *** • masks: apply adjustments to specific areas without affecting the whole photo.*** • noise reduction: minimize graininess or digital noise *** • white balance: correct the colour balance to make whites appear neutral *** • selective colour adjustment: adjust the colours of specific areas without affecting the entire photo.*** colour grading: apply advanced colour adjustments   | • grouping: combine multiple elements into a single group for easier manipulation *** • guides and grids: use guides and grids to align and position elements precisely *** • masks: hide or reveal parts of layers to create complex compositions *** • transformations: scale, rotate, skew, and distort elements *** • colour adjustments: modify brightness, contrast, saturation, and hue of elements *** • export options: save graphics in various formats (png, jpeg, svg, etc.) for different uses *** • 3D (3 Dimensional) effects: apply 3D (3 Dimensional) transformations and effects to create depth and perspective. ***   | • opacity: adjust the transparency of video layers for blending *** • keyframing: animate properties like position, scale, and opacity over time *** • masks: apply effects to specific areas of the video *** • export options: save the video in various formats (mp4, avi, mov, etc.) and resolutions *** • green screen keying: remove green screen backgrounds and replace them with other footage.*** • colour grading: apply advanced colour adjustments to achieve a specific look or mood. *** • Could add zoom in/out using key frames as a higher-level skill***   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{50}------------------------------------------------
+
+
+
 | • text path animation: animate text along a custom path for dynamic movement. *** • text layering: layer multiple text elements to create complex designs. *** • text blending modes: use blending modes to combine text with video layers in unique ways. ***   | to achieve a specific look or mood.*** • histogram adjustment: use histograms to fine-tune exposure and contrast.***   | • custom brushes: create and use custom brushes for unique textures and effects. ***   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+
+
+
+{51}------------------------------------------------
+
+
 
 ## Appendix C: Opportunities to develop cross-cutting themes, cross-curricular skills and integral skills
 
@@ -707,6 +1005,12 @@ Levels of complexity *** Complex ** Medium * Basic
 | Speaking                                 |         |         |         |
 | Writing                                  |         |         |         |
 
+
+
+{52}------------------------------------------------
+
+
+
 | Curriculum for Wales Strands                                                                                                             | Unit 1   | Unit 2   | Unit 3   |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|----------|
 | Developing Mathematical Proficiency                                                                                                      |          |         |          |
@@ -718,12 +1022,24 @@ Levels of complexity *** Complex ** Medium * Basic
 | Producing                                                                                                                                |         |         |         |
 | Data and Computational Thinking                                                                                                          |         |         |         |
 
+
+
+{53}------------------------------------------------
+
+
+
 | Curriculum for Wales Strands          | Unit 1   | Unit 2   | Unit 3   |
 |---------------------------------------|----------|----------|----------|
 | Creativity and Innovation             |         |         |         |
 | Critical Thinking and Problem Solving |         |         |         |
 | Planning and Organisation             |          |         |         |
 | Personal Effectiveness                |         |         |         |
+
+
+
+{54}------------------------------------------------
+
+
 
 ## Appendix D: Decision Guide for assessing the suitability of website development software
 
@@ -760,6 +1076,12 @@ Levels of complexity *** Complex ** Medium * Basic
 11. Can learners implement advanced JavaScript techniques (form validation, arrays, error handling)?
 - yes → software is highly suitable for assessment
 - no → software may still be acceptable, but learners may need to supplement with additional tools.
+
+
+
+{55}------------------------------------------------
+
+
 
 ## Appendix E: Decision Guide for assessing the suitability of animation development software
 
@@ -805,6 +1127,12 @@ Does the software allow for some or all of the following?
 - yes → highly suitable
 - no → still suitable, but with limitations depending on task design.
 
+
+
+{56}------------------------------------------------
+
+
+
 ## Appendix F: Decision Guide for assessing the suitability of game development software
 
 - 1.Can the software be used without internet access or without access to artificial intelligence features (which are not permitted)?
@@ -841,15 +1169,33 @@ Does the software allow for some or all of the following?
 - yes → Software is highly suitable for assessment
 - no → Limited suitability -submission format may not be compatible
 
+
+
+{57}------------------------------------------------
+
+
+
 ## Appendix G: Decision Guide for assessing the suitability of photo editing software
 
 - 1.Can the software be used without internet access or without access to artificial intelligence features (which are not permitted)?
 - yes → proceed to step 2 ▶ no → not suitable 2. Does the software allow for basic adjustments (crop, resize, rotate, brightness, contrast)? ▶ yes → proceed to step 3 ▶ no → not suitable 3. Can learners apply basic colour edits (saturation, hue, filters)? ▶ yes → proceed to step 4 ▶ no → limited suitability 4.Can learners add and customise text (fonts, size, position)? ▶ yes → proceed to step 5 ▶ no → limited suitability -may impact communication of final outcomes 5. Does the software support use of layers for editing? ▶ yes → proceed to step 6 ▶ no → limited suitability -non-destructive editing may be limited 6. Can learners use masks or selection tools for targeted edits? ▶ yes → proceed to step 7 ▶ no → limited suitability -less control over edits 7. Are cloning or healing tools available for image correction? ▶ yes → proceed to step 8 ▶ no → still suitable, but limits complex image refinement 8. Can learners apply visual effects (vignette, blur, glow)? ▶ yes → proceed to step 9 ▶ no → limited suitability 9. Can learners adjust white balance and use histogram tools? ▶ yes → proceed to step 10 ▶ no → limited suitability -colour accuracy may be harder to achieve 10. Does the software support non-destructive editing (layers, masks, adjustment layers)? ▶ yes → proceed to step 11 ▶ no → software may be suitable, but limits reworking 12.Can learners export in multiple formats (e.g. jpeg, png) with control over quality? ▶ yes → software is highly suitable for assessment ▶ no → may still be usable but lacks essential output options.
 
+
+
+{58}------------------------------------------------
+
+
+
 ## Appendix H: Decision Guide for assessing the suitability of graphics software
 
 - 1.Can the software be used without internet access or without access to artificial intelligence features (which are not permitted)? ▶ yes → proceed to step 2 ▶ no → not suitable 2. Can learners create and manipulate shapes and lines? ▶ yes → proceed to step 3 ▶ no → not suitable 3. Can learners add and format text (font, size, colour)? ▶ yes → proceed to step 4 ▶ no → limited suitability -restricts communication in designs 4. Does the software allow for basic transformations (scale, rotate, align)? ▶ yes → proceed to step 5 ▶ no → not suitable 5. Can learners use layers to organise and edit content? ▶ yes → proceed to step 6 ▶ no → limited suitability -editing may be inefficient or destructive 6. Does the software offer gradients, fills and stroke customisation? ▶ yes → proceed to step 7 ▶ no → limited suitability -restricts design range 7. Can learners apply effects and filters (shadows, blur, glow)? ▶ yes → proceed to step 8 ▶ no → still usable, but limits design variety 8. Are guides, grids and alignment tools available? ▶ yes → proceed to step 9 ▶ no → limited suitability -precision may suffer 9. Can learners use masks, clipping paths or blend modes? ▶ yes → proceed to step 10 ▶ no → still acceptable, but less advanced control 10. Can learners create or use custom brushes and patterns? ▶ yes → proceed to step 11 ▶ no → software may still be suitable, but creativity could be limited 11. Does the software allow for exporting in standard formats (e.g. svg, png, pdf)? ▶ yes → software is highly suitable for assessment
 - no → limited suitability -check compatibility with assessment requirements.
+
+
+
+{59}------------------------------------------------
+
+
 
 ## Appendix I: Decision Guide for assessing the suitability of video editing software
 

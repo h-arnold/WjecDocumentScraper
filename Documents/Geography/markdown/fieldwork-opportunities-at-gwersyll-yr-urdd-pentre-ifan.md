@@ -1,62 +1,63 @@
+{1}------------------------------------------------
+
 ## Geography comes alive!
 
 GwersyllyrUrdd
 
-## PENTRE IFAN
+## PENTRE EIFAN
 
-## ExamplesofCurriculum-AlignedFieldwork
+## Examplesof Curriculum-Aligned Fieldwork
 
-## METHODOLOGICAL APPROACH-ChangeOver Timeand Transects
+## METHODOLOGICAL APPROACH-ChangeOver TimeandTransects
 
 <!-- image -->
 
-## QualityAccommodation andFacilities
+## Quality Accommodation and Facilities
 
-- Explorethesanddunesof Trefdraeth:vegetation,gradient， soilpH,andhumanimpact.
-- Visitpopularbeachestoassess coastalerosionandthe geographicalprocesses involved.
+- Explorethesanddunesof Trefdraeth:vegetation,gradient,· soilpH,and humanimpact.
+- Accommodationforupto 40(or55withsafaritents).
+- Outdoorkitchen,BBQ, and pizza oven.
+- ： Choice of self-catering orcateredmeals.
+- Visitpopularbeachestoassess coastalerosionandthe geographical processes involved.
 - AnalysethePembrokeshire CoastNationalPark's 'Changing Coast'archive.
 
 ## Qualitative Surveys
 
 - Assesstheimpactofhoneypot sitesonlocalcommunities.
-- Takeawalkthroughtheancient woodlandofTyCanol: biodiversity,ecosystems, andthecarboncycle.
+- Takeawalkthroughtheancient woodlandofTyCanol: biodiversity,ecosystems, and the carbon cycle.
 
 ## ConceptualFramework -Place
 
-- Compareecosystems: TyCanolwoodlandvs. thePreseliMountains.
-- UseOsmapstosketch andidentifykeyfeatures: contourlines,gridreferences, andmapsymbols.
+- Compare ecosystems: TyCanolwoodlandvs. the Preseli Mountains.
+- UseOsmapstosketch andidentifykeyfeatures: contourlines,gridreferences, and mapsymbols.
 
-## AdventureExperiences withaGeographicalFocus
-
-- Accommodationforupto 40(or55withsafaritents).
-- Outdoorkitchen,BBQ， andpizza oven.
-- Choice ofself-catering orcateredmeals.
+## AdventureExperiences withaGeographical Focus
 
 ## ImmerseYourselfin theWelshLanguage
 
-- Activitiesdeliveredin Welsh orbilingually.
-- Opportunitiesforlearnersto buildconfidenceandenjoy Welshculture:folkdancing, Welsh music,storytelling around the fire.
+- Activitiesdeliveredin Welsh or bilingually.
+- Opportunitiesforlearnersto buildconfidenceandenjoy Welshculture:folk dancing, Welsh music,storytelling around thefire.
 
-## WhychoosePentreIfan?
+## Why choosePentreIfan?
 
 - Passionateandexperienced team.
-- Stunning natural backdrop inthePreseliHills.
-- Asafe,enjoyable,and educationalexperience tailoredtoyourneeds.
+- Stunning natural backdrop in the Preseli Hills.
+- A safe,enjoyable,and educationalexperience tailored toyour needs.
 
-Welookforwardtowelcoming youandyourstudentsforan unforgettableGeography experience!
+Welookforwardtowelcoming you andyourstudentsforan experience!
 
-- Coasteering or stand-up paddleboarding(SUP) withafocusoncoastal processesandgeology.
+- Coasteering or stand-up paddleboarding(SUP) withafocusoncoastal processes and geology.
 - Practicalactivities:bushcraft, nature walks,gardening, cooking,andmore!
 
 <!-- image -->
 
 <!-- image -->
 
-Are you looking for an inspiring fieldwork experience for your GcsEor A-Level students?
+Are you looking for an inspiring fieldwork experience for A-Level students?
 
-Comeand explore the dramaticlandscapesof NorthPembrokeshire withourexpertteam at GwersyllyrUrdd Pentre Ifan!
+Comeandexplorethe dramaticlandscapesof NorthPembrokeshire withourexpertteam at Gwersyll yr Urdd Pentre Ifan!
 
-24 to 48-hourpackages availablefrom85to 145 per person.
+24to48-hourpackages availablefrom85to 145 per person.
 
 ## Contact us today!
 

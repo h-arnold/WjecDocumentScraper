@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## WJEC GCSE COMPUTER SCIENCE
 
 ## FREQUENTLY ASKED QUESTIONS
@@ -6,7 +8,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+Made forWales. Ready for the world.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## General Specification Questions
 
@@ -49,6 +57,12 @@ A: It  uses the traditional 8-point A*-G scale. Awarding follows WJEC's standard
 ## Q: What is the recommended guided learning time for this course?
 
 A: The specification recommends 120-140 guided learning hours, primarily designed as a 2year program for learners in Years 10 and 11.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Q: What resources/equipment are needed for teaching and assessments?
 

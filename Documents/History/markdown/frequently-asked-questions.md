@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## HISTORY
@@ -9,6 +11,12 @@ FREQUENTLY ASKED QUESTIONS
 <!-- image -->
 
 <!-- image -->
+
+
+
+{2}------------------------------------------------
+
+
 
 ## 1. What is e-assessment/on-screen assessment?
 
@@ -37,6 +45,12 @@ Centres will be given a 12-week window to deliver the 3-hour assessment. The ass
 E-assessment sample assessment materials will be available on our Surpass platform, from December 2024. This will enable learners, and schools/colleges, to familiarise themselves with our on-screen assessments. In addition, past assessments will also be available following each examination series.
 
 <!-- image -->
+
+
+
+{3}------------------------------------------------
+
+
 
 ## 7. Are e-assessments accessible to all learners?
 

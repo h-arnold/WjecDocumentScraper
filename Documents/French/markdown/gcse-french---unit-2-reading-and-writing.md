@@ -1,100 +1,121 @@
+{1}------------------------------------------------
 
+<!-- image -->
 
-{0}------------------------------------------------
-
-![](_page_0_Picture_0.jpeg)
-
-![](_page_0_Picture_1.jpeg)
-
-# WJEC GCSE French
+## WJEC GCSE French
 
 Approved by Qualifications Wales
 
-### Sample Assessment Materials
+## Sample Assessment Materials
 
-Unit 2: Reading and Writing Teaching from 2025 For award from 2027
+Unit 2: Reading and Writing Teaching from 2025
+
+For award from 2027
+
+<!-- image -->
 
 Version 2 - May 2025
 
-![](_page_0_Picture_7.jpeg)
+<!-- image -->
 
-Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
+Made for Wales. Ready for the world.
 
-Made for Wales.
 
-{1}------------------------------------------------
-
-![](_page_1_Picture_0.jpeg)
 
 {2}------------------------------------------------
 
-![](_page_2_Picture_0.jpeg)
 
-### WJEC GCSE French
 
-Unit 2: Reading and Writing
+WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
 
-External Non-Examination Sample Assessment Pack
 
-For teaching from September 2025 First Award 2027 For assessment from 2027
 
 {3}------------------------------------------------
 
-### Contents
 
-| About this pack: information for teachers | 3  |
-|-------------------------------------------|----|
-| Instructions for teachers                 |    |
-| Selection of work                         | 5  |
-| Task overview                             | 7  |
-| Managing the assessment                   | 7  |
-| Assessment details                        | 7  |
-| Candidate Assessment Pack                 | 10 |
 
-![](_page_3_Picture_2.jpeg)
+<!-- image -->
 
-Copyright © WJEC CBAC Limited 2024.
+## WJEC GCSE French
+
+Unit 2: Reading and Writing
+
+## External Non-Examination Sample Assessment Pack
+
+## For teaching from September 2025 First Award 2027 For assessment from 2027
+
+
 
 {4}------------------------------------------------
 
-## <span id="page-4-0"></span>SUMMARY OF AMENDMENTS
 
-| Version | Description                                          | Page number |
-|---------|------------------------------------------------------|-------------|
-| 2       | Removal of the graphic novel (Les Cahiers d'Esther). | 5           |
 
-![](_page_4_Picture_2.jpeg)
+## Contents
+
+About this pack: information for teachers .............................................................................. 3
+
+Instructions for teachers  ........................................................................................................  5
+
+Selection of work  ...................................................................................................................  5
+
+Task overview  .......................................................................................................................  7
+
+Managing the assessment .................................................................................................... 7
+
+Assessment details ...............................................................................................................  7
+
+Candidate Assessment Pack .............................................................................................. 10
+
+Copyright © WJEC CBAC Limited 2024.
+
+
 
 {5}------------------------------------------------
 
-### About this pack: information for teachers
 
-This pack contains the assessment materials for Unit 2: Reading and Writing
 
-Within this pack, you will find:
+## SUMMARY OF AMENDMENTS
 
-- Information and instructions for teachers on how to manage arrangements for assessment
-- a **candidate pack** which includes:
-  - details of the assignment
-  - a detailed breakdown of each task
-  - information for candidates, which tells candidates about things that they must and must not do when they are completing the assessment
-  - a Candidate Cover Sheet
-  - a Candidate Declaration Form
-  - a Candidate Time Record sheet.
+|   Version | Description                                          |   Page number |
+|-----------|------------------------------------------------------|---------------|
+|         2 | Removal of the graphic novel (Les Cahiers d'Esther). |             5 |
 
-**You must provide each candidate with a copy of the complete candidate assessment pack.**
 
-![](_page_5_Picture_12.jpeg)
 
 {6}------------------------------------------------
 
-#### <span id="page-6-0"></span>Instructions for teachers
 
-#### <span id="page-6-1"></span>**Selection of work**
+
+## About this pack: information for teachers
+
+This pack contains the assessment materials for Unit 2: Reading and Writing
+
+## Within this pack, you will find:
+
+- Information and instructions for teachers on how to manage arrangements for assessment
+- a candidate pack which includes:
+- details of the assignment
+- a detailed breakdown of each task
+- information for candidates, which tells candidates about things that they must and must not do when they are completing the assessment
+- a Candidate Cover Sheet
+- a Candidate Declaration Form
+- a Candidate Time Record sheet.
+
+You must provide each candidate with a copy of the complete candidate assessment pack.
+
+
+
+{7}------------------------------------------------
+
+
+
+## Instructions for teachers
+
+## Selection of work
 
 Centres must choose a work in French from one of the following genres: graphic novel, short story, film script, novel.
 
-Centres must ensure that the work focuses on **one** of the broad themes:
+Centres must ensure that the work focuses on one of the broad themes:
 
 - Language for leisure and wellbeing
 - Language for travel
@@ -102,65 +123,69 @@ Centres must ensure that the work focuses on **one** of the broad themes:
 
 Example works (centres may choose a different work):
 
-#### **Graphic Novel:**
+## Graphic Novel:
 
-**Title:** *Asterix et Obelix Chez les Bretons*, Goscinny et Uderzo ISBN: 978-2-01-210140-1 **Broad Theme:** Language for leisure and wellbeing / Language for travel
+Title: Asterix et Obelix Chez les Bretons , Goscinny et Uderzo ISBN: 978-2-01-210140-1 Broad Theme: Language for leisure and wellbeing / Language for travel
 
-A classic of Francophone comic culture – this album (#8) describes British culture seen through French eyes – rugby / tea etc. They travel between *le village gaulois* (Brittany) and *Cantium* (Kent) and discover different cultural experiences along the way. The theme of leisure is most evident as it describes differences between British and Gallic customs.
+A classic of Francophone comic culture -this album (#8) describes British culture seen through French eyes -rugby / tea etc. They travel between le village gaulois (Brittany) and Cantium (Kent) and discover different cultural experiences along the way. The theme of leisure is most evident as it describes differences between British and Gallic customs.
 
-**Title:** *Le tour du monde en 80 jours*, Jules Verne (Biblio-collège) ISBN: 978-2-01-716688-7 **Broad Theme:** Language for travel / Language for leisure and wellbeing
+Title: Le tour du monde en 80 jours , Jules Verne (Biblio-collège) ISBN: 978-2-01-716688-7 Broad Theme: Language for travel / Language for leisure and wellbeing
 
 A well-known story by a French author about the adventures of Phileas Fogg travelling around the world and the challenges he encounters along the way. This edition is an illustrated adapted version for younger readers. The theme of travel is strongest as they describe different means of transport and travel, however different events and activities also lean towards leisure.
 
-#### **Short story:**
+## Short story:
 
-**Title:** *Petits contes de Brocéliande* ISBN: 978-2-37051-036-5
-
-**Broad Theme:** Language for travel / Language for leisure and wellbeing
+Title: Petits contes de Brocéliande ISBN: 978-2-37051-036-5 Broad Theme: Language for travel / Language for leisure and wellbeing
 
 A collection of four short stories based on legends from the Broceliande Forest in Brittany. The language and grammar are accessible to younger readers. The main theme is wellbeing, with emphasis on imagination and fantasy, however there are also clear links between Wales and Brittany.
 
-{7}------------------------------------------------
 
-#### **Film transcript:**
-
-**Title:** *Les Choristes*, Christophe Barratier 2004 12A cert
-
-**Broad Theme:** Language for leisure and wellbeing / Language for work
-
-This is a popular movie about a supply teacher who forms a choir in a boarding school for boys. The film deals with the theme of wellbeing, for example relationships and school life. However, leisure (singing) and work (skills and qualities to be a pion / prof / concierge / chef d'orchestre) are also evident.
-
-**Title:** *Bienvenue Chez les Ch'tis*, Dany Boon 2008 12A cert **Broad Theme:** Language for leisure / Language for work and study / Language for travel
-
-This is a comedy which evidences the stereotypes of northern and southern France. There are links with all broad themes as the film shows how characters react in work, leisure and travel.
-
-#### **Novel:**
-
-**Title:** *Le Petit Prince*, Antoine de Saint-Exupéry (many editions available and free PDF online)
-
-**Broad Theme:** Language for travel / Language for work and study
-
-This is the most translated French book ever. The novel reflects the theme of wellbeing as it discusses friendships, love and loss, but also the theme of travel as *le petit prince* visits various planets making observations about life and human nature.
-
-**Title:** *Les récrés du Petit Nicolas*, Sempé-Goscinny ISBN: 2-07-039259-7 **Broad Theme:** Language for leisure and wellbeing
-
-This could easily be classed as a series of short stories too because each chapter is a story in its own right. *Les récrés* recounts l*e petit Nicolas'*s experiences at break time in school and describes his leisure activities, friendships and school experiences.
-
-There are many online resources available for the study of any of these example works (with the exception of *Petits Contes de Broceliande*).
 
 {8}------------------------------------------------
 
-#### <span id="page-8-0"></span>**Task overview**
+
+
+## Film transcript:
+
+Title: Les Choristes , Christophe Barratier 2004 12A cert Broad Theme: Language for leisure and wellbeing / Language for work
+
+This is a popular movie about a supply teacher who forms a choir in a boarding school for boys. The film deals with the theme of wellbeing, for example relationships and school life. However, leisure (singing) and work (skills and qualities to be a pion / prof / concierge / chef d'orchestre) are also evident.
+
+Title: Bienvenue Chez les Ch'tis , Dany Boon 2008 12A cert Broad Theme: Language for leisure / Language for work and study / Language for travel
+
+This is a comedy which evidences the stereotypes of northern and southern France. There are links with all broad themes as the film shows how characters react in work, leisure and travel.
+
+## Novel:
+
+Title: Le Petit Prince , Antoine de Saint-Exupéry (many editions available and free PDF online)
+
+Broad Theme: Language for travel / Language for work and study
+
+This is the most translated French book ever. The novel reflects the theme of wellbeing as it discusses friendships, love and loss, but also the theme of travel as le petit prince visits various planets making observations about life and human nature.
+
+Title: Les récrés du Petit Nicolas , Sempé-Goscinny ISBN: 2-07-039259-7 Broad Theme: Language for leisure and wellbeing
+
+This could easily be classed as a series of short stories too because each chapter is a story in its own right. Les récrés recounts l e petit Nicolas' s experiences at break time in school and describes his leisure activities, friendships and school experiences.
+
+There are many online resources available for the study of any of these example works (with the exception of Petits Contes de Broceliande ).
+
+
+
+{9}------------------------------------------------
+
+
+
+## Task overview
 
 This task requires learners to respond to a task in the assessed language, based on the study of the chosen work.
 
 Learners will use a range of approaches to demonstrate their knowledge and understanding of the work.
 
-**Marks available: 45**
+Marks available: 45
 
 This task will assess AO2 and AO3.
 
-#### **AO2 (30 marks)** will specifically assess learners' ability to:
+AO2 (30 marks) will specifically assess learners' ability to:
 
 - understand and respond to a written work
 - identify the overall message, key points and opinions in written passages
@@ -168,43 +193,47 @@ This task will assess AO2 and AO3.
 - communicate information, describe, narrate, and express and justify opinions
 - use their knowledge of grammar and vocabulary to support their understanding of the work.
 
-#### **AO3 (15 marks)** will specifically assess learners' ability to:
+AO3 (15 marks) will specifically assess learners' ability to:
 
-• use knowledge of vocabulary and grammar to communicate meaningfully, using more complex structures which reference past, present and future events where appropriate.
+- use knowledge of vocabulary and grammar to communicate meaningfully, using more complex structures which reference past, present and future events where appropriate.
 
-#### <span id="page-8-1"></span>**Managing the assessment**
+## Managing the assessment
 
 This is a WJEC marked (external) non-examination assessment. The following arrangements must be followed when managing the assessment.
 
-#### <span id="page-8-2"></span>**Assessment details**
+## Assessment details
 
 The assessment lasts for 1 hour 15% of qualification 45 marks
 
 Centres must choose a work in the assessed language from one of the following genres: graphic novel, short story, film script or novel.
 
-Centres must ensure that the work focuses on **one** of the broad themes:
+Centres must ensure that the work focuses on one of the broad themes:
 
 - Language for leisure and wellbeing
 - Language for travel
 - Language for work and study.
 
-**Learners are not permitted to use a dictionary in any part of the assessment. Assessments must be submitted digitally (they may be written and scanned, or completed digitally).** Where tasks are produced digitally, online dictionaries, spelling and grammar checking programmes and access to internet **must be disabled**.
+Learners are not permitted to use a dictionary in any part of the assessment. Assessments must be submitted digitally (they may be written and scanned, or completed digitally). Where tasks are produced digitally, online dictionaries, spelling and grammar checking programmes and access to internet must be disabled .
 
-**Learners must not discuss or share any details of the task until after 5 May 20xx.**
+Learners must not discuss or share any details of the task until after 5 May 20xx.
 
-#### **Task (45 marks)**
+## Task (45 marks)
 
 Learners will complete one task. The task requires learners to complete a response with a maximum of 200 words (task (1a), 70 words and task (1b) 130 words) in the assessed language, based on the study of the chosen work.
 
 The assessment is based on the candidate's ability to understand and respond to written language in writing.
 
-{9}------------------------------------------------
+
+
+{10}------------------------------------------------
+
+
 
 The Rubrics will be in Cymraeg/English. The language of response will be in the assessed language.
 
-**AO2 – 30 marks AO3 – 15 marks**
+## AO2 -30 marks AO3 -15 marks
 
-#### **Task setting**
+## Task setting
 
 This assignment has been produced by WJEC and cannot be changed.
 
@@ -212,34 +241,38 @@ The assessment will be carried out at the centre during a one-hour period. The t
 
 The assessment will take place during an eight-week period between March and May, specified annually by WJEC. Centres may download the task three working days in advance of the first assessment.
 
-The task must be given to the learners **only** at the time of assessment.
+The task must be given to the learners only at the time of assessment.
 
 Tasks will change each series.
 
-#### **Time**
+## Time
 
-Candidates must be allowed 1 **hour** to complete this assessment. Candidates should spend approximately:
+Candidates must be allowed 1 hour to complete this assessment. Candidates should spend approximately:
 
 - 20 minutes completing task 1a
 - 40 minutes completing task 1b
 
 The time suggested for each task takes account of the contribution of the task to the overall assessment requirements. There can be no changes to the total time available for this assessment. Centres can, however, amend the suggested time available for each task.
 
-#### **Resources**
+## Resources
 
 Not permitted.
 
-#### **Collaboration**
+## Collaboration
 
-Group work is **not** allowed. Candidates must complete all tasks individually.
+Group work is not allowed. Candidates must complete all tasks individually.
 
-#### **Supervision**
+## Supervision
 
 Candidates must be supervised by an assessor whilst completing the activities. Centres must have in place systems to ensure candidates cannot access evidence they have been developing outside of supervised activities.
 
-{10}------------------------------------------------
 
-#### **Authentication**
+
+{11}------------------------------------------------
+
+
+
+## Authentication
 
 Supervision must be in place to ensure the authenticity of evidence produced for summative assessment.
 
@@ -251,78 +284,88 @@ Candidates must sign the declaration to confirm that all evidence submitted for 
 
 Assessors must sign the declaration to confirm that evidence submitted for moderation was completed under the controlled conditions set out in this assessment.
 
-#### **Candidate evidence**
+## Candidate evidence
 
 The acceptable formats for evidence of each of the tasks is summarised in the task tables. Any modified assessment must enable the candidate to generate the evidence required in this table
 
-#### **Task marking**
+## Task marking
 
 WJEC will mark all evidence produced by candidates.
 
-Centres **must** ensure that a candidate cover sheet (included in the candidate assessment pack) is completed for every candidate and attached to the front of the candidate's work.
+Centres must ensure that a candidate cover sheet (included in the candidate assessment pack) is completed for every candidate and attached to the front of the candidate's work.
 
-Centres **must** also ensure that candidates complete a candidate declaration form; these are included in the candidate assessment pack.
+Centres must also ensure that candidates complete a candidate declaration form; these are included in the candidate assessment pack.
 
-#### **Notes on the completion of the Time Sheet and Candidate Declaration Form**
+## Notes on the completion of the Time Sheet and Candidate Declaration Form
 
 - Please log the dates and times that work took place. No work must have taken place outside the hours listed on this form. The total time allowed must not exceed 1 hour.
 - The form must be completed and securely attached to the Candidate's work and sent to the awarding body.
 - The form can be completed electronically or manually. Electronic signatures will be accepted.
 
-#### **Further information**
+## Further information
 
 You should refer to the JCQ Instructions for conducting non-examination assessment for further information on managing assessment within our GCSE Qualifications.
 
-**This pack is a sample. It must not be used for live assessment.**
+This pack is a sample. It must not be used for live assessment.
 
-{11}------------------------------------------------
 
-![](_page_11_Picture_0.jpeg)
-
-### WJEC GCSE French
-
-<span id="page-11-0"></span>Candidate Assessment Pack
-
-Unit 2: Reading and Writing
 
 {12}------------------------------------------------
 
-| Centre No:              |  |  |  | Candidate No: |  |  |  |  |
-|-------------------------|--|--|--|---------------|--|--|--|--|
-| Surname                 |  |  |  |               |  |  |  |  |
-| First name(s)           |  |  |  |               |  |  |  |  |
-| Name of work studied |  |  |  |  |  |  |  |  |
 
-![](_page_12_Picture_1.jpeg)
 
-GCSE NEA
+<!-- image -->
 
-3830QSL-2
+## WJEC GCSE French
+
+## Candidate Assessment Pack Unit 2: Reading and Writing
+
+Centre No:
+
+Candidate No:
+
+Surname
+
+First name(s)
+
+Name of work studied
+
+
+
+{13}------------------------------------------------
+
+
 
 French
 
 Unit 2: Reading and Writing
 
+<!-- image -->
+
 External Candidate Assessment Pack
 
 Candidate cover sheet
 
-| For examiner's use only |              |  |  |  |  |  |
-|-------------------------|--------------|--|--|--|--|--|
-| Task                    | Mark Awarded |  |  |  |  |  |
-| 1a                      | /15          |  |  |  |  |  |
-| 1b                      | /30          |  |  |  |  |  |
-| Total Mark awarded | /45 |  |  |  |  |  |
+| For examiner's use only   | For examiner's use only   |
+|---------------------------|---------------------------|
+| Task                      | Mark Awarded              |
+| 1a                        | /15                       |
+| 1b                        | /30                       |
+| Total Mark awarded        | /45                       |
 
 Candidates must write their name, centre number and candidate number in the spaces at the top of this page.
 
 NB: This cover page must accompany the candidate's evidence
 
-{13}------------------------------------------------
 
-#### About this pack: information and instructions for candidates
 
-This candidate assessment pack is for candidates completing Unit 2 – Reading and Writing
+{14}------------------------------------------------
+
+
+
+## About this pack: information and instructions for candidates
+
+This candidate assessment pack is for candidates completing Unit 2 -Reading and Writing
 
 Within this pack, you will find:
 
@@ -334,7 +377,7 @@ Within this pack, you will find:
 - a Declaration Form
 - a Time Record sheet.
 
-#### **You will have 1 hour in total to complete this assessment.** You should spend approximately:
+You will have 1 hour in total to complete this assessment. You should spend approximately:
 
 - 20 minutes completing task 1a.
 - 40 minutes completing task 1b.
@@ -347,48 +390,54 @@ It is important that you work independently from other candidates and the work p
 
 You are advised to check your work carefully to make sure that it is accurate and correct.
 
-**You must not discuss or share any details of the brief until after 5 May 202X.**
+You must not discuss or share any details of the brief until after 5 May 202X.
 
-![](_page_13_Picture_18.jpeg)
 
-{14}------------------------------------------------
-
-#### Tasks
-
-|   | Task                                                                                                                                                            | Evidence                                                                          | Controls                                                       |
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------|
-| 1 | (a) Write about the work you have studied. You must: <ul><li>summarise the main events.</li></ul> | Written response in French up to a maximum of 70 words. | Supervision: Direct Guidance: Not permitted |
-|  | (b) Write a review of the work you have studied. You must: <ul><li>provide examples of what you liked about the work</li><li>justify your opinions.</li></ul> | Written response in French up to a maximum of 130 words. | Resources: Not permitted Collaboration: Not permitted |
-|  |  | (a) AO2 [10 marks] AO3 [5 marks] (b) AO2 [20 marks] AO3 [10 marks] |  |
-
-Where tasks are produced digitally, online dictionaries, spelling and grammar checking programmes and access to internet **must be disabled**.
-
-#### **End of task**
 
 {15}------------------------------------------------
 
-#### Information for candidates
 
-The following information has been taken from the [JCQ Information for candidates](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) – non[examination assessments](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) and the [JCQ Artificial Intelligence \(AI\) Use in Assessments:](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/)  [Protecting the Integrity of Qualifications.](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/) This tells you about things that you **must** and **must not** do when you are completing your assessment. If there is anything that you do not understand, you **must** ask your teacher.
 
-#### **Preparing your work**
+## Tasks
+
+|    | Task                                                                                                                                    | Evidence                                                           | Controls                                              |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| 1  | (a) Write about the work you have studied. You must: • summarise the main events.                                                       | Written response in French up to a maximum of 70 words.            | Supervision: Direct Guidance: Not permitted           |
+|    | (b) Write a review of the work you have studied. You must: • provide examples of what you liked about the work • justify your opinions. | Written response in French up to a maximum of 130 words.           | Resources: Not permitted Collaboration: Not permitted |
+|    |                                                                                                                                         | (a) AO2 [10 marks] AO3 [5 marks] (b) AO2 [20 marks] AO3 [10 marks] |                                                       |
+
+Where tasks are produced digitally, online dictionaries, spelling and grammar checking programmes and access to internet must be disabled .
+
+## End of task
+
+
+
+{16}------------------------------------------------
+
+
+
+## Information for candidates
+
+The following information has been taken from the JCQ Information for candidates -nonexamination assessments and the JCQ Artificial Intelligence (AI) Use in Assessments: Protecting the Integrity of Qualifications. This tells you about things that you must and must not do when you are completing your assessment. If there is anything that you do not understand, you must ask your teacher.
+
+## Preparing your work
 
 - When you submit your work and sign your candidate declaration form, you need to ensure that your final product reflects your own independent work and isn't copied or paraphrased from another source such as an AI tool.
-- If you receive help and guidance from someone other than your teacher, you **must** tell your teacher who will then record the nature of the assistance given to you.
-- If you worked as part of a group on a task, you **must** each write up your own account of the assignment. Even if the data you have is the same, you **must** describe in your own words how that data was obtained, and you **must** independently draw your own conclusions from the data.
-- Take care of your work and keep it safe. **Do not** leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You **must** always keep your work secure and confidential whilst you are preparing it; **do not** share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
-- **Do not** be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) – this is cheating. Electronic tools used by WJEC can detect this sort of copying.
-- You **must not** write inappropriate, offensive or obscene material.
+- If you receive help and guidance from someone other than your teacher, you must tell your teacher who will then record the nature of the assistance given to you.
+- If you worked as part of a group on a task, you must each write up your own account of the assignment. Even if the data you have is the same, you must describe in your own words how that data was obtained, and you must independently draw your own conclusions from the data.
+- Take care of your work and keep it safe. Do not leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You must always keep your work secure and confidential whilst you are preparing it; do not share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
+- Do not be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) -this is cheating. Electronic tools used by WJEC can detect this sort of copying.
+- You must not write inappropriate, offensive or obscene material.
 
-#### **Plagiarism**
+## Plagiarism
 
-Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. **It is a form of cheating which is taken very seriously.** Don't think you won't be caught; there are many ways to detect plagiarism:
+Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. It is a form of cheating which is taken very seriously. Don't think you won't be caught; there are many ways to detect plagiarism:
 
 - Markers can spot changes in the style of writing and use of language.
-- Markers are highly experienced subject specialists they may have read the source you are using, or even marked the work you have copied from!
+- Markers are highly experienced subject specialists -they may have read the source you are using, or even marked the work you have copied from!
 - Internet search engines and specialised computer software can be used to match phrases or pieces of text with original sources and to detect changes in the grammar and style of writing or punctuation.
 
-#### **Penalties for breaking the regulations**
+## Penalties for breaking the regulations
 
 If it is discovered that you have broken the regulations, one of the following penalties will be applied:
 
@@ -399,81 +448,115 @@ If it is discovered that you have broken the regulations, one of the following p
 
 WJEC will decide which penalty is appropriate.
 
-**Remember – it's your qualification so it needs to be your own work.**
+Remember -it's your qualification so it needs to be your own work.
 
-{16}------------------------------------------------
 
-#### Candidate Declaration Form
-
-#### **You must complete Part A and Part B of this form**
-
-| Centre No:                                                                                           |  |  |  | Centre Name:       |                                                                                                                                                                                                                  |
-|------------------------------------------------------------------------------------------------------|--|--|--|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Candidate No: |  |  |  | Candidate Name: |  |
-| Unit Title:                                                                                          |  |  |  |                    |                                                                                                                                                                                                                  |
-| Part A: Candidate Declaration                                                                        |  |  |  |                    |                                                                                                                                                                                                                  |
-| References: Give details of the exact source of any non-original material used in the assignment. |  |  |  |  | List of software packages/AI tools/chatbots1 : Give brief details of how these have been used in the assignment. |
-|                                                                                                      |  |  |  |                    |                                                                                                                                                                                                                  |
-|                                                                                                      |  |  |  |                    |                                                                                                                                                                                                                  |
-| Authentication Declaration |  |  |  |  | I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has |
-
-not been submitted for any other qualification. I have clearly referenced any sources and any Artificial
-
-Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
-
-**Candidate Signature: Date:**
-
-<span id="page-16-0"></span><sup>1</sup> Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 [\(https://openai.com/blog/chatgpt/\)](https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used. This must be submitted with your work, so your teacher/assessor is able to review the work, the AI-generated content and how it has been used.
 
 {17}------------------------------------------------
 
-#### Candidate Time Record Sheet
 
-| Centre No:                |                                          |    |  |  |  | Centre Name:                                                                             |       |                 |         |
-|---------------------------|------------------------------------------|----|--|--|--|------------------------------------------------------------------------------------------|-------|-----------------|---------|
-| Candidate No: |  |  |  |  |  | Candidate Name: |  |  |  |
-| Unit Title:               |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           | The total time allowed must not exceed 1 |    |  |  |  | hour.                                                                                    |       |                 |         |
-|                           | Dates                                    |    |  |  |  |                                                                                          |       | Time Allowed (1 | hour)   |
-| DD                        | MM                                       | YY |  |  |  |                                                                                          | Hours |                 | Minutes |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  |                                                                                          |       |                 |         |
-|                           |                                          |    |  |  |  | I certify that all candidates entered were informed of the above dates.                  |       |                 |         |
-| Supervisors Signature: |  |  |  |  |  |  |  | Date: |  |
-|                           | assistance beyond that allowed           |    |  |  |  | I confirm that the evidence submitted for assessment has been produced by me without any |       |                 |         |
-| Candidate's Signature: |  |  |  |  |  |  |  | Date: |  |
 
-**End of Candidate Assessment Pack**
+## Candidate Declaration Form
+
+## You must complete Part A and Part B of this form
+
+Centre No:
+
+Centre Name:
+
+Candidate No:
+
+Candidate Name:
+
+Unit Title:
+
+## Part A: Candidate Declaration
+
+References: Give details of the exact source of any non-original material used in the assignment.
+
+List of software packages/AI tools/chatbots 1 : Give brief details of how these have been used in the assignment.
+
+## Authentication Declaration
+
+I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
+
+Candidate Signature:
+
+Date:
+
+1  Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 (https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used.  This must be submitted with your work, so your teacher/assessor is able to review the work, the AI-generated content and how it has been used.
+
+
 
 {18}------------------------------------------------
 
-#### **MARK SCHEME**
 
-#### **Guidance for examiners**
 
-#### **Generic marking principles**
+## Candidate Time Record Sheet
+
+Centre No:
+
+Centre Name:
+
+Candidate No:
+
+Candidate Name:
+
+Unit Title:
+
+The total time allowed must not exceed 1 hour.
+
+Dates
+
+Time Allowed (1 hour)
+
+DD
+
+MM
+
+YY
+
+Hours
+
+Minutes
+
+I certify that all candidates entered were informed of the above dates.
+
+Supervisors Signature:
+
+Date:
+
+I confirm that the evidence submitted for assessment has been produced by me without any assistance beyond that allowed
+
+Candidate's Signature:
+
+Date:
+
+End of Candidate Assessment Pack
+
+© WJEC CBAC Ltd. 2024
+
+
+
+{19}------------------------------------------------
+
+
+
+## Generic marking principles
 
 - Marks awarded are always whole marks (not half marks, or other fractions).
 - Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited according to the quality of the candidate responses seen).
 - Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in mind.
 
-#### **Positive marking**
+## Positive marking
 
 It should be remembered that candidates are writing under examination conditions and credit should be given for what the candidate writes, rather than adopting the approach of penalising candidates for any omissions. It should be possible for a very good response to achieve full marks and a very poor one to achieve zero marks. Marks should not be deducted for a less than perfect answer if it satisfies the criteria of the mark scheme.
 
 For questions that are objective or points-based, the mark scheme should be applied precisely. Marks should be awarded as indicated and no further subdivision made.
 
-Mark schemes often list points which may be included in candidates' answers. The list is not exhaustive. The inclusion of *'Credit any other valid response.*' (or similar instruction) within mark schemes allows for the possible variation in candidates' responses. Credit should be given according to the accuracy and relevance of candidates' answers.
+Mark schemes often list points which may be included in candidates' answers. The list is not exhaustive. The inclusion of 'Credit any other valid response. ' (or similar instruction) within mark schemes allows for the possible variation in candidates' responses. Credit should be given according to the accuracy and relevance of candidates' answers.
 
-#### **Banded mark schemes**
+## Banded mark schemes
 
 For band marked questions mark schemes are in two parts; the indicative content and the assessment grid.
 
@@ -485,13 +568,21 @@ The marking of banded mark questions should always be positive. This means that,
 
 Examiners should first read and annotate the candidate's answer to pick out the evidence that is being assessed in that question. The mark scheme can then be applied. This is done as a two-stage process.
 
-{19}------------------------------------------------
+## MARK SCHEME
 
-#### **Stage 1 – Deciding on the band**
+## Guidance for examiners
+
+
+
+{20}------------------------------------------------
+
+
+
+## Stage 1 -Deciding on the band
 
 Beginning at the lowest band, examiners should look at the candidate's answer and check whether it matches the descriptors for that band. If the descriptors at the lowest band are satisfied, examiners should move up to the next band and repeat this process for each band until the descriptors most closely matches the work.
 
-#### **Stage 2 – Deciding on the mark**
+## Stage 2 -Deciding on the mark
 
 Having determined the appropriate band, deciding on the mark within a band will be made on the basis of a 'best fit' procedure, weaknesses in some areas being compensated for by strengths in others.
 
@@ -501,39 +592,39 @@ Standardising material that has already been awarded a mark will be provided dur
 
 This mark scheme instructs examiners to look for and reward valid alternatives where indicative content is suggested for an answer. This is not a checklist for expected content in an answer, or set out as a 'model answer', as responses must be marked in the banded levels of response provided for each question. Where a candidate provides a response that contains aspects or approaches not included in the indicative content, examiners should use their professional judgement to determine the validity of the response in light of the task and reward as directed by the bands. Candidates are free to choose any approach that is relevant to the set task. Candidates can (and will most likely) incorporate ideas other than those mentioned in the mark scheme.
 
-{20}------------------------------------------------
 
-#### **Glossary of terms**
-
-The following glossary of terms provides guidance on terms used within the banded mark schemes.
-
-| Major error | An error that impedes communication and prevents the meaning being accurately conveyed. |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  | For example: <ul><li>Incorrect verb forms resulting in confusion about the subject and or the tense:</li><li>Vous allons au parc</li><li>Je aller au concert</li></ul> |
-|  | <ul><li>Significant spelling errors which make the word unrecognisable in French and / or changes the meaning:</li><li>Je manager une pan</li><li>J'aime la quizine française</li></ul> |
-|  | <ul><li>Expressions of time in conflict with verb tenses, making the detail about when the activity happened unclear:</li><li>Hier, je vais aller</li><li>La semaine prochaine il est allé</li></ul> |
-|  | <ul><li>Mother-tongue word swaps:</li><li>J'aime faire le cooking</li></ul> |
-| Minor error | An error that does not impede communication and allows the meaning to be conveyed. |
-|  | For example: <ul><li>Minor spelling errors which don't affect the communication:</li><li>Il habite dans un apartement</li><li>Voici mon addresse</li></ul> |
-|  | <ul><li>Missing accents which don't affect the meaning or tense:</li><li>J'ecoute</li><li>Cafe</li></ul> |
-|  | <ul><li>Incorrect accents which don't affect the overall meaning:</li><li>Elle adore son frére</li><li>Il est tres grand</li></ul> |
-|  | <ul><li>Incorrect gender and errors in agreement:</li><li>Elle est grand</li><li>Le voiture est grand</li></ul> |
-| Clear         | The message is unambiguous.                                                                                                                                                                |
-| Comprehensive | Including everything that is necessary – complete. |
-| Detailed      | Giving a lot of information with many details.                                                                                                                                             |
 
 {21}------------------------------------------------
 
-| Understandable             | Able to be understood.                                                                                                                                                                                                                                                                 |  |  |  |  |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| Addresses | Evidence of response. For example, candidates should include all bullet points, but equal coverage is not expected. |  |  |  |  |
-| Development / developed | Including additional detail which elaborates. It can be a clause or separate phrase. |  |  |  |  |
-| Extended | A longer sequence which may include additional clause(s) giving further details, reasoning and / or opinion. |  |  |  |  |
-| Complex language | More sophisticated linguistic constructions, which may include: <ul><li>longer sentence with connectives (e.g. because, such as, when…)</li><li>infinitive constructions</li><li>use of (multiple) pronouns</li><li>use of adverbs</li><li>word order that is different to English.</li></ul> |  |  |  |  |
-| Communication              | Exchanging of information.                                                                                                                                                                                                                                                             |  |  |  |  |
-| Relevant                   | Connected or appropriate to the stimulus.                                                                                                                                                                                                                                              |  |  |  |  |
-| Straightforward            | Easy to understand or simple.                                                                                                                                                                                                                                                          |  |  |  |  |
-| Well-reasoned              | Clear and carefully thought out.                                                                                                                                                                                                                                                       |  |  |  |  |
+
+
+## Glossary of terms
+
+The following glossary of terms provides guidance on terms used within the banded mark schemes.
+
+| Major error   | An error that impedes communication and prevents the meaning being accurately conveyed. For example: • Incorrect verb forms resulting in confusion about the subject and or the tense: • Vous allons au parc • Je aller au concert • Significant spelling errors which make the word unrecognisable in French and / or changes the meaning: • Je manager une pan • J'aime la quizine française • Expressions of time in conflict with verb tenses, making the detail about when the activity happened unclear: • Hier, je vais aller • La semaine prochaine il est allé • Mother-tongue word swaps: • J'aime faire le cooking   |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Minor error   | An error that does not impede communication and allows the meaning to be conveyed. For example: • Minor spelling errors which don't affect the communication: • Il habite dans un apartement • Voici mon addresse • Missing accents which don't affect the meaning or tense: • J'ecoute • Cafe • Incorrect accents which don't affect the overall meaning: • Elle adore son frére • Il est tres grand • Incorrect gender and errors in agreement: • Elle est grand • Le voiture est grand                                                                                                                                       |
+| Clear         | The message is unambiguous.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Comprehensive | Including everything that is necessary - complete.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Detailed      | Giving a lot of information with many details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+
+
+{22}------------------------------------------------
+
+
+
+| Understandable          | Able to be understood.                                                                                                                                                                                                                                |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Addresses               | Evidence of response. For example, candidates should include all bullet points, but equal coverage is not expected.                                                                                                                                   |
+| Development / developed | Including additional detail which elaborates. It can be a clause or separate phrase.                                                                                                                                                                  |
+| Extended                | A longer sequence which may include additional clause(s) giving further details, reasoning and / or opinion.                                                                                                                                          |
+| Complex language        | More sophisticated linguistic constructions, which may include: • longer sentence with connectives (e.g. because, such as, when…) • infinitive constructions • use of (multiple) pronouns • use of adverbs • word order that is different to English. |
+| Communication           | Exchanging of information.                                                                                                                                                                                                                            |
+| Relevant                | Connected or appropriate to the stimulus.                                                                                                                                                                                                             |
+| Straightforward         | Easy to understand or simple.                                                                                                                                                                                                                         |
+| Well-reasoned           | Clear and carefully thought out.                                                                                                                                                                                                                      |
 
 Differentiation of descriptors in the mark scheme
 
@@ -549,114 +640,132 @@ The following words are used from top to lower bands in all banded mark schemes:
 
 Please note that these should be viewed in conjunction with the descriptor as they may not always go from top to lower, for example: frequent errors would be in a lower mark band.
 
-{22}------------------------------------------------
 
-**Assessment Grids** (45 marks)
-
-This task tests the candidate's ability to understand and respond to written language (AO2 – 30 marks). It also tests the candidate's knowledge and accurate application of a range of grammatical structures and vocabulary (AO3 – 15 marks) as specified in the assessment grids below. The number of words is approximate, and all work must be marked. The bullet points are compulsory but equal coverage is not required.
-
-#### **The following Assessment Objectives are tested in task 1a:**
-
-- AO2 Understand and respond to written language in writing
-- AO3 Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification*.*
-
-#### **Assessment Grid for Task 1(a) (15 marks)**
-
-#### **AO2: (10 marks for communication in writing)**
-
-#### **Task 1(a)**
-
-**Write about the work you have studied.** 
-
-**You must:**
-
-• **summarise the main events.**
-
-#### **Write up to a maximum of 70 words in French.**
-
-| Band | Marks [10] | AO2 Understand and respond to written language in writing. |  |  |  |
-|------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| 5 | 9-10 | <ul><li>Consistently relevant information is conveyed.</li><li>Responses are always extended and consistently developed.</li><li>Communication is clear and consistently understandable.</li></ul> |  |  |  |
-| 4 | 7-8 | <ul><li>Conveys relevant information.</li><li>Responses are often extended and frequently developed.</li><li>Communication is understandable, an occasional message may be unclear.</li></ul> |  |  |  |
-| 3 | 5-6 | <ul><li>Conveys mainly relevant information.</li><li>Responses are generally extended and generally developed.</li><li>Communication is mainly understandable, some messages may be unclear.</li></ul> |  |  |  |
-| 2 | 3-4 | <ul><li>Some relevant information is conveyed.</li><li>Responses are sometimes developed.</li><li>Communication is sometimes understandable, the message sometimes breaks down.</li></ul> |  |  |  |
-| 1 | 1-2 | <ul><li>Limited information is conveyed.</li><li>Responses are rarely developed.</li><li>Communication is rarely understandable.</li></ul> |  |  |  |
-| 0    | 0             | Response not worthy of credit.                                                                                                                                                               |  |  |  |
 
 {23}------------------------------------------------
 
-#### **AO3: (5 marks for demonstration of grammar and vocabulary)**
 
-| Band | Marks [5] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification. |  |  |  |  |
-|------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| 5 | 5 | <ul><li>A wide range of appropriate vocabulary and structures are used, with some complex language.</li><li>Highly successful use of verb and tense formations.</li><li>Language used is highly accurate – any errors are minor.</li></ul> |  |  |  |  |
-| 4 | 4 | <ul><li>A range of appropriate vocabulary and structures are used, with some complex language.</li><li>Mainly successful use of verb and tense formations.</li><li>Language is accurate – there may be some minor errors and very few major errors.</li></ul> |  |  |  |  |
-| 3 | 3 | <ul><li>Some appropriate vocabulary and structures are used, little complex language.</li><li>Generally successful use of verb and tense formations.</li><li>Some accurate language – there may be some minor and major errors.</li></ul> |  |  |  |  |
-| 2 | 2 | <ul><li>Basic vocabulary and structures are used.</li><li>Occasionally successful use of verb and tense formations.</li><li>Little accurate language – there may be frequent minor errors and some major errors.</li></ul> |  |  |  |  |
-| 1 | 1 | <ul><li>Limited and possibly repetitive vocabulary and structures are used.</li><li>Limited success in verb and tense formation.</li><li>Limited accurate language – there may be frequent errors, both major and minor.</li></ul> |  |  |  |  |
-| 0    | 0            | Response not worthy of credit.                                                                                                                                                                                                                            |  |  |  |  |
 
-#### **Guidance on application of mark schemes**
+## Assessment Grids
 
-A mark of zero for AO2 will result in a mark of zero for AO3.
+This task tests the candidate's ability to understand and respond to written language (AO2 30 marks). It also tests the candidate's knowledge and accurate application of a range of grammatical structures and vocabulary (AO3 -15 marks) as specified in the assessment grids below. The number of words is approximate, and all work must be marked. The bullet points are compulsory but equal coverage is not required.
+
+## The following Assessment Objectives are tested in task 1a:
+
+- AO2 Understand and respond to written language in writing
+- AO3 Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification .
+
+## Assessment Grid for Task 1(a) (15 marks)
+
+## AO2: (10 marks for communication in writing)
+
+## Task 1(a)
+
+Write about the work you have studied.
+
+You must:
+
+- summarise the main events.
+
+Write up to a maximum of 70 words in French.
+
+|   Band | Marks [10]   | AO2 Understand and respond to written language in writing.                                                                                                                 |
+|--------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 | 9-10         | • Consistently relevant information is conveyed. • Responses are always extended and consistently developed. • Communication is clear and consistently understandable.     |
+|      4 | 7-8          | • Conveys relevant information. • Responses are often extended and frequently developed. • Communication is understandable, an occasional message may be unclear.          |
+|      3 | 5-6          | • Conveys mainly relevant information. • Responses are generally extended and generally developed. • Communication is mainly understandable, some messages may be unclear. |
+|      2 | 3-4          | • Some relevant information is conveyed. • Responses are sometimes developed. • Communication is sometimes understandable, the message sometimes breaks down.              |
+|      1 | 1-2          | • Limited information is conveyed. • Responses are rarely developed. • Communication is rarely understandable.                                                             |
+|      0 | 0            | Response not worthy of credit.                                                                                                                                             |
+
+
 
 {24}------------------------------------------------
 
-#### **Assessment Grids for Task 1(b) (30 marks)**
 
-#### **AO2: (20 marks for communication in writing)**
 
-#### **Task 1(b)**
+AO3: (5 marks for demonstration of grammar and vocabulary)
 
-**Write a review of the work you have studied.** 
+|   Band |   Marks [5] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification .                                                                                                               |
+|--------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 |           5 | • A wide range of appropriate vocabulary and structures are used, with some complex language. • Highly successful use of verb and tense formations. • Language used is highly accurate - any errors are minor.                    |
+|      4 |           4 | • A range of appropriate vocabulary and structures are used, with some complex language. • Mainly successful use of verb and tense formations. • Language is accurate - there may be some minor errors and very few major errors. |
+|      3 |           3 | • Some appropriate vocabulary and structures are used, little complex language. • Generally successful use of verb and tense formations. • Some accurate language - there may be some minor and major errors.                     |
+|      2 |           2 | • Basic vocabulary and structures are used. • Occasionally successful use of verb and tense formations. • Little accurate language - there may be frequent minor errors and some major errors.                                    |
+|      1 |           1 | • Limited and possibly repetitive vocabulary and structures are used. • Limited success in verb and tense formation. • Limited accurate language - there may be frequent errors, both major and minor.                            |
+|      0 |           0 | Response not worthy of credit.                                                                                                                                                                                                    |
 
-#### **You must:**
-
-- **provide examples of what you liked about the work**
-- **justify your opinions.**
-
-#### **Write up to a maximum of 130 words in French**
-
-| Band | Marks [20] | AO2: Understand and respond to written language in writing. |  |  |  |  |
-|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| 5 | 17-20 | <ul><li>Examples provided are always relevant.</li><li>Ideas and opinions (as appropriate to the task) are clearly expressed and fully justified.</li><li>Communication is clear and consistently understandable.</li></ul> |  |  |  |  |
-| 4 | 13-16 | <ul><li>Examples provided are mostly relevant.</li><li>Ideas and opinions (as appropriate to the task) are expressed and justified.</li><li>Communication is understandable, an occasional message may be unclear.</li></ul> |  |  |  |  |
-| 3 | 9-12 | <ul><li>Examples provided are sometimes relevant.</li><li>Ideas and opinions (as appropriate to the task) are expressed with occasional justification.</li><li>Communication is mainly understandable, some messages may be unclear.</li></ul> |  |  |  |  |
-| 2 | 5-8 | <ul><li>Few examples are provided.</li><li>Some ideas and opinions (as appropriate to the task) are expressed.</li><li>Communication is sometimes understandable, the message sometimes breaks down.</li></ul> |  |  |  |  |
-| 1 | 1-4 | <ul><li>Minimal examples are provided.</li><li>Limited ideas and opinions (as appropriate to the task) are expressed.</li><li>Communication is rarely understandable.</li></ul> |  |  |  |  |
-| 0    | 0             | Response not worthy of credit.                                                                                                                                                                                                          |  |  |  |  |
-
-{25}------------------------------------------------
-
-#### **AO3: (10 marks for demonstration of grammar and vocabulary)**
-
-| Band | Marks [10] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification. |  |
-|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 5 | 9-10 | <ul><li>A wide range of appropriate vocabulary and structures are used, with some complex language.</li><li>Highly successful use of verb and tense formations.</li><li>Language used is highly accurate – any errors are minor.</li></ul> |  |
-| 4 | 7-8 | <ul><li>A range of appropriate vocabulary and structures are used, with some complex language.</li><li>Mainly successful use of verb and tense formations.</li><li>Language is accurate – there may be some minor errors and very few major errors.</li></ul> |  |
-| 3 | 5-6 | <ul><li>Some appropriate vocabulary and structures are used, little complex language.</li><li>Generally successful use of verb and tense formations.</li><li>Some accurate language – there may be some minor and major errors.</li></ul> |  |
-| 2 | 3-4 | <ul><li>Basic vocabulary and structures are used.</li><li>Occasionally successful use of verb and tense formations.</li><li>Little accurate language – there may be frequent minor errors and some major errors.</li></ul> |  |
-| 1 | 1-2 | <ul><li>Limited and possibly repetitive vocabulary and structures are used.</li><li>Limited success in verb and tense formations.</li><li>Limited accurate language – there may be frequent errors, both major and minor.</li></ul> |  |
-| 0    | 0             | Response not worthy of credit.                                                                                                                                                                                                                            |  |
-
-#### **Guidance on application of mark schemes**
+## Guidance on application of mark schemes
 
 A mark of zero for AO2 will result in a mark of zero for AO3.
 
+
+
+{25}------------------------------------------------
+
+
+
+## Assessment Grids for Task 1(b) (30 marks)
+
+## AO2: (20 marks for communication in writing)
+
+## Task 1(b) Write a review of the work you have studied. You must:
+
+- provide examples of what you liked about the work
+- justify your opinions.
+
+## Write up to a maximum of 130 words in French
+
+|   Band | Marks [20]   | AO2: Understand and respond to written language in writing.                                                                                                                                                        |
+|--------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 | 17-20        | • Examples provided are always relevant. • Ideas and opinions (as appropriate to the task) are clearly expressed and fully justified. • Communication is clear and consistently understandable.                    |
+|      4 | 13-16        | • Examples provided are mostly relevant. • Ideas and opinions (as appropriate to the task) are expressed and justified. • Communication is understandable, an occasional message may be unclear.                   |
+|      3 | 9-12         | • Examples provided are sometimes relevant. • Ideas and opinions (as appropriate to the task) are expressed with occasional justification. • Communication is mainly understandable, some messages may be unclear. |
+|      2 | 5-8          | • Few examples are provided. • Some ideas and opinions (as appropriate to the task) are expressed. • Communication is sometimes understandable, the message sometimes breaks down.                                 |
+|      1 | 1-4          | • Minimal examples are provided. • Limited ideas and opinions (as appropriate to the task) are expressed. • Communication is rarely understandable.                                                                |
+|      0 | 0            | Response not worthy of credit.                                                                                                                                                                                     |
+
+
+
 {26}------------------------------------------------
 
-#### Mapping of questions to assessment objectives
 
-| Task |                | Mark allocation |              |  |
-|------|----------------|-----------------|--------------|--|
-|  | Total Marks | AO2 Marks | AO3 Marks |  |
-|      | 45             | 30              | 15           |  |
 
-![](_page_26_Picture_2.jpeg)
+AO3: (10 marks for demonstration of grammar and vocabulary)
+
+|   Band | Marks [10]   | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification .                                                                                                               |
+|--------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      5 | 9-10         | • A wide range of appropriate vocabulary and structures are used, with some complex language. • Highly successful use of verb and tense formations. • Language used is highly accurate - any errors are minor.                    |
+|      4 | 7-8          | • A range of appropriate vocabulary and structures are used, with some complex language. • Mainly successful use of verb and tense formations. • Language is accurate - there may be some minor errors and very few major errors. |
+|      3 | 5-6          | • Some appropriate vocabulary and structures are used, little complex language. • Generally successful use of verb and tense formations. • Some accurate language - there may be some minor and major errors.                     |
+|      2 | 3-4          | • Basic vocabulary and structures are used. • Occasionally successful use of verb and tense formations. • Little accurate language - there may be frequent minor errors and some major errors.                                    |
+|      1 | 1-2          | • Limited and possibly repetitive vocabulary and structures are used. • Limited success in verb and tense formations. • Limited accurate language - there may be frequent errors, both major and minor.                           |
+|      0 | 0            | Response not worthy of credit.                                                                                                                                                                                                    |
+
+## Guidance on application of mark schemes
+
+A mark of zero for AO2 will result in a mark of zero for AO3.
+
+
 
 {27}------------------------------------------------
 
-#### Appendix – Guide to Controls
+
+
+## Mapping of questions to assessment objectives
+
+| Task   | Mark allocation   | Mark allocation   | Mark allocation   |
+|--------|-------------------|-------------------|-------------------|
+|        | Total Marks       | AO2 Marks         | AO3 Marks         |
+|        | 45                | 30                | 15                |
+
+
+
+{28}------------------------------------------------
+
+
+
+## Appendix -Guide to Controls
 
 Unit 2 is internally assessed through NEA. Controls are provided to:
 
@@ -668,62 +777,79 @@ Unit 2 is internally assessed through NEA. Controls are provided to:
 
 There are a number of different aspects that are controlled within the internal assessment.
 
-#### These are:
+## These are:
 
-- **supervision** how closely candidates should be monitored as they carry out the tasks
-- **guidance** how much help you are allowed to provide candidates as they are completing the tasks
-- **resources** whether candidates are allowed access to any resources as they're completing the tasks and if so, what resources
-- **collaboration**  whether candidates are allowed to work with others as they're completing the tasks.
+- supervision -how closely candidates should be monitored as they carry out the tasks
+- guidance -how much help you are allowed to provide candidates as they are completing the tasks
+- resources -whether candidates are allowed access to any resources as they're completing the tasks and if so, what resources
+- collaboration -whether candidates are allowed to work with others as they're completing the tasks.
 
-#### **Supervision**
+## Supervision
 
-Unit 2 control the level of supervision is **Direct**. **Please note that this assessment must be taken in one single session and must not exceed the allotted one hour.**
-
-Please see the controls in the table below:
-
-| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Direct | The use of resources is tightly prescribed. The centre must ensure that: <ul><li>all candidates are within direct sight of the supervisor throughout the session(s)</li><li>display materials which might provide assistance are removed or covered</li><li>there is no access to e-mail, the internet or mobile phones</li><li>candidates complete their work independently</li><li>interaction with other candidates does not occur</li><li>no assistance of any description is provided.</li><li>candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.</li></ul> |
-|  | Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
-
-{28}------------------------------------------------
-
-#### **Guidance**
-
-Unit 2 control the level of guidance is **Not Permitted**.
+Unit 2 control the level of supervision is Direct . Please note that this assessment must be taken in one single session and must not exceed the allotted one hour.
 
 Please see the controls in the table below:
 
-| Category of Advice/Feedback:                                                                                                         | Not Permitted |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Review candidates' work and provide oral and written advice at a general level in order to secure a functional outcome. | x |
-| Evaluate progress to date and propose broad approaches for improvement. | x |
-| Provide detailed specific advice on how to improve drafts to meet assessment criteria. | x |
-| Give detailed feedback on errors and omissions which leave candidates with no opportunity to show initiative themselves. | x |
-| Intervene personally to improve the presentation or content of work. | x |
+<!-- image -->
 
-N.B. In all levels of Guidance, teachers are permitted to intervene/advise on issues of safety.
+| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Direct | The use of resources is tightly prescribed. The centre must ensure that: • all candidates are within direct sight of the supervisor throughout the session(s) • display materials which might provide assistance are removed or covered • there is no access to e-mail, the internet or mobile phones • candidates complete their work independently • interaction with other candidates does not occur • no assistance of any description is provided. • candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions. Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
+
+
 
 {29}------------------------------------------------
 
-#### **Resources**
+
+
+## Guidance
+
+Unit 2 control the level of guidance is Not Permitted .
+
+Please see the controls in the table below:
+
+| Category of Advice/Feedback:                                                                                             | Not Permitted   |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Review candidates' work and provide oral and written advice at a general level in order to secure a functional outcome.  | x               |
+| Evaluate progress to date and propose broad approaches for improvement.                                                  | x               |
+| Provide detailed specific advice on how to improve drafts to meet assessment criteria.                                   | x               |
+| Give detailed feedback on errors and omissions which leave candidates with no opportunity to show initiative themselves. | x               |
+| Intervene personally to improve the presentation or content of work.                                                     | x               |
+
+N.B. In all levels of Guidance, teachers are permitted to intervene/advise on issues of safety.
+
+
+
+{30}------------------------------------------------
+
+
+
+## Resources
 
 One level of resources features throughout the assessment of Unit 2:
 
-![](_page_29_Picture_2.jpeg)
+The use of resources is not allowed.
 
-#### **Collaboration**
+Access to the Internet is not permitted.
+
+Candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.
+
+If the specification allows candidates to bring their own computers or other electronic devices into formally supervised sessions, appropriate checks must be carried out to ensure that all materials stored on the devices is permissible and that access to the internet is disabled.
+
+Not permitted
+
+## Collaboration
 
 Collaboration is not permitted. Candidates must not collaborate in any way during the task.
 
 All work produced must be the candidate's own.
 
-#### **Redrafting**
+## Redrafting
 
 Re-drafting is allowed only within the time of the NEA and without teacher feedback.
 
-#### **Time**
+## Time
 
-The total time candidates are allowed to spend on the Unit 2 assessment is **1** hour.
+The total time candidates are allowed to spend on the Unit 2 assessment is 1 hour.
 
 Within the assignment brief for Unit 2, you will see that each task features recommended timings that are for guidance only. Candidates should try to not spend more or less than the recommended time on a task.

@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## WJEC GCSE FOOD AND NUTRITION
 
 ## FREQUENTLY ASKED QUESTIONS
@@ -6,7 +8,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+Made forWales. Ready for the world.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## General Specification Questions
 
@@ -46,6 +54,12 @@ A: The assessment objectives are:
 ## Q: When will the examination for Unit 1 be available?
 
 A: The Unit 1 examination will be available annually from summer 2027. Unit 2 &amp; 3 NEAs will also be available annually from summer 2027, which is when the full GCSE qualification will first be awarded.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Q: What is the grading scale and awarding process?
 

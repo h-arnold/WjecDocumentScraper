@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE DRAMA
@@ -8,7 +10,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+Made forWales. Ready for the world.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## General Specification Questions
 
@@ -55,6 +63,12 @@ A: The SAMs for Units 1, 2 and 3 are available from the 19 th  December 2024, on
 
 A: This is a linear qualification in which all assessments must be taken at the end of the course. Unit 1 can be completed earlier in the course (for example at the end of year 10) but must be submitted at the end of the course. Unit 2 must be completed during the assessment window set by WJEC in the final year of study. Please note that NEA briefs will be published on the 1 st  September every year.
 
+
+
+{3}------------------------------------------------
+
+
+
 ## Q: Is there a list of specific terminology learners should be aware of?
 
 A: There is a list of terminology in Appendix B of the specification designed to aid teachers in preparing learners for Unit 1, 2 and 3.
@@ -85,6 +99,12 @@ A: The assessment packs can be found on Portal. Please see the image below for g
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{4}------------------------------------------------
+
+
+
 ## Q: Where can I find the stimulus material for Unit 1 and when will it be released?
 
 A: The stimulus will be released during the first week of September each year. The stimulus material can be found on Portal, please see the image below for guidance on how to use the filters. The stimulus material will be listed under 'Non-Examination Task' and will be available to access as a downloadable PDF.
@@ -114,6 +134,12 @@ A: The relevant paperwork for Unit 1 can be found on pages 12-16 of the Assessme
 ## Q: How do I upload candidate work for Unit 2?
 
 A: Externally assessed NEA candidate work (Unit 2) will be uploaded via Surpass. For more information please visit: e-Submission | WJEC.
+
+
+
+{5}------------------------------------------------
+
+
 
 ## Q: How do I guide candidates on selecting an appropriate text?
 
@@ -156,6 +182,12 @@ A: Maximum time limits are detailed in the Guidance for Teaching. Anything over 
 ## Q: If the viva is not assessed will there be any penalty for a candidate who does not complete it?
 
 A: If a design candidate does not complete the Viva, this will be self-penalising and a missed opportunity to present their designs to the examiner.
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Unit 3: Interpreting Theatre Questions
 
@@ -206,6 +238,12 @@ A: Yes.
 ## Q: Will the set texts for Unit 3 be available in Welsh and where can I access them?
 
 A: The set texts will be available in Welsh, and these can be accessed on Portal. Please contact your exams officer for a Portal login, or email portal@wjec.co.uk for support.
+
+
+
+{7}------------------------------------------------
+
+
 
 ## Q: Do candidates need to study design for Unit 3 even if they have been assessed as an actor for Units 1 and 2?
 

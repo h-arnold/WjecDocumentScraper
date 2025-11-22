@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## WHY CHOOSE GCSE DIGITAL MEDIA AND FILM?
 
 The media is not just for entertainment; it helps shape the society we live in. All social media posts, video games and film trailers communicate a message to audiences around the world. By studying GCSE Digital Media and Film, you will be given the tools to understand these messages  and investigate how  the media industry works. The course is designed to  allow  you  to  explore  rich  and  engaging media texts as well as opportunities to develop creative and technical skills.

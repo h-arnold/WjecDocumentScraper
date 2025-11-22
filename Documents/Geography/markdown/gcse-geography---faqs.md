@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE GEOGRAPHY
@@ -8,7 +10,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+Made forWales. Ready for the world.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## Q: Will there be sample assessments for teachers to see how the exams will be structured, and questions will be phrased?
 
@@ -39,6 +47,12 @@ A: Unit 4 NEA will be available from 2027. This is set by WJEC, marked by the ce
 ## Q: Why are there two topics listed each year for the fieldwork?
 
 A: Centres choose one topic from a choice of two. You may use your own knowledge and expertise within departments to choose which topic and location works best for your learners and there is no requirement for different environments for the site.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Q: Do centres still have to do two fieldwork days?
 

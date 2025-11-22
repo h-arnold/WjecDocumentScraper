@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## GCSE English Language and Literature Newsletter April 2025
 
 ## Teaching from 2025 - For award from 2027
@@ -25,6 +27,12 @@ As explained in Circular 28, from September 2025, learners must not be entered i
 <!-- image -->
 
 <!-- image -->
+
+
+
+{2}------------------------------------------------
+
+
 
 ## 2. Resources
 
@@ -92,6 +100,12 @@ The Guidance for Teaching is designed to support teachers in the delivery of WJE
 
 <!-- image -->
 
+
+
+{3}------------------------------------------------
+
+
+
 ## Guidance for Teaching spotlight: The Glossary
 
 The glossary is provided within the Guidance for Teaching as a guide to support teachers and learners. It defines terms that will be useful in preparing learners for the WJEC GCSE English qualification; it is not definitive and it is not a checklist. Learners will not be credited for feature-spotting but should know some of the terms provided to engage better with the construction of meaning and to comment productively on the effects such features create. In turn, they will then be able to deliberately and effectively employ the features in their own writing and/or speaking. The key terms have been grouped to support understanding.
@@ -117,6 +131,12 @@ We are keen to appoint new examiners for WJEC GCSE English Language and Literatu
 <!-- image -->
 
 <!-- image -->
+
+
+
+{4}------------------------------------------------
+
+
 
 ## 5. Key dates
 

@@ -1,49 +1,55 @@
+{1}------------------------------------------------
 
+<!-- image -->
 
-{0}------------------------------------------------
-
-![](_page_0_Picture_0.jpeg)
-
-![](_page_0_Picture_1.jpeg)
-
-# WJEC GCSE Drama
+## WJEC GCSE Drama
 
 Approved by Qualifications Wales
 
-# Non-Examination Assessment Handbook
+## Non-Examination Assessment Handbook
 
-Unit 2: Performance from a Text (3620QSL-2)
+Unit 2: Performance from a Text (3620QSL-2) Teaching from 2025 For assessment from 2027
 
-Teaching from 2025
+<!-- image -->
 
-For assessment from 2027
+Made for Wales. Ready for the world.
 
-![](_page_0_Picture_8.jpeg)
+<!-- image -->
 
-Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
 
-Made for Wales.
-
-{1}------------------------------------------------
-
-![](_page_1_Picture_0.jpeg)
 
 {2}------------------------------------------------
 
-# Contents
 
-| Information for Teachers | 1 |
-|------------------------------|----|
-| Information for Candidates   | 8  |
-| Marking Scheme               | 17 |
 
-#### **Copyright**
+WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
 
-© WJEC CBAC Limited 2025.
+
 
 {3}------------------------------------------------
 
-# <span id="page-3-0"></span>Information for Teachers
+
+
+## Contents
+
+| Information for Teachers .......................................................................................................   | 1   |
+|------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Information for Candidates ....................................................................................................    | 8   |
+| Marking Scheme .................................................................................................................   |     |
+
+## Copyright
+
+© WJEC CBAC Limited 2025.
+
+17
+
+
+
+{4}------------------------------------------------
+
+
+
+## Information for Teachers
 
 This pack contains the assessment materials for Unit 2: Performance from a Text
 
@@ -53,41 +59,45 @@ Within this pack, you will find:
 - information which must be shared with candidates that tells them about things that they must and must not do when they are completing the assessment
 - the mark scheme that will be applied to assess candidates.
 
-# **Managing the assessment**
+## Managing the assessment
 
 This is a WJEC marked (external) non-examination assessment. The following arrangements must be followed when managing the assessment.
 
-# **Task setting**
+## Task setting
 
 This assignment has been produced by WJEC and cannot be changed.
 
-Candidates may choose **either** acting **or** design.
+Candidates may choose either acting or design.
 
-#### **Resources**
+## Resources
 
 Candidates must have access to the candidate assessment pack and any necessary resources, as specified in the detailed task tables within the candidate pack.
 
-# **Supervision**
+## Supervision
 
 - No formal supervision.
 - There is no restriction on the amount of time learners spend on exploring, creating and developing their performance/design from a published performance piece.
 - Teachers may provide guidance and support to learners to ensure that they have a clear understanding of the requirements, for example, the assessment grid.
-- Once the creating and developing work is underway, feedback must be limited to general advice on what needs to be improved. Teachers must **not** provide specific guidance on how to achieve these improvements.
+- Once the creating and developing work is underway, feedback must be limited to general advice on what needs to be improved. Teachers must not provide specific guidance on how to achieve these improvements.
 - Teachers must see learners' ideas in progress at least three times at different stages during the process to be able to authenticate the work as the learner's own and complete the necessary authentication documentation.
 
-### **Authentication**
+## Authentication
 
 Candidates must sign the declaration to confirm that the performance/design is their own work and that any sources used have been acknowledged.
 
 Assessors must sign the declaration to confirm that performance/design was produced under the conditions set out in this assessment.
 
-#### **Weighting:**
+## Weighting:
 
 There are 72 marks awarded in Unit 2 Unit 2 makes up 30% of the GCSE Drama qualification.
 
-{4}------------------------------------------------
 
-#### **Administration**
+
+{5}------------------------------------------------
+
+
+
+## Administration
 
 Centres are reminded that the following documentation should be completed for Unit 2:
 
@@ -96,11 +106,11 @@ Centres are reminded that the following documentation should be completed for Un
 - Unit 2 Programme Proforma
 - Unit 2 Unassessed Participant Declaration Form (where appropriate)
 
-All information regarding the submission of these forms can be found in our [E-Submission](https://www.wjec.co.uk/home/administration/e-submission-upload/#tab_0)  [Guide \(Surpass\).](https://www.wjec.co.uk/home/administration/e-submission-upload/#tab_0)
+All information regarding the submission of these forms can be found in our E-Submission Guide (Surpass).
 
-# **Candidate evidence**
+## Candidate evidence
 
-The teacher **must** be present for all performances and design vivas.
+The teacher must be present for all performances and design vivas.
 
 All performances and design vivas must be audio-visually recorded by the centre and submitted to WJEC within two weeks of the performance date.
 
@@ -110,31 +120,35 @@ The recording must be of all the performances (with learners clearly identified 
 
 The recording of each piece must be the complete, unedited performance filmed from the audience perspective.
 
-# **Task marking**
+## Task marking
 
 A visiting examiner from WJEC will mark all performances/designs produced by candidates.
 
-Centres **must** ensure that candidate details and authentication signatures are provided on the candidate mark sheets prior to the visit and presented to the visiting examiner when they arrive.
+Centres must ensure that candidate details and authentication signatures are provided on the candidate mark sheets prior to the visit and presented to the visiting examiner when they arrive.
 
-#### **Further information**
+## Further information
 
 You should refer to the JCQ Instructions for conducting non-examination assessment for further information on managing assessment within our GCSE/Applied Qualifications.
 
-You may also refer to [JCQ Information for candidates](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) – non-examination assessments and the [JCQ Artificial Intelligence \(AI\) Use in Assessments: Protecting the Integrity of](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/)  [Qualifications.](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/)
+You may also refer to JCQ Information for candidates -non-examination assessments and the JCQ Artificial Intelligence (AI) Use in Assessments: Protecting the Integrity of Qualifications.
 
-#### **Assessment Details**
+## Assessment Details
 
 Information regarding the task can be found within the candidate brief later in this document. Learners will have free choice of text for Unit 2, however, the choice of text must be different to the set text selected in Unit 3.
 
 All learners must contribute fully to the development and creation of the piece of theatre. Performance pieces must therefore be carefully selected to ensure that all learners are able to fully demonstrate their chosen skill.
 
-{5}------------------------------------------------
+
+
+{6}------------------------------------------------
+
+
 
 Centres should also ensure safe working practices for all learners.
 
 Centres should note that it is not necessary for all learners in the teaching group to choose an extract(s) from the same performance text.
 
-# **Guidance for Assessment**
+## Guidance for Assessment
 
 The unit will be externally assessed by a visiting examiner anytime between January and May of the final year of the qualification.
 
@@ -144,7 +158,7 @@ Work which exceeds the time limit will not be penalised. However, centres and le
 
 The appropriate band will be established by determining which performance descriptor best reflects the learner's performance.
 
-The appropriate mark will then be established by determining the extent to which the learner has met the criteria within the relevant band **–** completely met (upper part of band), mostly met (middle of band), partially met (lower part of band).
+The appropriate mark will then be established by determining the extent to which the learner has met the criteria within the relevant band -completely met (upper part of band), mostly met (middle of band), partially met (lower part of band).
 
 The total marks for all 4 columns may reflect performance at different bands across the assessment objectives, for example, a learner may achieve band 4 for column 1 and band 5 for column 2.
 
@@ -162,68 +176,75 @@ There are 4 columns in each grid.
 
 Column 1 within each grid assess AO4:
 
-• learners' ability to create and develop ideas to communicate meaning.
+- learners' ability to create and develop ideas to communicate meaning.
 
 Columns 2, 3 and 4 in each grid assess AO2:
 
-- application of performance **or** design skills
-- interpretation of character(s) **or** extract(s) and audience engagement
+- application of performance or design skills
+- interpretation of character(s) or extract(s) and audience engagement
 - contribution to the performance.
 
-{6}------------------------------------------------
 
-#### **Column 1 – Creating and developing ideas (AO4)**
+
+{7}------------------------------------------------
+
+
+
+## Column 1 -Creating and developing ideas (AO4)
 
 When assessing AO4, examiners will consider how the creation and development of ideas are evidenced within the final performance/design. They will assess the extent to which the final performance/design has been rehearsed and refined and demonstrates a holistic understanding of how meaning is communicated to an audience.
 
 The following table explains in detail how to assess each bullet point on the assessment grid for AO4:
 
-|                                                                  | Assessment grid                                                                                             | Explanation                                                                                                                                                                                                                                                                                 |
-|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| For all learners, consideration should be given to: | <ul><li>how ideas have been developed to create a piece of theatre from a published performance text.</li></ul> | <ul><li>assess to what extent the learner has developed a coherent and refined piece of theatre.</li></ul> |
-|  | <ul><li>the selection of dramatic conventions and/or techniques and how they communicate meaning.</li></ul> | <ul><li>assess the effectiveness of the use of dramatic conventions and/or techniques to communicate meaning. Conventions or techniques could be linked to specific practitioners/companies/genres or the intended performance conditions of the chosen extract(s).</li></ul> |
-| For actors only consideration should be given to: | <ul><li>how the performance space is planned to communicate meaning.</li></ul> | <ul><li>assess the learner's use of the performance space, including entrances/exits, levels, proxemics, audience position to communicate meaning in performance.</li></ul> |
-| For designers only consideration should be given to: | <ul><li>how the design is planned to communicate meaning.</li></ul> | <ul><li>assess how well the design has been planned to communicate meaning in performance.</li></ul> |
+|                                                      | Assessment grid                                                                                                                                                                             | Explanation                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| For all learners, consideration should be given to:  | • how ideas have been developed to create a piece of theatre from a published performance text. • the selection of dramatic conventions and/or techniques and how they communicate meaning. | • assess to what extent the learner has developed a coherent and refined piece of theatre. • assess the effectiveness of the use of dramatic conventions and/or techniques to communicate meaning. Conventions or techniques could be linked to specific practitioners/companies/genres or the intended performance conditions of the chosen extract(s). |
+| For actors only consideration should be given to:    | • how the performance space is planned to communicate meaning.                                                                                                                              | • assess the learner's use of the performance space, including entrances/exits, levels, proxemics, audience position to communicate meaning in performance.                                                                                                                                                                                              |
+| For designers only consideration should be given to: | • how the design is planned to communicate meaning.                                                                                                                                         | • assess how well the design has been planned to communicate meaning in performance.                                                                                                                                                                                                                                                                     |
 
-{7}------------------------------------------------
 
-#### **Column 2 – Application of performance/design skills (AO2)**
 
-This assessment objective is assessed through the realisation of the final performance **or** design.
+{8}------------------------------------------------
 
-When assessing the application of skills, examiners will consider how well the learner has applied performance **or** design skills within the final piece.
+
+
+## Column 2 -Application of performance/design skills (AO2)
+
+This assessment objective is assessed through the realisation of the final performance or design.
+
+When assessing the application of skills, examiners will consider how well the learner has applied performance or design skills within the final piece.
 
 For actors, consideration should be given to:
 
 - i) the application of appropriate physical skills, including:
-  - gesture
-  - stillness
-  - fluency
-  - expression
-  - posture
-  - facial expression
-  - movement
-  - proxemics.
-- ii) the application of appropriate vocal skills, including:
-  - pitch
-  - pace/tempo
-  - pause
-  - accent
-  - volume
-  - clarity.
-- iii) the appropriateness of the interaction with other actors, including:
-  - fluency of cues
-  - eye contact
-  - listening and responding
-  - pace and fluency of performance
-  - interaction with audience (where appropriate and relevant)
-  - interaction with set/props/costume (where appropriate and relevant).
+- gesture
+- stillness
+- fluency
+- expression
+- posture
+- facial expression
+- movement
+- proxemics.
+10. ii) the application of appropriate vocal skills, including:
+- pitch
+- pace/tempo
+- pause
+- accent
+- volume
+- clarity.
+17. iii)  the appropriateness of the interaction with other actors, including:
+- fluency of cues
+- eye contact
+- listening and responding
+- pace and fluency of performance
+- interaction with audience (where appropriate and relevant)
+- interaction with set/props/costume (where appropriate and relevant).
 
 For designers, consideration should be given to: iv) the application of design skills and the degree to which they facilitate the action within the performance.
 
-v) the application of design resources within the piece, including the appropriate use of for example:
+- v)   the application of design resources within the piece, including the appropriate use of for example:
 
-#### **lighting designers**
+## lighting designers
 
 - intensity
 - focus
@@ -235,9 +256,13 @@ v) the application of design resources within the piece, including the appropria
 - positioning of lighting source
 - fluency of cues
 
-{8}------------------------------------------------
 
-#### **sound designers**
+
+{9}------------------------------------------------
+
+
+
+## sound designers
 
 - music
 - sound effects
@@ -250,7 +275,7 @@ v) the application of design resources within the piece, including the appropria
 - positioning of sound sources on stage
 - fluency of cues.
 
-#### **set and props designers**
+## set and props designers
 
 - the performance space and the placement of set and props
 - backdrop/cyclorama
@@ -264,7 +289,7 @@ v) the application of design resources within the piece, including the appropria
 - entrances and exits
 - sight lines.
 
-# **costume, hair and make-up designers**
+## costume, hair and make-up designers
 
 - materials/fabrics
 - garments
@@ -274,21 +299,25 @@ v) the application of design resources within the piece, including the appropria
 - accessories
 - colour/pattern.
 
-#### **Column 3 – Interpretation of character(s)/extract(s) and audience engagement (AO2)**
+## Column 3 -Interpretation of character(s)/extract(s) and audience engagement (AO2)
 
-This assessment objective is assessed through the realisation of the final performance **or**  design.
+This assessment objective is assessed through the realisation of the final performance or design.
 
-**Actors:** When assessing the interpretation of character examiners will consider how well the learner has communicated the character in performance. Was the character(s) motivations/status/relationships clear? Was the characterisation engaging?
+Actors: When assessing the interpretation of character examiners will consider how well the learner has communicated the character in performance. Was the character(s) motivations/status/relationships clear? Was the characterisation engaging?
 
-**Designers:** When assessing the interpretation of the extract(s) (designers) examiners will consider how well the learner has communicated the piece in design. Was there a sense of location/atmosphere/status/ evident within the design? Was this sustained throughout the performance? Were there effective subtleties in design?
+Designers: When assessing the interpretation of the extract(s) (designers) examiners will consider how well the learner has communicated the piece in design. Was there a sense of location/atmosphere/status/ evident within the design? Was this sustained throughout the performance? Were there effective subtleties in design?
 
-{9}------------------------------------------------
 
-#### **Column 4 – Contribution to the performance (AO2)**
 
-This assessment objective is assessed through the realisation of the final performance **or**  design.
+{10}------------------------------------------------
 
-When assessing the contribution to the performance examiners will consider how well the individual performance **or** design contributed to the success of the final performance.
+
+
+## Column 4 -Contribution to the performance (AO2)
+
+This assessment objective is assessed through the realisation of the final performance or design.
+
+When assessing the contribution to the performance examiners will consider how well the individual performance or design contributed to the success of the final performance.
 
 For actors, consideration will be given to:
 
@@ -301,217 +330,287 @@ For designers, consideration will be given to:
 - how the design communicated atmosphere
 - how the design enhanced the performance how the design enhanced the audience's understanding and theatrical experience.
 
-{10}------------------------------------------------
 
-# <span id="page-10-0"></span>Information for Candidates
 
-You may choose to complete this unit as actors **or** designers, regardless of your chosen pathway in Unit 1.
+{11}------------------------------------------------
 
-If you choose design, you must choose **one** of the following options:
+
+
+## Information for Candidates
+
+You may choose to complete this unit as actors or designers, regardless of your chosen pathway in Unit 1.
+
+If you choose design, you must choose one of the following options:
 
 - lighting design
 - sound design
 - set and props design
 - costume, hair and make-up design.
 
-# **Task**
+## Task
 
-Create and develop an extract from a published performance text for performance. Demonstrate and apply your performance **or** design skills in a live performance.
+Create and develop an extract from a published performance text for performance. Demonstrate and apply your performance or design skills in a live performance.
 
-# **Time**
+## Time
 
 The length of this piece of theatre will depend on the number of actors in the group and should be as follows:
 
-• Group of two actors: 5-10 minutes • Group of three actors: 7-12 minutes • Group of four actors: 9-14 minutes
+- •
 
-Each actor must interact with other actors and/or the audience **for a minimum of five minutes**. The number of designers in a group does not impact on the length of the piece. A piece of theatre or individual performance which is significantly below the recommended minimum performance length will be unlikely to demonstrate evidence of the skills required to access marks in the higher bands of the assessment criteria.
+- Group of two actors: 5-10 minutes
 
-**All learners** must contribute fully to both the creation and performance of the piece of theatre.
+- •
 
-#### **Viva (designers only)**
+- Group of three actors: 7-12 minutes
 
-All **designers** must give a 3–5-minute non assessed presentation of their design to the examiner. This viva will occur after the performance and can be presented in any format e.g. PowerPoint, oral presentation. The non-assessed viva is an opportunity for learners to explain and present their design to the examiner.
+- •
+
+- Group of four actors: 9-14 minutes
+
+Each actor must interact with other actors and/or the audience for a minimum of five minutes . The number of designers in a group does not impact on the length of the piece. A piece of theatre or individual performance which is significantly below the recommended minimum performance length will be unlikely to demonstrate evidence of the skills required to access marks in the higher bands of the assessment criteria.
+
+All learners must contribute fully to both the creation and performance of the piece of theatre.
+
+## Viva (designers only)
+
+All designers must give a 3 -5-minute non assessed presentation of their design to the examiner. This viva will occur after the performance and can be presented in any format e.g. PowerPoint, oral presentation. The non-assessed viva is an opportunity for learners to explain and present their design to the examiner.
 
 The following evidence could be included to support the presentation:
 
-#### Lighting design:
+Lighting design:
 
-• cue sheets
+- cue sheets
 
-#### Sound design:
+## Sound design:
 
-• cue sheets
+- cue sheets
 
 Set design and props design:
 
-• a model set. The model may be presented in a digital format.
+- a model set. The model may be presented in a digital format.
 
 Costume design, hair and make-up design:
 
-• sketches of both costume, hair and make-up designs
+- sketches of both costume, hair and make-up designs
 
-{11}------------------------------------------------
 
-| You should also refer to the information on the front cover of the assessment brief which tells you about things that you must and must not do when you are completing your assessment. If there is anything that you do not understand, you must ask your teacher. |  |  |  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
-|                                                                                                                                                                                                                                                                                    |  |  |  |
 
 {12}------------------------------------------------
 
-# Marking Scheme
 
-The following mark scheme will be used to assess your work.
 
-**0 marks will be awarded if there is no evidence or submitted work is not worthy of credit.** 
+You should also refer to the information on the front cover of the assessment brief which tells you about things that you must and must not do when you are completing your assessment. If there is anything that you do not understand, you must ask your teacher.
 
-#### **ASSESSMENT GRID – Performance**
 
-<span id="page-12-0"></span>
-
-|  | AO4 Create and develop ideas to communicate meaning in theatrical performances | AO2 Develop and apply performance skills |  |  |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Band | Creating and developing ideas | Application of performance skills | Interpretation of character(s) and audience engagement | Contribution to the performance |
-| 5 | 16-18 marks <ul><li>Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre.</li><li>A highly appropriate selection of dramatic conventions and/or techniques are chosen to communicate meaning in a highly effective way throughout the performance.</li><li>The performance space and proxemics are planned imaginatively to communicate meaning in a highly effective way.</li></ul> | 25-30 marks <ul><li>Highly effective application of physical skills throughout the performance.</li><li>Highly effective application of vocal skills throughout the performance.</li><li>Highly effective interaction with other actors throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective and fully coherent interpretation of character(s) sustained throughout the performance.</li><li>Highly effective communication with the audience, sustaining their interest throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective individual contribution to the performance which fully enhances the piece.</li><li>The performance is extremely focused and assured throughout.</li></ul> |
 
 {13}------------------------------------------------
 
-| 4 | 12-15 marks <ul><li>Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of dramatic conventions and/or techniques are chosen to communicate meaning in an effective way throughout the performance.</li><li>The performance space and proxemics are planned well to communicate meaning effectively.</li></ul> | 19-24 marks <ul><li>Effective application of physical skills throughout most of the performance.</li><li>Effective application of vocal skills throughout most of the performance.</li><li>Effective interaction with other actors in the performance.</li></ul> | 8-9 marks <ul><li>Effective and coherent interpretation of character(s) sustained throughout most of the performance.</li><li>Effective communication with the audience, sustaining their interest for most of the performance.</li></ul> | 8-9 marks <ul><li>Effective individual contribution to the performance which enhances the piece.</li><li>The performance is focused and assured throughout most of the piece.</li></ul> |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 8-11 marks <ul><li>Some imaginative ideas are developed to produce a generally refined piece of theatre.</li><li>A satisfactory selection of dramatic conventions and/or techniques are chosen to communicate meaning throughout most of the performance.</li><li>The performance space and proxemics are planned satisfactorily to communicate meaning in a generally effective way.</li></ul> | 13-18 marks <ul><li>Satisfactory application of physical skills in the performance.</li><li>Satisfactory application of vocal skills in the performance.</li><li>Satisfactory interaction with other actors in the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory interpretation of character(s) sustained for some of the performance.</li><li>Reasonable communication with the audience, sustaining their interest for some of the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory individual contribution to the performance which sometimes enhances the piece.</li><li>The performance is inconsistent in terms of focus and assurance.</li></ul> |
+
+
+## Marking Scheme
+
+The following mark scheme will be used to assess your work.
+
+0 marks will be awarded if there is no evidence or submitted work is not worthy of credit.
+
+## ASSESSMENT GRID -Performance
+
+|      | AO4 Create and develop ideas to communicate meaning in theatrical performances                                                                                                                                                                                                                                                                                                                                          | AO2 Develop and apply performance skills                                                                                                                                                                                                          | AO2 Develop and apply performance skills                                                                                                                                                                                         | AO2 Develop and apply performance skills                                                                                                                                 |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band | Creating and developing ideas                                                                                                                                                                                                                                                                                                                                                                                           | Application of performance skills                                                                                                                                                                                                                 | Interpretation of character(s) and audience engagement                                                                                                                                                                           | Contribution to the performance                                                                                                                                          |
+| 5    | 16-18 marks • Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre. • A highly appropriate selection of dramatic conventions and/or techniques are chosen to communicate meaning in a highly effective way throughout the performance. • The performance space and proxemics are planned imaginatively to communicate meaning in a highly effective way. | 25-30 marks • Highly effective application of physical skills throughout the performance. • Highly effective application of vocal skills throughout the performance. • Highly effective interaction with other actors throughout the performance. | 10-12 marks • Highly effective and fully coherent interpretation of character(s) sustained throughout the performance. • Highly effective communication with the audience, sustaining their interest throughout the performance. | 10-12 marks • Highly effective individual contribution to the performance which fully enhances the piece. • The performance is extremely focused and assured throughout. |
+
+
 
 {14}------------------------------------------------
 
-| 2 | 4-7 marks <ul><li>Basic ideas are developed to produce an adequate piece of theatre. Some appropriate dramatic conventions and/or techniques are chosen to communicate meaning in a basic way.</li><li>The performance space and proxemics are planned adequately to communicate meaning in a basic manner.</li></ul> | 7-12 marks <ul><li>Basic application of physical skills in the performance. Basic application of vocal skills in the performance.</li><li>Basic interaction with other actors in the performance.</li></ul> | 4-5 marks <ul><li>Basic interpretation of character(s).</li><li>Basic communication with the audience.</li></ul> | 4-5 marks <ul><li>Basic individual contribution to the performance. The performance is erratic in terms of focus and assurance.</li></ul> |
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | <ul><li>1-3 marks</li><li>Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate dramatic conventions and/or techniques are chosen, therefore communication of meaning is limited.</li><li>The performance space and proxemics are planned haphazardly to communicate meaning in a limited manner.</li></ul> | <ul><li>1-6 marks</li><li>Limited application of physical skills in the performance.</li><li>Limited application of vocal skills in the performance. Limited interaction with other actors in the performance.</li></ul> | <ul><li>1-3 marks</li><li>Limited interpretation of character(s) in the performance. Limited communication with the audience.</li></ul> | <ul><li>1-3 marks</li><li>Limited individual contribution to the performance. The performance is negligible in terms of focus and assurance.</li></ul> |
-| 0 | 0 marks <ul><li>No ideas are created and developed.</li></ul> | 0 marks <ul><li>No performance skills.</li></ul> | 0 marks <ul><li>No character</li><li>interpretation or communication with the audience.</li></ul> | 0 marks <ul><li>No contribution to the performance.</li></ul> |
+
+
+|   4 | 12-15 marks • Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of dramatic conventions and/or techniques are chosen to communicate meaning in an effective way throughout the performance. • The performance space and proxemics are planned well to communicate meaning effectively.        | 19-24 marks • Effective application of physical skills throughout most of the performance. • Effective application of vocal skills throughout most of the performance. • Effective interaction with other actors in the performance.   | 8-9 marks • Effective and coherent interpretation of character(s) sustained throughout most of the performance. • Effective communication with the audience, sustaining their interest for most of the performance.   | 8-9 marks • Effective individual contribution to the performance which enhances the piece. • The performance is focused and assured throughout most of the piece.          |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   3 | 8-11 marks • Some imaginative ideas are developed to produce a generally refined piece of theatre. • A satisfactory selection of dramatic conventions and/or techniques are chosen to communicate meaning throughout most of the performance. • The performance space and proxemics are planned satisfactorily to communicate meaning in a generally effective way. | 13-18 marks • Satisfactory application of physical skills in the performance. • Satisfactory application of vocal skills in the performance. • Satisfactory interaction with other actors in the performance.                          | 6-7 marks • Satisfactory interpretation of character(s) sustained for some of the performance. • Reasonable communication with the audience, sustaining their interest for some of the performance.                   | 6-7 marks • Satisfactory individual contribution to the performance which sometimes enhances the piece. • The performance is inconsistent in terms of focus and assurance. |
+
+
 
 {15}------------------------------------------------
 
-#### **Design Assessment**
 
-#### **Minimum Requirements for Design**
+
+| 2   | 4-7 marks • Basic ideas are developed to produce an adequate piece of theatre. Some appropriate dramatic conventions and/or techniques are chosen to communicate meaning in a basic way. • The performance space and proxemics are planned adequately to communicate meaning in a basic                              | 7-12 marks • Basic application of physical skills in the performance. Basic application of vocal skills in the performance. • Basic interaction with other actors in the performance.   | 4-5 marks • Basic interpretation of character(s). • Basic communication with the audience.                        | 4-5 marks • Basic individual contribution to the performance. The performance is erratic in terms of focus and assurance.   |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1   | • 1-3 marks • Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate dramatic conventions and/or techniques are chosen, therefore communication of meaning is limited. • The performance space and proxemics are planned haphazardly to communicate meaning in a limited manner. | • 1-6 marks • Limited application of physical skills in the performance. • Limited application of vocal skills in the performance. Limited interaction with other actors in the         | • 1-3 marks • Limited interpretation of character(s) in the performance. Limited communication with the audience. | • 1-3 marks • Limited individual contribution to the performance. The performance is negligible in terms of                 |
+| 0   | 0 marks • No ideas are created and developed.                                                                                                                                                                                                                                                                        | performance. 0 marks • No performance skills.                                                                                                                                           | 0 marks                                                                                                           | focus and assurance.                                                                                                        |
+|     |                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                         | • No character • interpretation or communication with the audience.                                               | 0 marks • No contribution to the performance.                                                                               |
+
+
+
+{16}------------------------------------------------
+
+
+
+## Design Assessment
+
+## Minimum Requirements for Design
 
 The following is a list of minimum requirements for the realisation of each design option:
 
-#### Lighting design:
+Lighting design:
 
-- **6** different states
+- 6 different states
 - learners must operate the lighting board in the performance
 - cue sheets (presented to the examiner in the non-assessed viva).
 
-#### Sound design:
+Sound design:
 
-- **6** different cues
+- 6 different cues
 - learners must operate the sound desk in the performance
 - cue sheets (presented to the examiner in the non-assessed viva).
 
-# Set design and props design:
+Set design and props design:
 
-- set and props created and/or dressed for performance of **1** group
+- set and props created and/or dressed for performance of 1 group
 - learners must arrange the props table/set up performance space prior to the performance and provide a model set (presented to the examiner in the nonassessed viva). The model may be presented in a digital format.
 
-#### Costume design, hair and make-up design:
+Costume design, hair and make-up design:
 
-- **1** full costume, hair and make-up for **2** different characters (two costume, hair and make-up designs in total)
+- 1 full costume, hair and make-up for 2 different characters (two costume, hair and make-up designs in total)
 - sketches of both costume, hair and make-up designs (presented to the examiner in the non-assessed viva).
 
 A piece of theatre which is significantly below the recommended minimum design requirements will be unlikely to demonstrate evidence of the skills required to access marks in the higher bands of the assessment criteria.
 
-{16}------------------------------------------------
 
-#### **ASSESSMENT GRID – Lighting Design**
-
-|  | AO4 Create and develop ideas to communicate meaning in theatrical designs | AO2 Develop and apply design skills |  |  |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Band | Creating and developing ideas | Application of design skills | Interpretation of extract(s) and audience engagement | Contribution to the performance |
-| 5 | 16-18 marks <ul><li>Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre.</li><li>A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance.</li><li>The lighting cues are planned imaginatively to communicate meaning in a highly effective way.</li></ul> | 25-30 marks <ul><li>Highly effective application of design skills which fully facilitate the action within the extract(s).</li><li>Highly effective use of design resources which fully enhance the performance.</li></ul> | 10-12 marks <ul><li>Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance.</li><li>Highly effective communication of meaning to the audience, which sustains their interest throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective individual contribution through lighting design to the performance.</li><li>The overall lighting design fully enhances the performance.</li></ul> |
 
 {17}------------------------------------------------
 
-| 4 | 12-15 marks <ul><li>Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to</li><li>communicate meaning in an effective way throughout most of the performance.</li><li>The lighting cues are planned well to communicate meaning effectively.</li></ul> | 19-24 marks <ul><li>Effective application of design skills which facilitate the action within the extract(s).</li><li>Effective use of design resources which enhance the performance.</li></ul> | 8-9 marks <ul><li>Effective and coherent interpretation of extract(s), sustained throughout most of the performance.</li><li>Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.</li></ul> | 8-9 marks <ul><li>Effective individual contribution through lighting design to the performance.</li><li>The overall lighting design enhances the performance.</li></ul> |
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 8-11 marks <ul><li>Some imaginative ideas are developed to produce a generally refined piece of theatre.</li><li>A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The lighting cues are planned satisfactorily to communicate meaning in a generally effective way.</li></ul> | 13-18 marks <ul><li>Satisfactory application of design skills which partially facilitate the action within the extract(s).</li><li>Satisfactory use of design resources which generally enhance the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory interpretation of extract(s), sustained for some of the performance.</li><li>Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory individual contribution through lighting design to the performance.</li><li>The overall lighting design generally enhances the performance.</li></ul> |
+
+
+## ASSESSMENT GRID -Lighting Design
+
+|      | AO4 Create and develop ideas to communicate meaning in theatrical designs                                                                                                                                                                                                                                                                                                        | AO2 Develop and apply design skills                                                                                                                                                                  | AO2 Develop and apply design skills                                                                                                                                                                                                          | AO2 Develop and apply design skills                                                                                                                              |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band | Creating and developing ideas                                                                                                                                                                                                                                                                                                                                                    | Application of design skills                                                                                                                                                                         | Interpretation of extract(s) and audience engagement                                                                                                                                                                                         | Contribution to the performance                                                                                                                                  |
+| 5    | 16-18 marks • Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre. • A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance. • The lighting cues are planned imaginatively to communicate meaning in a highly effective way. | 25-30 marks • Highly effective application of design skills which fully facilitate the action within the extract(s). • Highly effective use of design resources which fully enhance the performance. | 10-12 marks • Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance. • Highly effective communication of meaning to the audience, which sustains their interest throughout the performance. | 10-12 marks • Highly effective individual contribution through lighting design to the performance. • The overall lighting design fully enhances the performance. |
+
+
 
 {18}------------------------------------------------
 
-| 2 | 4-7 marks <ul><li>Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way.</li><li>The lighting cues are planned adequately to communicate meaning in a basic way.</li></ul> | 7-12 marks <ul><li>Basic application of design skills which occasionally facilitate the action within the extract(s).</li><li>Basic use of design resources which occasionally enhance the performance.</li></ul> | 4-5 marks <ul><li>Basic interpretation of extract(s).</li><li>Basic communication with the audience.</li></ul> | 4-5 marks <ul><li>Basic individual contribution through lighting design to the performance.</li><li>The overall lighting design occasionally enhances the performance.</li></ul> |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1-3 marks <ul><li>Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The lighting cues are planned haphazardly to communicate meaning in a limited way.</li></ul> | 1-6 marks <ul><li>Limited application of design skills which rarely facilitate the action within the extract(s).</li><li>Limited use of design resources which rarely</li><li>enhances the performance.</li></ul> | 1-3 marks <ul><li>Limited interpretation of extract(s). Limited communication with the audience.</li></ul> | 1-3 marks <ul><li>Limited individual contribution through lighting design to the performance. The overall design rarely enhances the performance.</li></ul> |
-| 0 | 0 marks <ul><li>No ideas are created or developed.</li></ul> | 0 marks <ul><li>No design skills evident.</li></ul> | 0 marks <ul><li>No interpretation of text.</li><li>No communication of meaning to the audience.</li></ul> | 0 marks <ul><li>No contribution through design to the performance.</li></ul> |
+
+
+|   4 | 12-15 marks • Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to • communicate meaning in an effective way throughout most of the performance. • The lighting cues are planned well to communicate meaning effectively.   | 19-24 marks • Effective application of design skills which facilitate the action within the extract(s). • Effective use of design resources which enhance the performance.                           | 8-9 marks • Effective and coherent interpretation of extract(s), sustained throughout most of the performance. • Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.   | 8-9 marks • Effective individual contribution through lighting design to the performance. • The overall lighting design enhances the performance.              |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   3 | 8-11 marks • Some imaginative ideas are developed to produce a generally refined piece of theatre. • A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The lighting cues are planned satisfactorily to communicate meaning in a generally effective way.        | 13-18 marks • Satisfactory application of design skills which partially facilitate the action within the extract(s). • Satisfactory use of design resources which generally enhance the performance. | 6-7 marks • Satisfactory interpretation of extract(s), sustained for some of the performance. • Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.                          | 6-7 marks • Satisfactory individual contribution through lighting design to the performance. • The overall lighting design generally enhances the performance. |
+
+
 
 {19}------------------------------------------------
 
-#### **ASSESSMENT GRID – Sound Design**
 
-|  | AO4 Create and develop ideas to communicate meaning in theatrical designs | AO2 Develop and apply design skills |  |  |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Band | Creating and developing ideas | Application of design skills | Interpretation of extract(s) and audience engagement | Contribution to the performance |
-| 5 | 16-18 marks <ul><li>Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre.</li><li>A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance.</li><li>The sound cues are planned imaginatively to communicate meaning in a highly effective way.</li></ul> | 25-30 marks <ul><li>Highly effective application of design skills which fully facilitate the action within the extract(s).</li><li>Highly effective use of design resources which fully enhance the performance.</li></ul> | 10-12 marks <ul><li>Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance.</li><li>Highly effective communication of meaning to the audience, which sustains their interest throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective individual contribution through sound design to the performance.</li><li>The overall sound design fully enhances the performance.</li></ul> |
+
+|   2 | 4-7 marks • Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way. • The lighting cues are planned adequately to communicate meaning in a basic way.                  | 7-12 marks • Basic application of design skills which occasionally facilitate the action within the extract(s). • Basic use of design resources which occasionally enhance the performance.   | 4-5 marks • Basic interpretation of extract(s). • Basic communication with the audience.   | 4-5 marks • Basic individual contribution through lighting design to the performance. • The overall lighting design occasionally enhances the performance.   |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1 | 1-3 marks • Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The lighting cues are planned haphazardly to communicate meaning in a limited way. | 1-6 marks • Limited application of design skills which rarely facilitate the action within the extract(s). • Limited use of design resources which rarely • enhances the performance.         | 1-3 marks • Limited interpretation of extract(s). Limited communication with the audience. | 1-3 marks • Limited individual contribution through lighting design to the performance. The overall design rarely enhances the performance.                  |
+|   0 | 0 marks • No ideas are created or developed.                                                                                                                                                                                                                           | 0 marks • No design skills evident.                                                                                                                                                           | 0 marks • No interpretation of text. • No communication of meaning to the audience.        | 0 marks • No contribution through design to the performance.                                                                                                 |
+
+
 
 {20}------------------------------------------------
 
-| 4 | 12-15 marks <ul><li>Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to</li><li>communicate meaning in an effective way throughout most of the performance.</li><li>The sound cues are planned well to communicate meaning effectively.</li></ul> | 19-24 marks <ul><li>Effective application of design skills which facilitate the action within the extract(s).</li><li>Effective use of design resources which enhance the performance.</li></ul> | 8-9 marks <ul><li>Effective and coherent interpretation of extract(s), sustained throughout most of the performance. Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.</li></ul> | 8-9 marks <ul><li>Effective individual contribution through sound design to the performance.</li><li>The overall design enhances the performance.</li></ul> |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 8-11 marks <ul><li>Some imaginative ideas are developed to produce a generally refined piece of theatre.</li><li>A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The sound cues are planned satisfactorily to communicate meaning in a generally effective way.</li></ul> | 13-18 marks <ul><li>Satisfactory application of design skills which partially facilitate the action within the extract(s).</li><li>Satisfactory use of design resources which generally enhance the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory interpretation of extract(s), sustained for some of the performance.</li><li>Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory individual contribution through sound design to the performance.</li><li>The overall sound design generally enhances the performance.</li></ul> |
+
+
+## ASSESSMENT GRID -Sound Design
+
+|      | AO4 Create and develop ideas to communicate meaning in theatrical designs                                                                                                                                                                                                                                                                                                     | AO2 Develop and apply design skills                                                                                                                                                                  | AO2 Develop and apply design skills                                                                                                                                                                                                          | AO2 Develop and apply design skills                                                                                                                        |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band | Creating and developing ideas                                                                                                                                                                                                                                                                                                                                                 | Application of design skills                                                                                                                                                                         | Interpretation of extract(s) and audience engagement                                                                                                                                                                                         | Contribution to the performance                                                                                                                            |
+| 5    | 16-18 marks • Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre. • A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance. • The sound cues are planned imaginatively to communicate meaning in a highly effective way. | 25-30 marks • Highly effective application of design skills which fully facilitate the action within the extract(s). • Highly effective use of design resources which fully enhance the performance. | 10-12 marks • Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance. • Highly effective communication of meaning to the audience, which sustains their interest throughout the performance. | 10-12 marks • Highly effective individual contribution through sound design to the performance. • The overall sound design fully enhances the performance. |
+
+
 
 {21}------------------------------------------------
 
-| 2 | 4-7 marks <ul><li>Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way.</li><li>The sound cues are planned adequately to communicate meaning in a basic way.</li></ul> | 7-12 marks <ul><li>Basic application of design skills which occasionally facilitate the action within the extract(s).</li><li>Basic use of design resources which occasionally enhance the performance.</li></ul> | 4-5 marks <ul><li>Basic interpretation of extract(s).</li><li>Basic communication with the audience.</li></ul> | 4-5 marks <ul><li>Basic individual contribution through sound design to the performance.</li><li>The overall sound design occasionally enhances the performance.</li></ul> |
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1-3 marks <ul><li>Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The sound cues are planned haphazardly to communicate meaning in a limited way.</li></ul> | 1-6 marks <ul><li>Limited application of design skills which rarely facilitate the action within the extract(s).</li><li>Limited use of design resources which rarely</li><li>enhance the performance.</li></ul> | 1-3 marks <ul><li>Limited interpretation of extract(s). Limited communication with the audience.</li></ul> | 1-3 marks <ul><li>Limited individual contribution through sound design to the performance.</li><li>The overall design rarely enhances the performance.</li></ul> |
-| 0 | 0 marks <ul><li>No ideas are created or developed.</li></ul> | 0 marks <ul><li>No design skills evident.</li></ul> | 0 marks <ul><li>No interpretation of text.</li><li>No communication of meaning to the audience.</li></ul> | 0 marks <ul><li>No contribution through design to the performance.</li></ul> |
+
+
+|   4 | 12-15 marks • Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to • communicate meaning in an effective way throughout most of the performance. • The sound cues are planned well to communicate meaning effectively.   | 19-24 marks • Effective application of design skills which facilitate the action within the extract(s). • Effective use of design resources which enhance the performance.                           | 8-9 marks • Effective and coherent interpretation of extract(s), sustained throughout most of the performance. Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.   | 8-9 marks • Effective individual contribution through sound design to the performance. • The overall design enhances the performance.                    |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   3 | 8-11 marks • Some imaginative ideas are developed to produce a generally refined piece of theatre. • A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The sound cues are planned satisfactorily to communicate meaning in a generally effective way.        | 13-18 marks • Satisfactory application of design skills which partially facilitate the action within the extract(s). • Satisfactory use of design resources which generally enhance the performance. | 6-7 marks • Satisfactory interpretation of extract(s), sustained for some of the performance. • Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.                        | 6-7 marks • Satisfactory individual contribution through sound design to the performance. • The overall sound design generally enhances the performance. |
+
+
 
 {22}------------------------------------------------
 
-#### **ASSESSMENT GRID – Set and Props Design**
 
-|  | AO4 Create and develop ideas to communicate meaning in theatrical designs | AO2 Develop and apply design skills |  |  |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Band | Creating and developing ideas | Application of design skills | Interpretation of extract(s) and audience engagement | Contribution to the performance |
-| 5 | 16-18 marks <ul><li>Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre.</li><li>A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance.</li><li>The set and props are planned imaginatively to communicate meaning in a highly effective way.</li></ul> | 25-30 marks <ul><li>Highly effective application of design skills which fully facilitate the action within the extract(s).</li><li>Highly effective use of design resources which fully enhance the performance.</li></ul> | 10-12 marks <ul><li>Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance.</li><li>Highly effective communication of meaning to the audience, which sustains their interest throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective individual contribution through set and props design to the performance.</li><li>The overall set and props design fully enhances the performance.</li></ul> |
+
+|   2 | 4-7 marks • Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way. • The sound cues are planned adequately to communicate meaning in a basic way.                  | 7-12 marks • Basic application of design skills which occasionally facilitate the action within the extract(s). • Basic use of design resources which occasionally enhance the performance.   | 4-5 marks • Basic interpretation of extract(s). • Basic communication with the audience.   | 4-5 marks • Basic individual contribution through sound design to the performance. • The overall sound design occasionally enhances the performance.   |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1 | 1-3 marks • Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The sound cues are planned haphazardly to communicate meaning in a limited way. | 1-6 marks • Limited application of design skills which rarely facilitate the action within the extract(s). • Limited use of design resources which rarely • enhance the performance.          | 1-3 marks • Limited interpretation of extract(s). Limited communication with the audience. | 1-3 marks • Limited individual contribution through sound design to the performance. • The overall design rarely enhances the performance.             |
+|   0 | 0 marks • No ideas are created or developed.                                                                                                                                                                                                                        | 0 marks • No design skills evident.                                                                                                                                                           | 0 marks • No interpretation of text. • No communication of meaning to the audience.        | 0 marks • No contribution through design to the performance.                                                                                           |
+
+
 
 {23}------------------------------------------------
 
-| 4 | 12-15 marks <ul><li>Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to</li><li>communicate meaning in an effective way throughout most of the performance.</li><li>The set and props are planned well to communicate meaning effectively.</li></ul> | 19-24 marks <ul><li>Effective application of design skills which facilitate the action within the extract(s).</li><li>Effective use of design resources which enhance the performance.</li></ul> | 8-9 marks <ul><li>Effective and coherent interpretation of extract(s), sustained throughout most the performance.</li><li>Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.</li></ul> | 8-9 marks <ul><li>Effective individual contribution through set and props design to the performance.</li><li>The overall set and props design does enhance the performance.</li></ul> |
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 8-11 marks <ul><li>Some imaginative ideas are developed to produce a generally refined piece of theatre.</li><li>A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The set and props are planned satisfactorily to communicate meaning in a generally effective way.</li></ul> | 13-18 marks <ul><li>Satisfactory application of design skills which partially facilitate the action within the extract(s).</li><li>Satisfactory use of design resources which generally enhance the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory interpretation of extract(s), sustained for some of the performance.</li><li>Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory individual contribution through set and props design to the performance.</li><li>The overall set and props design generally enhances the performance.</li></ul> |
+
+
+## ASSESSMENT GRID -Set and Props Design
+
+|      | AO4 Create and develop ideas to communicate meaning in theatrical designs                                                                                                                                                                                                                                                                                                        | AO2 Develop and apply design skills                                                                                                                                                                  | AO2 Develop and apply design skills                                                                                                                                                                                                          | AO2 Develop and apply design skills                                                                                                                                        |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band | Creating and developing ideas                                                                                                                                                                                                                                                                                                                                                    | Application of design skills                                                                                                                                                                         | Interpretation of extract(s) and audience engagement                                                                                                                                                                                         | Contribution to the performance                                                                                                                                            |
+| 5    | 16-18 marks • Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre. • A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance. • The set and props are planned imaginatively to communicate meaning in a highly effective way. | 25-30 marks • Highly effective application of design skills which fully facilitate the action within the extract(s). • Highly effective use of design resources which fully enhance the performance. | 10-12 marks • Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance. • Highly effective communication of meaning to the audience, which sustains their interest throughout the performance. | 10-12 marks • Highly effective individual contribution through set and props design to the performance. • The overall set and props design fully enhances the performance. |
+
+
 
 {24}------------------------------------------------
 
-| 2 | 4-7 marks <ul><li>Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way.</li><li>The set and props are planned adequately to communicate meaning in a basic way.</li></ul> | 7-12 marks <ul><li>Basic application of design skills which occasionally facilitate the action within the extract(s).</li><li>Basic use of design resources which occasionally enhance the performance.</li></ul> | 4-5 marks <ul><li>Basic interpretation of extract(s).</li><li>Basic communication with the audience.</li></ul> | 4-5 marks <ul><li>Basic individual contribution through set and props design to the performance.</li><li>The overall set and props design occasionally enhances the performance.</li></ul> |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1-3 marks <ul><li>Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The set and props are planned haphazardly to communicate meaning in a limited way.</li></ul> | 1-6 marks <ul><li>Limited application of design skills which rarely facilitate the action within the extract(s).</li><li>Limited use of design resources which rarely</li><li>enhance the performance.</li></ul> | 1-3 marks <ul><li>Limited interpretation of extract(s). Limited communication with the audience.</li></ul> | 1-3 marks <ul><li>Limited individual contribution through set and props design to the performance.</li><li>The overall set and props design rarely enhances the performance.</li></ul> |
-| 0 | 0 marks <ul><li>No ideas are created or developed.</li></ul> | 0 marks <ul><li>No design skills evident.</li></ul> | 0 marks <ul><li>No interpretation of text.</li><li>No communication of meaning to the audience.</li></ul> | 0 marks <ul><li>No contribution through design to the performance.</li></ul> |
+
+
+|   4 | 12-15 marks • Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to • communicate meaning in an effective way throughout most of the performance. • The set and props are planned well to communicate meaning effectively.   | 19-24 marks • Effective application of design skills which facilitate the action within the extract(s). • Effective use of design resources which enhance the performance.                           | 8-9 marks • Effective and coherent interpretation of extract(s), sustained throughout most the performance. • Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.   | 8-9 marks • Effective individual contribution through set and props design to the performance. • The overall set and props design does enhance the performance.          |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   3 | 8-11 marks • Some imaginative ideas are developed to produce a generally refined piece of theatre. • A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. The set and props are planned satisfactorily to communicate meaning in a generally effective way.        | 13-18 marks • Satisfactory application of design skills which partially facilitate the action within the extract(s). • Satisfactory use of design resources which generally enhance the performance. | 6-7 marks • Satisfactory interpretation of extract(s), sustained for some of the performance. • Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.                       | 6-7 marks • Satisfactory individual contribution through set and props design to the performance. • The overall set and props design generally enhances the performance. |
+
+
 
 {25}------------------------------------------------
 
-#### **ASSESSMENT GRID – Costume, Hair and Make-up Design**
 
-|  | AO4 Create and develop ideas to communicate meaning in theatrical designs | AO2 Develop and apply design skills |  |  |
-|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Band | Creating and developing ideas | Application of design skills | Interpretation of extract(s) and audience engagement | Contribution to the performance |
-| 5 | 16-18 marks <ul><li>Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre.</li><li>A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance.</li><li>The costumes, hair and make-up are planned imaginatively to communicate meaning in a highly effective way.</li></ul> | 25-30 marks <ul><li>Highly effective application of design skills which fully facilitate the action within the extract(s).</li><li>Highly effective use of design resources which fully enhance the performance.</li></ul> | 10-12 marks <ul><li>Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance.</li><li>Highly effective communication of meaning to the audience, which sustains their interest throughout the performance.</li></ul> | 10-12 marks <ul><li>Highly effective individual contribution through costume, hair and make-up design to the performance.</li><li>The overall costume, hair and make-up design fully enhances the performance.</li></ul> |
+
+|   2 | 4-7 marks • Basic ideas are developed to produce an adequate piece of theatre. Some appropriate design techniques are chosen to communicate meaning in a basic way. • The set and props are planned adequately to communicate meaning in a basic way.                  | 7-12 marks • Basic application of design skills which occasionally facilitate the action within the extract(s). • Basic use of design resources which occasionally enhance the performance.   | 4-5 marks • Basic interpretation of extract(s). • Basic communication with the audience.   | 4-5 marks • Basic individual contribution through set and props design to the performance. • The overall set and props design occasionally enhances the performance.   |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1 | 1-3 marks • Limited ideas are developed to produce a very basic piece of theatre. Very few appropriate design techniques are chosen, therefore communication of meaning is limited. The set and props are planned haphazardly to communicate meaning in a limited way. | 1-6 marks • Limited application of design skills which rarely facilitate the action within the extract(s). • Limited use of design resources which rarely • enhance the performance.          | 1-3 marks • Limited interpretation of extract(s). Limited communication with the audience. | 1-3 marks • Limited individual contribution through set and props design to the performance. • The overall set and props design rarely enhances the performance.       |
+|   0 | 0 marks • No ideas are created or developed.                                                                                                                                                                                                                           | 0 marks • No design skills evident.                                                                                                                                                           | 0 marks • No interpretation of text. • No communication of meaning to the audience.        | 0 marks • No contribution through design to the performance.                                                                                                           |
+
+
 
 {26}------------------------------------------------
 
-| 4 | 12-15 marks <ul><li>Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to communicate meaning in an effective way throughout most of the performance.</li><li>The costumes, hair and make-up are planned well to communicate meaning effectively.</li></ul> | 19-24 marks <ul><li>Effective application of design skills which facilitate the action within the extract(s).</li><li>Effective use of design resources which enhance the performance.</li></ul> | 8-9 marks <ul><li>Effective and coherent interpretation of extract(s), sustained throughout most of the performance.</li><li>Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.</li></ul> | 8-9 marks <ul><li>Effective individual contribution through costume, hair and make-up design to the performance.</li><li>The overall costume, hair and make-up design enhances the performance.</li></ul> |
-|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | 8-11 marks <ul><li>Some imaginative ideas are developed to produce a generally refined and coherent piece of theatre.</li><li>A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance.</li><li>The costume, hair and make-up are planned satisfactorily to communicate meaning in a generally effective way.</li></ul> | 13-18 marks <ul><li>Satisfactory application of design skills which partially facilitate the action within the extract(s).</li><li>Satisfactory use of design resources which generally enhance the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory interpretation of extract(s), sustained for some of the performance.</li><li>Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.</li></ul> | 6-7 marks <ul><li>Satisfactory individual contribution through costume, hair and make-up design to the performance.</li><li>The overall costume, hair and make-up design generally enhances the performance.</li></ul> |
+
+
+## ASSESSMENT GRID -Costume, Hair and Make-up Design
+
+|      | AO4 Create and develop ideas to communicate meaning in theatrical designs                                                                                                                                                                                                                                                                                                                     | AO2 Develop and apply design skills                                                                                                                                                                  | AO2 Develop and apply design skills                                                                                                                                                                                                          | AO2 Develop and apply design skills                                                                                                                                                                |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band | Creating and developing ideas                                                                                                                                                                                                                                                                                                                                                                 | Application of design skills                                                                                                                                                                         | Interpretation of extract(s) and audience engagement                                                                                                                                                                                         | Contribution to the performance                                                                                                                                                                    |
+| 5    | 16-18 marks • Highly imaginative and creative ideas are developed fully to produce a highly refined and coherent piece of theatre. • A highly appropriate selection of design techniques are chosen to communicate meaning in a highly effective way throughout the performance. • The costumes, hair and make-up are planned imaginatively to communicate meaning in a highly effective way. | 25-30 marks • Highly effective application of design skills which fully facilitate the action within the extract(s). • Highly effective use of design resources which fully enhance the performance. | 10-12 marks • Highly effective and fully coherent interpretation of extract(s), sustained throughout the performance. • Highly effective communication of meaning to the audience, which sustains their interest throughout the performance. | 10-12 marks • Highly effective individual contribution through costume, hair and make-up design to the performance. • The overall costume, hair and make-up design fully enhances the performance. |
+
+
 
 {27}------------------------------------------------
 
-| 2 | 4-7 marks <ul><li>Basic ideas are developed to produce an adequate piece of theatre.</li><li>Some appropriate design techniques are chosen to communicate meaning in a basic way.</li><li>The costume, hair and make-up are planned adequately to communicate meaning in a basic way.</li></ul> | 7-12 marks <ul><li>Basic application of design skills which occasionally facilitate the action within the extract(s).</li><li>Basic use of design resources which occasionally enhance the performance.</li></ul> | 4-5 marks <ul><li>Basic interpretation of extract(s).</li><li>Basic communication with the audience.</li></ul> | 4-5 marks <ul><li>Basic individual contribution through costume, hair and make-up design to the performance.</li><li>The overall costume, hair and make-up design occasionally enhances the performance.</li></ul> |
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1-3 marks <ul><li>Limited ideas are developed to produce a very basic piece of theatre.</li><li>Very few appropriate design techniques are chosen, therefore communication of meaning is limited.</li><li>The costume, hair and make-up are planned haphazardly to communicate meaning in a limited way.</li></ul> | 1-6 marks <ul><li>Limited application of design skills which rarely facilitate the action within the extract(s).</li><li>Limited use of design resources which rarely</li><li>enhance the performance.</li></ul> | 1-3 marks <ul><li>Limited interpretation of extract(s). Limited communication with the audience.</li></ul> | 1-3 marks <ul><li>Limited individual contribution through costume, hair and make-up design to the performance.</li><li>The overall costume, hair and make-up design rarely enhances the performance.</li></ul> |
-| 0 | 0 marks <ul><li>No ideas are created or developed.</li></ul> | 0 marks <ul><li>No design skills evident.</li></ul> | 0 marks <ul><li>No interpretation of text.</li><li>No communication of meaning to the audience.</li></ul> | 0 marks <ul><li>No contribution through design to the performance.</li></ul> |
+
+
+|   4 | 12-15 marks • Good, imaginative ideas are developed well to produce a refined and coherent piece of theatre. An appropriate selection of design techniques are chosen to communicate meaning in an effective way throughout most of the performance. • The costumes, hair and make-up are planned well to communicate meaning effectively.            | 19-24 marks • Effective application of design skills which facilitate the action within the extract(s). • Effective use of design resources which enhance the performance.                           | 8-9 marks • Effective and coherent interpretation of extract(s), sustained throughout most of the performance. • Effective communication of meaning to the audience, which sustains their interest throughout most of the performance.   | 8-9 marks • Effective individual contribution through costume, hair and make-up design to the performance. • The overall costume, hair and make-up design enhances the performance.              |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   3 | 8-11 marks • Some imaginative ideas are developed to produce a generally refined and coherent piece of theatre. • A satisfactory selection of design techniques are chosen to communicate meaning throughout some of the performance. • The costume, hair and make-up are planned satisfactorily to communicate meaning in a generally effective way. | 13-18 marks • Satisfactory application of design skills which partially facilitate the action within the extract(s). • Satisfactory use of design resources which generally enhance the performance. | 6-7 marks • Satisfactory interpretation of extract(s), sustained for some of the performance. • Reasonable communication of meaning to the audience, which sustains their interest for some of the performance.                          | 6-7 marks • Satisfactory individual contribution through costume, hair and make-up design to the performance. • The overall costume, hair and make-up design generally enhances the performance. |
+
+
+
+{28}------------------------------------------------
+
+
+
+| 2   | 4-7 marks • Basic ideas are developed to produce an adequate piece of theatre. • Some appropriate design techniques are chosen to communicate meaning in a basic way. • The costume, hair and make-up are planned adequately to communicate                                                                    | 7-12 marks • Basic application of design skills which occasionally facilitate the action within the extract(s). • Basic use of design resources which                                                         | 4-5 marks • Basic interpretation of extract(s). • Basic communication with the audience.   | 4-5 marks • Basic individual contribution through costume, hair and make-up design to the                                                                                                                                                                                                   |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | meaning in a basic way. 1-3 marks • Limited ideas are developed to produce a very basic piece of theatre. • Very few appropriate design techniques are chosen, therefore communication of meaning is limited. • The costume, hair and make-up are planned haphazardly to communicate meaning in a limited way. | occasionally enhance the performance. 1-6 marks • Limited application of design skills which rarely facilitate the action within the extract(s). • Limited use of design resources which rarely • enhance the | 1-3 marks • Limited interpretation of extract(s). Limited communication with the audience. | performance. • The overall costume, hair and make-up design occasionally enhances the performance. 1-3 marks • Limited individual contribution through costume, hair and make-up design to the performance. • The overall costume, hair and make-up design rarely enhances the performance. |
+| 0   | 0 marks • No ideas are created or developed.                                                                                                                                                                                                                                                                   | performance. 0 marks                                                                                                                                                                                          | 0 marks • No interpretation of text. • No communication of meaning to the audience.        | 0 marks                                                                                                                                                                                                                                                                                     |
+|     |                                                                                                                                                                                                                                                                                                                | • No design skills evident.                                                                                                                                                                                   |                                                                                            | • No contribution through design to the performance.                                                                                                                                                                                                                                        |

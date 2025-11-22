@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Dance
@@ -14,7 +16,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -25,6 +39,12 @@ This specification meets the requirements of the following regulatory documents 
 We are currently in the process of finalising permissions to use these materials. If this causes any concern to the publisher or other interested party then please contact us and we will act appropriately.
 
 Copyright © WJEC CBAC Limited 2025.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## CONTENTS
 
@@ -52,6 +72,12 @@ Copyright © WJEC CBAC Limited 2025.
 |                                                                                                                                                                                                  | 5.2                                                                                                                                                                                              | Grading, awarding and reporting ........................................................                                                                                                         | 24 |
 | Appendix A: Choreographic devices, structural devices and choreographic structures.............................................................................................................. | Appendix A: Choreographic devices, structural devices and choreographic structures.............................................................................................................. | Appendix A: Choreographic devices, structural devices and choreographic structures.............................................................................................................. | 25 |
 | Appendix B: Opportunities for embedding elements of the Curriculum for Wales                                                                                                                     | Appendix B: Opportunities for embedding elements of the Curriculum for Wales                                                                                                                     | Appendix B: Opportunities for embedding elements of the Curriculum for Wales                                                                                                                     | 28 |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## GCSE DANCE SUMMARY OF ASSESSMENT
 
@@ -81,6 +107,12 @@ Questions requiring objective responses, short and extended answers, in response
 
 72 marks
 
+
+
+{6}------------------------------------------------
+
+
+
 This is a linear qualification.
 
 The qualification is not tiered.
@@ -92,6 +124,12 @@ Unit 1 and Unit 2 could be completed any time during the two years and submitted
 The first award of the qualification will be 2028.
 
 Qualification Approval Number: C00/5167/3
+
+
+
+{7}------------------------------------------------
+
+
 
 ## GCSE DANCE
 
@@ -119,6 +157,12 @@ This GCSE Dance qualification is underpinned by the Curriculum for Wales framewo
 In developing this qualification, we have considered where there are opportunities to embed the cross-curricular themes and where there are opportunities for integral skills and cross-curricular skills to be developed. Appendix A provides a simple mapping, and information to support teachers will be provided in the Guidance for Teaching.
 
 We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 19; the Guidance for Teaching will include further information on integrating these learning experiences into delivery.
+
+
+
+{8}------------------------------------------------
+
+
 
 The GCSE Dance qualification supports the Curriculum for Wales by:
 
@@ -151,6 +195,12 @@ GCSE Dance has been designed to be delivered within 120 -140 guided learning hou
 
 3  Expressive Arts: Designing your curriculum - Hwb (gov.wales)
 
+
+
+{9}------------------------------------------------
+
+
+
 ## 1.5 Use of language
 
 As our understanding of diversity, equity, and inclusion evolves, so must our language. Updated terminology better reflects individual identities and fosters respect and accuracy. Language used should be specific as possible. Staying informed and adaptable is crucial, as inclusive language promotes dignity and equity. Recognising that language will continue to evolve, we will remain open to further amendments to ensure it accurately represents and supports all individuals. WJEC will inform centres of any amendments and the most up to date version of the specification will always be on the website.
@@ -166,6 +216,12 @@ Access arrangements and reasonable adjustments are made for eligible learners to
 Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website (www.jcq.org.uk).
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
+
+
+
+{10}------------------------------------------------
+
+
 
 ## 2 SUBJECT CONTENT
 
@@ -203,6 +259,12 @@ The purpose of this unit is to:
 - creating -learners will create their own original dance in a style of their choosing. Learners will have the opportunity to develop creative skills through experimenting and investigating choreography. Learners will develop and refine their choreography using choreographic devices and structures to realise their artistic intentions.
 - responding and reflecting -learners will respond to a stimulus specified by WJEC and refine their work through reflection to create a finished product.
 
+
+
+{11}------------------------------------------------
+
+
+
 Learners will have choice in the selection of the stimulus set by WJEC and can choose whether they perform in their own choreographed piece. Learners will work independently to choreograph a piece for a solo dancer or a group of dancers (2-5 dancers). The performance time is as follows:
 
 - Solo: 1 minute 30 seconds -2 minutes
@@ -217,10 +279,22 @@ Learners will have choice in the selection of the stimulus set by WJEC and can c
 | 1.1.1 Creating and developing ideas to realise artistic intentions                                                                                                                                                                                                                     | Learners should be able to: • (following exploration of a range of forms, genres, styles, techniques, contexts and means of presenting dance) create and develop ideas to realise artistic intentions within a choreographed piece. Learners are required to: • create a piece in response to a stimulus set by WJEC.                                                                                                                                                                                                                                                                |
 | 1.1.2 Developing and refining movement material                                                                                                                                                                                                                                        | Learners are required to: • develop and refine a choreographed piece Learners should be able to: • refine and develop movement material inspired by the stimulus, building on their initial exploration • apply the core components of choreography (RADS) • relationship • action • dynamics • space • apply choreographic devices, for example: • retrograde • repetition • change of tempo • rhythm to enhance their movement material. • apply structural devices, for example: • motif development • unison • canon • contrast • highlights to enhance their movement material. |
 
+
+
+{12}------------------------------------------------
+
+
+
 |                                                          | • apply choreographic structures for example: • binary • ternary • rondo • episodic structures to create a cohesive choreographed piece. N.B Further examples of choreographics devices, structural devices and choreographic structures can be found in Appendix A.                                                          |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.3 Realising their choreography in a live performance | Learners should be able to: • realise their choreographed piece for an audience, showcasing their creative ideas and artistic intent.                                                                                                                                                                                         |
 | 1.1.4 Reflecting on their own work                       | Learners should be able to: • reflect on, analyse and evaluate their own work • critically evaluate the effectiveness and impact of their: • response to the stimulus • creative decisions made during the development of their choreography • use of choreographic devices, structural devices and choreographic structures. |
+
+
+
+{13}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -249,6 +323,12 @@ Learners will perform two pieces of repertoire. The pieces must be choreographed
 
 Please note, actively performing is being directly involved and contributing to the performance.
 
+
+
+{14}------------------------------------------------
+
+
+
 ## Areas of content
 
 | 2.1 Performance                                                                                                                                                                                                   | 2.1 Performance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -257,8 +337,20 @@ Please note, actively performing is being directly involved and contributing to 
 | Content                                                                                                                                                                                                           | Further information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 2.1.1 Interpreting and developing ideas to communicate meaning                                                                                                                                                    | Learners should understand the skills and techniques used by different choreographers from a range of different styles/genres, periods/contexts and linked to different cultures, perspectives and contributions in Wales and the world. Learners should understand the skills and techniques used by their chosen choreographer(s). Learners should be able to: • (following exploration of a range of relevant professional dance performances from various styles/genres, themes, cultures and time periods) interpret and develop extracts from two choreographed pieces. Learners are required to: • perform two pieces of repertoire. These pieces must be from different styles/genres (one performance must a solo and the second performance can be solo or group). (Centres should note that it is not necessary for all learners in the teaching group to choose the same performance piece). |
 
+
+
+{15}------------------------------------------------
+
+
+
 | 2.1.2 Developing and applying performance skills within a live performance   | Learners are required to : • develop and apply their performance skills within a live performance of two pieces from different styles/genres. Learners should be able to: • demonstrate the required physical skills as appropriate to the chosen style/genre including: • strength • balance • flexibility • agility • control • stamina • energy. • demonstrate the required technical skills as appropriate to the chosen style/genre including: • posture • alignment • coordination • footwork • arm placement • musicality • rhythm • timing. • demonstrate the required expressive skills as appropriate to the chosen style/genre including: • facial expression • focus • dynamics • communicate their interpretation of the choreographer's intentio n • audience engagement • contribute to the overall performance.   |
 |------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Unit 3
 
@@ -286,6 +378,12 @@ Learners will study three set works for Unit 3. Learners will study the set work
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | All learners must study ' Rygbi: Annwyl (Dear ) ' by Fearghus Ó Conchúir and performers of National Dance Company Wales | Centres must select one of the following: 1. Mad Hatter ' s Tea Party by ZooNation the Kate Prince Company (Chr Kate and the Company) 2. Fagin's Twist by Avant Garde Dance (Chor Tony Adigun) 3. Pinocchio by Jasmin Vardimon | Centres must select one of the following: 1. Dust by Akram Khan for English National Ballet 2. Ripple by Xie Xin for The Ballet Boyz 3. Henge by Motionhouse |
 
+
+
+{17}------------------------------------------------
+
+
+
 ## Areas of content
 
 | 3.1 Dance Appreciation                                                                                                                                                                                                                                                       | 3.1 Dance Appreciation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -294,12 +392,30 @@ Learners will study three set works for Unit 3. Learners will study the set work
 | Content                                                                                                                                                                                                                                                                      | Further information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 3.1.1 The constituent features of dance                                                                                                                                                                                                                                      | Learners should be able to identify and describe, using dance terminology, the different constituent features of dance. Learners should understand movement material including: • the dancers' movements • relationships between dancers • actions of the body • dynamics • space and how it is used by the dancers • the type(s) of dance used • dance styles/genres • choreographic devices and structure. Learners should understand the physical setting including: • set and props • lighting • costume • set design • staging for example: • proscenium arch • thrust • dance for camera • site specific • outdoor. Learners should understand the aural setting used including: • text • score • music. |
 
+
+
+{18}------------------------------------------------
+
+
+
 | 3.1.2 Creative ideas and purpose to communicate meaning and intentions   | Learners should understand the creative ideas and purpose of the chosen set work to communicate meaning and intentions. Learners should know: • the purpose/theme of the dance piece • the stimulus • the target audience • the context • the choreographer's intention • the implied meaning • the role of the dancer. Learners should understand the factors that influence the set work including: • social • cultural • historical context • conventions of the period. Learners should understand creative ideas and purpose within unseen works to communicate meaning and intentions including: • the purpose of the dance piece • the context • the implied meaning.   |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{19}------------------------------------------------
+
+
 
 | 3.1.3 How to reflect on and evaluate                     | Learners should understand the themes/genres/styles of dance.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ideas and techniques used to realise creative intentions | Learners should be able to reflect on and evaluate choreographic devices, structural devices and choreographic structures of the chosen set work including: • how choreographers develop group/ensemble material with choreographic devices for example: • motif • retrograde • repetition • change of tempo • rhythm. • how choreographers use structural devices for example: • unison • canon • accumulation • mirroring • contact work. • the way choreographic structures are used, for example: • narrative • episodic • binary • ternary • rondo. Learners should understand the characteristics of the choreographer of the chosen set work. Learners should be able to reflect on and evaluate choreographic devices and structures in unseen works including: • how choreographers develop movement material with choreographic devices for example: • motif • repetition • contrast • highlights • transitions. N.B Further examples of choreographics devices, structural devices and choreographic structures can be found in Appendix A. |
+
+
+
+{20}------------------------------------------------
+
+
 
 ## Opportunities for integration of learning experiences
 
@@ -314,6 +430,12 @@ GCSE Dance generates opportunities for the following learning experiences to be 
 The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences and skills into delivery.
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills please see Appendix B.
+
+
+
+{21}------------------------------------------------
+
+
 
 ## 3 ASSESSMENT
 
@@ -348,6 +470,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 3            | 20%   | -     | 10%   | -     | 30%     |
 | Overall weighting | 20%   | 30%   | 15%   | 35%   | 100%    |
 
+
+
+{22}------------------------------------------------
+
+
+
 ## 3.2 Overview of arrangements for non-examination assessment
 
 ## Unit 1: Overview
@@ -381,6 +509,12 @@ Learners will perform two pieces of repertoire. The pieces must be choreographed
 - Solo: 1 minute 30 seconds -2 minutes (the learner must actively perform in front of a live audience for a minimum of 1 minute 30 seconds.)
 - Group of 2-5 dancers: 2-4 minutes (when performing in a group, each dancer must actively perform for a minimum of 1 minute 30 seconds).
 
+
+
+{23}------------------------------------------------
+
+
+
 Please note, actively performing is being directly involved and contributing to the performance.
 
 Learners may complete the assessment anytime during the course. However, centres must ensure that assessment is completed only when learners have undertaken the necessary teaching and learning and developed the required skills and knowledge.
@@ -388,6 +522,12 @@ Learners may complete the assessment anytime during the course. However, centres
 The assessment contributes to 30% of the overall qualification. The unit will be marked out of total of 72 marks.
 
 This unit will be assessed by the centre and externally moderated by WJEC.
+
+
+
+{24}------------------------------------------------
+
+
 
 ## 4 MALPRACTICE
 
@@ -398,6 +538,12 @@ Information regarding malpractice is available in our Guide to preventing, repor
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
+
+
+
+{25}------------------------------------------------
+
+
 
 ## 5 TECHNICAL INFORMATION
 
@@ -423,6 +569,12 @@ The current edition of our Entry Procedures and Coding Information gives up-to-d
 ## 5.2 Grading, awarding and reporting
 
 GCSE qualifications are reported on an eight point scale from A*-G, where A* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
+
+
+
+{26}------------------------------------------------
+
+
 
 ## Appendix A: Choreographic devices, structural devices and choreographic structures
 
@@ -455,6 +607,12 @@ These are ways to manipulate movement material in developing motifs. A motif is 
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{27}------------------------------------------------
+
+
+
 ## Structural Devices
 
 Structural Devices are how movements are shaped. The following list includes examples of Structural Devices:
@@ -474,6 +632,12 @@ Structural Devices are how movements are shaped. The following list includes exa
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{28}------------------------------------------------
+
+
+
 ## Choreographic Structures
 
 Choreographic structure is the way a dance piece is constructed or organised; a supporting framework or the essential parts of a dance also called compositional structure, dance structures or compositional form.
@@ -489,6 +653,12 @@ Choreographic structure is the way a dance piece is constructed or organised; a 
 - Ternary -a composition made of three parts e.g., ABA.
 - Theme and variation -a compositional structure characterised by a theme of clear movement sequences that are used as a basic structure for different variations. A1, A2, A3, A4.
 
+
+
+{29}------------------------------------------------
+
+
+
 ## Appendix B: Opportunities for embedding elements of the Curriculum for Wales
 
 | Curriculum for Wales Strands             | Unit 1               | Unit 2               | Unit 3               |
@@ -501,6 +671,12 @@ Choreographic structure is the way a dance piece is constructed or organised; a 
 | Diversity                                | ✓                    | ✓                    | ✓                    |
 | Careers and Work-Related Experiences     | ✓                    | ✓                    | ✓                    |
 
+
+
+{30}------------------------------------------------
+
+
+
 | Cross-curricular Skills - Literacy                                                                                                       | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy   |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 | Listening                                                                                                                                | ✓                                    | ✓                                    | ✓                                    |
@@ -512,6 +688,12 @@ Choreographic structure is the way a dance piece is constructed or organised; a 
 | Understanding the number system helps us to represent and compare relationships between numbers and quantities                           | ✓                                    |                                      |                                      |
 | Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world | ✓                                    |                                      |                                      |
 | Learning that statistics represent data and that probability models chance help us make informed inferences and decisions                | ✓                                    |                                      |                                      |
+
+
+
+{31}------------------------------------------------
+
+
 
 | Digital Competence                    | Digital Competence   | Digital Competence   | Digital Competence   |
 |---------------------------------------|----------------------|----------------------|----------------------|

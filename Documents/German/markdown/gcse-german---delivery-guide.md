@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE German
@@ -16,7 +18,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -39,6 +53,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Command words.......................................................................................................... 11            |
 | Important Dates .................................................................................................................. 18 |
 
+
+
+{4}------------------------------------------------
+
+
+
 ## Aims of the Delivery Guide
 
 The aim of the Delivery Guide is to give an overview of the qualification and to help teachers understand how we assess the GCSE. It will offer an introduction to the specification, an assessment overview, and will support teachers in better understanding how to prepare their learners for the assessment of the different units. More information on each unit can be found in the separate unit guides.
@@ -60,6 +80,12 @@ This is a linear qualification. This qualification is not tiered.
 
 All units are compulsory.
 
+
+
+{5}------------------------------------------------
+
+
+
 ## Themes and the Use of Language
 
 The following diagram shows example topics that could be used within all of the three broad themes.
@@ -67,6 +93,12 @@ The following diagram shows example topics that could be used within all of the 
 It is important for teachers to ensure that all topics and associated vocabulary are transferable across all three themes and should not be used solely in one theme. The examples given are neither prescriptive, nor exhaustive and teachers can and should, deliver the vocabulary through their own engaging and motivating topics, using language in a natural and reoccurring way.
 
 <!-- image -->
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -100,11 +132,23 @@ Learners are not permitted to use dictionaries in any part of the assessment, or
 
 Tasks will be set by WJEC. The assessment will be carried out by teachers at the centre, audio recorded and marked by external examiners.
 
+
+
+{7}------------------------------------------------
+
+
+
 The assessment will consist of three tasks: a read aloud and role play, a presentation and discussion, and a conversation.
 
 There will be a teacher booklet that will provide instructions and guidance as to how to conduct the assessment, and WJEC will provide detail as to the read aloud and role-play card to be allocated to each learner in the Assessment Pack. Centres are required to ensure that each candidate uses the correct allocated card.
 
 The speaking assessments will take place during a five-week period between April and May, specified annually by WJEC. Centres may open the packs up to three working days in advance of the first timetabled assessment. The preparation period for the presentation may begin two weeks prior to the first timetabled assessment.
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -132,6 +176,12 @@ The assessment will take place during an eight-week period between March and May
 
 The Assessment Pack will be updated and released annually and will include an updated role play card allocation table along with the specific period in which the speaking assessments, and Unit 2 must take place.
 
+
+
+{9}------------------------------------------------
+
+
+
 ## Unit 3
 
 ## Listening
@@ -148,6 +198,12 @@ The purpose of this unit is to:
 The unit will be based on the following:
 
 <!-- image -->
+
+
+
+{10}------------------------------------------------
+
+
 
 ## Unit 4
 
@@ -167,6 +223,12 @@ The purpose of this unit is to:
 The unit will be based on the following:
 
 <!-- image -->
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -232,6 +294,12 @@ Learners are not permitted to use a dictionary in any part of the assessment.
 
 70 marks
 
+
+
+{12}------------------------------------------------
+
+
+
 ## Assessment Objectives
 
 Unit 1 The distribution of the assessment objectives for this unit is:
@@ -262,6 +330,12 @@ Unit 4 The distribution of the assessment objectives for this unit is:
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{13}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -288,6 +362,12 @@ When you look through the specification you will notice in the amplification col
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Learners should be able to | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques. |
 
+
+
+{14}------------------------------------------------
+
+
+
 ## Command words
 
 Learners should be made aware of:
@@ -312,6 +392,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Communicate, write and speak | Share information by speaking or writing.                                                                                           |
 | Compare                      | Identify similarities .                                                                                                             |
 
+
+
+{15}------------------------------------------------
+
+
+
 | Complete                       | Add necessary items/information.                                                                                                                                                                          |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Consider                       | Review and respond to given info.                                                                                                                                                                         |
@@ -334,6 +420,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Make/Produce/ Create           | To create/make/manufacture.                                                                                                                                                                               |
 | Match/Link                     | To choose something that has the same quality as something.                                                                                                                                               |
 
+
+
+{16}------------------------------------------------
+
+
+
 | Name               | Identify or make a list.                                                                                        |
 |--------------------|-----------------------------------------------------------------------------------------------------------------|
 | Outline            | Set out the main characteristics.                                                                               |
@@ -353,6 +445,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Support            | To maintain or advocate.                                                                                        |
 | Translate          | Change words into a different language.                                                                         |
 | Use                | Apply the information provided to a particular theory or concept. Employ, take or hold something for a purpose. |
+
+
+
+{17}------------------------------------------------
+
+
 
 ## Mark Schemes
 
@@ -432,6 +530,12 @@ C
 
 1
 
+
+
+{18}------------------------------------------------
+
+
+
 ## Points based mark scheme
 
 For short answer questions with a range of possible responses.
@@ -442,6 +546,12 @@ For short answer questions with a range of possible responses.
 |      |                                                                                          |                                                                                          | Award one mark for either • they can't concentrate properly or • they can't learn well   | 1                                                                                        | 1                                                                                        |
 |      |                                                                                          | (ii)                                                                                     | What could happen if you regularly sleep too little?                                     | What could happen if you regularly sleep too little?                                     | What could happen if you regularly sleep too little?                                     |
 |      |                                                                                          |                                                                                          | Award one mark for: you could get seriously ill                                          | 1                                                                                        | 1                                                                                        |
+
+
+
+{19}------------------------------------------------
+
+
 
 ## Levels based mark schemes
 
@@ -467,6 +577,12 @@ Write around 120 words in German.
 | 1-4    | • Limited information is conveyed. • Responses are rarely developed. • Communication is rarely understandable                                                                       | 1                                                             |
 | 0      | Response not worthy credit.                                                                                                                                                         | 0 • of                                                        |
 
+
+
+{20}------------------------------------------------
+
+
+
 | Band   | Marks [/15]                                                                                                                                                                                                    | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification.                                                                                            |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13-15  | • A wide range of appropriate vocabulary and structures are used, with some complex language. • Highly successful use of verb and tense formations. • Language used is highly accurate - any errors are minor. | 5                                                                                                                                                                                                             |
@@ -479,6 +595,12 @@ Write around 120 words in German.
 ## Guidance on application of mark scheme
 
 A mark of zero for AO2 will result in a mark of zero for AO3.
+
+
+
+{21}------------------------------------------------
+
+
 
 ## Important Dates
 

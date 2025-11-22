@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Digital Media and Film
@@ -14,7 +16,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -25,6 +39,12 @@ This specification meets the requirements of the following regulatory documents 
 ## Copyright
 
 © WJEC CBAC Limited 2025.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -52,6 +72,12 @@ This specification meets the requirements of the following regulatory documents 
 | 5.2                                                                                                            | Grading, awarding and reporting ............................................................                               | 29                                                                                                                         |
 | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 30                            | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 30                                        | Appendix A: Opportunities for embedding elements of the Curriculum for Wales.... 30                                        |
 | Appendix B: Glossary of Terminology ......................................................................     | Appendix B: Glossary of Terminology ......................................................................                 | 33                                                                                                                         |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## GCSE DIGITAL MEDIA AND FILM SUMMARY OF ASSESSMENT
 
@@ -89,6 +115,12 @@ Learners will choose one brief from a choice of three. The briefs will always be
 
 72 marks
 
+
+
+{6}------------------------------------------------
+
+
+
 This is a linear qualification.
 
 The qualification is not tiered.
@@ -98,6 +130,12 @@ Unit 2 and Unit 3 could be completed any time during the two years and submitted
 The first award of the qualification will be 2028.
 
 Qualification Approval Number: C00/5167/0
+
+
+
+{7}------------------------------------------------
+
+
 
 ## GCSE DIGITAL MEDIA AND FILM
 
@@ -125,6 +163,12 @@ This GCSE Digital Media and Film qualification is underpinned by the Curriculum 
 In developing this qualification, we have considered where there are opportunities to embed the cross-curricular themes and where there are opportunities for integral skills and cross-curricular skills to be developed. Appendix A provides a simple mapping, and information to support teachers will be provided in the Guidance for Teaching.
 
 We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 24; the Guidance for Teaching will include further information on integrating these learning experiences into delivery.
+
+
+
+{8}------------------------------------------------
+
+
 
 The GCSE Digital Media and Film qualification supports the Curriculum for Wales by:
 
@@ -159,6 +203,12 @@ The qualification allows learners to develop a strong foundation of knowledge, s
 
 © WJEC CBAC Ltd 2025. 2  https://hwb.gov.wales/curriculum-for-wales/expressive-arts/designing-your-curriculum/#specific-considerations-for-this-area
 
+
+
+{9}------------------------------------------------
+
+
+
 ## 1.4 Guided learning hours
 
 GCSE Digital Media and Film has been designed to be delivered within 120 -140 guided learning hours. The qualification has been primarily designed as a 2-year programme for learners in years 10 and 11.
@@ -179,6 +229,12 @@ Information on access arrangements and reasonable adjustments is found in the fo
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
 
+
+
+{10}------------------------------------------------
+
+
+
 ## 2 SUBJECT CONTENT
 
 ## How to read the amplification
@@ -193,6 +249,12 @@ The amplification provided in the right-hand column , titled 'Further Informatio
 The use of the word ' including ' indicates that the specified content must be taught and could be subject to assessment.
 
 The use of the words 'for example' or 'such as' indicates that the specified content is for guidance only, and alternative examples could be chosen.
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -213,6 +275,12 @@ The purpose of this unit is to:
 
 - exploring -learners will have the opportunity to study both films and video games to understand how meaning can be created through a variety of techniques. Learners will experience different genres and forms of media which will cover contrasting contexts. Learners will gain knowledge of film products created in or inspired by Wales as well as international productions and works written by a diverse range of writers, including those from Black, Asian and minority ethnic backgrounds. Learners will also explore key concepts and issues around online news and various different social media platforms.
 - responding and reflecting -learners will have the opportunity to respond to digital media and film products, including an unseen product / extract, reflect on the impact of social media and respond to key issues in social media production. Learners will be able to appreciate other people's media products to develop and inform their own talents in Units 2 and 3. Learners will gain the necessary skills required to explore the crosscutting themes of human-rights and diversity, including Black, Asian and minority ethnic themes, contributions and experiences.
+
+
+
+{12}------------------------------------------------
+
+
 
 ## Areas of content
 
@@ -247,12 +315,24 @@ Set films are reviewed every three to five years. Where appropriate, they will b
 
 © WJEC CBAC Ltd 2025.
 
+
+
+{13}------------------------------------------------
+
+
+
 |                                                        | • sound, including: • diegetic • non-diegetic • music • cinematography, including: • camera shots and angles • camera movement • lighting (for example, high key lighting, low key lighting).                                                                                                                                                                                                                                                                                             |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1.2 How films reflect their context                  | Learners should understand: • how films reflect different social, cultural, historical and institutional contexts. Learners should be able to: • analyse and evaluate the effectiveness and impact of these social, cultural, historical and institutional contexts of films.                                                                                                                                                                                                             |
 | 1.1.3 How representations are constructed within films | Learners should understand the importance of inclusive representations on diverse groups/individuals. Learners should be able to: • identify how different representations of identity have been constructed in films, such as: • ethnicity • gender • local/regional • sexuality • social class • identify how different representations of place have been constructed in films, including setting and location • analyse how different representations have been constructed in films. |
 | 1.1.4 How narrative devices are used in films          | Learners should be able to: • identify different narrative devices, including: • binary oppositions • character types • climax • exposition and openings • inciting incident • resolution and endings • plot • story • three act structure • analyse how different narrative devices have been used in films to create meaning for audiences.                                                                                                                                             |
 | 1.1.5 Comparative study                                | Learners should be able to compare the pair of films selected from the list of films set for study, and consider taught content from 1.1.1 to 1.1.4 above.                                                                                                                                                                                                                                                                                                                                |
+
+
+
+{14}------------------------------------------------
+
+
 
 | 1.2 Video gaming                                                                                                                                                                                                                                                                                                                      | 1.2 Video gaming                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -261,10 +341,22 @@ Set films are reviewed every three to five years. Where appropriate, they will b
 | 1.2.1 How video games create meaning for gamers                                                                                                                                                                                                                                                                                       | Learners will study at least one extract and/or cut scene, up to approximately 10 minutes in length, from age-appropriate video games created from 2010 onwards. Learners should understand: • codes and conventions of an age-appropriate video game created from 2010 onwards • how the video game they have studied creates meaning through gameplay, including: • narrative devices, for example: • plot • world building • characterisation • quests • branching storylines. • mise-en-scène, for example: • setting and props • colour • use of graphics. • sound, for example: • diegetic • non-diegetic • music |
 | 1.2.2 How video games reflect their context                                                                                                                                                                                                                                                                                           | • how the above convey genre. Learners should understand: • how the video game they have studied reflects different social, cultural, historical production and institutional contexts. Learners should be able to: • analyse and evaluate the effectiveness and impact of these social, cultural, historical production and institutional contexts of the video game they have studied.                                                                                                                                                                                                                                |
 
+
+
+{15}------------------------------------------------
+
+
+
 | 1.2.3 How representations are constructed within video games   | Learners should understand the importance of inclusive representations on diverse groups/individuals. Learners should be able to: • identify how different representations of identity have been constructed in a video game • analyse how different representations of identity have been constructed in a video game.   |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.2.4 How gamers interact and respond to video games           | Learners should understand different ways in which gamers interact and respond to video games, such as: • personalisation (such as customisation, role-playing, and creativity allowing players to shape their own experiences) • social connection (such as multiplayer interactions, online communities).               |
 | 1.2.5 The positive and negative impacts of video games         | Learners should understand the positive and negative impacts of video games in relation to how: • video games reflect their context • representations are constructed within video games • gamers interact with video games • gamers respond to video games.                                                              |
+
+
+
+{16}------------------------------------------------
+
+
 
 | 1.3 Exploring key concepts and issues in online news and social media                                                                                                                                                                   | 1.3 Exploring key concepts and issues in online news and social media                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -275,9 +367,21 @@ Set films are reviewed every three to five years. Where appropriate, they will b
 
 © WJEC CBAC Ltd 2025. 3  within two years of learners studying the qualification.
 
+
+
+{17}------------------------------------------------
+
+
+
 | 1.3.3 Understanding the impact and regulation of social media   | Learners should understand the: • the need for regulation on social media platforms • how social media is used as a tool for influencing opinions and consumer behaviour • the use of Artificial Intelligence (AI) and bots • the challenges of balancing free speech with protecting users. Learners should be aware of the role of current legal frameworks for regulating social media, such as: • Online Safety Act 2023 • Advertising Standards Authority (ASA) • Data Protection Act 2018.   |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.3.4 Ethical issues in social media                            | Learners should understand ethical issues surrounding: • data collection, usage, and algorithms on social media platforms • privacy concerns in the context of social media, such as consent and anonymity and the impact of sharing personal details • the impact that social media can have on audiences including their mental wellbeing.                                                                                                                                                       |
+
+
+
+{18}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -299,6 +403,12 @@ The purpose of this unit is to:
 - responding and reflecting -learners will have the opportunity to respond to products produced by their chosen production company, and reflect on how these products are financed, distributed and exhibited. Learners are encouraged to critically reflect on the genre codes and conventions of their chosen product and consider the ways in which products are created to appeal to target audiences. Learners will have the opportunity to respond to the production processes involved in the media product they have chosen and reflect on how these processes may have contributed to the product's success.
 - creating -learners will create a new concept for a product and production company. Learners are encouraged to plan and consider creative ways to distribute and exhibit their product and create visual examples of their strategies which encourages creativity, originality and imagination.
 
+
+
+{19}------------------------------------------------
+
+
+
 ## Areas of content
 
 | 2.1 Investigating production companies based in Wales                                                                                                                                                                     | 2.1 Investigating production companies based in Wales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -307,11 +417,29 @@ The purpose of this unit is to:
 | Content                                                                                                                                                                                                                   | Further information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 2.1.1 Production, distribution and exhibition                                                                                                                                                                             | Learners should be aware of a range of different digital media and/or film production companies based in Wales, such as Bad Wolf, BBC Cymru Wales, Boom Cymru, Cardiff Productions, Chwarel, ITV Cymru Wales, Little Bird Films, S4C, Severn Screen, Triongl, Wales interactive. Learners should understand: • how production, distribution and exhibition operate in relation to digital media and/or film production • how different digital media and/or film production companies based in Wales produce, distribute and exhibit their media content • the value of production, distribution and exhibition. |
 
+
+
+{20}------------------------------------------------
+
+
+
 | 2.1.2 Investigating digital media and film production   | Learners should be able to analyse and evaluate how production companies based in Wales: • use genre codes and conventions to appeal to audiences • produce products, considering aspects such as: • who the production originated with • who financed the production • development stages: pre-production, production and post-production. Learners should be able to analyse and evaluate how key job roles contribute to the success of products, for example: • in film and television programmes: • producer • set designer • actor. • in video games: • gameplay programmer • animator. Learners should understand how the above contribute to the success of the products. Learners should be able to analyse and evaluate how production companies based in Wales distrib ute, market and exhibit products to promote to target audiences, including: • use of distribution strategies such as: • interviews with key personnel (for example, magazines, newspapers, television and podcasts) • release strategy • social media accounts, appearances and partnerships • trailers and posters. • use of exhibition strategies that are specific to the medium, such as: • film (for example; cinema release, streaming and/or physical media releases) • video games (for example; live streaming, free demos) • television/streaming (for example; adverts, posters).   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{21}------------------------------------------------
+
+
+
 | 2.1.3 Creating distribution and exhibition strategies   | Learners should be able to: • propose products for a new production company by: • creating a mission statement • creating a tagline • stating a target audience. • create a distribution strategy and an exhibition strategy that include: • an outline for two examples of a digitally produced visual and/or audio element of a distribution strategy for a new production company from one of the following strategies : • planning a social media campaign • planning a collaboration and/or partnership strategy • planning a page of a website • planning a merchandise package. • one example of a digitally produced visual and/or audio element of an exhibition strategy for a new production company from one of the following strategies: • planning a festival • planning a local event • planning a release schedule • planning an immersive experience. • justify the chosen strategies, including the intended impact of the strategies • consider how the strategies communicate meaning to target audiences.   |
 |---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{22}------------------------------------------------
+
+
 
 ## Unit 3
 
@@ -333,6 +461,12 @@ The purpose of this unit is to:
 - reflecting -learners will have the opportunity to respond to a brief set by WJEC and reflect on their own work through a reflective log.
 - creating -learners will have the opportunity to create digital media and film products in response to a set brief.
 
+
+
+{23}------------------------------------------------
+
+
+
 ## Areas of content
 
 | 3.1 Creating digital media and film content                                                                                                                                                                                                         | 3.1 Creating digital media and film content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -342,8 +476,20 @@ The purpose of this unit is to:
 | 3.1.1 Creating and developing ideas to communicate meaning                                                                                                                                                                                          | Learners should be able to: • develop ideas that communicate meaning to a specified audience based on a brief set by WJEC for one of the following: • a new film • a new video game • a new series for a streaming site • plan ideas in a range of pre-production documents; (for example: storyboards, scripts, hand drawn or digital mock-ups) which will inform the final production pieces.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 3.1.2 Developing and applying creative skills through digital media and film products                                                                                                                                                               | Learners should be able to develop their ideas into a final: • audio-visual/audio product: • social media campaign • extract from a key scene • extract from a Twitch or YouTuber influencer • radio/podcast audio advert • digital/online product: • digital poster • digital electronic press kit (EPK) • functioning website • extract from a screenplay • script from a cutscene. Learners should be able to: • demonstrate their knowledge and understanding of digital media and film products through their own production by: • applying typical conventions of the form • applying typical conventions of the genre • communicating meaning for audiences through media and film language • constructing representations of identity and place within the production • embedding narrative devices within their production. • demonstrate their technical and creative skills in post- production by: • editing the digital media or film production using editing software |
 
+
+
+{24}------------------------------------------------
+
+
+
 | 3.1.3 Reflecting on their own work   | Learners should be able to: • reflect on, analyse and evaluate their own work throughout the production process • critically evaluate the effectiveness and impact of their creative choices linked to: • their creative choices and refinements during the pre-production, production and post-production processes • how their products meet the conventions of the form and genre, including how they have drawn upon their knowledge and understanding of other digital media and/or film products • how their products will appeal to the target audience.   |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{25}------------------------------------------------
+
+
 
 ## Opportunities for integration of learning experiences
 
@@ -357,6 +503,12 @@ GCSE Digital Media and Film generates opportunities for the following learning e
 The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences and skills into delivery.
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills please see Appendix A.
+
+
+
+{26}------------------------------------------------
+
+
 
 ## 3 ASSESSMENT
 
@@ -390,6 +542,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 2            | -     | 15%   | 10%   | 5%    | 30%     |
 | Unit 3            | -     | 15%   | 5%    | 20%   | 40%     |
 | Overall weighting | 15%   | 30%   | 30%   | 25%   | 100%    |
+
+
+
+{27}------------------------------------------------
+
+
 
 ## 3.2 Arrangements for non-examination assessment
 
@@ -430,6 +588,12 @@ Every three years the following will change:
 - the target audience
 - the list of genres.
 
+
+
+{28}------------------------------------------------
+
+
+
 The assessment contributes to 40% of the overall qualification. The unit will be marked out of a total of 96 marks.
 
 This unit has a recommended teaching time of 48 hours which should incorporate exploring, teaching and learning, creating and reflecting. There is no restriction on the amount of time candidates spend on the assessment.
@@ -437,6 +601,12 @@ This unit has a recommended teaching time of 48 hours which should incorporate e
 The stimuli will be released on the WJEC Portal during the September of the first year of study, and new stimuli will be supplied every three years.
 
 This unit will be assessed by the centre and externally moderated by WJEC.
+
+
+
+{29}------------------------------------------------
+
+
 
 ## 4 MALPRACTICE
 
@@ -447,6 +617,12 @@ Information regarding malpractice is available in our Guide to preventing, repor
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
+
+
+
+{30}------------------------------------------------
+
+
 
 ## 5 TECHNICAL INFORMATION
 
@@ -475,6 +651,12 @@ The current edition of our Entry Procedures and Coding Information gives up-to-d
 
 GCSE qualifications are reported on an eight point scale from A*-G, where A* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
 
+
+
+{31}------------------------------------------------
+
+
+
 ## Appendix A: Opportunities for embedding elements of the Curriculum for Wales
 
 | Curriculum for Wales Strands                                      | Unit 1               | Unit 2               | Unit 3               |
@@ -486,6 +668,12 @@ GCSE qualifications are reported on an eight point scale from A*-G, where A* is 
 | Diversity                                                         | ✓                    | ✓                    | ✓                    |
 | Human Rights Education                                            | ✓                    | ✓                    | ✓                    |
 | Careers and Work-Related Experiences                              | ✓                    | ✓                    |                      |
+
+
+
+{32}------------------------------------------------
+
+
 
 | Cross-curricular Skills - Literacy                                                                                                       | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy   |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
@@ -499,6 +687,12 @@ GCSE qualifications are reported on an eight point scale from A*-G, where A* is 
 | Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world |                                      | ✓                                    | ✓                                    |
 | Learning that statistics represent data and that probability models chance help us make informed inferences and decisions                |                                      | ✓                                    | ✓                                    |
 
+
+
+{33}------------------------------------------------
+
+
+
 | Digital Competence                    | Digital Competence   | Digital Competence   | Digital Competence   |
 |---------------------------------------|----------------------|----------------------|----------------------|
 | Citizenship                           |                      | ✓                    |                      |
@@ -510,6 +704,12 @@ GCSE qualifications are reported on an eight point scale from A*-G, where A* is 
 | Critical Thinking and Problem Solving | ✓                    | ✓                    | ✓                    |
 | Planning and Organisation             |                      | ✓                    | ✓                    |
 | Personal Effectiveness                | ✓                    | ✓                    | ✓                    |
+
+
+
+{34}------------------------------------------------
+
+
 
 ## Appendix B: Glossary of Terminology
 
@@ -529,6 +729,12 @@ They are not aligned to specific assessment criteria within individual units but
 | Distribution               | The process of delivering media products to audiences, including the marketing campaign.                                                                                                                                                           |
 | Electronic Press Kit (EPK) | A digital collection of material promoting a media product and/or artist. EPKs can include a professional bio, photographs, behind-the-scenes footage, interviews, social media links and other content to help promote the product and/or artist. |
 
+
+
+{35}------------------------------------------------
+
+
+
 | Exhibition                    | The public display or presentation of a media product, such as a screening in a film festival.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Genre                         | The type or category of a media product. In relation to film , a genre is a category or classification that identifies films based on their narrative elements, themes, tone, setting and stylistic approach. It helps audiences set expectations about the kind of story and emotional experience a film will deliver. In relation to video games , a genre is a classification that groups games based on their gameplay mechanics, objectives and player interactions, rather than just narrative or setting (as in film). It helps define how a game is played, what skills are required, and what kind of experience the player can expect. |
@@ -540,6 +746,12 @@ They are not aligned to specific assessment criteria within individual units but
 | Mission statement             | A brief statement that provides a written description of the purpose, goals and values of an organisation, company or project.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Narrative devices             | The tools and/or techniques used to tell a story or shape how it is told.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Non-diegetic sound            | Sound that exists outside the world of the story or scene that the characters cannot hear. Non-diegetic sound is usually added in post-production e.g. voiceover, soundtrack.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+{36}------------------------------------------------
+
+
 
 | Online news      | News content that is published and disseminated through digital media platforms connected to the internet.                                                                         |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,63 +1,59 @@
+{1}------------------------------------------------
 
+## WHY CHOOSE GCSE
 
-{0}------------------------------------------------
+## The WJEC GCSE Drama qualification will support you to:
 
-# WHY CHOOSE GCSE
-
-# Drama?
-
-# wjec
-
-# The WJEC GCSE Drama qualification will support you to:
-
-- explore drama created and performed by other people to help develop your own talents
-- gain understanding of a range of techniques, forms, styles, genres and contexts
+- exploredramacreatedandperformedbyother people to help develop your own talents
+- gainunderstanding of a range of techniques, forms, styles, genres and contexts
 - reflect on, evaluate and refine your work
-- explore diversity, identity and culture
+- explore diversity,identity and culture
 - discover and explore your performance and/or design skills
 
-#### WHAT WILL I STUDY?
+## WHAT WILl I STUDy?
 
-The GCSE Drama qualification will allow you to explore and respond to stimuli, create and reflect on your own work, develop your own creativity and engage with many different styles of theatre.
+TheGCSEDramaqualificationwillallowyouto exploreandrespond tostimuli,createandreflecton your own work, develop your own creativity and engage with many different styles of theatre.
 
-You will also have the opportunity to build on your understanding of acting, directing, design and technical theatre.
+You will also have the opportunity to build onyour understanding of acting，directing，design and technical theatre.
 
-#### **HOW WILL I BE ASSESSED?**
+## HOWWILLIBEASSESSED?
 
-# Unit 1 - Devising Theatre
+## Unit 1 - Devising Theatre
 
-Practical non-exam assessment 40% of qualification: 96 marks
+Practical non-exam assessment 40% of qualification:96 marks
 
-One devised piece in response to a chosen stimulus, performed in a group of between two and five actors and up to four designers.
+Onedevisedpieceinresponsetoachosenstimulus, performed ina group of between two and five actors and up tofourdesigners.
 
-# Unit 2 - Performance from a Text
+## Unit 2 - Performance from a Text
 
-Practical non-exam assessment 30% of qualification: 72 marks
+Practicalnon-examassessment 30%ofqualification:72marks
 
-A performance of one extract from a text of your choice. Assessed by a Visiting Examiner and performed in a group of between two and four actors and up to two designers.
+Aperformanceofoneextractfromatextofyour choice.AssessedbyaVisitingExaminerand performedinagroupofbetweentwoandfour actors anduptotwodesigners.
 
-### Unit 3 – Interpreting Theatre
+## Unit 3 - Interpreting Theatre
 
-Assessment Type: On-screen examination (2 hours) 30% of qualification: 72 marks
+Assessment Type: On-screen examination (2 hours) 30%of qualification:72marks
 
-The exam is broken into two sections: Section A and Section B. Section A will ask questions based on a set text you will have studied in lessons. Section B will ask questions based on an excerpt of a live theatre production from one of four set genres, that you will be able to watch in the exam. The genres are Musical Theatre, Naturalism, Theatre in Education or Physical Theatre.
+Theexamisbrokenintotwosections:SectionAand SectionB.SectionAwill askquestionsbasedona settextyouwillhavestudied inlessons.SectionB willaskquestionsbasedonanexcerptofalive theatreproductionfromoneoffoursetgenres,that you will be able to watch in the exam.The genres are Musical Theatre, Naturalism, Theatre in Education or Physical Theatre.
 
-# WHAT SKILLS WILL I DEVELOP?
+<!-- image -->
 
-Exploring: you will have the opportunity to explore, experience and interpret many different styles and genres of theatre linked to different cultures in Wales and the world. You will be able to build on these ideas to create and develop your own theatre when devising and when working from a script.
+## WHAT SKILLS WILL I DEVELOP?
 
-Responding and reflecting: you will be able to recount, evaluate and refine your work through reflection and feedback from others, to create an exciting, imaginative and successful finished product. You will also be able to evaluate and analyse the work of others to inform your own creativity.
+Exploring: you will have the opportunity to explore, experienceandinterpretmanydifferentstylesand genres of theatre linked to different cultures in Wales and the world.You will be able to build on theseideastocreateanddevelopyourowntheatre
 
-Creating: in Unit 1, you will devise your own original piece of theatre in response to a stimulus and in a style/genre of your choice, within a group of your peers. In Unit 2, you will work from a text of your choosing, also in a style of your choosing.
+Responding and reflecting: you will be able to recount,evaluateandrefineyour work through reflectionandfeedbackfromothers,tocreate an exciting，imaginativeandsuccessfulfinished product. You will also be able to evaluate and analysetheworkofotherstoinformyourown creativity.
 
-## **CAREERS IN DRAMA**
+Creating: in Unit 1, you will devise your own original piece of theatre in response to a stimulus and in a style/genreofyourchoice,withinagroupofyour peers. In Unit 2,you will work from a text of your choosing, also in a style of your choosing.
 
-This qualification provides an excellent foundation for the study of Drama at A-level. It will also provide a satisfying and worthwhile course of study for you if you choose not to study further.
+## CAREERSINDRAMA
 
-Importantly, studying Drama will develop many transferable skills including communication, presentation skills, team working, leadership, focus, refinement, creativity and self-confidence. The career options that come from studying Drama are extensive, but here are a few of those options:
+This qualification provides an excellent foundation forthestudyofDramaatA-level.Itwill alsoprovide a satisfying and worthwhile course of study for you ifyou choosenottostudyfurther.
 
-Actor, Drama Therapist, Recruitment, Scenic Make-Up Artist, Marketing Executive, Casting Director, Producer, Events Management, Script Writer, Stage Manager, Primary school teacher, University Lecturer, Make up and Prosthetics Technician, Teacher, Community Arts Manager, Playwright, Lighting Designer, Costumer Designer, Workshop Leader, Sound Technician, Studio Supporting Artist, Theatre Agent, Arts Administrator, Theatre Manager, Dramaturg, Theatre/TV Director, Broadcasting Crew, Researcher.
+Importantly, studying Drama will develop many transferableskills includingcommunication, presentationskills,teamworking,leadership,focus, refinement,creativity and self-confidence.The careeroptionsthatcomefromstudyingDramaare extensive,buthereareafewofthoseoptions:
 
-FIND OUT MORE - TALK TO YOUR TEACHER TODAY!
+Actor,Drama Therapist,Recruitment,ScenicMakeUp Artist, Marketing Executive, Casting Director, Producer,Events Management,Script Writer,Stage Manager, Primary school teacher, University Lecturer, Make up and Prosthetics Technician, Teacher, Community Arts Manager, Playwright, Lighting Designer,Costumer Designer,Workshop Leader, Sound Technician, Studio Supporting Artist,Theatre Agent,Arts Administrator,Theatre Manager,  Dramaturg, Theatre/TV  Director, Broadcasting Crew,Researcher.
 
-![](_page_0_Picture_31.jpeg)
+FINDOUTMORE-TALKTOYOURTEACHERTODAY!
+
+<!-- image -->

@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Art and Design
@@ -12,13 +14,31 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
 - Made for Wales GCSE Qualification Approval Criteria which set out requirements for any new GCSE qualification Approved for first teaching from September 2025 and beyond.
 - Standard Conditions of Recognition which contains the rules that all awarding bodies and their qualifications must meet when offering qualifications to learners in Wales.
 - Approval Criteria for GCSE Art and Design which sets out the subject specific requirements for GCSE Art and Design qualifications from September 2025 and beyond.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## CONTENTS
 
@@ -44,6 +64,12 @@ This specification meets the requirements of the following regulatory documents 
 |                                                                                                                                                                                                          | 5.1                                                                                                                                                                                                      | Making entries ..................................................................................22                                                                                                      |                                                                                                      |
 |                                                                                                                                                                                                          | 5.2                                                                                                                                                                                                      | Grading, awarding and reporting......................................................22                                                                                                                  |                                                                                                      |
 | Appendix A: Opportunities for embedding elements of the Curriculum for Wales ..............................................................................................................23            | Appendix A: Opportunities for embedding elements of the Curriculum for Wales ..............................................................................................................23            | Appendix A: Opportunities for embedding elements of the Curriculum for Wales ..............................................................................................................23            |                                                                                                      |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## GCSE ART AND DESIGN SUMMARY OF ASSESSMENT
 
@@ -73,6 +99,12 @@ The qualification will be first awarded in summer 2027.
 
 Qualification Approval Number: C00/4967/0
 
+
+
+{6}------------------------------------------------
+
+
+
 ## GCSE ART AND DESIGN
 
 ## 1 INTRODUCTION
@@ -100,6 +132,12 @@ In developing this qualification, we have considered where there are opportuniti
 
 We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 17; the Guidance for Teaching will include further information on integrating these learning experiences into delivery.
 
+
+
+{7}------------------------------------------------
+
+
+
 The GCSE Art and Design qualification supports the Curriculum for Wales by:
 
 - supporting the statements of what matters 1 , by giving learners the opportunity to:
@@ -120,6 +158,12 @@ The GCSE Art and Design qualification supports the Curriculum for Wales by:
 2  https://hwb.gov.wales/curriculum-for-wales/expressive-arts/principles-of-progression/
 
 © WJEC CBAC Ltd 2024. 3  https://hwb.gov.wales/curriculum-for-wales/expressive-arts/designing-your-curriculum/#disciplinespecific-considerations
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Pathways
 
@@ -151,6 +195,12 @@ Learners undertaking this pathway could pursue areas of study from the following
 Work is not limited to one of the above.
 
 Learners undertaking this pathway must explore practical and relevant critical and contextual sources such as the work of historical and contemporary artists and the different purposes, intentions, and functions as appropriate to their own outcomes. They should demonstrate the ability to work creatively with processes and techniques appropriate to their chosen area(s) of study.
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Fine art
 
@@ -190,6 +240,12 @@ Work is not limited to one area of study.
 
 Learners undertaking this pathway must explore practical and relevant critical and contextual sources, such as the work of historical and contemporary graphic designers and the different purposes, intentions, and functions of graphic communication as appropriate to their own outcomes. They should demonstrate the ability to work creatively with processes and techniques appropriate to their chosen area(s) of study.
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Textile design
 
 Thet textile design pathway is defined as the creation of designs and products for woven, knitted, stitched, or printed fabrics and involves an understanding of fibres, yarns, and fabrics. Textile design encompasses a broad range of materials, techniques and processes, including sustainable materials and processes as well as new technologies.
@@ -208,6 +264,12 @@ Learners undertaking this pathway could pursue the following areas of study:
 Work is not limited to one area of study.
 
 Learners undertaking this pathway must explore practical and relevant critical and contextual sources, such as the work of historical and contemporary textile designers and makers, as well as the different purposes, intentions and functions of textile design as appropriate to their own outcomes. They should demonstrate the ability to work creatively with processes and techniques appropriate to their chosen area(s) of study.
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Three-dimensional design
 
@@ -229,6 +291,12 @@ Work is not limited to one area of study.
 
 Learners undertaking this pathway must explore practical and relevant critical and contextual sources such as the work of historical and contemporary threedimensional designers and makers, as well as the different purposes, intentions, and functions of three-dimensional design as appropriate to their own outcomes. They should demonstrate the ability to work creatively with processes and techniques appropriate to their chosen area(s) of study.
 
+
+
+{12}------------------------------------------------
+
+
+
 ## Photography
 
 The photography pathway involves both the technical aspects of camera operation and the development of a visual language to communicate ideas and emotions through imagery. It is defined as the practice of creating static or moving images by recording light with light-sensitive materials such as photographic film or digitally by means of an image sensor. It includes still photography and other lens-based media.
@@ -247,6 +315,12 @@ Learners undertaking this pathway could pursue the following areas of study:
 Work is not limited to one area of study.
 
 Learners undertaking this title must explore practical and relevant critical and contextual sources such as the work of historical and contemporary photographers and the different purposes, intentions, and functions of photography as appropriate to their own outcomes. They should demonstrate the ability to work creatively with processes and techniques appropriate to their chosen area(s) of study.
+
+
+
+{13}------------------------------------------------
+
+
 
 ## 1.3 Prior learning and progression
 
@@ -273,6 +347,12 @@ Access arrangements and reasonable adjustments are made for eligible learners to
 Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website (www.jcq.org.uk).
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
+
+
+
+{14}------------------------------------------------
+
+
 
 ## 2 SUBJECT CONTENT
 
@@ -311,6 +391,12 @@ Learners should know and understand:
 - 1.1.3 how meaning is communicated through a broad range of creative work and how it influences their own work and creative intentions
 - 1.1.4 how to critically analyse and reflect on their own and others work.
 
+
+
+{15}------------------------------------------------
+
+
+
 | 1.2                         |                                                                                                                                                                                                                                                                                                                                   |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Learners should be able to: | Learners should be able to:                                                                                                                                                                                                                                                                                                       |
@@ -324,6 +410,12 @@ Learners should know and understand:
 | 1.2.8                       | reflect on, refine, and evaluate their own work                                                                                                                                                                                                                                                                                   |
 | 1.2.9                       | acknowledge how work can be interpreted and responded to by an audience                                                                                                                                                                                                                                                           |
 | 1.2.10                      | critically analyse and reflect on their own and others work to: • inform the development of ideas • evaluate the effectiveness of the processes and outcomes of creative work • consider if it effectively communicates the intended meaning and purpose • review how work can be interpreted by and responded to by an audience. |
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -340,6 +432,12 @@ Learners will be required to produce a portfolio:
 - through a sustained project demonstrating development, refinement, reflection and presentation
 - that is internally set, in consultation with the teacher from personal and/or given starting point
 - based on a theme, concept or specific design brief.
+
+
+
+{17}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -368,6 +466,12 @@ The Externally Set Assignment will be released to centres prior to the end of th
 
 These are examples of big ideas that could be included in the Externally Set Assignment.
 
+
+
+{18}------------------------------------------------
+
+
+
 ## Opportunities for integration of learning experiences
 
 GCSE Art and Design generates opportunities for the following learning experiences to be developed (the experiences will not be directly assessed):
@@ -382,6 +486,12 @@ GCSE Art and Design generates opportunities for the following learning experienc
 The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences into the delivery of the qualification.
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills please see Appendix A.
+
+
+
+{19}------------------------------------------------
+
+
 
 ## 3 ASSESSMENT
 
@@ -415,6 +525,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 2            | 10%   | 10%   | 10%   | 10%   | 40%     |
 | Overall weighting | 25%   | 25%   | 25%   | 25%   | 100%    |
 
+
+
+{20}------------------------------------------------
+
+
+
 ## 3.2 Overview of arrangements for non-examination assessment
 
 The framework below is the suggested schedule for centres.
@@ -444,6 +560,12 @@ The centre must ensure that the work an individual learner submits for assessmen
 Learners can have access to resources and/preparatory notes.
 
 It is recommended that portfolio work should begin during the spring or summer term in the first year of study. The portfolio must be completed before Unit 2 (Externally Set Assignment) is presented to learners in the spring term of the final year of study. Candidates work should be stored securely after submission and during the marking, moderation and review periods. Candidates work should not be released until the Review of Marking and Moderation period has expired.
+
+
+
+{21}------------------------------------------------
+
+
 
 ## Unit 2: Overview
 
@@ -481,6 +603,12 @@ Centres are required to submit marks for both internally assessed units online d
 
 When marks have been submitted to WJEC, the online system will apply the sample formula based on the overall rank order for the total entry and immediately identify the sample of candidates whose work is selected for moderation.
 
+
+
+{22}------------------------------------------------
+
+
+
 ## 4 MALPRACTICE
 
 Before the course starts, the teacher is responsible for informing candidates of WJEC's regulations concerning malpractice. Candidates must not take part in any unfair practice in the preparation of work for GCSE Art and Design.
@@ -490,6 +618,12 @@ Information regarding malpractice is available in our Guide to preventing, repor
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
+
+
+
+{23}------------------------------------------------
+
+
 
 ## 5 TECHNICAL INFORMATION
 
@@ -521,6 +655,12 @@ The current edition of our Entry Procedures and Coding Information gives up-to-d
 
 GCSE qualifications are reported on an eight point scale from A*-G, where A* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
 
+
+
+{24}------------------------------------------------
+
+
+
 ## Appendix A: Opportunities for embedding elements of the Curriculum for Wales
 
 | Curriculum for Wales Strands                                                                                                             | Unit 1            | Unit 2            |
@@ -543,6 +683,12 @@ GCSE qualifications are reported on an eight point scale from A*-G, where A* is 
 | Interacting and Collaborating                                                                                                            | ✓                 | ✓                 |
 | Producing                                                                                                                                | ✓                 | ✓                 |
 | Data and Computational Thinking                                                                                                          | Pathway dependent | Pathway dependent |
+
+
+
+{25}------------------------------------------------
+
+
 
 | Curriculum for Wales Strands          | Unit 1   | Unit 2   |
 |---------------------------------------|----------|----------|

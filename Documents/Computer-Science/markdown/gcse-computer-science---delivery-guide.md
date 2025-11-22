@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Computer Science
@@ -14,7 +16,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -34,6 +48,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Mark Schemes.................................................................................................................... 10   |
 | Important Dates .................................................................................................................. 12 |
 
+
+
+{4}------------------------------------------------
+
+
+
 ## Aims of the Delivery Guide
 
 The aim of the Delivery Guide is to give an overview of the qualification and to help teachers understand how we assess the GCSE. It will offer an introduction to the specification, an assessment overview, and will support teachers in better understanding how to prepare their learners for the assessment of the different units. More information on each unit can be found in the separate unit guides.
@@ -48,6 +68,12 @@ WJEC GCSE Computer Science consists of two units:
 | Unit 2 | Computer Programming           | On-screen examination based on a pre-released brief | 50%         |
 
 All units are compulsory.
+
+
+
+{5}------------------------------------------------
+
+
 
 ## Unit 1
 
@@ -81,6 +107,12 @@ The unit will be based on the following:
 
 Legal, social, ethical, environmental and professional dimensions and reference to the evolution of technologies will be integrated where appropriate into the above topics.
 
+
+
+{6}------------------------------------------------
+
+
+
 ## Unit 2
 
 The purpose of this unit is to:
@@ -111,6 +143,12 @@ Learners will require access to Python 3. The version of Python 3 required will 
 The materials will be released, written using the standard Python IDLE IDE and will use TKINTER library for graphical user elements.
 
 Centres may use an IDE of their choice for teaching programming knowledge and skills. However, learners are required to use the Python IDLE IDE version specified in the prerelease for the Unit 2 examination.
+
+
+
+{7}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -162,6 +200,12 @@ brief :
 
 80 marks
 
+
+
+{8}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -190,6 +234,12 @@ Each stem is used for a slightly different reason:
 | Learners should be aware of | When learners do not need to understand all aspects of the specified content in detail. Teachers should refer to Guidance for Teaching documents for further guidance on the depth and breadth to which this content should be taught.    |
 | Learners should understand  | When learners are required to demonstrate greater depth than straight identification or recall. For example, they can apply knowledge to familiar or unfamiliar contexts and can synthesise and evaluate information for a given purpose. |
 | Learners should be able to  | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques.                                                                                     |
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Command words
 
@@ -224,6 +274,12 @@ The following tables are not exhaustive but will give you a good idea of the com
 | Sort/Order                        | Arrange systematically.                                                                                                                                                                                  |
 | State                             | Express in clear terms.                                                                                                                                                                                  |
 
+
+
+{10}------------------------------------------------
+
+
+
 | Command words for application/demonstration of skills:   | Command words for application/demonstration of skills:                                                                                                          |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Command Word                                             | Requirements of response                                                                                                                                        |
@@ -253,6 +309,12 @@ The following tables are not exhaustive but will give you a good idea of the com
 | Make/Produce/Create                                      | To create/make/manufacture.                                                                                                                                     |
 | Modify                                                   | Make changes to give a new orientation to or to serve a new end.                                                                                                |
 | Perform                                                  | To carry out or execute a task, action, or activity.                                                                                                            |
+
+
+
+{11}------------------------------------------------
+
+
 
 | Place         | Put in a particular position.                                                                                   |
 |---------------|-----------------------------------------------------------------------------------------------------------------|
@@ -288,6 +350,12 @@ The following tables are not exhaustive but will give you a good idea of the com
 | Evaluate                                     | Judge from available evidence.                                                                                                                                                                     |
 | Examine                                      | Investigate closely.                                                                                                                                                                               |
 
+
+
+{12}------------------------------------------------
+
+
+
 | Insert            | Adding or placing new data or an object within an existing structure.                    |
 |-------------------|------------------------------------------------------------------------------------------|
 | Interpret         | Translate information into a recognisable form.                                          |
@@ -298,6 +366,12 @@ The following tables are not exhaustive but will give you a good idea of the com
 | Solve             | Obtain the answer(s) using a relevant or specified mathematical method.                  |
 | Suggest           | State a possible reason or course of action.                                             |
 | Support           | To maintain or advocate.                                                                 |
+
+
+
+{13}------------------------------------------------
+
+
 
 ## Mark Schemes
 
@@ -321,6 +395,12 @@ For short answer questions with a range of possible responses
 | 4          | (b)        | TCP and IP are two protocols that combine to allow communication between computer systems on a network. Name three items found in a TCP / IP packet.                                                                                                                                                                          |       |       |       |              |
 |            |            | Award one mark for each of the following, up to a maximum of three marks: • Source address • Destination address • Information which enables the data to be reassembled into its original form • Other tracking information • The data itself • A checksum that authenticates the data, i.e. checks it hasn't been corrupted. | 3     |       |       | 3            |
 
+
+
+{14}------------------------------------------------
+
+
+
 ## Levels based mark schemes
 
 For questions requiring extended responses
@@ -331,6 +411,12 @@ For questions requiring extended responses
 |      2 | 3-4 marks The candidate has: • shown some understanding of the requirements of the question and sound knowledge of the indicative content. Sound knowledge is defined as a response that provides three to four relevant detailed points from the indicative content • shown a line of reasoning which is partially coherent, largely relevant, supported by some evidence and with some structure • used mainly appropriate computer science terminology. |
 |      1 | 1-2 marks The candidate has: • shown limited understanding of the requirements of the question and superficial knowledge of the indicative content. Superficial knowledge is defined as a response that provides one to two relevant points from the indicative content • shown a basic line of reasoning which is not coherent, largely irrelevant with very little structure • used limited computer science terminology.                                |
 |      0 | 0 marks No attempt made or no response worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+
+{15}------------------------------------------------
+
+
 
 ## Important Dates
 

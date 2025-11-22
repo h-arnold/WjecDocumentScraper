@@ -1,14 +1,16 @@
+{1}------------------------------------------------
+
 ## FSC Teacher Open Days: New GCSE Wales Geography Curriculum/ Diwrnodau Agored Athrawon FSC: Cwricwlwm Daearyddiaeth TGAU Cymru Newydd
 
 <!-- image -->
 
-throughthecurriculumchanges,whatFieldStudiesCouncilcanofferyou,andtoexperience theleaminglocationsandteachingfirsthand.
+JoinusforateacheropendayatourWelshcentres,tofindouthowwecansupportyou throughthecurriculumchanges,whatFieldStudiesCouncilcanofferyou,andtoexperience thelearminglocationsandteachingfirsthand.
 
 Mon14,July202510:00-14:00
 
-BookthisopendaytoattendatRhvd-y-Creuau,NorthWales
+BookthisopendaytoattendatRhyd-y-Creuau,NorthWales
 
-Thu17.July202510:00-14:00
+Thu17,July202510:00-14:00
 
 BookthisopendaytoattendatMargamDiscoveryCentre,SouthWales
 

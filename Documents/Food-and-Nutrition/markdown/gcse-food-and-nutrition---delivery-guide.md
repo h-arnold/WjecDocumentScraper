@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Food and Nutrition
@@ -18,13 +20,31 @@ This Qualifications Wales regulated qualification is not available to centres in
 
 Made for Wales. Ready for the world.
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## SUMMARY OF AMENDMENTS
 
 |   Version | Description                                                                                                                                          |   Page number |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 |         2 | Set and marked by the centre corrected to Set by WJEC, marked by Centre . Please note there are two instances of this change (for Unit 2 and Unit 3) |             2 |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -41,6 +61,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Specification Stems .......................................................................................................4          |
 | Command words............................................................................................................5            |
 | Mark Schemes......................................................................................................................    |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## Aims of the Delivery Guide
 
@@ -75,6 +101,12 @@ The purpose of this unit is to:
 The purpose of this unit is to:
 
 - plan, prepare, cook and present food using appropriate skills and techniques.
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -114,6 +146,12 @@ Set by WJEC, marked by the Centre and moderated by WJEC. The assessment will fea
 
 The pre-released briefs, which will include several tasks, will be available via the WJEC Portal.
 
+
+
+{7}------------------------------------------------
+
+
+
 ## Assessment Objectives
 
 Learners must:
@@ -152,6 +190,12 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 3            | -     | -     | 5%    | 35%   | 40%     |
 | Overall weighting | 15%   | 30%   | 20%   | 35%   | 100%    |
 
+
+
+{8}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -182,6 +226,12 @@ Each stem is used for a slightly different reason:
 | Learners should be aware of | When learners need a basic knowledge of the specified content and this does not need to be taught in detail.                                                              |
 | Learners should understand  | When learners are required to demonstrate greater depth of knowledge and understanding, application of knowledge to contexts, and evaluation and analysis of information. |
 | Learners should be able to  | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques.                     |
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Command words
 
@@ -217,6 +267,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Sort/Order                        | Arrange systematically.                                                                                                                                                                                   |
 | State                             | Express in clear terms.                                                                                                                                                                                   |
 
+
+
+{10}------------------------------------------------
+
+
+
 | Command words for application/demonstration of skills   | Command words for application/demonstration of skills                                                                                                      |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Command Word                                            | Requirements of response                                                                                                                                   |
@@ -246,6 +302,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Present                                                 | Communicate in a way that can be clearly followed and understood.                                                                                          |
 | Propose                                                 | Suggest a course of action based on supported reasons.                                                                                                     |
 | Record                                                  | Obtain and store data and information.                                                                                                                     |
+
+
+
+{11}------------------------------------------------
+
+
 
 | Report        | To prepare a detailed account or statement about an event or a topic.                                           |
 |---------------|-----------------------------------------------------------------------------------------------------------------|
@@ -279,6 +341,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Recommend/Improve                            | To suggest as appropriate.                                                                                                                                                                         |
 | Reflect                                      | To consider thoughts, experiences, situation or issue.                                                                                                                                             |
 
+
+
+{12}------------------------------------------------
+
+
+
 | Review   | To consider something with the intention of making changes if necessary.   |
 |----------|----------------------------------------------------------------------------|
 | Suggest  | State a possible reason or course of action.                               |
@@ -305,6 +373,12 @@ For short answer questions with a range of possible responses.
 |------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|-------|--------------|
 | 2          | (c)        | List two rules to follow when cooking pasta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |       |       |       |              |
 |            |            | Award one mark for each correct rule listed, up to a maximum of two marks. Indicative content: • use a large deep pan that is large enough to cover the pasta in water. • make sure you have enough water in the pan to cover the pasta. • boil the water to a rolling boil before adding the pasta. • add salt/seasoning to the water to enhance the flavour/increase boiling point. • never cook pasta with a lid on the pan to allow excess starch to evaporate. • stir pasta in the water to stop it from clumping/sticking to the bottom of the pan. • make sure the pasta is 'al dente', firm to bite do not overcook. • drain the pasta fully once cooked in a colander and shake off excess water. | 2     |       |       | 2            |
+
+
+
+{13}------------------------------------------------
+
+
 
 ## Levels based mark schemes
 
@@ -335,6 +409,12 @@ Credit any other valid benefit which relates to the pasta in picture B.
 
 Credit any other valid advantage and disadvantage which relate to consuming wholewheat pasta.
 
+
+
+{14}------------------------------------------------
+
+
+
 | Band                                                                                        | AO2                                                                                                                                                                                                                                                                                                  | AO3                                                  |
 |---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | There are no band 4 marks for this assessment objective. 2 marks are awarded as for band 2. | Award 4 Marks An excellent response which demonstrates: • highly effective analysis which identifies relationships • includes a through explanation of each aspect.                                                                                                                                  | 4                                                    |
@@ -342,6 +422,12 @@ Credit any other valid advantage and disadvantage which relate to consuming whol
 | 2 A •                                                                                       | Award 2 Marks good response which demonstrates: detailed knowledge and understanding of the specific health benefits of eating wholewheat pasta. Award 2 Marks A basic response which demonstrates: • some analysis which identifies some relationships • includes some explanation of some aspects. |                                                      |
 | 1 A basic response • knowledge specific wholewheat                                          | Award 1 Mark which demonstrates: and understanding of the health benefits of eating pasta. Award 1 Mark A limited response which demonstrates: • minimal analysis with limited relationships identified • brief or no explanation.                                                                   |                                                      |
 | 0                                                                                           | 0 marks Response not credit worthy or not attempted.                                                                                                                                                                                                                                                 | 0 marks Response not credit worthy or not attempted. |
+
+
+
+{15}------------------------------------------------
+
+
 
 ## Important Dates
 

@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 <!-- image -->
@@ -14,13 +16,31 @@ Teaching from 2025 For award from 2027
 
 Made for Wales. Ready for the world.
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## SUMMARY OF AMENDMENTS
 
 |   Version | Description                     | Page number   |
 |-----------|---------------------------------|---------------|
 |         2 | Updated glossary of key terms . | 211-218       |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -42,6 +62,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Opportunities for embedding elements of the Curriculum for Wales..................................                                        | 203 |
 | Glossary of Key Terms for GCSE English Language and Literature ..............................                                             | 211 |
 
+
+
+{5}------------------------------------------------
+
+
+
 ## Introduction
 
 The WJEC GCSE English Language and Literature has been approved by Qualifications Wales and is available to all centres in Wales. It will be awarded for the first time in Summer 2027, using grades A* to G.
@@ -59,6 +85,12 @@ The principal aim of the Guidance for Teaching is to support teachers in the del
 - free online resources
 - Exam Results Analysis
 - Online Examination Review.
+
+
+
+{6}------------------------------------------------
+
+
 
 ## Qualification Structure and Summary of Assessment
 
@@ -102,6 +134,12 @@ Task A is a group discussion of 6-10 minutes based on the study of texts within 
 
 Task B is a creative non-fiction writing response informed by ideas and opinions gained from their reading of texts from Task A.
 
+
+
+{7}------------------------------------------------
+
+
+
 | Single Award                                                                                                                                                                                                        | Double Award                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Unit 4a (Single Award): Motivations Written Examination: Duration 1 hour 30 minutes 30% of the qualification 60 marks                                                                                               | Unit 4b (Double Award): Motivations Written Examination: Duration 1 hour 30 minutes 20% of the qualification 60 marks                                                                                                                                                                                                                                                                                                             |
@@ -110,6 +148,12 @@ Task B is a creative non-fiction writing response informed by ideas and opinions
 |                                                                                                                                                                                                                     | The assessment will comprise two tasks. Choice of tasks set by WJEC for Task A. Stimulus and additional poem for discussion set by WJEC for Task B. Both tasks marked by centres, moderated by WJEC. Task A is an extended response based on the study of a whole play by Shakespeare. Task B is a paired discussion based on the study of one 1600-1900 poem from the WJEC Anthology and the additional poem prescribed by WJEC. |
 |                                                                                                                                                                                                                     | Unit 6: Connections Written Examination Duration 1 hour 30 minutes 25% of the qualification 80 marks                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                     | Section A: questions requiring objective responses, short and extended responses based on two texts from the WJEC non- fiction anthology and one unseen text. Section B: extended response question (choice of one from two), non-fiction writing.                                                                                                                                                                                |
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Assessment objectives and weightings
 
@@ -148,6 +192,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Unit 6            | -     | -     |         |
 | Overall weighting | 50%   | 50%   | 100%    |
 
+
+
+{9}------------------------------------------------
+
+
+
 ## Double Award
 
 |                   | AO1   | AO2   | Total   |
@@ -161,6 +211,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Unit 6            | 12.5% | 12.5% | 25%     |
 | Overall weighting | 50%   | 50%   | 100%    |
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Possible Course Plans
 
 ## Double Award: Option 1 (2026/2027)
@@ -172,6 +228,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Spring 1 | Unit 1: Context and Meaning Text: Poetry anthology & supplementary poems • Understand and respond critically to a range of poetry • Supplementary poetry as unseen • Comparison skills      | Unit 5: Continuity and Change Text: Shakespeare play • Understanding Shakespeare • Essay writing skills / developing extended responses • Drafting / re-drafting / planning Unit 5 NEA Task A (Essay)   |
 | Spring 2 | Unit 3: Influence and Power Text: Non-fiction anthology • Understanding non-fiction texts • Oracy skills • Planning and organising work Sit NEA Task B (Group discussion) Revise for Unit 1 | Unit 6: Connections Text: Non-fiction anthology • Engaging with unseen texts • Making comparisons • Essays for exams                                                                                    |
 | Summer 1 | Unit 3/ Unit 1: Non-Fiction Writing Texts: Transcripts from Non-fiction anthology & additional texts • Writing skills • Planning / organisation skills Sit Unit 3 NEA Task b (Writing Task) | Revise exam texts and practise exam style questions.                                                                                                                                                    |
+
+
+
+{11}------------------------------------------------
+
+
 
 | Summer 2   | Unit 4b: Motivations Text: Prose / play • Understanding written texts • Consider the representation of characters, relationships and communities Engaging with 'motivations'   | Revise exam texts and practise exam style questions.   |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -185,6 +247,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Autumn 2 | Unit 3: Influence and Power Text: Non-fiction anthology • Understanding non-fiction texts • Oracy skills • Planning and organising work • Writing skills Sit Unit 3 NEA Task A (Group discussion) Sit Unit 3 NEA Task B (Writing Task) | Unit 5: Continuity and Change Text: Poetry anthology • Oracy skills: paired discussion • Reading skills: engaging with and responding to poetry • Planning for an effective discussion Sit NEA Task b (Paired Discussion) |
 | Spring 1 | Unit 2: Belonging Text: Novel • Understanding narrative fictional prose • Essay writing skills/ developing extended responses • Drafting/ re-drafting/ planning Sit Unit 2 NEA Task A (Essay)                                          | Unit 5: Continuity and Change Text: Shakespeare play • Understanding Shakespeare • Essay writing skills/ developing extended responses • Drafting/ re-drafting/ planning Sit Unit 5 NEA Task A (Essay)                    |
 | Spring 2 | Unit 2: Belonging Text: Novel (for oracy) • Research and planning for presentation • Oracy skills Sit Unit 2 NEA Task B (Individual Presentation)                                                                                      | Unit 4b and Unit 6: Writing Creatively Texts: Unit texts as required • Writing skills                                                                                                                                     |
+
+
+
+{12}------------------------------------------------
+
+
 
 | Summer 1   | Unit 1: Context and Meaning Text: Poetry anthology Exam Revision                                                     | Revise exam texts and practise exam style questions.   |
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -200,6 +268,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Spring 1 | Unit 4b: Motivations Text: Prose / play study • Understanding written texts • Consider the representation of characters, relationships and communities • Engaging with 'motivations'         | Unit 5: Continuity and Change Text: Poetry anthology • Oracy skills: paired discussion • Reading skills: engaging with and responding to poetry • Planning for an effective discussion Unit 5 NEA Task B (Paired Discussion) |
 | Spring 2 | Unit 4b: Writing Creatively Texts: stimuli texts as required • Descriptive techniques • Creating characters • Organising writing Revise for Unit 4b                                          | Unit 1: Context and Meaning Text: Poetry anthology • Understand and respond critically to a range of poetry • Unseen Poetry • Comparison skills • Writing skills                                                             |
 
+
+
+{13}------------------------------------------------
+
+
+
 | Summer 1   | Unit 3: Influence and Power Text: Non-fiction anthology • Understanding non-fiction texts • Oracy skills • Planning and organising work • Writing skills Unit 3 NEA Task A (Group discussion) Unit 3 NEA Task B (Writing Task)   | Unit 1: Context and Meaning Text: Poetry anthology • Understand and respond critically to a range of poetry • Unseen Poetry • Comparison skills • Writing skills   |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Summer 2   | Unit 6: Connections / writing skills Text: Non-fiction anthology • Engaging with unseen texts • Making comparisons • Essays for exams                                                                                            | Revision                                                                                                                                                           |
@@ -212,6 +286,12 @@ The tables below show the weighting of each assessment objective for each unit a
 | Autumn 1 | Unit 1: Context and Meaning Text: Poetry anthology • Understanding poetry • Writing about poetry • Comparison skills                              | Unit 3: Non-fiction anthology and oracy NEA Text: Non-fiction anthology • Understanding non-fiction texts • Oracy skills • Planning and organising work Unit 3 NEA Task A (Group discussion) |
 | Autumn 2 | Unit 1: Context and Meaning Text: Poetry anthology Skills: Writing creatively (fiction and non-fiction)                                           | Unit 3 Non-Fiction Anthology and writing NEA Texts: Anthologies as required • Writing skills • Planning/ organisation skills Unit 3 NEA Task B (Writing Task)                                |
 | Spring 1 | Unit 2: Belonging Text: Prose text • Understanding of the novel • Writing about a text • Reading skills • Essay skills Unit 2 NEA Task A (Essay ) | Unit 4a: Motivations Text: Drama text • Understanding written texts • Consider the representation of characters, relationships and communities • Engaging with 'motivations'                 |
+
+
+
+{14}------------------------------------------------
+
+
 
 | Spring 2   | Unit 2: Belonging Text: Prose Text • Oracy skills • Research skills • Planning skills Unit 2 NEA Task B (IRP)                                            | Unit 4a: Writing and Motivations Text: Appropriate stimuli texts • Writing skills • Creating characters • Planning / organisation skills                                                                |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -228,11 +308,23 @@ The tables below show the weighting of each assessment objective for each unit a
 | Spring 1 | Unit 2: Belonging Text: Prose text • Understanding novels • Writing about a text Reading skills • Essay skills                                                               | Unit 1: Context and Meaning Text: Poetry anthology • Understanding poetry • Writing about poetry • Comparison skills • Writing creatively (fiction and non- fiction)                         |
 | Spring 2 | Unit 2: Belonging Text: Prose text Skills: • Understanding novels                                                                                                            | Unit 1: Essay skills and unseen texts Text: Set texts as appropriate • Using quotations • Developing writing • Building an argument                                                          |
 
+
+
+{15}------------------------------------------------
+
+
+
 |            | • Writing about a text Reading skills • Essay skills Unit 2 NEA Task A (Essay )                                                                         | • Writing comparatively • Understanding context • Understanding motivation   |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Summer 1   | Unit 2: Belonging Text: Prose Text • Oracy skills • Research skills • Planning skills Unit 2 NEA Task B (IRP)                                           | Revision Exam texts re-cap: poetry anthology, chosen play                    |
 | Summer 2   | Unit 3: Non-fiction anthology and oracy NEA Text: Non-fiction anthology • Understanding non-fiction texts • Oracy skills • Planning and organising work |                                                                              |
 | Exam Entry | Unit 4 (Summer)                                                                                                                                         | Unit 1 (Summer)                                                              |
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Creation of Meaning
 
@@ -268,6 +360,12 @@ e.g. a boss and an employee interacting = formal; friends interacting = informal
 ## Speaker(s) - who?
 
 The speakers (or participants) will have different levels of status according to their background. This includes aspects such as their education, their social position, their age and experience, or level of expertise.
+
+
+
+{17}------------------------------------------------
+
+
 
 Participants can have an equal status where they have the same or similar backgrounds, or unequal status where one has a higher ranking because of things like their age, gender, role or position. The status of speakers influences the level of formality (register).
 
@@ -313,6 +411,12 @@ The situation of a spoken interaction depends on when and where it takes place. 
 - 2024: twenty-first century - contemporary topics; daytime/break
 - WHERE?
 - corridor between lessons - informal register
+
+
+
+{18}------------------------------------------------
+
+
 
 It's important to identify the situation because it will shape the lexical, stylistic and spoken choices in each spoken interaction.
 
@@ -362,6 +466,12 @@ Lectures usually have a single speaker (often an expert) who may read out a pre-
 
 TOPIC: subject specific e.g. freedom of speech, Shakespeare's tragedies, topical issues SITUATION: formal e.g. academic institutions, TV, radio, TED Talks, Reith Lectures PURPOSE: to inform (primary), persuade and entertain (secondary).
 
+
+
+{19}------------------------------------------------
+
+
+
 ## 4. Interviews
 
 Interviews have at least two speakers (often with a professional interviewer and an expert/eye-witness interviewee) who engage in a dialogue. The interaction may be based on some pre-scripted questions but will have elements of spontaneity that lead to wider less prepared speech. Both speakers aim to engage their target audience, but listeners do not usually participate (in a live context, they may show approval by clapping/cheering or disapproval by heckling). Interviews can be interpersonal because the speakers are engaging in a more direct and personal way.
@@ -395,6 +505,12 @@ SITUATION: formal e.g. televised football/cricket match, royal wedding, coronati
 Conversations are spontaneous dialogues where two or more speakers interact on topics of personal interest. All speakers will actively participate in the interaction, which will be based on shared knowledge and dominated by unplanned comments. The target audience is close and direct because interactions will usually be face-to-face - although phone calls between known participants have the same kind of tone. Conversations are often interpersonal because speakers are familiar with each other and talk about topics with a personal relevance.
 
 FORMALITY: semi-formal (acquaintances) to informal (friends and family) TOPIC: wide-ranging subject matter dependent on participants' interests SITUATION: semi-formal e.g. BBC 'The Listening Project', workplace rest breaks, unplanned meetings in public spaces vs informal e.g. home, social meeting places, clubs PURPOSE: to entertain.
+
+
+
+{20}------------------------------------------------
+
+
 
 7. Scripts: TV/film/plays
 
@@ -439,6 +555,12 @@ In this example, the DEFINITION on Card 1 matches the TERM/EXAMPLE on Card 2.
 
 The DEFINITION on Card 2 matches the TERM/EXAMPLE on Card 1.
 
+
+
+{21}------------------------------------------------
+
+
+
 ## ACTIVITY 1: formal and informal language (group oral; individual written response)
 
 1. Read the following extracts - they show the difference between formal and informal spoken language.
@@ -470,6 +592,12 @@ The DEFINITION on Card 2 matches the TERM/EXAMPLE on Card 1.
 - explain the reasons for the use of formal and informal language
 - support your points with carefully chosen examples
 - comment on the effect the speakers' choices have.
+
+
+
+{22}------------------------------------------------
+
+
 
 ## IDEA 2: genres (individual)
 
@@ -515,6 +643,12 @@ You may like to think about:
 
 Select appropriate examples to support your points.
 
+
+
+{23}------------------------------------------------
+
+
+
 ## Table 1
 
 | GENRE                               | SPEAKER             | AUDIENCE   | FORMALITY   | TOPIC                       | SITUATION         | PURPOSE                                                            |
@@ -525,6 +659,12 @@ Select appropriate examples to support your points.
 | Actors reading playscript aloud     |                     |            |             |                             |                   |                                                                    |
 | Breaktime chat with work colleagues |                     |            |             |                             |                   |                                                                    |
 | Travel vlog                         |                     |            |             |                             |                   |                                                                    |
+
+
+
+{24}------------------------------------------------
+
+
 
 ## Spoken Language Features
 
@@ -597,6 +737,12 @@ latch-on
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{25}------------------------------------------------
+
+
+
 ## [laughs] contextual information
 
 Transcripts will not always have every one of these features so the key that precedes each spoken text will be slightly different. In addition, examples for emphatic stress and increased volume should be changed to reflect each specific transcript. It's traditional to include the first example from a transcript in each case.
@@ -632,6 +778,12 @@ COMMENT: the overlaps here are cooperative because the speakers are affirming an
 
 A multi-speaker interaction where one speaker immediately follows another speaker's words without a pause or an overlap. This reflects a cooperative exchange where speakers know each other well, or where speakers are familiar with the genre (e.g. interviews).
 
+
+
+{26}------------------------------------------------
+
+
+
 ```
 e.g. S: Sophie M: Mia S I just spotted my seventy-year-old dad down there by the river = M = have you really ? Sophie's dad's out there = S = yay (1) he's made it he's (.) made it
 ```
@@ -657,6 +809,12 @@ Raised volume is marked on transcripts with capitalisation of a word. It can be 
 - 5 Syal (.) Bhaji on the Beach
 
 COMMENT: the raised volume in this extract has a literal function (increased volume so the narrator can hear when there is a physical distance between listener/speaker) and an emotive function (reflecting the family's excitement and enthusiasm on the rare occasion when they feel represented on television).
+
+
+
+{27}------------------------------------------------
+
+
 
 - e.g. right (.) why's no-one talking about what's actually going on? a THOUSAND MILLION PEOPLE who CAN'T LIVE where they live (1) that's what climate change means (.) I was brought up to say what's true and I'll tell you WHAT IT MEANS it means DEATH it's DISGUSTING
 
@@ -704,6 +862,12 @@ SPEAKER: a Green Party politician
 
 AUDIENCE: supporters of the Green Party
 
+
+
+{28}------------------------------------------------
+
+
+
 PURPOSE: persuasive (encouraging party members to continue supporting the party and its policies).
 
 COMMENT: the speaker wants to create an enthusiastic and uplifting atmosphere in order to engage the conference audience. The Green Party draws attention to the wide support it has by using emphatic stress on the noun public ( reinforced by the adjective majority ) and to important issues it supports (the noun railways , the initialism NHS , the adjective living ). This allows the speaker to build a feeling of shared goals with their audience. The sense of a supportive community is effectively enhanced by raised volume on the inclusive pronoun WE and on the interjection NO , which represents the party's strong antifracking commitment. Other examples of emphatic stress are used to mock and belittle other political parties for their views on fracking. Stressed nouns like fantasy and claims implicitly criticise the Conservative Party (colloquially referred to with the proper noun Tory ) for their promotion of fracking as a source of cheap gas. Stressed numerical references ( first , twice ) and the adjective shocked mock the Liberal Democrats (also referred to with an informal clipping) for their promotion of shale gas. Informal pronunciations of kinda sorta are stressed to mock the Labour Party's failure to make a firm decision on the issue because they don't want to offend their potential voters.
@@ -724,11 +888,23 @@ IDEA 1: transcript markings (groups/pairs; class)
 - Engage learners in a discussion of different interpretations and semantic effects.
 - Ask learners in pairs to read the opening of the Riz Ahmed speech [ll.1-11, Anthology transcripts: Diversity] and the celebrity interview [ll.1-13, Anthology transcripts: Relationships] and make notes on the speakers' use of spoken language features. They should identify key examples and be prepared to talk about the effects created.
 
+
+
+{29}------------------------------------------------
+
+
+
 ```
 ACTIVITY 1: audience engagement (class; individual written response) Read the two transcripts and answer the question below. Key (.) micropause (2) timed pause (in seconds) normal emphatic stress MONEY increased volume // overlapping speech = smooth latch-on Text 1: voiceover for a public information television advertisement shopping on the internet's just like normal shopping (2) it can save you time and MONEY too (3) but make sure you get a real address (.) not just a web address (1) a real phone number not just a mobile (.) and print a record of what you've ordered (3) if you don't know who's for real on the net (.) you might end up with virtually (1) nothing Text 2: the opening of an interview where a celebrity influencer asks a politician questions; it was posted on the influencer's YouTube channel I: influencer P: politician I hey mate (.) thanks (.) for coming to talk to us here (.) in the run up to the // budget P // pleasure I we're so grateful cos you must be (.) worn out (1) are you? P no busy but um (.) glad to be here = I = a lot of us feel that wha's happenin' in politics is that there's these (.) powerful people (.) that (1) really control things from (.) behind the scenes and don't know (.) about real life and for a lotta people that's // frustratin' it's a sense of wha's the P // mmm I POINT of even votin' P that that that's totally wrong = I = go on mate P we do know about things that happen in people's everyday lives (.) we do know about struggles with the cost of living (.) we do know about people's fears of climate change I go on mate you've gotta convince me (.) these are just WORDS Now answer the question below: Compare how the speakers in these texts use spoken language features to engage their target audiences. Before you start writing, think about: · where? - the situation · who? - the identity/status of each speaker · what? - the relevance of the topic · why? - the purpose. · how each speaker tries to engage their target audience · relevant examples to help you support your points.
 ```
 
 © WJEC CBAC Ltd. 2025
+
+
+
+{30}------------------------------------------------
+
+
 
 As you write, evaluate the impact of:
 
@@ -775,6 +951,12 @@ IDEA 3: listening to spoken interactions, summarising content and recognising sp
 - Discuss the features they record and the semantic effect they have.
 
 © WJEC CBAC Ltd. 2025
+
+
+
+{31}------------------------------------------------
+
+
 
 ACTIVITY 3: communicating information and retaining audience interest (paired annotation/presentation; individual written response)
 
@@ -826,10 +1008,22 @@ You should evaluate the similarities and differences between the texts. Think ab
 - the subject matter and language choices
 - the levels of formality
 
+
+
+{32}------------------------------------------------
+
+
+
 - the use of emphatic stress and raised volume
 - the function of the pauses
 - the relevance of the news for the target audience.
 2. How effective is each text in communicating information to the target audience?
+
+
+
+{33}------------------------------------------------
+
+
 
 ## Contexts/Pragmatics
 
@@ -878,6 +1072,12 @@ A: Alex
 - level of formality: low with informal pronunciation ( doin' , y'know , kinda , loadsa ) and colloquial word choices (the adjective super , the noun stuff , the adverb yeah , the acronym lol )
 - target audience: each other - close and known (no wider audience)
 
+
+
+{34}------------------------------------------------
+
+
+
 - purpose: informative and social
 - communicating information about the number of assignments, the subjects, approaches to work/tasks etc.
 - complete adjacency pairs (the conversation is all about catching up) - asking questions (ll.5, 10, 14) and getting answers (ll.6-8, 11-12, 16)
@@ -903,6 +1103,12 @@ The following transcript is taken from a 2011 First Minister's Question Time in 
 
 - 1 Pisa: an international test taken every three years by 15-year-old students around the world
 - 2   basket case: something regarded as useless or not fit for purpose (informal, a term of strong disapproval)
+
+
+
+{35}------------------------------------------------
+
+
 
 ## CONTEXT/PRAGMATICS: formal conversation
 
@@ -934,6 +1140,12 @@ Finally ask them to record the pragmatics noting down:
 
 - when and where spoken language takes place
 - the status of the speaker(s)
+
+
+
+{36}------------------------------------------------
+
+
 
 - the level(s) of formality
 - the speaker's relationship with the target audience
@@ -972,6 +1184,12 @@ You must use evidence from the texts to support your answer.
 You should think about:
 
 - when and where each commentary takes place
+
+
+
+{37}------------------------------------------------
+
+
 
 - the status of the speaker
 - the levels of formality - and whether they change
@@ -1015,6 +1233,12 @@ Write an article about the royal wedding using the headline 'Royal Wedding Splas
 
 Before you start writing your blog or article, think carefully about the pragmatics that will shape your language and style choices.
 
+
+
+{38}------------------------------------------------
+
+
+
 IDEA 3: creating a knowledge organiser (KO) (individual or pairs)
 
 Ask learners to create their own knowledge organiser focused on contexts/pragmatics. It should include key terms, definitions and examples, and there should be a section where the pragmatics of sample transcripts are explained. Examples could be taken from the Anthology transcripts or from transcripts studied in class.
@@ -1055,6 +1279,12 @@ The presenters in Text 1 and Text 2 use pauses and emphatic stress to engage the
 Write a response to the following question using the work you completed for your presentation:
 
 Compare the effect of each presenter's choices and evaluate which commentary you see as most effective?
+
+
+
+{39}------------------------------------------------
+
+
 
 ## Language Choices and Terminology Relevant to Mode
 
@@ -1098,6 +1328,12 @@ Speakers use verbal and non-verbal signals to show they are listening, to reflec
 
 Backchannel utterances are marked on a transcript as an overlap using // but the first speaker continues to talk and the conversation isn't disrupted.
 
+
+
+{40}------------------------------------------------
+
+
+
 This kind of interaction creates a cooperative spoken interaction because it shows the speaker that the listener is engaged and interested.
 
 The signals can be verbal (e.g. mmmm, yeah, right, uh-hhh, really, I see) or non-verbal (e.g. nodding, smiling, facial expressions showing shock, horror, relief etc.).
@@ -1131,6 +1367,12 @@ Speakers can also choose to exaggerate language differences - we call this diver
 
 Although most speakers code-switch, some people see it as a process speakers feel an obligation to change their language in order to conform and be accepted.
 
+
+
+{41}------------------------------------------------
+
+
+
 ## Interjections
 
 Words used to express emotions such as excitement, surprise, frustration, anger etc. They are associated with informal language and are used frequently in conversation. They are not part of the grammatical structure of a sentence and therefore stand alone.
@@ -1161,6 +1403,12 @@ When we speak, we are not always fluent - we hesitate, repeat ourselves unintent
 - no no : unintentional repetition that marks the speaker's change in direction (deciding to go to the park today rather than tomorrow).
 
 COMMENT: the speech in this extract seems hesitant and uncertain, reflecting the speaker's state of mind (represented by the emotive adjective phrases really fed up and kinda hard ). The hedging, timed pause and the micropause separating the preposition to from its verb explain signal how difficult it is to express personal feelings. The fillers ( um , er ) that mark thinking time add to the unsettled tone. However, the lack of micropauses after this suggests that, once the speaker has vocalised how they feel, it is easier to make plans. The absence of any grammatical sentence markers increases the pace and perhaps reflects the speaker's feelings of relief.
+
+
+
+{42}------------------------------------------------
+
+
 
 ## Standard English (SE) and non-standard English (NSE)
 
@@ -1198,6 +1446,12 @@ They can also change the topic - moving to something with no obvious links (perh
 - e.g.  A I loved that film
 - B hey have you done the science homework yet?
 
+
+
+{43}------------------------------------------------
+
+
+
 Speakers use linguistic markers as signals to alert other speakers of a new topic. These can be questions, informal discourse markers (e.g. hey, oh btw, speaking of ..., so), or topic closing signals (e.g. nothing more to say about that let's talk about ..., that's done now...).
 
 These shifts allow speakers to steer the conversation to topics of interest, to overcome awkward silences, to make a speaker feel comfortable, or to avoid conflict and maintain politeness.
@@ -1227,6 +1481,12 @@ COMMENT: as would be expected, the interviewer sets the topic and the guest answ
 COMMENT: Speaker B has longer turns and twice interrupts Speaker A - this suggests they are dominant. Although Speaker A sets the topic (last night's meal) and Speaker B answers, the response to the question is extended with little opportunity for Speaker A to join in. Speaker B cuts off Speaker A's second question about deserts and talks over Speaker A's request to join the group. There is little opportunity for engagement and Speaker B seems more interested in talking than in listening.
 
 Sample transcript: television sports interview [WJEC Anthology]
+
+
+
+{44}------------------------------------------------
+
+
 
 In this extract, presenter Peter Greaves interviews the actor Rob McElhenney on Sky Sports News. They talk about his relationship with the Wrexham Football Club, that he and Ryan Reynolds own.
 
@@ -1259,6 +1519,12 @@ SPOKEN FEATURES (terminology relevant to mode): the exchange is cooperative and 
 
 COMMENT: the interaction is cooperative and reflects a good relationship between equal participants. As a public performer, McElhenney's hesitant delivery is perhaps unexpected. It will make viewers feel, however, that he is no different to them - it is proof that he and Reynolds are really down to earth blokes and that he is speaking personally rather than as a Hollywood superstar.
 
+
+
+{45}------------------------------------------------
+
+
+
 The implied question gives McElhenney the opportunity to respond positively. Language with upbeat connotations such as the verb welcome and the noun promises emphasises this by stressing McElhenney's and Reynolds' good intentions towards Wrexham Football Club. The turn builds to a climax with the emotive coordinated noun phrase open eyes and full hearts , which conveys both their pragmatic approach and their personal commitment.
 
 ## Language Choices and Terminology Relevant to Mode - Teaching Ideas &amp; Activities
@@ -1288,7 +1554,19 @@ Make notes on the language choices, the key spoken features and the impact they 
 - 1 Madison Square Garden: a large indoor arena in Manhattan, New York City - famous as a boxing and wrestling venue
 - 2  Wembley Arena/O2: the two largest indoor arenas in London
 
+
+
+{46}------------------------------------------------
+
+
+
 <!-- image -->
+
+
+
+{47}------------------------------------------------
+
+
 
 ## IDEA 2: engaging with spoken interactions (class).
 
@@ -1333,6 +1611,12 @@ Pauses, stress and changes in volume or tone can convey emotions that are often 
 
 Teaching young people the skills they need to communicate is essential to close the gap between socially disadvantaged pupils and their peers.
 
+
+
+{48}------------------------------------------------
+
+
+
 Where teachers use types of spoken language that learners may not have experienced before, it has been shown through numerous studies that young people's academic success leaps forward. However, the benefits reach far beyond school. If young people can express themselves, it will help them develop good relationships. If they have the confidence to present in front of an audience, it will help them in an interview situation or even in their future careers.
 
 Learners need to know:
@@ -1373,17 +1657,23 @@ Each learner should then write their own reflective commentary:
 - analyse the examples you select using appropriate terminology
 - assess the effectiveness of your transcript in communicating the event you are describing.
 
+
+
+{49}------------------------------------------------
+
+
+
 <!-- image -->
 
 EMPATHY for listening and respect
 
 <!-- image -->
 
-toincludenon-verbal
+to include non-verbal
 
 ESTABLISHED PROCEDURES communication
 
-## The8 Fundamentals of Communication
+## The 8 Fundamentals of Communication
 
 <!-- image -->
 
@@ -1411,11 +1701,17 @@ TURN-TAKING to improve
 
 <!-- image -->
 
-self-regulationskills
+self-regulation skills
 
-PRACTICEIN NATURALSETTINGS toraiseconfidencefor different situations
+PRACTICE IN NATURALSETTINGS toraiseconfidencefor different situations
 
 <!-- image -->
+
+
+
+{50}------------------------------------------------
+
+
 
 ## Integrating Linguistic and Literary Approaches to Spoken Language
 
@@ -1453,6 +1749,12 @@ The approach should be appropriate to the task and text(s) set but, in all cases
 Spoken language can be presented in a written form in different ways according to the genre and the purpose. Learners need to be familiar with linguistic and literary techniques in order to analyse and evaluate characterisation through dialogue.
 
 In literary texts, writers use spoken language in playscripts and novels to present characters and develop relationships. Knowledge and understanding of spoken language can help readers appreciate how writers use linguistic and stylistic features to characterise, and the impact they have.
+
+
+
+{51}------------------------------------------------
+
+
 
 ## Spoken language in scripts
 
@@ -1498,6 +1800,12 @@ The language a novelist chooses may be formal and stylised or informal and conve
 
 - e.g. formal vs informal dialogue
 
+
+
+{52}------------------------------------------------
+
+
+
 Dickens' characters speak in a way that reflects their status and the period - he varies the style of the direct speech to highlight this.
 
 In this extract, Joe (a blacksmith and Pip's guardian) has come to London to visit Pip (a young man who has a mysterious benefactor).
@@ -1531,6 +1839,12 @@ Text 1: an extract from a television commentary on an Olympic boat race - it loo
 
 - A so we're inside six hundred metres now of the final of the men's boat race (.) and Great Britain are currently in second place (.) this is an incredible position (.) we need (.) a huge lift from the British (.) if they're gonna come back on the Australians (.) Australia through in first place (.) Great Britain are currently second (.) and in third place Slovenia (.) we're now moving to the dying part of the race (.) only five (.) hundred metres remain (.) it needs a huge huge push for the British crew to move from silver (.) into the gold medal position (.) and Tom James 1 knows (.) he has to give more (.) and the British crew want to give more (.) HERE they come (.) for the FINAL time
 
+
+
+{53}------------------------------------------------
+
+
+
 ## Glossary
 
 - 1  Tom James: a key member of the rowing team
@@ -1548,6 +1862,12 @@ H Head of Year B Billy
 COMMENT: the interaction is marked by frequent use of informal language because the Head of Year is trying to connect with Billy. By forging a meaningful relationship, the Head of Year can engage him with the serious underlying message - bad behaviour will have long term consequences and won't be tolerated. To help Billy understand the consequences, the Head of Year uses similes to make abstract concepts more physical, creating a visual image that will make sense to a younger student. The simile like a button like this self-destruct is designed to give a physical representation to the way Billy's behaviour explodes uncontrollably. It will be a familiar concept from video games and other popular media, and the Head of Year's emphatic stress on blows and the raised volume on BOOM focus Billy's attention on the dramatic image. The message is reinforced by the simile like a crystal ball that the Head of Year uses to help Billy understand that the consequences of his bad behaviour will affect more than his Year 7 lessons.
 
 The comments here focus on the literary techniques, but learners would need to draw on their linguistic and literary knowledge to explore the spoken interactions fully.
+
+
+
+{54}------------------------------------------------
+
+
 
 ## Integrating Linguistic and Literary Approaches to Spoken Language Teaching Ideas &amp; Activities
 
@@ -1592,6 +1912,12 @@ Ask learners what kind of approaches they could use for different questions. e.g
 ## OR
 
 - highlight the key messages and explore whether spoken and literary features are effective or not in communicating these to the audience.
+
+
+
+{55}------------------------------------------------
+
+
 
 ## ACTIVITY 2: Arguing a case (individual written response)
 
@@ -1667,6 +1993,12 @@ W
 
 Text 2: an extract from a television cookery programme presented by Mary Berry, who is well known for her clear explanations and her humour. In this extract, she demonstrates a recipe for a special occasion.
 
+
+
+{56}------------------------------------------------
+
+
+
 ## B: Mary Berry
 
 - B the smell coming up from this is absolutely lovely (3) then we'll need a little pepper (1) and salt (1) now aioli is French (.) mayonnaise with (.) garlic a lot of garlic (.) I've just  put one clove of garlic because I find when you press it all the juice comes out and I think that's plenty (.) don't be tempted to chop it cos you'll get big pieces in your teeth [laughs] (3) right the next thing (.) is (.) to cook the lobster tails here they are and they take no time to cook about five minutes all I need is boiling salted water (2) that's it (2) I want a delicate vegetable alongside so (.) tender asparagus is perfect like that [throws in a pot of boiling water] there we are (1) the lobster has had its five minutes (2) [takes lobster out of pot] look at that gorgeous (.) bright (.) pink lovely (2) now (.) that's too hot for me to handle (.) so just leave it (1) get on and do another job have you made the beds yet? [smiles at camera]
@@ -1690,6 +2022,12 @@ The extract below is taken from a speech delivered in 1873 by Susan B. Anthony. 
 - Look at lines 9-11. Pick out two words or phrases that the speaker uses to characterise the United States officer. Explain the effect these have on the target audience?
 - In line 6, the speaker uses the word 'fatherless' with emphatic stress. Identify the word class of 'fatherless' and explain the persuasive effect of Anthony's choice.
 
+
+
+{57}------------------------------------------------
+
+
+
 ACTIVITY 3: Evaluating transcripts (individual oral presentation)
 
 From the spoken texts you have studied, choose two short transcripts that have engaged you.
@@ -1699,6 +2037,12 @@ From the spoken texts you have studied, choose two short transcripts that have e
 You should explore some of the key features using appropriate linguistic and literary terminology. Provide examples to support the points you make.
 
 You may use brief notes but should remember that this is not a reading task. Your talk should last 4-6 minutes.
+
+
+
+{58}------------------------------------------------
+
+
 
 ## Successful and less successful responses
 
@@ -1733,6 +2077,12 @@ Characteristics of a less successful response:
 - lack of focus on the question
 - tendency to describe or summarise rather than analyse and evaluate.
 
+
+
+{59}------------------------------------------------
+
+
+
 ## Section 2: How Writers Create Meaning
 
 ## Genre Conventions
@@ -1758,6 +2108,12 @@ The narrative voice of a novel or poem reflects the way a story is told. Learner
 - create the narrator's voice
 - shape the tone and style of a text
 - influence the way readers respond to events and characters.
+
+
+
+{60}------------------------------------------------
+
+
 
 Learners can recognise a first person narrator in the writer's use of first person pronouns I (singular) or we (plural). In this case, the reader experiences the thoughts and feelings of the character firsthand because the narrator is a direct participant in the events. The approach is often personal and engaging - although the narrator cannot always be trusted.
 
@@ -1785,6 +2141,12 @@ You turn around and stagger through the arch. There are four vicious creatures i
 In this second person narrative, learners could comment on the writer's focus on a sequence of actions that guide the reader-narrator towards their next choice. As is typical of the genre:
 
 - the language is action-based with dynamic verbs e.g. turn around , back out , peer , step forward
+
+
+
+{61}------------------------------------------------
+
+
 
 - opponents are established with concrete nouns e.g. creature , beast
 - characterisation of the reader-narrator is developed through distinctive verb choices e.g. stagger (building on previous violent encounters)
@@ -1818,6 +2180,12 @@ The setting provides a backdrop to a story, play or poem. Learners can look for 
 
 - create fantastical worlds that offer an escape from reality.
 
+
+
+{62}------------------------------------------------
+
+
+
 Learners can assess the setting as:
 
 - a backdrop that is distinctive in terms of the period, the geographical location and the social context
@@ -1848,6 +2216,12 @@ Learners may also notice, however, Austen's implicit suggestion that Charlotte's
 
 In describing the setting, Austen emphasises that by marrying Mr Collins Charlotte has chosen financial security rather than love.
 
+
+
+{63}------------------------------------------------
+
+
+
 ## e.g. Frankenstein , Mary Shelley (1818)
 
 In this extract, Shelley describes the mood and atmosphere on the evening Frankenstein gives life to his creation. The setting creates a physical and emotional environment as a backdrop to what should be, after almost two years of work, an exciting and fulfilling moment in Frankenstein's career.
@@ -1873,6 +2247,12 @@ In this extract, learners could comment on language choices that describe the ph
 - emphasising the limitations of their dining room e.g. hedged adjective phrase fairly large
 - suggesting that everything is for show - the Birlings' lives are a performance of respectability and class e.g. good/solid (modifiers describing the furniture), substantial and heavily comfortable (modifiers describing the overall atmosphere)
 - symbolising the lack of family bonds e.g. negated modifiers not cosy and homelike .
+
+
+
+{64}------------------------------------------------
+
+
 
 Priestley's aim is to encourage the audience to form a critical impression of the Birlings' upper middle-class status. By the end of the play, the audience recognise the dining room setting as a metaphorical trap. Symbolically, it represents the unchanging and unsympathetic attitudes of Mr and Mrs Birling from which their grown-up children must escape.
 
@@ -1906,6 +2286,12 @@ The thematic reference to shame and self-consciousness signals this event as a t
 
 But Jack was shouting against Ralph. 'Bollocks to the rules! We're strong - we hunt! If there's a beast, we'll hunt it down! We'll close in and beat and beat and beat -!' He gave a wild whoop and leapt down to the pale sand. (Chapter 5)
 
+
+
+{65}------------------------------------------------
+
+
+
 In this extract, learners could comment on the way Golding uses Jack's actions and words to characterise him as increasingly powerful - for example, when he challenges Ralph and rejects the symbolic role of the conch. Jack's direct speech:
 
 - creates a hostile mood e.g. verb shouting
@@ -1936,6 +2322,12 @@ This device allows writers to convey attitudes - to characters and events in lit
 
 In the description of Mrs Bennet, Austen uses a satiric tone to establish her as a humorous caricature rather than a fully rounded character.
 
+
+
+{66}------------------------------------------------
+
+
+
 Mrs Bennet was a woman of mean understanding, little information, and uncertain temper. When she was discontented she fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news. (Chapter 1)
 
 In this extract, learners could comment on Austen's humorous tone as she catalogues the negative characteristics of Mrs Bennet's personality. She engages the reader with:
@@ -1962,6 +2354,12 @@ This extract is typical of autobiographical writing where the author aims to imm
 
 Unlike Angelou as she reflects on the experience, Maya fails to recognise the underlying racism in this encounter. Even so, learners could comment on it as an experience that begins her journey towards understanding because Angelou presents it as a moment of recognition. Maya:
 
+
+
+{67}------------------------------------------------
+
+
+
 - realises her grandmother is not crushed by what has just happened e.g. simple metaphor of Momma's face as a brown moon (Maya is 'enlightened' by her grandmother's reaction to the girls)
 - focuses on a physical element that is symbolic of the implicit lesson e.g. short simple sentence She was beautiful. (Momma has not been changed or undermined).
 
@@ -1986,6 +2384,12 @@ Although Duffy's poem is titled 'Valentine', her approach seems to be non-tradit
 - the final line of the stanza uses an emotive simile to parallel the 'unclothing' of an onion with the romance of a relationship.
 
 In drama, stage directions and the division of the text into acts and scenes provide structure for the audience. Learners can identify what will be on the stage, the physical appearance of actors as well as directions about their position, actions and how lines should be delivered. These help to structure the style of each performance on the stage.
+
+
+
+{68}------------------------------------------------
+
+
 
 ## e.g. Pygmalion , Bernard Shaw (1914)
 
@@ -2027,6 +2431,12 @@ HIGGINS:
 
 (Act III)
 
+
+
+{69}------------------------------------------------
+
+
+
 In these stage directions, Shaw describes Henry's arrival and gives the actors instructions (indicating their actions and how they should deliver their words). Learners could comment on:
 
 - Henry's entrance - suggesting his lack of manners e.g. adverb violently (he pays no attention to etiquette)
@@ -2050,10 +2460,22 @@ The structure of non-fiction writing depends on the genre of a text. Many will u
 
 I pitched my tent, boiled up my stove and sat with a hot drink watching the stars. There was no one around for miles. Inches from my feet, a dormouse - something I'd never seen here by daylight - was rooting around in the grass. It was as though I was not there. The longer I sat there, the more animals became used to my presence; soon rabbits began to emerge from their burrows and hop around my tent, their white tails giving their location away in the otherwise soupy black of night. [...]
 
+
+
+{70}------------------------------------------------
+
+
+
 | And so, from my elevated position, I waited for my favourite part of any wild camp to begin. Sunrise. Orange light beams began to permeate the clouds. The straw in the fields below looked like strands of gold; the high moorland that rose up in front of me was a palette of warm browns and yellows, wild and beautiful. As the sun grew stronger, clouds began to disperse and a veil of mist floated lazily above the ground. It was one of the most beautiful scenes I could have imagined, and I had it all to myself. [S2022, Unit 3 (edited)]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | How does the writer use structural and stylistic features to engage readers? In this extract, a first person narrator recounts a personal experience (opening) that leads into a more general explanation of the topic (closing) - the beauty of camping in the wild. Learners may comment on the following structural and stylistic features:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | • headline - large/bold font to attract attention; simple structure • one simple proper noun phrase - specific location • one post-modified noun phrase - identifying the topic • a positive and uplifting tone to engage readers e.g. the head word joy (hook) • enhanced by tone of freedom and excitement in connotations of wild (adjective functioning as a noun) • opening paragraph - emphasis on a personal experience (shared with readers) e.g. repetition of first person pronoun • simplicity of experience e.g. three coordinated simple sentences with dynamic verbs ( pitched , boiled up , sat ) • first sentence builds to climax with engaging image e.g. watching the stars • subject specific language e.g. pitched , tent • emphasis on isolation and the consequent richness of wildlife e.g. concrete nouns dormouse , animals , rabbits • closing paragraph - emphasis on natural beauty of landscape (encouraging readers to share writer's appreciation) • foregrounded conjunction to mark closing and final reflections e.g. And so • summative point focusing on personal response to sunrise e.g. favourite (emotive adjective) • non-grammatical sentence to focus attention on a specific moment e.g. Sunrise . • physical details - concrete nouns to help reader visualise scene e.g. straw, fields, moorland (landscape); sun, clouds, mist (weather) • rich colours to draw reader into positive experience e.g. Orange , gold (adjectives); warm browns and yellows (coordinated noun phrases) • parenthetical coordinated adjectives delayed until the end of the sentence for dramatic effect e.g. wild and beautiful (links back to the headline) • descriptive, poetic style - creating a distinctive narrative voice and engaging readers by bringing the scene to life through lexical choices |
+
+
+
+{71}------------------------------------------------
+
+
 
 - figurative language to convey a distinctive scene e.g. like strands of gold (simile creating a fairytale mood), a palette of ... (metaphor creating an image of the natural scene as a painting), a veil of mist floated lazily ... (metaphor creating something beautiful and leisurely from what could be perceived as unpleasant weather mist is not the head word, but in the post-modification).
 
@@ -2084,6 +2506,12 @@ In this extract, the reporter uses an emotive headline and opening paragraph to 
 - passive sentence to foreground emotive fact (number of patients affected) - typical of formality of genre, but also stylistic choice to engage reader
 - numerical references e.g. More than half , 4,000 registered patients (dramatic statistics)
 - reference to status figure - adds authority to report e.g. GPs
+
+
+
+{72}------------------------------------------------
+
+
 
 - medical register - formal tone for serious topic e.g. classed (definition), 'very deprived' (citation - diagnosis)
 - emphasis on serious local issues e.g. high rates of alcohol and drug problems , homelessness (emotive noun phrases to convey complexity of situation)  emotive language to convey gravity of the situation e.g. Increasingly (adverb), more crucial to their care than ... (comparative adjective phrase in emphatic position).
@@ -2130,6 +2558,12 @@ Daniel, a farmer in rural Wales, is struggling with loneliness after the death o
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{73}------------------------------------------------
+
+
+
 He walked through the gravestones to the church gate and looked out over the sweeping valley. Red kites lifted above him, scanning over the bursts of gorse and he walked out of the church and followed the bridleway along the wall. He touched as was his way the ancient stones with their atlas of lichen mapped across them, looked down at the wasting piles of grass cuttings tipped from the mown churchyard, the scattered sprays of plastic flowers lifted from their places, broke vases and tattered ribbons from long-decayed bouquets, strange colours that were unnatural and minutely carnival there somehow. He hardly registered the van that passed. Did not look up. He was looking at the still-wet earth from the grave on his hands.
 
 A place remembers, he thought. A place has to remember. [Part Four, chapter 2]
@@ -2151,6 +2585,12 @@ Eventually he is promoted from prey/not-prey to mate, because her behaviours are
 - how? (language choices)
 4. Report back to the class on your findings. Add any interesting points raised by other groups to your own notes.
 5. Use your notes to write a written response to the question below:
+
+
+
+{74}------------------------------------------------
+
+
 
 ## Compare the writers' use of narrative voice and tone. How does each writer use these approaches to engage the reader?
 
@@ -2184,6 +2624,12 @@ Text 2: opening stanzas of a twenty-first century poem, 'The End and the Beginni
 In this extract, the poet addresses the destruction war causes and its effect on the people left behind.
 
 After every war someone has to clean up. Things won't straighten themselves up, after all. Someone has to push the rubble to the side of the road, so the corpse-filled wagons can pass.
+
+
+
+{75}------------------------------------------------
+
+
 
 Someone has to get mired in scum and ashes, sofa springs, splintered glass, and bloody rags. [Conflict, WJEC Poetry Anthology]
 
@@ -2225,6 +2671,12 @@ In this extract, the first person narrator of the knight describes meeting a bea
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{76}------------------------------------------------
+
+
+
 I met a lady in the meads, Full beautiful - a faery's child, Her hair was long, her foot was light, And her eyes were wild.
 
 I made a garland for her head, And bracelets too, and fragrant zone; She looked at me as she did love, And made sweet moan.
@@ -2265,6 +2717,12 @@ DEL:
 
 I was too sick to go in. See, last night I slept on someone's floor and caught a chill.
 
+
+
+{77}------------------------------------------------
+
+
+
 | ENID:                                      | Don't lie to me, girl. You didn't go in because you have a argument with the manager and they tell you not to come back. Slight pause.   |
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | DEL:                                       | He talks to me as if I can't speak English.                                                                                              |
@@ -2276,6 +2734,12 @@ I was too sick to go in. See, last night I slept on someone's floor and caught a
 | DEL:                                       | You can't talk to me like that. I'm not some kid.                                                                                        |
 | ENID:                                      | Long as you living under my roof you will work. I don't want people saying we lazy.                                                      |
 | [ Leave Taking , Pinnock (1987) Scene Two] | [ Leave Taking , Pinnock (1987) Scene Two]                                                                                               |
+
+
+
+{78}------------------------------------------------
+
+
 
 ## IDEA 3: genre features for creative writing (pairs)
 
@@ -2326,6 +2790,12 @@ Write an extract from a novel where two characters are arguing about something t
 
 Before you start, think about the situation (e.g. time, place and location), the characters (e.g. age, relationship, social and cultural status, occupation etc.) and the source of their argument.
 
+
+
+{79}------------------------------------------------
+
+
+
 ## OR
 
 Text 1 creates a fantasy backdrop that draws readers into a world of enchanting fairies and bewitched knights.
@@ -2349,6 +2819,12 @@ When you have finished and proofread your writing, make notes that explain and e
 - select relevant evidence from your writing to support your ideas
 - analyse and evaluate your chosen evidence - explain how these features underpin meaning
 - comment on how your writing relates to the target audience, and how effective you think it is.
+
+
+
+{80}------------------------------------------------
+
+
 
 ## Contexts and Viewpoints
 
@@ -2383,6 +2859,12 @@ Autobiographical details about an author can help learners understand a text - f
 
 Learners would not write up this information in a 'paragraph of context' but could use it to support analytical points. In the comments below, embedded contextual information is highlighted in bold.
 
+
+
+{81}------------------------------------------------
+
+
+
 ## Extract 1
 
 The subsoil beneath the palm trees was a raised beach, and generations of palms had worked loose in this the stones that had lain on the sands of another shore. Roger stooped, picked up a stone, aimed, and threw it at Henry - threw it to miss. The stone, that token of preposterous time, bounced five yards to Henry's right and fell in the water. Roger gathered a handful of stones and began to throw them. Yet there was a space round Henry, perhaps six yards in diameter, into which he dare not throw. Here, invisible yet strong, was the taboo of the old life. Round the squatting child was the protection of parents and school and policemen and the law. Roger's arm was conditioned by a civilization that knew nothing of him and was in ruins. (Chapter 4)
@@ -2405,6 +2887,12 @@ e.g.  After the first kill in Chapter 4, the death of the sow in Chapter 8 is pa
 - purposeful language e.g. verb found suggesting Roger's intention - he is no longer restricted by the invisible yet strong protection of social institutions
 - brutal description with an emphasis on the intensity of Roger's actions e.g. prepositional phrase with his whole weight ; adverbials forward inch by inch
 - location of his spear suggests taboo boundaries no longer exist e.g. direct speech Right up her ass! (reflecting loss of innocence).
+
+
+
+{82}------------------------------------------------
+
+
 
 ## Extract 3
 
@@ -2434,6 +2922,12 @@ The cultural context of a text reflects the way that distinctive culture(s) at t
 - contemporary values and beliefs
 - lifestyle choices
 - distinctive behaviours or attitudes shared by groups of people.
+
+
+
+{83}------------------------------------------------
+
+
 
 For instance, learners could explore the interaction between the cultural heritage and values of the Caribbean-born Enid and her two British-born teenage daughters in Winsome Pinnock's play Leave Taking (1987):
 
@@ -2472,6 +2966,12 @@ Applying knowledge of literary conventions can enhance learners' reading of 'La 
 - distinctive structure e.g. quatrains with an ABCB rhyme scheme
 - distinctive style e.g. use of repetition, dialogue.
 
+
+
+{84}------------------------------------------------
+
+
+
 ## Period context
 
 The period in which writers produce their texts shapes both the content, style and structure. For instance, social expectations, political and cultural ideologies, life experiences all influence the way writers present and explore their material and the viewpoints they use. Learners do not need a detailed understanding of historical periods, but they should be able:
@@ -2503,6 +3003,12 @@ Learners could comment on:
 - Austen's positive lexical choices characterising Elizabeth's vitality - readers engage with this interpretation first e.g. crossing , jumping , springing (dynamic verbs); at a quick pace , with impatient activity (prepositional phrases)
 - focus on appearance - Austen leaves readers with a positive physical image e.g. tripling of noun phrases builds to a climax with the post-modified a face glowing with the warmth of exercise (negative adjectives weary , dirty come earlier).
 
+
+
+{85}------------------------------------------------
+
+
+
 Extract 2 : Mrs Hurst's viewpoint - negative lexical and stylistic choices (underlying criticism - readers encouraged to see things differently)
 
 'She has nothing, in short, to recommend her, but being an excellent walker. I shall never forget her appearance this morning. She really looked almost wild.' (Chapter 8)
@@ -2531,6 +3037,12 @@ Extract 2 : Mrs Hurst's viewpoint - negative lexical and stylistic choices (unde
 
 By beginning with the positive account of Elizabeth's cross-country walk, Austen is encouraging readers to see the Bingley sisters' judgemental attitudes as superficial. She uses their characterisation as an approach to satirising contemporary attitudes to women.
 
+
+
+{86}------------------------------------------------
+
+
+
 ## Socio-historical context
 
 The socio-historical context in which writers produce their texts influences the underlying ideologies and values of their writing. For instance, social, political and historical events and beliefs will underpin decisions about character development in literary texts, and about themes and content in literary and non-fiction texts. Learners need only a broad understanding of the socio-historical background to a text, but they should be able:
@@ -2556,6 +3068,12 @@ In literature, writers use characterisation, relationships between characters, a
 
 - Ralph is the natural leader because he has no desire to lead - he is fair-minded, prepared to listen to others, and has a strong sense of what is right
 - Jack is impulsive and controlling and feels it is his right to be the leader - he prioritises fun over practicalities, and rules by fear and bullying.
+
+
+
+{87}------------------------------------------------
+
+
 
 In An Inspector Calls , learners could consider how Priestley shows that the Inspector is in a position of power. As the dominant speaker, he:
 
@@ -2593,6 +3111,12 @@ Read the following extract from the fantasy novel Piranesi (2020) and then answe
 The writer Susanna Clarke creates a strange world in a maze-like House where there are halls full of huge statues and the sea tides come in and out.
 
 Piranesi is the first person narrator. He lives alone in the House except for his meetings with the mysterious person he calls the Other. As far as Piranesi knows, they are the only two inhabitants of this world. The Other requires Piranesi to help him find the "Great and Secret Knowledge" hidden in the House.
+
+
+
+{88}------------------------------------------------
+
+
 
 ## How does the writer convey the status of her two characters Piranesi and the Other in the extract below.
 
@@ -2636,6 +3160,12 @@ The Other hesitated for a moment. 'I take precautions,' he said carefully. 'Coul
 
 This was not very satisfactory but just then I did not have the energy or mental capacity to pursue it. I was too busy thinking about what I might have forgotten.
 
+
+
+{89}------------------------------------------------
+
+
+
 'From my point of view this is very worrying,' I said. 'Suppose I forget something important, like the Times and Patterns of the Tides? I might drown.' 'No, no, no,' said the Other soothingly. 'There's no need to worry about that. You never forget anything like that. I wouldn't let you go wandering about if I thought you were in the slightest danger. We've known each other for years now and in that time your knowledge of the labyrinth has grown exponentially. It's extraordinary, really. And as for the rest, anything important you forget, I can remind you. But the fact that you forget while I remember - that's why it's so vital that I set our objectives. Me. Not you. That's the third reason we should stick to our search for the knowledge. Do you see?'
 
 'Yes. Yes. At least ...' I was silent a moment. 'I need time to think,' I said. 'Of course. Of course,' said the Other. He patted me consolingly on the shoulder. 'We'll discuss it again on Tuesday.' (pp.67- 9, Kindle)
@@ -2662,6 +3192,12 @@ Text A is taken from an interview in The Guardian newspaper with Chris Packham. 
 ## Text 1: Human Rights
 
 Text B is an extract from the speech 'Is it a crime to vote?' given by Susan B. Anthony on the legal position of American women in 1873. It aimed to persuade people that women have a right to vote. Anthony was an American social reformer and feminist activist who played a key role in the American suffrage movement. In 1872, she was charged with breaking the law because she voted in an election. As a woman, she could not speak in court, so she used this speech (delivered in forty American towns) to spread her message before her trial began.
+
+
+
+{90}------------------------------------------------
+
+
 
 ## Text 2: Relationships
 
@@ -2712,6 +3248,12 @@ helps us to understand these texts.
 - select relevant quotations to support your points.
 - 3.
 
+
+
+{91}------------------------------------------------
+
+
+
 ## 4. Write a response to the following question:
 
 ## How does contextual information about period and genre help us understand a text?
@@ -2739,6 +3281,12 @@ Rode the six hundred.
 IV Flashed all their sabres bare, Flashed as they turned in air Sabring the gunners there, Charging an army, while All the world wondered. Plunged in the battery-smoke Right through the line they broke;
 
 Cossack and Russian Reeled from the sabre stroke Shattered and sundered. Then they rode back, but not Not the six hundred.
+
+
+
+{92}------------------------------------------------
+
+
 
 Text 2: extract from DNA , Dennis Kelly (2008)
 
@@ -2773,6 +3321,12 @@ In this extract, two teenagers are telling their friends how they bullied a boy 
 | JAN:       | you could tell he was scared                                                                                                                                                                                                                               |
 | MARK:      | oh, he was terrified, he was completely, but like you know, pretending, you know, pretending he's done it before, big man, pretending he's                                                                                                                 |
 | JAN:       | You know what he's like, he's                                                                                                                                                                                                                              |
+
+
+
+{93}------------------------------------------------
+
+
 
 Text 3: extract from a newspaper opinion column, Ossob Mohamud (2013)
 
@@ -2814,6 +3368,12 @@ The volunteer travel industry is thriving but there are better ways to combat po
 
 I recently came across an interesting article questioning 'voluntourism' and whether it does more harm than good. It reminded me of my own concerns with 'voluntourism' as an alternative to what most college students did on their vacations: spending idle time by the poolside. The university-organised trips sent students to spend a week volunteering in disadvantaged and povertystricken communities. This could take the form of teaching English at the local school, assisting in building new homes for residents, or environmental cleanups. Spread throughout the week there were also tourist trips and souvenir shopping. Although it had rewarding moments, I could never shake off the
 
+
+
+{94}------------------------------------------------
+
+
+
 feeling that it was all a bit too self-congratulatory.
 
 Voluntourism almost always involves a group of idealistic and privileged travellers who have vastly different socio-economic backgrounds from those they are meant to help. They often enter these communities with little or no understanding of the local history, culture, and ways of life. They presume that the community is poor and should be grateful for their help. This has led to volunteers behaving in a smug and patronising way. It raises the uncomfortable question of whether these trips are more for the selfsatisfaction of the volunteer than about helping poor communities. [S2018, Unit 2]
@@ -2847,6 +3407,12 @@ Loud music can make you feel great and be a great social experience, but it can 
 
 Inside the cochlea (the hearing organ that sits deep inside our ears), there are thousands of sound-sensors called 'hair cells'. When you're exposed to too much loud noise, hair cells become over-stimulated. Once this happens, they get fatigued and stop responding to sound. This can result in temporary hearing loss that you may recognise as dulled hearing - it can last from a few minutes to a few days.
 
+
+
+{95}------------------------------------------------
+
+
+
 ## Tips for listening to music safely
 
 Follow these simple tips to protect your ears, so you can continue to love music for years to come.
@@ -2879,6 +3445,12 @@ Beef is a significant source of protein, but rearing cattle uses valuable land i
 Insects already have a long history as foods in many places around the world. When you travel past the cosy borders of the UK you find that they are available in markets from Thailand to South Africa and across much of Central and South America. They command a high price in Mexico, where edible flies and ant eggs are highly prized.
 
 © WJEC CBAC Ltd. 2025
+
+
+
+{96}------------------------------------------------
+
+
 
 ## They are healthy
 
@@ -2922,6 +3494,12 @@ Describe a time when you visited somewhere interesting.
 - convey your viewpoint clearly
 - vary your language and style to engage the reader.
 
+
+
+{97}------------------------------------------------
+
+
+
 ## Language Choices and Terminology Relevant to Mode
 
 The terminology for analysing written language is familiar to teachers. This section will therefore focus on exploring a few examples to help learners recognise, analyse and evaluate key concepts. The key is in moving learners beyond feature-spotting to exploring the impact of a writer's linguistic and literary choices.
@@ -2963,6 +3541,12 @@ He went out meekly and while I dressed I thought that this would indeed make a f
 The dialogue in this extract characterises Mr Rochester and Mr Mason (and indirectly Antoinette) and marks a moment of conflict when Antoinette indirectly voices her dislike of Rochester and his indifference to her. It is significant that the reader does not hear her words, only Mason's report of them. Learners could comment on:
 
 - Rhys' use of the first person narrative to frame the dialogue, providing details about the context (e.g. The morning before the wedding ), and Rochester's actions (e.g.
+
+
+
+{98}------------------------------------------------
+
+
 
 finishing [ his ] first cup of coffee ; getting dressed) and state of mind (e.g. make a fool out of me , the rejected suitor jilted by this Creole girl - only worried about his reputation)
 
@@ -3033,6 +3617,12 @@ Palm.
 
 The dialogue in this extract characterises Mai and Enid's family at a significant moment dramatising a thematic clash between British culture (represented by Del and Viv) and Caribbean culture (represented by Enid and Mai). It starts in medias res, continuing a
 
+
+
+{99}------------------------------------------------
+
+
+
 conversation that Enid and Mai were having in the kitchen. This is then broadened by Viv's interest in the chickens and by the purpose of their visit. Learners could comment on:
 
 •
@@ -3069,6 +3659,12 @@ Wait ... Come
 
 ...)
 
+
+
+{100}------------------------------------------------
+
+
+
 - factual description (e.g. noun phrases half-man , half-goat ) set against expressive adjectives (e.g. exuberant ) and adverbs (e.g. slightly ) - two sides of Piranesi's character
 - suggestion that Piranesi may perceive the statue as a 'living' being - building characterisation e.g. interactive smiles , presses (present tense verbs), meant to tell me ... warn me (implied agency/intention)
 - imagined engagement in a world where he is isolated e.g. implied direct speech imperative warnings with exclamatory tone ( Quiet! , Be careful! )
@@ -3093,6 +3689,12 @@ The description in this extract establishes everyday kindnesses. It focuses on d
 ## Monologue
 
 A monologue is a long speech in a play delivered by a character, who may be addressing other characters, or may be alone on the stage implicitly addressing the audience. Writers use the extended turn to express a character's thoughts, emotions or reflections, providing insight into the character's point of view and developing key themes.
+
+
+
+{101}------------------------------------------------
+
+
 
 ## Sample text: play
 
@@ -3124,6 +3726,12 @@ The Inspector's monologue provides a thematic climax in Priestley's play because
 - the Inspector's authority - emphatic opening imperative (e.g. ... just remember this ) and assertive departure (e.g. walks straight out )
 - other characters' behaviour (conveyed by stage directions with no words spoken) reflecting the extent to which the Inspector's monologue has had an effect
 
+
+
+{102}------------------------------------------------
+
+
+
 - Sheila - feels guilt e.g. crying , adverb still (ongoing effect - Inspector's lesson won't be forgotten)
 - Mrs Birling - no evidence of guilt e.g. collapsed (feels only overwhelmed, exhausted)
 - Eric - feels guilt e.g. brooding (worried, aware that something bad has happened), desperately (adverb suggesting desire to change)
@@ -3154,6 +3762,12 @@ Text 3: poem (2014) This girl has won the right to be ordinary, wear bangles to 
 or the buzzing in it.
 
 'A Century Later' Imtiaz Dharker [Conflict, WJEC Poetry Anthology]
+
+
+
+{103}------------------------------------------------
+
+
 
 ## Text 4: speech written to be read aloud (1873)
 
@@ -3190,6 +3804,12 @@ Friends of the Earth, campaign group [Work and Sustainability, WJEC Non-fiction 
 A fearful man, all in coarse grey, with a great iron on his leg. A man with no hat, and with broken shoes, and with an old rag tied round his head. A man who had been soaked in water, and smothered in mud, and lamed by stones, and cut by flints, and stung by nettles, and torn by briars; who limped, and shivered, and glared and growled; and whose teeth chattered in his head as he seized me by the chin.
 
 Great Expectations , Charles Dickens
+
+
+
+{104}------------------------------------------------
+
+
 
 Text 9 : review of a TV documentary (2023)
 
@@ -3234,6 +3854,12 @@ never after look me in the face.
 Speak not, reply not, do not answer me; My fingers itch. 5  Wife, we scarce thought us bless'd
 
 That God had lent us but this only child; But now I see this one is one too much, And that we have a curse in having her. Out on her, hilding! 6
+
+
+
+{105}------------------------------------------------
+
+
 
 - 1  meant: intended as
 - 2  minion: a derogatory term for a woman
@@ -3284,6 +3910,12 @@ e.g. Write about a time when ...
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{106}------------------------------------------------
+
+
+
 How do you respond to the ideas and descriptive approaches in the texts?
 
 Analyse and evaluate each writer's use of description and the effect it has on you as readers.
@@ -3303,6 +3935,12 @@ In this extract, Thomas describes things that are happening in his life.
 I'm staying here with Caitlin Macnamara (whose writing on the envelope mother'll probably recognise) in a cottage lent to me by a man called Sibthorp. I suppose that I'm piling on the shocks and surprises in this very late letter, but I must tell you too that Caitlin and I are going to be married next week by special licence (I think that's what they call it) in the Penzance registry office. This isn't thought of - I've told mother about it many times - speedily or sillily; we've been meaning to for a long time, &amp; think we should carry it out at once. Everything will be entirely quiet &amp; undemonstrative, and neither of us, of course, has a penny apart from the three pounds which we have carefully hidden in order to pay for the licence. It may, &amp; possibly does, sound a rash and mad scheme, but it satisfies us and it's all we ask for. I do hope it won't hurt you.
 
 [Relationships, WJEC Non-fiction Anthology]
+
+
+
+{107}------------------------------------------------
+
+
 
 ## Text 3: a speech by Susan B. Anthony written to be read aloud (1873)
 
@@ -3329,6 +3967,12 @@ Ask learners in their groups:
 The world is charged with the grandeur of God. It will flame out, like shining from shook foil; It gathers to a greatness, like the ooze of oil Crushed. Why do men then now not reck his rod? Generations have trod, have trod, have trod; And all is seared with trade; bleared, smeared with toil; And wears man's smudge and shares man's smell: the soil Is bare now, nor can foot feel, being shod.
 
 And for all this, nature is never spent; There lives the dearest freshness deep down things; And though the last lights off the black West went Oh, morning, at the brown brink  eastward, springs Because the Holy Ghost over the bent World broods with warm breast and with ah! bright wings. Gerard Manley Hopkins
+
+
+
+{108}------------------------------------------------
+
+
 
 ## Like an Heiress (2020)
 
@@ -3371,10 +4015,22 @@ You should:
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{109}------------------------------------------------
+
+
+
 - analyse how you used language, structure and tone to engage the reader
 - select relevant evidence from your writing to support your ideas
 - evaluate your examples explaining how they underpin meaning
 - explore how your writing is relevant to the target audience and how effective your choices are.
+
+
+
+{110}------------------------------------------------
+
+
 
 ## Integrating Linguistic and Literary Approaches to Written Language
 
@@ -3412,6 +4068,12 @@ If the question asks learners to produce their own creative writing, their appro
 - using linguistic and literary knowledge to write effectively
 - making vocabulary and style choices that engage the target audience.
 
+
+
+{111}------------------------------------------------
+
+
+
 The approach should be appropriate to the task and text(s) set, but in all cases learners need to include knowledge of literary and linguistic techniques and to show clear engagement with meaning and impact.
 
 ## Analysing non-fiction texts using linguistic and literary approaches
@@ -3433,6 +4095,12 @@ What perplexed me was the almost casual nature of cannibalism in Vanuatu, its ev
 ## Extract 2: tourist board website
 
 This is an extract from the official North Wales tourist board website GoNorthWales. The writers promote North Wales as a desirable holiday destination, convincing readers to book a trip and visit. The approach is semi-formal with a clear emphasis on providing information in an engaging way.
+
+
+
+{112}------------------------------------------------
+
+
 
 ## What will you find in your North Wales wonderland?
 
@@ -3469,6 +4137,12 @@ How the genre influences the presentation
 | TRAVEL WRITING                                                                                                        | TOURIST BOARD WEBSITE                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | • aims to create a strong sense of place • uses description to engage and interest readers in new places and cultures | • aims to create a strong sense of place • uses description to convince readers that it's worth visiting North Wales |
+
+
+
+{113}------------------------------------------------
+
+
 
 ## How the purpose shapes the approach
 
@@ -3582,6 +4256,12 @@ Brilliant unspoiled,
 
 ,
 
+
+
+{114}------------------------------------------------
+
+
+
 •
 
 •
@@ -3646,9 +4326,21 @@ The language and style choices underpinning the presentation of place
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | • engaging tone - light-hearted approach e.g. takes 'shocking' topic and explores cultural ideology behind it with humour • strong sense of writer's voice - frequent references to writer e.g. me / I (first person pronouns); lack of understanding e.g. more pointless (critical attitude); humility - recognition that he isn't yet informed e.g. As far as I understand ... To find out ... • presentation of 'shocking' topic of cannibalism e.g. seems to lack meaning/significance ( casual nature ); emphasising how ordinary it is ( everydayness - creating noun from adjective); two opposing potential reactions - neither relevant in Vanuatu ( neither shame nor reverence , abstract nouns); emphasising what the writer sees as the reductive attitude in Vanuatu ( just a meal - adverb minimiser) • traditional anecdote: dramatic narrative approach e.g. adverb triumphantly ; dynamic verbs clubbed / chopped ; concrete nouns arm / leg ; noun phrase Good manners (ironic juxtaposition with sharing of body parts) • imagined anecdote - humorous approach by translating to US context - characters brought to life with direct speech • underlying message (second paragraph) - doesn't accept initial assumption but seeks to understand | • engaging tone - direct address to personalise e.g. pronoun you , determiner your (synthetic personalisation - addressing a mass audience as individuals to imply there is a relationship); exclamatory sentences; non-standard structures to mirror conversation e.g. Brilliant beaches. Thrilling scenery. • interactive reading experience e.g. varied sentence types with interrogatives ( What will you find ...? , Why not come ...? ); conversational imperatives ( Check out ... , Explore more ... ); adverb here (deictic) to foreground links; hyperlinks to other webpages • emphatic promotional language e.g. best, highest (superlatives); only (exclusive - better than other UK destinations) • presentation as unique/popular e.g. reference to Lonely Planet • implied disappointment if a visit is not made e.g. repetition of Why ...? (reinforced by foregrounded conjunction But ) and miss / miss out • some descriptive language to create a visual image e.g. the surf-fringed rocks, walled towns with castles ..., the unspoiled landscapes of ... • attracting a range of readers by juxtaposing culture and unexpected leisure experiences e.g. ancient culture and heritage/World Heritage |
 
+
+
+{115}------------------------------------------------
+
+
+
 | cultural difference e.g. belief that cannibalism must have meaning ( Clearly ... must , adverb/modal verb conveying certainty) BUT undermined ( at least , prepositional); decision to search for meaning ( to ask a cannibal ... might find a cannibal ... - humour).                                                                                                                                                                                                                                                                    | sites/bounce on trampolines in a deep cavern or surf a few rollers • impactful site name - imperative promoting North Wales as a holiday destination (often used to cheer on a person or team, especially in a competition) e.g. GoNorthWales .                                                                                                                                                                                                                                                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | In each case, the presentation of the place (Vanuatu/North Wales) is dependent on contextual factors such as genre, purpose and target audience since these dictate the writers' choices. Although both texts are non-fiction, the content, style and approach are different: in travel writing, the aim is to engage the reader through a descriptive and creative recount of a personal experience; in an official tourist board webpage, the aim is to persuade the reader to trust the company and purchase a holiday in North Wales. | In each case, the presentation of the place (Vanuatu/North Wales) is dependent on contextual factors such as genre, purpose and target audience since these dictate the writers' choices. Although both texts are non-fiction, the content, style and approach are different: in travel writing, the aim is to engage the reader through a descriptive and creative recount of a personal experience; in an official tourist board webpage, the aim is to persuade the reader to trust the company and purchase a holiday in North Wales. |
+
+
+
+{116}------------------------------------------------
+
+
 
 ## Integrating Linguistic and Literary Approaches to Written Language Teaching Ideas &amp; Activities
 
@@ -3684,6 +4376,12 @@ We lived on Second Street at the time, having moved only a few minutes' walk fro
 It reminded me of how she looked when ordering a Happy Meal for me at McDonald's. I insisted on the 'boys' toy' every time - a delightful, congenial bribe. My mother's discomfort requesting the toy was palpable, releasing a sort of shy giggle, slivers of shame peering through. Often they gave the girls' one anyway.
 
 At ten, people started addressing me as a boy. Having won a yearlong battle to cut my hair short, I started to get a 'thanks, bud' when holding the door for someone at the Halifax Shopping Centre. [Diversity, WJEC Non-fiction Anthology]
+
+
+
+{117}------------------------------------------------
+
+
 
 ## Extract 2: a letter (1937)
 
@@ -3721,6 +4419,12 @@ e.g. identifying word classes and explaining the effects; true/false statements;
 
 Atta wrote this poem to help school students think about their own backgrounds. Focusing on places, food and culture, it is a personal and intimate account of how we find ways to belong.
 
+
+
+{118}------------------------------------------------
+
+
+
 I come from shepherd's pie and Sunday roast Jerk chicken and stuffed vine leaves I come from travelling through my taste buds but loving where I live
 
 I come from a home that some would call broken
@@ -3742,6 +4446,12 @@ As I'd watched Momma put ruffles on the hem and cute little tucks around the wai
 Just thinking about it made me go around with angel's dust sprinkled over my face for days. But Easter's early morning sun had shown the dress to be a plain ugly cutdown from a white woman's once-was-purple throwaway. It was old-lady-long too, but it didn't hide my skinny legs, which had been greased with Blue Seal Vaseline and powdered with the Arkansas red clay. The agefaded color made my skin look dirty like mud and everyone in church was looking at my skinny legs.
 
 Wouldn't they be surprised when one day I woke out of my black ugly dream and my real hair, which was long and blond, would take the place of my kinky mass that Momma wouldn't let me straighten?
+
+
+
+{119}------------------------------------------------
+
+
 
 ## Text 3: I'm the King of the Castle , Susan Hill (1970)
 
@@ -3783,6 +4493,12 @@ Using linguistic and literary approaches, explore how far you agree with this st
 2. Annotate each text - how effective are they in conveying their message? You should identify how each writer presents their views on human rights and analyse the content and approach.
 3. Discuss your views on this subject and evaluate how the three texts influenced them. You should refer to the texts and the approaches each writer uses.
 
+
+
+{120}------------------------------------------------
+
+
+
 ## Extract 1: extract from a speech to the United Nations by Malala Yousafzai
 
 So here I stand, one girl among many.
@@ -3821,6 +4537,12 @@ Help our powerful movement grow even stronger - join Amnesty today.
 
 [Human Rights, WJEC Non-fiction Anthology]
 
+
+
+{121}------------------------------------------------
+
+
+
 Extract 3: extract from 'A Short History of Human Rights' posted on the American University of Minnesota Human Rights website
 
 ## Precursors of 20th Century Human Rights Documents
@@ -3853,6 +4575,12 @@ They should aim to choose texts with different contextual information so they ca
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{122}------------------------------------------------
+
+
+
 ## OR
 
 - the extract from the travel book (Text A, Wales and Global Contexts, WJEC Nonfiction Anthology)
@@ -3880,6 +4608,12 @@ You should think about the genre, the purpose, the approaches in each text, and 
 
 Extract 1 : infographic produced by the Carers Trust (see WJEC Non-fiction Anthology for readable version)
 
+
+
+{123}------------------------------------------------
+
+
+
 <!-- image -->
 
 [Relationships, WJEC Non-fiction Anthology]
@@ -3898,11 +4632,23 @@ https://carers.org/what-we-do-carers-stories/ayishas-story
 
 EITHER
 
+
+
+{124}------------------------------------------------
+
+
+
 Write a speech to be delivered to your Member of the Senedd persuading them to support young carers in Wales.
 
 ## OR
 
 Write an extract from a novel where a student is misunderstood at school because no one knows they are a young carer.
+
+
+
+{125}------------------------------------------------
+
+
 
 ## Successful and less successful responses
 
@@ -3938,6 +4684,12 @@ Written language questions will test learners' ability to use the approaches the
 - lack of focus on the question
 - tendency to describe or summarise rather than analyse and evaluate.
 
+
+
+{126}------------------------------------------------
+
+
+
 ## Section 2: How Writers Create Meaning
 
 ## Text Purposes - Not Text Types!
@@ -3956,27 +4708,33 @@ Examples of information writing might include: newspaper articles, instruction m
 
 <!-- image -->
 
+
+
+{127}------------------------------------------------
+
+
+
 ## Sample magazine article:
 
-TextCistakenfromthearticleExploringtheDifferencesBetweenMaleandFemale Friendships'which was published in the American magazine'Psychology Today'.
+TextCistakenfromthearticle‘ExploringtheDifferencesBetweenMaleandFemale
 
 ## Therecipeforafemalefriendship
 
-Femalefriendshipsthriveonintimacyandemotionalconnection.We,asfemales,wantto facecontact.Wewant tofeel emotionallyconnected andsupported.
+Femalefriendships thriveonintimacyand emotional connection.We,asfemales,want to facecontact.Wewant tofeelemotionallyconnected andsupported.
 
-Theresearchbehindtheimportanceoffemalefriendshipsisstrong.Accordingtoastudy esteem, and lend a listening ear. Our girl tribes are strong, and as a result, a solid and healthyfemale friendship issomething that everywoman canbenefit from.
+Theresearchbehind theimportance of femalefriendships is strong.According to a study between these femalefriends.Aswomen,we rely on each other to give advice,be a shoulder to cry on, be an emotional support system, hold and protect secrets,boost selfesteem, and lend a listening ear. Our girl tribes are strong, and as a result, a solid and healthy female friendship is something that every woman can benefit from.
 
-Theintimate,face-to-facerelationshipsbetweenwomenhavealottodowithoxytocin,the bondingor"lovepotion"hormonethatisreleasedduringchildbirthandnursing.Studieshave s It is believed thatoxytocin is the reasonwhy womenhave a natural "motherly instinct,"and isreleased,whichfurthercountersstress and producesa calming effect."
+Theintimate,face-to-facerelationshipsbetweenwomenhave a lot todowithoxytocin,the s response but also release oxytocin, which allows women to nurture and "tend and befriend." It isbelieved thatoxytocin is the reason why womenhave a natural"motherlyinstinct,"and asaresult,femalefriendships arebased onemotional intimacyand connection.When o
 
 ## Therecipeforamalefriendship
 
-aremoresharedactivity-based(playingbasketball,poker,orgolf,orwatchingafootball game)ratherthantheintimate,face-to-facerelationshipsthatwomenhave.
+Friendshipsbetweenmalestendtobemoretransactional.Mentend tovaluefriendshipsthat are moreshared activity-based(playingbasketball,poker,or golf,orwatching a football game) rather than the intimate, face-to-face relationships that women have.
 
-Mendonotfeel the desireorneed todiscuss every intimatedetail and change intheir life Bn considerthatpersonaclosefriend.
+Men do not feel the desire or need to discuss every intimate detail and change in their life with a male friend.They also do not feel the need to constantly stay in touch, as men can go l    s i
 
-Incontrast,ifawomandoesnotkeepinregular,closecontactwithoneofhergirlfriends, ended.Althoughmalefriendshipstendtobemoretransactionalandlessintimatethan tendnottoweartheiremotionsontheirsleeves,donotquestionthemotivesofothers,and donot feel pressureto disclosepersonal details and intimatesecretsto maintain their n sharingisone-sided.
+In contrast,if awoman does notkeep inregular,close contact with one of her girlfriends, shemost likelywill assumethefriendshiphasgrownapartorherfriend isnolonger interested in having a friendship withher,potentially even assuming the friendship has ended.Althoughmalefriendshipstend tobemore transactional andlessintimatethan tend not to wear their emotions on their sleeves,do not question the motives of others, and friendshipwith another male.On the contrary,femalesbond throughsecret sharing and edos sharing is one-sided.
 
-friends,researchshowstheyaremoreapttosharethemwithawife,girlfriend,sister,or otherplatonicfemalefriends.
+friends,researchshowstheyaremoreapttoshare themwithawife,girlfriend,sister,or other platonic female friends.
 
 ## Writing to persuade:
 
@@ -3984,33 +4742,47 @@ Persuasive writing aims to influence a reader and provide reasons for motivating
 
 Some examples of persuasive writing might include: speeches, advertisements, editorials, reviews.
 
+
+
+{128}------------------------------------------------
+
+
+
 ## Sample speech:
 
-Text Bis anextract from thespeech"Is it a crimetovote?'givenbySusanB.Anthony on the legalpositionofAmericanwomenin1873.Itaimedtopersuadepeoplethatwomenhavea right tovote.Anthonywas anAmericansocial reformer andfeministactivistwhoplayed a
+TextB is anextract from the speech"ls it acrime tovote?givenbySusanB.Anthonyon the legalpositionofAmericanwomenin1873.Itaimedtopersuadepeoplethatwomenhavea lawbecauseshevotedinanelection.Asawoman,shecouldnotspeakincourt,soshe used this speech(delivered in forty American towns) to spread her message before her trial began.
 
-Istandbeforeyouto-night,underindictmentfortheallegedcrimeofhavingvotedatthelast provetoyouthatinthusvoting,Inotonlycommittednocrime,but,instead,simplyexercised mycitizen'sright.[textomitted]
+I stand before you to-night, underindictment for the alleged crime of having voted at the last m books an unjust law, or to write there a new and a just one. The women, dissatisfied as they arewiththisformofgovernment,thatenforcestaxationwithoutrepresentation-that compelsthemtoobeylawstowhichtheyhavenevergiventheirconsent-thatimprisons andhangs themwithout a trial by a jury of theirpeers-that robs them,in marriage,of the e   sesnos
 
-booksanunjustlaw,ortowritethereanewand ajustone.Thewomen,dissatisfiedasthey arewiththisformofgovernment,thatenforcestaxationwithoutrepresentation-that andhangsthemwithoutatrialbyajuryoftheirpeers-thatrobsthem,inmarriage,ofthe s crowdedhouses,everynightofthewholeweekoftheWallaWallafair.Theeldestofthose outhislongfingersandclutchedsixdollarsoftheproceedsoftheexhibitionofthoseorphan cornersofourcities,iscompelledtopaytaxesfromherscantypittance.Iwouldthatthe women of this Republic, at once, resolve, never again to submit of taxation, until their right to voteberecognized.Amen.
+crowded houses,every nightof thewholeweekof theWallaWallafair.The eldest of those girls,who,but a few years before, were half starvelings in the streets. So the poor widow, whokeepsaboardinghouse,manufacturesshirts,orsellsapplesandpeanutsonthestreet corners ofour cities,is compelled topay taxesfromherscantypittance.I would that the women of this Republic, at once,resolve, never again to submit of taxation, until their right to voteberecognized.Amen.
 
-Allthepapersservedonmenotoneofthemhadafemininepronounprintedinit;but,to make themapplicabletome,theClerkoftheCourtmadealittlecaretattheleftof"he"and placed an"s"overit,thusmaking sheoutofhe.Then theletters"is"werescratched out,the littlecaretunderand"er"over,tomakeheroutofhis,andIinsistifgovernmentofficialsmay samelibertywiththemtosecuretothemselvestheirright to avoiceinthegovernment.
+All thepapersserved onmenot one of themhad afemininepronounprinted in it;but,to make them applicable to me,the Clerk of the Court made a little caret at the left of "he"and placed an"s"over it, thus making she out of he.Then the letters"is"were scratched out, the littlecaret under and"er"over,tomakeheroutof his,and I insist ifgovernment officialsmay thus manipulate the pronouns to tax, fine, imprison and hang women, women may take the same libertywith them tosecureto themselvestheir right to avoicein thegovernment.
+
+
+
+{129}------------------------------------------------
+
+
 
 ## Sample review:
 
-TextBistakenfromareviewof theChannel4TVdocumentary'RosieJones:AmIa R*tard?'.RosieJonesisawell-knowncomedianwhowasthesubjectofashocking documentarywhichexploreddisabilitytrolling.
+TextBistakenfromareviewof theChannel 4TVdocumentary'RosieJones:AmIa R*tard?'.RosieJonesis awell-knowncomedianwhowasthesubjectofashocking documentarywhichexploreddisabilitytrolling.
 
-Thecomedianrevealsthelevelsofableisthateshehastoputupwith-andhowfixingit is theresponsibilityofallofus.
+Thecomedianrevealsthelevelsofableisthateshehastoputupwith-andhowfixingit is theresponsibilityofallof us.
 
 <!-- image -->
 
-"saidtoChannel4,let'susethatword[r*tard]inthetitle,"sayscomedianRosieJonesin
+"I said to Channel 4, let's use that word [r*tard] in the title,"says comedian Rosie Jones in theintrotothispowerfuldocumentaryabouttheableistabuseshereceives."Andthen, hopefully,"sheadds,levellinghergaze atthecameraimploringly,asif tosay:now thatI've using [it] again."
 
-WeseeRosiewalkoutsidewithherheadphoneson,hervoiceoverexplainingthattheyarea toolsheusestodrownoutthedailyabuseshefaceswhilewalkingdownthestreet. Meanwhile,socialmediacommentsflashuponthescreen,illustratingthekindofhate speechsheisregularlygreetedwithonline:fromthedisgustingslur"youarearetard"tothe lessovert,butstillincrediblyoffensive，"windowlicker"and"thecrowddrenchedindribble". IsthereanyescapeforJones,youbegintowonder?Isthereasafeplaceforhertoexist?
+WeseeRosiewalkoutsidewithherheadphoneson,hervoiceoverexplainingthattheyarea toolsheusestodrownoutthedailyabuseshefaceswhilewalkingdownthestreet. Meanwhile,socialmediacommentsflashuponthescreen,illustratingthekindofhate speechsheisregularlygreetedwithonline:fromthedisgustingslur"youarearetard"tothe lessovert,butstillincrediblyoffensive,"windowlicker"and"thecrowd drenched indribble".
 
-Thereality isno,notreally-at least not whenableistabuse isnottakenseriously."Every shesays,asmorecommentsflashacrossthescreen,eachprogressivelymoreviolentthan Shepauses,visibly affected bythosewords,and says she still thinks about that message a lot.
+Therealityisno,notreally-at leastnot whenableistabuseisnottakenseriously."Every timeI'monsomething,therewillbeacommentaboutwhatIlooklikeorwhatIsoundlike," shesays,asmorecommentsflashacrossthescreen,eachprogressivelymoreviolentthan the last:"She should be in a cage", "[she] deserves to die" and, finally, a graphic rape threat. She pauses,visibly affected by thosewords,and says she stillthinks about that message a lot.
 
-n s n receives,andheshowsheralltheoffensiveremarksonherappearance,herspeech o to me,"she says sadly.
+This documentarypaints a sobering picture of what it is likeforJones asa disabled woman viciousnessoftheoutsideworld,forpeoplelikeJones,itseemsit'sjustanotherwayfor bullies toreach them.
 
-violationofitsrules,despitethoseveryrulesstatingthattheydon'ttoleratediscriminationon thegroundsofdisability.So,RosieJonesdoeswhatRosieJonesdoesbest-turnsasad situationintoabitoflightreliefcomedy.ShedeliversagiantcookietoTwitterHQinLondon, usingicingtoaskthesamequestionasthedocumentary's title,withherTwitterhandle @josierones.
+Weseehermeetarepresentativefromacompanythathasbeenfiltering thecommentsshe receives,andhe showsher alltheoffensiveremarksonher appearance,herspeech impediment and herdisability thattheyhavescreened.Dispirited,shegazes atthem."Every negativethoughtI'veeverhadaboutmyself,Icangoonlineandfindstrangerssayingitback to me," she says sadly.
+
+Shereports anabusiveTwitter comment andreceives an auto-responsesaying it isn't in violationof itsrules,despitethoseveryrulesstatingthattheydon'ttoleratediscriminationon thegroundsof disability.So,RosieJonesdoeswhatRosieJonesdoesbest-turnsasad situationintoabitoflightreliefcomedy.ShedeliversagiantcookietoTwitterHQinLondon, usingicingtoask thesamequestionasthedocumentary's tile,withherTwitterhandle @josierones.
 
 ## Writing to entertain:
 
@@ -4020,15 +4792,27 @@ Some examples of entertainment writing might include: novels, biographies, blogs
 
 Many texts may be written for more than one purpose. The primary purpose of an editorial, for example, could be to entertain or to persuade a reader, or indeed both of those purposes simultaneously. Learners should be encouraged to consider the purpose of each individual text in terms of the context of its production and the anticipated response from a reader.
 
+
+
+{130}------------------------------------------------
+
+
+
 Sample travel writing:
 
-TextAis takenfrom the non-fiction travel bookGetting StonedwithSavages:A Trip through and if there was one custom that defied my book learning, that confounded my understanding of human nature,it was cannibalism.
+Text A is taken from the non-fiction travel book Getting Stoned with Savages: A Trip through the Islands of Fiji and Vanuatu by J. Maarten Troost. Vanuatu has many peculiar customs, understanding of human nature, it was cannibalism.
 
-Until veryrecently,island life inVanuatuhasbeencharacterizedbya stateof endlesswar. This is where my struggle to understand cannibalismbegins,for no war seems more pointless to me than the kind traditionally waged inVanuatu.Typically,the men of a particular village ambushed the men of another village. The goal was to capture one man, who would then be triumphantly carried back to the attackers'village,clubbed,and chopped into pieces. Good manners dictated that an arm or a leg be sent off to a friendly village. Again here, I sputter in disbelief. Imagine receiving such a package."Oh, look, honey. Bob and Erma over in Brooklyn have sent us a thigh. So thoughtful. Of course, now you are obliged to reciprocate, and so you gather your friends and off you go, hunting for a man, and Erma, together with a note —Thinking of you.
+Until very recently,island life inVanuatu has been characterized by a state of endless war. This is where my struggle to understand cannibalism begins, for no war seems more pointless to me than thekind traditionallywaged inVanuatu.Typically,the men of a who would thenbe triumphantly carried back to the attackers'village,clubbed,and chopped into pieces. Good manners dictated that an arm or a leg be sent off to a friendly village. Again here,I sputter in disbelief. Imagine receiving such a package."Oh, look, honey. Bob and Erma over in Brooklyn have sent us a thigh. So thoughtful." Of course, now you are obliged to reciprocate, and soyou gather your friends and off you go,hunting for a man, and when you capture one, you will thoughtfully hack an arm off and send it along to Bob and Erma, together with a note —Thinking of you.
 
-What perplexed me was the almost casual nature of cannibalism inVanuatu,its everydayness.Asfar asIunderstood,therewasneither shamenorreverence attached to the eating of people.A body was just a meal. Clearly,there must be something more to it, or at least Ihoped therewas.Tofind out,I figured,Iwould have toaska cannibal.And if there was one island whereI thought I might find a cannibal, it was Malekula.
+What perplexed me was the almost casual nature of cannibalism inVanuatu,its everydayness.As far asIunderstood,there was neither shame norreverence attached to the eating of people.Abodywas just a meal.Clearly,there must be something more to it,or at least I hoped there was.To find out,Ifigured,I would have to ask a cannibal.And if there was one island where I thought I might find a cannibal, it was Malekula.
 
-My guide into the highlands was Rose-Marie, the nineteen-year-old daughter of Chief Jamino, the guardian of Botko. How hard could this trek be, I wondered, if my guide is Looking back, I can now say that the five hours it took to hike up to Botko were the most s ss
+My guide into the highlands was Rose-Marie, the nineteen-year-old daughter of Chief Jamino, the guardian of Botko. How hard could this trek be, I wondered, if my guide is but I figured everybody on Malekula carried a machete. It was the accessory of choice. Looking back, I can now say that the five hours it took to hike up to Botko were the most excruciatingly difficult five hours I have ever spent on my feet. We left shortly after dawn, following a well-travelled bush trail that meandered inland. As we climbed up the first of what would prove to be a seemingly endless series of steep hills,following a path evident only to Rose-Marie,whohacked our way forward with her machete,I pleaded for a break.
+
+
+
+{131}------------------------------------------------
+
+
 
 ## Text Purposes - Teaching Ideas &amp; Activities
 
@@ -4040,9 +4824,27 @@ Discuss text purposes with learners. Focus on persuade, inform and entertain but
 
 Taken from Text A WJEC GCSE English Language U2 Summer 2022
 
-<!-- image -->
+
+
+{132}------------------------------------------------
+
+
 
 <!-- image -->
+
+
+
+{133}------------------------------------------------
+
+
+
+<!-- image -->
+
+
+
+{134}------------------------------------------------
+
+
 
 ## Advertisement:
 
@@ -4056,7 +4858,19 @@ Text E WJEC GCSE English Language U2 Summer 2017
 
 Taken from Text B WJEC GCSE English Language U3 Autumn 2019
 
+
+
+{135}------------------------------------------------
+
+
+
 <!-- image -->
+
+
+
+{136}------------------------------------------------
+
+
 
 ## ACTIVITY:
 
@@ -4093,6 +4907,12 @@ Model how to select appropriate evidence and what they might say about it.
 Discuss approaches to avoid when looking at persuasive writing - e.g. spotting techniques without engaging with how they create meaningful, or straightforward description of content that does not demonstrate understanding.
 
 © WJEC CBAC Ltd. 2025
+
+
+
+{137}------------------------------------------------
+
+
 
 ## ACTIVITY:
 
@@ -4135,6 +4955,12 @@ You don't need lots of expensive equipment to go camping - all you really need i
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{138}------------------------------------------------
+
+
+
 ## Camping is fun
 
 The aim of camping is to have fun and leave the stress of your daily life behind. It is convenient and the best thing is that you can bring everyone you want with you, even your pet. You will learn lots of new skills while camping that you can share with your friends and family. Cooking even simple meals outdoors is also really good fun.
@@ -4165,6 +4991,12 @@ Here are our 8 top tips:
 4. Avoid excessive food packaging - A ridiculous amount of food is packaged in plastic, which quickly becomes rubbish. We can all try and cut down the plastic we use. Loose fruit and veg is also cheaper than prepackaged alternatives!
 5. Refill detergent bottle - Let's face it, washing products are not good for the planet and neither are the plastic bottles they come in. The good news is that there is an increasing number of places where you can refill your old bottles.
 
+
+
+{139}------------------------------------------------
+
+
+
 6. Say no to disposable cutlery - We've all been there - caught out in a cafe or at a train station when we've bought a salad or a yogurt but the only cutlery on offer is plastic! Whilst it's hard to plan for every opportunity, consider carrying a spoon or fork (or spork!) in your bag or keeping cutlery in your desk at work.
 7. Get your milk delivered - Although the early morning sound of a milk float is not as common as it used to be, there are still many places in the UK where you can get milk delivered in glass bottles - which are then collected and reused.
 8. Carry a shopping bag - Since the plastic bag charge was introduced in England, there's been a massive 85% drop in their use. Many of us are used to carrying an extra bag with us but a shocking 2 billion bags are still thrown away each year. If you still find it hard to remember, try a foldaway one that you can carry in your normal day bag.
@@ -4192,6 +5024,12 @@ Read one of the following extracts and follow these instructions:
 When Ronnie and the Hawks took to the stage the whole atmosphere changed. The audience, which had been lingering around chatting, now crowded the front of the stage. Suddenly you could taste something raw and authentic in the air. The band was all dressed in black and red outfits. When they exploded into their first song, 'Wild Little Billy,' the Hawk prowled the stage like a caged animal. His voice soared over Will Jones on piano, growling a primitive war cry as he cranked his arms in wild circles. Will was oblivious-he was living inside the music, chewing gum to the rhythm, sweat flying, eyes closed, head thrown back, hands pumping those ivories. Jimmy Ray on guitar poured on the rhythm. When he fired into a solo the Hawk had a chance to spin, flip, camel walk-the original version of the moonwalk-then tumble and land at Jimmy Ray's feet.
 
 Taken from Text E WJEC GCSE English Language U2 Summer 2023
+
+
+
+{140}------------------------------------------------
+
+
 
 ## Extract 2 (novel)
 
@@ -4227,6 +5065,12 @@ Read the following articles and answer the questions that follow:
 
 The volunteer travel industry is thriving but there are better ways to combat poverty than using the developing world as a playground
 
+
+
+{141}------------------------------------------------
+
+
+
 I recently came across an interesting article questioning 'voluntourism' and whether it does more harm than good. It reminded me of my own concerns with 'voluntourism' as an alternative to what most college students did on their vacations: spending idle time by the poolside. The university-organised trips sent students to spend a week volunteering in disadvantaged and poverty-stricken communities. This could take the form of teaching English at the local school, assisting in building new homes for residents, or environmental clean-ups. Spread throughout the week were also tourist trips and souvenir shopping. Although it had rewarding moments, I could never shake off the feeling that it was all a bit too selfcongratulatory.
 
 Voluntourism almost always involves a group of idealistic and privileged travellers who have vastly different backgrounds from those they are meant to help. They often enter these communities with little or no understanding of the local history, culture, and way of life. They presume that the community is poor and should be grateful for their help. This has led to volunteers behaving in a smug and patronising way. It raises the uncomfortable question of whether these trips are more for the self-satisfaction of the volunteer than the helping of poor communities.
@@ -4242,6 +5086,12 @@ The debate about 'voluntourism' - that ugly word - has reared its head again. Ev
 Recently Somalian blogger Ossob Mohamud wrote an article with the headline Beware the 'voluntourists' doing good. Mohamud clearly had a difficult volunteering experience but her insistence on drawing a wider social message from her own unsatisfactory trip is unfair and potentially damaging.
 
 Last summer I visited Uganda to report on the work of East African Playgrounds. The charity recruits British students to build play facilities and run sporting projects for primary school children. In just a few years it has grown to be self-sufficient, employing a team of young Ugandans as builders, to the point where the charity's British founders will soon be able to step back and let it run itself.
+
+
+
+{142}------------------------------------------------
+
+
 
 I witnessed the volunteers forming genuine friendships with the locals, developing emotional attachments to the children and truly caring about their futures. Cynics might say that when the volunteers return to Britain they leave the experience behind and life moves on. But for many, volunteering can be life changing.
 
@@ -4264,6 +5114,12 @@ Ask learners to consider the types of reviews they have read. What were the aims
 ## ACTIVITY:
 
 Research different types of review and find a structure and style that you think works well. Use it to write a review of a book, film or computer game that you feel strongly about.
+
+
+
+{143}------------------------------------------------
+
+
 
 ## Section 2: How Writers Create Meaning
 
@@ -4311,6 +5167,12 @@ Key terms for meaning:
 
 - explicit
 
+
+
+{144}------------------------------------------------
+
+
+
 - implied
 - implicit.
 
@@ -4345,6 +5207,12 @@ Technical or specialised jargon can be used in a text and making meaning more ch
 - reading without the word
 - reading in context
 - looking for familiar patterns in words.
+
+
+
+{145}------------------------------------------------
+
+
 
 ## Anthology Resource:
 
@@ -4385,6 +5253,12 @@ Give learners the following text and ask them to write their own questions. Pose
 - Who…?
 - What…?
 
+
+
+{146}------------------------------------------------
+
+
+
 - Where…?
 - Why…?
 - When…?
@@ -4419,6 +5293,12 @@ Learners to write own questions based on the text to ascertain understanding.
 - ask questions
 - chunk the text
 - redact non-essential information.
+
+
+
+{147}------------------------------------------------
+
+
 
 ## Topic sentences
 
@@ -4459,6 +5339,12 @@ Plastics are made from hydrocarbons which come from petroleum, a non-renewable r
 
 Text A is taken from an interview in The Guardian newspaper with Chris Packham. Chris Packham is a well-known TV presenter, photographer and naturalist. In this interview he talks about being autistic.
 
+
+
+{148}------------------------------------------------
+
+
+
 ## ACTIVITY:
 
 Packham's interview provides some thoughtful topic sentences which could be explored.
@@ -4493,6 +5379,12 @@ Look at the meaning of the individual words in the title of the extract: Sit dow
 4. How did they work out the meaning of the words? What strategies did they employ?
 5. Can they substitute the words for alternatives?
 
+
+
+{149}------------------------------------------------
+
+
+
 ## Sit down for breakfast, stand up for farmers!
 
 Fairtrade is not just about making sure food is ethically produced and safe to eat. It's about standing up for the people who produce our food. As Martin Luther King said, 'Before you finish eating breakfast in the morning, you've depended on more than half the world.' Even though farmers and workers produce the foods, drinks and products that we love, they are amongst the 795 million people who are undernourished globally. It's a scandal that the people who grow the food we take for granted can't always feed their own families. By changing to a Fairtrade breakfast, we can help farmers and workers to put food on the table for their own families. When people are paid a fairer price, they can have more control over their lives when times are hard and worry less about how they will feed their families. Whether it's the extra cash in their pockets or being able to expand their farms to grow more food to eat, Fairtrade means many farmers and workers are able to fulfil a basic human need - to put enough food on the table for the people they care about, all year round. Fairtrade products give us better tasting, environmentally friendly food. Will you help us get as many people as possible to eat a Fairtrade breakfast in your community during Fairtrade Fortnight?
@@ -4517,6 +5409,12 @@ Text D: diversity speech to the House of Commons (2017) The transcript below is 
 ## ACTIVITY:
 
 Riz Ahmed's speech offers some rich vocabulary choices and complex ideas. Set activities that prompt learners to explore word meaning in isolation but also start to build their skills for reading in context.
+
+
+
+{150}------------------------------------------------
+
+
 
 To prepare for language selection/quotation, set a range of questions where learners are asked to find a word or words that suggest:
 
@@ -4554,6 +5452,12 @@ Social media and the internet are making us more vain, but can this trend be rev
 
 What do Kanye West, Kim Kardashian, and Justin Bieber have in common? Inflated self-views, superficial personalities and shameless self-promotion. In that sense, they are just like millions of their Facebook and Twitter fans around the world, except successful. Welcome to the age of digital self-love, a world of unlimited bragging possibilities. Showing-off has never been easier and, ironically, more celebrated. Until the 90s, television provided an escape from reality by transporting viewers to the fictional universe of sitcoms and soap operas. Then came reality TV, which turned our attention back to ourselves by broadcasting the allegedly genuine lives of everyday people. In the past decade, social media has taken us to new territories of self-love by enabling everybody to broadcast their life and be the star of their own 24/7 show. Online exhibitionism and showing off have been at the core of every mega-successful app and website. It all began with MySpace, a directory for wannabe pop stars and DJs. Then came Facebook, the encyclopaedia of common people. YouTube gave everybody their own TV channel, Blogger and Tumblr made us all creative writers. Twitter brought in tons of followers and LinkedIn brings positive support - because who cares about our
 
+
+
+{151}------------------------------------------------
+
+
+
 faults? There is even a movement dedicated to preserving social media activity after people die. Vanity levels have been rising for decades. We are now more connected than ever, but also less interested in other people, except when it comes to finding out what they think about us. Needless to say, most social media users are not narcissistic. However, scientific studies have shown that the number of status updates, attractive selfies, check-ins, followers and friends, are all linked to vanity as is the tendency to accept invites from strangers, particularly when they are attractive. The reason is that vain individuals are much more likely to use social media to portray a desirable, though unrealistic self-image and broadcast their life to an audience. Sure, there's nothing wrong with seeking others' approval - a healthy identity actually depends on paying careful attention to what others think of us. When taken too far, however, the desire to be accepted becomes a relentless quest for approval, which undermines other people and impairs our ability to build and maintain happy relationships and successful careers.
 
 ## Taken from Text D WJEC GCSE English Language U3 Summer 201
@@ -4561,6 +5465,12 @@ faults? There is even a movement dedicated to preserving social media activity a
 TEXT D is adapted from the autobiography Sick Notes: True Stories from the GP's Surgery by Dr Tony Copperfield.
 
 My name is Tony Copperfield, and I'm an NHS doctor. Some days I could give up being a GP in a busy surgery just like that. Particularly on one of those days when I arrive to find that the computers have crashed, or one of the other doctors is off sick, or the flu season is kicking in, or the TV doctor this morning covered his/her backside by ending every piece of advice with, 'If you're really worried, see your GP', or the switchboard's on meltdown, or the visit book's on to its third page by 9.30am, or my first three patients each bring a list because, 'I don't come very often, doctor,' or there are no biscuits or coffee, or I'm constantly interrupted by phone calls, or I'm already late for the first of three meetings and I may not be feeling too well myself. Other days are just fine. So, I guess it's like any other job, except that the key aspects are perhaps more amplified: the frustration, the satisfaction, the distraction, the rewards and always lurking, ready to stab you in the back - the potential for disaster. One way of training for this job would be to try to do the Times crossword on a high wire while one person shouts at you and another hits you with a plank. Instead, we use a decade of medical school and constant ongoing training. There are about 41,000 of us. Mostly, we work in practices. Mine, consisting of five full time GPs, is pretty typical. So what about the job itself? We're contracted to provide family doctor services from 8am to 6.30pm, though the government has recently bullied us into providing 'extended hours' surgeries in the evenings and weekends for those too busy to be ill at conventional times. We also do some home visits - hence the 'visit book' above. Each GP has around 2,000 patients to look after, and we're the first port of call for whatever symptom you have. If it's an emergency we'll see you as soon as possible, and if you want a standard appointment it'll usually be within 48 hours if you don't mind who you see. Though we might appear cynical, we GPs are actually proud of our role. Here's how it works. The GP's knowledge is very broad but superficial, as opposed to the specialist's, which is narrow but deep. (Put simply, GPs know something about everything, while specialists know everything about something.) Combine these two skill-sets and you have an excellent system. GPs filter out the vast masses of people who are worried about their health, but are actually well, only allowing through the hospital gates the few who really do need further investigation. Patients are saved from unnecessary - sometimes dangerous tests, and hospitals are saved from unnecessary patients. It's a safe, sensible
+
+
+
+{152}------------------------------------------------
+
+
 
 and very efficient approach. There's more to the job than that, though. We're also experts at creating order from chaos. Patients often present multiple problems, in confusing ways, plus we have the disadvantage of seeing illness at its earliest and most perplexing stages. Factor in large dollops of patient anxiety, the usual, 'While I'm here, doctor' extra questions and our role as confidante together with the distraction of someone's child trying to pull the electricity cable out of my computer and you start to appreciate that being an NHS doctor can be a tricky job.
 
@@ -4586,6 +5496,12 @@ This text is taken from the introduction to 'John Whaite Bakes: Recipes for Ever
 I am unashamed to admit that I am a moody person. I don't mean that I sit there constantly grumping and cursing the world, but I am not a perpetually perky person. Some days I won't feel like getting out of bed because I battle with depression. What I have found, though, over the years, is that whether my mood is up, down or at some place in the middle, I bake. I bake because it is a comfort blanket, and because it is a form of artistic expression for me. I always joke that I was born with two left hands. I can't paint - even drawing a circle is tricky for me - but inside of me, there is an artist screaming to get out. Whenever I look back at the times when my whole family has been together for a celebration, there has always been a large amount of baking involved. When my granddad died, I baked. I baked because I didn't know what else I could do to support my mum and my family. So I did the thing that Mum had done for me throughout my life when I needed comfort, I made sure she was nourished. I believe that baking is nourishment for the soul as well as the body. I find that working my way through a recipe keeps me calm. Of course, there are also times when I bake simply because I am a greedy monster and need a slice of double chocolate cake, or something equally indulgent. It's important that we all treat ourselves to something delicious every so often.
 
 Taken from Text D WJEC GCSE English Language U2 Autumn 2017
+
+
+
+{153}------------------------------------------------
+
+
 
 ## ACTIVITY:
 
@@ -4623,6 +5539,12 @@ Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was t
 As soon as the light in the bedroom went out there was a stirring and a fluttering all through the farm buildings. Word had gone round during the day that old Major, the prize Middle White boar, had had a strange dream on the previous night and wished to communicate it to the other animals.
 
 © WJEC CBAC Ltd. 2025
+
+
+
+{154}------------------------------------------------
+
+
 
 It had been agreed that they should all meet in the big barn as soon as Mr. Jones was safely out of the way. Old Major (so he was always called, though the name under which he had been exhibited was Willingdon Beauty) was so highly regarded on the farm that everyone was quite ready to lose an hour's sleep in order to hear what he had to say.
 
@@ -4662,6 +5584,12 @@ What is the difference between quoted evidence and direct speech? Use the follow
 
 - how quoted evidence and direct speech are set out
 
+
+
+{155}------------------------------------------------
+
+
+
 - why we use direct speech
 - why we use quotations.
 
@@ -4693,6 +5621,12 @@ In the beginning, there was a hedgehog called Nigel. I can remember the exact mo
 One night, I had finished work at 4am. My only water source was outside, so I ventured into the night to clean my teeth. That was when I saw Nigel. He was snuffling around outside, and I recognised him immediately. I'd met him several weeks earlier during the tagging process, and was struck by his speed, so I named him after the racing driver Nigel Mansell. I watched him for several minutes, and when he wandered off, I followed. After about an hour, he came to a halt, and I lay down opposite him. And then something strange happened. He looked up at me, and seemed to notice me for the first time. I looked into his eyes. It was then that I got a sense of his genuine wildness. It's not something that you experience very often. And so began my love affair with these mysterious, beautiful creatures.
 
 Many people believe hedgehogs are abundant in Britain, but in 2007 they were added to the Biodiversity Action Plan (BAP), one of the most-respected reference sources on endangered wildlife. Their numbers have been decimated by approximately 30% since 2002 and nowadays their population in this country is estimated to be as low as one million. This is a huge problem. They are a gardener's best friend. They love eating slugs, caterpillars and beetles, vacuuming up unwanted invertebrates. We need them to help prevent the destruction of garden crops. The destruction of our landscape - through the replacement of hedgerows and fields with fences, roads and buildings - has
+
+
+
+{156}------------------------------------------------
+
+
 
 obliterated their natural habitat. If our countryside cannot support its wildlife then our countryside is sick.
 
@@ -4728,6 +5662,12 @@ Focus on how a response can be built.
 |         4 |           |              |                        |
 
 Learners should experiment with how they then present the information from the table in an extended paragraphed response.
+
+
+
+{157}------------------------------------------------
+
+
 
 ## Synthesising information
 
@@ -4773,6 +5713,12 @@ Discuss what a summary is and why it is important. Summary can be used as a spok
 
 Create a working definition of summary with learners.
 
+
+
+{158}------------------------------------------------
+
+
+
 Present a range of summative responses and explore which is most successful (most learners who use bullet points produce the most succinct summaries).
 
 The following tasks are an excellent way to explore and practise summary skills:
@@ -4790,6 +5736,12 @@ The Maeve Corrigan lifeboat met the first waves at the end of the sea wall doing
 
 Taken from Text E WJEC GCSE English Language U2 Summer 2022
 
+
+
+{159}------------------------------------------------
+
+
+
 TASK: Summarise why being a member of the RNLI is dangerous.
 
 This text is adapted from the autobiography 'Testimony'.
@@ -4803,6 +5755,12 @@ TASK: Summarise why the writer is mesmerised by Ronnie and the Hawks.
 Digital footprints: how social media can affect your job prospects
 
 Employers are stalkers. They know where you went to school, what you studied, what you watched on TV last night and the outfit you wore to a party last week. How? Because they look at your social media when you've applied for a job - and that's unlucky for some learners because whatever you put onto the internet can be found within minutes. This has resulted in the fact that for many learners their social media profile has become their new CV. So what impact can this have on your chances when you've applied for a job? How can you minimise the visibility and damage of your 'digital footprints'? Let's start with why employers look at your online presence - isn't your CV enough? Well, there are several good reasons including seeing if you'd fit in with the culture of the team and workplace. It also helps them to check if your qualifications match what is on your CV. In one survey, it was revealed that: '47% of employers check social networking sites to screen prospective employees immediately after receiving their job application'. It helps them to build a clear picture of what you are like. It's not all bad news. 68% of employers have hired a learner because of something they saw about them on a social networking site, but it's still risky to assume your social media is in line with what the employer wants. With this in mind, it's worth thinking about what sort of impression your social media profiles create. Whilst the odd swear word, spelling mistake or photo of you messing about won't concern most people, you need to bear in mind the image your profile generates. Some employers will be turned off by profiles that have excessive swearing, updates during work hours, controversial opinions or personal attacks. Taken from WJEC GCSE English Language U3 Summer 2023
+
+
+
+{160}------------------------------------------------
+
+
 
 TASK: Summarise why it is important to protect your digital footprint.
 
@@ -4825,6 +5783,12 @@ Text D is taken from an article in The Guardian newspaper about what it means to
 3. Try to remove any non-essential words from your summary.
 4. Compare your summary to others in your class and see if you have omitted any key details.
 5. Write down three tips that could help someone when producing a summary.
+
+
+
+{161}------------------------------------------------
+
+
 
 ## Section 3: How I Create Meaning in Speaking and Writing
 
@@ -4868,6 +5832,12 @@ Re-write a casual dialogue between two friends complaining about their jobs into
 
 "After much reflection, I have concluded that my contributions to the company are not sufficiently recognised. This lack of acknowledgment has led me to a point of disillusionment, prompting my decision to seek other opportunities."
 
+
+
+{162}------------------------------------------------
+
+
+
 ## Role-Playing Characters in Different Registers
 
 After studying a dramatic text or novel, ask learners to role-play characters from the text you have been studying in a different register (e.g. transforming a formal court scene into an informal chat, or changing an informal exchange into a more formal setting).
@@ -4904,6 +5874,12 @@ Once done, ask learners to reflect on these questions and annotate their own pie
 
 - What changes were made to fit a more formal audience?
 
+
+
+{163}------------------------------------------------
+
+
+
 - How did you adjust the language to make it more appropriate for an assembly compared to a casual chat?
 
 This is the opening of a speech given by a learner studying Pigeon English.
@@ -4930,6 +5906,12 @@ But most importantly, being Welsh is about celebrating our differences. We're a 
 Now ask learners to re-draft this piece for a formal audience. They should pay close attention to making changes to the vocabulary and tone of the piece.
 
 Once done, learners can either annotate their changes explaining why they made them and the effect of these changes OR they could switch with a partner and carry out this task.
+
+
+
+{164}------------------------------------------------
+
+
 
 ## Practise Code-Switching Scenarios: Responding to Situational Shifts
 
@@ -4995,11 +5977,23 @@ Penny : Will do, sir. Thanks!
 
 (Mr. Thomas walks away)
 
+
+
+{165}------------------------------------------------
+
+
+
 Dylan : [sighing, back to informal tone] That was close. I haven't even opened the book yet.
 
 Penny : [laughing] Me neither. Let's get through this quickly so we can chat after!
 
 Sort the learners into pairs. One learner gives a formal speech on a topic (e.g. a school assembly speech on environmental issues). The other learner plays the role of an audience member, interrupting with informal questions or comments. The speaker must adjust their tone and register to respond appropriately.
+
+
+
+{166}------------------------------------------------
+
+
 
 ## Key Points:
 
@@ -5043,6 +6037,12 @@ Have learners build a diagram developing the character's situation and behaviour
 
 ## In Extended Responses: Sustaining and Developing Ideas
 
+
+
+{167}------------------------------------------------
+
+
+
 ## e.g. Central Character: Elena Rossi
 
 1. Physical State:
@@ -5080,6 +6080,12 @@ In creative writing, it is not uncommon for learners to miss opportunities to de
 Elena Rossi sat back in her chair, surveying the half-complete mood board scattered with fabric swatches and sketches. She pressed her fingers to her temples, trying to shake off the persistent throb of exhaustion that clung to her thoughts. The once-promising palette of muted blues and soft golds now seemed dull under the harsh glare of the desk lamp. Sighing, she reached for the coffee cup by her side, but the cold dregs were a disappointment.
 
 Her eyes darted back to the drawings. The layout felt wrong, cluttered-no harmony, no flow. She rose from her chair, stepping around the scattered cushions and floor samples strewn across the studio floor. In the dim light, the velvety green armchair she'd selected earlier in the day gleamed faintly, a small victory in the chaos of indecision. Elena sank onto it, breathing in the faint scent of fresh wood and new fabric. The warm tones of walnut shelves beckoned her to reconsider their placement. Perhaps if she just moved that chaise a few inches...
+
+
+
+{168}------------------------------------------------
+
+
 
 With a final glance at the clock, ticking past midnight, she knew she couldn't leave it like this. Not yet. Not tonight. Slowly, she bent down and retrieved the paintbrush, her mind already fixing on where the first stroke would go.
 
@@ -5137,6 +6143,12 @@ A group of Year 10 learners hanging out in the school courtyard before lessons o
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{169}------------------------------------------------
+
+
+
 ## Actions:
 
 - Slow movements: casually finishing their conversations.
@@ -5188,6 +6200,12 @@ Then ask learners to continue by expanding their plans.
 
 Ask learners to build their argument by layering different types of evidence (e.g. factual data, expert quotes, case studies). After presenting each piece of evidence, they must explain how it strengthens their argument and connect it back to the thesis.
 
+
+
+{170}------------------------------------------------
+
+
+
 Write a letter to a local newspaper explaining how those in power can use their influence to make a positive difference in society or in their community.
 
 Provide learners with evidence they can use for one line of argument. They should then explain how it would strengthen their argument.
@@ -5230,6 +6248,12 @@ In pairs, learners will exchange letters and review each other's use of evidence
 
 Blended Learning resources: Developing Detail
 
+
+
+{171}------------------------------------------------
+
+
+
 ## Key Points:
 
 - learners should understand that the organisation and structure of ideas are essential for creating clear, logical and effective communication, both in speaking and writing
@@ -5261,6 +6285,12 @@ Introduce the idea of a "plot arc" (introduction, rising action, climax, falling
 
 ## Organisation and Structure of Ideas
 
+
+
+{172}------------------------------------------------
+
+
+
 This example can be used to model the plot arc structure in Pride and Prejudice , or you could ask them to map out the plot arc for the text they've studied.
 
 | Introduction   | The Bennet family is introduced, and Mrs. Bennet is obsessed with marrying off her daughters. Elizabeth meets Mr. Darcy at a ball, and he immediately insults her.          |
@@ -5283,6 +6313,12 @@ Provide learners with an essay question based on a literary text they've studied
 ## Or,
 
 Provide learners with a Venn diagram to brainstorm similarities and differences between two literary works (this works for the poetry and non-fiction comparisons). Then, ask them to write a comparative essay, using their brainstormed ideas to create clear paragraphs that focus either on one work, or on one theme across both works. Encourage them to use linking words and phrases to compare and contrast effectively.
+
+
+
+{173}------------------------------------------------
+
+
 
 ## Activity 2
 
@@ -5336,6 +6372,12 @@ Then, in pairs, learners exchange their essay drafts and review each other's top
 
 A similar activity can be carried out when learners are writing non-fiction texts or preparing for spoken language presentations.
 
+
+
+{174}------------------------------------------------
+
+
+
 Here is a paragraph plan for a speech on what it means to be Welsh with example topic sentences.
 
 ## 1. Introduction:
@@ -5372,6 +6414,12 @@ Whilst reading the text, ask learners to write a brief summary of the content of
 
 After writing the main points of their speech, ask learners to focus on the transitions between sections. Have them practice moving smoothly from one idea to the next, using phrases like 'furthermore,' 'as a result,' and 'on the other hand.' Then, ask them to rehearse their speech in small groups, paying attention to how the transitions help the speech flow.
 
+
+
+{175}------------------------------------------------
+
+
+
 Use the opening two paragraphs of a speech to help learners understand the importance of transitions in moving smoothly from one idea to the next. The following speech is missing transitional phrasing:
 
 The Eisteddfod has been a cornerstone of Welsh cultural identity for centuries. It began as a medieval gathering of poets and musicians, a tradition that has evolved into a national celebration of the arts. The event fosters a sense of unity, bringing together people from all over Wales to celebrate their shared heritage through music, poetry, and performance. It provides a platform for individuals to express their talents and connect with their cultural roots in a way that few other events do. The Eisteddfod not only preserves the Welsh language but also promotes the value of creativity and artistic expression in modern society.
@@ -5401,6 +6449,12 @@ Including phrases like "firstly," "another significant point," or "to conclude" 
 Using parallel structures like "It is not just about tradition; it is about innovation" can help make the argument more memorable and emphasise contrasts or developments.
 
 Learners can then carry out the same activity on their own speeches ensuring that they have added a range of these features in order to signpost transitions.
+
+
+
+{176}------------------------------------------------
+
+
 
 Have learners choose a topic they are passionate about. Provide a speech template that includes an introduction (hook and thesis), three main points supported by evidence, and a conclusion (call to action). Learners will fill out the template and practise using linking phrases to move from one idea to the next smoothly.
 
@@ -5468,10 +6522,22 @@ Call to Action
 
 © WJEC CBAC Ltd. 2025
 
+
+
+{177}------------------------------------------------
+
+
+
 | Example: 'Let's work together to…'                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------|
 | Linking phrases: • Furthermore... • On the other hand... • For instance... • As a result... • However... • This brings me to... |
 | Other useful resources: Structuring a response - blended learning                                                               |
+
+
+
+{178}------------------------------------------------
+
+
 
 ## Key Points
 
@@ -5515,6 +6581,12 @@ Showing: 'Ain't nobody got any business talkin' like that-it just makes me sick.
 
 ## Show Not Tell Vocabulary and Sentence Structure
 
+
+
+{179}------------------------------------------------
+
+
+
 ## J R R Tolkien's Lord of the Rings
 
 Telling: the landscape was negative.
@@ -5553,6 +6625,12 @@ You can also be more prescriptive by giving prompt such as:
 - Include sibilance
 - Use onomatopoeia and sound
 - Include an ellipsis
+
+
+
+{180}------------------------------------------------
+
+
 
 ## Example:
 
@@ -5594,6 +6672,12 @@ Below are four examples of creative writing that contains too much telling. Lear
 
 Ruslan was excited for the soccer game. The crowd was loud, and he was happy to be there with his friends. The game started, and he felt thrilled as his favourite team got the ball. He cheered loudly when they scored a goal. He was really into the game and couldn't stop smiling. It was one of the best games he had ever been to. When his team won, he felt proud and couldn't wait to talk about it with his friends later.
 
+
+
+{181}------------------------------------------------
+
+
+
 ## Example 2
 
 Ioan was nervous on his first day at work. He walked into the office, and everything felt overwhelming. He didn't know anyone, and the work looked complicated. He was worried he wouldn't know how to do his job well. His boss gave him instructions, and Ioan felt even more anxious. The day was long, and he couldn't wait for it to be over. By the end of the day, Ioan was exhausted but relieved that he had survived his first day.
@@ -5620,6 +6704,12 @@ Select interesting points in the literary texts studied and ask learners to cont
 
 Learners should be encouraged to also mimic the use of sentences for effect.
 
+
+
+{182}------------------------------------------------
+
+
+
 When looking at literary texts in the classroom, consider the effect of sentence structure and variety.
 
 ## The Fury by Stan Barstow
@@ -5642,9 +6732,21 @@ After the long, detailed sentence, the shift to the short sentence "Wide open." 
 
 'Now, it is a fact, that there was nothing at all particular about the knocker on the door, except that it was very large. It is also a fact, that Scrooge had seen it night and morning during his whole residence in that place; also that Scrooge had as little of what is called fancy about him as any man in the City of London, even includingwhich is a bold word-the corporation, aldermen, and livery. Let it also be borne in mind that Scrooge had not bestowed one thought on Marley, since his last mention of his seven years' dead partner that afternoon. And then let any man explain to me, if he can, how it happened that Scrooge, having his key in the lock of the door, saw in the knocker, without its undergoing any intermediate process of change: not a knocker, but Marley's face.'
 
+
+
+{183}------------------------------------------------
+
+
+
 The sentence structure starts with factual, detailed clauses that establish Scrooge's rational mindset and his familiarity with the ordinary knocker. The repetitive, methodical style creates a sense of grounded reality, which is sharply interrupted by the sudden and surprising revelation of Marley's face in the knocker.
 
 The use of the colon in 'without its undergoing any intermediate process of change: not a knocker, but Marley's face' is particularly effective. The colon signals a dramatic pause, leading to the final revelation. The phrase after the colon delivers the shocking twist, with 'not a knocker, but Marley's face' stated bluntly, in stark contrast to the detailed, factual sentences before. This sharp, sudden declaration mirrors Scrooge's shock.
+
+
+
+{184}------------------------------------------------
+
+
 
 ## Key Points:
 
@@ -5674,6 +6776,12 @@ After washing his face, he went downstairs. His mum was in the kitchen, making t
 They walked to the car and got in. Imran sat in the passenger seat while his mum adjusted the mirrors and put on her seatbelt. The drive to the stadium was long. The car moved slowly through the traffic, and Imran stared out the window, watching the same grey buildings pass by. He yawned. His mum turned on the radio, and a song he didn't like played. He didn't say anything, though. They passed a few more cars, and the sun was coming up higher in the sky. It was a bit cloudy, but not too bad.
 
 ## Writing Economy and Control
+
+
+
+{185}------------------------------------------------
+
+
 
 ## Successful opening
 
@@ -5706,6 +6814,12 @@ Here are some examples of topics you could provide learners with:
 
 These topics allow learners to focus on persuasive arguments related to environmental issues, giving them the chance to pitch concise, impactful points in both spoken and written form. These tasks also expose learners to a range of topics and encourage them to consider a range of ideas and arguments in a short space of time.
 
+
+
+{186}------------------------------------------------
+
+
+
 Give learners two texts (e.g. poems, short stories) and ask them to compare them in only 150 words, focusing on one key theme or literary device. Afterwards, ask them to condense their comparisons into 75 words.
 
 This comparison lacks focus and repeats ideas. Ask learners to re-draft and condense the comparison into no more than 75 words.
@@ -5717,6 +6831,12 @@ Provide learners with a draft of a non-fiction article or essay with overly long
 Ask learners to re-draft and revise this section of an article on 'staycations'. They should focus on ensuring that the writing is concise and relevant.
 
 In recent years, the idea of staycations, which is the concept of taking a vacation without leaving your home country or even, in some cases, your hometown, has gained a huge amount of popularity, especially due to the rising costs of international travel, which have made it increasingly difficult for people to afford longdistance trips. People are finding that staying local for vacations is actually more affordable, more convenient, and also has the added benefit of allowing them to explore parts of their own country or area that they may not have had the opportunity to discover before. Staycations allow for a much more relaxed and laid-back vacation experience, as there is no need to pack as much, deal with airports, or experience the stress of long flights and adjusting to different time zones. In addition, another reason why staycations have become more popular is because they are much better for the environment, as they don't involve the carbon emissions from airplanes, which are one of the major contributors to climate change, and therefore staying local helps people reduce their carbon footprint.
+
+
+
+{187}------------------------------------------------
+
+
 
 ## Key Points:
 
@@ -5750,6 +6870,12 @@ After they have done this, they can write their own piece focusing on using punc
 
 ## Punctuation for Clarity
 
+
+
+{188}------------------------------------------------
+
+
+
 Have learners write a short story or scene, and then revise it by focusing on how punctuation can change the pace and emotional impact of their writing. They might use ellipses to create suspense, dashes to break up thoughts, or commas for pacing. Encourage them to experiment with how punctuation can affect the reader's experience.
 
 Ask learners to write a short scene involving a tense situation (e.g. a chase or an argument). Then, have them revise the scene by experimenting with punctuation to change the pacing. Encourage them to use ellipses to create suspense, commas for pauses, or dashes to break up thoughts and increase the emotional impact.
@@ -5778,6 +6904,12 @@ Half-skating across a large frozen lake, he slipped, lost his gun, which went sk
 
 Instead, he continued on, made for a stand of shivering pines. Powdery snow sprayed his face, coating his eyebrows and the stubble of a long flight across continents. He did not dare waste another moment looking back over his shoulder to check the progress of his pursuer.
 
+
+
+{189}------------------------------------------------
+
+
+
 Learners should focus on writer's craft when studying any text as part of the course, including considering how punctuation choices have an impact on meaning, tone and pace.
 
 Provide learners with an extract from a text you are studying with the punctuation removed. Ask learners to punctuate the text to restore clarity, emphasising where pauses, breaks, or emphasis are necessary to convey the intended tone and pacing.
@@ -5803,6 +6935,12 @@ I have been too unhappy I thought it cannot last being so unhappy it would kill 
 Tiger Bay February 1952
 
 The King is dead Long live the Queen The announcer's voice crackles from the wireless and winds around the rapt patrons of Berlin's Milk Bar as sinuously as the fog curls around the mournful street lamps their wan glow barely illuminating the cobblestones
+
+
+
+{190}------------------------------------------------
+
+
 
 The noise settles as milkshakes and colas clink against Irish coffees and chairs scrape against the black and white tiled floor
 
@@ -5830,9 +6968,21 @@ Learners have been asked to discuss a historical location of their choice. Their
 
 Insole Court is a hidden gem in Cardiff-an elegant mansion with a fascinating history. Originally built in the mid-19th century, it was the home of the wealthy Insole family, who played a significant role in Cardiff's development. The house itself is breathtaking: its Victorian Gothic architecture makes it stand out as one of the most impressive buildings in the area. Inside, you'll find stunning wood-panelled rooms, intricate stained glass, and a sweeping staircase that transports you back in time. But the real story of Insole Court lies in its connection to Cardiff's coal industrywithout the Insole family, Cardiff might never have become the booming industrial city it is today. For anyone interested in local history, this is a must-see. Plus, the gardens are simply beautiful-perfect for a relaxing afternoon stroll.
 
+
+
+{191}------------------------------------------------
+
+
+
 ## Portmeirion, Gwynedd
 
 Portmeirion is unlike any other place in Wales-it feels like stepping into a Mediterranean village. Designed and built by Sir Clough Williams-Ellis in the early 20th century, Portmeirion was created as a vision of architectural harmony with nature. Its brightly coloured buildings, winding streets, and lush gardens seem like something out of a storybook. It's no wonder the village has been used as a setting for films and TV shows, most famously The Prisoner . Every corner of Portmeirion reveals a new surprise: a hidden beach, a picturesque gazebo, or a stunning view across the estuary. The village isn't just a beautiful location-it's a statement about how architecture can complement, rather than dominate, the landscape. Whether you're visiting for a day or staying overnight in one of the charming accommodations, Portmeirion will leave a lasting impression.
+
+
+
+{192}------------------------------------------------
+
+
 
 ## Concepts
 
@@ -5860,6 +7010,12 @@ Key metacognitive conceptual questions for learners:
 
 <!-- image -->
 
+
+
+{193}------------------------------------------------
+
+
+
 ## Unit 1: Context and Meaning
 
 Whether as the producer of written or spoken texts, or as the receiver of such texts from others, meaning is at the heart of all human interactions, and the contexts in which they are produced and received affect how meaning is created. Context affects meaning, both in how it is produced and how it is received.
@@ -5882,6 +7038,12 @@ Context helps to clarify, enrich, and sometimes even alter the meaning of a text
 
 In introducing learners to the concept of Context and Meaning, you could mix up the following contexts with their influence and example for the learners to sort and match:
 
+
+
+{194}------------------------------------------------
+
+
+
 | CONTEXT              | INFLUENCE                                                                                                                                                                                                                         | EXAMPLE                                                                                                                                           |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Historical           | The time period in which a text is written affects its content, themes, and references. Historical events, societal norms, and prevalent attitudes of the time can provide background that informs the text's meaning.            | A novel set during the Great Depression might address themes of poverty and resilience in ways that are deeply tied to that historical period.    |
@@ -5894,6 +7056,12 @@ In introducing learners to the concept of Context and Meaning, you could mix up 
 | Intertextual         | References to other texts or media within a work can provide additional layers of meaning. Understanding these references can enhance comprehension of the current text.                                                          | A novel that alludes to classic literature or historical events may gain deeper significance when those references are recognised and understood. |
 | Reader's own context | Each reader brings their own experiences, knowledge and perspectives to a text, which can influence their interpretation. Personal background can affect how themes and messages are perceived.                                   | A reader who has experienced similar personal challenges might connect more deeply with a text exploring those issues.                            |
 
+
+
+{195}------------------------------------------------
+
+
+
 ## Learning Experiences:
 
 In studying the Poetry Anthology, learners will have opportunities to explore and respond to wider Welsh contexts, and to consider content and materials that reflect the diversity of our society and the wider world. Understanding the authorial context of, for example, Dean Atta will allow learners to gain a deeper understanding of his poetry. Similarly, questioning whether the literary context of 'Modern Love' conforms to or challenges the sonnet form enables learners to explore their expectations for such poetic forms.
@@ -5905,6 +7073,12 @@ The study of poetry should also act as a stimulus to fire the imaginations of le
 The precision and purposefulness behind poets' choices of words and descriptive techniques should also inform the construction of learners' own written and spoken texts, both literary and non-fiction.
 
 Learners' understanding of how context influences and impacts meaning in literature will shape their own writing, enabling them to use language effectively to present their own ideas in a range of written contexts. This prepares learners to become more confident in adapting their writing for purpose and effect, making them more effective communicators.
+
+
+
+{196}------------------------------------------------
+
+
 
 ## Unit 2: Belonging
 
@@ -5927,6 +7101,12 @@ There are many different areas relating to this concept to explore. Learners cou
 | Behavioural and social development | Learning and growth             | Belonging to a group allows individuals to learn from others, share experiences and develop social skills. It provides a platform for personal growth and social development.                                          |
 | Behavioural and social development | Role fulfilment                 | Being part of a community or group helps individuals understand and fulfil their roles and responsibilities, contributing to a sense of accomplishment and purpose.                                                    |
 
+
+
+{197}------------------------------------------------
+
+
+
 | Physical health   | Health benefits   | Positive social connections associated with a sense of belonging have been linked to better physical health outcomes. Supportive relationships can lead to healthier behaviours and lower levels of stress, which benefit overall health.   |
 |-------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Resilience        | Coping mechanism  | A sense of belonging helps individuals build resilience by providing emotional support and practical assistance. It strengthens coping mechanisms during challenging times.                                                                 |
@@ -5944,6 +7124,12 @@ Even if learners were to study a less contemporary text, for example, Frankenste
 Some of the texts offer learners the experience of reading variations in language. For example, exploring the patios in Wide Sargasso Sea highlights the inclusion of islanders and exclusion of outsiders. A learner could then research the importance of dialect for different communities.
 
 For the Individual Researched Presentation, learners have the opportunity to be creative in the way they present their ideas about belonging in a spoken context. This should be a more formal register than paired or group discussions to allow learners to experience different ways of using language. Learners would be expected to make purposeful and effective use of digital technology when researching their presentation topic. They should consider the reliability of texts from different writers, organisations, periods and perspectives when conducting their research.
+
+
+
+{198}------------------------------------------------
+
+
 
 ## Unit 3: Influence and Power
 
@@ -5968,6 +7154,12 @@ A writer or speaker's power is not just about the status or authority they have,
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Confident delivery        | Confidence in speech-through tone, volume and body language-can project power. A strong, clear voice and assured posture signal confidence and command respect.                                                                                                                                 |
 
+
+
+{199}------------------------------------------------
+
+
+
 | Confident tone                    | A confident and assertive tone in writing and speaking helps convey authority. This involves using strong, definitive language and avoiding hedging phrases that might undermine the writer or speaker's position.                     |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Persuasive language               | Employing rhetorical techniques such as ethos (credibility), pathos (emotional appeal) and logos (logical argument) can persuade and influence the audience, reinforcing the writer or speaker's position of power.                    |
@@ -5983,6 +7175,12 @@ A writer or speaker's power is not just about the status or authority they have,
 | Personal stance                   | Taking a clear and strong personal stance on issues can demonstrate confidence and assertiveness. A powerful speaker or writer doesn't shy away from expressing their views and can back them up with reasoned arguments.              |
 
 These are some ways that a speaker - or a writer - could convey their power.
+
+
+
+{200}------------------------------------------------
+
+
 
 ## Learning Experiences:
 
@@ -6008,6 +7206,12 @@ Some motivations that learners may encounter in their textual study, and consequ
 | Intrinsic motivation | This involves engaging in activities for their own sake, driven by internal rewards such as satisfaction, pleasure, or a sense of accomplishment. Examples include pursuing hobbies or intellectual challenges.                          |
 | Extrinsic motivation | This type of motivation comes from external rewards or pressures, such as money, praise or recognition. People are often driven by the desire to attain these external incentives.                                                       |
 
+
+
+{201}------------------------------------------------
+
+
+
 | Curiosity and exploration   | The desire to learn, explore and understand new things motivates people to seek knowledge, experience new environments, and satisfy their intellectual curiosity.                                 |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Achievement                 | The drive to accomplish tasks, set and reach goals, and overcome challenges motivates individuals to work hard and persevere. This can be related to personal, professional or academic pursuits. |
@@ -6026,6 +7230,12 @@ In analysing the (re)presentation of characters, relationships and communities i
 For example, in An Inspector Calls , learners may discern that Mr Birling's actions are as a result of extrinsic motivations - his desire for wealth - whereas his wife is driven by selfesteem, and the desire for respect and recognition in the upper-class society she inhabits. The Inspector's actions can be seen as altruistic, he being motivated to help others and contribute to the well-being of society; all of which suggest Priestley's motivation to highlight inequalities that he perceived in British society at the time in which the play is set. Priestley is presenting different viewpoints for the audience to consider.
 
 It is expected that learners explore the writer's craft through their textual study and use their understanding to inform the construction of their own written texts. They could, for example, plan and develop creative written responses after reading their chosen text in the voice of one of the characters. They may write a descriptive piece, detailing the context of the text's setting, or an alternative narrative from a perspective different to the one presented in the text.
+
+
+
+{202}------------------------------------------------
+
+
 
 ## Unit 5: Continuity and Change
 
@@ -6053,6 +7263,12 @@ The Shakespeare play and the poetry studied for this unit will provide learners 
 
 Learners should have opportunities to reflect on how attitudes have changed over time, for example, how, in Romeo and Juliet, Juliet is treated by her parents in a society where teenage girls were married off by their fathers and how this practice is seen in the twentyfirst century - or still continues in some communities around the world. They could explore the attitudes to war and conflict, presented as heroic self-sacrifice in The Charge of the Light Brigade, and compare how this issue is thought of in today's society, and consequently the language used to present it in the media.
 
+
+
+{203}------------------------------------------------
+
+
+
 ## Unit 6: Connections
 
 Making connections is a skill across all subjects in the curriculum, helping learners to make more insightful observations by connecting new information to prior knowledge, skills and concepts. Research indicates that the more prior knowledge a learner has to draw on, the easier it becomes for them to process new information. This thinking reflects English as a spiral curriculum, building over time on the foundation of learners' receptive and productive skills.
@@ -6078,6 +7294,12 @@ Learners will benefit by seeing how things are related to each other, drawing co
 In the classroom, learners should explore connections and links between texts they read, hear and produce. Connections may be social, relational, temporal and/or linguistic, and may also be between the genre, meaning and purpose of texts. Using prior learning of advice texts, for example, when confronted with an unfamiliar advice text, learners could use prior knowledge of text conventions to make assumptions about the format, language and register, and to compare if this conforms or flouts established conventions. In this way, learners become more confident in handling unseen or unfamiliar texts.
 
 If learners are presented with a wide range of texts presenting diverse viewpoints and perspectives, learners experience the world through the eyes of others, expanding their horizons as well as having opportunities to respond to local and wider Welsh issues.
+
+
+
+{204}------------------------------------------------
+
+
 
 In studying a wide range of texts in the classroom, learners will develop a robust understanding of text conventions, appropriate registers, and purposeful vocabulary choices, all of which will inform their ability to confidently develop creative responses in a range of written and spoken contexts.
 
@@ -6122,6 +7344,12 @@ As required by the regulatory Approval Criteria, Double Award learners will stud
 - Pigeon (Conran)
 - Animal Farm (Orwell)
 
+
+
+{205}------------------------------------------------
+
+
+
 An Inspector Calls is a common text on both the Single Award and Double Award pathways. This is to allow centres to teach this text to any learner for whom the appropriate pathway is not easily determined early on in the course; centres can defer entry decisions until the February of Year 11 without having to teach unnecessary texts. Questions for this common text on Unit 4a and Unit 4b will be different but set at the same level of demand.
 
 What differences are there in how the Poetry Anthology should be used for Unit 1 and for Unit 5?
@@ -6163,6 +7391,12 @@ Under each theme there are two non-continuous texts and four continuous texts, o
 
 For Unit 3, there will be a choice from two themes to be used as the discussion stimuli for this task; WJEC will prescribe one text for each of the options which must be used in the discussion.
 
+
+
+{206}------------------------------------------------
+
+
+
 In administering the task, teachers should be mindful of the following requirements:
 
 - one text from the anthology will be prescribed by WJEC for each theme
@@ -6172,6 +7406,12 @@ In administering the task, teachers should be mindful of the following requireme
 
 For Unit 6, learners should study all texts in the non-fiction anthology. In the exam, one or more texts from a section of the anthology will be linked with an unseen text on the same theme for analysis.
 
+
+
+{207}------------------------------------------------
+
+
+
 ## Opportunities for embedding elements of the Curriculum for Wales
 
 | Curriculum for Wales Strands             | Curriculum for Wales Strands                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -6180,17 +7420,35 @@ For Unit 6, learners should study all texts in the non-fiction anthology. In the
 | Local, National & International Contexts | There are many opportunities to include Local, National and International Contexts in GCSE English Language and Literature. These opportunities are important to Learners because they help learners develop a broader understanding of the texts they study, connect literature to real-world experiences, and explore diverse perspectives that enhance critical thinking, cultural awareness, and empathy. Below are some examples of how Sustainability can be embedded into teaching and learning:                                                                                                                                                                                                                  |
 | Local, National & International Contexts | Examples • Analysing regional dialects, traditions or place-based settings in texts. • Discussing societal norms and historical events through texts, linking themes to British culture and history. • Examining global perspectives through texts such as Persepolis or Things Fall Apart , encouraging learners to engage with issues like colonialism, migration and identity. • Writing persuasive speeches or opinion pieces addressing contemporary local, national or international issues, such as climate change or social justice movements. • Comparing themes of belonging or identity in texts from different cultural or historical backgrounds, fostering a nuanced understanding of diverse experiences. |
 
+
+
+{208}------------------------------------------------
+
+
+
 | Sustainability                        | There are many opportunities to include Sustainability in GCSE English Language and Literature. These opportunities are important to Learners because they encourage critical thinking about global challenges, inspire responsible decision-making, and help learners connect themes of sustainability to real-world issues, fostering a sense of agency and environmental stewardship. Below are some examples of how Sustainability can be embedded into teaching and learning:   |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sustainability                        | Examples • Analysing texts which explore environmental issues and sustainability. • Writing persuasive speeches about the importance of sustainable living or climate action. • Studying nature poetry to discuss humanity's relationship with the environment. • Creating articles or stories imagining a sustainable future inspired by current innovations. • Comparing representations of environmental issues within texts.                                                     |
 | Relationships and Sexuality Education | There are many opportunities to include Relationships and Sexuality Education (RSE) in GCSE English Language and Literature. These opportunities are important to learners because they allow learners to explore complex human relationships, develop empathy, and critically analyse themes of identity, consent, equality, and respect through literature and language. Below are some examples of how RSE can be embedded into teaching and learning:                            |
 | Relationships and Sexuality Education | Examples • Analysing relationships in texts to explore themes of love and conflict. • Writing reflective essays on characters' choices in texts regarding friendship and loyalty. • Discussing issues of power and consent in texts. • Exploring themes of identity and self-acceptance in texts such as The Black Flamingo . • Debating societal expectations of gender roles in texts such as Pride and Prejudice .                                                                |
 
+
+
+{209}------------------------------------------------
+
+
+
 | Human Rights Education and Diversity   | There are many opportunities to include Human Rights Education and Diversity in GCSE English Language and Literature. These opportunities are important to Learners because they foster an understanding of equality, justice, and inclusion, encourage critical thinking about societal issues, and help learners develop empathy and appreciation for diverse perspectives and experiences. Below are some examples of how Human Rights Education and Diversity can be embedded into teaching and learning:   |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Human Rights Education and Diversity   | Examples • Exploring how different texts highlight struggles for equality and social justice. • Analysing representations of cultural identity and belonging in diverse forms of writing. • Writing reflective pieces on how texts address inclusion and diversity. • Comparing how various genres depict power dynamics and social inequality. • Examining the use of language to advocate for human rights across text types.                                                                                 |
 | Careers and Work-Related Experiences   | There are many opportunities to include Career and Work-Related Experiences (CWRE) in GCSE English Language and Literature. These opportunities are important to Learners because they help learners develop transferable skills such as communication, critical thinking and problem-solving, while also exploring how English supports a wide range of careers and workplace contexts. Below are some examples of how CWRE can be embedded into teaching and learning:                                        |
 | Careers and Work-Related Experiences   | Examples • Writing formal letters or emails to practise workplace communication skills. • Analysing speeches or articles to understand effective persuasive techniques used in professional contexts. • Exploring how storytelling is used in careers like marketing or journalism. • Debating ethical dilemmas in workplace scenarios to develop critical thinking. • Creating reports or presentations simulating real-world professional tasks.                                                              |
+
+
+
+{210}------------------------------------------------
+
+
 
 | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy                                                                                                                                                                                                                                                                                                                                                                                                             |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6200,12 +7458,24 @@ For Unit 6, learners should study all texts in the non-fiction anthology. In the
 | Speaking                             | Examples • Delivering individual presentations on themes or characters in a studied text. • Participating in group discussions to share and evaluate differing interpretations. • Engaging in debates on topical issues raised by texts to develop persuasive speaking skills.                                                                                                                                                                 |
 | Writing                              | Examples • Crafting persuasive letters or essays with coherent arguments and evidence. • Writing creative narratives that use varied sentence structures and imagery. • Summarising key points from a text to practice concise and accurate expression.                                                                                                                                                                                        |
 
+
+
+{211}------------------------------------------------
+
+
+
 | Cross-curricular Skills - Numeracy           | Cross-curricular Skills - Numeracy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Developing Mathematical Proficiency          | There are many opportunities to include Numeracy in GCSE English Language and Literature. These opportunities are important to Learners because they help learners analyse data, interpret patterns, and understand numerical references in texts, fostering critical thinking and real-world problem-solving skills in interdisciplinary contexts. Below are some examples of how Numeracy can be embedded into teaching and learning: Examples • Analysing statistical data in non-fiction texts, such as articles or reports, to interpret trends and arguments. • Exploring the use of numerical references or measurements in poetry or descriptive passages to enhance imagery. |
 | Cross-curricular Skills - Digital Competence | Cross-curricular Skills - Digital Competence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Citizenship                                  | There are many opportunities to include Digital Competence in GCSE English Language and Literature. These opportunities are important to Learners because they enable learners to develop essential skills in researching, evaluating online sources, creating multimedia content, and understanding digital communication, preparing them for the demands of the modern world. Below are some examples of how Digital Competence can be embedded into teaching and learning:                                                                                                                                                                                                         |
 | Citizenship                                  | Examples • Evaluating the credibility of online articles and identifying bias in digital media. • Researching social justice issues online and discussing their representation in texts. • Exploring how social media influences public opinion on topics linked to studied texts.                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+
+{212}------------------------------------------------
+
+
 
 | Interacting and Collaborating   | Examples • Using collaborative platforms to co-write essays or create shared analysis notes. • Participating in virtual discussions or forums to debate themes from texts. • Peer-reviewing each other's work online and providing constructive feedback.                                                                                                                                                                                                                                                  |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6215,15 +7485,33 @@ For Unit 6, learners should study all texts in the non-fiction anthology. In the
 | Creativity and Innovation       | There are many opportunities to include Creativity and Innovation in GCSE English Language and Literature. These opportunities are important to Learners because they encourage imaginative thinking, original expression and problem-solving, enabling learners to approach texts and writing tasks with fresh perspectives and develop skills valuable for future challenges. Below are some examples of how Creativity and Innovation can be embedded into teaching and learning:                       |
 | Creativity and Innovation       | Examples • Writing an alternative ending or prequel for a studied text, exploring untold perspectives. • Analysing how authors use symbolism or imagery to creatively develop themes or characters. • Crafting a persuasive article on a contemporary issue using innovative rhetorical techniques. • Evaluating the effectiveness of creative language techniques in speeches or opinion pieces. • Designing a multimedia book review combining written critique with creative visuals or audio elements. |
 
+
+
+{213}------------------------------------------------
+
+
+
 | Critical Thinking and Problem Solving   | There are many opportunities to include Critical Thinking and Problem Solving in GCSE English Language and Literature. These opportunities are important to Learners because they help learners analyse complex texts, evaluate different perspectives, construct well-reasoned arguments, and develop the ability to approach challenges with logical and creative solutions. Below are some examples of how Critical Thinking and Problem Solving can be embedded into teaching and learning:                                         |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Critical Thinking and Problem Solving   | Examples • Debating multiple interpretations of a character's motivations or decisions in a literary text. • Analysing conflicting viewpoints in non-fiction texts to evaluate the strength of arguments. • Writing essays that construct logical, well-reasoned arguments supported by textual evidence. • Exploring how authors address societal challenges and presenting alternative solutions through creative writing. • Comparing the effectiveness of different narrative or structural techniques in achieving thematic goals. |
 | Planning and Organisation               | There are many opportunities to include Planning and Organisation in GCSE English Language and Literature. These opportunities are important to Learners because they teach learners how to structure their ideas, manage their time effectively and develop coherent responses, skills that are essential for academic success and future endeavours. Below are some examples of how Planning and Organisation can be embedded into teaching and learning:                                                                             |
 | Planning and Organisation               | Examples • Creating detailed essay plans, including topic sentences, evidence and analysis, before writing responses. • Using timelines to track plot development or character arcs in literary texts. • Organising research notes and key quotations under thematic headings for non-fiction analysis. • Developing a step-by-step storyboard to structure creative writing tasks effectively. • Practising timed writing exercises to build effective time management skills for exams.                                               |
 
+
+
+{214}------------------------------------------------
+
+
+
 | Personal Effectiveness   | There are many opportunities to include Personal Effectiveness in GCSE English Language and Literature. These opportunities are important to Learners because they empower learners to reflect on their strengths, set goals, build resilience, and develop the self-management skills necessary for both academic success and lifelong learning. Below are some examples of how Personal Effectiveness can be embedded into teaching and learning:             |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Personal Effectiveness   | Examples • Encouraging learners to set specific goals for improving their analytical writing skills. • Reflecting on feedback from essays to identify strengths and areas for growth. • Developing resilience through peer discussions about challenging texts or questions. • Practising self-management by creating revision timetables for exam preparation. • Using self-assessment checklists to evaluate progress in reading, writing and speaking tasks. |
+
+
+
+{215}------------------------------------------------
+
+
 
 ## Glossary of Key Terms for GCSE English Language and Literature
 
@@ -6243,6 +7531,12 @@ These key terms have been grouped to support understanding.
 | stylistic conventions | The methods and techniques a writer or speaker chooses in creating a text (often guided by typical features of a specific genre or text type).                       |
 | poetic forms          | The structure and organisation of a poem, such as its grouping of lines, rhyme scheme, length and metre.                                                             |
 | purpose               | The reason for writing or speaking; what the writer or speaker wants to achieve e.g. to persuade, to entertain, to instruct.                                         |
+
+
+
+{216}------------------------------------------------
+
+
 
 | Linguistic      | Linguistic                                                                                                                                                                                                                                               |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6267,6 +7561,12 @@ These key terms have been grouped to support understanding.
 | juxtaposition   | The placing of two concepts, characters, ideas, or places near or next to each other to compare and contrast.                                                                                                                                            |
 | listing         | Words used in a purposeful sequence separated by commas and joined with a final connective - omitting the connective can suggest the list could be longer (asyndetic listing); repeating the connective creates dramatic emphasis (polysyndetic listing) |
 
+
+
+{217}------------------------------------------------
+
+
+
 | modifier                | Word used to add descriptive detail to another word.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | neologism               | The creation of a word from existing words or parts of words. e.g. hangry, mansplain.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -6283,6 +7583,12 @@ These key terms have been grouped to support understanding.
 | vocabulary choices      | Selecting particular words to create meaning for the given context.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | vocative                | A term of address used to catch a person's attention by referring directly to them e.g. hey Kim, oi you, Dear Marc (letter).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | word classes            | Each word in the English language belongs to a particular group that determines its role or job in a sentence.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+
+
+{218}------------------------------------------------
+
+
 
 | Literary          | Literary                                                                                                                                                                     |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6310,6 +7616,12 @@ These key terms have been grouped to support understanding.
 | narrative voice   | The character or narrator created by an author to tell a story or convey a particular point of view within a work of literature.                                             |
 | onomatopoeia      | The term used to denote words that imitate sounds e.g. buzz, splash.                                                                                                         |
 
+
+
+{219}------------------------------------------------
+
+
+
 | pathetic fallacy   | A literary device in which the natural world is described as having human qualities and emotions.                                                    |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | persona            | The distinctive identity, voice or perspective an author adopts to engage with the audience.                                                         |
@@ -6323,6 +7635,12 @@ These key terms have been grouped to support understanding.
 | symbolism          | Something that stands for or suggests something else beyond the literal meaning.                                                                     |
 | theme              | A central topic, subject or message within a text.                                                                                                   |
 | tone               | A device that reflects the writer's attitude toward the subject matter or audience.                                                                  |
+
+
+
+{220}------------------------------------------------
+
+
 
 | Structural                     | Structural                                                                                                                                                                              |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6345,6 +7663,12 @@ These key terms have been grouped to support understanding.
 | subheading                     | A mini title or headline given to a section or paragraph within a text.                                                                                                                 |
 | temporal shifts                | A shift back and forth in time from past to present instead of in a strict sequence.                                                                                                    |
 
+
+
+{221}------------------------------------------------
+
+
+
 | Spoken            | Spoken                                                                                                                                                                                                                   |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Term              | Definition                                                                                                                                                                                                               |
@@ -6366,6 +7690,12 @@ These key terms have been grouped to support understanding.
 | turn-taking       | The organisation of speakers, where the turns may be equal or where one speaker may be dominant.                                                                                                                         |
 | uncooperative     | Negative spoken interactions where participants are not in agreement and the interaction is unhelpful, argumentative or threatening.                                                                                     |
 | utterance         | A grammatical unit in speech often marked by micropauses before and after the structure (equivalent to a sentence in written language).                                                                                  |
+
+
+
+{222}------------------------------------------------
+
+
 
 | Contexts                  | Contexts                                                                                                                                               |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|

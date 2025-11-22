@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE German
@@ -16,13 +18,31 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## SUMMARY OF AMENDMENTS
 
 |   Version | Description                                                        |   Page number |
 |-----------|--------------------------------------------------------------------|---------------|
 |         1 | Add in 'until after a date in May specified annually by the WJEC'? |             6 |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Contents
 
@@ -40,6 +60,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Speaking and Listening..................................................................................................8                   |
 | Learning Experiences ......................................................................................................... 12           |
 | Opportunities for embedding elements of the Curriculum for Wales.................................... 14                                     |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## Introduction
 
@@ -59,6 +85,12 @@ The principal aim of the Guidance for Teaching is to support teachers in the del
 - Exam Results Analysis
 - Online Examination Review
 
+
+
+{6}------------------------------------------------
+
+
+
 ## Qualification Structure
 
 WJEC GCSE German consists of 4 units. The qualification is linear and does not contain tiering. There is no hierarchy to the order the units should be taught.
@@ -70,6 +102,12 @@ WJEC GCSE German consists of 4 units. The qualification is linear and does not c
 | Unit 3       | Listening              | Written examination         | 20%         |
 | Unit 4       | Reading and Writing    | Written examination         | 35%         |
 
+
+
+{7}------------------------------------------------
+
+
+
 ## Assessment Summary of Assessment
 
 | Unit 2: Reading and Writing Non-examination assessment: 1 hour 15% of qualification   | Unit 2: Reading and Writing Non-examination assessment: 1 hour 15% of qualification   |
@@ -77,6 +115,12 @@ WJEC GCSE German consists of 4 units. The qualification is linear and does not c
 |                                                                                       | 45 marks                                                                              |
 | •                                                                                     | Written response in German                                                            |
 | Learners are not permitted to use a dictionary in any part of the assessment.         | Learners are not permitted to use a dictionary in any part of the assessment.         |
+
+
+
+{8}------------------------------------------------
+
+
 
 ## Overview of Unit 2
 
@@ -95,6 +139,12 @@ The purpose of this unit is to allow learners to:
 The unit will be based on the following:
 
 <!-- image -->
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Assessment details
 
@@ -132,11 +182,23 @@ This assignment has been produced by WJEC and cannot be changed.
 
 The assessment will be carried out at the centre during a one-hour period. The task will be available for download on the WJEC Portal. Centres may download the Unit 2 NEA three working days in advance of the first assessment date at the centre. Centres must keep a record of the date on which the assessments is conducted including the name of the work studied on the Candidate and Centre declaration form. This form is for the centre and candidates to sign and declare that assessments have been conducted according to the requirements in the Assessment Pack and must be submitted to WJEC with the Unit 2 NEA digitally. All work and the Candidate and Centre Declaration Form must be uploaded to the WJEC Portal within 48 hours or two working days of the assessments taking place.
 
+
+
+{10}------------------------------------------------
+
+
+
 The assessment will take place during an eight-week period between March and May, specified annually by WJEC. Centres may download the task three working days in advance of the first assessment.
 
 The task must be given to the learners only at the time of assessment.
 
 Tasks will change each series.
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Unit 2 Assessment objectives and weightings
 
@@ -145,6 +207,12 @@ Tasks will change each series.
 | AO2   | Understand and respond to written language through communication and expression in speaking and writing. | 10% |
 | AO3   | Demonstrate knowledge of grammar, vocabulary and sound-spelling correspondence.                          | 5%  |
 
+
+
+{12}------------------------------------------------
+
+
+
 ## Unit 2 Teacher Guidance
 
 | Oracy Speaking and Listening   | Oracy Speaking and Listening                                                                                                                                                                                                                                                                                                                                                                                                                         | Oracy Speaking and Listening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -152,14 +220,38 @@ Tasks will change each series.
 | Content Amplification          | Content Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                | Teacher Guidance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Reading and Writing:           | Learners should be able to: • understand and respond to written language • use their knowledge of grammar and vocabulary to support their understanding of the work • use a variety of language patterns and different verb tenses effectively • use complex structures where appropriate • select relevant vocabulary and grammar to express meaning • express themselves in written German to demonstrate their understanding, ideas and opinions. | • Learners will incrementally be developing the knowledge and skills to be able to write extended answers of 70 and 130 words which respond to the questions set, demonstrate their understanding of the selected literary text and to ensure cultural understanding of aspects of culture and language in German- speaking countries. • To develop their written language, vocabulary gap fill summary tasks could be set after each section of the selected literary texts. • You can focus on key scenes from the text or film script and translate them into English or compare published translations to the original text. • Learners could create thematic and character vocabulary lists. These could be stored on a virtual learning platform for all learners to access when revising. • Quizlet sets could be set up to support regular learning of key vocabulary. Kahoot and Quizziz could also be used as part of recall and retrieval practice. • Grammar should be taught in small chunks and learners cshould be encouraged to look for patterns and rules in context before the rule is formally explained. |
 
+
+
+{13}------------------------------------------------
+
+
+
 | • The different verb tenses in the literary text might not however be the ones needed for the learner to be able to write their response. • Providing learners with lots of opportunities to give opinions about characters and themes in the literary text is important. This can be done through speaking and writing tasks, incorporating creative activities such as making a social media page for one of the characters or through role play interviewing one of the characters. Learners will need support in extending their opinions, with not just whether they like or dislike the character, but justifying it. This may need extensive work on subordinate clau ses using the conjunctions 'weil' and 'dass' - ich mag ihn/sie, weil er immer freundlich ist. • The introduction of complex structures could be in the form of 'set phrases' such as 'wenn ich die Wahl hätte, würde ich...' , das ist das interessanteste Buch, das ich je gelesen habe. • Providing learners with lots of opportunities to engage with the selected literary text and respond both orally and in written form will raise confidence and ensure progress is made. Learners may start by writing short responses to questions, using scaffolds and word banks, before developing and refining their work. Learners should also be given the opportunity to redraft written work based on feedback.   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{14}------------------------------------------------
+
+
 
 | Learners will be required to: • study a work in German • demonstrate their understanding of the work by responding in German to a task set in Cymraeg/English.   | • Teachers can choose a literary text which is appropriate to their context and will engage their learners. • Learners will be familiar with reading a literary text in English or Welsh, but less familiar in an international language. Therefore, teachers will need to encourage learners to be resilient, not to focus on understanding and translating every word, to use gist and context to understand, use pictures to support understanding if using a graphic novel, use cognates, provide vocabulary lists to support learners in their understanding, etc. • Chunking the literary text will be important to make it manageable for the learners. After reading each section, comprehension can be checked with tasks such as: • putting events in the correct order • multiple choice questions • true or false questions • gap fill tasks • comprehension questions. • Learners will be required in the assessment to respond in German to questions set in English by the WJEC without any support. They will need to be able to provide examples and give opinions and provide reasons too. • In preparation for the final NEA, individual notes can include the following sub-headings to provide opportunity to introduce and reinforce knowledge of basic core vocabulary (this list is provided as an example only and is not exhaustive): • Characters - physical appearance, personality • Locations - weather, places in town, countries • Events - time, days, food, leisure, activities, routine.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+{15}------------------------------------------------
+
+
+
 | • Consider providing opportunities to discuss the following questions: • Can you briefly explain what happens, to someone else? • Can you describe the key character(s)/events/location(s)? • Can you describe one theme in the book which interested you and explain why? • What did you like? Why? What specific example can you give from the text? • What didn't you like? Why? What specific example can you give from the text? • Would you recommend the book/film and why? • Can you summarise the plot?   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Learning Experiences
 
@@ -171,12 +263,24 @@ Learners should be encouraged to consider the following learning experiences and
 | explore the cross-cutting themes of human rights and diversity, including Black, Asian and minority ethnic perspectives, identity, culture and contributions | • Centres are free to choose their work for Unit 2. Works may focus on the cross-cutting themes of human rights and diversity including Black, Asian and minority ethnic perspectives, identity, culture and contributions, but this is not compulsory. • Specific themes of migration, immigration, culture and diversity, racism and antisemitism may be chosen by the centre as their selected literary text.                                                                                                                                                                                                                                                                                                                                                                    |
 | have direct or indirect contact with speakers of the language                                                                                                | • Centres and learners will be able to use initiatives such as MFL Mentoring - Modern Foreign Languages and Llwybrau at Ieithoedd Cymru Routes into Languages Cymru. • Both schemes support international languages and multilingualism in the new curriculum for Wales. Centres can request visits from Mentors and Student Language Ambassadors and sessions can be in person or online. • Centres can also apply for funding via Taith - Hwb (gov.wales) to take part in educational international exchanges. • By watching a film version of the literary text, if there is one, learners can listen to speakers of the language.                                                                                                                                               |
 
+
+
+{17}------------------------------------------------
+
+
+
 | engage with the language from a variety of sources and in a variety of genres and media                                             | • Learners will have the opportunity to engage with the language from a variety of sources and in a variety of genres and media throughout the specification. • Learners may have the possibility of reading a literary text which has been made into a film or for which there is a song. • Learners may also take the opportunity to watch other videos or engage with other texts around themes which are presented in the selected literary text.          |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | demonstrate language strategies and language learning skills, including the use of dictionaries                                     | • Learners will have the opportunity to demonstrate language strategies and language learning skills, including the use of dictionaries throughout the specification. • Learners could create key vocabulary lists for themes and characters in the selected text and store them electronically on Quizlet.                                                                                                                                                    |
 | translanguaging                                                                                                                     | • Learners will have the opportunity to use their translanguaging skills throughout the specification. • Learners could create multilingual vocabulary lists for key vocabulary. • They may choose to keep notes on the characters and themes in more than one language to support their understanding of the selected literary text.                                                                                                                          |
 | make use of digital technology                                                                                                      | • Learners will have the opportunity to make use of digital technology in all units. They may word process their responses for Unit 2 but this is not compulsory. • Learners could use digital technology to make vlogs, produce promotional videos, record interviews, make eBooks, etc. to support their understanding of the selected text.                                                                                                                 |
 | making appropriate connections with other parts of the curriculum to develop and deepen learners' bilingual and multilingual skills | • Learners will be encouraged to make connections with other parts of the curriculum throughout their learning of German, in particular in Unit 2, with cross-curricular connections to humanities subjects and of course with the other languages within the LLC Area of Learning Experience. • These connections could be made when reading and discussing their literary text, both in the exploration of themes, but also of characters and relationships. |
+
+
+
+{18}------------------------------------------------
+
+
 
 ## Opportunities for embedding elements of the Curriculum for Wales
 
@@ -186,10 +290,22 @@ Learners should be encouraged to consider the following learning experiences and
 | Local, National & International Contexts | Example • In Unit 2 teachers will have the opportunity to use literary texts to draw comparisons between their local context and those in Germany or a German-speaking country. • Learners could compare and contrast themes such as migration, environmental issues, history, daily routine, school, etc. by looking at their own area and context and that in the selected text. This could be done in the following ways: • Design an infographic to highlight the differences or similarities of the selected theme for the local area and Germany or a German-speaking country. This could also be presented in a Venn Diagram and then discussed. • Learners could interview one of the characters and ask questions based on the similarities and differences between the local and international context. Questions could be gathered and written collaboratively in groups using a platform such as Padlet. |
 | Relationships and Sexuality Education    | There are many opportunities to include Relationships and Sexuality Education (RSE) in GCSE German. These opportunities are important to Learners because learners will build empathy and respect towards others by exploring other cultures. Below are some examples of how RSE can be embedded into teaching and learning:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
+
+
+{19}------------------------------------------------
+
+
+
 |                                      | Example • Teachers could use their chosen text to explore themes relating to relationships, empathy, resilience, emotional well-being, etc. • Learners could write a diary entry in the first person by imagining that they were one of the characters, describing events and how they felt. • Learners could have a discussion to explore how different characters felt and why. This could be done through a role play. • Teachers could encourage learners to explore why a certain character acts or behaves in a certain way. This will encourage them to build empathy with a character. This could require the introduction of more complex language such as Wenn ich ____ wäre. • Teachers could take the opportunity to explore healthy relationships by c reating a ' green flag/r ed flag' to list the qualities for healthy relationships as a group or in pairs.   |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Human Rights Education and Diversity | There are many opportunities to include Human Rights Education and Diversity in GCSE German. These opportunities are important to Learners because they will value and respect the different cultures and communities within their context before broadening their horizons to explore the diverse cultures within Germany or a German speaking country. It is a fundamental right of a democracy to ensure that every citizen is treated with respect and dignity. Learners can express their own views and appreciate the views of others through the study of a variety of topics in German, which reflect a tolerant and diverse society. Below are some examples of how Human Rights Education and Diversity can be embedded into teaching and learning:                                                                                                                   |
 | Human Rights Education and Diversity | Example Teachers could use their chosen literary text to explore themes relating to human rights, migration, antisemitism, identity, stereotypes, beliefs, racism, etc. In teaching it may be important for teachers to highlight that there is no one German culture, but explore the history of Juden in Deutschland or Gastarbeiter in Germany if it is relevant to understanding themes in the selected literary text.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+
+{20}------------------------------------------------
+
+
 
 | • Learners could write a letter to a newspaper to discuss the theme of antisemitism, for example using the text as a stimulus. • Learners could write a blog on one of the themes for a school website. • If you are choosing a text which includes refugees, you may wish to look at the rights of refugees and asylum seekers • https://www.unhcr.org/dach/de/was-wir-tun/asyl-in-deutschland/rechte-nach-der-anerkennung.   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -202,16 +318,34 @@ Learners should be encouraged to consider the following learning experiences and
 | • Learners could write a CV for a character from the selected work and discuss in class what is needed in a                                                                                                                                                                                                                                                                                                                    |
 | CV.                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
+
+
+{21}------------------------------------------------
+
+
+
 | Cross-curricular Skills - Literacy   | Cross-curricular Skills - Literacy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Reading                              | There are many opportunities to include Literacy in GCSE German. These opportunities are important to Learners because they need opportunities to listen, read, speak and write. Below are some examples of how Literacy can be embedded into teaching and learning: Example • Although this unit requires the learners to read a selected literary text and write a response to a set question, this unit will require learners to use all skills of literacy. • Teachers can use the selected literary text to develop reading skills. • Learners could answer comprehension questions on characters, themes or sections of the selected |
 | Reading                              | literary text (these could be factual and progress to more interpretive). • Learners could answer true or false statements and correct those which are false. • Learners could be provided with a text with missing words and asked to fill in key vocabulary or grammar points.                                                                                                                                                                                                                                                                                                                                                           |
 | Writing                              | Example • Writing skills - the learners will be able to write answers to a variety of tasks in the target language demonstrating their understanding of the selected literary text and giving their opinions. • Teachers will use the selected literary text to develop writing skills. • Learners could write an imagined dialogue between two characters in the selected text. • Learners could write character descriptions. • Learns could write a letter to one of the characters in the selected text. • Teachers could scaffold responses to questions by using word banks and sentence builders.                                   |
 
+
+
+{22}------------------------------------------------
+
+
+
 |                                                                                                                | • Teachers could do a plenary by asking learners to describe their favourite character using exactly 20 words, or say what they liked about the selected text and why in exactly 30 words. Teachers could make this more challenging with learners having to include a connective which isn't simple or use another tense.                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Cross-curricular Skills - Numeracy                                                                             | Cross-curricular Skills - Numeracy                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Understanding the number system helps us to represent and compare relationships between numbers and quantities | There are many opportunities to include Numeracy in GCSE German. These opportunities are important to Learners because they need to use numbers and solve problems in real life situations. Below are some examples of how Numeracy can be embedded into teaching and learning: Example • Teachers could use the selected literary text to develop numeracy skills. • Learners could construct a timeline to describe and annotate when events took place. |
+
+
+
+{23}------------------------------------------------
+
+
 
 | Cross-curricular Skills - Digital Competence   | Cross-curricular Skills - Digital Competence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -220,12 +354,24 @@ Learners should be encouraged to consider the following learning experiences and
 | Citizenship                                    | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Producing                                      | • Learners could use an app, such as Book Creator, to write their own version of the text with images, write it from the perspective of a different character or write a different ending. • Learners could create a short comic version of the literary text (if it is not a graphic novel) using a platform such as Storyboard That.                                                                                                                                                                                                                      |
 
+
+
+{24}------------------------------------------------
+
+
+
 | Cross-curricular Skills - Digital Competence Integral Skills   | Cross-curricular Skills - Digital Competence Integral Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Creativity and Innovation                                      | There are many opportunities to include Creativity and Innovation in GCSE German. These opportunities are important to Learners because they need space to be curious and explore new ideas. Below are some examples of how Creativity and Innovation can be embedded into teaching and learning:                                                                                                                                                                                                                                                     |
 | Creativity and Innovation                                      | Example • Teachers can use the selected literary text to encourage learners to be creative and innovative, using the text as a stimulus. • Learners could be creative in writing or narrating an alternative end to the selected text. • Learners could design a social media profile for one of the characters in the selected literary text by writing posts, creating a bio or memes the character might post. • Learners could create a short video trailer for the selected text. • Learners could write a poem or song about the selected text. |
 | Critical Thinking and Problem Solving                          | There are many opportunities to include Critical Thinking and Problem Solving in GCSE German. These opportunities are important to Learners because they should be encouraged to ask questions and to evaluate information and situations. Below are some examples of how Critical Thinking and Problem Solving can be embedded into teaching and learning:                                                                                                                                                                                           |
 | Critical Thinking and Problem Solving                          | Example • Teachers can use the selected literary text to support all learners to develop their critical thinking and problem-solving skills. • Learners could make a list of the different tenses used in the text and explore why they are used.                                                                                                                                                                                                                                                                                                     |
+
+
+
+{25}------------------------------------------------
+
+
 
 | Cross-curricular Skills - Digital Competence   | Cross-curricular Skills - Digital Competence                                                | Cross-curricular Skills - Digital Competence                                                                       |
 |------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -236,6 +382,12 @@ Learners should be encouraged to consider the following learning experiences and
 |                                                | Analyse                                                                                     | Compare the cultural background/political situation/economic situation in the selected text to your local context. |
 |                                                | Evaluate                                                                                    | How would you feel if you were the central character? How would you act?                                           |
 |                                                | Create                                                                                      | Create a new character for the story.                                                                              |
+
+
+
+{26}------------------------------------------------
+
+
 
 | Planning and Organisation   | There are many opportunities to include Planning and Organisation in GCSE German. These opportunities are important to Learners because they should be able to set goals, make decisions and monitor results in the meantime. Learners also need to manage time and check for accuracy. Below are some examples of how Planning and Organisation can be embedded into teaching and learning:                                                                         |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

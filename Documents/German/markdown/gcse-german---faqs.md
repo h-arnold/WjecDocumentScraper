@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE INTERNATIONAL LANGUAGES
@@ -8,7 +10,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+Made for Wales. Ready for the world.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## Resources
 
@@ -45,6 +53,12 @@ A: Some free resources of the suggested works are available. These will be detai
 ## Q: Will ISBN numbers of the suggested works be provided?
 
 A: We will provide ISBN numbers for all suggested works at the 'Preparing to Teach' events.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Unit 3
 

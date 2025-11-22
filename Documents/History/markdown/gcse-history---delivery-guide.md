@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE History
@@ -18,7 +20,19 @@ This Qualifications Wales regulated qualification is not available to centres in
 
 Made for Wales. Ready for the world.
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -42,11 +56,23 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Items, Sources and Interpretations................................................................................ 11                    |
 | Mark Schemes.......................................................................................................................12    |
 
+
+
+{4}------------------------------------------------
+
+
+
 ## SUMMARY OF AMENDMENTS
 
 |   Version | Description              |   Page number |
 |-----------|--------------------------|---------------|
 |         2 | Important dates updated. |            14 |
+
+
+
+{5}------------------------------------------------
+
+
 
 ## Aims of the Delivery Guide
 
@@ -77,6 +103,12 @@ The purpose of this unit is to provide an insight into the development of Wales 
 
 The purpose of this unit is to provide an understanding of an issue in European and/or world history in depth via the study of historical sources and interpretations.
 
+
+
+{6}------------------------------------------------
+
+
+
 ## Unit 3
 
 The purpose of this unit is to provide an overview of an extended historical period enabling learners to explore key concepts.
@@ -91,6 +123,12 @@ The unit will be based on the following concepts:
 - similarity and difference
 - significance and impact
 - cause and consequence.
+
+
+
+{7}------------------------------------------------
+
+
 
 ## Summary of assessment
 
@@ -137,6 +175,12 @@ For the non-examination assessment, learners will undertake a historical enquiry
 
 Learners will complete the assessment of Unit 2 digitally through WJEC's eassessment platform.
 
+
+
+{8}------------------------------------------------
+
+
+
 ## Unit 3: A study of a period in world history Written examination : 1 hour 30% of qualification
 
 60 marks
@@ -169,6 +213,12 @@ Learners will undertake a study of themed events within a continuous period of c
 For the assignment, learners will undertake a historical enquiry, providing an understanding of change across the period.
 
 The topics chosen for non-examination assessment must not replicate or overlap with the content of any of the examined units chosen.
+
+
+
+{9}------------------------------------------------
+
+
 
 ## Assessment Objectives
 
@@ -204,6 +254,12 @@ The distribution of the assessment objectives for this unit is:
 |-------|-------|-------|-------|---------|
 | -     | 5%    | 5%    | 10%   | 20%     |
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -237,6 +293,12 @@ Each stem is used for a slightly different reason:
 | Learners should be aware of | When learners do not need to understand all aspects of the specified content in detail. Teachers should refer to Guidance for Teaching documents for further guidance on the depth and breadth to which this content should be taught. |
 | Learners should understand  | When learners are required to demonstrate and apply knowledge to familiar or unfamiliar contexts and can synthesise and evaluate information for a given purpose.                                                                      |
 | Learners should be able to  | When learners need to apply their knowledge and understanding to source material or demonstrate application of practical skills and techniques.                                                                                        |
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Command words
 
@@ -274,6 +336,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Complete                                                | Add necessary items/information.                                   |
 | Compose                                                 | Write or create.                                                   |
 
+
+
+{12}------------------------------------------------
+
+
+
 | Demonstrate   | Exemplify, describe with reference to examples.                                                                 |
 |---------------|-----------------------------------------------------------------------------------------------------------------|
 | Discuss       | Present key points.                                                                                             |
@@ -305,6 +373,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Support                                      | To maintain or advocate.                                                                                                                                                                           |
 | Synthesise                                   | Combine information, objects or ideas.                                                                                                                                                             |
 
+
+
+{13}------------------------------------------------
+
+
+
 ## Items, Sources and Interpretations
 
 | Term            | Definition                                                                                                                                              |
@@ -312,6 +386,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Items           | Items will then be the term used in assessments to label specific pieces of content, covering both contemporary sources and historical interpretations. |
 | Sources         | Source material is contemporary to the period.                                                                                                          |
 | Interpretations | Interpretation material is created after the period.                                                                                                    |
+
+
+
+{14}------------------------------------------------
+
+
 
 ## Mark Schemes
 
@@ -351,12 +431,24 @@ Candidates may respond to the question by offering the following suggestions. Th
 
 [10]
 
+
+
+{15}------------------------------------------------
+
+
+
 | 4 4 marks • A good level of relevant knowledge • Good understanding of the in the question.                     | issue                                                                                                                                                    | 4 marks • Good application of knowledge and understanding to answer the set question • Addresses the relevant historical concept well.   |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 3 marks • A satisfactory level of relevant knowledge • Satisfactory understanding of the issue in the question. | 3 marks • Satisfactory application of knowledge and understanding to answer the set question • Addresses the relevant historical concept satisfactorily. | 3                                                                                                                                        |
 | 2 marks • Limited relevant knowledge • Limited understanding of the issue in the question.                      | 2 marks • Limited application of knowledge and understanding to answer the set question • Limited attempt to address the relevant historical concept.    | 2                                                                                                                                        |
 | 1 mark • Minimal relevant knowledge • Minimal understanding of the issue in the question.                       | 1 mark • Minimal application of knowledge and understanding to answer the set question.                                                                  | 1                                                                                                                                        |
 | 0 marks No response attempted or nothing worthy of credit.                                                      | 0 marks No response attempted or nothing worthy of credit.                                                                                               | 0 marks No response attempted or nothing worthy of credit.                                                                               |
+
+
+
+{16}------------------------------------------------
+
+
 
 ## Important Dates
 

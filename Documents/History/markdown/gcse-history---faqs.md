@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE HISTORY
@@ -8,7 +10,13 @@
 
 <!-- image -->
 
-MadeforWales. Readyfortheworld.
+MadeforWales. Readyfor theworld.
+
+
+
+{2}------------------------------------------------
+
+
 
 ## Q. What is the structure and focus of the revised GCSE History course?
 
@@ -35,6 +43,12 @@ A. Yes, you are required to teach one medieval, one early modern, and one modern
 For example, students could study Owain Glyndwr c.1354-1416 (medieval) for Unit 1, The Spanish Conquest of the Aztecs c.1492-c.1525: a case study in early modern colonialism (early modern) for Unit 2, and Russia and the Soviet Union c.1861-c.1953 (modern) for Unit 3, with a medieval, early modern, or modern period chosen for Unit 4.
 
 Alternatively, they could study the Vikings c.750-c.1066 (medieval) for Unit 3, Süleyman I c.1520-c.1566: a case study in early modern imperialism (early modern) for Unit 2, Wales in the early to mid-twentieth century c.1914-c.1959 (modern) for Unit 1, and, again select a medieval, early modern, or modern period for Unit 4 (although the material could be taught in unit order if preferred).
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Q. Will exemplar assessments or sample questions be provided?
 
@@ -69,6 +83,12 @@ A. Higher-performing students can explore thematic links between topics, such as
 ## Q. Are there enrichment opportunities for learners?
 
 A. Yes, students can access optional activities such as podcasts, further readings, and online resources. Amgueddfa Cymru is developing school trip itineraries and virtual activities to complement Unit 1's focus on Welsh history, providing additional learning experiences outside the classroom. The Guidance for Teaching will offer optional advanced activities for deeper exploration of the topics.
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Q. Will the content labelled as 'background' be assessed?
 

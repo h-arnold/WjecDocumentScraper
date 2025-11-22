@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 <!-- image -->
 
 ## WJEC GCSE Drama
@@ -14,7 +16,19 @@ Made for Wales. Ready for the world.
 
 <!-- image -->
 
+
+
+{2}------------------------------------------------
+
+
+
 WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
+
+
+
+{3}------------------------------------------------
+
+
 
 ## Contents
 
@@ -37,6 +51,12 @@ WJEC would like to thank the students and teachers of Fitzalan High School, Card
 | Important Dates .................................................................................................................. 17 |
 | Appendix A: Theatre Practitioners and Genres................................................................ 18                       |
 | Appendix B: Glossary of Terminology.............................................................................. 22                  |
+
+
+
+{4}------------------------------------------------
+
+
 
 ## Aims of the Delivery Guide
 
@@ -71,6 +91,12 @@ The purpose of this unit is to:
 - develop learners' resilience, determination and confidence.
 
 © WJEC CBAC Ltd.2025.
+
+
+
+{5}------------------------------------------------
+
+
 
 This unit will focus on:
 
@@ -116,6 +142,12 @@ The length of this piece of theatre will depend on the number of actors in the g
 
 of the following options:
 
+
+
+{6}------------------------------------------------
+
+
+
 Each actor must interact with other actors and/or the audience for a minimum of five minutes . The number of designers in a group does not impact on the length of the piece. Learners may complete the assessment anytime during the course. However, centres should ensure that assessment is completed only when learners have undertaken the necessary teaching and learning and developed the required skills and knowledge.
 
 The assessment contributes to 40% of the overall qualification. The unit will be marked out of total of 96 marks.
@@ -123,6 +155,12 @@ The assessment contributes to 40% of the overall qualification. The unit will be
 The stimuli will be released on WJEC's portal during the September of the first year of study.
 
 This unit will be assessed by the centre and externally moderated by WJEC.
+
+
+
+{7}------------------------------------------------
+
+
 
 ## Unit 2
 
@@ -164,6 +202,12 @@ Learners can choose to be assessed on either acting or design.
 
 Learners work in groups of between two and four actors. Each group may have up to two designers, each offering a different design skill.
 
+
+
+{8}------------------------------------------------
+
+
+
 The length of this piece of theatre will depend on the number of actors in the group and should be as follows:
 
 - Group of two actors:
@@ -192,6 +236,12 @@ The assessment contributes to 30% of the overall qualification. The unit will be
 
 This unit will be assessed by a visiting examiner.
 
+
+
+{9}------------------------------------------------
+
+
+
 ## Unit 3
 
 ## Interpreting Theatre
@@ -213,6 +263,12 @@ This unit will focus on:
 
 The texts chosen for Units 2 and 3 must be different.
 
+
+
+{10}------------------------------------------------
+
+
+
 ## Summary of assessment
 
 Unit 3: Interpreting Theatre
@@ -228,6 +284,12 @@ The qualification is not tiered.
 There is no hierarchy in the order in which the units are presented. The order does not imply the teaching order of the units.
 
 © WJEC CBAC Ltd.2025.
+
+
+
+{11}------------------------------------------------
+
+
 
 ## Assessment Objectives
 
@@ -269,6 +331,12 @@ The distribution of the assessment objectives for this unit is:
 
 © WJEC CBAC Ltd.2025.
 
+
+
+{12}------------------------------------------------
+
+
+
 ## Specification and Assessment Pack
 
 When we develop new qualifications, we produce the following documents:
@@ -301,6 +369,12 @@ When you look through the specification you will notice in the amplification col
 | Learners should understand | When learners are required to demonstrate greater depth than straight identification or recall, for example they can apply knowledge to familiar or unfamiliar contexts and can synthesise and evaluate information for a given purpose. |
 | Learners should be able to | When learners need to apply their knowledge and understanding to a practical situation or demonstrate application of practical skills and techniques.                                                                                    |
 
+
+
+{13}------------------------------------------------
+
+
+
 ## Command words
 
 Learners should be made aware of:
@@ -329,6 +403,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Outline                           | Set out the main characteristics.                                                                                                                                                                        |
 | State                             | Express in clear terms.                                                                                                                                                                                  |
 
+
+
+{14}------------------------------------------------
+
+
+
 ## Command words for application/ demonstration of skills:
 
 | Command Word   | Requirements of response                                                            |
@@ -355,6 +435,12 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Suggest        | State a possible reason or course of action.                                         |
 
 © WJEC CBAC Ltd.2025.
+
+
+
+{15}------------------------------------------------
+
+
 
 ## Mark Schemes
 
@@ -406,6 +492,12 @@ These are examples only and all valid alternatives should be considered and mark
 
 © WJEC CBAC Ltd.2025.
 
+
+
+{16}------------------------------------------------
+
+
+
 ## Levels based mark schemes
 
 For questions requiring extended responses
@@ -418,11 +510,23 @@ For questions requiring extended responses
 |            |                                      | 13-15 marks • Perceptive explanation of character motivation within the chosen extract • Perceptive knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Perceptive knowledge and understanding of how movement can be used to communicate character within the chosen extract • Perceptive knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Highly detailed references to the extract to support the vocal/movement/interaction skills suggested • Highly relevant knowledge, understanding and use of drama terminology. | 13-15 marks • Perceptive explanation of character motivation within the chosen extract • Perceptive knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Perceptive knowledge and understanding of how movement can be used to communicate character within the chosen extract • Perceptive knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Highly detailed references to the extract to support the vocal/movement/interaction skills suggested • Highly relevant knowledge, understanding and use of drama terminology. | 13-15 marks • Perceptive explanation of character motivation within the chosen extract • Perceptive knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Perceptive knowledge and understanding of how movement can be used to communicate character within the chosen extract • Perceptive knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Highly detailed references to the extract to support the vocal/movement/interaction skills suggested • Highly relevant knowledge, understanding and use of drama terminology. | 13-15 marks • Perceptive explanation of character motivation within the chosen extract • Perceptive knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Perceptive knowledge and understanding of how movement can be used to communicate character within the chosen extract • Perceptive knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Highly detailed references to the extract to support the vocal/movement/interaction skills suggested • Highly relevant knowledge, understanding and use of drama terminology. | 13-15 marks • Perceptive explanation of character motivation within the chosen extract • Perceptive knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Perceptive knowledge and understanding of how movement can be used to communicate character within the chosen extract • Perceptive knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Highly detailed references to the extract to support the vocal/movement/interaction skills suggested • Highly relevant knowledge, understanding and use of drama terminology. |
 |            |                                      | 10-12 marks • Detailed explanation of character motivation within the chosen extract • Detailed knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Detailed knowledge and understanding of how movement can be used to communicate character within the chosen extract • Detailed knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Detailed references to the extract to support the vocal/movement/interaction skills                                                                                                   | 10-12 marks • Detailed explanation of character motivation within the chosen extract • Detailed knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Detailed knowledge and understanding of how movement can be used to communicate character within the chosen extract • Detailed knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Detailed references to the extract to support the vocal/movement/interaction skills                                                                                                   | 10-12 marks • Detailed explanation of character motivation within the chosen extract • Detailed knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Detailed knowledge and understanding of how movement can be used to communicate character within the chosen extract • Detailed knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Detailed references to the extract to support the vocal/movement/interaction skills                                                                                                   | 10-12 marks • Detailed explanation of character motivation within the chosen extract • Detailed knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Detailed knowledge and understanding of how movement can be used to communicate character within the chosen extract • Detailed knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Detailed references to the extract to support the vocal/movement/interaction skills                                                                                                   | 10-12 marks • Detailed explanation of character motivation within the chosen extract • Detailed knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Detailed knowledge and understanding of how movement can be used to communicate character within the chosen extract • Detailed knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Detailed references to the extract to support the vocal/movement/interaction skills                                                                                                   |
 
+
+
+{17}------------------------------------------------
+
+
+
 | 3       | 7-9 marks • Satisfactory explanation of character motivation within the chosen extract • Satisfactory knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Satisfactory knowledge and understanding of how movement can be used to communicate character within the chosen extract. • Satisfactory knowledge and understanding of how interaction can be used to communicate character within the chosen extract • General references to the extract to support the vocal/movement/interaction skills suggested • Generally relevant knowledge, understanding and use of drama terminology.   |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2       | • Basic explanation of character motivation within the chosen extract • Basic knowledge and understanding of how voice can be used to communicate the character in the chosen extract • Basic knowledge and understanding of how movement can be used to communicate character within the chosen extract • Basic knowledge and understanding of how interaction can be used to communicate character within the chosen extract • Some references to the extract to support the vocal/movement/interaction skills suggested • Some relevant knowledge, understanding and use of drama terminology.                                                  |
 | 1       | communicate character within the chosen extract                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 0 marks | • Response not credit worthy / not attempted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+
+{18}------------------------------------------------
+
+
 
 ## Indicative content
 
@@ -454,6 +558,12 @@ All the above should be linked closely to characters/moments within the chosen e
 
 © WJEC CBAC Ltd.2025.
 
+
+
+{19}------------------------------------------------
+
+
+
 ## Important Dates
 
 | First Teaching of WJEC GCSE subject               | 2025           |
@@ -464,6 +574,12 @@ All the above should be linked closely to characters/moments within the chosen e
 | First submission of Unit 1 NEA                    | May 2027       |
 | First submission of Unit 2 NEA                    | May 2027       |
 | First Certification                               | 2027           |
+
+
+
+{20}------------------------------------------------
+
+
 
 ## Appendix A: Theatre Practitioners and Genres
 
@@ -501,6 +617,12 @@ The following list outlines some of the main techniques of each practitioner or 
 - distancing
 - episodic structure
 - political perspectives.
+
+
+
+{21}------------------------------------------------
+
+
 
 ## Berkoff:
 
@@ -548,6 +670,12 @@ The following list outlines some of the main techniques of each practitioner or 
 - message
 - audience participation.
 
+
+
+{22}------------------------------------------------
+
+
+
 ## Physical Theatre:
 
 - movement
@@ -571,6 +699,12 @@ The following list outlines some of the main techniques of each practitioner or 
 - anger or hate
 - chorus.
 
+
+
+{23}------------------------------------------------
+
+
+
 ## Appendix B: Glossary of Terminology
 
 The following is a glossary of terminology which is designed to assist centres in preparing learners for the non-examination assessment within Units 1 and 2, and the examined assessment within Unit 3.
@@ -589,6 +723,12 @@ Gesture Stillness Fluency Expression Posture Facial expressions Movement Proxemi
 
 Eye contact Listening and responding Pace Fluency Motivation Positioning Status
 
+
+
+{24}------------------------------------------------
+
+
+
 ## Development/Rehearsal
 
 Conscience corridor (also known as 'conscience alley' or 'thought tunnel')
@@ -599,11 +739,23 @@ Emotional memory Freeze-frame/tableau(x) Hot seating Improvisation Role reversal
 
 Intensity Blackout Snap Fade (in/out) Fade Crossfade Spotlight Flood light Follow spot Lights up Lights down Preset House lights Lighting cue Projections Lanterns Cold wash Warm wash Gobos Specials Strobe Cue sheets Smoke machine Gauze (scrim)
 
+
+
+{25}------------------------------------------------
+
+
+
 ## Sound design
 
 Music Sound effects Sound cue Live sounds Recorded sounds Volume Reverb/echo Sound sources Surround sound Amplification Microphones Ambience Filter Sample Fade (in/out) Soundscape Diegetic/non-diegetic Distortion Feedback Cue sheets White noise Underscore
 
 Leitmotif
+
+
+
+{26}------------------------------------------------
+
+
 
 ## Set design/staging
 
@@ -614,6 +766,12 @@ Furniture
 ## Costume design (including hair and make-up)
 
 Accessories Materials/fabrics Garments Hairstyles Wigs Contouring Pattern Period Style
+
+
+
+{27}------------------------------------------------
+
+
 
 ## Performance Styles
 

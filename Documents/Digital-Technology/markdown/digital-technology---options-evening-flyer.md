@@ -1,3 +1,5 @@
+{1}------------------------------------------------
+
 ## DIGITAL TECHNOLOGY?
 
 The WJEC GCSE in Digital Technology is a great way to dive into the world of digital technology, broaden your skills and knowledge  of  this  subject  that  we  all  use.  It  will  help  you become an independent, confident and knowledgeable user of digital technologies and open exciting career opportunities for your future.
