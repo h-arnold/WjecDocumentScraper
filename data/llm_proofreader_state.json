@@ -648,9 +648,45 @@
           21,
           22,
           23,
-          24
+          24,
+          25,
+          26,
+          27
         ],
         "total_issues": 82
+      },
+      "gcse-drama---guidance-for-teaching-unit-2.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "total_issues": 35
+      },
+      "gcse-drama---guidance-for-teaching-unit-3.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "total_issues": 60
       }
     }
   }
