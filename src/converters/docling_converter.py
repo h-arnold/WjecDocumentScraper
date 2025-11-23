@@ -12,9 +12,24 @@ class DoclingConverter(PdfToMarkdownConverter):
     _PAGE_MARKER_PLACEHOLDER = "{DOCLING_PAGE}"
 
     def __init__(self) -> None:
-        from docling.document_converter import DocumentConverter
+        from docling.datamodel import vlm_model_specs
+        from docling.datamodel.base_models import InputFormat
+        from docling.datamodel.pipeline_options import VlmPipelineOptions
+        from docling.document_converter import DocumentConverter, PdfFormatOption
+        from docling.pipeline.vlm_pipeline import VlmPipeline
 
-        self._converter = DocumentConverter()
+        pipeline_options = VlmPipelineOptions(
+            vlm_options=vlm_model_specs.GRANITEDOCLING_TRANSFORMERS,
+        )
+
+        self._converter = DocumentConverter(
+            format_options={
+                InputFormat.PDF: PdfFormatOption(
+                    pipeline_cls=VlmPipeline,
+                    pipeline_options=pipeline_options,
+                ),
+            }
+        )
 
     def convert(self, pdf_path: Path) -> ConversionResult:
         result = self._converter.convert(pdf_path)
