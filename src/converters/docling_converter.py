@@ -12,6 +12,10 @@ class DoclingConverter(PdfToMarkdownConverter):
     _PAGE_MARKER_PLACEHOLDER = "{DOCLING_PAGE}"
 
     def __init__(self) -> None:
+        import os
+
+        os.environ["OMP_NUM_THREADS"] = "6"
+
         from docling.datamodel import vlm_model_specs
         from docling.datamodel.base_models import InputFormat
         from docling.datamodel.pipeline_options import VlmPipelineOptions
