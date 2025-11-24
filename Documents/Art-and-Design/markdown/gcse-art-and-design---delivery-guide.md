@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -20,11 +20,11 @@ Ready for the world. This Qualifications Wales regulated qualification is not av
 
 Made for Wales.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ![](_page_1_Picture_0.jpeg)
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 # Contents
 
@@ -46,7 +46,7 @@ Made for Wales.
 | Mark Schemes                                                 | 8  |
 | Important Dates                                              | 11 |
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 # <span id="page-3-0"></span>Aims of the Delivery Guide
 
@@ -79,7 +79,7 @@ The GCSE Art and Design qualification is available in the following pathways wit
 
 Learners must select a pathway. The subject content in 1.1, 1.2 and 1.3 must be followed for each pathway.
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
 # <span id="page-4-0"></span>Unit 1 Overview
 
@@ -109,7 +109,7 @@ Learners can have access to resources and/preparatory notes.
 
 There is no set time limit for the completion of the portfolio. It is recommended that portfolio work should begin during the spring or summer term in the first year of study The portfolio must be completed before Unit 2 (Externally Set Assignment) is released to learners in the spring term of the final year of study. Candidates work should be stored securely after submission and during the marking, moderation and review periods. Candidates work should not be released until the Review of Marking and Moderation period has expired.
 
-{5}------------------------------------------------
+{6}------------------------------------------------
 
 # <span id="page-5-0"></span>Unit 2 Overview
 
@@ -136,7 +136,7 @@ The Externally Set Assignment will be released to centres prior to the end of th
 
 These are examples of big ideas that could be included in the Externally Set Assignment.
 
-{6}------------------------------------------------
+{7}------------------------------------------------
 
 # <span id="page-6-0"></span>Summary of assessment
 
@@ -176,7 +176,7 @@ Learners will develop their response over a preparatory study period. The amount
 
 Responses will be researched, developed and refined during the preparatory study period. They should take the form of practical, critical and contextual preparatory work/supporting studies along with reflections on the process. Only work produced during the preparatory period can be used and taken forward to Part 2.
 
-{7}------------------------------------------------
+{8}------------------------------------------------
 
 Part 1 of Unit 2 has the same controls as Unit 1 as stated in the Assessment Pack.
 
@@ -196,7 +196,7 @@ Centres are required to submit marks for both internally assessed units online d
 
 When marks have been submitted to WJEC, the online system will apply the sample formula based on the overall rank order for the total entry and immediately identify the sample of candidates whose work is selected for moderation.
 
-{8}------------------------------------------------
+{9}------------------------------------------------
 
 # <span id="page-8-0"></span>Assessment Objectives (contribution to entire qualification)
 
@@ -216,7 +216,7 @@ When marks have been submitted to WJEC, the online system will apply the sample 
 |-----|-----|-----|-----|-------|
 | 10% | 10% | 10% | 10% | 40%   |
 
-{9}------------------------------------------------
+{10}------------------------------------------------
 
 # <span id="page-9-0"></span>Specification and Assessment Pack
 
@@ -248,7 +248,7 @@ Each stem is used for a slightly different reason:
 | Learners should<br>be able to                | When learners need to apply their knowledge and understanding to<br>situations or demonstrate application of practical skills and<br>techniques.                                                                                                    |
 | Learners should<br>be aware of               | When learners should expand knowledge of the specified content<br>through a range of contexts. Teachers should refer to Guidance for<br>Teaching documents for further guidance on the depth and breadth<br>to which this content should be taught. |
 
-{10}------------------------------------------------
+{11}------------------------------------------------
 
 # Mark Schemes
 
@@ -267,7 +267,7 @@ For questions requiring extended responses
 | 5                                   | 25-30 marks                                                                                                                                                                                                              | 25-30 marks                                                                                                                                                                                                                                                                                                                                                                                   | 25-30 marks                                                                                                                                                                                                                                                                                  | 25-30 marks                                                                                                                                                                                                                                                                                               |                                         |  |  |  |  |
 |                                     | Sophisticated and thorough development of ideas through sustained, focused and coherent investigations.<br>Perceptive and rigorous critical analysis of sources, providing the basis for assured, independent responses. | Ideas are refined and explored through rigorous selection and purposeful, creative experimentation.<br>Perceptive and sophisticated use of media, materials, techniques and processes that are skilfully controlled and imaginatively exploited.<br>Perceptive and discriminating ongoing review and evaluation consistently informs the refinement and development of work as it progresses. | Sophisticated recording of ideas, observations and insights through extensive, coherent research and enquiry that is highly relevant to personal intentions.<br>Perceptive, rigorous and effective critical reflection as work progresses, demonstrating depth of understanding and meaning. | Highly imaginative, personal and meaningful response which realises intentions in a sophisticated, coherent and assured manner.<br>The presentation shows a perceptive and thorough understanding of visual language and the purpose and intention of the work is very clearly and convincingly conveyed. |                                         |  |  |  |  |
 
-{11}------------------------------------------------
+{12}------------------------------------------------
 
 | 4                                                                                                                                                   | 19-24 marks                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -281,9 +281,9 @@ For questions requiring extended responses
 | 0                                                                                                                                                   | 0 marks                                                                                                                                                                                                                                                                 | 0 marks                                                                                                                                                                                                                                                                                                                                                | 0 marks                                                                                                                                                                                                                                                                                                      | 0 marks                                                                                                                                                                                                                                                                             |
 | Response not worthy of credit or<br>not attempted.                                                                                                  | Response not worthy of credit or<br>not attempted.                                                                                                                                                                                                                      | Response not worthy of credit or<br>not attempted.                                                                                                                                                                                                                                                                                                     | Response not worthy of credit or<br>not attempted.                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                     |
 
-{12}------------------------------------------------
-
 {13}------------------------------------------------
+
+{14}------------------------------------------------
 
 # <span id="page-13-0"></span>Important Dates
 

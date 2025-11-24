@@ -8,6 +8,7 @@ Functions:
     - build_page_number_map: Build a map from character position to page number
     - get_page_number_at_position: Get the page number at a specific position
     - extract_page_text: Extract text from a specific page or range of pages
+    - increment_page_markers: Convert page markers from 0-indexed to 1-indexed
 """
 
 from __future__ import annotations
@@ -224,5 +225,59 @@ def extract_pages_text(text: str, page_numbers: Iterable[int]) -> dict[int, str]
         except ValueError:
             # Skip invalid page numbers
             continue
+
+    return result
+
+
+def increment_page_markers(text: str) -> str:
+    """Increment all page markers from 0-indexed to 1-indexed.
+
+    Converts page markers in the format {N}---- to {N+1}----, preserving
+    the exact number of dashes. This is idempotent - if the first marker
+    is not {0}, the text is returned unchanged.
+
+    Args:
+        text: The markdown text containing page markers
+
+    Returns:
+        The text with all page markers incremented by 1, or original text
+        if already 1-indexed
+
+    Example:
+        >>> text = "{0}----\\nPage 0\\n{1}----\\nPage 1"
+        >>> increment_page_markers(text)
+        '{1}----\\nPage 0\\n{2}----\\nPage 1'
+        >>> increment_page_markers("{1}----\\nAlready 1-indexed")
+        '{1}----\\nAlready 1-indexed'
+    """
+    markers = find_page_markers(text)
+
+    if not markers:
+        # No markers found, return unchanged
+        return text
+
+    # Check if first marker is {0} - if not, assume already 1-indexed
+    if markers[0].page_number != 0:
+        return text
+
+    # Build list of (page_number, match_object) tuples for all markers
+    marker_matches: list[tuple[int, re.Match[str]]] = []
+    for match in PAGE_MARKER_PATTERN.finditer(text):
+        page_num = int(match.group(1))
+        marker_matches.append((page_num, match))
+
+    # Sort by page number in descending order to avoid double-incrementing
+    # (we want to replace {10} before {1} so we don't accidentally change {1} to {2}
+    # and then {10} to {11} when we later encounter the original {10})
+    marker_matches.sort(key=lambda x: x[0], reverse=True)
+
+    # Replace each marker, working backwards
+    result = text
+    for page_num, match in marker_matches:
+        old_marker = match.group(0)
+        # Preserve the exact dash count and whitespace
+        dashes = match.group(0)[len(f"{{{page_num}}}") :]
+        new_marker = f"{{{page_num + 1}}}{dashes}"
+        result = result.replace(old_marker, new_marker, 1)
 
     return result

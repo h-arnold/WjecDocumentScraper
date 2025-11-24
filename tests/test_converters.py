@@ -614,24 +614,25 @@ def test_docling_converter_adds_page_markers(monkeypatch, tmp_path: Path) -> Non
         fake_pdf.write_bytes(b"%PDF-1.4\n")
 
         result = converter.convert(fake_pdf)
-        
+
         # Should have page markers in the marker format: {N}----...
         assert "{0}------------------------------------------------" in result.markdown
         assert "{1}------------------------------------------------" in result.markdown
-        
+
         # Verify page markers are numbered sequentially
         # With 2 pages and 1 placeholder between them, we should have 2 markers: {0} and {1}
         import re
+
         pattern = re.compile(r"^\{(\d+)\}[-]+\s*$", re.MULTILINE)
         matches = list(pattern.finditer(result.markdown))
         assert len(matches) == 2, f"Expected 2 page markers, got {len(matches)}"
         assert matches[0].group(1) == "0"
         assert matches[1].group(1) == "1"
-        
+
         # Verify each marker has exactly 48 dashes
         for match in matches:
             assert match.group(0).strip().count("-") == 48
-            
+
         # Verify markers appear before content
         assert result.markdown.find("{0}") < result.markdown.find("Page 0 content")
         assert result.markdown.find("{1}") < result.markdown.find("Page 1 content")
@@ -652,10 +653,7 @@ def test_docling_converter_page_markers_work_with_page_utils(
             def export_to_markdown(page_break_placeholder=None):
                 if page_break_placeholder:
                     # Simulate a 2-page PDF with 1 placeholder between pages
-                    return (
-                        f"First page\n\n{page_break_placeholder}\n\n"
-                        f"Second page"
-                    )
+                    return f"First page\n\n{page_break_placeholder}\n\n" f"Second page"
                 return "First page\n\nSecond page"
 
             return SimpleNamespace(
@@ -675,18 +673,18 @@ def test_docling_converter_page_markers_work_with_page_utils(
         fake_pdf.write_bytes(b"%PDF-1.4\n")
 
         result = converter.convert(fake_pdf)
-        
+
         # Test with page_utils functions
         # With 2 pages, we should have 2 markers: {0} and {1}
         markers = find_page_markers(result.markdown)
         assert len(markers) == 2, f"Expected 2 page markers, got {len(markers)}"
         assert markers[0].page_number == 0
         assert markers[1].page_number == 1
-        
+
         # Verify markers appear before content
         assert result.markdown.find("{0}") < result.markdown.find("First page")
         assert result.markdown.find("{1}") < result.markdown.find("Second page")
-        
+
         # Test page number map
         page_map = build_page_number_map(result.markdown)
         assert len(page_map) > 0

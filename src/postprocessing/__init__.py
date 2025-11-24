@@ -67,11 +67,42 @@ def copy_root_pdfs(subject_dir: Path, pdf_directory: Path) -> list[Path]:
 def convert_pdf_to_markdown(
     converter: PdfToMarkdownConverter, pdf_path: Path, markdown_directory: Path
 ) -> Path:
-    """Convert a PDF to Markdown and return the output path."""
+    """Convert a PDF to Markdown and return the output path.
+
+    Also saves any extracted images to the markdown directory.
+    """
     markdown_directory.mkdir(parents=True, exist_ok=True)
     result = converter.convert(pdf_path)
     markdown_path = markdown_directory / f"{pdf_path.stem}.md"
     markdown_path.write_text(result.markdown, encoding="utf-8")
+
+    # Save any extracted images to the markdown directory
+    if result.metadata and "images" in result.metadata:
+        images = result.metadata["images"]
+        if images:
+            logger.info(
+                "Saving %d extracted image(s) for %s", len(images), pdf_path.name
+            )
+            for image_name, image_data in images.items():
+                image_path = markdown_directory / image_name
+                try:
+                    # Handle PIL Image objects (from Marker)
+                    if hasattr(image_data, "save"):
+                        image_data.save(image_path)
+                    # Handle raw bytes
+                    elif isinstance(image_data, bytes):
+                        image_path.write_bytes(image_data)
+                    else:
+                        logger.warning(
+                            "Unknown image data type for %s: %s",
+                            image_name,
+                            type(image_data),
+                        )
+                except Exception as exc:
+                    logger.warning(
+                        "Failed to save image %s: %s", image_name, exc, exc_info=True
+                    )
+
     return markdown_path
 
 

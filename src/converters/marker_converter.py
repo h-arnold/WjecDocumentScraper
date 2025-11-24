@@ -4,13 +4,19 @@ import os
 from pathlib import Path
 from typing import Any
 
+from ..utils.page_utils import increment_page_markers
 from .base import ConversionResult, PdfToMarkdownConverter
 
 
 class MarkerConverter(PdfToMarkdownConverter):
     """Converter using the marker library."""
 
-    def __init__(self, *, dotenv_path: str | Path | None = None) -> None:
+    def __init__(
+        self,
+        *,
+        dotenv_path: str | Path | None = None,
+        increment_page_numbers: bool = True,
+    ) -> None:
         from dotenv import load_dotenv
         from marker.converters.pdf import PdfConverter
         from marker.models import create_model_dict
@@ -21,14 +27,15 @@ class MarkerConverter(PdfToMarkdownConverter):
         else:
             load_dotenv()
 
+        self._increment_page_numbers = increment_page_numbers
         self._model_dict = create_model_dict()
         self._config: dict[str, Any] = {
             "paginate_output": True,
             "use_llm": True,
             "gemini_api_key": os.environ.get("GEMINI_API_KEY"),
             "gemini_model_name": "gemini-2.5-flash-lite",
-            "GoogleGeminiService_retry_wait_time" :5,
-            "GoogleGeminiService_timeout":60
+            "GoogleGeminiService_retry_wait_time": 30,
+            "GoogleGeminiService_timeout": 60,
         }
         self._converter = PdfConverter(
             artifact_dict=self._model_dict,
@@ -50,6 +57,10 @@ class MarkerConverter(PdfToMarkdownConverter):
         markdown_text = getattr(markdown_output, "markdown", None)
         if markdown_text is None:
             raise ValueError("Marker conversion did not return markdown output")
+
+        # Apply page number increment if enabled
+        if self._increment_page_numbers:
+            markdown_text = increment_page_markers(markdown_text)
 
         metadata: dict[str, Any] | None = None
         images = getattr(markdown_output, "images", None)

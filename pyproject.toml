@@ -18,6 +18,7 @@ dependencies = [
     "mistralai>=1.9.11",
     "isort>=7.0.0",
     "docling>=2.63.0",
+    "pre-commit>=4.3.0",
 ]
 
 [tool.uv.sources]
