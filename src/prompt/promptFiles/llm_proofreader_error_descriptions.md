@@ -1,7 +1,5 @@
 ### Error Categories
 
-### Error Categories
-
 - `SPELLING_ERROR`: The token is not a valid word in the dictionary for the target dialect. For English, always use British English spelling and conventions.
     - **Examples:** `Malcom X` (should be Malcolm), `warravaged` (missing hyphen), `definately`.
 - `ABSOLUTE_GRAMMATICAL_ERROR`: An objective breach of syntax rules - wrong in all contexts.

@@ -27,8 +27,8 @@ class MarkerConverter(PdfToMarkdownConverter):
             "use_llm": True,
             "gemini_api_key": os.environ.get("GEMINI_API_KEY"),
             "gemini_model_name": "gemini-2.5-flash-lite",
-            "GoogleGeminiService_retry_wait_time" :20,
-            "GoogleGeminiService_timeout":60
+            "GoogleGeminiService_retry_wait_time": 30,
+            "GoogleGeminiService_timeout": 60,
         }
         self._converter = PdfConverter(
             artifact_dict=self._model_dict,
