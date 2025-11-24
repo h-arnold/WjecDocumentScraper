@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -13,7 +13,7 @@
 Made for Wales.
 Ready for the world.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ## General
 
@@ -57,7 +57,7 @@ A: No, information must remain secure until after 2nd January. This is strictly 
 
 A: Learners must be offered the entire ESA digital paper and should select their own topic.
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 #### **Q: My centre has previously carried out the 10-hour supervised time period within lesson time — how will we manage this now that there is a requirement to start with a minimum two-hour session?**
 
