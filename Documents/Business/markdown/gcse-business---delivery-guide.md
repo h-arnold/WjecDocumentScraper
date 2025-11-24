@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -20,11 +20,11 @@ Ready for the world. This Qualifications Wales regulated qualification is not av
 
 Made for Wales.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ![](_page_1_Picture_0.jpeg)
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 ## Contents
 
@@ -48,7 +48,7 @@ Made for Wales.
 | Mark Schemes                                  | 13 |
 | Important Dates                               | 15 |
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 <span id="page-3-0"></span>
 
@@ -92,7 +92,7 @@ The unit will be based on the following concepts:
 - opportunities and challenges
 - sustainability.
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
 <span id="page-4-0"></span>
 
@@ -135,7 +135,7 @@ This assessment contributes to 15% of the overall qualification grade and will t
 
 This unit will be assessed through an externally set assignment and will be set and marked by WJEC. Assessments must be submitted digitally (they may be hand written and scanned, or completed digitally).
 
-{5}------------------------------------------------
+{6}------------------------------------------------
 
 <span id="page-5-0"></span>
 
@@ -169,7 +169,7 @@ The unit will be based on the following concepts:
 - opportunities and challenges
 - sustainability.
 
-{6}------------------------------------------------
+{7}------------------------------------------------
 
 <span id="page-6-0"></span>
 
@@ -215,7 +215,7 @@ This assessment contributes to 25% of the overall qualification grade and will t
 
 This unit will be assessed through an externally set assignment and will be marked by the centre and moderated by WJEC. Assessments must be submitted digitally (they may be hand written and scanned, or completed digitally).
 
-{7}------------------------------------------------
+{8}------------------------------------------------
 
 <span id="page-7-0"></span>
 
@@ -265,7 +265,7 @@ Non-examination assessment: 8 hours
 
 Set by WJEC, marked by the Centre and moderated by WJEC. The assignment, which will include a brief and several tasks, will be available via the WJEC Portal, and will remain the same for the lifetime of the specification.
 
-{8}------------------------------------------------
+{9}------------------------------------------------
 
 <span id="page-8-0"></span>
 
@@ -331,7 +331,7 @@ The distribution of the assessment objectives for this unit is:
 |-----|-----|-----|-----|-------|
 | -   | 5%  | 5%  | 15% | 25%   |
 
-{9}------------------------------------------------
+{10}------------------------------------------------
 
 <span id="page-9-0"></span>
 
@@ -370,7 +370,7 @@ Each stem is used for a slightly different reason:
 | Learners should<br>understand  | When learners are required to demonstrate greater depth of<br>knowledge and understanding, application of knowledge to familiar<br>or unfamiliar contexts and analysis and evaluation of information for<br>a given purpose.                    |
 | Learners should<br>be able to  | When learners need to apply their knowledge and understanding to<br>a practical situation or demonstrate application of practical skills and<br>techniques.                                                                                     |
 
-{10}------------------------------------------------
+{11}------------------------------------------------
 
 <span id="page-10-0"></span>
 
@@ -406,7 +406,7 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Outline                           | Set out the main characteristics.                                                                                                                                                                                 |
 | Place                             | Put in a particular position.                                                                                                                                                                                     |
 
-{11}------------------------------------------------
+{12}------------------------------------------------
 
 | Sort/ Order | Arrange systematically. |
 |-------------|-------------------------|
@@ -467,9 +467,9 @@ The following tables are not exhaustive, but will give you a good idea of the co
 |                                                        | Employ, take or hold something for a purpose.                                                                                                                                 |
 | Write                                                  | Formulate and write down (for example an algorithm)                                                                                                                           |
 
-{12}------------------------------------------------
-
 {13}------------------------------------------------
+
+{14}------------------------------------------------
 
 | Command words for synthesis and evaluation |                                                                                                                                                                                                             |  |  |  |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
@@ -496,7 +496,7 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Reflect                                    | To consider thoughts, experiences, situation or issue.                                                                                                                                                      |  |  |  |
 | Review                                     | To consider something with the intention making changes if<br>necessary.                                                                                                                                    |  |  |  |
 
-{14}------------------------------------------------
+{15}------------------------------------------------
 
 <span id="page-14-0"></span>
 
@@ -506,7 +506,7 @@ The following tables are not exhaustive, but will give you a good idea of the co
 | Support    | To maintain or advocate.                                                   |
 | Synthesise | Combine information, objects or ideas.                                     |
 
-{15}------------------------------------------------
+{16}------------------------------------------------
 
 # Mark Schemes
 
@@ -532,7 +532,7 @@ For short answer questions with a range of possible responses
 |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |     |     |            | 1                                                                                                                                                                                                                                                                                                   | 2                                                                                                                                                                                                                                                                                       | 3                                                                                                                                                                                                                                                                                           | 4                                                                                                                                                                                                                                                                                    | 5                                                                                                                                                                                                                                                                                | 6                                                                                                                                                                                                                                                                                  |
 |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2   |     |     | 2          | Minimal evaluation of<br>the potential success<br>of the entrepreneurial<br>proposal using<br>Elkington's triple<br>bottom line.<br>Points<br>are one-sided.<br>Partial coverage of<br>one or more<br>elements of<br>Elkington's triple<br>bottom line model<br>are considered but<br>lack context. | Limited evaluation of<br>the potential success<br>of the entrepreneurial<br>proposal using<br>Elkington's triple<br>bottom line.<br>Points<br>may be one-sided.<br>At<br>least two<br>elements of<br>Elkington's triple<br>bottom line model<br>are considered but<br>may lack context. | Some<br>evaluation of<br>the potential success<br>of the entrepreneurial<br>proposal, using<br>Elkington's triple<br>bottom line.<br>Points<br>may be one-sided.<br>At<br>least two<br>elements of<br>Elkington's triple<br>bottom line model<br>are considered and<br>most are in context. | Detailed<br>evaluation<br>of the potential<br>success of the<br>entrepreneurial<br>proposal using<br>Elkington's triple<br>bottom line. Points<br>may be one-sided.<br>All elements of<br>Elkington's triple<br>bottom line model<br>are considered and<br>mostly<br>are in context. | Effective and detailed<br>evaluation of the<br>potential success of<br>the entrepreneurial<br>proposal, using<br>Elkington's triple<br>bottom line, which<br>may lack balance.<br>All<br>elements of<br>Elkington's triple<br>bottom line model are<br>considered in<br>context. | Highly effective,<br>balanced and highly<br>detailed evaluation of<br>the potential success<br>of the entrepreneurial<br>proposal using<br>Elkington's triple<br>bottom line. All<br>elements of<br>Elkington's triple<br>bottom line model<br>are fully considered<br>in context. |
 
-{16}------------------------------------------------
+{17}------------------------------------------------
 
 ### **Levels based mark schemes**
 
@@ -540,7 +540,7 @@ For questions requiring extended responses
 
 **Task 5** Evaluate the potential success of your entrepreneurial proposal using Elkington's triple bottom line model.
 
-{17}------------------------------------------------
+{18}------------------------------------------------
 
 <span id="page-17-0"></span>
 
