@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -13,7 +13,7 @@
 Made for Wales.
 Ready for the world.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 # General Specification Questions
 
@@ -55,7 +55,7 @@ Deglobalisation: Learners will examine the concept of deglobalisation and its po
 
 Evolving job market trends: The specification emphasises the exploration of current job market trends in Wales, the UK, and globally, considering the impact of the changing workplace on future skills demands.
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 Technology's impact on business: Learners will analyse how technological advancements, like e-commerce, m-commerce, and remote working, influence business location decisions. The specification includes a broader range of technologies used in contemporary business, such as 3D printing, AI, automation, cloud storage, digitization, EPOS, online payment systems, QR codes, robotics, and social media.
 
@@ -91,7 +91,7 @@ A: Part A will remain the same for lifetime of the qualification. It requires le
 
 In Part B, WJEC will select two themes from the specification content (Business ethics, Business and the environment and Business and Technology) and centres and/or learners will choose one of the selected themes to investigate. It is up to the centre to decide whether to give learners a choice over which of the two themes to investigate, or whether all learners investigate the same theme. The centre will need to teach the content of the theme(s) which learners are investigating.
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 ## Unit 3 – Examination
 
