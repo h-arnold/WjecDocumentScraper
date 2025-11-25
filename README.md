@@ -9,7 +9,7 @@ A command-line tool that:
 
 ## Why does this tool need to exist?
 
-[See the comment thread on LinkedIn that started all of this off.](https://www.linkedin.com/feed/update/urn:li:ugcPost:7386346400038682624?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7386346400038682624%2C7386507884081270784%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287386507884081270784%2Curn%3Ali%3AugcPost%3A7386346400038682624%29).
+[See the comment thread on LinkedIn that started all of this off.](https://www.linkedin.com/feed/update/urn:li:ugcPost:7386346400038682624?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7386346400038682624%2C7386507884081270784%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287386507884081270784%2Curn%3Ali%3AugcPost%3A7386346400038682624%29)
 
 Because it's clear that the WJEC do not have any quality assurance process for their qualification materials, and teachers in Wales are left to pick up the pieces.
 
