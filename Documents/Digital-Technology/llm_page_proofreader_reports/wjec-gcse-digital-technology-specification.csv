@@ -280,3 +280,23 @@ GCSE **Digital technology** supports learners to:
 187,12,System (DNS)web,"Locators (URLs)Domain Name **System (DNS)web** browsers.Learners should know:the purpose and characteristics of different technologies<br>used for transmitting data, including:broadbandsatellite",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,Missing comma to separate list items.
 188,12,browsers.Learners,"System (DNS)web **browsers.Learners** should know:the purpose and characteristics of different technologies<br>used for transmitting data, including:broadbandsatellite",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,Missing space after a full stop before a new sentence begins.
 189,12,broadbandsatellite,"used for transmitting data, including:**broadbandsatellite**",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,Missing comma to separate list items.
+190,13,voice driven interface,"- biometrics
+- **voice driven interface**
+- eye tracking interface.",ErrorCategory.STYLISTIC_PREFERENCE,85,The compound adjective 'voice-driven' should be hyphenated when preceding a noun for clarity in British English.
+191,13,eye tracking interface,"- voice driven interface
+- **eye tracking interface**.",ErrorCategory.STYLISTIC_PREFERENCE,85,The compound adjective 'eye-tracking' should be hyphenated when preceding a noun for clarity in British English.
+192,14,key-features,"- the purpose and **key-features** of data backup processes, including:
+  - full backup
+  - incremental backup",ErrorCategory.STYLISTIC_PREFERENCE,80,'Key features' is generally written as two separate words when 'key' acts as an adjective modifying 'features'.
+193,14,backing-up data,"- differential backup
+- Grandfather Father Son (GFS) methodology as an approach for **backing-up data**.",ErrorCategory.STYLISTIC_PREFERENCE,85,"'Backing up' is typically written as two words when used as a phrasal verb or gerund phrase, rather than hyphenated."
+194,14,solid state storage,"- optical storage
+- **solid state storage**.",ErrorCategory.STYLISTIC_PREFERENCE,85,The compound adjective 'solid-state' should be hyphenated when preceding a noun for clarity in British English.
+195,15,including,"## Cloud services
+
+Learners should understand cloud services **including**
+
+- the difference between cloud computing and cloud storage",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A colon is required after 'including' to properly introduce a list in formal writing.
+196,15,big bang' method,"- processes involved in implementing digital systems, including:
+  - direct '**big bang' method**
+  - parallel method",ErrorCategory.STYLISTIC_PREFERENCE,85,The compound adjective 'big-bang' should be hyphenated when preceding a noun for clarity in British English.
