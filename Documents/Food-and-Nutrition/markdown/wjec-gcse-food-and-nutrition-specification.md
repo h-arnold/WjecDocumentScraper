@@ -1,114 +1,103 @@
+
+
 {1}------------------------------------------------
 
-<!-- image -->
+![](_page_0_Picture_0.jpeg)
 
-## WJEC GCSE Food and Nutrition
+![](_page_0_Picture_1.jpeg)
+
+# WJEC GCSE Food and Nutrition
 
 Approved by Qualifications Wales
 
-## Specification
+# Specification
 
 Teaching from 2025 For award from 2027
 
-<!-- image -->
-
 Version 2 - February 2025
 
-<!-- image -->
+![](_page_0_Picture_7.jpeg)
 
-This Qualifications Wales regulated qualification is not available to centres in England.
+Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
 
-Made for Wales. Ready for the world.
-
-
+Made for Wales.
 
 {2}------------------------------------------------
 
-
-
-WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
-
-
+![](_page_1_Picture_0.jpeg)
 
 {3}------------------------------------------------
 
-
-
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
-- Made for Wales GCSE Qualification Approval Criteria which set out requirements for any new GCSE qualification Approved for first teaching from September 2025 and beyond.
-- Standard Conditions of Recognition which contains the rules that all awarding bodies and their qualifications must meet when offering qualifications to learners in Wales.
-- Approval Criteria for GCSE Food and Nutrition which sets out the subject specific requirements for GCSE Food and Nutrition qualifications from September 2025 and beyond.
-
-
+- [Made for Wales GCSE Qualification Approval Criteria](https://qw-website-prod-master.azurewebsites.net/media/t1lhpbwl/made-for-wales-gcse-qualification-approval-criteria.pdf) which set out requirements for any new GCSE qualification Approved for first teaching from September 2025 and beyond.
+- [Standard Conditions of Recognition](https://qualifications.wales/media/p54jkkfe/standard-conditions-of-recognition.pdf) which contains the rules that all awarding bodies and their qualifications must meet when offering qualifications to learners in Wales.
+- Approval Criteria for GCSE [Food and Nutrition](https://qualifications.wales/media/ukpi50z1/gcse-food-and-nutrition-approval-criteria.pdf) which sets out the subject specific requirements for GCSE Food and Nutrition qualifications from September 2025 and beyond.
 
 {4}------------------------------------------------
 
+# SUMMARY OF AMENDMENTS
 
-
-## SUMMARY OF AMENDMENTS
-
-|   Version | Description                                                                                                                                          |   Page number |
-|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-|         2 | Set and marked by the centre corrected to Set by WJEC, marked by Centre . Please note there are two instances of this change (for Unit 2 and Unit 3) |             5 |
-
-
+| Version | Description                                                                                                                                                        | Page number |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 2       | Set and marked by the centre<br>corrected<br>to Set by WJEC,<br>marked by Centre.<br>Please note there are two instances of<br>this change (for Unit 2 and Unit 3) | 5           |
 
 {5}------------------------------------------------
 
+# **CONTENTS**
 
-
-## CONTENTS
-
-| INTRODUCTION.........................................................................................7                                                                                         | INTRODUCTION.........................................................................................7                                                                                         | INTRODUCTION.........................................................................................7            |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                | 1.1 Aims                                                                                                                                                                                       | ...................................................................................................7              |
-|                                                                                                                                                                                                | 1.2 Curriculum for                                                                                                                                                                             | Wales..........................................................................7                                  |
-|                                                                                                                                                                                                | 1.3 Prior learning and progression                                                                                                                                                             | ...........................................................9                                                      |
-|                                                                                                                                                                                                | 1.4 Guided learning                                                                                                                                                                            | hours........................................................................9                                    |
-|                                                                                                                                                                                                | 1.5 Use of language                                                                                                                                                                            | .................................................................................9                                |
-|                                                                                                                                                                                                | 1.6 Equality and fair access                                                                                                                                                                   | .....................................................................9                                            |
-| 2                                                                                                                                                                                              | SUBJECT CONTENT ...............................................................................11                                                                                              | SUBJECT CONTENT ...............................................................................11                 |
-|                                                                                                                                                                                                | How to read the amplification ...................................................................11                                                                                            | How to read the amplification ...................................................................11               |
-|                                                                                                                                                                                                | Unit 1 ........................................................................................................11                                                                              | Unit 1 ........................................................................................................11 |
-|                                                                                                                                                                                                | Unit 2 ........................................................................................................18                                                                              | Unit 2 ........................................................................................................18 |
-|                                                                                                                                                                                                | Unit 3 ........................................................................................................22                                                                              | Unit 3 ........................................................................................................22 |
-|                                                                                                                                                                                                | Opportunities for integration of learning experiences...............................26                                                                                                         | Opportunities for integration of learning experiences...............................26                            |
-| 3                                                                                                                                                                                              | ASSESSMENT..........................................................................................27                                                                                         | ASSESSMENT..........................................................................................27            |
-|                                                                                                                                                                                                | 3.1 Assessment objectives and weightings............................................27                                                                                                         |                                                                                                                   |
-|                                                                                                                                                                                                | 3.2 Overview of arrangements for non-examination assessment..........28                                                                                                                        |                                                                                                                   |
-| 4                                                                                                                                                                                              | MALPRACTICE.........................................................................................29                                                                                         | MALPRACTICE.........................................................................................29            |
-| 5                                                                                                                                                                                              | TECHNICAL INFORMATION....................................................................30                                                                                                    | TECHNICAL INFORMATION....................................................................30                       |
-|                                                                                                                                                                                                | 5.1 Making entries                                                                                                                                                                             | ..................................................................................30                              |
-|                                                                                                                                                                                                | 5.2 Grading, awarding and reporting......................................................30                                                                                                    |                                                                                                                   |
-| Appendix A - Preparation, knife and cooking techniques...............................31                                                                                                        | Appendix A - Preparation, knife and cooking techniques...............................31                                                                                                        |                                                                                                                   |
-| Appendix B - Opportunities for embedding elements of the Curriculum for Wales ..............................................................................................................33 | Appendix B - Opportunities for embedding elements of the Curriculum for Wales ..............................................................................................................33 |                                                                                                                   |
-
-
+| 1   | INTRODUCTION |                                                                  | 7  |
+|-----|--------------|------------------------------------------------------------------|----|
+|     | 1.1          | Aims                                                             | 7  |
+|     | 1.2          | Curriculum for Wales                                             | 7  |
+|     | 1.3          | Prior learning and progression                                   | 9  |
+|     | 1.4          | Guided learning hours                                            | 9  |
+|     | 1.5          | Use of language                                                  | 9  |
+|     | 1.6          | Equality and fair access                                         | 9  |
+| 2   | SUB          | JECT CONTENT                                                     | 11 |
+|     | How          | to read the amplification                                        | 11 |
+|     | Unit         | 1                                                                | 11 |
+|     | Unit         | 2                                                                | 18 |
+|     | Unit         | 3                                                                | 22 |
+|     | Орр          | ortunities for integration of learning experiences               | 26 |
+| 3   | ASS          | ESSMENT                                                          | 27 |
+|     | 3.1          | Assessment objectives and weightings                             | 27 |
+|     | 3.2          | Overview of arrangements for non-examination assessment          | 28 |
+| 4   | MAL          | PRACTICE                                                         | 29 |
+| 5   | TEC          | HNICAL INFORMATION                                               | 30 |
+|     | 5.1          | Making entries                                                   | 30 |
+|     | 5.2          | Grading, awarding and reporting                                  | 30 |
+| App | pendi        | x A – Preparation, knife and cooking techniques                  |    |
+|     |              | x B – Opportunities for embedding elements of the Curriculum for |    |
+|     |              |                                                                  | 33 |
 
 {6}------------------------------------------------
 
+# GCSE FOOD AND NUTRITION SUMMARY OF ASSESSMENT
 
+**Unit 1: Principles of Food and Nutrition Digital examination: 1 hour 30 minutes 40% of qualification**
 
-## GCSE FOOD AND NUTRITION SUMMARY OF ASSESSMENT
-
-Unit 1: Principles of Food and Nutrition Digital examination: 1 hour 30 minutes 40% of qualification
-
-80 marks
+**80 marks**
 
 Questions requiring objective responses, quick-response, short and extended answers.
 
-Unit 2: Food Investigation Non-examination assessment: 8 hours 20% of qualification Marked by the centre and moderated by WJEC
+**Unit 2: Food Investigation**
 
-40 marks
+**Non-examination assessment: 8 hours**
+
+**20% of qualification** 
+
+**Marked by the centre and moderated by WJEC**
+
+**40 marks**
 
 Set by WJEC, marked by the Centre and moderated by WJEC. The assessment will feature two pre-released briefs which will be set by WJEC each year. Centres can choose one of the two prereleased briefs they would like learners to complete.
 
 The pre-released briefs, which will include several tasks, will be available via the WJEC Portal.
 
-Unit 3: Food and Nutrition in Action Non-examination assessment: 12 hours 40% of qualification Marked by the centre and moderated by WJEC
+**Unit 3: Food and Nutrition in Action Non-examination assessment: 12 hours 40% of qualification Marked by the centre and moderated by WJEC**
 
-80 marks
+**80 marks**
 
 Set by WJEC, marked by the Centre and moderated by WJEC. The assessment will feature two pre-released briefs which will be set by WJEC each year. Learners can choose one of the two prereleased briefs they would like learners to complete.
 
@@ -122,13 +111,7 @@ There is no hierarchy to the order the units should be taught.
 
 Unit 1 examination will be available in the summer of the final year of study. It will be first awarded in 2027.
 
-
-
 {7}------------------------------------------------
-
-
-
-## GCSE FOOD AND NUTRITION 6
 
 Unit 2 will be assessed through an externally set assignment that will be set by WJEC. Unit 2 will be based on a pre-released brief; centres can choose one of two pre-released briefs. The pre-released briefs will be available in May of the first year of study, to be completed by the summer of the final year of study. It will be first awarded in 2027. Each year, the assessment structure and tasks will stay the same, however, the pre-released briefs will change.
 
@@ -136,21 +119,17 @@ Unit 3 will be assessed through an externally set assignment that will be set by
 
 Qualification Approval Number: C00/4967/1
 
-
-
 {8}------------------------------------------------
 
+# GCSE FOOD AND NUTRITION
 
+# <span id="page-7-0"></span>1 INTRODUCTION
 
-## GCSE FOOD AND NUTRITION
-
-## 1 INTRODUCTION
-
-## 1.1 Aims
+# <span id="page-7-1"></span>1.1 Aims
 
 The GCSE Food and Nutrition qualification must support learners to:
 
-- understand the journey of food - from 'field to fork'
+- understand the journey of food from 'field to fork'
 - make healthy and informed food choices for themselves and others
 - explain the function, nutritional benefits and sensory qualities of ingredients within a recipe
 - explain the function and nutritional benefits of food and drinks in the human body
@@ -165,66 +144,58 @@ The GCSE Food and Nutrition qualification must support learners to:
 
 These aims are set out in Qualifications Wales' Approval Criteria.
 
-## 1.2 Curriculum for Wales
+# <span id="page-7-2"></span>1.2 Curriculum for Wales
 
-This GCSE Food and Nutrition qualification is underpinned by the Curriculum for Wales framework and has been designed to ensure that learners can continue to make progress towards the four purposes whilst studying for this qualification. Central to this design are the principles of progression, along with the statements of what matters and those subject specific skills and concepts outlined in the 'Designing your Curriculum' section of the Health and Well-being Area of Learning and Experiences.
+This GCSE Food and Nutrition qualification is underpinned by the Curriculum for Wales framework and has been designed to ensure that learners can continue to make progress towards the four purposes whilst studying for this qualification. Central to this design are the [principles of progression,](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/principles-of-progression/) along with the [statements of](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/statements-of-what-matters/)  [what matters](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/statements-of-what-matters/) and those [subject specific skills and concepts](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/designing-your-curriculum/#specific-considerations-for-this-area) outlined in the ['Designing](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/designing-your-curriculum/)  [your Curriculum'](https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/designing-your-curriculum/) section of the Health and Well-being Area of Learning and Experiences.
 
 In developing this qualification, we have considered where there are opportunities to embed the cross-curricular themes and where there are opportunities for integral skills and cross-curricular skills to be developed. Appendix B provides a simple mapping, and information to support teachers will be provided in the Guidance for Teaching.
 
-We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 25. The Guidance for Teaching will include further information on integrating these learning experiences into delivery.
-
-
+We have also considered where the qualification can generate opportunities for integrating the learning experiences noted on page 25. The Guidance for Teaching will include further information on integrating these learning experiences into delivery. 
 
 {9}------------------------------------------------
 
-
-
 The GCSE Food and Nutrition qualification supports the Curriculum for Wales by:
 
-- supporting the statements of what matters 1  by giving learners the opportunity to:
-- understand the factors that affect physical health and well-being that promote healthy bodies and healthy minds. This includes health-promoting behaviours such as following a balanced diet
-- develop the confidence, motivation, physical competence, knowledge and understanding that can help them lead healthy and active lifestyles which promote good physical health and well-being by studying nutrition and good health
-- enable learners to develop the critical-thinking skills necessary to consider their decision-making in terms of possible implications when preparing food, including risks, for themselves and others
-- engage critically with these social influences within their own culture that influence diet and health choices.
-- supporting the principles of progression 2  by encouraging learners to:
-- deepen learning in a wide range of concepts within the statements of what matters across a wide range of topics and aspects of food and nutrition
-- develop their independence and agency in matters relating to nutrition and good health: resulting in a growing responsibility for their own health and wellbeing
-- putting what they have learned about food and nutrition into a practical context, developing conceptual knowledge
-- develop practical skills such as food preparation and cooking that also supports learners in their health and well-being.
-- supporting the subject specific considerations for Food and Nutrition 3 . The qualification will:
-- provide opportunities for learners to understand the journey from 'field to fork', explore the economic, ethical and environmental influences of food availability and consider sustainability, production and processing of food
-- provide opportunities for learners to make healthy and informed food choices for themselves and others, make links between diet, nutrition, health and wellbeing, explore the influences of diet and health choices and explore the function and nutritional benefits of food and drinks on the human body
-- provide opportunities for learners to develop an understanding of the functional properties of food within the body and the ingredients used within a recipe
-- equip learners with the skills to effectively and safely prepare, process, store, cook and serve food, modify existing recipes and develop their own dishes, analyse and evaluate a range of food and dishes made by themselves and others, and explore the sensory qualities of ingredients within a recipe
-- provide opportunities for learners to appreciate how food connects us to the world around us, explore the contributions and cuisines of Black, Asian and minority ethnic communities and individuals, and explore a range of ingredients, cooking methods and techniques from local, national, and international cuisines, and socio-cultural influences on food availability.
+- supporting the statements of what matters[1](#page-8-0) by giving learners the opportunity to:
+  - understand the factors that affect physical health and well-being that promote healthy bodies and healthy minds. This includes health-promoting behaviours such as following a balanced diet
+  - develop the confidence, motivation, physical competence, knowledge and understanding that can help them lead healthy and active lifestyles which promote good physical health and well-being by studying nutrition and good health
+  - enable learners to develop the critical-thinking skills necessary to consider their decision-making in terms of possible implications when preparing food, including risks, for themselves and others
+  - engage critically with these social influences within their own culture that influence diet and health choices.
+- supporting the principles of progression[2](#page-8-1) by encouraging learners to:
+  - deepen learning in a wide range of concepts within the statements of what matters across a wide range of topics and aspects of food and nutrition
+  - develop their independence and agency in matters relating to nutrition and good health: resulting in a growing responsibility for their own health and wellbeing
+  - putting what they have learned about food and nutrition into a practical context, developing conceptual knowledge
+  - develop practical skills such as food preparation and cooking that also supports learners in their health and well-being.
+- supporting the subject specific considerations for Food and Nutrition[3](#page-8-2) . The qualification will:
+  - provide opportunities for learners to understand the journey from 'field to fork', explore the economic, ethical and environmental influences of food availability and consider sustainability, production and processing of food
+  - provide opportunities for learners to make healthy and informed food choices for themselves and others, make links between diet, nutrition, health and wellbeing, explore the influences of diet and health choices and explore the function and nutritional benefits of food and drinks on the human body
+  - provide opportunities for learners to develop an understanding of the functional properties of food within the body and the ingredients used within a recipe
+  - equip learners with the skills to effectively and safely prepare, process, store, cook and serve food, modify existing recipes and develop their own dishes, analyse and evaluate a range of food and dishes made by themselves and others, and explore the sensory qualities of ingredients within a recipe
+  - provide opportunities for learners to appreciate how food connects us to the world around us, explore the contributions and cuisines of Black, Asian and minority ethnic communities and individuals, and explore a range of ingredients, cooking methods and techniques from local, national, and international cuisines, and socio-cultural influences on food availability.
 
-1 https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/statements-of-what-matters
+<span id="page-8-0"></span><sup>1</sup> <https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/statements-of-what-matters>
 
-2  https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/principles-of-progression
+<span id="page-8-1"></span><sup>2</sup> <https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/principles-of-progression>
 
-3  https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/designing-your-curriculum/
-
-
+<span id="page-8-2"></span><sup>3</sup> <https://hwb.gov.wales/curriculum-for-wales/health-and-well-being/designing-your-curriculum/>
 
 {10}------------------------------------------------
 
+#### <span id="page-9-0"></span>1.3 Prior learning and progression
 
-
-## 1.3 Prior learning and progression
-
-Although there is no specific requirement for prior learning, the qualification is designed primarily for learners between the ages of 14 and 16 and builds on the conceptual understanding learners have developed through their learning from ages 3 - 14.
+Although there is no specific requirement for prior learning, the qualification is designed primarily for learners between the ages of 14 and 16 and builds on the conceptual understanding learners have developed through their learning from ages 3 – 14.
 
 The qualification allows learners to develop a strong foundation of knowledge, skills and understanding which supports progression to post-16 study and prepares learners for life, learning and work. The qualification provides a suitable foundation for the study of Level 3 Certificate in Food Science and Nutrition. In addition, the specification provides a coherent, satisfying and worthwhile course of study for learners who do not progress to further study in this subject.
 
-## 1.4 Guided learning hours
+#### <span id="page-9-1"></span>1.4 Guided learning hours
 
-GCSE  Food  and  Nutrition  has  been  designed  to  be  delivered  within  120  -  140 guided  learning  hours.  The  qualification  has  been  primarily  designed  as  a  2-year programme for learners in years 10 and 11.
+GCSE Food and Nutrition has been designed to be delivered within 120 – 140 guided learning hours. The qualification has been primarily designed as a 2-year programme for learners in years 10 and 11.
 
-## 1.5 Use of language
+#### <span id="page-9-2"></span>1.5 Use of language
 
 As our understanding of diversity, equity, and inclusion evolves, so must our language. Updated terminology better reflects individual identities and fosters respect and accuracy. Language used should be specific as possible. Staying informed and adaptable is crucial, as inclusive language promotes dignity and equity. Recognising that language will continue to evolve, we will remain open to further amendments to ensure it accurately represents and supports all individuals. WJEC will inform centres of any amendments and the most up to date version of the specification will always be on the website.
 
-## 1.6 Equality and fair access
+#### <span id="page-9-3"></span>1.6 Equality and fair access
 
 The specification may be followed by any learner, irrespective of gender, ethnic, religious or cultural background. It has been designed to avoid, where possible, features that could, without justification, make it more difficult for a learner to access and achieve because they have a particular protected characteristic.
 
@@ -232,25 +203,19 @@ The protected characteristics under the Equality Act 2010 are age, disability, g
 
 Access arrangements and reasonable adjustments are made for eligible learners to enable them to access the assessments and demonstrate their knowledge and skills without changing the demands of the assessment.
 
-Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website (www.jcq.org.uk).
-
-
+Information on access arrangements and reasonable adjustments is found in the following document from the Joint Council for Qualifications (JCQ): Access Arrangements, Reasonable Adjustments: General and Vocational Qualifications. This document is available on the JCQ website [\(www.jcq.org.uk\).](http://www.jcq.org.uk/)
 
 {11}------------------------------------------------
 
-
+### *GCSE FOOD AND NUTRITION 10*
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
 
-
-
 {12}------------------------------------------------
 
+# <span id="page-11-0"></span>2 SUBJECT CONTENT
 
-
-## 2 SUBJECT CONTENT
-
-## How to read the amplification
+# <span id="page-11-1"></span>How to read the amplification
 
 The amplification provided in the right-hand column uses the following four stems:
 
@@ -263,17 +228,17 @@ The use of the word 'including' indicates that the specified content must be tau
 
 The use of the words 'for example' or 'such as' indicates that the specified content is for guidance only, and alternative examples could be chosen.
 
-## Unit 1
+# <span id="page-11-2"></span>Unit 1
 
-## Principles of Food and Nutrition
+## **Principles of Food and Nutrition**
 
 Assessment type: Digital Examination 40% of qualification 80 marks
 
-## Overview of unit
+# **Overview of unit**
 
 The purpose of this unit is to:
 
-- develop knowledge and understanding of food and nutrition and food preparation and cooking.
+• develop knowledge and understanding of food and nutrition and food preparation and cooking.
 
 The unit will be based on the following areas of content:
 
@@ -284,108 +249,109 @@ The unit will be based on the following areas of content:
 - 1.5 Food spoilage
 - 1.6 From field to fork
 
-
-
 {13}------------------------------------------------
 
+# **Areas of content**
 
+# **1.1 Food commodity groups**
 
-## Areas of content
+In this topic learners will gain knowledge, understanding and skills in the following areas: 1.1.1 Food commodity groups
 
-| 1.1 Food commodity groups                                                                                                | 1.1 Food commodity groups                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.1.1 Food commodity groups | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.1.1 Food commodity groups                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Section                                                                                                                  | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 1.1.1 Food commodity groups                                                                                              | Learners should know examples from the food commodity groups, including: • carbohydrate foods, including fibre, starch and sugar, • dairy foods and alternatives • fats and oils • fruits and vegetables • protein foods including eggs, fish, meat and plant-based alternatives. Learners should understand the: • nutritional value of the food commodity groups • functions and characteristics of the food commodity groups. Learners should be aware of: • storage options relating to the food commodity groups • the origins of the food commodity groups. |
-
-
+| Section                           | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1.1<br>Food<br>commodity groups | Learners should know examples from the food commodity<br>groups, including:<br>•<br>carbohydrate foods, including<br>fibre, starch and sugar,<br>•<br>dairy foods and alternatives<br>•<br>fats and oils<br>•<br>fruits and vegetables<br>•<br>protein foods including<br>eggs, fish, meat<br>and plant-based<br>alternatives.<br>Learners should understand the:<br>•<br>nutritional value of the food commodity groups<br>•<br>functions and characteristics of the food commodity<br>groups. |
+|                                   | Learners should be aware of:<br>•<br>storage options relating to the food commodity<br>groups<br>•<br>the origins of the food commodity<br>groups.                                                                                                                                                                                                                                                                                                                                              |
 
 {14}------------------------------------------------
 
+## **1.2 Nutrients for a balanced diet**
 
+- 1.2.1 Macronutrients
+- 1.2.2 Micronutrients
+- 1.2.3 A balanced diet
 
-| 1.2 Nutrients for a balanced diet                                                                                                                            | 1.2 Nutrients for a balanced diet                                                                                                                                                                                                                                                                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.2.1 Macronutrients 1.2.2 Micronutrients 1.2.3 A balanced diet | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.2.1 Macronutrients 1.2.2 Micronutrients 1.2.3 A balanced diet                                                                                                                                                                                                                                            |
-| Section                                                                                                                                                      | Amplification                                                                                                                                                                                                                                                                                                                                                                                           |
-| 1.2.1 Macronutrients                                                                                                                                         | Learners should know the role of macronutrients, including: • carbohydrates • fat • protein. Learners should understand, for each macronutrient: • functions • sources • effects of deficiency or excess.                                                                                                                                                                                               |
-| 1.2.2 Micronutrients                                                                                                                                         | Learners should know the role of micronutrients, including: • minerals: calcium, iron, potassium and magnesium • vitamins: fat soluble vitamins A, D, E and K. Water soluble vitamins B1, B2, B3, B12, B9 and C. Learners should understand, for each micronutrient: • functions • sources • effects of deficiency or excess.                                                                           |
-| 1.2.3 A balanced diet                                                                                                                                        | Learners should understand: • the importance of fibre and water in a balanced diet • the complementary actions of nutrients. Learners should know how to calculate energy and nutritional values in food. Learners should be aware of: • The Eatwell Guide and its recommendations to achieve a balanced diet • the importance of determining energy requirements based on levels of physical activity. |
-
-
+| Section                  | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.2.1<br>Macronutrients  | Learners should know the role of macronutrients, including:<br>•<br>carbohydrates<br>•<br>fat<br>•<br>protein.<br>Learners should understand, for each macronutrient:<br>•<br>functions<br>•<br>sources<br>•<br>effects of deficiency or excess.                                                                                                                                                                                               |
+| 1.2.2<br>Micronutrients  | Learners should know the role of micronutrients, including:<br>•<br>minerals: calcium, iron, potassium and magnesium<br>•<br>vitamins: fat soluble vitamins A, D, E and K. Water<br>soluble vitamins B1, B2, B3, B12, B9 and C.<br>Learners should understand, for each micronutrient:<br>•<br>functions<br>•<br>sources<br>•<br>effects of deficiency or excess.                                                                              |
+| 1.2.3<br>A balanced diet | Learners should understand:<br>•<br>the importance of fibre and water in a balanced diet<br>•<br>the complementary actions of nutrients.<br>Learners should know how to calculate energy and<br>nutritional values in food.<br>Learners should be aware of:<br>•<br>The Eatwell Guide and its recommendations to achieve<br>a balanced diet<br>•<br>the importance of determining energy requirements<br>based on levels of physical activity. |
 
 {15}------------------------------------------------
 
+# **1.3 Diet and health**
 
+- 1.3.1 How nutritional needs change over the life stages
+- 1.3.2 Dietary needs and nutritional deficiencies
+- 1.3.3 Other factors affecting food choices
 
-| 1.3 Diet and health                                                                                                                                                                                                                              | 1.3 Diet and health                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1.3 Diet and health                                                                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.3.1 How nutritional needs change over the life stages 1.3.2 Dietary needs and nutritional deficiencies 1.3.3 Other factors affecting food choices | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.3.1 How nutritional needs change over the life stages 1.3.2 Dietary needs and nutritional deficiencies 1.3.3 Other factors affecting food choices                                                                                                                                                                                                                                                                                                                                                                                                                                                             | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.3.1 How nutritional needs change over the life stages 1.3.2 Dietary needs and nutritional deficiencies 1.3.3 Other factors affecting food choices |
-| Section                                                                                                                                                                                                                                          | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                  |
-| 1.3.1 How nutritional needs change over the life stages                                                                                                                                                                                          | Learners should understand how nutritional needs change over the life stages, including: • infancy • childhood • adolescence • adulthood • later adulthood. Learners should be aware of the daily recommended intake of nutrients over the life stages.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                  |
-| 1.3.2 Dietary needs and nutritional deficiencies                                                                                                                                                                                                 | Learners should understand the nutritional needs of individuals with specific dietary needs or nutritional deficiencies, such as: • anaemia • cardiovascular disease • coeliac disease • food intolerances and allergies • type 2 diabetes. Learners should be aware of current trends relating to                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                  |
-| 1.3.3 Other factors affecting food choices                                                                                                                                                                                                       | Learners should know factors that affect food choices, including: • cultural influences • food availability • levels of physical activity • lifestyle • personal preferences • religious beliefs • socio-economic influences. Learners should understand the impact of food choices on: • animal welfare • energy balance • environmental sustainability • health and wellbeing • society. Learners should be aware of: • the contributions cultural influences have had on the food we eat in Wales, including from Black, Asian and minority ethnic communities and individuals • emerging trends in relation to lifestyle choices • unequal distribution of food locally, nationally and internationally. |                                                                                                                                                                                                                                                  |
-
-
+| Section                                                       | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |  |
+|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 1.3.1<br>How nutritional needs<br>change over the life stages | Learners should understand how nutritional needs change<br>over the life stages, including:<br>•<br>infancy<br>•<br>childhood<br>•<br>adolescence<br>•<br>adulthood<br>•<br>later adulthood.<br>Learners should be aware of the daily recommended intake<br>of nutrients over the life stages.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
+| 1.3.2<br>Dietary needs and<br>nutritional deficiencies        | Learners should understand the nutritional needs of<br>individuals with specific dietary needs or nutritional<br>deficiencies, such as:<br>•<br>anaemia<br>•<br>cardiovascular disease<br>•<br>coeliac disease<br>•<br>food intolerances and allergies<br>•<br>type 2 diabetes.<br>Learners should be aware of current trends relating to<br>dietary issues in Wales.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |  |
+| 1.3.3<br>Other factors affecting<br>food choices              | Learners should know factors that affect food choices,<br>including:<br>•<br>cultural influences<br>•<br>food availability<br>•<br>levels of physical activity<br>•<br>lifestyle<br>•<br>personal preferences<br>•<br>religious beliefs<br>•<br>socio-economic influences.<br>Learners should understand the impact of food choices<br>on:<br>•<br>animal welfare<br>•<br>energy balance<br>•<br>environmental sustainability<br>•<br>health and wellbeing<br>•<br>society.<br>Learners should be aware of:<br>•<br>the contributions cultural influences have had on the<br>food we eat in Wales, including from Black, Asian and<br>minority ethnic communities and individuals<br>•<br>emerging trends in relation to lifestyle choices<br>•<br>unequal distribution of food locally, nationally and<br>internationally. |  |
 
 {16}------------------------------------------------
 
+# **1.4 Cooking food**
 
+- 1.4.1 Why we cook food
+- 1.4.2 Methods of heat transfer
+- 1.4.3 Cooking methods
 
-| 1.4 Cooking food                                                                                                                                                         | 1.4 Cooking food                                                                                                                                                                                                                                                                                                             |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.4.1 Why we cook food 1.4.2 Methods of heat transfer 1.4.3 Cooking methods | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.4.1 Why we cook food 1.4.2 Methods of heat transfer 1.4.3 Cooking methods                                                                                                                                                     |
-| Section                                                                                                                                                                  | Amplification                                                                                                                                                                                                                                                                                                                |
-| 1.4.1 Why we cook food                                                                                                                                                   | Learners should know the reasons why we cook food, including: • to improve safety • to increase shelf life of food • to improve digestibility and palatability.                                                                                                                                                              |
-| 1.4.2 Methods of heat transfer                                                                                                                                           | Learners should understand how heat is transferred when cooking food, including: • conduction • convection • radiation. Learners should be aware that some dishes rely on more than one method of heat transfer.                                                                                                             |
-| 1.4.3 Cooking methods                                                                                                                                                    | Learners should understand the effects of a selection of cooking methods, including: • dry methods • fat based • water based. Learners should be aware of: • cooking methods introduced from other cultures, including from Black, Asian and minority ethnic communities and cultures • the environmental impact of cooking. |
-
-
+| Section                           | Amplification                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.4.1<br>Why we cook food         | Learners should know the reasons why we cook food,<br>including:<br>•<br>to improve safety<br>•<br>to increase shelf life<br>of food<br>•<br>to improve digestibility and palatability.                                                                                                                                                                                |
+| 1.4.2<br>Methods of heat transfer | Learners should understand how heat is transferred when<br>cooking food, including:<br>•<br>conduction<br>•<br>convection<br>•<br>radiation.<br>Learners should be aware that some dishes rely on more<br>than one method of heat transfer.                                                                                                                            |
+| 1.4.3<br>Cooking methods          | Learners should understand the effects of a selection of<br>cooking methods, including:<br>•<br>dry methods<br>•<br>fat based<br>•<br>water based.<br>Learners should be aware of:<br>•<br>cooking methods introduced from other cultures,<br>including from Black, Asian and minority ethnic<br>communities and cultures<br>•<br>the environmental impact of cooking. |
 
 {17}------------------------------------------------
 
+# **1.5 Food spoilage**
 
+- 1.5.1 Storage and temperature control
+- 1.5.2 Hygiene and safety
+- 1.5.3 Preservation
+- 1.5.4 Food poisoning
 
-| 1.5 Food spoilage                                                                                                                                                              | 1.5 Food spoilage                                                                                                                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.5.1 Storage and temperature control 1.5.2 Hygiene and safety 1.5.3 Preservation | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.5.1 Storage and temperature control 1.5.2 Hygiene and safety 1.5.3 Preservation                                                                                                                                                                                                                                                   |
-| Section                                                                                                                                                                        | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 1.5.1 Storage and temperature control                                                                                                                                          | Learners should know how to store foods correctly, including: • dry and cold storage • packaging and covering • refrigeration and freezing. Learners should understand the risks of not storing food correctly for themselves and others. Learners should know the Food Standards Agency (FSA) guidelines for storing and cooking food, including: • cooking and reheating • temperature control • use by and best before dates. |
-| 1.5.2 Hygiene and safety                                                                                                                                                       | Learners should understand microbiological principles when preparing, cooking and serving food, including: • personal hygiene practices and procedures • food safety practices and procedures • key temperatures for food safety, storage and cooking • physical, biological and chemical contamination.                                                                                                                         |
-| 1.5.3 Preservation                                                                                                                                                             | Learners should know preservation techniques that help keep food for longer, including: • bottling • canning • freeze-drying • jam making • pickling • vacuum packing. Learners should be aware of industrial methods of preservation used in food production.                                                                                                                                                                   |
-| 1.5.4 Food poisoning                                                                                                                                                           | Learners should know: • the types of food poisoning bacteria, including Campylobacter, Salmonella, E-coli, Staphylococcus Norovirus and Listeria • the symptoms commonly associated with food poisoning. Learners should be aware of the risks and consequences of inadequate or unacceptable food hygiene practices.                                                                                                            |
-
-
+| Section                                     | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.5.1<br>Storage and temperature<br>control | Learners should know how to store foods correctly,<br>including:<br>•<br>dry and cold storage<br>•<br>packaging and covering<br>•<br>refrigeration and freezing.<br>Learners should understand the risks of not storing food<br>correctly for themselves and others.<br>Learners should know the Food Standards Agency (FSA)<br>guidelines for storing and cooking food, including:<br>•<br>cooking and reheating<br>•<br>temperature control<br>•<br>use by and<br>best before dates. |
+| 1.5.2<br>Hygiene and safety                 | Learners should understand microbiological principles when<br>preparing, cooking and serving food, including:<br>•<br>personal hygiene practices and procedures<br>•<br>food safety practices and procedures<br>•<br>key temperatures for food safety,<br>storage and cooking<br>•<br>physical, biological<br>and<br>chemical<br>contamination.                                                                                                                                        |
+| 1.5.3<br>Preservation                       | Learners should know preservation techniques that help<br>keep food for longer, including:<br>•<br>bottling<br>•<br>canning<br>•<br>freeze-drying<br>•<br>jam making<br>•<br>pickling<br>•<br>vacuum packing.<br>Learners should be aware of industrial<br>methods of<br>preservation used in food production.                                                                                                                                                                         |
+| 1.5.4<br>Food poisoning                     | Learners should know:<br>•<br>the types of food poisoning bacteria,<br>including<br>Campylobacter,<br>Salmonella, E-coli,<br>Staphylococcus<br>Norovirus<br>and<br>Listeria<br>•<br>the symptoms commonly associated with food poisoning.<br>Learners should be aware of the risks and consequences of<br>inadequate or unacceptable food hygiene practices.                                                                                                                           |
 
 {18}------------------------------------------------
 
+# **1.6 From field to fork**
 
+- 1.6.1 Food origin
+- 1.6.2 Food and the environment
+- 1.6.3 Primary and secondary food processing
 
-| 1.6 From field to fork                                                                                                                                                                    | 1.6 From field to fork                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 1.6.1 Food origin 1.6.2 Food and the environment 1.6.3 Primary and secondary food processing | In this topic learners will gain knowledge, understanding and skills in the following areas: 1.6.1 Food origin 1.6.2 Food and the environment 1.6.3 Primary and secondary food processing                                                                                                                                                                                                                                                                                                                                                          |
-| Section                                                                                                                                                                                   | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 1.6.1 Food origin                                                                                                                                                                         | Learners should know the methods used to source the food we eat, including foods that are: • caught • grown • reared. Learners should be aware of: • developments in producing food • trends in the availability of Welsh produce.                                                                                                                                                                                                                                                                                                                 |
-| 1.6.2 Food and the environment                                                                                                                                                            | Learners should know the methods used to transport food on a local, national and international scale including, refrigerated transport, insulated containers, shipping containers and air freight. Learners should understand the environmental impacts associated with food production, including: • food miles • intensive farming • extensive farming. Learners should be aware of the availability of seasonal foods and issues relating to food security. Learners should understand the advantages and disadvantages of buying food locally. |
-| 1.6.3 Primary and secondary food processing                                                                                                                                               | Learners should understand: • the primary stages of food processing and production, including: • harvesting and cleaning • treating • packaging • processing methods to change primary food products into secondary food products, including: • flour to bread • fruit to jams, jellies and juices • milk to cheese and yoghurt. Learners should be aware of: • the effects of processing foods on: • nutritional value • sensory qualities • shelf life of food.                                                                                  |
-
-
+| Section                                           | Amplification                                                                                                                                                                                                                                                                                                                                                                                      |  |
+|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 1.6.1<br>Food origin                              | Learners should know the methods used to source the food<br>we eat, including foods that are:<br>•<br>caught<br>•<br>grown<br>•<br>reared.<br>Learners should be aware of:<br>•<br>developments in producing food                                                                                                                                                                                  |  |
+|                                                   | •<br>trends in the availability of Welsh produce.                                                                                                                                                                                                                                                                                                                                                  |  |
+| 1.6.2<br>Food and the environment                 | Learners should know the methods used to transport food on<br>a local, national and international scale<br>including,<br>refrigerated<br>transport, insulated containers,<br>shipping containers and air<br>freight.                                                                                                                                                                               |  |
+|                                                   | Learners should understand the environmental impacts<br>associated with food<br>production, including:<br>•<br>food miles<br>•<br>intensive farming<br>•<br>extensive farming.                                                                                                                                                                                                                     |  |
+|                                                   | Learners should be aware of the availability of seasonal<br>foods and issues relating to food security.                                                                                                                                                                                                                                                                                            |  |
+|                                                   | Learners should understand the advantages and<br>disadvantages of buying food locally.                                                                                                                                                                                                                                                                                                             |  |
+| 1.6.3<br>Primary and secondary<br>food processing | Learners should understand:<br>•<br>the primary stages of food processing and production,<br>including:<br>•<br>harvesting and cleaning<br>•<br>treating<br>•<br>packaging<br>•<br>processing methods to change primary food products<br>into secondary food products, including:<br>•<br>flour to bread<br>•<br>fruit to jams,<br>jellies<br>and<br>juices<br>•<br>milk to cheese and<br>yoghurt. |  |
+|                                                   | Learners should be aware of:<br>•<br>the effects of processing foods on:<br>•<br>nutritional value<br>•<br>sensory qualities<br>•<br>shelf life<br>of food.                                                                                                                                                                                                                                        |  |
 
 {19}------------------------------------------------
 
+# <span id="page-18-0"></span>Unit 2
 
-
-## Unit 2
-
-## Food Investigation
+# **Food Investigation**
 
 Non-examination assessment: 8 hours Marked by the centre and moderated by WJEC 20% of qualification 40 marks
 
-## Overview of unit
+# **Overview of unit**
 
 The purpose of this unit is to:
 
-- apply knowledge and understanding of the working characteristics, functions and chemical properties of ingredients in a recipe.
+• apply knowledge and understanding of the working characteristics, functions and chemical properties of ingredients in a recipe.
 
 The unit will be based on the following areas of content:
 
@@ -393,71 +359,130 @@ The unit will be based on the following areas of content:
 - 2.2 Planning food science experiments
 - 2.3 Food science in action
 
-## Areas of content
+# **Areas of content**
 
-| 2.1 The science of food                                                                                                                                                                                                                                                       | 2.1 The science of food                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 2.1.1 The working characteristics of ingredients in a recipe 2.1.2 The functional properties of ingredients in a recipe 2.1.3 The chemical properties of ingredients in a recipe | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.1.1 The working characteristics of ingredients in a recipe 2.1.2 The functional properties of ingredients in a recipe 2.1.3 The chemical properties of ingredients in a recipe                                                                                                                                                                                                                                                                                                        |
-| Section                                                                                                                                                                                                                                                                       | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 2.1.1 The working characteristics of ingredients in a recipe                                                                                                                                                                                                                  | Learners should understand how the working characteristics of ingredients contribute to the success of a recipe. Learners should understand the working characteristics of ingredients in a recipe, including: • colour and appearance • emulsification and binding • foaming • heat transfer and cooking properties • texture • viscosity. Learners should be aware of the food commodity groups within ingredients in a recipe. Learners should be aware of: • current trends in cooking methods • cooking methods and techniques from local, national and international cuisines. |
+# **2.1 The science of food**
 
+- 2.1.1 The working characteristics of ingredients in a recipe
+- 2.1.2 The functional properties of ingredients in a recipe
+- 2.1.3 The chemical properties of ingredients in a recipe
 
+| Section                                                               | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2.1.1<br>The working<br>characteristics of<br>ingredients in a recipe | Learners should understand how the working characteristics<br>of ingredients contribute to the success of a recipe.<br>Learners should understand the working characteristics of<br>ingredients in a recipe, including:<br>•<br>colour and appearance<br>•<br>emulsification and binding<br>•<br>foaming<br>•<br>heat transfer and cooking properties<br>•<br>texture<br>•<br>viscosity.<br>Learners should be aware of the food commodity groups<br>within ingredients in a recipe.<br>Learners should be aware of:<br>•<br>current trends in cooking methods<br>•<br>cooking methods and techniques from local, national<br>and international cuisines. |
+|                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 {20}------------------------------------------------
 
+## 2.1.2
 
+# The functional properties of ingredients in a recipe
 
-| 2.1.2 The functional properties of ingredients in a recipe   | Learners should understand the functional properties of ingredients in a recipe, including: • aerating • binding • bulking • colouring • flavouring • glazing • modifying nutritional content • preserving • raising agents • setting • tenderising • thickening. Learners should understand the function of ingredients in a recipe, by: • selecting and adapting recipes • considering variables that affect results                                                                                                                                                                                                                                                                                                                                                   |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2.1.3 The chemical properties of ingredients in a recipe     | • making modifications to a recipe. Learners should understand the chemical properties of ingredients in a recipe, by: • selecting and adapting recipes • considering variables that affect results. Learners should be aware of recipes that demonstrate specific characteristics, including: Carbohydrates: • caramelisation • dextrinization • gelatinisation • Maillard reaction. Fats and oils: • aeration: steam, chemical and mechanical action • emulsification • plasticity • shortening or flakiness. Fruits and vegetables: • enzymic browning • oxidisation. Protein: • complementary actions • coagulation • denaturation: acid, heat and mechanical action • foam formation • gelation • gluten formation • Maillard reaction • stabilisation • viscosity. |
+Learners should understand the functional properties of ingredients in a recipe, including:
 
+- aerating
+- binding
+- bulking
+- colouring
+- flavouring
+- glazing
+- modifying nutritional content
+- preserving
+- raising agents
+- setting
+- tenderising
+- thickening.
 
+Learners should understand the function of ingredients in a recipe, by:
+
+- selecting and adapting recipes
+- considering variables that affect results
+- making modifications to a recipe.
+
+# 2.1.3
+
+# The chemical properties of ingredients in a recipe
+
+Learners should understand the chemical properties of ingredients in a recipe, by:
+
+- selecting and adapting recipes
+- considering variables that affect results.
+
+Learners should be aware of recipes that demonstrate specific characteristics, including:
+
+# Carbohydrates:
+
+- caramelisation
+- dextrinization
+- gelatinisation
+- Maillard reaction.
+
+### Fats and oils:
+
+- aeration: steam, chemical and mechanical action
+- emulsification
+- plasticity
+- shortening or flakiness.
+
+### Fruits and vegetables:
+
+- enzymic browning
+- oxidisation.
+
+## Protein:
+
+- complementary actions
+- coagulation
+- denaturation: acid, heat and mechanical action
+- foam formation
+- gelation
+- gluten formation
+- Maillard reaction
+- stabilisation
+- viscosity.
 
 {21}------------------------------------------------
 
+# **2.2 Planning a food science experiment**
 
+- 2.2.1 Planning a food investigation
+- 2.2.2 The role of variables in a food experiment
+- 2.2.3 Testing sensory qualities
 
-| 2.2 Planning a food science experiment                                                                                                                                                                            | 2.2 Planning a food science experiment                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 2.2.1 Planning a food investigation 2.2.2 The role of variables in a food experiment 2.2.3 Testing sensory qualities | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.2.1 Planning a food investigation 2.2.2 The role of variables in a food experiment 2.2.3 Testing sensory qualities                                                                                                                                                                                                                          |
-| Section                                                                                                                                                                                                           | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 2.2.1 Planning a food investigation                                                                                                                                                                               | Learners should understand the stages of a food investigation plan, including: • research question • developing a hypothesis • identifying variables • experimental controls • equipment required • collecting results • analysing results • presenting investigation results • drawing conclusions • evaluating results. Learners should be aware of sustainability practices to prevent food waste when conducting a food investigation. |
-| 2.2.2 The role of variables in a food experiment                                                                                                                                                                  | Learners should understand the role of variables in a food experiment, including: • cooking methods • cooking times • ingredients • preparation methods • quantities • temperatures. Learners should understand how to modify variables within a food experiment to test a hypothesis. Learners should be aware of the complimentary actions of ingredients in a recipe.                                                                   |
-| 2.2.3 Testing sensory qualities                                                                                                                                                                                   | Learners should understand the sensory qualities of food, including: • appearance • aroma • flavour • texture • viscosity. Learners should be aware of how to apply sensory descriptors appropriately. Learners should be aware of how to test sensory qualities, such as: • discrimination tests • preference tests • star diagrams.                                                                                                      |
-
-© WJEC CBAC Ltd. 2024
-
-
+| 2.2.3<br>Testing sensory qualities                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |  |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Section                                                | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
+| 2.2.1<br>Planning a food<br>investigation              | Learners should understand the stages of a food<br>investigation<br>plan, including:<br>•<br>research question<br>•<br>developing a hypothesis<br>•<br>identifying variables<br>•<br>experimental controls<br>•<br>equipment required<br>•<br>collecting results<br>•<br>analysing results<br>•<br>presenting investigation<br>results<br>•<br>drawing conclusions<br>•<br>evaluating results.<br>Learners should be aware of sustainability practices to<br>prevent food waste<br>when conducting a food investigation. |  |
+| 2.2.2<br>The role of variables in a<br>food experiment | Learners should understand the role of variables in a food<br>experiment, including:<br>•<br>cooking methods<br>•<br>cooking times<br>•<br>ingredients<br>•<br>preparation methods<br>•<br>quantities<br>•<br>temperatures.<br>Learners should understand how to modify variables within a<br>food experiment<br>to test a hypothesis.<br>Learners should be aware of the complimentary actions of<br>ingredients in a recipe.                                                                                           |  |
+| 2.2.3<br>Testing sensory qualities                     | Learners should understand the sensory qualities of food,<br>including:<br>•<br>appearance<br>•<br>aroma<br>•<br>flavour<br>•<br>texture<br>•<br>viscosity.<br>Learners should be aware of how to apply sensory<br>descriptors appropriately.<br>Learners should be aware of how to test sensory qualities,<br>such as:<br>•<br>discrimination tests<br>•<br>preference tests<br>•<br>star diagrams.                                                                                                                     |  |
 
 {22}------------------------------------------------
 
+# **2.3 Food science in action**
 
+- 2.3.1 Conducting a food investigation
+- 2.3.2 Collecting, analysing and presenting results
+- 2.3.3 Reflection and evaluation
 
-| 2.3 Food science in action                                                                                                                                                                                            | 2.3 Food science in action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 2.3.1 Conducting a food investigation 2.3.2 Collecting, analysing and presenting results 2.3.3 Reflection and evaluation | In this topic learners will gain knowledge, understanding and skills in the following areas: 2.3.1 Conducting a food investigation 2.3.2 Collecting, analysing and presenting results 2.3.3 Reflection and evaluation                                                                                                                                                                                                                                                                                                                    |
-| Section                                                                                                                                                                                                               | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 2.3.1 Conducting a food investigation                                                                                                                                                                                 | Learners should be aware of food hygiene and safety practices and procedures when conducting a food experiment, including: • personal hygiene • safe working practices • the safe preparation, cooking, and storage of food. Learners should be able to: • follow the stages of their food experiment plan • conduct a food experiment to test a hypothesis based on a research question • modify variables within a food experiment to achieve different results.                                                                       |
-| 2.3.2 Collecting, analysing and presenting results                                                                                                                                                                    | Learners should understand suitable methods used to collect results when testing a hypothesis, such as: • observations • measurements • testing, including sensory quality testing, using sensory descriptors. Learners should be aware of the importance of validity and reliability when collecting results. Learners should be able to present results for analysis, using methods such as: • annotated photographs/illustrations • bar/pie charts • star diagrams • tables. Learners should understand how to analyse the results of |
-| 2.3.3 Reflection and evaluation                                                                                                                                                                                       | Learners should be able to reflect on their food experiment, including: • drawing conclusions • evaluating results.                                                                                                                                                                                                                                                                                                                                                                                                                      |
-
-
+| Section                                                  | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2.3.1<br>Conducting a food<br>investigation              | Learners should be aware of food hygiene and safety<br>practices and procedures when conducting a food<br>experiment, including:<br>•<br>personal hygiene<br>•<br>safe working practices<br>•<br>the safe preparation, cooking, and storage of food.<br>Learners should be able to:<br>•<br>follow the stages of their food experiment plan<br>•<br>conduct a food experiment to test a hypothesis based on<br>a research question<br>•<br>modify variables within a<br>food<br>experiment to achieve<br>different results.                                                                                                       |
+| 2.3.2<br>Collecting, analysing and<br>presenting results | Learners should understand suitable methods used to<br>collect results when testing a hypothesis, such as:<br>•<br>observations<br>•<br>measurements<br>•<br>testing, including sensory quality testing, using sensory<br>descriptors.<br>Learners should be aware of the importance of validity and<br>reliability when collecting results.<br>Learners should be able to present results for analysis,<br>using methods such as:<br>•<br>annotated photographs/illustrations<br>•<br>bar/pie charts<br>•<br>star diagrams<br>•<br>tables.<br>Learners should understand how to analyse the results of<br>their food experiment. |
+| 2.3.3<br>Reflection and evaluation                       | Learners should be able to reflect on their food experiment,<br>including:<br>•<br>drawing conclusions<br>•<br>evaluating results.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 {23}------------------------------------------------
 
+# <span id="page-22-0"></span>Unit 3
 
-
-## Unit 3
-
-## Food and Nutrition in Action
+## **Food and Nutrition in Action**
 
 Non-examination assessment: 12 hours Marked by the centre and moderated by WJEC 40% of qualification 80 marks
 
-## Overview of unit
+# **Overview of unit**
 
 The purpose of this unit is to:
 
-- plan, prepare, cook and present food using appropriate skills and techniques.
+• plan, prepare, cook and present food using appropriate skills and techniques.
 
 The unit will be based on the following areas of content:
 
@@ -465,57 +490,75 @@ The unit will be based on the following areas of content:
 - 3.2 Food planning, preparation and cooking techniques
 - 3.3 Cooking for an audience and purpose
 
-## Areas of content
+# **Areas of content**
 
-| 3.1 Factors affecting food choices                                                                                                                                                                        | 3.1 Factors affecting food choices                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 3.1.1 The factors that influence food and ingredient choices 3.1.2 Making choices about food and ingredients | In this topic learners will gain knowledge, understanding and skills in the following areas: 3.1.1 The factors that influence food and ingredient choices 3.1.2 Making choices about food and ingredients                                                                                                                                                                                                                                                                                                                                                                              |
-| Section                                                                                                                                                                                                   | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 3.1.1 The factors that influence food and ingredient choices                                                                                                                                              | Learners should understand the factors that affect food and ingredient choices, when planning and preparing meals and menus, including: • cultural influences • food availability and seasonality • levels of physical activity • lifestyles • nutritional needs across life stages • personal preferences • religious beliefs • sensory qualities • shelf life of food • socio-economic influences • specific dietary needs or nutritional deficiencies • emerging trends related to factors that affect food and ingredient choices • benefits of using locally sourced, Welsh food. |
-| 3.1.2 Making choices about food and ingredients                                                                                                                                                           | Learners should be able to consider the factors that affect food and ingredient choices to: • make informed decisions for themselves and others about food and drink • justify the choices for themselves and others about food and drink • plan and prepare food outcomes.                                                                                                                                                                                                                                                                                                            |
+# **3.1 Factors affecting food choices**
 
+- 3.1.1 The factors that influence food and ingredient choices
+- 3.1.2 Making choices about food and ingredients
 
+| Section                                                               | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3.1.1<br>The factors that influence<br>food and ingredient<br>choices | Learners should understand the factors that affect food and<br>ingredient choices, when planning and preparing meals and<br>menus, including:<br>•<br>cultural influences<br>•<br>food availability and seasonality<br>•<br>levels of physical activity<br>•<br>lifestyles<br>•<br>nutritional needs across life stages<br>•<br>personal preferences<br>•<br>religious beliefs<br>•<br>sensory qualities<br>•<br>shelf life of food<br>•<br>socio-economic influences<br>•<br>specific dietary needs or nutritional deficiencies<br>•<br>emerging trends related to factors that affect food and<br>ingredient choices<br>•<br>benefits of using locally sourced, Welsh food. |  |
+| 3.1.2<br>Making choices about food<br>and ingredients                 | Learners should be able to consider the factors that affect<br>food and ingredient choices<br>to:<br>•<br>make informed decisions for themselves and others<br>about food and drink<br>•<br>justify the choices for themselves and others about food<br>and drink<br>•<br>plan and prepare<br>food outcomes.                                                                                                                                                                                                                                                                                                                                                                  |  |
 
 {24}------------------------------------------------
 
+# **3.2 Food planning, preparation and cooking techniques**
 
+- 3.2.1 Planning to cook
+- 3.2.2 Techniques for preparing, cutting and cooking food outcomes
+- 3.2.3 Hygiene practices and procedures
 
-| 3.2 Food planning, preparation and cooking techniques                                                                                                                                                                        | 3.2 Food planning, preparation and cooking techniques                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 3.2.1 Planning to cook 3.2.2 Techniques for preparing, cutting and cooking food outcomes 3.2.3 Hygiene practices and procedures | In this topic learners will gain knowledge, understanding and skills in the following areas: 3.2.1 Planning to cook 3.2.2 Techniques for preparing, cutting and cooking food outcomes 3.2.3 Hygiene practices and procedures                                                                                                                                                                                                                                                                                                                                                  |
-| Section                                                                                                                                                                                                                      | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 3.2.2 Techniques for preparing, cutting and cooking food outcomes                                                                                                                                                            | Learners should understand: • the purpose of each of the techniques used to prepare, cut and cook food outcomes, as listed in Appendix A • the desired result of each technique on the food outcome. Learners should be able to present food in a suitable manner, reflecting the audience and purpose. Learners should be aware of: • locally sourced, Welsh ingredients • foods, ingredients and cooking methods that reflect the diverse cultural contributions, including from Black, Asian and minority ethnic communities and individuals, on the food we eat in Wales. |
-| 3.2.3 Hygiene practices and procedures                                                                                                                                                                                       | Learners should understand food hygiene and safety practices and procedures when preparing, cooking, presenting and storing food. Learners should be able to prepare, cook and present food outcomes, using: • correct personal hygiene • safe working practices • correct food safety practices and procedures • correct storage and temperature control. Learners should be aware of guidelines for: • cooking and reheating food • temperature control of food • use by and best before dates.                                                                             |
-
-
+| Section                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |  |  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                       |  |  |  |
+| Learners should understand the stages of a food production<br>plan, including:<br>•<br>selecting a recipe (including adapting a recipe)<br>•<br>ingredients and quantities<br>•<br>timings (including contingency plans)<br>•<br>food hygiene and safety<br>•<br>sequencing<br>•<br>presenting<br>•<br>serving<br>•<br>evaluating.<br>Learners should be able to produce a timed order of work to<br>be able to cook:<br>•<br>a single food outcome |  |  |  |
+| •<br>a number of food outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                     |  |  |  |
+| Learners should understand:<br>•<br>the purpose of each of the techniques used to prepare,<br>cut and cook food outcomes, as<br>listed in Appendix<br>A<br>•<br>the desired result<br>of each<br>technique<br>on<br>the<br>food<br>outcome.<br>Learners should be able to present food in a suitable                                                                                                                                                |  |  |  |
+| manner, reflecting the audience and purpose.                                                                                                                                                                                                                                                                                                                                                                                                        |  |  |  |
+| Learners should be aware of:<br>•<br>locally sourced, Welsh ingredients<br>•<br>foods, ingredients and cooking methods that reflect the<br>diverse cultural contributions, including from Black,<br>Asian and minority ethnic communities and individuals,<br>on the food we eat in Wales.                                                                                                                                                          |  |  |  |
+| Learners should understand<br>food hygiene and safety<br>practices and procedures<br>when preparing, cooking,<br>presenting and storing food.                                                                                                                                                                                                                                                                                                       |  |  |  |
+| Learners should be able to prepare, cook and present food<br>outcomes, using:<br>•<br>correct personal hygiene<br>•<br>safe working practices<br>•<br>correct food safety practices and procedures<br>•<br>correct storage and temperature control.<br>Learners should be aware of guidelines for:<br>•<br>cooking and reheating food<br>•<br>temperature control of food                                                                           |  |  |  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                     |  |  |  |
 
 {25}------------------------------------------------
 
+# **3.3 Cooking for an audience and purpose**
 
+- 3.3.1 Selecting and adapting recipes to produce food outcomes
+- 3.3.2 Selecting and using suitable preparation, cutting and cooking techniques
+- 3.3.3 Exploring the nutritional values of food outcomes
+- 3.3.4 Evaluating the success of food outcomes
 
-| 3.3 Cooking for an audience and purpose                                                                                                                                                                                                                                                                                                         | 3.3 Cooking for an audience and purpose                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| In this topic learners will gain knowledge, understanding and skills in the following areas: 3.3.1 Selecting and adapting recipes to produce food outcomes 3.3.2 Selecting and using suitable preparation, cutting and cooking techniques 3.3.3 Exploring the nutritional values of food outcomes 3.3.4 Evaluating the success of food outcomes | In this topic learners will gain knowledge, understanding and skills in the following areas: 3.3.1 Selecting and adapting recipes to produce food outcomes 3.3.2 Selecting and using suitable preparation, cutting and cooking techniques 3.3.3 Exploring the nutritional values of food outcomes 3.3.4 Evaluating the success of food outcomes                                                                                                                                                                                                                           |
-| Section 3.3.1 Selecting and adapting recipes to produce food outcomes                                                                                                                                                                                                                                                                           | Amplification Learners should be able to develop a food production plan based on a brief. Learners should be able to, when selecting a recipe, consider the:                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 3.3.2 Selecting and using suitable preparation, cooking and serving techniques                                                                                                                                                                                                                                                                  | Learners should be able to demonstrate: • a range of suitable techniques, as listed in Appendix A: • to prepare food outcomes • to cook food outcomes • to serve and present food outcomes • examples of suitable preparation, knife and cooking techniques from each level of complexity (categorised as basic, medium and complex, as listed in Appendix A) as suitable for the food outcome produced • how to present and serve food items; food styling, garnishing, portion control. Learners should be aware of developments in preparation and cooking techniques. |
-| 3.3.3 Exploring the nutritional values of food outcomes                                                                                                                                                                                                                                                                                         | Learners should be able to: • explore the nutritional value of food • suggest changes to ingredients and quantities to meet the needs of the audience in relation to the nutritional value of a food outcome. Learners should be aware of: • how to calculate the nutritional value in a food outcome • methods for adapting the nutritional value of food outcomes • how to present and serve food items; food styling, garnishing and portion control.                                                                                                                  |
-
-
+| Section                                                                                          | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3.3.1<br>Selecting and adapting<br>recipes to produce<br>food<br>outcomes                        | Learners<br>should be able to develop a food production<br>plan<br>based on a brief.<br>Learners should be able to, when selecting a recipe,<br>consider the:<br>•<br>suitability of the recipe<br>•<br>suitability for the audience and purpose<br>•<br>factors that affect food choices.<br>Learners should be able to select and/or adapt a recipe<br>for:<br>•<br>a single food outcome<br>•<br>a number of food outcomes.                                                                                                                                                                                                           |
+| 3.3.2<br>Selecting and using<br>suitable<br>preparation,<br>cooking<br>and serving<br>techniques | Learners should be able to<br>demonstrate:<br>•<br>a range of suitable techniques, as listed in<br>Appendix A:<br>•<br>to prepare food outcomes<br>•<br>to cook food outcomes<br>•<br>to serve and present food outcomes<br>•<br>examples of suitable preparation, knife and cooking<br>techniques from each level of complexity (categorised as<br>basic, medium and complex, as listed in Appendix A) as<br>suitable for the food outcome produced<br>•<br>how to present and serve food items; food styling,<br>garnishing, portion control.<br>Learners should be aware of<br>developments in preparation<br>and cooking techniques. |
+| 3.3.3<br>Exploring<br>the nutritional<br>values of food outcomes                                 | Learners should be able to:<br>•<br>explore the nutritional value of food<br>•<br>suggest changes to ingredients and quantities to meet<br>the needs of the audience in relation to the nutritional<br>value of a food outcome.<br>Learners should be aware of:<br>•<br>how to calculate the nutritional value in a food outcome<br>•<br>methods for adapting the nutritional value of<br>food<br>outcomes<br>•<br>how to present and<br>serve food items; food styling,<br>garnishing<br>and<br>portion control.                                                                                                                        |
 
 {26}------------------------------------------------
 
+## 3.3.4
 
+# Evaluating the success of food outcomes
 
-| 3.3.4 Evaluating the success of food outcomes   | Learners should be able to evaluate the success of food outcomes using the following factors: • recipe selection • use of ingredients and quantities • preparation and cooking techniques used • time management • health, safety and hygiene • nutritional benefits • success of adaptations • presenting and serving • tasting (using sensory descriptors) • suitability for audience and purpose.   |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Learners should be able to evaluate the success of food outcomes using the following factors:
 
-
+- recipe selection
+- use of ingredients and quantities
+- preparation and cooking techniques used
+- time management
+- health, safety and hygiene
+- nutritional benefits
+- success of adaptations
+- presenting and serving
+- tasting (using sensory descriptors)
+- suitability for audience and purpose.
 
 {27}------------------------------------------------
 
-
-
-## Opportunities for integration of learning experiences
+# <span id="page-26-0"></span>Opportunities for integration of learning experiences
 
 GCSE Food and Nutrition generates opportunities for the following learning experiences to be developed (experiences will not be directly assessed):
 
@@ -529,61 +572,53 @@ The Guidance for Teaching will include further information on the opportunities 
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills, please see Appendix B.
 
-
-
 {28}------------------------------------------------
 
-
-
-## 3 ASSESSMENT
+# <span id="page-27-0"></span>3 ASSESSMENT
 
 The Assessment Pack will include all detailed information relating to assessment.
 
-## 3.1 Assessment objectives and weightings
+# <span id="page-27-1"></span>3.1 Assessment objectives and weightings
 
-Below are the assessment objectives for this specification.  Learners must:
+Below are the assessment objectives for this specification. Learners must:
 
-## AO1
+# **AO1**
 
 Demonstrate knowledge and understanding of:
 
 - food and nutrition
 - preparing, cooking and presenting food.
 
-## AO2
+## **AO2**
 
 Apply knowledge and understanding of:
 
 - food and nutrition
 - preparing, cooking and presenting food.
 
-## AO3
+# **AO3**
 
 Analyse and evaluate different aspects of:
 
 - food and nutrition
 - preparing, cooking and presenting food (including food and dishes made by themselves and others).
 
-## AO4
+# **AO4**
 
 Plan, prepare, cook and present dishes, using appropriate skills and techniques.
 
 The table below shows the weighting of each assessment objective for each unit and for the qualification as a whole.
 
-|                   | AO1   | AO2   | AO3   | AO4   | Total   |
-|-------------------|-------|-------|-------|-------|---------|
-| Unit 1            | 15%   | 15%   | 10%   | -     | 40%     |
-| Unit 2            | -     | 15%   | 5%    | -     | 20%     |
-| Unit 3            | -     | -     | 5%    | 35%   | 40%     |
-| Overall weighting | 15%   | 30%   | 20%   | 35%   | 100%    |
-
-
+|                   | AO1 | AO2 | AO3 | AO4 | Total |
+|-------------------|-----|-----|-----|-----|-------|
+| Unit 1            | 15% | 15% | 10% | -   | 40%   |
+| Unit 2            | -   | 15% | 5%  | -   | 20%   |
+| Unit 3            | -   | -   | 5%  | 35% | 40%   |
+| Overall weighting | 15% | 30% | 20% | 35% | 100%  |
 
 {29}------------------------------------------------
 
-
-
-## 3.2 Overview of arrangements for non-examination assessment
+# <span id="page-28-0"></span>3.2 Overview of arrangements for non-examination assessment
 
 ## Unit 2
 
@@ -609,31 +644,23 @@ This assessment contributes to 40% of the overall qualification grade and will t
 
 This unit will be assessed through an externally set assignment and will be marked by the centre and moderated by WJEC.
 
-
-
 {30}------------------------------------------------
 
-
-
-## 4 MALPRACTICE
+# <span id="page-29-0"></span>4 MALPRACTICE
 
 Before the course starts, the teacher is responsible for informing candidates of WJEC's regulations concerning malpractice. Candidates must not take part in any unfair practice in the preparation of work for GCSE Food and Nutrition.
 
-Information regarding malpractice is available in our Guide to preventing, reporting and investigating malpractice.
+Information regarding malpractice is available in our [Guide to preventing, reporting and](https://www.wjec.co.uk/media/0pjats1l/guide-to-preventing-reporting-and-investigating-malpractice-april-2022-002.pdf)  [investigating malpractice.](https://www.wjec.co.uk/media/0pjats1l/guide-to-preventing-reporting-and-investigating-malpractice-april-2022-002.pdf)
 
 All cases of suspected or actual malpractice must be reported immediately to WJEC (malpractice@wjec.co.uk). If candidates commit malpractice, they may be penalised or disqualified from the examinations.
 
-In all cases of malpractice, centres are advised to consult the JCQ booklet Suspected Malpractice: Policies and Procedures.
-
-
+In all cases of malpractice, centres are advised to consult the JCQ booklet [Suspected](https://www.jcq.org.uk/exams-office/malpractice)  [Malpractice: Policies and Procedures.](https://www.jcq.org.uk/exams-office/malpractice)
 
 {31}------------------------------------------------
 
+# <span id="page-30-0"></span>5 TECHNICAL INFORMATION
 
-
-## 5 TECHNICAL INFORMATION
-
-## 5.1 Making entries
+# <span id="page-30-1"></span>5.1 Making entries
 
 This is a linear qualification in which all assessments must be taken at the end of the course. Non-examination assessment units can be completed earlier in the course but must be submitted at the end of the course.
 
@@ -645,103 +672,99 @@ Marks for non-examination assessment (NEA) may be carried forward for the life o
 
 The entry code appears below.
 
-|                              | Entry code     | Entry code   |
+|                              | Entry code     |              |
 |------------------------------|----------------|--------------|
 |                              | English medium | Welsh medium |
 | WJEC GCSE Food and Nutrition | 3580QS         | 3580CS       |
 
 The current edition of our Entry Procedures and Coding Information gives up-to-date entry procedures.
 
-## 5.2 Grading, awarding and reporting
+# <span id="page-30-2"></span>5.2 Grading, awarding and reporting
 
-GCSE qualifications are reported on an eight-point scale from A*-G, where A* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
-
-
+GCSE qualifications are reported on an eight-point scale from A\*-G, where A\* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
 
 {32}------------------------------------------------
 
+# Appendix A – Preparation, knife and cooking techniques
 
+Levels of complexity
 
-## Appendix A - Preparation, knife and cooking techniques
-
-Levels of complexity *** Complex
-
-- ** Medium
-* Basic
+- \*\*\* Complex
+- \*\* Medium
+- \* Basic
 
 Ready-made/prepared components used in the preparation and cooking of food outcomes are all classed as basic.
 
-| Preparation techniques:                                                                                                                                                                                                                                                               | Knife techniques:                                                                                                                                                                                     | Cooking techniques:                                                                                                                                                                                                                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • blending* • beating* • creaming** • crimping*** • dehydrating** • folding** • grating* • hydrating* • juicing* • kneading** • laminating (pastry)*** • marinating* • mashing* • measuring** • melting* • melting using bain-marie*** • mixing** • piping*** • proving* • puréeing** | • bâton** • brunoise*** • chiffonade** • chopping* • deboning*** • deseeding** • dicing** • filleting*** • julienne*** • mincing*** • peeling* • segmenting*** • slicing** • spatchcock** • trimming* | • basting* • baking** • baking blind*** • blanching** • boiling* • braising** • caramelising*** • chilling* • cooling* • deep fat frying*** • deglazing** • dehydrating* • emulsifying*** • foaming *** • freezing* • frying** • griddling** • grilling* • pickling** • poaching*** |
+<span id="page-31-0"></span>
 
-
+| Preparation techniques:                                                                                                                                                                                               | Knife techniques:                                                                                                                                                                                             | Cooking techniques:                                                                                                                                                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| •<br>blending*<br>•<br>beating*<br>•<br>creaming**<br>•<br>crimping***<br>•<br>dehydrating**<br>•<br>folding**<br>•<br>grating*<br>•<br>hydrating*<br>•<br>juicing*<br>•<br>kneading**<br>•<br>laminating (pastry)*** | •<br>bâton**<br>•<br>brunoise***<br>•<br>chiffonade**<br>•<br>chopping*<br>•<br>deboning***<br>•<br>deseeding**<br>•<br>dicing**<br>•<br>filleting***<br>•<br>julienne***<br>•<br>mincing***<br>•<br>peeling* | •<br>basting*<br>•<br>baking**<br>•<br>baking blind***<br>•<br>blanching**<br>•<br>boiling*<br>•<br>braising**<br>•<br>caramelising***<br>•<br>chilling*<br>•<br>cooling*<br>•<br>deep fat frying***<br>•<br>deglazing** |
+| •<br>marinating*<br>•<br>mashing*<br>•<br>measuring**<br>•<br>melting*<br>•<br>melting using bain-marie***<br>•<br>mixing**<br>•<br>piping***<br>•<br>proving*<br>•<br>puréeing**                                     | •<br>segmenting***<br>•<br>slicing**<br>•<br>spatchcock**<br>•<br>trimming*                                                                                                                                   | •<br>dehydrating*<br>•<br>emulsifying***<br>•<br>foaming ***<br>•<br>freezing*<br>•<br>frying**<br>•<br>griddling**<br>•<br>grilling*<br>•<br>pickling**<br>•<br>poaching***                                             |
 
 {33}------------------------------------------------
 
+## *GCSE FOOD AND NUTRITION 32*
 
-
-## GCSE FOOD AND NUTRITION 32
-
-| • rolling ** • rub-in** • shaping*** • shredding* • sieving* • skinning** • tenderising* • toasting(nuts/seeds) ** • weighing** • whisking(aeration)*** • zesting*   | • reduction** • roasting** • sautéing** • setting** • skimming* • steaming** • stir-frying** • tempering*** • toasting* • water-bath (sous-vide) **   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
+| rolling **              | •<br>reduction**               |
+|-------------------------|--------------------------------|
+| rub-in**                | •<br>roasting**                |
+| shaping***              | •<br>sautéing**                |
+| shredding*              | •<br>setting**                 |
+| sieving*                | •<br>skimming*                 |
+| skinning**              | •<br>steaming**                |
+| tenderising*            | •<br>stir-frying**             |
+| toasting(nuts/seeds) ** | •<br>tempering***              |
+| weighing**              | •<br>toasting*                 |
+| whisking(aeration)***   | •<br>water-bath (sous-vide) ** |
+| zesting*                |                                |
 
 {34}------------------------------------------------
 
+# Appendix B – Opportunities for embedding elements of the Curriculum for Wales
 
+<span id="page-33-0"></span>
 
-## Appendix B - Opportunities for embedding elements of the Curriculum for Wales
-
-| Curriculum for Wales Strands                                      | Unit 1                             | Unit 2                             | Unit 3                             |
-|-------------------------------------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Cross-cutting Themes                                              | Cross-cutting Themes               | Cross-cutting Themes               | Cross-cutting Themes               |
-| Local, National & International Contexts                          | ✓                                  | ✓                                  | ✓                                  |
-| Sustainability aspect of Local, National & International Contexts | ✓                                  | ✓                                  | ✓                                  |
-| Relationships and Sexuality Education                             | ✓                                  |                                    | ✓                                  |
-| Human Rights                                                      | ✓                                  | ✓                                  | ✓                                  |
-| Diversity                                                         | ✓                                  |                                    | ✓                                  |
-| Careers and Work- Related Experiences                             | ✓                                  | ✓                                  | ✓                                  |
-| Cross-curricular Skills - Literacy                                | Cross-curricular Skills - Literacy | Cross-curricular Skills - Literacy | Cross-curricular Skills - Literacy |
-| Listening                                                         | ✓                                  | ✓                                  | ✓                                  |
-| Reading                                                           | ✓                                  | ✓                                  | ✓                                  |
-| Speaking                                                          | ✓                                  | ✓                                  | ✓                                  |
-| Writing                                                           | ✓                                  | ✓                                  | ✓                                  |
-
-
+| Curriculum for Wales<br>Strands                                            | Unit 1                                | Unit 2 | Unit 3 |  |  |  |
+|----------------------------------------------------------------------------|---------------------------------------|--------|--------|--|--|--|
+| Cross-cutting Themes                                                       |                                       |        |        |  |  |  |
+| Local, National &<br>International Contexts                                | ✓                                     | ✓      | ✓      |  |  |  |
+| Sustainability<br>aspect of<br>Local, National &<br>International Contexts | ✓                                     | ✓      | ✓      |  |  |  |
+| Relationships and<br>Sexuality Education                                   | ✓                                     |        | ✓      |  |  |  |
+| Human Rights                                                               | ✓                                     | ✓      | ✓      |  |  |  |
+| Diversity                                                                  | ✓                                     |        | ✓      |  |  |  |
+| Careers and Work<br>Related Experiences                                    | ✓                                     | ✓      | ✓      |  |  |  |
+|                                                                            | Cross-curricular Skills –<br>Literacy |        |        |  |  |  |
+| Listening                                                                  | ✓                                     | ✓      | ✓      |  |  |  |
+| Reading                                                                    | ✓                                     | ✓      | ✓      |  |  |  |
+| Speaking                                                                   | ✓                                     | ✓      | ✓      |  |  |  |
+| Writing                                                                    | ✓                                     | ✓      | ✓      |  |  |  |
 
 {35}------------------------------------------------
 
+## *GCSE FOOD AND NUTRITION 34*
 
-
-## GCSE FOOD AND NUTRITION 34
-
-| Curriculum for Wales Strands                                                                                                             | Unit 1                             | Unit 2                             | Unit 3                             |
-|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Cross-curricular Skills - Numeracy                                                                                                       | Cross-curricular Skills - Numeracy | Cross-curricular Skills - Numeracy | Cross-curricular Skills - Numeracy |
-| Developing Mathematical Proficiency                                                                                                      | ✓                                  | ✓                                  | ✓                                  |
-| Understanding the number system helps us to represent and compare relationships between numbers and quantities                           | ✓                                  | ✓                                  | ✓                                  |
-| Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world | ✓                                  | ✓                                  | ✓                                  |
-| Learning that statistics represent data and that probability models chance help us make informed inferences and decisions                |                                    | ✓                                  |                                    |
-
-
+| Curriculum for Wales<br>Strands                                                                                                                         | Unit 1 | Unit 2 | Unit 3 |  |  |  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|--------|--|--|--|
+| Cross-curricular Skills –<br>Numeracy                                                                                                                   |        |        |        |  |  |  |
+| Developing Mathematical<br>Proficiency                                                                                                                  | ✓      | ✓      | ✓      |  |  |  |
+| Understanding the<br>number system helps us<br>to represent and compare<br>relationships between<br>numbers and quantities                              | ✓      | ✓      | ✓      |  |  |  |
+| Learning about geometry<br>helps us understand<br>shape, space and position<br>and learning about<br>measurement helps us<br>quantify in the real world | ✓      | ✓      | ✓      |  |  |  |
+| Learning that statistics<br>represent data and that<br>probability models chance<br>help us make informed<br>inferences and decisions                   |        | ✓      |        |  |  |  |
 
 {36}------------------------------------------------
 
+### *GCSE FOOD AND NUTRITION 35*
 
-
-## GCSE FOOD AND NUTRITION 35
-
-| Curriculum for Wales Strands          | Unit 1             | Unit 2             | Unit 3             |
-|---------------------------------------|--------------------|--------------------|--------------------|
-| Digital Competence                    | Digital Competence | Digital Competence | Digital Competence |
-| Citizenship                           | ✓                  |                    |                    |
-| Interacting and Collaborating         |                    | ✓                  | ✓                  |
-| Producing                             |                    | ✓                  | ✓                  |
-| Data and Computational Thinking       |                    | ✓                  | ✓                  |
-| Integral Skills                       | Integral Skills    | Integral Skills    | Integral Skills    |
-| Creativity and Innovation             |                    | ✓                  | ✓                  |
-| Critical Thinking and Problem Solving | ✓                  | ✓                  |                    |
-| Planning and Organisation             |                    | ✓                  | ✓                  |
-| Personal Effectiveness                | ✓                  | ✓                  | ✓                  |
+| Curriculum for Wales<br>Strands          | Unit 1 | Unit 2          | Unit 3 |  |  |  |
+|------------------------------------------|--------|-----------------|--------|--|--|--|
+| Digital Competence                       |        |                 |        |  |  |  |
+| Citizenship                              | ✓      |                 |        |  |  |  |
+| Interacting and<br>Collaborating         |        | ✓               | ✓      |  |  |  |
+| Producing                                |        | ✓               | ✓      |  |  |  |
+| Data and Computational<br>Thinking       |        | ✓               | ✓      |  |  |  |
+|                                          |        | Integral Skills |        |  |  |  |
+| Creativity and Innovation                |        | ✓               | ✓      |  |  |  |
+| Critical Thinking and<br>Problem Solving | ✓      | ✓               |        |  |  |  |
+| Planning and<br>Organisation             |        | ✓               | ✓      |  |  |  |
+| Personal Effectiveness                   | ✓      | ✓               | ✓      |  |  |  |

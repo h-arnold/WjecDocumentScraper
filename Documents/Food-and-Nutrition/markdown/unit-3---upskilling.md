@@ -1,271 +1,300 @@
+
+
 {1}------------------------------------------------
 
-<!-- image -->
+![](_page_0_Picture_0.jpeg)
 
-Yn arbennig i Gymru. Yn barod i'r byd. Made for Wales. Ready for the world.
+![](_page_0_Picture_1.jpeg)
 
-<!-- image -->
+Yn arbennig i Gymru. Yn barod i'r byd.
 
-<!-- image -->
+Made for Wales. Ready for the world.
 
-
+![](_page_0_Picture_4.jpeg)
 
 {2}------------------------------------------------
 
+![](_page_1_Picture_1.jpeg)
 
+# UNIT 3 UPSKILLING RECIPES
 
-## UNIT 3 UPSKILLING RECIPES
+HOW TO INCLUDE AS MANY TECHNIQUES AS
 
-HOW TO INCLUDE AS MANY TECHNIQUES AS POSSIBLE
-
-<!-- image -->
-
-<!-- image -->
-
-
+![](_page_1_Picture_4.jpeg)
 
 {3}------------------------------------------------
 
+# TGAU GCSE
 
+| Tas | k 3                                                                                                                                                                                                                                                      | Evidence                                                                                                          | Controls                                                                                                                                                                            |  |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 3   | Prepare, cook and present three food outcomes and accompaniments, as appropriate, within a single <b>3 hour</b> session.                                                                                                                                 | Photographic evidence of final outcomes<br>Evidence of any tasting (optional) to support<br>evaluation in Task 4. | Supervision:<br>Indirect<br>Guidance:                                                                                                                                               |  |
+|     | The order of work must be followed during this session.                                                                                                                                                                                                  |                                                                                                                   | Not permitted  Resources:                                                                                                                                                           |  |
+|     | Photographic evidence of the completed food outcomes and accompaniments, as appropriate, is essential.                                                                                                                                                   |                                                                                                                   | Not permitted  Collaboration:                                                                                                                                                       |  |
+|     | It is an expectation that you will use the correct tools, safely and competently when carrying out a range of techniques.                                                                                                                                |                                                                                                                   | Not permitted.                                                                                                                                                                      |  |
+|     | You will be expected to demonstrate essential food hygiene safety practices and procedures when preparing, cooking, presenting and storing food for this assessment.                                                                                     |                                                                                                                   | Within the three<br>hours session -<br>controlled<br>conditions must be<br>adhered to.                                                                                              |  |
+|     | In relation to the chosen brief: prepare, cook and present, three food outcomes and accompaniments as appropriate. During the practical session, production of the food outcomes and accompaniments, as appropriate, you must demonstrate the following: |                                                                                                                   | However, due to<br>the practical nature<br>of this assessment,<br>learners are<br>permitted to:                                                                                     |  |
+|     | <ul> <li>ability to follow your order of work and deploy contingencies as needed.</li> <li>selection of and safe competent use of a range of correct kitchen equipment</li> </ul>                                                                        |                                                                                                                   | Ask each other to pass equipment etc.                                                                                                                                               |  |
+|     | <ul> <li>suitable preparation techniques</li> <li>suitable knife techniques</li> <li>suitable cooking techniques</li> <li>production of the three food outcomes and accompaniments, as appropriate</li> </ul>                                            |                                                                                                                   | Give feedback to<br>each other on final<br>food outcomes and<br>accompaniments,<br>as appropriate. in                                                                               |  |
+|     | <ul> <li>evidence of tasting and seasoning</li> <li>presentation of final three food outcomes and accompaniments, as appropriate, including garnishing, food styling and portion control.</li> </ul>                                                     |                                                                                                                   | order to help learners make informed comments for Task 4, however, changes to food outcome and accompaniments, as appropriate, based on feedback are NOT permitted.                 |  |
+|     |                                                                                                                                                                                                                                                          |                                                                                                                   | All practical outcomes must be the candidate's own work.                                                                                                                            |  |
+|     |                                                                                                                                                                                                                                                          |                                                                                                                   | Teachers are permitted to assist where a health and safety issue is identified. Details of assistance with health and safety issues must be recorded Observation Form (Appendix G). |  |
+|     | [45 marks]                                                                                                                                                                                                                                               |                                                                                                                   |                                                                                                                                                                                     |  |
+| You | You must spend approximately 3 hours completing these tasks.                                                                                                                                                                                             |                                                                                                                   |                                                                                                                                                                                     |  |
+|     |                                                                                                                                                                                                                                                          |                                                                                                                   |                                                                                                                                                                                     |  |
 
-| Task3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Evidence                                                                                          | Controls                                                                                                                                                                                                                                                                                                                                                                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prepare,cookandpresentthreefoodoutcomesand accompaniments，asappropriate,withinasingle3hour session. Theorderofworkmustbefollowedduringthissession. Photographicevidenceofthecompletedfood outcomesandaccompaniments,asappropriate,is essential. Itisanexpectationthatyouwillusethecorrecttools,safely andcompetentlywhencarryingoutarangeoftechniques. Youwillbeexpectedtodemonstrateessentialfoodhygiene Inrelationtothechosenbrief:prepare,cookandpresent, threefoodoutcomesandaccompanimentsasappropriate. Duringthepracticalsession,productionofthefood outcomesandaccompaniments,asappropriate,youmust demonstratethefollowing: abilitytofollowyourorderofworkanddeploy contingenciesasneeded. selectionofandsafecompetentuseofarangeof correctkitchenequipment suitablepreparationtechniques suitableknifetechniques suitablecookingtechniques productionofthethreefoodoutcomesand accompaniments,asappropriate | Photographicevidenceoffinaloutcomes Evidenceof any tasting(optional) tosupport evaluationinTask4. | Supervision: Indirect Guidance: Notpermitted Resources: Notpermitted Collaboration: Notpermitted. Withinthethree hourssession- controlled adhered to. However,dueto thepracticalnature ofthisassessment, leamersare permittedto: Askeachotherto passequipment etc. Givefeedbackto eachotheronfinal foodoutcomesand accompaniments, as appropriate.in                             |
-| evidenceoftastingandseasoning presentationoffinalthreefoodoutcomesand accompaniments，asappropriate,includinggarnishing, foodstylingandportioncontrol.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                   | ordertohelp learnersmake informedcomments for Task 4, however,changes tofoodoutcome and accompaniments, asappropriate, basedonfeedback areNoTpermitted. All practical outcomesmustbe thecandidate's ownwork. Teachersare permittedtoassist whereahealthand safetyissueis identified.Details ofassistancewith healthandsafety issuesmustbe recorded ObservationForm (Appendix G). |
-
-<!-- image -->
-
-cbac
-
-
+![](_page_2_Picture_2.jpeg)
 
 {4}------------------------------------------------
 
+![](_page_3_Picture_0.jpeg)
 
-
-## TGAU GCSE
-
-Techniques - page 31 Specification
+Techniques – page 31 Specification
 
 This needs to be used in conjunction with the marking scheme from the SAM
 
-## Appendix A - Preparation, knife and cooking techniques
-
-Levels of complexity *** Complex
-
-** Medium
-
-*Basic
-
-| Preparation techniques:                                                                                                                                                                                                                                                                                                                                                | Knife techniques:                                                                                                                                                       | Cooking techniques:                                                                                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| blending* beating* creaming** crimping*** dehydrating** folding"* grating* hydrating* juicing* kneading** laminating (pastry)*** marinating* mashing* measuring** melting* melting using bain-marie*** mixing** piping*** proving* puréeing** rolling ** shredding* sieving* skinning** tenderising* toasting(nuts/seeds) ** weighing** whisking(aeration)*** zesting* | baton** brunoise*** chiffonade** chopping* deboning*** deseeding** dicing** filleting*** julienne*** mincing*** peeling* segmenting*** slicing** spatchcock** trimming* | basting* baking** baking blind*** blanching** boiling* braising** caramelising*** chilling* cooling* deep fat frying*** deglazing** dehydrating* emulsifying*** foaming *** freezing* frying* griddling** grilling* pickling** poaching*** reduction** roasting** sauteing** setting** skimming* steaming** stir-frying** tempering*** toasting* water-bath (sous-vide) ** |
-
-<!-- image -->
-
-<!-- image -->
-
-
-
 {5}------------------------------------------------
 
+![](_page_4_Picture_0.jpeg)
 
+# Techniques in individual dishes
 
-<!-- image -->
-
-## Techniques in individual dishes
-
-<!-- image -->
+![](_page_4_Picture_2.jpeg)
 
 The mark scheme in the SAM is very clear that top band marks can only be awarded when there is evidence of complex techniques across the three outcomes as well as some medium and basic techniques.
 
-<!-- image -->
+| (d) suitable cooking techniques (see Appendix A) [9 marks |                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Band 3                                                    | Award 7-9 marks  Demonstrates the use of at least one complex and at least one other (either basic, medium or complex) cooking technique for all three food outcomes.  • accurate use of timing (including contingency plans) • accurate food hygiene and safety • accurate use of sequencing.                  |
+| Band 2                                                    | Award 4-6 marks  Demonstrates the use of at least one complex and at least one other (either basic, medium or complex) cooking technique for two food outcomes.  • mostly accurate use of timing (including contingency plans)  • mostly accurate food hygiene and safety  • mostly accurate use of sequencing. |
 
 This is for the cooking techniques.. You can see that the MS notes the need for a complex cooking technique in each of the three dishes plus at least one other.
 
-
-
 {6}------------------------------------------------
 
-
-
-## TGAU GCSE
+# TGAU GCSE
 
 You can create a simple practical review chart, combining an evaluation and a personal performance review. Your learners would become very familiar with the level of each technique
 
-## G.C.S.E Food &amp; Nutrition Practical Review
+### G.C.S.E Food & Nutrition Practical Review
 
-## PersonalPerformanceReview
-
-What did you make?
-
-Explainyourperformance（time/organisation/making)
-
-Strengths
-
-## Weaknesses
-
-Possible improvements
+| Personal Performance Review                         |
+|-----------------------------------------------------|
+| What did you make?                                  |
+| Explain your performance (time/organisation/making) |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+| Strengths                                           |
+|                                                     |
+|                                                     |
+|                                                     |
+| Weaknesses                                          |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+| Possible improvements                               |
+| ,                                                   |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
+|                                                     |
 
 What client group would this dish suit?
 
-What nutrients are in this dish?
-
-## Preparation Techniques (Circle or highlight)
-
-- ** creaming, dehydrating, folding, kneading, measuring, mixing, pureeing, rolling, rub-in, skinning,toasting(nuts/seeds),weighing.
-
-<!-- image -->
-
 Rate your dishes
 
-<!-- image -->
+What nutrients are in this dish?
 
-- *blending,beating, grating,hydrating, juicing,marinating, mashing,melting, proving, shredding, sieving,tenderizing,zesting.
-- *** crimping, laminating, melting using bain-marie, piping, shaping, whisking(aeration)
+![](_page_5_Picture_7.jpeg)
 
-## Knife Techniques (Circle or highlight)
+### Preparation Techniques (Circle or highlight)
 
-- ** baton, chiffonade, deseeding, dicing, slicing, spatchcock
-* chopping, peeling, trimming
-- *** brunoise, deboning, filleting, julienne, mincing, segmenting
+- \* blending, beating, grating, hydrating, juicing, marinating, mashing, melting, proving, shredding, sieving, tenderizing, zesting.
+- \*\* creaming, dehydrating, folding, kneading, measuring, mixing, puréeing, rolling, rub-in, skinning, toasting(nuts/seeds), weighing.
+- \*\*\* crimping, laminating, melting using bain-marie, piping, shaping, whisking(aeration)
 
-## Cooking techniques (Circle or highlight)
+### Knife Techniques (Circle or highlight)
 
-- ** baking,blanching,braising,frying, griddling, pickling, reduction, roasting, sauteing, setting, steaming,stirfrying,waterbath(sous-vide)
-- *basting,boiling, chilling,cooling, dehydrating,freezing, grilling, skimming,toasting
-- *** baking blind, caramelization, deep fat frying, emulsifying,foaming, poaching,tempering
+- \* chopping, peeling, trimming
+- \*\* bâton, chiffonade, deseeding, dicing, slicing, spatchcock
+- \*\*\* brunoise, deboning, filleting, julienne, mincing, segmenting
 
+### Cooking techniques (Circle or highlight)
 
+- \* basting, boiling, chilling, cooling, dehydrating, freezing, grilling, skimming, toasting
+- \*\* baking, blanching, braising, frying, griddling, pickling, reduction, roasting, sauteing, setting, steaming, stir frying, water bath(sous-vide)
+- \*\*\* baking blind, caramelization, deep fat frying, emulsifying, foaming, poaching, tempering
 
 {7}------------------------------------------------
 
+# MARK SHEET – WJEC website
 
-
-TGAU GCSE
-
-## MARK SHEET - WJEC website
+![](_page_6_Picture_2.jpeg)
 
 These are currently being developed and will be available on the open website. The format will be similar to those for the current legacy specification
 
-<!-- image -->
-
-
-
 {8}------------------------------------------------
 
+# Upskilling recipes - pasta dishes
 
+![](_page_7_Picture_2.jpeg)
 
-TGAU GCSE
+![](_page_7_Picture_3.jpeg)
 
-## Upskilling recipes -  pasta dishes
+![](_page_7_Picture_4.jpeg)
 
-<!-- image -->
+![](_page_7_Picture_5.jpeg)
 
-Many candidates choose a pasta dish. Dried or ready-made fresh pasta - Never! It's so simple to make your own. It can be done in seconds in a food processor and then use a pasta rolling machine.  Jars of sauces are convenient - yes. But no techniques. Try and add a bread to the menu, especially an enriched dough, shaped. Think accompaniments and garnishes. 'What would I get on my plate if I chose this in a restaurant?' It's all about 'beefing' up the number of techniques in each complete dish. Especially complex techniques. Mincing meat for a pasta dish is a complex knife technique.
+Fresh tomato sauce: Slicing \*\* Peeling \* Dicing \*\* Sauteing \*\*
 
-<!-- image -->
+Many candidates choose a pasta dish. Dried or ready-made fresh pasta – Never! It's so simple to make your own. It can be done in seconds in a food processor and then use a pasta rolling machine. Jars of sauces are convenient – yes. But no techniques. Try and add a bread to the menu, especially an enriched dough, shaped. Think accompaniments and garnishes. "What would I get on my plate if I chose this in a restaurant?" It's all about "beefing" up the number of techniques in each complete dish. Especially complex techniques. Mincing meat for a pasta dish is a complex knife technique.
 
-- Try and make the pasta - use a food processor and pasta machine for rolling out
+- Try and make the pasta use a food processor and pasta machine for rolling out
 - Pasta like Ravioli need shaping and a filling prepared.
 - Sauce making/blending/knife skills
 - Bread making
 - Salad garnish
 - Make the Dressing
 
-<!-- image -->
+Fresh pasta: Weighing \*\* Measuring \*\* Laminating (pasta) \*\*\* Boiling \*
 
-Fresh pasta: Weighing ** Measuring ** Laminating (pasta) *** Boiling *
+Shaping ravioli \*\*\*
 
-Shaping ravioli ***
+Emulsifying a dressing \*\*\*
 
-Emulsifying a dressing ***
-
-<!-- image -->
-
-Fresh tomato sauce: Slicing ** Peeling * Dicing ** Sauteing **
-
-Bread making: Measuring ** Weighing ** Kneading ** Mixing ** Proving * Shaping ***
-
-
+Bread making: Measuring \*\* Weighing \*\* Kneading \*\* Mixing \*\* Proving \* Shaping \*\*\*
 
 {9}------------------------------------------------
 
+### **TGAU GCSE**
 
+# Upskilling recipes – using chicken
 
-<!-- image -->
+![](_page_8_Picture_2.jpeg)
 
-## Upskilling recipes - using chicken
+Chicken is the meat of choice for many candidates. Not every candidate will have the ability to fillet a chicken breast from a whole chicken. There is an excellent skills section on the WJFC website with videos to help.
 
-Chicken is the meat of choice for many candidates. Not every candidate will have the ability to fillet a chicken breast from a whole chicken. There is an excellent skills section on the WJEC website with videos to help.
+Boning a chicken is a complexO knife technique \*\*\*
 
-<!-- image -->
+For top band candidates, consider filleting/portioning a chicken
 
-<!-- image -->
+**Resource WJEC Educational Resources** Website
 
-Katsu Chicken curry
+wjec cbac
 
-<!-- image -->
+English | | Cymraeg
+
+Resource
+
+![](_page_8_Picture_12.jpeg)
+
+![](_page_8_Picture_13.jpeg)
+
+![](_page_8_Picture_14.jpeg)
 
 Chicken Korma
 
-<!-- image -->
+![](_page_8_Picture_16.jpeg)
 
 Chicken kebab
 
-<!-- image -->
+![](_page_8_Picture_18.jpeg)
 
-<!-- image -->
+Information
 
+Published: 08 June 2016 Authors: - Ruth McIntyre - Stephanie Culham
 
+% Related Resources
+
+![](_page_8_Picture_22.jpeg)
+
+# Literary and Linguistic Terminology
+
+English Language/Literature
+
+![](_page_8_Picture_24.jpeg)
+
+Design and Technology: Product
+
+![](_page_8_Picture_26.jpeg)
+
+What! No Stable?
+
+Developing conceptual awareness at GCF History – support for Unit 1
+
+### Skills videos
+
+Films to support skill acquisition in preparation for Assessment 2: The Food Preparation
+
+skills Food Preparation
+
+Files Knife skills
+
+Filleting a fish
+
+Slicing raw meat
+
+Portioning a chicker
+
+The bridge cut Claw grip
+
+Peeling
+
+Dicing Iulienne
 
 {10}------------------------------------------------
 
+# Always try and include a bread
 
-
-TGAU GCSE
-
-## Always try and include a bread
+![](_page_9_Picture_2.jpeg)
 
 The candidates have 3 hours to complete the Unit 3 task, more than enough time to make a bread dish as an accompaniment. This adds a number of techniques to the mark sheet.
 
-<!-- image -->
+Measuring \*\* Weighing \*\* Kneading \*\* Mixing \*\*
+
+Proving \*
+
+Shaping \*\*\*
+
+![](_page_9_Picture_7.jpeg)
 
 Homemade buns for burgers
 
-<!-- image -->
+![](_page_9_Picture_9.jpeg)
 
 Cheesy garlic bread for any Italian dish
 
-<!-- image -->
+![](_page_9_Picture_11.jpeg)
 
-Measuring ** Weighing ** Kneading ** Mixing ** Proving * Shaping ***
+![](_page_9_Picture_12.jpeg)
 
-<!-- image -->
+![](_page_9_Picture_13.jpeg)
 
-<!-- image -->
+![](_page_9_Picture_15.jpeg)
 
-Making flat breads
+Making flat breads A bread roll with soup
 
-<!-- image -->
-
-A bread roll with soup
-
-<!-- image -->
-
-Three hours is more than enough time to make bread, get it proved and shaped and baked. Cut down recipes that use 400g of flour, make half batches. It will be dovetailed into their time plan, adding techniques, and is an accompaniment for so many dishes. A simple burger is upskilled as soon as a brioche bun is made! Have you ever seen an Italian dish without cheesy garlic bread? Indian food make flat bread, and when do you see soup without bread?
-
-
+Three hours is more than enough time to make bread, get it proved and shaped and baked. Cut down recipes that use 400g of flour, make half batches. It will be dovetailed into their time plan, adding techniques, and is an accompaniment for so many dishes. A simple burger is upskilled as soon as a brioche bun is made! Have you ever seen an Italian dish without cheesy garlic bread? Indian food – make flat bread, and when do you see soup without bread?
 
 {11}------------------------------------------------
 
-
-
-TGAU GCSE
-
 ## Think garnishes and accompaniments…
 
-<!-- image -->
+![](_page_10_Picture_2.jpeg)
+
+![](_page_10_Picture_3.jpeg)
+
+![](_page_10_Picture_4.jpeg)
+
+![](_page_10_Picture_5.jpeg)
+
+![](_page_10_Picture_6.jpeg)
+
+![](_page_10_Picture_7.jpeg)
 
 - Coulis
 - Fruit or vegetables
@@ -275,115 +304,90 @@ TGAU GCSE
 
 Presentation is 6 marks
 
-<!-- image -->
+![](_page_10_Picture_14.jpeg)
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-Curry and rice not sufficient. Samosas and flat bread added, with 3 chutneys
-
-Presentation is 6 marks. The only thing your moderator will see is the photos you send along with the mark sheets. So, make sure that the dishes or plates look their best. It's back to beg, steal and borrow. Not all candidates will have serving dishes or even a table-cloth in some cases. So, what can school do to help? Put a message on the staff bulletin. Within days you will be inundated with unwanted pasta machines and ice cream makers. Tablecloths and cutlery sets. Can the PTA help?  Just look at these pictures. Your candidate wants to do curry and rice, so what about adding samosas and a flat bread with some home-made chutneys. Look at that pie, would two small pies or two cut slices not have looked better? With homemade custard of course.
-
-
+Presentation is 6 marks. The only thing your moderator will see is the photos you send along with the mark sheets. So, make sure that the dishes or plates look their best. It's back to beg, steal and borrow. Not all candidates will have serving dishes or even a table-cloth in some cases. So, what can school do to help? Put a message on the staff bulletin. Within days you will be inundated with unwanted pasta machines and ice cream makers. Tablecloths and cutlery sets. Can the PTA help? Just look at these pictures. Your candidate wants to do curry and rice, so what about adding samosas and a flat bread with some home-made chutneys. Look at that pie, would two small pies or two cut slices not have looked better? With homemade custard of course.
 
 {12}------------------------------------------------
 
+## Smaller portions and individual dishes. Quicker in preparation and lowering cost.
 
+![](_page_11_Picture_2.jpeg)
 
-TGAU GCSE
+This Unit can be expensive, but you need your learners to show as many techniques, dishes and accompaniments as they can. So, what about cutting down on recipe sizes. Avoid full "family" sized dishes. Smaller individual dishes not only look better, but cost less, take less time to prepare and can sometimes add to the complexity level.
 
-## Smaller portions and individual dishes. Quicker in preparation and lowering cost .
+![](_page_11_Picture_4.jpeg)
 
-This Unit can be expensive, but you need your learners to show as many techniques, dishes and accompaniments as they can. So, what about cutting down on recipe sizes. Avoid full 'family' sized dishes. Smaller individual dishes not only look better, but cost less, take less time to prepare and can sometimes add to the complexity level.
+![](_page_11_Picture_5.jpeg)
 
-<!-- image -->
+![](_page_11_Picture_6.jpeg)
 
-<!-- image -->
+![](_page_11_Picture_7.jpeg)
 
-<!-- image -->
+![](_page_11_Picture_8.jpeg)
 
-<!-- image -->
+![](_page_11_Picture_9.jpeg)
 
-<!-- image -->
+![](_page_11_Picture_10.jpeg)
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-
+![](_page_11_Picture_11.jpeg)
 
 {13}------------------------------------------------
 
+## • Local college
 
-
-- Local college
 - Careers Wales
 - Parents
 - Local businesses
 
 Get help. Careers Wales has a department that can find professionals to come into schools or you can take your learners out to their workplaces. Is there a local college with a catering department that you can either visit or arrange for someone to come out and do a lesson on plating and garnishing? What about parents? Surely someone is chef who can spare an hour to do a dem with your Year 10? Many learners may have a part time job in a local hospitality business, can that business help? This is also building links within your wider school community. Your SMT will love you for that!
 
-## Get professional help
+# Get professional help
 
-<!-- image -->
+![](_page_12_Picture_7.jpeg)
 
-<!-- image -->
+![](_page_12_Picture_8.jpeg)
 
-https://careerswales.gov.wales/
+![](_page_12_Picture_9.jpeg)
 
-<!-- image -->
+<https://careerswales.gov.wales/>
 
-<!-- image -->
+![](_page_12_Picture_11.jpeg)
 
-<!-- image -->
+![](_page_12_Picture_12.jpeg)
 
-<!-- image -->
+![](_page_12_Picture_13.jpeg)
 
-
+![](_page_12_Picture_14.jpeg)
 
 {14}------------------------------------------------
 
-
-
-<!-- image -->
-
 If you have queries regarding this resource or require any information about the qualification. Please contact the team.
 
-## CONTACTS:
+# CONTACTS:
 
 Contact our specialist Subject Officer and administrative support team with any queries.
 
-Allison Candy - Subject Officer food@wjec.co.uk
+Allison Candy - Subject Officer [food@wjec.co.uk](mailto:food@wjec.co.uk)
 
-Gemma Edwards - Subject Support Officer food@wjec.co.uk
+Gemma Edwards - Subject Support Officer [food@wjec.co.uk](mailto:food@wjec.co.uk)
 
-Sian Williams - Subject Advisor
+Sian Williams – Subject Advisor [Food@wjec.co.uk](mailto:Food@wjec.co.uk)
 
-Food@wjec.co.uk
+### **E assessment**
 
-E assessment e-assessment@wjec.co.uk
-
-
+[e-assessment@wjec.co.uk](mailto:e-assessment@wjec.co.uk)
 
 {15}------------------------------------------------
 
+![](_page_14_Picture_0.jpeg)
 
+![](_page_14_Picture_1.jpeg)
 
-<!-- image -->
+Yn arbennig i Gymru. Yn barod i'r byd.
 
-Yn arbennig i Gymru. Yn barod i'r byd. Made for Wales. Ready for the world.
+Made for Wales. Ready for the world.
 
 www.cbac.co.uk/YnarbennigiGymru www.wjec.co.uk/MadeforWales
 
-<!-- image -->
-
-<!-- image -->
+![](_page_14_Picture_5.jpeg)

@@ -1,52 +1,49 @@
+
+
 {1}------------------------------------------------
 
-<!-- image -->
+![](_page_0_Picture_0.jpeg)
 
-## WJEC GCSE Food and Nutrition
+![](_page_0_Picture_1.jpeg)
+
+# WJEC GCSE Food and Nutrition
 
 Approved by Qualifications Wales
 
-## Sample Assessment Materials
+Sample Assessment Materials
 
-Unit 2: Food Investigation Teaching from 2025 For award from 2027
+Unit 2: Food Investigation
 
-<!-- image -->
+Teaching from 2025
 
-Made for Wales. Ready for the world.
+For award from 2027
 
-<!-- image -->
+![](_page_0_Picture_8.jpeg)
 
+Ready for the world. This Qualifications Wales regulated qualification is not available to centres in England.
 
+Made for Wales.
 
 {2}------------------------------------------------
 
-
-
-WJEC would like to thank the students and teachers of Fitzalan High School, Cardiff and Llanwern High School, Newport for their participation in the creation of these covers.
-
-
+![](_page_1_Picture_0.jpeg)
 
 {3}------------------------------------------------
 
-
-
 ## Contents
 
-About this pack: information for teachers .............................................................................. 1
+| About this pack: information for teachers<br> | 1 |
+|-----------------------------------------------|---|
+| Candidate Mark Record Sheet<br>               | 3 |
+| Candidate Assessment Pack<br>                 | 4 |
 
-Candidate Mark Record Sheet .......................................................................................... 3
-
-Candidate Assessment Pack ................................................................................................ 4
-
-## Copyright
+![](_page_2_Picture_2.jpeg)
 
 © WJEC CBAC Limited 2024.
 
-
-
 {4}------------------------------------------------
 
-
+<span id="page-3-0"></span>
 
 ## About this pack: information for teachers
 
@@ -56,15 +53,15 @@ Within this pack, you will find:
 
 - information for teachers on how to manage arrangements for assessment
 - a mark record sheet
-- a candidate pack which includes:
-- details of the assignment
-- a detailed breakdown of each task
-- information for candidates, which tells candidates about things that they must and must not do when they are completing the assessment
-- the mark scheme which must be used to assess candidate work
-- a Candidate Declaration Form
-- a Candidate Time Record sheet.
+- a **candidate pack** which includes:
+  - details of the assignment
+  - a detailed breakdown of each task
+  - information for candidates, which tells candidates about things that they must and must not do when they are completing the assessment
+  - the mark scheme which must be used to assess candidate work
+  - a Candidate Declaration Form
+  - a Candidate Time Record sheet.
 
-## You must provide each candidate with a copy of the complete candidate assessment pack.
+**You must provide each candidate with a copy of the complete candidate assessment pack.**
 
 ## Managing the assessment
 
@@ -72,7 +69,7 @@ This is a centre-marked (internal) non-examination assessment. The following arr
 
 ## Time
 
-Candidates must be allowed 8 hours to complete this assessment. Candidates should spend approximately:
+Candidates must be allowed **8 hours** to complete this assessment. Candidates should spend approximately:
 
 - 2 hours completing Task 1
 - 4 hours completing Task 2
@@ -92,11 +89,7 @@ Group work is allowed. Candidates can collaborate for task/s 1 and 2.
 
 Candidates must be supervised by an assessor whilst completing the activities. Centres must have in place systems to ensure candidates cannot access evidence they have been developing outside of supervised activities.
 
-
-
 {5}------------------------------------------------
-
-
 
 ## Authentication
 
@@ -137,69 +130,44 @@ A mark record sheet must be completed for each candidate.
 
 You should refer the JCQ Instructions for conducting non-examination assessment for further information on managing assessment within our GCSE Qualifications.
 
-This pack is a sample. It must not be used for live assessment.
-
-
+**This pack is a sample. It must not be used for live assessment.**
 
 {6}------------------------------------------------
 
-
+<span id="page-5-0"></span>
 
 ## Candidate Mark Record Sheet
 
-Centre No:
+| Centre No:       |  | Centre Name:       |  |
+|------------------|--|--------------------|--|
+| Candidate<br>No: |  | Candidate<br>Name: |  |
+| Unit Title:      |  |                    |  |
 
-Centre Name:
-
-Candidate No:
-
-Candidate Name:
-
-Unit Title:
-
-Task
-
-Mark Awarded
-
-/10
-
-/20
-
-/10
-
-Total Mark
-
-/40
+| Task       | Mark Awarded |
+|------------|--------------|
+|            | /10          |
+|            | /20          |
+|            | /10          |
+| Total Mark | /40          |
 
 I have authenticated the candidate's work and am satisfied that to the best of my knowledge the work produced is solely that of the candidate. The candidate has clearly referenced any sources and any AI tools used in the work. I understand that false declaration is a form of malpractice
 
-Assessor Signature
-
-Name (printed)
-
-Date
-
-/        /20
-
-
+| Assessor Signature |       |
+|--------------------|-------|
+| Name (printed)     |       |
+| Date               | / /20 |
 
 {7}------------------------------------------------
 
-
-
-<!-- image -->
+![](_page_6_Picture_0.jpeg)
 
 ## WJEC GCSE Food and Nutrition
 
-## Candidate Assessment Pack
+<span id="page-6-0"></span>Candidate Assessment Pack
 
-## Unit 2: Food Investigation (3580QSL-2)
-
-
+Unit 2: Food Investigation (3580QSL-2)
 
 {8}------------------------------------------------
-
-
 
 ## About this pack: information and instructions for candidates
 
@@ -214,7 +182,7 @@ Within this pack, you will find:
 - a Declaration Form
 - a Time Record sheet.
 
-You will have 8 hours in total to complete this assessment. You should spend approximately:
+## You will have 8 hours in total to complete this assessment. You should spend approximately:
 
 - 2 hours completing Task 1
 - 4 hours completing Task 2
@@ -228,120 +196,124 @@ It is important that you work independently from other candidates and the work p
 
 You are advised to check your work carefully to make sure that it is accurate and correct.
 
-
+![](_page_7_Picture_17.jpeg)
 
 {9}------------------------------------------------
-
-
 
 ## Assignment
 
 Produce written evidence on the working characteristics, functional and chemical properties of ingredients in a recipe through conducting a food investigation which includes collecting, analysing and presenting results to test a hypothesis.
 
-The recommended written evidence is 2000 - 2500 words for the written evidence for all three tasks.
+The **recommended** written evidence is 2000 - 2500 words for the written evidence for all **three** tasks.
 
-You have a total of 8 hours to complete this assignment.
+You have a total of **8** hours to complete this assignment.
 
 ## Brief A
 
-'Fruit is often preserved and added to a recipe to enhance the characteristics of the dish.' Investigate the working characteristics, function and chemical properties of using different types of preserved fruit when making a batch of cupcakes.
+"Fruit is often preserved and added to a recipe to enhance the characteristics of the dish." Investigate the working characteristics, function and chemical properties of using different types of preserved fruit when making a batch of cupcakes.
 
-This assignment must be supported by investigational work -refer to guidance given below.
+This assignment must be supported by investigational work – refer to guidance given below.
 
 ## Brief B
 
-"Meat can be tenderised before cooking.'
+"Meat can be tenderised before cooking." Investigate the working characteristics, function and chemical properties of using different methods to tenderise meat.
 
-Investigate the working characteristics, function and chemical properties of using different methods to tenderise meat.
-
-This assignment must be supported by investigational work -refer to guidance given below.
+This assignment must be supported by investigational work – refer to guidance given below.
 
 You are required to conduct a food investigation.
 
-You may work collaboratively as a group, as instructed by your teacher, to complete some elements of some tasks, as described below:
+You **may** work collaboratively as a group, as instructed by your teacher, to complete some elements of some tasks, as described below:
 
 - Task 1
-- (a) (*) Develop a hypothesis (please note the research element of Task 1 is an individual task).
-- (b) Produce a plan -a discussion to develop a shared plan.
+  - (a) (\*) Develop a hypothesis (please note the research element of Task 1 is an individual task).
+  - (b) Produce a plan a discussion to develop a shared plan.
 - Task 2
-- (a) Collecting results.
+  - (a) Collecting results.
 
-You may develop a shared hypothesis, discuss a shared food investigation plan and collect the same results as a member of a group, but you must have your own individual interpretations and evidence of these tasks. All written evidence submitted for the assessment must be your own work.
+You may develop a shared hypothesis, discuss a shared food investigation plan and collect the same results as a member of a group, but you **must** have your own individual interpretations and evidence of these tasks. All written evidence submitted for the assessment **must** be your own work.
 
-Please note this i s not a group assignment. You do not have to work as a group and your teacher will support you in making that decision. Your teacher will monitor this group work carefully to ensure that each of your contribution can be separately assessed.
+Please note this **i**s **not** a group assignment. You do **not** have to work as a group and your teacher will support you in making that decision. Your teacher will monitor this group work carefully to ensure that each of your contribution can be separately assessed.
 
 The production of the control food item outcome may be undertaken by the teacher in the form of a demonstration. Whether you, or the teacher produces the control food item outcome, no marks are awarded for this task.
 
-
-
 {10}------------------------------------------------
-
-
 
 ## Tasks
 
-|   Task |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Evidence                                                                                                                                                                                                                                                                                                                                             | Controls                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | Planning the food investigation You must complete the following tasks. Remember, your written evidence must be your own work. (a) Research You must research the working characteristics, function and chemical properties of the food specified in your chosen brief. (*) Develop a hypothesis Based on your research, you must develop a hypothesis on what you think will happen during the food investigation. *You will not receive marks for this element of the task you may wish to do this as a group. You will receive marks in later tasks for your reflection of this hypothesis. It is important that if you do work in a group, you have the same hypothesis. | Research evidence - using the Internet and any other sources you want to use, produce a summary of the: • working characteristics of ingredients • the function properties of ingredients • the chemical properties of ingredients in a recipe(s) for your chosen brief. Hypothesis evidence You must record your chosen hypothesis in this section. | Supervision: Direct Guidance: Not permitted Resources: Permitted Learners are permitted to access the Internet or books to research the working characteristics, function and chemical properties of the food specified. Collaboration: Partially permitted (a) Research - collaboration not permitted (*) Develop a hypothesis - if the decision has been made by the teacher to allow group work, collaboration is permitted for this task. |
-
-
+| Task |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Evidence                                                                                                                                                                                                                                                                                                                                                            | Controls                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Planning the food investigation<br>You must complete the following tasks.<br>Remember, your written evidence must be your own work.<br>(a) Research<br>You must research the working characteristics, function and chemical properties of the food specified in your chosen brief.<br>(*) Develop a hypothesis<br>Based on your research, you must develop a hypothesis on what you think will happen during the food investigation.<br>*You will not receive marks for this element of the task you may wish to do this as a group. You will receive marks in later tasks for your reflection of this hypothesis. It is important that if you do work in a group, you have the same hypothesis. | Research evidence – using the Internet and any other sources you want to use, produce a summary of the:<br>• working characteristics of ingredients<br>• the function properties of ingredients<br>• the chemical properties of ingredients in a recipe(s) for your chosen brief.<br>Hypothesis evidence<br>You must record your chosen hypothesis in this section. | Supervision:<br>Direct<br>Guidance:<br>Not permitted<br>Resources:<br>Permitted<br>Learners are permitted to access the Internet or books to research the working characteristics, function and chemical properties of the food specified.<br>Collaboration:<br>Partially permitted<br>(a) Research –<br>collaboration not permitted<br>(*) Develop a<br>hypothesis – if the decision has been made by the teacher to allow group work, collaboration is permitted for this task. |
 
 {11}------------------------------------------------
 
+## (b) Produce a food investigation plan
 
+You must produce a plan of experiments to be carried out. Your plan must include:
 
-|                                                                                                                       | (b) Produce a food investigation plan You must produce a plan of experiments to be carried out. Your plan must include: • equipment required • variables (and their role in a food experiment) • methods of data collection (using sensory qualities testing) • methods to analyse results (sensory analysis tests). (c) Justification of choices You must justify choices for experimental work and modifications made in order to apply your knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe. (Throughout the food investigation, you should be aware of food hygiene and safety practices when conducting a food investigation. You will not receive any marks for this section, but it is important you follow this for your safety and the   | Planning evidence - you must record the details of your plan including the following evidence: • the required equipment and its purpose • the variables you will amend and their roles within the food investigation • the methods you will use to collect data sensory qualities testing • the methods you will use to analyse results using sensory analysis testing. Justification of choices evidence - you must write a justification of the choices you have made when planning your experiment. You must include your choice of experimental work and modifications in relation to the: • working characteristics of ingredients • the function properties of ingredients • the chemical properties of ingredients.   | (b) Produce a food investigation plan - if the decision has been made by the teacher to allow group work, collaboration is permitted in the form of a discussion of this task. Please note, you may develop a shared hypothesis and discuss a shared food investigation plan, but you must have your own individual interpretations and evidence of these tasks.   |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                       | [10 marks]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                    |
-| Resources permitted: access to the Internet and books. You should spend approximately 2 hours completing these tasks. | Resources permitted: access to the Internet and books. You should spend approximately 2 hours completing these tasks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Resources permitted: access to the Internet and books. You should spend approximately 2 hours completing these tasks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Resources permitted: access to the Internet and books. You should spend approximately 2 hours completing these tasks.                                                                                                                                                                                                                                              |
+- equipment required
+- variables (and their role in a food experiment)
+- methods of data collection (using sensory qualities testing)
+- methods to analyse results (sensory analysis tests).
 
+## (c) Justification of choices
 
+You must justify choices for experimental work and modifications made in order to apply your knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.
+
+(Throughout the food investigation, you should be aware of food hygiene and safety practices when conducting a food investigation. You will not receive any marks for this section, but it is important you follow this for your safety and the safety of others.)
+
+**Planning evidence** – you must record the details of your plan including the following evidence:
+
+- the required equipment and its purpose
+- the variables you will amend and their roles within the food investigation
+- the methods you will use to collect data sensory qualities testing
+- the methods you will use to analyse results using sensory analysis testing.
+
+**Justification of choices evidence** – you must write a justification of the choices you have made when planning your experiment. You must include your choice of experimental work and modifications in relation to the:
+
+- working characteristics of ingredients
+- the function properties of ingredients
+- the chemical properties of ingredients.
+
+(b) **Produce a food investigation plan -** if the decision has been made by the teacher to allow group work, collaboration is permitted in the form of a discussion of this task.
+
+Please note, you may develop a shared hypothesis and discuss a shared food investigation plan, but you **must** have your own individual interpretations and evidence of these tasks.
+
+## [10 marks]
+
+Resources permitted: access to the Internet and books.
+
+You should spend approximately 2 hours completing these tasks.
 
 {12}------------------------------------------------
 
-
-
-| Task                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Evidence Controls                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2                                                              | Conduct a food investigation Follow the stages of the food investigation plan to prove or disprove your hypothesis. (a) Collecting result You must use the methods of data collection specified in your food investigation plan, complete the following tasks: • conduct a food investigation to test your hypothesis • modify your chosen variables to test your hypothesis • produce practical food outcomes • use methods of sensory quality testing to conduct a sensory quality analysis test. (b) Presenting results You must use methods to present your results such as: • annotated photographs/illustrations • bar/pie charts • star diagrams • tables. (c) Analysis of results You must analyse the data and results collected with reference to the research and investigation carried out. [20 marks] | Evidence of collecting results - you must write an account of the food investigation, include the following information: • Evidence of data collection • Evidence of modified variables including the modifications and adjustments • Photographic evidence of food outcomes • Evidence of sensory quality testing using sensory descriptors. Presenting results - you must present the results of your investigational work using your chosen method/s. You must include photographic evidence. Written analysis of results - you must write an analysis of your results. You must include: • Reference to the research you did in Task 1 • Draw conclusions based on based on the working characteristics, functional and chemical properties of the ingredients selected with reference to your research. | Supervision: Direct Guidance: Permitted Resources: Not permitted Collaboration: Partially permitted (a) Collecting results - if the decision has been made by the teacher to allow group work, collaboration is permitted for this task. Please note, you may collect results as a group but you must present and analyse your own written results for (b) and (c). |
-| You should spend approximately 4 hours completing these tasks. | You should spend approximately 4 hours completing these tasks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | You should spend approximately 4 hours completing these tasks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                     |
-
-
-
 {13}------------------------------------------------
 
-
-
-| Task   | Evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Controls                                                                                           |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| 3      | Reflection and Evaluation You must complete a reflection and evaluation of the food investigation by drawing conclusions from the results and data collected and evaluating the results. (a) Reflection You must reflect on the hypothesis you (or you and your group) developed during Task 1. This reflection must be based on: • an analysis of the data and results collected during the food investigation • a comparison of actual results collected compared to expected outcomes. (b) Evaluation You must evaluate the food investigation based on the following considerations: • the methods used to collect and analyse the results • an evaluation of the working characteristics, functional and chemical properties of the variables modified. Reflection your hypothesis. • an analysis food investigation • a comparison expected Evaluation of the food investigation. • an evaluation and analyse and the • an evaluation functional you modified | Supervision: Direct Guidance: Not permitted. Resources: Not permitted Collaboration: Not permitted |
-|        | [10 marks]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                    |
-
-
+| Task                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Evidence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Controls                                                                                                                |
+|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 3                                                              | Reflection and Evaluation<br>You must complete a reflection and evaluation of the<br>food investigation by drawing conclusions from the<br>results and data collected and evaluating the results.<br>(a) Reflection<br>You must reflect on the hypothesis you (or you and<br>your group) developed during Task 1. This reflection<br>must be based on:<br>an analysis of the data and results collected<br>during the food investigationa comparison of actual results collected<br>compared to expected outcomes.(b) Evaluation<br>You must evaluate the food investigation based on<br>the following considerations:<br>the methods used to collect and analyse the<br>resultsan evaluation of the working characteristics,<br>functional and chemical properties of the<br>variables modified.[10 marks] | Reflection evidence – you must write a reflection of<br>your hypothesis. You must include:<br>an analysis of data and results collected in the<br>food investigationa comparison of actual results compared to<br>expected outcomes.Evaluation evidence – you must write an evaluation<br>of the food investigation. You must include:<br>an evaluation of the methods used to collect data<br>and analyse results including sensory quality tests<br>and the sensory descriptors usedan evaluation of the working characteristics,<br>functional and chemical properties of the variables<br>you modified during the food investigation. | Supervision:<br>Direct<br>Guidance:<br>Not permitted.<br>Resources:<br>Not permitted<br>Collaboration:<br>Not permitted |
+| You should spend approximately 2 hours completing these tasks. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                         |
 
 {14}------------------------------------------------
 
-
-
 ## Information for candidates
 
-The following information has been taken from the JCQ Information for candidates -nonexamination assessments and the JCQ Artificial Intelligence (AI) Use in Assessments: Protecting the Integrity of Qualifications. This tells you about things that you must and must not do when you are completing your assessment. If there is anything that you do not understand, you must ask your teacher.
+The following information has been taken from the [JCQ Information for candidates](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) – non[examination assessments](https://www.jcq.org.uk/wp-content/uploads/2021/08/IFC-NE_Assessments_2021_v4.pdf) and the [JCQ Artificial Intelligence \(AI\) Use in Assessments:](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/)  [Protecting the Integrity of Qualifications.](https://www.jcq.org.uk/exams-office/malpractice/artificial-intelligence/) This tells you about things that you **must** and **must not** do when you are completing your assessment. If there is anything that you do not understand, you **must** ask your teacher.
 
 ## Preparing your work
 
 - When you submit your work and sign your candidate declaration form, you need to ensure that your final product reflects your own independent work and isn't copied or paraphrased from another source such as an AI tool.
-- If you receive help and guidance from someone other than your teacher, you must tell your teacher who will then record the nature of the assistance given to you.
-- If you worked as part of a group on a task, you must each write up your own account of the assignment. Even if the data you have is the same, you must describe in your own words how that data was obtained, and you must independently draw your own conclusions from the data.
-- Take care of your work and keep it safe. Do not leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You must always keep your work secure and confidential whilst you are preparing it; do not share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
-- Do not be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) -this is cheating. Electronic tools used by WJEC can detect this sort of copying.
-- You must not write inappropriate, offensive or obscene material.
+- If you receive help and guidance from someone other than your teacher, you **must** tell your teacher who will then record the nature of the assistance given to you.
+- If you worked as part of a group on a task, you **must** each write up your own account of the assignment. Even if the data you have is the same, you **must** describe in your own words how that data was obtained, and you **must** independently draw your own conclusions from the data.
+- Take care of your work and keep it safe. **Do not** leave it lying around where your classmates can find it or share it with anyone, including posting it on social media. You **must** always keep your work secure and confidential whilst you are preparing it; **do not** share it with your classmates. If it is stored on the computer network, keep your password secure. Collect all copies from the printer and destroy those you do not need.
+- **Do not** be tempted to use pre-prepared online solutions (such as those produced by AI tools and chatbots) – this is cheating. Electronic tools used by WJEC can detect this sort of copying.
+- You **must not** write inappropriate, offensive or obscene material.
 
 ## Plagiarism
 
-Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. It is a form of cheating which is taken very seriously. Don't think you won't be caught; there are many ways to detect plagiarism:
+Plagiarism involves taking someone else's words, thoughts or ideas and trying to pass them off as your own. **It is a form of cheating which is taken very seriously.** Don't think you won't be caught; there are many ways to detect plagiarism:
 
 - Markers can spot changes in the style of writing and use of language.
-- Markers are highly experienced subject specialists -they may have read the source you are using, or even marked the work you have copied from!
+- Markers are highly experienced subject specialists they may have read the source you are using, or even marked the work you have copied from!
 - Internet search engines and specialised computer software can be used to match phrases or pieces of text with original sources and to detect changes in the grammar and style of writing or punctuation.
 
 ## Penalties for breaking the regulations
@@ -355,13 +327,13 @@ If it is discovered that you have broken the regulations, one of the following p
 
 WJEC will decide which penalty is appropriate.
 
-Remember -it's your qualification so it needs to be your own work.
-
-
+**Remember – it's your qualification so it needs to be your own work.**
 
 {15}------------------------------------------------
 
+## MARK SCHEME
 
+## Guidance for assessors
 
 ## Generic marking principles
 
@@ -373,68 +345,65 @@ Banded mark schemes are divided so that each band within a section has a relevan
 
 This is done as a two-stage process.
 
-## Stage 1 -Deciding on the band
+## Stage 1 – Deciding on the band
 
 Beginning at the lowest band, the teacher should look at the appropriate section of the candidate's work and check whether it matches the descriptor for that section's mark band. The teacher should look at the descriptor for that band and see if it matches the qualities shown in the candidate's work for that section. If the descriptor at the lowest band is satisfied, the teacher should move up to the next band and repeat this process for each band until the descriptor matches the work. If a candidate's work covers different aspects of different bands within the mark scheme, a 'best fit' approach should be adopted to decide on the band and then the candidate's work should be used to decide on the mark within the band. For instance, if work is mainly in band 2 but with a limited amount of band 3 content, the work would be placed in band 2, but the mark awarded would be close to the top of band 2 as a result of the band 3 content. Teachers should not seek to mark candidates down as a result of small omissions in minor areas of their work.
 
-## Stage 2 -Deciding on the mark
+## Stage 2 – Deciding on the mark
 
 Once the band has been decided, the teachers can then assign a mark. The teachers are reminded of the need to revisit the work as they apply the mark scheme in order to confirm that the band and the mark allocated is appropriate to the work submitted. Where work is not credit worthy, that is, contains nothing of any significance to the project, or has been omitted, no marks should be awarded. Internal standardisation is essential, that where there is more than one teacher in a centre, work from all teaching groups is standardised internally. This is designed to ensure that the final assessment reflects a single agreed standard for all teaching groups involved.
 
-## MARK SCHEME
-
-## Guidance for assessors
-
-
-
 {16}------------------------------------------------
-
-
 
 ## Mark scheme
 
 The following mark scheme will be used to assess your work.
 
-0 marks will be awarded if there is no evidence or submitted work is not worthy of credit.
+**0 marks will be awarded if there is no evidence or submitted work is not worthy of credit.**
 
 ## Task 1
 
 ## Planning the food investigation
 
-- (a)  The candidate has researched the working characteristics, function and chemical properties of the food specified in your chosen brief (b)  The candidate has produced a detailed food investigation plan of experiments to be carried out
-- (c)  The candidate has produced a thorough justification of the choice of experimental work and modifications, that demonstrates a thorough knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.
+- (a) The candidate has researched the working characteristics, function and chemical properties of the food specified in your chosen brief
+- (b) The candidate has produced a detailed food investigation plan of experiments to be carried out
+- (c) The candidate has produced a thorough justification of the choice of experimental work and modifications, that demonstrates a thorough knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.
 
-|   Band | AO2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      5 | Award 9-10 marks An excellent response which demonstrates: (a) The candidate has thoroughly researched and demonstrated an excellent understanding of the brief and the working characteristics, function and chemical properties of the food. (b) The candidate has produced a detailed plan of experiments to be carried out. The plan includes: • a comprehensive list of the required equipment and its purpose • suitable variables have been identified with their roles thoroughly described • a thorough description of the methods used to collect data using sensory qualities testing • a thorough description of the methods used to analyse results using sensory analysis tests. (c) The candidate has produced a thorough justification of the choice of experimental work and modifications that demonstrates a thorough knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe. |
-
-
+| Band | AO2                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      | Award 9-10 marks                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|      | An excellent response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                                           |
+|      | (a) The candidate has thoroughly researched and demonstrated an excellent understanding of the brief and the working characteristics, function and chemical properties of the food.                                                                                                                                                                                                                                                 |
+| 5    | (b) The candidate has produced a detailed plan of experiments to be carried out. The plan includes:a comprehensive list of the required equipment and its purposesuitable variables have been identified with their roles thoroughly describeda thorough description of the methods used to collect data using sensory qualities testinga thorough description of the methods used to analyse results using sensory analysis tests. |
+|      | (c) The candidate has produced a thorough justification of the choice of experimental work and modifications that demonstrates a thorough knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.                                                                                                                                                                |
 
 {17}------------------------------------------------
 
-
-
-|     | Award 7-8 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 3 | (b) The candidate has produced a detailed plan of experiments to be carried out. The plan includes: • a detailed list of the required equipment and its purpose • identification of suitable variables with their roles described in detail • a thorough detailed description of the methods used to collect data using sensory qualities testing • a thorough detailed description of the methods used to analyse results using sensory analysis tests. (c) The candidate has produced a detailed justification of the choice of experimental work and modifications that demonstrates an excellent knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe. Award 5-6 marks A good response which demonstrates: (a) The candidate has clearly researched and demonstrated a good understanding of the brief and the working characteristics, function and/or chemical properties of the food. (b) The candidate has produced a clear plan of experiments to be carried out. The plan includes: • a clear list of the required equipment and its purpose • identification of suitable variables with their roles described • descriptions of the methods used to collect data using sensory qualities testing • descriptions of the methods used to analyse results using sensory analysis tests. |
-
-
+|   |                                                                                                                                                                                                                                                                                                                                                                                                                                              | Award 7-8 marks                                                                                                                                                                                                                                                                                                                                                         |  |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 4 | A very good response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (a) The candidate has researched in detail and has demonstrated a very good understanding of the brief and the working characteristics, function and chemical properties of the food.                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (b) The candidate has produced a detailed plan of experiments to be carried out. The plan includes:a detailed list of the required equipment and its purposeidentification of suitable variables with their roles described in detaila thorough detailed description of the methods used to collect data using sensory qualities testinga thorough detailed description of the methods used to analyse results using sensory analysis tests. |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (c) The candidate has produced a detailed justification of the choice of experimental work and modifications that demonstrates an excellent knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | Award 5-6 marks                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                         |  |
+| 3 | A good response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (a) The candidate has clearly researched and demonstrated a good understanding of the brief and the working characteristics, function and/or chemical properties of the food.                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (b) The candidate has produced a clear plan of experiments to be carried out. The plan includes:a clear list of the required equipment and its purposeidentification of suitable variables with their roles describeddescriptions of the methods used to collect data using sensory qualities testingdescriptions of the methods used to analyse results using sensory analysis tests.                                                       |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | (c) The candidate has produced a clear justification of the choice of experimental work and modifications that demonstrates a clear knowledge and understanding of the working characteristics, functional and chemical properties of ingredients in a recipe.                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                         |  |
+|   | Award 3-4 marks                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                         |  |
+| 2 | A basic response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                                                         | (a) The candidate has researched and demonstrated some understanding of the brief and the working characteristics, function and/or chemical properties of the food.                                                                                                                                                                                                     |  |
+|   |                                                                                                                                                                                                                                                                                                                                                                                                                                              | (b) The candidate has produced a plan of experiments to be carried out. The plan includes:a list of the required equipment and its purposeidentification of suitable variables with a basic description of their rolesa list of the methods used to collect data using sensory qualities testinga list of methods used to analyse results using sensory analysis tests. |  |
+|   |                                                                                                                                                                                                                                                                                                                                                                                                                                              | (c) The candidate has produced some justification of the choice of experimental work and/or modifications that demonstrates some knowledge and understanding of the working characteristics, and functional and/or chemical properties of ingredients in a recipe.                                                                                                      |  |
+| 1 | A limited response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                                                       | (a) The candidate has researched and demonstrated a limited understanding of the brief and the working characteristics and/or function and/or chemical properties of the food.                                                                                                                                                                                          |  |
+|   |                                                                                                                                                                                                                                                                                                                                                                                                                                              | (b) The candidate has produced a plan of experiments to be carried out. The plan includes:a list of the required equipmentidentification of some variables with little or no description of their rolea list of the methods used to collect dataa list of methods used to analyse results.                                                                              |  |
+|   |                                                                                                                                                                                                                                                                                                                                                                                                                                              | (c) The candidate has produced a limited justification of the choice of experimental work or modifications, that demonstrates a limited knowledge and understanding of the working characteristics, or functional or chemical properties of ingredients in a recipe.                                                                                                    |  |
+| 0 | Award 0 marks<br>No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                         |  |
 
 {18}------------------------------------------------
 
-
-
-|    | Award 3-4 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  2 | A basic response which demonstrates: (a) The candidate has researched and demonstrated some understanding of the brief and the working characteristics, function and/or chemical properties of the food. (b) The candidate has produced a plan of experiments to be carried out. The plan includes: • a list of the required equipment and its purpose • identification of suitable variables with a basic description of their roles • a list of the methods used to collect data using sensory qualities testing • a list of methods used to analyse results using sensory analysis tests. (c) The candidate has produced some justification of the choice of experimental work and/or modifications that demonstrates some knowledge and understanding of the working characteristics, and functional and/or chemical properties of ingredients in a recipe. |
-|  1 | Award 1-2 marks A limited response which demonstrates: (a) The candidate has researched and demonstrated a limited understanding of the brief and the working characteristics and/or function and/or chemical properties of the food. (b) The candidate has produced a plan of experiments to be carried out. The plan includes: • a list of the required equipment • identification of some variables with little or no description of their role • a list of the methods used to collect data • a list of methods used to analyse results. (c) The candidate has produced a limited justification of the choice of experimental work or modifications, that demonstrates a limited knowledge and understanding of the working characteristics, or functional or chemical properties of ingredients in a recipe.                                               |
-|  0 | Award 0 marks No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
-
-
 {19}------------------------------------------------
 
-
+## Task 2
 
 ## Conduct a food investigation
 
@@ -457,105 +426,96 @@ The candidate has used methods to present their results such as:
 - star diagrams
 - tables.
 
-## (c) Analysis of results :
+## (c) Analysis of results:
 
 The candidate has analysed the data and results collected with reference to the research and investigation carried out.
 
-## Task 2
-
-
-
 {20}------------------------------------------------
 
-
-
-|   Band | AO2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      5 | Award 17-20 marks An excellent response which demonstrates: (a) A thorough account of the food investigation which includes: • thorough evidence of data collection • thorough description of the modified variables including the modifications and adjustments • thorough descriptions of sensory quality testing using sensory descriptors. (b) Results are presented in a highly effective way using a variety of suitable method, which includes: • photographs/illustrations of all stages with detailed annotations which add clarity • bar/pie charts are highly effective, correctly labelled and formatted • star diagrams are highly effective, correctly labelled and formatted • tables are effectively organised, demonstrating precise categorisation. (c) Results are analysed thoroughly demonstrating a thorough knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are thorough and based on the working characteristics, functional and chemical properties of the ingredients selected with thorough reference to the research carried out. |
-
-
+| Band | AO2                                                                                                                                                                                                                                                                                                                                                                                                        |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      | Award 17-20 marks                                                                                                                                                                                                                                                                                                                                                                                          |
+|      | An excellent response which demonstrates:                                                                                                                                                                                                                                                                                                                                                                  |
+|      | (a) A thorough account of the food investigation which includes:<br>thorough evidence of data collectionthorough description of the modified variables including the modifications and adjustmentsthorough descriptions of sensory quality testing using sensory descriptors.                                                                                                                              |
+|      | (b) Results are presented in a highly effective way using a variety of suitable method, which includes:photographs/illustrations of all stages with detailed annotations which add claritybar/pie charts are highly effective, correctly labelled and formattedstar diagrams are highly effective, correctly labelled and formattedtables are effectively organised, demonstrating precise categorisation. |
+| 5    | (c) Results are analysed thoroughly demonstrating a thorough knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are thorough and based on the working characteristics, functional and chemical properties of the ingredients selected with thorough reference to the research carried out.                  |
 
 {21}------------------------------------------------
 
-
-
-4
-
 ## Award 13-16 marks
 
-## A very good response which demonstrates:
+A **very good** response which demonstrates:
 
-- (a)  A detailed account of the food investigation which includes:
-- detailed evidence of data collection
-- detailed description of the modified variables including the modifications and adjustments
-- detailed descriptions of sensory quality testing using sensory descriptors.
-- (b)  Results are presented in an effective way using a variety of suitable method, which includes:
-- photographs/illustrations of all stages with annotations add clarity
-- bar/pie charts are effective, correctly labelled and/or formatted
-- star diagrams are effective, correctly labelled and/or formatted
-- tables are effectively organised.
-- (c)  Results are analysed in detail demonstrating a detailed knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are detailed and based on the working characteristics, functional and chemical properties of the ingredients selected with detailed reference to the research carried out.
+- (a) A detailed account of the food investigation which includes:
+  - detailed evidence of data collection
+  - detailed description of the modified variables including the modifications and adjustments
+  - detailed descriptions of sensory quality testing using sensory descriptors.
 
+(b) Results are present
 
+- (b) Results are presented in an effective way using a variety of suitable method, which includes:
+  - photographs/illustrations of all stages with annotations add clarity
+  - bar/pie charts are effective, correctly labelled and/or formatted
+  - star diagrams are effective, correctly labelled and/or formatted
+  - tables are effectively organised.
+- (c) Results are analysed in detail demonstrating a detailed knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are detailed and based on the working characteristics, functional and chemical properties of the ingredients selected with detailed reference to the research carried out.
+
+GCSE Food and Nutrition Unit 2 8
+
+**4**
 
 {22}------------------------------------------------
-
-
-
-3
 
 ## Award 9-12 marks
 
 ## A good response which demonstrates:
 
-- (a)  A clear account of the food investigation which includes:
-- clear evidence of data collection
-- clear description of the modified variables including the modifications and/or adjustments
-- clear descriptions of sensory quality testing using some sensory descriptors.
-- (b)  Results are presented in a clear way using suitable methods, which includes:
+- (a) A clear account of the food investigation which includes:
+  - clear evidence of data collection
+  - clear description of the modified variables including the modifications and/or adjustments
+  - clear descriptions of sensory quality testing using some sensory descriptors.
+
+(b) Results are presented in a clear way using suitable methods, which includes:
+
 - photographs/illustrations with annotations
 - bar/pie charts are mostly correctly labelled and/or formatted
 - star diagrams are mostly correctly labelled and/or formatted
 - tables are clear.
-- (c)  Results are analysed clearly demonstrating a clear knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are clear and mostly based on the working characteristics, functional and chemical properties of the ingredients selected with clear reference to the research carried out.
+- (c) Results are analysed clearly demonstrating a clear knowledge and understanding of the working characteristics, functional and chemical properties of the ingredients selected. Conclusions presented are clear and mostly based on the working characteristics, functional and chemical properties of the ingredients selected with clear reference to the research carried out.
 
+GCSE Food and Nutrition Unit 2 9
 
+**3**
 
 {23}------------------------------------------------
 
+**2 Award 5-8 marks**
 
+A **basic** response which demonstrates:
 
-## 2
-
-## Award 5-8 marks
-
-- A basic response which demonstrates:
-- (a)  A basic account of the food investigation which includes:
-- basic evidence of data collection
-- basic description of the modified variables including the modifications or adjustments
-- basic descriptions of sensory quality testing using some sensory descriptors.
-- (b)  Results are presented in a basic way which includes:
-- photographs/illustrations with some basic annotations
-- bar/pie charts are mostly correctly labelled and/or formatted
-- star diagrams are mostly correctly labelled and/or formatted
-- tables are mostly clear.
-- (c)  Results are analysed demonstrating a basic knowledge and understanding of the working characteristics, functional and/or chemical properties of the ingredients selected. Conclusions presented are basic and mostly based on the working characteristics, functional and chemical properties of the ingredients selected with basic reference to the research carried out.
-
-
+- (a) A basic account of the food investigation which includes:
+  - basic evidence of data collection
+  - basic description of the modified variables including the modifications or adjustments
+  - basic descriptions of sensory quality testing using some sensory descriptors.
+- (b) Results are presented in a basic way which includes:
+  - photographs/illustrations with some basic annotations
+  - bar/pie charts are mostly correctly labelled and/or formatted
+  - star diagrams are mostly correctly labelled and/or formatted
+  - tables are mostly clear.
+- (c) Results are analysed demonstrating a basic knowledge and understanding of the working characteristics, functional and/or chemical properties of the ingredients selected. Conclusions presented are basic and mostly based on the working characteristics, functional and chemical properties of the ingredients selected with basic reference to the research carried out.
 
 {24}------------------------------------------------
 
-
-
-|   1 | Award 1-4 marks A limited response which demonstrates: (a) A limited account of the food investigation which includes: • limited evidence of data collection • limited description of the modified variables • limited descriptions of sensory quality testing. (b) Results are presented in a clear way using suitable methods, which includes: • photographs/illustrations with little or no annotation • bar or pie charts are with some labels • star diagrams are with some labels • tables may lack clarity. (c) Results are analysed demonstrating some limited knowledge and understanding of the working characteristics, or functional or chemical properties of the ingredients selected. Conclusions presented are limited with limited reference to the research carried out.   |
-|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   0 | Award 0 marks No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-
-
+|   | Award 1-4 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | A limited response which demonstrates:<br>(a) A limited account of the food investigation which includes:<br>limited evidence of data collectionlimited description of the modified variableslimited descriptions of sensory quality testing.(b) Results are presented in a clear way using suitable methods, which includes:<br>photographs/illustrations with little or no annotationbar or pie charts are with some labelsstar diagrams are with some labelstables may lack clarity.(c) Results are analysed demonstrating some limited knowledge and understanding of the working characteristics, or functional or chemical properties of the ingredients selected. Conclusions presented are limited with limited reference to the research carried out. |
+| 0 | Award 0 marks<br>No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 {25}------------------------------------------------
 
+## Task 3
 
+## Reflection and evaluation: maximum 10 marks
 
 ## (a) Reflection
 
@@ -571,114 +531,58 @@ The candidate has evaluated the food investigation based on the following consid
 - the methods used to collect and analyse the results
 - an evaluation of the working characteristics, functional and chemical properties of the variables modified.
 
-|   Band | AO3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      5 | Award 9-10 marks An excellent reflection which thoroughly reflects on the hypothesis developed, which demonstrates: • a thorough analysis of the data and results collected during the food investigation • a thorough comparison of the actual results collected compared to the expected outcomes. An excellent evaluation which thoroughly takes into to consideration and demonstrates: • a thorough evaluation of the methods used to collect data • a thorough analysis of results including sensory quality tests, and the sensory descriptors used • a thorough evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation. |
-
-## Task 3
-
-## Reflection and evaluation: maximum 10 marks
-
-
+| Band | AO3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|      | Award 9-10 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |
+| 5    | An excellent reflection which thoroughly reflects on the hypothesis developed, which demonstrates:<br>• a thorough analysis of the data and results collected during the food investigation<br>• a thorough comparison of the actual results collected compared to the expected outcomes.<br><br>An excellent evaluation which thoroughly takes into consideration and demonstrates:<br>• a thorough evaluation of the methods used to collect data<br>• a thorough analysis of results including sensory quality tests, and the sensory descriptors used<br>• a thorough evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation. |  |
 
 {26}------------------------------------------------
 
-
-
-4
-
-3
-
-## Award 7-8 marks
-
-A very good reflection which reflects in detail on the hypothesis developed, which demonstrates:
-
-- a detailed analysis of the data and results collected during the food investigation
-- a detailed comparison of the actual results collected compared to the expected outcomes.
-
-A very good evaluation which takes into to consideration and demonstrates:
-
-- a detailed evaluation of the methods used to collect data
-- a detailed analysis of results including sensory quality tests, and the sensory descriptors used
-- a detailed evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation.
-
-## Award 5-6 marks
-
-A good reflection which reflects on the hypothesis developed, which demonstrates:
-
-- a clear analysis of the data and results collected during the food investigation
-- a clear comparison of the actual results collected compared to the expected outcomes.
-
-A good evaluation which takes into to consideration and demonstrates:
-
-- a clear evaluation of the methods used to collect data
-- a clear analysis of results including sensory quality tests, and the sensory descriptors used
-- a clear evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation.
-
-
+|                                                                                                                                                                                                                                                                                                                                                                                                     | Award 7-8 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                     | 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | A very good reflection which reflects in detail on the hypothesis developed, which demonstrates:<br>• a detailed analysis of the data and results collected during the food investigation<br>• a detailed comparison of the actual results collected compared to the expected outcomes. |
+| A very good evaluation which takes into consideration and demonstrates:<br>• a detailed evaluation of the methods used to collect data<br>• a detailed analysis of results including sensory quality tests, and the sensory descriptors used<br>• a detailed evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                         |
+| 3                                                                                                                                                                                                                                                                                                                                                                                                   | Award 5-6 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                     | A good reflection which reflects on the hypothesis developed, which demonstrates:<br>• a clear analysis of the data and results collected during the food investigation<br>• a clear comparison of the actual results collected compared to the expected outcomes.                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                     | A good evaluation which takes into consideration and demonstrates:<br>• a clear evaluation of the methods used to collect data<br>• a clear analysis of results including sensory quality tests, and the sensory descriptors used<br>• a clear evaluation of the working characteristics, functional and chemical properties of the variables modified during the food investigation.                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                         |
+| 2                                                                                                                                                                                                                                                                                                                                                                                                   | Award 3-4 marks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                                     | A basic reflection which reflects on the hypothesis developed, which demonstrates:<br>• a basic analysis of the data and results collected during the food investigation<br>• a basic comparison of the actual results collected compared to the expected outcomes.<br><br>A basic evaluation which takes into to consideration and demonstrates:<br>• a basic evaluation of the methods used to collect data<br>• a basic analysis of results including sensory quality tests, and the sensory descriptors used<br>• a basic evaluation of the working characteristics, functional and/or chemical properties of the variables modified during the food investigation. |                                                                                                                                                                                                                                                                                         |
+| 1                                                                                                                                                                                                                                                                                                                                                                                                   | Award 1-2 marks<br>A limited reflection which reflects on the hypothesis developed, which demonstrates:<br>• a limited analysis of the data and/or results collected during the food investigation<br>• a limited description of actual results collected.<br><br>A basic evaluation which takes into to consideration and demonstrates:<br>• a limited description of the methods used to collect data<br>• a limited description of results including sensory quality tests<br>• a limited description of the working characteristics, or functional or chemical properties of the variables modified during the food investigation.                                  |                                                                                                                                                                                                                                                                                         |
+| 0                                                                                                                                                                                                                                                                                                                                                                                                   | Award 0 marks<br>No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                         |
 
 {27}------------------------------------------------
 
-
-
-|   2 | Award 3-4 marks A basic reflection which reflects on the hypothesis developed, which demonstrates: • a basic analysis of the data and results collected during the food investigation • a basic comparison of the actual results collected compared to the expected outcomes. A basic evaluation which takes into to consideration and demonstrates: • a basic evaluation of the methods used to collect data • a basic analysis of results including sensory quality tests, and the sensory descriptors used • a basic evaluation of the working characteristics, functional and/or chemical properties of the variables modified during the food investigation.   |
-|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   1 | A limited reflection which reflects on the hypothesis developed, which demonstrates: • a limited analysis of the data and/or results collected during the food investigation • a limited description of actual results collected. A basic evaluation which takes into to consideration and demonstrates: • a limited description of the methods used to collect data • a limited description of results including sensory quality tests • a limited description of the working characteristics, or functional or chemical properties of the variables modified during the food investigation.                                                                       |
-|   0 | Award 0 marks No response attempted or nothing worthy of credit.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-
-
-
 {28}------------------------------------------------
-
-
 
 ## Mapping of tasks to unit content and assessment objectives
 
-For use with SAM only -will be removed from live Candidate Packs
+For use with SAM only – will be removed from live Candidate Packs
 
-| Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Unit Content (sub-topic)   | Mark allocation   | Mark allocation   | Mark allocation   | Mark allocation   |
-|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|-------------------|-------------------|-------------------|-------------------|
-| 2.1                        | 2.1                        | 2.1                        | 2.2                        | 2.2                        | 2.2                        | 2.3                        | 2.3                        | Total Marks       | AO1 Marks         | AO2 Marks         | AO3 Marks         |
-| 2.1.1                      | 2.1.2                      | 2.1.3                      | 2.2.1                      | 2.2.2                      | 2.2.3 2.3.1                | 2.3.2                      | 2.3.3                      |                   |                   |                   |                   |
-| ✓ ✓                        | ✓                          | ✓                          | ✓                          |                            | ✓                          |                            |                            |                   |                   | 10                |                   |
-|                            |                            |                            |                            |                            | ✓                          | ✓                          |                            |                   |                   | 20                |                   |
-|                            |                            |                            |                            |                            |                            |                            | ✓                          |                   |                   |                   | 10                |
-|                            |                            |                            |                            |                            |                            |                            |                            |                   | 0                 | 30                | 10                |
-
-
+| Tasks  | Unit Content (sub-topic) |       |       |       |       |       |       |       |       |                | Mark allocation |              |              |  |
+|--------|--------------------------|-------|-------|-------|-------|-------|-------|-------|-------|----------------|-----------------|--------------|--------------|--|
+|        | 2.1                      |       |       | 2.2   |       |       | 2.3   |       |       | Total<br>Marks | AO1<br>Marks    | AO2<br>Marks | AO3<br>Marks |  |
+|        | 2.1.1                    | 2.1.2 | 2.1.3 | 2.2.1 | 2.2.2 | 2.2.3 | 2.3.1 | 2.3.2 | 2.3.3 |                |                 |              |              |  |
+| Task 1 | ✓                        | ✓     | ✓     | ✓     | ✓     | ✓     |       |       |       |                |                 | 10           |              |  |
+| Task 2 |                          |       |       |       |       |       | ✓     | ✓     |       |                |                 | 20           |              |  |
+| Task 3 |                          |       |       |       |       |       |       |       | ✓     |                |                 |              | 10           |  |
+|        |                          |       |       |       |       |       |       |       |       | 0              | 30              | 10           |              |  |
 
 {29}------------------------------------------------
 
-
-
 ## Candidate Declaration Form
 
-You must complete Part A and Part B of this form
+## You must complete Part A and Part B of this form
 
-Centre No:
+| Centre No:                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                   |  |  |  | Centre Name:    |  |  |  |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--|--|--|-----------------|--|--|--|--|
+| Candidate No:                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                   |  |  |  | Candidate Name: |  |  |  |  |
+| Unit Title:                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                   |  |  |  |                 |  |  |  |  |
+| <b>Part A: Candidate Declaration</b>                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                   |  |  |  |                 |  |  |  |  |
+| <b>References:</b> Give details of the exact source of any non-original material used in the assignment.                                                                                                                                                                                                                                                                                                                                                       | <b>List of software packages/AI tools/chatbots<sup>1</sup>:</b> Give brief details of how these have been used in the assignment. |  |  |  |                 |  |  |  |  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                   |  |  |  |                 |  |  |  |  |
+| <b>Authentication Declaration</b><br>I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice. |                                                                                                                                   |  |  |  |                 |  |  |  |  |
+| Candidate Signature:                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                   |  |  |  | Date:           |  |  |  |  |
 
-Centre Name:
+**End of Candidate Assessment Pack**
 
-Candidate No:
-
-Candidate Name:
-
-Unit Title:
-
-## Part A: Candidate Declaration
-
-References: Give details of the exact source of any non-original material used in the assignment.
-
-List of software packages/AI tools/chatbots 1 : Give brief details of how these have been used in the assignment.
-
-## Authentication Declaration
-
-I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
-
-Candidate Signature:
-
-Date:
-
-End of Candidate Assessment Pack
-
-1  Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 (https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used.  This must be submitted with your work, so your teacher/assessor is able to review the work, the AIgenerated content and how it has been used.
+<span id="page-28-0"></span><sup>1</sup> Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 [\(https://openai.com/blog/chatgpt/\)](https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used. This must be submitted with your work, so your teacher/assessor is able to review the work, the AIgenerated content and how it has been used.
