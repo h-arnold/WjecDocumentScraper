@@ -1,0 +1,85 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,3,wording question paper and mark scheme,"Amended **wording question paper and mark scheme** for<br>questions 4(b), 4(c), 4(d), 4(e), 4(f), 7(c), 7(d), 7(e), 10(a),<br>10(b), 10(c), 10(d), 10(e), 13(c).",ErrorCategory.STYLISTIC_PREFERENCE,85,"The phrasing would be clearer and more formal with a preposition, e.g., 'wording in the question paper and mark scheme'."
+1,5,minutes **SAMPLE,# Time 1 hour 30 **minutes** **SAMPLE ASSESSMENT MATERIALS**,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,"The heading 'Time 1 hour 30 minutes' is immediately followed by another bolded phrase without any punctuation or clear separation, creating an awkward, run-on heading."
+2,6,"away?"" Which","(a) **away?"" Which** of the following is the best definition of Hermia's question ""Whither<br>in this extract?",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The closing quotation mark and question mark are immediately followed by a capitalised word starting a new clause without proper punctuation or grammatical connection, creating a run-on."
+3,8,"Or,","Answer one of the following questions:
+
+**2.** ""Cruelty is the driving force for all of Oberon's behaviour."" Using linguistic and literary approaches, explore how far you agree with this statement. Support your answer with reference to the play. Comment on the play's contexts.
+
+**Or,**
+
+**3.** Using linguistic and literary approaches, explore how Shakespeare presents attitudes to love throughout *A Midsummer Night's Dream.*",ErrorCategory.STYLISTIC_PREFERENCE,85,The comma after 'Or' is unnecessary when presenting alternative options in this format; 'Or' alone suffices.
+4,14,"Either,","Answer one of the following:
+
+## **Either,**
+
+**5.** Using linguistic and literary approaches, explore what we learn about Victorian society through the behaviour of one or two of the female characters.",ErrorCategory.STYLISTIC_PREFERENCE,90,The comma after 'Either' is stylistically unnecessary when introducing a list of options in a heading.
+5,14,"Or,","**5.** Using linguistic and literary approaches, explore what we learn about Victorian society through the behaviour of one or two of the female characters. Support your answer with reference to the play.
+
+**Or,**
+
+**6.** ""The characters deceive each other in *The Importance of Being Earnest*.""",ErrorCategory.STYLISTIC_PREFERENCE,90,The comma after 'Or' is stylistically unnecessary when introducing a list of options in a heading.
+6,20,"Or,","Answer one of the following:
+
+## **Either**
+
+**8.** Using linguistic and literary approaches, explore how the characters in the play are changed by the threats they face. Support your answer with reference to the play. Comment on the play's contexts.
+
+**Or,**
+
+**9.** Using linguistic and literary approaches, explore how Zephaniah presents friendship throughout *Refugee Boy.*",ErrorCategory.STYLISTIC_PREFERENCE,90,The comma after 'Or' is stylistically unnecessary and uncommon when presenting an alternative choice in this format; it should simply be 'Or'.
+7,24,What,"Higgins describes Eliza as being ""as ugly as the very devil"". **What** literary technique is used in this line?",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,The word 'What' begins a new sentence and should therefore be capitalised.
+8,24,What,Read the whole extract. **What** impressions of Higgins does the writer create in this extract?,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,The word 'What' begins a new sentence and should therefore be capitalised.
+9,26,"Or,","Using linguistic and literary approaches, explore what Higgins' treatment of Eliza in *Pygmalion* shows us about life in Britain in the early twentieth century. Support your answer with reference to the play. Comment on the play's contexts.
+
+**Or,**
+
+**12.** ""People are clever in different ways in Pygmalion."" Using linguistic and literary approaches, explore how far you agree with this statement.",ErrorCategory.STYLISTIC_PREFERENCE,85,The comma after 'Or' is unnecessary when introducing an alternative option in an 'Either... Or' construction in formal writing.
+10,29,question 14 or question 14,"You are advised to spend about 15 minutes on question 13, and about 35 minutes on **question 14 or question 14**.",ErrorCategory.FACTUAL_INACCURACY,95,"The instruction incorrectly repeats 'question 14' instead of referring to 'question 14 or question 15', which is implied by the preceding instruction 'either question 14 or question 15'."
+11,29,"line. ""She","(b) What word class is the word ""almost"" in the **line. ""She** almost breaks down"".",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A full stop is incorrectly used after 'line'; it should be a colon or no punctuation before the quoted phrase.
+12,32,"Or,","Answer one of the following:
+
+## **Either**
+
+**14.** Using linguistic and literary approaches, explore which character you think changes the most as a result of the Inspector's visit. Support your answer with reference to the play. Comment on the play's contexts.
+
+**Or,**
+
+**15.** Using linguistic and literary approaches, explore how Priestley presents the upper class in Britain at the time the play is set.",ErrorCategory.STYLISTIC_PREFERENCE,90,"The comma after 'Or' is unnecessary when introducing an alternative option in a list or heading, as it is not a parenthetical or introductory clause."
+13,35,"Or,","**16.** Describe a scene when someone is preparing for a significant event.
+
+**Or,**
+
+**17.** Write an extract from a novel describing one character from the point of view of another.",ErrorCategory.STYLISTIC_PREFERENCE,80,The comma after 'Or' is non-standard when introducing an alternative question in this format; it is typically omitted.
+14,39,however;,Marks should be awarded using the full range of marks defined in the mark scheme for the question (**however;** the use of the full mark range may be limited according to the quality of the candidate responses seen).,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"When 'however' introduces a clause, it should be followed by a comma. The semicolon after 'however' is incorrect in this context."
+15,39,response.*',The inclusion of **'*'Credit any other valid response.*'** (or similar instruction) within mark schemes allows for the possible variation in candidates' responses.,ErrorCategory.SPELLING_ERROR,95,There is an extraneous apostrophe before the closing single quotation mark. The correct punctuation should be `*'Credit any other valid response.'*`.
+16,39,parts;,For band marked questions mark schemes are in two **parts;** the indicative content and the assessment grid.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"A colon, not a semicolon, should be used to introduce a list or explanation that follows an independent clause."
+17,40,matches,"If the descriptors at the lowest band are satisfied, examiners should move up to the next band and repeat this process for each band until the descriptors most closely **matches** the work.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,"The plural subject 'descriptors' requires the plural verb 'match', not 'matches'."
+18,40,that,"Marking should be positive, rewarding achievement rather **that** penalising failure or omissions.",ErrorCategory.SPELLING_ERROR,98,"The correct phrase is 'rather than', not 'rather that'."
+19,40,standardising,Standardising material that has already been awarded a mark will be provided during **standardising** and this should be used as a reference material when assessing work.,ErrorCategory.STYLISTIC_PREFERENCE,85,The repetition of 'standardising' is awkward; 'standardisation' or 'the standardisation process' would be more appropriate here.
+20,40,a reference material,Standardising material that has already been awarded a mark will be provided during standardising and this should be used as **a reference material** when assessing work.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,'Reference material' is typically a mass noun and does not require an indefinite article 'a'.
+21,42,–she,"•<br>Helena is insecure **–she** isn't the same kind of beauty<br>as Hermia: ""Demetrius loves your fair""",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A space is missing after the em-dash for correct punctuation and readability.
+22,45,Dream</i> .,"3. Using linguistic and literary approaches, explore how Shakespeare presents attitudes to love throughout <i>A Midsummer Night's **Dream</i> .** Support your answer with reference to the play. Comment on the play's contexts.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"An unnecessary space appears before the full stop after the italicised title, which is incorrect punctuation in British English."
+23,46,are,Which one of the following statements about this extract<br>**are** true? Tick (✓) one box.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The subject of the sentence is 'one... statement' (singular), which requires the singular verb 'is' for subject-verb agreement, not the plural 'are'."
+24,50,Algernon and Jack's claim to the name of Ernest and their deceptions at the Manor House,"Look for and reward all valid interpretations. These might include a consideration of:
+- **Algernon and Jack's claim to the name of Ernest and their deceptions at the Manor House**
+- **Algernon and Jack's claim to the name of Ernest and their deceptions at the Manor House**
+- Algernon's use of Bunbury to excuse himself from invitations",ErrorCategory.STYLISTIC_PREFERENCE,95,"This bullet point is repeated consecutively, creating an unnecessary redundancy in the list of considerations."
+25,56,are,Which one of the following statements about this extract **are** true? Tick (✓) one box.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,"The subject 'Which one' is singular, requiring the singular verb 'is' instead of 'are'."
+26,56,belittles,"he uses hyperbole – ""as ugly as the very devil"" – to<br>**belittles** Eliza (and possibly mask his own feelings)",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"Following 'to', the base form of the verb (infinitive) 'belittle' is required, not 'belittles'."
+27,58,(grammatically),Candidates who use their own<br>word to **(grammatically)** fill the gap cannot be credited.,ErrorCategory.STYLISTIC_PREFERENCE,85,The parenthetical adverb 'grammatically' creates an awkward and slightly ambiguous phrasing; rephrasing for clarity would improve readability.
+28,59,as well as through direct reference,"Discussion of what Higgins' treatment of Eliza shows us about life in Britain in the early twentieth century will be assured and evaluative, with overview **as well as through direct reference**, and with increasing sensitivity.",ErrorCategory.STYLISTIC_PREFERENCE,80,The phrase 'as well as through direct reference' is slightly verbose; 'as well as direct reference' or 'with both overview and direct reference' would be more concise.
+29,60,characters different areas,Look for relevant textual support with some reference to how linguistic and literary features are used to present **characters different areas** of knowledge.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,A possessive ('characters'') or a preposition ('of characters') is needed to correctly link 'characters' to 'different areas of knowledge'.
+30,60,in what way,Less successful responses will be reliant on narrative with some relevant discussion of events in the play that show **in what way** characters are clever.,ErrorCategory.STYLISTIC_PREFERENCE,85,The phrase 'in what way' is wordy; 'how' would be a more concise and natural alternative.
+31,60,"empathy, towards the top of this mark range","There will be awareness of the play's context, and, perhaps, **empathy, towards the top of this mark range**. Paraphrase or general references may be used.",ErrorCategory.AMBIGUOUS_PHRASING,90,The placement of 'towards the top of this mark range' makes it unclear whether it modifies 'empathy' itself or the presence of empathy in responses.
+32,61,show,What do each of the words **show** the audience about Sheila's behaviour?,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The subject 'each' is singular, so the verb should be 'does show' or 'shows' to maintain subject-verb agreement."
+33,61,"line. ""She","What word class is the word ""almost"" in the **line. ""She** almost breaks down"".",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,A full stop should not separate 'line' from the quoted sentence; a colon or no punctuation would be appropriate here.
+34,62,Shelia,• the repetition / false start “– and – and –” indicates that **Shelia** is losing fluency as she is emotionally affected,ErrorCategory.SPELLING_ERROR,95,"'Shelia' is a misspelling of the character's name, 'Sheila'."
+35,66,different aspects,"show a convincing and perceptive understanding, considering a wide range of **different aspects** of content; responses are<br>sustained, detailed and critical in their engagement and may include offering some reasoned judgements or considered personal<br>response.",ErrorCategory.STYLISTIC_PREFERENCE,85,"The word 'different' is redundant when used with 'wide range of aspects,' as 'range' already implies variety."
+36,66,understanding how,"show a full and thorough **understanding how** contexts may inform viewpoints and perspectives, drawing confidently on well<br>chosen evidence from the text(s).",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The noun 'understanding' typically requires the preposition 'of' before a clause introduced by 'how' in formal English (e.g., 'understanding of how')."
+37,66,points offered,"offer a competent selection of **points offered**, and meaningful development of ideas. Secure evaluation of relevant points to<br>demonstrate how they illustrate and support interpretations.",ErrorCategory.STYLISTIC_PREFERENCE,85,The word 'offered' is redundant here; 'a competent selection of points' is sufficient and more concise.
+38,66,"understanding of,","• show clear **understanding of,** with emerging awareness of their impact.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,The phrase 'understanding of' requires an object to be grammatically complete. The sentence is a fragment.
+39,71,that,"Candidates confidently use a wide range of sentence structures, **that** thoughtfully enhance clarity, and successfully support purpose and create effect.",ErrorCategory.STYLISTIC_PREFERENCE,90,"In formal British English, 'which' is preferred for non-restrictive clauses (those preceded by a comma), while 'that' is used for restrictive clauses."
+40,72,that,"Candidates use a range of sentence structures, **that** enhance clarity, and are deliberately used for purpose and effect.",ErrorCategory.STYLISTIC_PREFERENCE,90,"In formal British English, 'which' is preferred for non-restrictive clauses (those preceded by a comma), while 'that' is used for restrictive clauses."
+41,76,14.,Learners are required to answer either **14.** or 15.,ErrorCategory.CONSISTENCY_ERROR,85,"The full stop after '14' is inconsistent with the lack of a full stop after '15' in the same phrase, and generally unnecessary when referring to question numbers within a sentence."
+42,76,17.,Learners are required to answer either 16 or **17.**,ErrorCategory.CONSISTENCY_ERROR,85,"The full stop after '17' is inconsistent with the lack of a full stop after '16' in the same phrase, and generally unnecessary when referring to question numbers within a sentence."
