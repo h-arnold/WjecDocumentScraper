@@ -14,6 +14,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from src.llm.gemini_llm import GeminiLLM
+from src.llm.provider import LLMParseError
 
 
 class _DummyResponse:
@@ -118,8 +119,12 @@ def test_generate_raises_when_json_delimiters_missing(tmp_path: Path) -> None:
         filter_json=True,
     )
 
-    with pytest.raises(ValueError):
+    with pytest.raises(LLMParseError) as exc_info:
         llm.generate(["Prompt"])
+    
+    # Verify the error contains the response and prompts for debugging
+    assert exc_info.value.response_text == "No JSON here"
+    assert exc_info.value.prompts == ["Prompt"]
 
 
 def test_generate_raises_when_response_has_no_text(tmp_path: Path) -> None:
@@ -132,8 +137,11 @@ def test_generate_raises_when_response_has_no_text(tmp_path: Path) -> None:
         filter_json=True,
     )
 
-    with pytest.raises(AttributeError):
+    with pytest.raises(LLMParseError) as exc_info:
         llm.generate(["Prompt"])
+    
+    # Verify the error contains the prompts for debugging
+    assert exc_info.value.prompts == ["Prompt"]
 
 
 def test_generate_excludes_grounding_tool_by_default(tmp_path: Path) -> None:

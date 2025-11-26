@@ -16,7 +16,7 @@ except (
     Exception
 ):  # pragma: no cover - only occurs in test environment without google libs
     google_exceptions = None
-from src.llm.provider import LLMQuotaError
+from src.llm.provider import LLMParseError, LLMQuotaError
 
 from .json_utils import parse_json_response
 
@@ -163,7 +163,7 @@ class GeminiLLM:
 
                 if not apply_filter:
                     return response
-                return self._parse_response_json(response)
+                return self._parse_response_json(response, prompts=list(user_prompts))
 
             except Exception as exc:
                 # Update last request time even on failure
@@ -392,7 +392,7 @@ class GeminiLLM:
                 try:
                     parsed_result = self._parse_response_json(response)
                     results.append(parsed_result)
-                except (ValueError, json.JSONDecodeError, AttributeError) as e:
+                except LLMParseError as e:
                     # If JSON parsing fails, return the raw response
                     print(
                         f"Warning: Could not parse JSON from batch response {idx}: {e}"
@@ -432,15 +432,37 @@ class GeminiLLM:
     def health_check(self) -> bool:
         return True
 
-    def _parse_response_json(self, response: Any) -> Any:
-        """Extract and repair JSON content from a Gemini response."""
+    def _parse_response_json(
+        self, response: Any, prompts: list[str] | None = None
+    ) -> Any:
+        """Extract and repair JSON content from a Gemini response.
+
+        Args:
+            response: The Gemini API response object
+            prompts: Optional list of prompts used for the request (for error context)
+
+        Returns:
+            Parsed JSON data
+
+        Raises:
+            LLMParseError: If JSON parsing fails, with response text and prompts attached
+        """
         text = getattr(response, "text", None)
         if not isinstance(text, str):
-            raise AttributeError(
-                "Response object does not expose a text attribute for JSON parsing."
+            raise LLMParseError(
+                "Response object does not expose a text attribute for JSON parsing.",
+                response_text=str(response),
+                prompts=prompts,
             )
 
-        return parse_json_response(text)
+        try:
+            return parse_json_response(text)
+        except (ValueError, json.JSONDecodeError) as exc:
+            raise LLMParseError(
+                str(exc),
+                response_text=text,
+                prompts=prompts,
+            ) from exc
 
     def _enforce_rate_limit(self) -> None:
         """Enforce minimum interval between API requests."""

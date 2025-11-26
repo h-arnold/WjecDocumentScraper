@@ -14,7 +14,7 @@ from mistralai import Mistral, models
 # NOTE: We intentionally avoid marshalled SDK message classes and instead
 # use the `inputs`/`instructions` shape via `beta.conversations.start`.
 from .json_utils import parse_json_response
-from .provider import LLMProvider, LLMProviderError, LLMQuotaError
+from .provider import LLMParseError, LLMProvider, LLMProviderError, LLMQuotaError
 
 
 class MistralLLM(LLMProvider):
@@ -148,7 +148,7 @@ class MistralLLM(LLMProvider):
         if not apply_filter:
             return response
 
-        return self._parse_response_json(response)
+        return self._parse_response_json(response, prompts=list(user_prompts))
 
     def batch_generate(
         self,
@@ -360,8 +360,21 @@ class MistralLLM(LLMProvider):
     def health_check(self) -> bool:
         return True
 
-    def _parse_response_json(self, response: Any) -> Any:
-        """Extract and repair JSON content from a Mistral response."""
+    def _parse_response_json(
+        self, response: Any, prompts: list[str] | None = None
+    ) -> Any:
+        """Extract and repair JSON content from a Mistral response.
+
+        Args:
+            response: The Mistral API response object
+            prompts: Optional list of prompts used for the request (for error context)
+
+        Returns:
+            Parsed JSON data
+
+        Raises:
+            LLMParseError: If JSON parsing fails, with response text and prompts attached
+        """
         # The Mistral SDK returns structured response objects. We support the
         # two canonical shapes we expect from recent SDKs and older OpenAI-style
         # SDK shapes (in PRECEDENCE order):
@@ -398,12 +411,21 @@ class MistralLLM(LLMProvider):
                     text = maybe
 
         if not isinstance(text, str):
-            raise AttributeError(
-                "Response message content is not a string for JSON parsing; expected `outputs` or `choices` shapes."
+            raise LLMParseError(
+                "Response message content is not a string for JSON parsing; expected `outputs` or `choices` shapes.",
+                response_text=str(response),
+                prompts=prompts,
             )
 
         # parse_json_response does extraction and repair of common JSON issues
-        return parse_json_response(text)
+        try:
+            return parse_json_response(text)
+        except (ValueError, json.JSONDecodeError) as exc:
+            raise LLMParseError(
+                str(exc),
+                response_text=text,
+                prompts=prompts,
+            ) from exc
 
     def _build_batch_requests(
         self,
