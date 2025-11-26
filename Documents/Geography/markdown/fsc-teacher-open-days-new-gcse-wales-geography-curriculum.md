@@ -1,19 +1,21 @@
+
+
 {1}------------------------------------------------
 
-## FSC Teacher Open Days: New GCSE Wales Geography Curriculum/ Diwrnodau Agored Athrawon FSC: Cwricwlwm Daearyddiaeth TGAU Cymru Newydd
+## **FSC Teacher Open Days: New GCSE Wales Geography Curriculum/ Diwrnodau Agored Athrawon FSC: Cwricwlwm Daearyddiaeth TGAU Cymru Newydd**
 
-<!-- image -->
+![](_page_0_Picture_1.jpeg)
 
-JoinusforateacheropendayatourWelshcentres,tofindouthowwecansupportyou throughthecurriculumchanges,whatFieldStudiesCouncilcanofferyou,andtoexperience thelearminglocationsandteachingfirsthand.
+![](_page_0_Picture_2.jpeg)
 
-Mon14,July202510:00-14:00
+Join us for a teacher open day at our Welsh centres, to find out how we can support you through the curriculum changes, what Field Studies Council can offer you, and to experience the learning locations and teaching first hand.
 
-BookthisopendaytoattendatRhyd-y-Creuau,NorthWales
+Mon 14, July 2025 10:00 - 14:00
 
-Thu17,July202510:00-14:00
+Book this open day to attend at Rhyd-y-Creuau, North Wales
 
-BookthisopendaytoattendatMargamDiscoveryCentre,SouthWales
+Thu 17. July 2025 10:00 - 14:00
 
-Sign up link: Teacher Open Days: Secondary Welsh Curriculum - Field Studies Council
+Book this open day to attend at Margam Discovery Centre, South Wales
 
-<!-- image -->
+Sign up link[: Teacher Open Days: Secondary Welsh Curriculum –](https://www.field-studies-council.org/courses-and-experiences/static-courses/teacher-open-days-secondary-welsh-curriculum/) Field Studies Council
