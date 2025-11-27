@@ -1049,9 +1049,419 @@
         "completed_batches": [
           0,
           1,
-          2
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
         ],
         "total_issues": 27
+      },
+      "gcse-english-language-and-literature---unit-6-connections.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "total_issues": 40
+      },
+      "gcse-english-language-and-literature-double-award---option-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-english-language-and-literature-single-and-double-award---faqs.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "gcse-english-language-and-literature-single-award---option-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-english-language-and-literature-unit-2-nea-handbook.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "total_issues": 21
+      },
+      "gcse-english-language-and-literature-unit-3-nea-handbook.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "total_issues": 21
+      },
+      "gcse-english-language-and-literature-unit-5-nea-handbook.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "total_issues": 22
+      },
+      "key-dates-2025-26.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "total_issues": 22
+      },
+      "september-2025.md": {
+        "completed_batches": [
+          0,
+          1,
+          2
+        ],
+        "total_issues": 9
+      },
+      "wjec-gcse-english-language-and-literature---non-fiction-anthology-unit-3-and-unit-6.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "total_issues": 49
+      },
+      "wjec-gcse-english-language-and-literature---poetry-anthology-unit-1-and-unit-5-poetry-anthology.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "total_issues": 25
+      },
+      "wjec-gcse-english-language-and-literature---unit-2-prose-fiction-list.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 4
+      },
+      "wjec-gcse-english-language-and-literature-single-and-double-award-specification.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "total_issues": 45
+      }
+    },
+    "Food-and-Nutrition": {
+      "appendix-a-chart.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-food-and-nutrition---delivery-guide.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 15
+      },
+      "gcse-food-and-nutrition---faqs.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 3
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-1.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "total_issues": 50
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-2.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "total_issues": 31
+      },
+      "gcse-food-and-nutrition---guidance-for-teaching-unit-3.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "total_issues": 41
+      },
+      "gcse-food-and-nutrition---option-evening-flyer.md": {
+        "completed_batches": [
+          0
+        ],
+        "total_issues": 1
+      },
+      "gcse-food-and-nutrition---unit-1-principles-of-food-and-nutrition.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "total_issues": 32
+      },
+      "gcse-food-and-nutrition---unit-2-food-investigation.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "total_issues": 29
+      },
+      "gcse-food-and-nutrition---unit-2-non-exam-assessment-pack.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "total_issues": 29
+      },
+      "gcse-food-and-nutrition---unit-3-food-and-nutrition-in-action.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "total_issues": 40
+      },
+      "gcse-food-and-nutrition---unit-3-non-exam-assessment-pack.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "total_issues": 40
+      },
+      "overview-of-consultation-findings.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "total_issues": 22
+      },
+      "resources-for-new-gcse.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "total_issues": 13
+      },
+      "techniques-summary.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "total_issues": 30
+      },
+      "unit-2---work-smarter-not-harder.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "total_issues": 19
+      },
+      "unit-3---presenting-food-outcomes.md": {
+        "completed_batches": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "total_issues": 18
+      },
+      "unit-3---upskilling.md": {
+        "completed_batches": [
+          0,
+          1
+        ],
+        "total_issues": 15
       }
     }
   }
