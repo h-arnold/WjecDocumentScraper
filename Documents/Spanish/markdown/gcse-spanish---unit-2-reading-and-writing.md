@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -20,22 +20,22 @@ Ready for the world. This Qualifications Wales regulated qualification is not av
 
 Made for Wales.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ![](_page_1_Picture_0.jpeg)
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 ## Contents
 
-| About this pack: information for teachers | 3        |
-|-------------------------------------------|----------|
-| Instructions for teachers                 | 4        |
-| Selection of work                         | 4        |
-| Task overview                             | <i>6</i> |
-| Managing the assessment                   | 6        |
-| Assessment details                        | 6        |
-| Candidate Assessment Pack                 | c        |
+| About this pack: information for teachers | 3 |
+|-------------------------------------------|---|
+| Instructions for teachers                 | 4 |
+| Selection of work                         | 4 |
+| Task overview                             | 6 |
+| Managing the assessment                   | 6 |
+| Assessment details                        | 6 |
+| Candidate Assessment Pack                 | c |
 
 ![](_page_2_Picture_3.jpeg)
 
@@ -43,7 +43,7 @@ Made for Wales.
 
 © WJEC CBAC Limited 2024.
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 ## <span id="page-3-0"></span>About this pack: information for teachers
 
@@ -62,7 +62,7 @@ Within this pack, you will find:
 
 **You must provide each candidate with a copy of the complete candidate assessment pack.**
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
 ## <span id="page-4-0"></span>Instructions for teachers
 
@@ -102,7 +102,7 @@ This story follows two siblings during the Spanish Civil War who must flee to Ve
 
 The story follows the thought process of a young, liberal woman as she tries to cook a meal for her new husband. It focuses on gender stereotypes and gender oppression.
 
-{5}------------------------------------------------
+{6}------------------------------------------------
 
 ## **Film transcript:**
 
@@ -128,7 +128,7 @@ This novel is based on the historical character Inés Suarez who was involved in
 
 This novel focuses on family and relationships. It is about Julia who lives with her Mexican family in Chicago. Her older sister Olga is the perfect daughter but when Olga is killed in a road traffic accident, Julia starts to uncover secrets about her perfect sister.
 
-{6}------------------------------------------------
+{7}------------------------------------------------
 
 ## <span id="page-6-0"></span>**Task overview**
 
@@ -178,7 +178,7 @@ Centres must ensure that the work focuses on **one** of the broad themes:
 
 The assessment is based on the candidate's ability to understand and respond to written language in writing.
 
-{7}------------------------------------------------
+{8}------------------------------------------------
 
 The Rubrics will be in Cymraeg/English. The language of response will be in the assessed language.
 
@@ -215,7 +215,7 @@ Group work is **not** allowed. Candidates must complete all tasks individually.
 
 Candidates must be supervised by an assessor whilst completing the activities. Centres must have in place systems to ensure candidates cannot access evidence they have been developing outside of supervised activities.
 
-{8}------------------------------------------------
+{9}------------------------------------------------
 
 ## **Authentication**
 
@@ -253,7 +253,7 @@ You should refer to the JCQ Instructions for conducting non-examination assessme
 
 **This pack is a sample. It must not be used for live assessment.**
 
-{9}------------------------------------------------
+{10}------------------------------------------------
 
 ![](_page_9_Picture_1.jpeg)
 
@@ -263,13 +263,16 @@ You should refer to the JCQ Instructions for conducting non-examination assessme
 
 Unit 2: Reading and Writing
 
-{10}------------------------------------------------
+{11}------------------------------------------------
 
-| Centre No:              |  |  |  |  | Candidate No: |  |  |  |  |
-|-------------------------|--|--|--|--|---------------|--|--|--|--|
-| Surname                 |  |  |  |  |               |  |  |  |  |
-| First name(s)           |  |  |  |  |               |  |  |  |  |
-| Name of work studied |  |  |  |  |  |  |  |  |  |
+| Centre No:           | <table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table> |  |  |  |  |  |  |  |  |
+|----------------------|--------------------------------------------------------------------------------------------------|--|--|--|--|--|--|--|--|
+|                      |                                                                                                  |  |  |  |  |  |  |  |  |
+| Candidate No:        | <table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table> |  |  |  |  |  |  |  |  |
+|                      |                                                                                                  |  |  |  |  |  |  |  |  |
+| Surname              |                                                                                                  |  |  |  |  |  |  |  |  |
+| First name(s)        |                                                                                                  |  |  |  |  |  |  |  |  |
+| Name of work studied |                                                                                                  |  |  |  |  |  |  |  |  |
 
 ![](_page_10_Picture_2.jpeg)
 
@@ -285,18 +288,18 @@ External Candidate Assessment Pack
 
 Candidate cover sheet
 
-| For examiner's use only |              |  |  |  |  |
-|-------------------------|--------------|--|--|--|--|
-| Task                    | Mark Awarded |  |  |  |  |
-| 1a                      | /15          |  |  |  |  |
-| 1b                      | /30          |  |  |  |  |
-| Total Mark awarded | /45 |  |  |  |  |
+| For examiner's use only |              |
+|-------------------------|--------------|
+| Task                    | Mark Awarded |
+| 1a                      | /15          |
+| 1b                      | /30          |
+| Total Mark<br>awarded   | /45          |
 
 Candidates must write their name, centre number and candidate number in the spaces at the top of this page.
 
 NB: This cover page must accompany the candidate's evidence
 
-{11}------------------------------------------------
+{12}------------------------------------------------
 
 ## About this pack: information and instructions for candidates
 
@@ -327,21 +330,21 @@ You are advised to check your work carefully to make sure that it is accurate an
 
 **You must not discuss or share any details of the brief until after 5 May 202X.**
 
-{12}------------------------------------------------
+{13}------------------------------------------------
 
 ## Tasks
 
-|   | Task                                                                                                                                                            | Evidence                                                                          | Controls                                                       |  |  |
-|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------|--|--|
-| 1 | (a) Write about the work you have studied. You must: <ul><li>summarise the main events.</li></ul> | Written response in Spanish up to a maximum of 70 words. | Supervision: Direct Guidance: Not permitted |  |  |
-|  | (b) Write a review of the work you have studied. You must: <ul><li>provide examples of what you liked about the work</li><li>justify your opinions.</li></ul> | Written response in Spanish up to a maximum of 130 words. | Resources: Not permitted Collaboration: Not permitted |  |  |
-|  |  | (a) AO2 [10 marks] AO3 [5 marks] (b) AO2 [20 marks] AO3 [10 marks] |  |  |  |
+|   | Task                                                                                                                                           | Evidence                                                                    | Controls                                                       |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------|
+| 1 | (a) Write about the work you have<br>studied.<br>You must:<br>summarise the main events.                                                       | Written response in<br>Spanish up to a<br>maximum of 70 words.              | Supervision:<br>Direct<br>Guidance:<br>Not permitted           |
+|   | (b) Write a review of the work you have<br>studied.<br>You must:<br>provide examples of what you liked<br>about the workjustify your opinions. | Written response in<br>Spanish up to a<br>maximum of 130<br>words.          | Resources:<br>Not permitted<br>Collaboration:<br>Not permitted |
+|   |                                                                                                                                                | (a) AO2 [10 marks]<br>AO3 [5 marks]<br>(b) AO2 [20 marks]<br>AO3 [10 marks] |                                                                |
 
 Where tasks are produced digitally, online dictionaries, spelling and grammar checking programmes and access to internet **must be disabled**.
 
 ## **End of task**
 
-{13}------------------------------------------------
+{14}------------------------------------------------
 
 ## Information for candidates
 
@@ -377,64 +380,64 @@ WJEC will decide which penalty is appropriate.
 
 **Remember – it's your qualification so it needs to be your own work.**
 
-{14}------------------------------------------------
+{15}------------------------------------------------
 
 ## Candidate Declaration Form
 
 ## **You must complete Part A and Part B of this form**
 
-| Centre No:                                      | Centre Name:       |                                                   |
-|-------------------------------------------------|--------------------|---------------------------------------------------|
-| Candidate No: | Candidate Name: |  |
-| Unit Title:                                     |                    |                                                   |
-| Part A: Candidate Declaration                   |                    |                                                   |
-| References: Give details of the exact source of |  | List of software packages/AI tools/chatbots1 : |
+| Centre No:                                      |                                                            | Centre Name:       |  |
+|-------------------------------------------------|------------------------------------------------------------|--------------------|--|
+| Candidate<br>No:                                |                                                            | Candidate<br>Name: |  |
+| Unit Title:                                     |                                                            |                    |  |
+| <b>Part A: Candidate Declaration</b>            |                                                            |                    |  |
+| References: Give details of the exact source of | List of software packages/AI tools/chatbots <sup>1</sup> : |                    |  |
 
-| References: Give details of the exact source of any non-original material used in the assignment. | List of software packages/AI tools/chatbots1 : Give brief details of how these have been used in the assignment. |
-|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                      |                                                                                                                           |
+| References: Give details of the exact source of any non-original material used in the assignment.                            |  |
+|------------------------------------------------------------------------------------------------------------------------------|--|
+| List of software packages/AI tools/chatbots <sup>1</sup> : Give brief details of how these have been used in the assignment. |  |
 
 ## **Authentication Declaration**
 
 I declare that my work was completed independently and without any assistance beyond that which was permitted. All work is my own, except for any non-original material clearly credited above. This work has not been submitted for any other qualification. I have clearly referenced any sources and any Artificial Intelligence tools used in the work. I understand that false declaration is a form of malpractice.
 
-| Candidate Signature: | Date: |
-|----------------------|-------|
-|                      |       |
+| Candidate Signature: |  |
+|----------------------|--|
+| Date:                |  |
 
 GCSE Spanish Unit 2: Reading and Writing 5
 
 <span id="page-14-0"></span><sup>1</sup> Where you have used AI tools as a source of information, you must show the name of the AI source used and the date the content was generated. For example: ChatGPT 3.5 [\(https://openai.com/blog/chatgpt/\)](https://openai.com/blog/chatgpt/), 25/01/2023. You must, retain a copy of the question(s) and computer-generated content for reference and authentication purposes, in a noneditable format (such as a screenshot) and provide a brief explanation of how it has been used. This must be submitted with your work, so your teacher/assessor is able to review the work, the AI-generated content and how it has been used.
 
-{15}------------------------------------------------
+{16}------------------------------------------------
 
 ## Candidate Time Record Sheet
 
-| Centre No:                               |                                |    |  |  | Centre Name:                                                                             |       |                 |         |
-|------------------------------------------|--------------------------------|----|--|--|------------------------------------------------------------------------------------------|-------|-----------------|---------|
-| Candidate No: |  |  |  |  | Candidate Name: |  |  |  |
-| Unit Title:                              |                                |    |  |  |                                                                                          |       |                 |         |
-| The total time allowed must not exceed 1 |                                |    |  |  | hour.                                                                                    |       |                 |         |
-|                                          | Dates                          |    |  |  |                                                                                          |       | Time Allowed (1 | hour)   |
-| DD                                       | MM                             | YY |  |  |                                                                                          | Hours |                 | Minutes |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  |                                                                                          |       |                 |         |
-|                                          |                                |    |  |  | I certify that all candidates entered were informed of the above dates.                  |       |                 |         |
-| Supervisors Signature: |  |  |  |  |  |  | Date: |  |
-|                                          | assistance beyond that allowed |    |  |  | I confirm that the evidence submitted for assessment has been produced by me without any |       |                 |         |
-| Candidate's Signature: |  |  |  |  |  |  | Date: |  |
+| Centre No:                                                                                                              |    |    |  |  | Centre Name:          |       |         |  |
+|-------------------------------------------------------------------------------------------------------------------------|----|----|--|--|-----------------------|-------|---------|--|
+| Candidate<br>No:                                                                                                        |    |    |  |  | Candidate<br>Name:    |       |         |  |
+| Unit Title:                                                                                                             |    |    |  |  |                       |       |         |  |
+| The total time allowed must not exceed 1 hour.                                                                          |    |    |  |  |                       |       |         |  |
+| Dates                                                                                                                   |    |    |  |  | Time Allowed (1 hour) |       |         |  |
+| DD                                                                                                                      | MM | YY |  |  | Hours                 |       | Minutes |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+|                                                                                                                         |    |    |  |  |                       |       |         |  |
+| I certify that all candidates entered were informed of the above dates.                                                 |    |    |  |  |                       |       |         |  |
+| Supervisors<br>Signature:                                                                                               |    |    |  |  |                       | Date: |         |  |
+| I confirm that the evidence submitted for assessment has been produced by me without any assistance beyond that allowed |    |    |  |  |                       |       |         |  |
+| Candidate's<br>Signature:                                                                                               |    |    |  |  |                       | Date: |         |  |
 
 **End of Candidate Assessment Pack**
 
-{16}------------------------------------------------
+{17}------------------------------------------------
 
 ## **MARK SCHEME**
 
@@ -466,7 +469,7 @@ The marking of banded mark questions should always be positive. This means that,
 
 Examiners should first read and annotate the candidate's answer to pick out the evidence that is being assessed in that question. The mark scheme can then be applied. This is done as a two-stage process.
 
-{17}------------------------------------------------
+{18}------------------------------------------------
 
 ## **Stage 1 – Deciding on the band**
 
@@ -482,34 +485,33 @@ Standardising material that has already been awarded a mark will be provided dur
 
 This mark scheme instructs examiners to look for and reward valid alternatives where indicative content is suggested for an answer. This is not a checklist for expected content in an answer, or set out as a 'model answer', as responses must be marked in the banded levels of response provided for each question. Where a candidate provides a response that contains aspects or approaches not included in the indicative content, examiners should use their professional judgement to determine the validity of the response in light of the task and reward as directed by the bands. Candidates are free to choose any approach that is relevant to the set task. Candidates can (and will most likely) incorporate ideas other than those mentioned in the mark scheme.
 
-{18}------------------------------------------------
+{19}------------------------------------------------
 
 ## **Glossary of terms**
 
 The following glossary of terms provides guidance on terms used within the banded mark schemes.
 
-| Major error | An error that impedes communication and prevents the meaning being accurately conveyed. For example: <ul><li>Incorrect verb forms resulting in confusion about the subject and / or the tense:</li><li>Yo vamos al parque</li><li>Tu ir al concierto</li><li>Significant spelling errors which make the word unrecognisable in Spanish and / or changes the meaning:</li><li>Sabo espanol</li><li>Haco mis deberes</li><li>Expressions of time in conflict with verb tenses, making the detail about when the activity happened unclear:</li></ul> |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  | <ul><li>Ayer, voy a ir</li><li>Mañana, fui al mercado</li><li>Mother-tongue word swaps:</li><li>Me gusta football.</li></ul> |
-| Minor error | An error that does not impede communication and allows the meaning to be conveyed. For example: <ul><li>Minor spelling errors which don't affect the communication:</li><li>Como una hamburgusa</li><li>Tengo una classe</li><li>Missing accents which don't affect the meaning or tense:</li><li>futbol</li><li>natacion</li><li>Incorrect accents which don't affect the overall meaning:</li><li>Estudiá griego</li><li>Tengo un gató</li><li>Incorrect gender and errors in agreement:</li><li>Ella es bonito</li><li>El perro es linda</li></ul> |
-| Clear          | The message is unambiguous.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Comprehensive | Including everything that is necessary – complete. |
-| Detailed       | Giving a lot of information with many details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Understandable | Able to be understood.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Major error    | An error that impedes communication and prevents the meaning being accurately conveyed.<br>For example:<br>• Incorrect verb forms resulting in confusion about the subject and / or the tense:<br>• Yo vamos al parque<br>• Tu ir al concierto<br>• Significant spelling errors which make the word unrecognisable in Spanish and / or changes the meaning:<br>• Sabo espanol<br>• Haco mis deberes<br>• Expressions of time in conflict with verb tenses, making the detail about when the activity happened unclear:<br>• Ayer, voy a ir<br>• Mañana, fui al mercado<br>• Mother-tongue word swaps:<br>• Me gusta football. |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Minor error    | An error that does not impede communication and allows the meaning to be conveyed.<br>For example:<br>• Minor spelling errors which don't affect the communication:<br>• Como una hamburgusa<br>• Tengo una classe<br>• Missing accents which don't affect the meaning or tense:<br>• futbol<br>• natacion<br>• Incorrect accents which don't affect the overall meaning:<br>• Estudiá griego<br>• Tengo un gató<br>• Incorrect gender and errors in agreement:<br>• Ella es bonito<br>• El perro es linda                                                                                                                    |
+| Clear          | The message is unambiguous.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Comprehensive  | Including everything that is necessary – complete.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Detailed       | Giving a lot of information with many details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Understandable | Able to be understood.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 GCSE Spanish Unit 2: Reading and Writing 9
 
-{19}------------------------------------------------
+{20}------------------------------------------------
 
-| Addresses | Evidence of response. For example, candidates should include all bullet points, but equal coverage is not expected. |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Development / developed | Including additional detail which elaborates. It can be a clause or separate phrase. |
-| Extended | A longer sequence which may include additional clause(s) giving further details, reasoning and / or opinion. |
-| Complex language | More sophisticated linguistic constructions, which may include: <ul><li>longer sentence with connectives (e.g. because, such as, when…)</li><li>infinitive constructions</li><li>use of (multiple) pronouns</li><li>use of adverbs</li><li>word order that is different to English.</li></ul> |
-| Communication              | Exchanging of information.                                                                                                                                                                                                                                                             |
-| Relevant                   | Connected or appropriate to the stimulus.                                                                                                                                                                                                                                              |
-| Straightforward            | Easy to understand or simple.                                                                                                                                                                                                                                                          |
-| Well-reasoned              | Clear and carefully thought out.                                                                                                                                                                                                                                                       |
+| Addresses                  | Evidence of response. For example, candidates should include<br>all bullet points, but equal coverage is not expected.                                                                                                                    |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Development /<br>developed | Including additional detail which elaborates. It can be a clause<br>or separate phrase.                                                                                                                                                   |
+| Extended                   | A longer sequence which may include additional clause(s)<br>giving further details, reasoning and / or opinion.                                                                                                                           |
+| Complex language           | More sophisticated linguistic constructions, which may include:longer sentence with connectives (e.g. because, such as,<br>when…)infinitive constructionsuse of (multiple) pronounsuse of adverbsword order that is different to English. |
+| Communication              | Exchanging of information.                                                                                                                                                                                                                |
+| Relevant                   | Connected or appropriate to the stimulus.                                                                                                                                                                                                 |
+| Straightforward            | Easy to understand or simple.                                                                                                                                                                                                             |
+| Well-reasoned              | Clear and carefully thought out.                                                                                                                                                                                                          |
 
 ## Differentiation of descriptors in the mark scheme
 
@@ -525,7 +527,7 @@ The following words are used from top to lower bands in all banded mark schemes:
 
 Please note that these should be viewed in conjunction with the descriptor as they may not always go from top to lower, for example: frequent errors would be in a lower mark band.
 
-{20}------------------------------------------------
+{21}------------------------------------------------
 
 **Assessment Grids** (45 marks)
 
@@ -552,33 +554,33 @@ The number of words is approximate, and all work must be marked. The bullet poin
 
 **Write up to a maximum of 70 words in Spanish.**
 
-| Band | Marks [10] | AO2: Understand and respond to written language in writing. |
+| Band | Marks<br>[10] | AO2: Understand and respond to written language in writing.                                                                                                                                  |
 |------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | 9-10 | <ul><li>Consistently relevant information is conveyed.</li><li>Responses are always extended and consistently developed.</li><li>Communication is clear and consistently understandable.</li></ul> |
-| 4 | 7-8 | <ul><li>Conveys relevant information.</li><li>Responses are often extended and frequently developed.</li><li>Communication is understandable, an occasional message may be unclear.</li></ul> |
-| 3 | 5-6 | <ul><li>Conveys mainly relevant information.</li><li>Responses are generally extended and generally developed.</li><li>Communication is mainly understandable, some messages may be unclear.</li></ul> |
-| 2 | 3-4 | <ul><li>Some relevant information is conveyed.</li><li>Responses are sometimes developed.</li><li>Communication is sometimes understandable, the message sometimes breaks down.</li></ul> |
-| 1 | 1-2 | <ul><li>Limited information is conveyed.</li><li>Responses are rarely developed.</li><li>Communication is rarely understandable.</li></ul> |
+| 5    | 9-10          | •<br>Consistently relevant information is conveyed.<br>•<br>Responses are always extended and consistently developed.<br>•<br>Communication is clear and consistently understandable.        |
+| 4    | 7-8           | •<br>Conveys relevant information.<br>•<br>Responses are often extended and frequently developed.<br>•<br>Communication is understandable, an occasional message may<br>be unclear.          |
+| 3    | 5-6           | •<br>Conveys mainly relevant information.<br>•<br>Responses are generally extended and generally developed.<br>•<br>Communication is mainly understandable, some messages may<br>be unclear. |
+| 2    | 3-4           | •<br>Some relevant information is conveyed.<br>•<br>Responses are sometimes developed.<br>•<br>Communication is sometimes understandable, the message<br>sometimes breaks down.              |
+| 1    | 1-2           | •<br>Limited information is conveyed.<br>•<br>Responses are rarely developed.<br>•<br>Communication is rarely understandable.                                                                |
 | 0    | 0             | Response not worthy of credit.                                                                                                                                                               |
 
-{21}------------------------------------------------
+{22}------------------------------------------------
 
 #### **AO3: (5 marks for demonstration of grammar and vocabulary)**
 
-| Band | Marks [5] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification. |
-|------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 5 | 5 | <ul><li>A wide range of appropriate vocabulary and structures are used, with some complex language.</li><li>Highly successful use of verb and tense formations.</li><li>Language used is highly accurate – any errors are minor.</li></ul> |
-| 4 | 4 | <ul><li>A range of appropriate vocabulary and structures are used, with some complex language.</li><li>Mainly successful use of verb and tense formations.</li><li>Language is accurate – there may be some minor errors and very few major errors.</li></ul> |
-| 3 | 3 | <ul><li>Some appropriate vocabulary and structures are used, little complex language.</li><li>Generally successful use of verb and tense formations.</li><li>Some accurate language – there may be some minor and major errors.</li></ul> |
-| 2 | 2 | <ul><li>Basic vocabulary and structures are used.</li><li>Occasionally successful use of verb and tense formations.</li><li>Little accurate language – there may be frequent minor errors and some major errors.</li></ul> |
-| 1 | 1 | <ul><li>Limited and possibly repetitive vocabulary and structures are used.</li><li>Limited success in verb and tense formation.</li><li>Limited accurate language – there may be frequent errors, both major and minor.</li></ul> |
-| 0    | 0            | Response not worthy of credit.                                                                                                                                                                                                                            |
+| Band | Marks<br>[5] | AO3: Demonstrate knowledge and accurate application of the<br>grammar and vocabulary prescribed in the specification.                                                                                                                         |
+|------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5    | 5            | • A wide range of appropriate vocabulary and structures are used,<br>with some complex language.<br>• Highly successful use of verb and tense formations.<br>• Language used is highly accurate – any errors are minor.                       |
+| 4    | 4            | • A range of appropriate vocabulary and structures are used, with<br>some complex language.<br>• Mainly successful use of verb and tense formations.<br>• Language is accurate – there may be some minor errors and very<br>few major errors. |
+| 3    | 3            | • Some appropriate vocabulary and structures are used, little<br>complex language.<br>• Generally successful use of verb and tense formations.<br>• Some accurate language – there may be some minor and major<br>errors.                     |
+| 2    | 2            | • Basic vocabulary and structures are used.<br>• Occasionally successful use of verb and tense formations.<br>• Little accurate language – there may be frequent minor errors<br>and some major errors.                                       |
+| 1    | 1            | • Limited and possibly repetitive vocabulary and structures are<br>used.<br>• Limited success in verb and tense formation.<br>• Limited accurate language – there may be frequent errors, both<br>major and minor.                            |
+| 0    | 0            | Response not worthy of credit.                                                                                                                                                                                                                |
 
 ### **Guidance on application of mark schemes**
 
 A mark of zero for AO2 will result in a mark of zero for AO3.
 
-{22}------------------------------------------------
+{23}------------------------------------------------
 
 ## **Assessment Grids for Task (b) (30 marks)**
 
@@ -595,44 +597,44 @@ A mark of zero for AO2 will result in a mark of zero for AO3.
 
 ## **Write up to a maximum of 130 words in Spanish**
 
-| Band | Marks [20] | AO2: Understand and respond to written language in writing. |  |  |
-|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| 5 | 17-20 | <ul><li>Examples provided are always relevant.</li><li>Ideas and opinions (as appropriate to the task) are clearly expressed and fully justified.</li><li>Communication is clear and consistently understandable.</li></ul> |  |  |
-| 4 | 13-16 | <ul><li>Examples provided are mostly relevant.</li><li>Ideas and opinions (as appropriate to the task) are expressed and justified.</li><li>Communication is understandable, an occasional message may be unclear.</li></ul> |  |  |
-| 3 | 9-12 | <ul><li>Examples provided are sometimes relevant.</li><li>Ideas and opinions (as appropriate to the task) are expressed with occasional justification.</li><li>Communication is mainly understandable, some messages may be unclear.</li></ul> |  |  |
-| 2 | 5-8 | <ul><li>Few examples are provided.</li><li>Some ideas and opinions (as appropriate to the task) are expressed.</li><li>Communication is sometimes understandable, the message sometimes breaks down.</li></ul> |  |  |
-| 1 | 1-4 | <ul><li>Minimal examples are provided.</li><li>Limited ideas and opinions (as appropriate to the task) are expressed.</li><li>Communication is rarely understandable.</li></ul> |  |  |
-| 0    | 0             | Response not worthy of credit.                                                                                                                                                                                                          |  |  |
+| Band | Marks<br>[20] | AO2: Understand and respond to written language in writing.                                                                                                                                                              |
+|------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5    | 17-20         | • Examples provided are always relevant.<br>• Ideas and opinions (as appropriate to the task) are clearly expressed and fully justified.<br>• Communication is clear and consistently understandable.                    |
+| 4    | 13-16         | • Examples provided are mostly relevant.<br>• Ideas and opinions (as appropriate to the task) are expressed and justified.<br>• Communication is understandable, an occasional message may be unclear.                   |
+| 3    | 9-12          | • Examples provided are sometimes relevant.<br>• Ideas and opinions (as appropriate to the task) are expressed with occasional justification.<br>• Communication is mainly understandable, some messages may be unclear. |
+| 2    | 5-8           | • Few examples are provided.<br>• Some ideas and opinions (as appropriate to the task) are expressed.<br>• Communication is sometimes understandable, the message sometimes breaks down.                                 |
+| 1    | 1-4           | • Minimal examples are provided.<br>• Limited ideas and opinions (as appropriate to the task) are expressed.<br>• Communication is rarely understandable.                                                                |
+| 0    | 0             | Response not worthy of credit.                                                                                                                                                                                           |
 
-{23}------------------------------------------------
+{24}------------------------------------------------
 
 #### **AO3: (10 marks for demonstration of grammar and vocabulary)**
 
-| Band | Marks [10] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification. |  |
-|------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 5 | 9-10 | <ul><li>A wide range of appropriate vocabulary and structures are used, with some complex language.</li><li>Highly successful use of verb and tense formations.</li><li>Language used is highly accurate – any errors are minor.</li></ul> |  |
-| 4 | 7-8 | <ul><li>A range of appropriate vocabulary and structures are used, with some complex language.</li><li>Mainly successful use of verb and tense formations.</li><li>Language is accurate – there may be some minor errors and very few major errors.</li></ul> |  |
-| 3 | 5-6 | <ul><li>Some appropriate vocabulary and structures are used, little complex language.</li><li>Generally successful use of verb and tense formations.</li><li>Some accurate language – there may be some minor and major errors.</li></ul> |  |
-| 2 | 3-4 | <ul><li>Basic vocabulary and structures are used.</li><li>Occasionally successful use of verb and tense formations.</li><li>Little accurate language – there may be frequent minor errors and some major errors.</li></ul> |  |
-| 1 | 1-2 | <ul><li>Limited and possibly repetitive vocabulary and structures are used.</li><li>Limited success in verb and tense formations.</li><li>Limited accurate language – there may be frequent errors, both major and minor.</li></ul> |  |
-| 0    | 0             | Response not worthy of credit.                                                                                                                                                                                                                            |  |
+| Band | Marks [10] | AO3: Demonstrate knowledge and accurate application of the grammar and vocabulary prescribed in the specification.                                                                                                        |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5    | 9-10       | A wide range of appropriate vocabulary and structures are used, with some complex language.Highly successful use of verb and tense formations.Language used is highly accurate – any errors are minor.                    |
+| 4    | 7-8        | A range of appropriate vocabulary and structures are used, with some complex language.Mainly successful use of verb and tense formations.Language is accurate – there may be some minor errors and very few major errors. |
+| 3    | 5-6        | Some appropriate vocabulary and structures are used, little complex language.Generally successful use of verb and tense formations.Some accurate language – there may be some minor and major errors.                     |
+| 2    | 3-4        | Basic vocabulary and structures are used.Occasionally successful use of verb and tense formations.Little accurate language – there may be frequent minor errors and some major errors.                                    |
+| 1    | 1-2        | Limited and possibly repetitive vocabulary and structures are used.Limited success in verb and tense formations.Limited accurate language – there may be frequent errors, both major and minor.                           |
+| 0    | 0          | Response not worthy of credit.                                                                                                                                                                                            |
 
 #### **Guidance on application of mark schemes**
 
 A mark of zero for AO2 will result in a mark of zero for AO3.
 
-{24}------------------------------------------------
+{25}------------------------------------------------
 
 ## Mapping of questions to assessment objectives
 
-| Task | Mark allocation |              |              |
-|------|-----------------|--------------|--------------|
-|  | Total Marks | AO2 Marks | AO3 Marks |
-|      | 45              | 30           | 15           |
+| Task           | Mark allocation |              |  |
+|----------------|-----------------|--------------|--|
+| Total<br>Marks | AO2<br>Marks    | AO3<br>Marks |  |
+| 45             | 30              | 15           |  |
 
 ![](_page_24_Picture_3.jpeg)
 
-{25}------------------------------------------------
+{26}------------------------------------------------
 
 ## Appendix – Guide to Controls
 
@@ -659,12 +661,11 @@ Unit 2 control the level of supervision is **Direct**. **Please note that this a
 
 Please see the controls in the table below:
 
-| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Direct | The use of resources is tightly prescribed. The centre must ensure that: <ul><li>all candidates are within direct sight of the supervisor throughout the session(s)</li><li>display materials which might provide assistance are removed or covered</li><li>there is no access to e-mail, the internet or mobile phones</li><li>candidates complete their work independently</li><li>interaction with other candidates does not occur</li><li>no assistance of any description is provided.</li><li>candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.</li></ul> |
-|  | Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
+| Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Direct | The use of resources is tightly prescribed.<br>The centre must ensure that:<br>all candidates are within direct sight of the supervisor throughout the session(s)display materials which might provide assistance are removed or coveredthere is no access to e-mail, the internet or mobile phonescandidates complete their work independentlyinteraction with other candidates does not occurno assistance of any description is provided.candidates' work must remain within the centre at all times and must be stored securely between timetabled sessions.Where direct supervision is specified, the centre must ensure that the JCQ No Mobile Phone poster and JCQ Warning to Candidates is displayed. |
 
-{26}------------------------------------------------
+{27}------------------------------------------------
 
 ## **Guidance**
 
@@ -672,17 +673,17 @@ Unit 2 control the level of guidance is **Not Permitted**.
 
 Please see the controls in the table below:
 
-| Category of Advice/Feedback:                                                                                                         | Not Permitted |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Review candidates' work and provide oral and written advice at a general level in order to secure a functional outcome. | x |
-| Evaluate progress to date and propose broad approaches for improvement. | x |
-| Provide detailed specific advice on how to improve drafts to meet assessment criteria. | x |
-| Give detailed feedback on errors and omissions which leave candidates with no opportunity to show initiative themselves. | x |
-| Intervene personally to improve the presentation or content of work. | x |
+| Category of Advice/Feedback:                                                                                                            | Not Permitted |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| Review candidates' work and provide oral and<br>written<br>advice at a <b>general</b> level in order to<br>secure a functional outcome. | x             |
+| Evaluate progress to date and propose broad<br>approaches for improvement.                                                              | x             |
+| Provide detailed specific advice on how to<br>improve<br>drafts to meet assessment criteria.                                            | x             |
+| Give detailed feedback on errors and omissions<br>which<br>leave candidates with no opportunity to<br>show<br>initiative themselves.    | x             |
+| Intervene personally to improve the<br>presentation or<br>content of work.                                                              | x             |
 
 N.B. In all levels of Guidance, teachers are permitted to intervene/advise on issues of safety.
 
-{27}------------------------------------------------
+{28}------------------------------------------------
 
 ## **Resources**
 
