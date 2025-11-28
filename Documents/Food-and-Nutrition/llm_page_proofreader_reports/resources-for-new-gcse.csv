@@ -1,0 +1,14 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,5,& Fibre,"- Macronutrients
+- Micronutrients
+- Water **& Fibre**",ErrorCategory.STYLISTIC_PREFERENCE,85,Ampersands are generally avoided in formal writing; 'and' should be used for clarity and professionalism.
+1,8,TGAL,"**TGAL**
+GCSE",ErrorCategory.SPELLING_ERROR,100,"The Welsh abbreviation for GCSE is 'TGAU', not 'TGAL'."
+2,8,KO19-20\_1-43,[https://resource.download.wjec.co.uk/vtc/2019-20/**KO19-20\_1-43**/food-spoilage.pdf](https://resource.download.wjec.co.uk/vtc/2019-20/KO19-20_1-43/food-spoilage.pdf),ErrorCategory.STYLISTIC_PREFERENCE,90,"The backslash character `\` is an unnecessary escape character in the markdown link text, which makes the displayed text appear incorrectly. It should be `KO19-20_1-43`."
+3,9,Factory -,BBC Two - [Inside the **Factory -**](https://www.bbc.co.uk/programmes/b07mddqk/episodes/player?page=2) Available now,ErrorCategory.STYLISTIC_PREFERENCE,85,The hyphen after 'Factory' is redundant and creates an awkward flow in the resource description. It should be removed for better readability.
+4,10,TGAL,"{10}------------------------------------------------
+
+**TGAL**
+GCSE",ErrorCategory.SPELLING_ERROR,98,"TGAL is a misspelling of TGAU, which is the standard Welsh acronym for GCSE."
+5,11,Years,Fideos coginio (14-16 **Years**) – Food A Fact Of Life,ErrorCategory.CONSISTENCY_ERROR,90,The word 'Years' is inconsistently capitalised here; it should be lowercase to match standard English usage and other age ranges in the document.
+6,12,a Maeth,[TGAU Bwyd](https://www.cbac.co.uk/cymwysterau/tgau-bwyd-a-maeth-dysgu-o-2025/#tab_keydocuments) **a Maeth**,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The phrase 'a Maeth' is intended to be part of the link text 'TGAU Bwyd a Maeth' but is incorrectly placed outside the markdown link syntax, creating a fragmented link description."

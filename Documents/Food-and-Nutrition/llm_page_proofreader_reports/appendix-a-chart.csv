@@ -1,0 +1,4 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,1,technique,| Complex Cooking **technique** *** | Medium Cooking technique ** | Basic cooking technique * |,ErrorCategory.CONSISTENCY_ERROR,95,"For consistency with the preceding table headers ('preparation techniques' and 'knife techniques'), 'technique' should be plural 'techniques'."
+1,1,technique,| Complex Cooking technique *** | Medium Cooking **technique** ** | Basic cooking technique * |,ErrorCategory.CONSISTENCY_ERROR,95,"For consistency with the preceding table headers ('preparation techniques' and 'knife techniques'), 'technique' should be plural 'techniques'."
+2,1,technique,| Complex Cooking technique *** | Medium Cooking technique ** | Basic cooking **technique** * |,ErrorCategory.CONSISTENCY_ERROR,95,"For consistency with the preceding table headers ('preparation techniques' and 'knife techniques'), 'technique' should be plural 'techniques'."

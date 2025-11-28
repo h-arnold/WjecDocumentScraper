@@ -1,0 +1,35 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,3,centre / Centre,"Set and marked by the **centre** corrected to Set by WJEC,<br>marked by **Centre**. Please note there are two instances of<br>this change (for Unit 2 and Unit 3)",ErrorCategory.CONSISTENCY_ERROR,95,Inconsistent capitalisation of 'centre' within the same amendment description. WJEC style typically uses lowercase 'centre' when referring to an educational institution.
+1,6,centre,"Unit 2: Food Investigation
+
+Non-examination assessment: 8 hours
+
+20% of qualification 
+
+**Marked by the **centre** and moderated by WJEC**
+
+**40 marks**
+
+Set by WJEC, marked by the Centre and moderated by WJEC.",ErrorCategory.CONSISTENCY_ERROR,90,"The term 'Centre' is inconsistently capitalised within the document; it should be consistently capitalised when referring to the examination centre, as seen in subsequent sentences."
+2,6,centre,"Unit 3: Food and Nutrition in Action Non-examination assessment: 12 hours 40% of qualification **Marked by the **centre** and moderated by WJEC**
+
+**80 marks**
+
+Set by WJEC, marked by the Centre and moderated by WJEC.",ErrorCategory.CONSISTENCY_ERROR,90,"The term 'Centre' is inconsistently capitalised within the document; it should be consistently capitalised when referring to the examination centre, as seen in subsequent sentences."
+3,8,i.e.,"An assessment pack: this contains the Sample Assessment Materials (SAMs) **i.e.** sample exam papers and sample NEA tasks, relevant controls for the NEA and mark schemes.",ErrorCategory.STYLISTIC_PREFERENCE,85,"In formal British English, 'i.e.' is typically followed by a comma for clarity, as recommended by style guides such as the Oxford English Dictionary."
+4,9,To choose something that has the same quality as something.,| Match/Link | **To choose something that has the same quality as something.** |  |  |,ErrorCategory.AMBIGUOUS_PHRASING,90,The definition for 'Match/Link' is vague and could be more precise for an assessment context. A clearer definition would specify the action of associating items based on a given criterion.
+5,10,components identify,Analyse | Separate information into **components identify** their characteristics.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,Missing a conjunction or punctuation between 'components' and 'identify' to form a grammatically correct sentence. It should be 'components and identify' or 'components; identify'.
+6,10,info,Consider | Review and respond to given **info**.,ErrorCategory.STYLISTIC_PREFERENCE,85,'Info' is an informal abbreviation for 'information' and should be avoided in formal educational documents.
+7,10,Support case,Justify | **Support case** with evidence.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,Missing an article before 'case'. It should be 'Support a case' or 'Support the case'.
+8,10,situation or issue,"Reflect | To consider thoughts, experiences, **situation or issue**.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,90,"Given the preceding plural nouns ('thoughts, experiences'), 'situation or issue' should also be plural ('situations or issues') for consistency and grammatical parallelism."
+9,13,fibre which,"- Wholewheat pasta contains more **fibre which** helps to promote regular bowel movements, supporting a healthy digestive system.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'which' when introducing a non-restrictive clause.
+10,13,wholegrain which contain,"- Wholewheat pasta is made from the **wholegrain which contain** bran, endosperm and germ – which contains essential nutrients that support blood sugar regulation/cardiovascular health.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The singular subject 'wholegrain' requires the singular verb 'contains', and a comma is needed before 'which' for a non-restrictive clause."
+11,13,germ – which,"- Wholewheat pasta is made from the wholegrain which contain bran, endosperm and **germ – which** contains essential nutrients that support blood sugar regulation/cardiovascular health.",ErrorCategory.STYLISTIC_PREFERENCE,80,A comma is generally preferred over a dash to introduce a non-restrictive clause in formal writing for clarity and flow.
+12,13,phosphorous,"- Wholewheat pasta is richer in minerals, for example, magnesium/**phosphorous**/ potassium/iron – which maintains overall health to support bone health/muscle function/nervous system function.",ErrorCategory.SPELLING_ERROR,95,"The correct British English spelling for the element is 'phosphorus', not 'phosphorous'."
+13,13,iron – which maintains,"- Wholewheat pasta is richer in minerals, for example, magnesium/phosphorous/ potassium/**iron – which maintains** overall health to support bone health/muscle function/nervous system function.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The verb 'maintains' should be 'maintain' to agree with the plural subject 'minerals', and a comma is needed before 'which' for a non-restrictive clause."
+14,13,vitamin B which,"- Wholewheat pasta is richer in **vitamin B which** maintains overall health to support healthy skin, hair, teeth and nails.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is required before 'which' when introducing a non-restrictive clause.
+15,13,which supports promoting,"- Wholewheat pasta provides insoluble fibre in the diet **which supports promoting** digestive health, preventing constipation promoting a healthy gastrointestinal tract.",ErrorCategory.STYLISTIC_PREFERENCE,85,The phrasing 'supports promoting' is awkward; 'which promotes' or 'which supports the promotion of' would be more concise and grammatically sound.
+16,13,constipation promoting,"- Wholewheat pasta provides insoluble fibre in the diet which supports promoting digestive health, preventing **constipation promoting** a healthy gastrointestinal tract.",ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A comma is needed to separate the two participial phrases 'preventing constipation' and 'promoting a healthy gastrointestinal tract'.
+17,13,which reduced,- Higher fibre intake is linked to lowering blood cholesterol **which reduced** the risk of heart disease.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,"The sentence describes a general truth, so the present tense verb 'reduces' is required, not the past tense 'reduced'."
+18,14,relationshipsincludes,highly effective analysis which identifies **relationshipsincludes** a through explanation of each aspect.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A space and a comma are missing between 'relationships' and 'includes'.
+19,14,relationshipsincludes,effective analysis which identifies **relationshipsincludes** a detailed explanation of each aspect.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,95,A space and a comma are missing between 'relationships' and 'includes'.

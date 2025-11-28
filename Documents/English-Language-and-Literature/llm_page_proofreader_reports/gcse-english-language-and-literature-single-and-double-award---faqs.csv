@@ -1,0 +1,5 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,2,are indicated,The choice of texts for Units 4a and 4b **are indicated** within the specification.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,"The subject 'choice' is singular, requiring the singular verb 'is' for subject-verb agreement."
+1,3,units,First entries for **units** 2 and 3 will be Summer 2026.,ErrorCategory.CONSISTENCY_ERROR,95,The term 'Units' is consistently capitalised throughout the document when referring to specific qualification units.
+2,3,units,"No, we are also offering a November series for the examined **units**.",ErrorCategory.CONSISTENCY_ERROR,95,The term 'Units' is consistently capitalised throughout the document when referring to specific qualification units.
+3,4,april,Please note that NEA briefs will not be published until the **April** before the year of entry.,ErrorCategory.ABSOLUTE_GRAMMATICAL_ERROR,98,Months of the year are proper nouns and should always be capitalised in British English.

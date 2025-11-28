@@ -1,0 +1,2 @@
+issue_id,page_number,issue,highlighted_context,error_category,confidence_score,reasoning
+0,1,Prose fiction List,Unit 2: **Prose fiction List**,ErrorCategory.STYLISTIC_PREFERENCE,85,"In titles and headings, major words are typically capitalised for consistency and readability; 'List' should be capitalised."
