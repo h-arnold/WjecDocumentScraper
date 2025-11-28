@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_1.jpeg)
 
@@ -8,7 +8,7 @@
 
 # FREQUENTLY ASKED QUESTIONS
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 # Resources
 
@@ -46,7 +46,7 @@ A: Some free resources of the suggested works are available. These will be detai
 
 A: We will provide ISBN numbers for all suggested works at the "Preparing to Teach" events.
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 # Unit 3
 
