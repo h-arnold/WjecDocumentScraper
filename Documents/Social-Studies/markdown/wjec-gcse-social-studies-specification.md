@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -20,11 +20,11 @@ Ready for the world. This Qualifications Wales regulated qualification is not av
 
 Made for Wales.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ![](_page_1_Picture_0.jpeg)
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -36,15 +36,15 @@ This specification meets the requirements of the following regulatory documents 
 
 © WJEC CBAC Limited 2025.
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 ## SUMMARY OF AMENDMENTS
 
 | Version | Description                                                                                    | Page number |
 |---------|------------------------------------------------------------------------------------------------|-------------|
-| 2 | 3.2.5 amended <ul><li>replaced Bleddyn Lake to Alex Griffiths</li><li>added 'y' to Zoe (Allen)</li></ul> | 26 |
+| 2       | 3.2.5 amended<br>•<br>replaced Bleddyn Lake to Alex Griffiths<br>•<br>added 'y' to Zoe (Allen) | 26          |
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
 #### **CONTENTS**
 
@@ -75,7 +75,7 @@ This specification meets the requirements of the following regulatory documents 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   | Αı | pendi  | x B: Concept coverage                            | 39 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |   |    |        |                                                  |    |
 
-{5}------------------------------------------------
+{6}------------------------------------------------
 
 ## GCSE SOCIAL STUDIES
 
@@ -133,7 +133,7 @@ The first award of the qualification will be 2028.
 
 Qualification Approval Number: C00/5167/4
 
-{6}------------------------------------------------
+{7}------------------------------------------------
 
 ## GCSE SOCIAL STUDIES
 
@@ -175,7 +175,7 @@ The GCSE Social Studies qualification will be based on the following concepts:
 - appreciating that social issues are complex and can be explained from various perspectives
 - understanding that societies change, what causes those changes and what we as members of society can do to promote change in our society through legal, non-violent social action.
 
-{7}------------------------------------------------
+{8}------------------------------------------------
 
 #### <span id="page-7-0"></span>1.2 Curriculum for Wales
 
@@ -209,7 +209,7 @@ The GCSE Social Studies qualification supports the Curriculum for Wales by:
 
 <span id="page-7-2"></span><sup>©</sup> WJEC CBAC Ltd 2025. <sup>2</sup> <https://hwb.gov.wales/curriculum-for-wales/humanities/designing-your-curriculum/#specific-considerations-for-this-area>
 
-{8}------------------------------------------------
+{9}------------------------------------------------
 
 #### <span id="page-8-0"></span>1.3 Prior learning and progression
 
@@ -237,7 +237,7 @@ Information on access arrangements and reasonable adjustments is found in the fo
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
 
-{9}------------------------------------------------
+{10}------------------------------------------------
 
 #### <span id="page-9-0"></span>2 SUBJECT CONTENT
 
@@ -272,7 +272,7 @@ The purpose of this unit is to explore:
 - social institutions and various levels of governance in Wales, the United Kingdom and the wider world that influence how societies function
 - social issues, examining how they are explained, measured and caused, the groups affected by them and their impact on individuals.
 
-{10}------------------------------------------------
+{11}------------------------------------------------
 
 #### **Areas of content**
 
@@ -287,19 +287,19 @@ The purpose of this unit is to explore:
 | 1.1.5                                                                                        | Understanding diversity in Wales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |  |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
 | Section                                                                                      | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |  |
-| 1.1.1 Understanding societies 1.1.2 Understanding and transforming data about | Learners should know what is meant by the terms: <ul><li>community</li><li>culture</li><li>intercultural</li><li>intracultural</li><li>norms</li><li>social cohesion</li><li>social control</li><li>social exclusion</li><li>society</li><li>subculture</li><li>values. Learners should understand types of societal variations found in societies, including:</li><li>collectivist vs individualistic</li><li>homogenous vs heterogenous/pluralistic</li><li>open vs closed. Learners should understand types of economic variations found in societies, including:</li><li>command economies</li><li>market economies</li><li>mixed economies</li><li>traditional economies. Learners should understand types of authority and governance found in societies, including:</li><li>democracies</li><li>monarchies</li><li>authoritarian/totalitarian</li><li>tribal/traditional. Learners should understand how to:</li><li>draw conclusions from quantitative and qualitative data on society</li></ul> |  |
-| society | <ul><li>identify patterns and trends in data on society</li><li>identify weaknesses in the presentation of data on society</li><li>interpret and extract information on a range of data sources on society.</li></ul> |  |
+| 1.1.1<br>Understanding<br>societies<br>1.1.2<br>Understanding and<br>transforming data about | Learners should know what is meant by the terms:<br>•<br>community<br>•<br>culture<br>•<br>intercultural<br>•<br>intracultural<br>•<br>norms<br>•<br>social cohesion<br>•<br>social control<br>•<br>social exclusion<br>•<br>society<br>•<br>subculture<br>•<br>values.<br>Learners should understand types of societal variations<br>found in societies, including:<br>•<br>collectivist vs individualistic<br>•<br>homogenous vs heterogenous/pluralistic<br>•<br>open vs closed.<br>Learners should understand types of<br>economic variations<br>found in societies,<br>including:<br>•<br>command economies<br>•<br>market economies<br>•<br>mixed economies<br>•<br>traditional economies.<br>Learners should understand<br>types of authority and<br>governance found in societies, including:<br>•<br>democracies<br>•<br>monarchies<br>•<br>authoritarian/totalitarian<br>•<br>tribal/traditional.<br>Learners should<br>understand how<br>to:<br>•<br>draw conclusions from quantitative and qualitative data<br>on society |  |
+| society                                                                                      | •<br>identify patterns and trends in data on society<br>•<br>identify weaknesses in the presentation of data on<br>society<br>•<br>interpret and extract information on a range of data<br>sources on society.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |  |
 |                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |  |
 
-{11}------------------------------------------------
-
-|  | Learners should understand how to calculate: <ul><li>mean</li><li>median</li><li>mode</li><li>percentages</li><li>range. Learners should understand how to construct appropriate graphs to transform data, using appropriate scales and labels, including:</li><li>bar charts</li><li>line graphs</li><li>pie charts (labelling only)</li><li>scatter graphs.</li></ul> |
-|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.1.3 Understanding sustainability in society | Learners should be aware of the: <ul><li>17 sustainable development goals in Transforming our world: the 2030 Agenda for Sustainable Development (United Nations, 2016)</li><li>aims of the Anti-Racist Wales Action plan (Welsh Government, 2022) 2024</li><li>seven goals of the Well-being of Future Generations (Wales) Act (Welsh Government, 2015). Learners should understand the aims of the three pillars of sustainability in society:</li><li>social</li><li>economic</li><li>environmental.</li></ul> |
-| 1.1.4 Understanding socialisation in society | Learners should know what is meant by the terms: <ul><li>socialisation</li><li>primary socialisation</li><li>secondary socialisation. Learners should understand how agents of socialisation work to pass on culture and identity to individuals, including:</li><li>family</li><li>education</li><li>peers</li><li>media. Learners should understand how socialisation techniques can be used by agents of socialisation to pass on culture and identity, including:</li><li>negative sanctions</li><li>positive sanctions</li><li>the use of role models.</li></ul> |
-| 1.1.5 Understanding diversity in Wales | Learners should know features of diversity in contemporary Wales, including: <ul><li>age</li><li>disability</li><li>education</li><li>employment</li><li>ethnicity</li></ul> |
-
 {12}------------------------------------------------
+
+|                                                        | Learners should understand how<br>to<br>calculate:<br>•<br>mean<br>•<br>median<br>•<br>mode<br>•<br>percentages<br>•<br>range.<br>Learners should understand how<br>to<br>construct appropriate<br>graphs to transform data, using appropriate scales and<br>labels, including:<br>•<br>bar charts<br>•<br>line graphs<br>•<br>pie charts (labelling only)<br>•<br>scatter graphs.                                                                                                                                                                                                        |
+|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1.3<br>Understanding<br>sustainability in<br>society | Learners should be aware of<br>the:<br>•<br>17 sustainable development goals<br>in Transforming our<br>world:<br>the<br>2030 Agenda for Sustainable Development<br>(United Nations, 2016)<br>•<br>aims<br>of the Anti-Racist Wales Action plan (Welsh<br>Government, 2022)<br>2024<br>•<br>seven<br>goals<br>of the Well-being of Future Generations<br>(Wales) Act (Welsh Government, 2015).<br>Learners should understand<br>the<br>aims of<br>the<br>three pillars<br>of<br>sustainability in society:<br>•<br>social<br>•<br>economic<br>•<br>environmental.                          |
+| 1.1.4<br>Understanding<br>socialisation in society     | Learners should know<br>what is meant by<br>the terms:<br>•<br>socialisation<br>•<br>primary socialisation<br>•<br>secondary socialisation.<br>Learners should understand<br>how agents of socialisation<br>work to pass on culture and identity to<br>individuals, including:<br>•<br>family<br>•<br>education<br>•<br>peers<br>•<br>media.<br>Learners should understand how socialisation techniques<br>can be used by agents of socialisation<br>to pass on culture<br>and identity, including:<br>•<br>negative sanctions<br>•<br>positive sanctions<br>•<br>the use of role models. |
+| 1.1.5<br>Understanding diversity in<br>Wales           | Learners should know features of diversity in contemporary<br>Wales, including:<br>•<br>age<br>•<br>disability<br>•<br>education<br>•<br>employment<br>•<br>ethnicity                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+{13}------------------------------------------------
 
 - gender identity
 - household
@@ -315,7 +315,7 @@ Learners should understand diversity in Wales, including:
 - patterns within contemporary Wales
 - trends within Wales over the last 100 years.
 
-{13}------------------------------------------------
+{14}------------------------------------------------
 
 #### **1.2 Political institutions, participation and rights and responsibilities of citizens in Wales and the World**
 
@@ -325,11 +325,11 @@ Learners should understand diversity in Wales, including:
 
 | Section                                           | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.2.1 Political institutions | Learners should understand the structure and function of the following institutions: <ul><li>unitary (local) authorities</li><li>Senedd Cymru</li><li>UK Parliament</li><li>North Atlantic Treaty Organisation (NATO)</li><li>United Nations (UN). They should further understand:</li><li>the connections between these institutions</li><li>how each of these institutions impact on the lives of the people of Wales.</li></ul> |
-| 1.2.2 Political participation opportunities | Learners should understand political participation opportunities, including: <ul><li>elections (local, Senedd Cymru, UK Parliament)</li><li>referenda</li><li>political parties</li><li>pressure groups</li><li>unions.</li></ul> |
-| 1.2.3 Rights and responsibilities | Learners should be aware of: <ul><li>the rights and responsibilities that are part of being an individual living in Wales</li><li>acts and agreements relating to human rights, including:</li><li>Universal Declaration of Human Rights (United Nations, 1948)</li><li>European Convention on Human Rights (Council of Europe, 1950)</li><li>Convention on the Rights of the Child (United Nations, 1989)</li><li>Human Rights Act (UK Parliament, 1998). Learners should understand the following rights and responsibilities of citizens in Wales, including:</li><li>right to life; responsibility: not to harm or endanger other people's lives</li><li>right to be protected from discrimination; responsibility: not to discriminate against each other</li><li>right to freedom of expression; responsibility: not to use hateful or derogatory language about an individual/group in society</li><li>right to education; responsibility: to attend school</li><li>right to privacy; responsibility: not to access, or make public, private information.</li></ul> |
+| 1.2.1<br>Political institutions                   | Learners should understand the structure and function of the<br>following institutions:<br>•<br>unitary (local) authorities<br>•<br>Senedd<br>Cymru<br>•<br>UK Parliament<br>•<br>North Atlantic Treaty Organisation (NATO)<br>•<br>United Nations (UN).<br>They should further understand:<br>•<br>the connections between these institutions<br>•<br>how<br>each of<br>these institutions impact on the lives of the<br>people of Wales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 1.2.2<br>Political participation<br>opportunities | Learners should understand political participation<br>opportunities, including:<br>•<br>elections<br>(local, Senedd Cymru, UK Parliament)<br>•<br>referenda<br>•<br>political parties<br>•<br>pressure groups<br>•<br>unions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 1.2.3<br>Rights and responsibilities              | Learners should be aware of:<br>•<br>the rights and responsibilities that are part of being an<br>individual living in Wales<br>•<br>acts and agreements relating to human rights, including:<br>•<br>Universal Declaration of Human Rights (United<br>Nations, 1948)<br>•<br>European Convention on Human Rights (Council of<br>Europe, 1950)<br>•<br>Convention on the Rights of the Child (United<br>Nations, 1989)<br>•<br>Human Rights Act (UK Parliament, 1998).<br>Learners should understand the following rights and<br>responsibilities of citizens in Wales, including:<br>•<br>right to life; responsibility: not to harm or endanger other<br>people's lives<br>•<br>right<br>to be protected<br>from discrimination; responsibility:<br>not to discriminate against each other<br>•<br>right to<br>freedom of expression; responsibility: not to use<br>hateful or derogatory language about an individual/group<br>in society<br>•<br>right to education; responsibility: to attend school<br>•<br>right to privacy; responsibility: not to access,<br>or make<br>public,<br>private information. |
 
-{14}------------------------------------------------
+{15}------------------------------------------------
 
 #### **1.3 Social issues in Wales and the World**
 
@@ -338,28 +338,28 @@ Learners should understand diversity in Wales, including:
 - 1.3.3 Digital exclusion
 - 1.3.4 Environmental inequality
 
-| 1.3.4 Environmental inequality |  |
+| 1.3.4<br>Environmental inequality |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Section                           | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 1.3.1 Social issues | Learners should understand the characteristics of social issues, including: <ul><li>deviation from the norms in society</li><li>possibility of different impacts on different individuals</li><li>recognised as being harmful to individuals, society or the physical world</li><li>solved through action, regulation or resources</li><li>possibility of an impact on equality</li></ul> |
-| 1.3.2 Homelessness | Learners should know: <ul><li>what is meant by the term 'homelessness'</li><li>the rate of homelessness in Wales. Learners should understand the causes of homelessness, including:</li><li>lack of affordable housing</li><li>unemployment</li><li>life events</li><li>mental health problems. Learners should understand the impact of homelessness on individuals, including:</li><li>mental health</li><li>physical health</li><li>safety</li><li>inability to access society. Learners should understand overrepresented characteristics in the homeless population, including:</li><li>age</li><li>disability</li><li>education</li><li>ethnicity</li><li>sexual orientation. Learners should understand difficulties faced when researching homelessness. Learners should understand the role of organisations in society that aim to reduce homelessness, including:</li><li>charities</li><li>local authorities</li></ul> |
-|  | <ul><li>Senedd Cymru.</li></ul> |
+| 1.3.1<br>Social issues            | Learners should understand the characteristics of social<br>issues, including:<br>•<br>deviation from the norms in society<br>•<br>possibility of<br>different impacts on different individuals<br>•<br>recognised as being<br>harmful to individuals, society or the<br>physical world<br>•<br>solved through action, regulation or resources<br>•<br>possibility of<br>an impact on equality                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 1.3.2<br>Homelessness             | Learners should know:<br>•<br>what is meant by the term 'homelessness'<br>•<br>the rate of homelessness in Wales.<br>Learners should understand<br>the causes of homelessness,<br>including:<br>•<br>lack of affordable housing<br>•<br>unemployment<br>•<br>life events<br>•<br>mental health<br>problems.<br>Learners should understand the impact of homelessness on<br>individuals, including:<br>•<br>mental health<br>•<br>physical health<br>•<br>safety<br>•<br>inability to access society.<br>Learners should understand overrepresented characteristics<br>in the<br>homeless<br>population, including:<br>•<br>age<br>•<br>disability<br>•<br>education<br>•<br>ethnicity<br>•<br>sexual orientation.<br>Learners should understand difficulties faced when<br>researching homelessness.<br>Learners should understand the role of organisations in<br>society that aim to reduce homelessness, including:<br>•<br>charities<br>•<br>local authorities |
+|                                   | •<br>Senedd Cymru.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-{15}------------------------------------------------
+{16}------------------------------------------------
 
-|  | Learners should understand homelessness in other societies, specifically Argentina and Norway, and how homelessness in these countries compares to Wales. |
+|                            | Learners should understand homelessness<br>in other<br>societies, specifically<br>Argentina<br>and Norway, and how<br>homelessness in these countries compares to Wales.                                                                                                                         |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.3.3 Digital exclusion | Learners should know: <ul><li>what is meant by the term 'digital exclusion'</li><li>the rate of digital exclusion in Wales.</li></ul> |
-|  | Learners should understand: <ul><li>the causes of digital exclusion, including:</li><li>access to broadband (infrastructure and cost)</li><li>concerns about online safety and security</li><li>disability</li><li>lack of digital skills.</li></ul> |
-|  | Learners should understand the impact of digital exclusion on individuals, including: <ul><li>communicating</li><li>employability</li><li>managing information</li><li>transactions (shopping and services).</li></ul> |
-|  | Learners should understand overrepresented characteristics in the digitally excluded population, including: <ul><li>age</li><li>disability</li><li>ethnicity</li><li>economic activity status</li><li>living in rural areas</li><li>users for whom English is not their first language.</li></ul> |
-|  | Learners should understand difficulties faced when researching digital exclusion. |
-|  | Learners should understand the role of organisations in society that aim to reduce digital exclusion, including: <ul><li>charities</li><li>Senedd Cymru</li><li>telecommunications companies.</li></ul> |
-|  | Learners should understand digital exclusion in other |
+| 1.3.3<br>Digital exclusion | Learners should know:<br>•<br>what is meant by the term 'digital exclusion'<br>•<br>the rate of digital exclusion in Wales.                                                                                                                                                                      |
+|                            | Learners should understand:<br>•<br>the causes of digital exclusion, including:<br>•<br>access to broadband (infrastructure and cost)<br>•<br>concerns about online safety and security<br>•<br>disability<br>•<br>lack of digital skills.                                                       |
+|                            | Learners should understand<br>the impact of digital exclusion<br>on individuals, including:<br>•<br>communicating<br>•<br>employability<br>•<br>managing information<br>•<br>transactions (shopping and services).                                                                               |
+|                            | Learners should understand<br>overrepresented characteristics<br>in the<br>digitally excluded population, including:<br>•<br>age<br>•<br>disability<br>•<br>ethnicity<br>•<br>economic activity status<br>•<br>living in rural areas<br>•<br>users for whom English is not their first language. |
+|                            | Learners should understand<br>difficulties faced when<br>researching digital exclusion.                                                                                                                                                                                                          |
+|                            | Learners should understand<br>the role of organisations in<br>society that aim to reduce digital exclusion, including:<br>•<br>charities<br>•<br>Senedd Cymru<br>•<br>telecommunications companies.                                                                                              |
+|                            | Learners should understand<br>digital exclusion<br>in other                                                                                                                                                                                                                                      |
 
 societies, specifically South Africa and South Korea, and how digital exclusion in these countries compares to Wales.
 
-{16}------------------------------------------------
+{17}------------------------------------------------
 
 #### 1.3.4
 
@@ -400,7 +400,7 @@ Learners should understand the role of organisations in society that aim to redu
 
 Learners should understand environmental inequality in other societies, specifically the Democratic Republic of the Congo (DRC) and Germany, and how environmental inequality in these countries compares to Wales.
 
-{17}------------------------------------------------
+{18}------------------------------------------------
 
 #### <span id="page-17-0"></span>Unit 2
 
@@ -427,10 +427,10 @@ The purpose of this unit is to:
 
 | Section                                          | Amplification                                                                                                                                                                                                                                                                                                      |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2.1.1 Understanding sources | Learners should know the features of different sources, such as: <ul><li>quantitative</li><li>qualitative</li><li>factual</li><li>opinion</li><li>formal</li><li>informal</li><li>persuasive. Learners should be able to summarise the main points raised about a social issue from a variety of sources.</li></ul> |
-| 2.1.2 Assessing the credibility of sources | Learners should be able to assess the credibility of sources, considering aspects such as: <ul><li>accuracy</li><li>authority of author</li><li>currency</li><li>potential bias</li><li>purpose.</li></ul> |
+| 2.1.1<br>Understanding sources                   | Learners should know the features of different sources, such<br>as:<br>•<br>quantitative<br>•<br>qualitative<br>•<br>factual<br>•<br>opinion<br>•<br>formal<br>•<br>informal<br>•<br>persuasive.<br>Learners should be able to summarise the main points<br>raised about a social issue from a variety of sources. |
+| 2.1.2<br>Assessing the credibility of<br>sources | Learners should<br>be able to<br>assess the credibility of sources,<br>considering aspects such as:<br>•<br>accuracy<br>•<br>authority of author<br>•<br>currency<br>•<br>potential bias<br>•<br>purpose.                                                                                                          |
 
-{18}------------------------------------------------
+{19}------------------------------------------------
 
 #### **2.2 Researching social issues**
 
@@ -441,14 +441,14 @@ The purpose of this unit is to:
 
 | Section                                            | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |  |  |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| 2.2.1 Methods of investigating social issues | Learners should be able to select and explain their use of methods to conduct research into social issues, including: <ul><li>interviews (structured, semi-structured, unstructured)</li><li>overt observation (participant or non-participant)</li><li>questionnaires. Learners should understand the strengths and weaknesses of the above methods of investigating social issues.</li></ul> |  |  |
-| 2.2.2 Data collection devices | Learners should be able to create an appropriate data collection device, including: <ul><li>questionnaires</li><li>closed (direct) questions</li><li>open (indirect) questions</li><li>rating or Likert scale questions</li><li>interviews</li><li>direct (closed) questions</li><li>indirect (open) questions</li><li>follow-up questions</li><li>probing questions</li><li>overt observations</li><li>behaviour categories/checklist</li><li>sampling schedules (time point, time interval, event).</li></ul> |  |  |
-|  | Learners should understand the strengths and weaknesses of the above data collection devices. |  |  |
-| 2.2.3 Sampling | Learners should understand the importance of obtaining representative samples. Learners should be able to select and use appropriate |  |  |
-|  | sampling techniques, including: <ul><li>opportunity</li><li>random</li><li>snowball</li><li>volunteer</li><li>quota.</li></ul> |  |  |
-|  | Learners should be able to select and justify: <ul><li>sample size</li><li>sample characteristics</li><li>sampling technique.</li></ul> |  |  |
+| 2.2.1<br>Methods of investigating<br>social issues | Learners should be able to select and explain their use of<br>methods to conduct research into social issues, including:<br>•<br>interviews (structured, semi-structured, unstructured)<br>•<br>overt observation (participant or non-participant)<br>•<br>questionnaires.<br>Learners should understand the strengths and weaknesses<br>of the above methods of investigating social issues.                                                                                                                  |  |  |
+| 2.2.2<br>Data collection devices                   | Learners should<br>be able to create an appropriate data<br>collection device, including:<br>•<br>questionnaires<br>•<br>closed (direct) questions<br>•<br>open (indirect) questions<br>•<br>rating or Likert<br>scale questions<br>•<br>interviews<br>•<br>direct (closed) questions<br>•<br>indirect (open) questions<br>•<br>follow-up questions<br>•<br>probing questions<br>•<br>overt observations<br>•<br>behaviour categories/checklist<br>•<br>sampling schedules (time point, time interval, event). |  |  |
+|                                                    | Learners should understand the strengths and weaknesses<br>of the above data collection devices.                                                                                                                                                                                                                                                                                                                                                                                                               |  |  |
+| 2.2.3<br>Sampling                                  | Learners should understand the importance of obtaining<br>representative samples.<br>Learners should be able to select and use appropriate                                                                                                                                                                                                                                                                                                                                                                     |  |  |
+|                                                    | sampling techniques, including:<br>•<br>opportunity<br>•<br>random<br>•<br>snowball<br>•<br>volunteer<br>•<br>quota.                                                                                                                                                                                                                                                                                                                                                                                           |  |  |
+|                                                    | Learners should be able to select and justify:<br>•<br>sample size<br>•<br>sample characteristics<br>•<br>sampling technique.                                                                                                                                                                                                                                                                                                                                                                                  |  |  |
 
-{19}------------------------------------------------
+{20}------------------------------------------------
 
 #### 2.2.4
 
@@ -468,7 +468,7 @@ The purpose of this unit is to:
 - use strategies to address ethical issues in their research
 - recognise what safety risks need consideration when conducting research and suggest strategies that will reduce these risks.
 
-{20}------------------------------------------------
+{21}------------------------------------------------
 
 #### **2.3 Communicating social issues**
 
@@ -477,10 +477,10 @@ The purpose of this unit is to:
 
 | Section                                                                         | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2.3.1 Displaying data about a social issue | Learners should be able to: <ul><li>undertake calculations on raw data, for example:</li><li>mean</li><li>median</li><li>mode</li><li>percentages</li><li>range</li><li>select appropriate methods of displaying data based on the nature of the data collected, for example:</li><li>quantitative or qualitative data</li><li>categories or continuous</li><li>correlation or difference</li><li>create examples of appropriate methods of displaying data, for example:</li><li>bar charts</li><li>histograms</li><li>infographics</li><li>line graphs</li><li>pie charts</li><li>scatter graphs</li><li>word clouds</li><li>draw conclusions from displayed data.</li></ul> |
-| 2.3.2 Creating an artefact to communicate data about a social issue | Learners should be able to: <ul><li>create an artefact to communicate information gained from sources and primary data collection, for example:</li><li>an email</li><li>an online article/blog post</li><li>a research poster</li><li>a speech</li><li>ensure the artefact:</li><li>follows an appropriate format</li><li>features effective communication</li><li>reflects the given sources</li><li>reflects the primary data collection.</li></ul> |
+| 2.3.1<br>Displaying data<br>about a<br>social issue                             | Learners should be able to:<br>•<br>undertake calculations on raw data, for example:<br>•<br>mean<br>•<br>median<br>•<br>mode<br>•<br>percentages<br>•<br>range<br>•<br>select appropriate<br>methods of displaying data based on<br>the nature of the data collected, for example:<br>•<br>quantitative or qualitative data<br>•<br>categories or continuous<br>•<br>correlation or difference<br>•<br>create examples of appropriate methods of displaying<br>data, for example:<br>•<br>bar charts<br>•<br>histograms<br>•<br>infographics<br>•<br>line graphs<br>•<br>pie charts<br>•<br>scatter graphs<br>•<br>word clouds<br>•<br>draw conclusions from displayed data. |
+| 2.3.2<br>Creating an artefact<br>to<br>communicate data about a<br>social issue | Learners should be able to:<br>•<br>create an artefact<br>to communicate<br>information gained<br>from sources and primary data collection, for example:<br>•<br>an email<br>•<br>an online<br>article/blog post<br>•<br>a research poster<br>•<br>a speech<br>•<br>ensure the artefact:<br>•<br>follows an appropriate format<br>•<br>features effective communication<br>•<br>reflects the given sources<br>•<br>reflects the primary data collection.                                                                                                                                                                                                                      |
 
-{21}------------------------------------------------
+{22}------------------------------------------------
 
 #### <span id="page-21-0"></span>Unit 3
 
@@ -510,16 +510,16 @@ The purpose of this unit is to explore:
 - 3.1.5 Impacts of social change
 - 3.1.6 Globalisation as an overarching example of social change around the world
 
-| 3.1.6 Globalisation as an overarching example of social change around the world |  |
+| 3.1.6<br>Globalisation as an overarching example of<br>social change<br>around the world |                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Section                                                                                  | Amplification                                                                                                                                                                                                                   |
-| 3.1.1 Exploring data on changing societies | Learners should understand how to use a range of raw data/count sources that show changes in societies. |
-|  | Learners should understand how to: <ul><li>draw conclusions from quantitative and qualitative data about the changes in societies</li><li>identify patterns and trends in data about the changes in societies</li></ul> |
-|  | <ul><li>identify weaknesses in the presentation of data about the changes in societies</li><li>interpret and extract information about changes in societies.</li></ul> |
-|  | Learners will need to use the learning from section 1.1.2: Understanding and transforming data about society to explore data on changing societies effectively. |
-| 3.1.2 Different types of society | Learners should understand the features of different types of societies, including: <ul><li>hunter-gatherer</li><li>feudal</li><li>industrialist</li><li>post industrialist.</li></ul> |
+| 3.1.1<br>Exploring data on changing<br>societies                                         | Learners should understand how to use a range of raw<br>data/count sources that show<br>changes<br>in societies.                                                                                                                |
+|                                                                                          | Learners should understand how to:<br>•<br>draw conclusions from quantitative and qualitative data<br>about the<br>changes<br>in societies<br>•<br>identify patterns and trends in data about the<br>changes<br>in<br>societies |
+|                                                                                          | •<br>identify weaknesses in the presentation of data about<br>the<br>changes<br>in societies<br>•<br>interpret and extract information about<br>changes<br>in<br>societies.                                                     |
+|                                                                                          | Learners will need to use the learning from section 1.1.2:<br>Understanding and transforming data<br>about society<br>to<br>explore data on changing societies effectively.                                                     |
+| 3.1.2<br>Different types<br>of society                                                   | Learners should<br>understand the features<br>of different types of<br>societies, including:<br>•<br>hunter-gatherer<br>•<br>feudal<br>•<br>industrialist<br>•<br>post industrialist.                                           |
 
-{22}------------------------------------------------
+{23}------------------------------------------------
 
 #### 3.1.3
 
@@ -583,7 +583,7 @@ Learners should understand how economic factors contribute to social change, inc
 - cost of living/inflation
 - employment rates
 
-{23}------------------------------------------------
+{24}------------------------------------------------
 
 • wealth distribution.
 
@@ -643,7 +643,7 @@ Learners should understand economic factors that help and hinder globalisation, 
 - containerisation; transnational corporations
 - tariffs; sanctions.
 
-{24}------------------------------------------------
+{25}------------------------------------------------
 
 Learners should understand environmental factors that help and hinder globalisation, including:
 
@@ -662,7 +662,7 @@ Learners should understand technological factors that help and hinder globalisat
 
 Learners should be aware of examples from Wales, the UK or the wider world that illustrate the factors above.
 
-{25}------------------------------------------------
+{26}------------------------------------------------
 
 #### **3.2 Social movements**
 
@@ -674,22 +674,22 @@ Learners should be aware of examples from Wales, the UK or the wider world that 
 
 | Section                                                                    | Amplification                                                                                                                                                                                                                                                                                |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3.2.1 Characteristics of social movements | Learners should be aware of the history of social movements as a means of social change. Learners should know what is meant by the term 'social movement'. |
-|  | Learners should understand characteristics of a social movement, including: <ul><li>bottom-up</li><li>coordination of activities</li><li>collective faith in social change</li><li>commitment to a 'common goal'</li><li>semiformal structure</li><li>conservative or innovative.</li></ul> |
-| 3.2.2 Aberle's categorisation of social movements | Learners should understand Aberle's categorisation of social movements, including the 'who' and 'how much' categorisation of: <ul><li>alternative social movements</li><li>redemptive social movements</li><li>reformative social movements</li><li>revolutionary social movements.</li></ul> |
-| 3.2.3 Stages in social movements | Learners should understand stages of social movements, including: <ul><li>preliminary</li><li>coalescence</li><li>institutionalization</li><li>decline.</li></ul> |
-| 3.2.4 The impact of social movements in creating social change | Learners should know about the social change sought by social movements, including the: <ul><li>anti-apartheid movement</li><li>environmental movement</li><li>feminist (also known as Women's Liberation) movement LGBTQIA+3 movement</li><li>Welsh language movement.</li></ul> |
-|  | Learners should understand the impact of social movements, including the: <ul><li>anti-apartheid movement</li><li>environmental movement</li><li>feminist (also known as Women's Liberation) movement</li></ul> |
+| 3.2.1<br>Characteristics of social<br>movements                            | Learners should be aware of the history of social<br>movements as a means of social change.<br>Learners should know<br>what is meant by the term 'social<br>movement'.                                                                                                                       |
+|                                                                            | Learners should understand characteristics of a social<br>movement, including:<br>•<br>bottom-up<br>•<br>coordination of activities<br>•<br>collective faith in social change<br>•<br>commitment to a 'common goal'<br>•<br>semiformal structure<br>•<br>conservative<br>or innovative.      |
+| 3.2.2<br>Aberle's categorisation of<br>social movements                    | Learners should<br>understand Aberle's categorisation of social<br>movements, including the 'who' and 'how much'<br>categorisation of:<br>•<br>alternative social movements<br>•<br>redemptive social movements<br>•<br>reformative social movements<br>•<br>revolutionary social movements. |
+| 3.2.3<br>Stages in social<br>movements                                     | Learners should understand stages of social movements,<br>including:<br>•<br>preliminary<br>•<br>coalescence<br>•<br>institutionalization<br>•<br>decline.                                                                                                                                   |
+| 3.2.4<br>The impact<br>of social<br>movements in creating<br>social change | Learners should know about the social change sought by<br>social movements, including the:<br>•<br>anti-apartheid movement<br>•<br>environmental movement<br>•<br>feminist (also known as Women's Liberation) movement<br>LGBTQIA+3 movement<br>•<br>•<br>Welsh language movement.           |
+|                                                                            | Learners should understand the impact<br>of social<br>movements, including the:<br>•<br>anti-apartheid movement<br>•<br>environmental movement<br>•<br>feminist (also known as Women's Liberation) movement                                                                                  |
 
 <span id="page-25-0"></span><sup>©</sup> WJEC CBAC Ltd 2025. <sup>3</sup> Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex, and Asexual/Agender/Aromantic. The "+" represents the many other identities that may be part of the community, such as pansexual, non-binary, gender fluid, and allies.
 
-{26}------------------------------------------------
-
-|  | <ul><li>LGBTQIA+ movement</li><li>Welsh language movement.</li></ul> |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3.2.5 Social change makers | Learners should know of the aim, actions and impact of social changemakers from Wales, including: <ul><li>Hanef Bhamjee (anti-apartheid movement)</li><li>Alex Griffiths (environmental movement)</li><li>Zoey Allen (LGBTQIA+ movement)</li><li>Margaret Haig-Thomas (feminist movement)</li><li>Eileen and Trefor Beasley (Welsh language movement).</li></ul> |
-
 {27}------------------------------------------------
+
+|                               | •<br>LGBTQIA+ movement<br>•<br>Welsh language movement.                                                                                                                                                                                                                                                                                                               |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3.2.5<br>Social change makers | Learners should know of the aim, actions and impact of<br>social changemakers from Wales, including:<br>•<br>Hanef Bhamjee (anti-apartheid movement)<br>•<br>Alex Griffiths<br>(environmental movement)<br>•<br>Zoey<br>Allen<br>(LGBTQIA+ movement)<br>•<br>Margaret Haig-Thomas<br>(feminist movement)<br>•<br>Eileen and Trefor Beasley (Welsh language movement). |
+
+{28}------------------------------------------------
 
 #### <span id="page-27-0"></span>Unit 4
 
@@ -719,14 +719,14 @@ The purpose of this unit is to:
 
 | Section                                 | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |  |  |  |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| 4.1.1 Understanding social action | Learners should understand: <ul><li>what is meant by the term 'social action', including:</li><li>creating positive change in communities</li><li>not for profit</li><li>practical action undertaken by individuals or groups of people. Learners should be able to propose a social issue that requires social action by considering:</li><li>secondary sources that are fully referenced</li><li>the impact of the issue on a community</li><li>the desired change that could be brought about by social action.</li></ul> |  |  |  |
-| 4.1.2 Methods of social action | Learners should understand legal and non-violent methods of social action including: <ul><li>arts and music (such as theatre productions)</li><li>economic activism (such as boycotting goods and services)</li><li>fundraising (such as organising charity events)</li><li>individual activities (such as volunteering)</li><li>peaceful protest (such as marches)</li><li>petitioning (such as creating online petitions)</li></ul> |  |  |  |
+| 4.1.1<br>Understanding social<br>action | Learners should understand:<br>•<br>what is meant by the term 'social action', including:<br>•<br>creating positive change in communities<br>•<br>not for profit<br>•<br>practical action undertaken by individuals or groups<br>of people.<br>Learners should be able to propose a social issue that<br>requires social action by considering:<br>•<br>secondary sources that are fully referenced<br>•<br>the impact of the issue on a community<br>•<br>the desired change that could be brought<br>about by social<br>action. |  |  |  |
+| 4.1.2<br>Methods of social action       | Learners should<br>understand legal and non-violent methods<br>of social action including:<br>•<br>arts and music (such as theatre productions)<br>•<br>economic activism (such as boycotting goods and<br>services)<br>•<br>fundraising (such as organising charity events)<br>•<br>individual activities (such as volunteering)<br>•<br>peaceful protest (such as marches)<br>•<br>petitioning (such as creating online petitions)                                                                                              |  |  |  |
 
-{28}------------------------------------------------
+{29}------------------------------------------------
 
-|  | <ul><li>political action (such as contacting elected representative)</li><li>social media (such as producing and sharing content)</li><li>writing and publishing (such as writing blog posts).</li></ul> |
+|                                                 | •<br>political action (such as contacting elected<br>representative)<br>•<br>social media (such as producing and sharing content)<br>•<br>writing and publishing (such as writing blog posts).                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4.1.3 Evaluating methods of social action | Learners should be able to: <ul><li>evaluate methods of social action for specific social issues using different criteria, such as:</li><li>accessibility for different groups in society</li><li>cost</li><li>ease of implementation and of measuring impact</li><li>likely impact on different groups in society</li><li>longevity</li><li>suitability for different social issues</li><li>time to implement.</li><li>select and justify an appropriate method of social action for a specific social issue by considering:</li><li>the most valid action for the issue</li><li>their individual strengths and skills.</li></ul> |
+| 4.1.3<br>Evaluating methods of<br>social action | Learners should be able to:<br>•<br>evaluate methods of social action for specific social<br>issues using different criteria, such as:<br>•<br>accessibility for different groups in society<br>•<br>cost<br>•<br>ease of implementation<br>and of measuring impact<br>•<br>likely impact on different groups in society<br>•<br>longevity<br>•<br>suitability for different social issues<br>•<br>time to implement.<br>•<br>select and justify an appropriate method of social action<br>for a specific social issue by considering:<br>•<br>the most valid action for the issue<br>•<br>their individual strengths and skills. |
 
 #### **4.2 Planning for social action**
 
@@ -734,9 +734,9 @@ In this topic learners will gain knowledge, understanding and skills in the foll
 
 | Section                                   | Amplification                                                                                                                                                                                                                                            |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4.2.1 Creating a social action plan | Learners should be able to create a social action plan, by considering: <ul><li>aims and goals</li><li>tools and resources required</li><li>budget</li><li>key stakeholders, supporters and volunteers</li><li>a plan of the key actions required.</li></ul> |
+| 4.2.1<br>Creating a social action<br>plan | Learners should be able to create a social action plan, by<br>considering:<br>•<br>aims and goals<br>•<br>tools and resources required<br>•<br>budget<br>•<br>key stakeholders,<br>supporters and volunteers<br>•<br>a plan of the key actions required. |
 
-{29}------------------------------------------------
+{30}------------------------------------------------
 
 #### **4.3 Analysing the effectiveness of social action**
 
@@ -745,10 +745,10 @@ In this topic learners will gain knowledge, understanding and skills in the foll
 
 | Section                                                                             | Amplification                                                                                                                                                                                                                                                                                                                                         |  |  |  |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| 4.3.1 Gathering feedback on a planned social action | Learners should understand different methods of gathering feedback, such as: <ul><li>questionnaires</li><li>interviews</li><li>focus groups. Learners should be able to:</li><li>select an appropriate method of gathering feedback on a planned social action</li><li>collect appropriate data</li><li>display data in appropriate formats.</li></ul> |  |  |  |
-| 4.3.2 Drawing conclusions about the effectiveness of planned social action | Learners should be able to: <ul><li>analyse data from feedback on planned methods of social action</li><li>make reasoned judgements on the effectiveness of planned methods of social action based on the data analysed</li><li>propose changes needed to the social action plan.</li></ul> |  |  |  |
+| 4.3.1<br>Gathering feedback on a<br>planned social action                           | Learners should understand different methods of gathering<br>feedback, such as:<br>•<br>questionnaires<br>•<br>interviews<br>•<br>focus groups.<br>Learners should be able to:<br>•<br>select an appropriate method of gathering feedback on a<br>planned social action<br>•<br>collect appropriate data<br>•<br>display data in appropriate formats. |  |  |  |
+| 4.3.2<br>Drawing conclusions about<br>the effectiveness of<br>planned social action | Learners should be able to:<br>•<br>analyse data from feedback on planned methods of<br>social action<br>•<br>make reasoned judgements on the effectiveness of<br>planned methods of social action based on the data<br>analysed<br>•<br>propose changes needed to the social action plan.                                                            |  |  |  |
 
-{30}------------------------------------------------
+{31}------------------------------------------------
 
 #### <span id="page-30-0"></span>Opportunities for integration of learning experiences
 
@@ -763,7 +763,7 @@ The Guidance for Teaching will include further information on the opportunities 
 
 For opportunities to develop cross-cutting themes, cross-curricular skills and integral skills please see Appendix A.
 
-{31}------------------------------------------------
+{32}------------------------------------------------
 
 #### <span id="page-31-0"></span>3 ASSESSMENT
 
@@ -797,9 +797,9 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 2               | -   | 4%  | 4%  | 12% | 20%   |
 | Unit 3               | 10% | 10% | 10% | -   | 30%   |
 | Unit 4               | -   | 0%  | 6%  | 14% | 20%   |
-| Overall weighting | 25% | 24% | 25% | 26% | 100% |
+| Overall<br>weighting | 25% | 24% | 25% | 26% | 100%  |
 
-{32}------------------------------------------------
+{33}------------------------------------------------
 
 #### <span id="page-32-0"></span>3.2 Arrangements for non-examination assessment
 
@@ -821,7 +821,7 @@ This assessment contributes to 20% of the overall qualification grade and will t
 
 This unit will be assessed through an externally set assignment and will be marked by the centre and moderated by WJEC. Assessments must be submitted digitally (they may be handwritten and scanned or completed digitally).
 
-{33}------------------------------------------------
+{34}------------------------------------------------
 
 #### <span id="page-33-0"></span>4 MALPRACTICE
 
@@ -833,7 +833,7 @@ All cases of suspected or actual malpractice must be reported immediately to WJE
 
 In all cases of malpractice, centres are advised to consult the JCQ booklet [Suspected](https://www.jcq.org.uk/exams-office/malpractice)  [Malpractice: Policies and Procedures.](https://www.jcq.org.uk/exams-office/malpractice)
 
-{34}------------------------------------------------
+{35}------------------------------------------------
 
 #### <span id="page-34-0"></span>5 TECHNICAL INFORMATION
 
@@ -867,7 +867,7 @@ There is no limit on the number of times a candidate can resit an individual uni
 
 The 'fresh start' rule does not apply to post-16 candidates.
 
-{35}------------------------------------------------
+{36}------------------------------------------------
 
 If a candidate has been entered for but is absent for a unit, the absence does not count as an attempt. The candidate would, however, qualify as a resit candidate in the final resit series.
 
@@ -877,10 +877,10 @@ The entry codes appear below.
 
 |        |                                            | Entry codes       |              |  |
 |--------|--------------------------------------------|-------------------|--------------|--|
-|  |  | English medium | Welsh medium |  |
+|        |                                            | English<br>medium | Welsh medium |  |
 | Unit 1 | Society and Social Issues                  | 3170U1            | 3170N1       |  |
-| Unit 2 | Investigating Society and Social Issues | 3170U2 | 3170N2 |  |
-| Unit 3 | Social Change in Contemporary Society | 3170U3 | 3170N3 |  |
+| Unit 2 | Investigating Society and Social<br>Issues | 3170U2            | 3170N2       |  |
+| Unit 3 | Social Change in Contemporary<br>Society   | 3170U3            | 3170N3       |  |
 | Unit 4 | Planning to Effect Social Change           | 3170U4            | 3170N4       |  |
 |        | WJEC GCSE Social Studies                   | 3170QS            | 3170CS       |  |
 
@@ -898,9 +898,9 @@ Individual unit results are reported on a uniform mark scale (UMS) with the foll
 | Unit 2           | 80   | 72  | 64  | 56  | 48  | 40  | 32  | 24  | 16 |
 | Unit 3           | 120  | 108 | 96  | 84  | 72  | 60  | 48  | 36  | 24 |
 | Unit 4           | 80   | 72  | 64  | 56  | 48  | 40  | 32  | 24  | 16 |
-| Subject Award | 400 | 360 | 320 | 280 | 240 | 200 | 160 | 120 | 80 |
+| Subject<br>Award | 400  | 360 | 320 | 280 | 240 | 200 | 160 | 120 | 80 |
 
-{36}------------------------------------------------
+{37}------------------------------------------------
 
 #### Appendix A: Opportunities for embedding elements of the Curriculum for Wales
 
@@ -909,34 +909,34 @@ Individual unit results are reported on a uniform mark scale (UMS) with the foll
 | Curriculum for Wales Strands                                                    | Unit 1               | Unit 2 | Unit 3 | Unit 4 |  |  |  |  |
 |---------------------------------------------------------------------------------|----------------------|--------|--------|--------|--|--|--|--|
 |                                                                                 | Cross-cutting Themes |        |        |        |  |  |  |  |
-| Local, National and International Contexts | ✓ | ✓ | ✓ | ✓ |  |  |  |  |
-| Sustainability aspect of Local, National and International Contexts | ✓ | ✓ | ✓ | ✓ |  |  |  |  |
-| Relationships and Sexuality Education | ✓ | ✓ | ✓ | ✓ |  |  |  |  |
+| Local, National and<br>International<br>Contexts                                | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
+| Sustainability<br>aspect of Local,<br>National and<br>International<br>Contexts | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
+| Relationships and Sexuality<br>Education                                        | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 | Diversity                                                                       | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 | Human Rights Education                                                          | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
-| Careers and Work-Related Experiences | ✓ | ✓ | ✓ | ✓ |  |  |  |  |
-| Cross-curricular Skills - Literacy |  |  |  |  |  |  |  |  |
+| Careers and Work-Related<br>Experiences                                         | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
+| Cross-curricular Skills -<br>Literacy                                           |                      |        |        |        |  |  |  |  |
 | Listening                                                                       | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 | Reading                                                                         | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 | Speaking                                                                        | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 | Writing                                                                         | ✓                    | ✓      | ✓      | ✓      |  |  |  |  |
 
-{37}------------------------------------------------
+{38}------------------------------------------------
 
 | Curriculum for Wales Strands                                                                                                                         | Unit 1 | Unit 2 | Unit 3 | Unit 4 |  |  |  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|--------|--------|--|--|--|
-| Cross-curricular Skills - Numeracy |  |  |  |  |  |  |  |
-| Developing Mathematical Proficiency | ✓ | ✓ | ✓ | ✓ |  |  |  |
-| Understanding the number system helps us to represent and compare relationships between numbers and quantities | ✓ | ✓ | ✓ | ✓ |  |  |  |
-| Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world | ✓ |  | ✓ |  |  |  |  |
-| Learning that statistics represent data and that probability models chance help us make informed inferences and decisions | ✓ | ✓ | ✓ | ✓ |  |  |  |
+| Cross-curricular Skills -<br>Numeracy                                                                                                                |        |        |        |        |  |  |  |
+| Developing Mathematical<br>Proficiency                                                                                                               | ✓      | ✓      | ✓      | ✓      |  |  |  |
+| Understanding the number<br>system helps us to represent and<br>compare relationships between<br>numbers and quantities                              | ✓      | ✓      | ✓      | ✓      |  |  |  |
+| Learning about geometry helps<br>us understand shape, space and<br>position and learning about<br>measurement helps us quantify in<br>the real world | ✓      |        | ✓      |        |  |  |  |
+| Learning that statistics represent<br>data and that probability models<br>chance help us make informed<br>inferences and decisions                   | ✓      | ✓      | ✓      | ✓      |  |  |  |
 | Digital Competence                                                                                                                                   |        |        |        |        |  |  |  |
 | Citizenship                                                                                                                                          | ✓      | ✓      | ✓      | ✓      |  |  |  |
 | Interacting and Collaborating                                                                                                                        | ✓      | ✓      | ✓      | ✓      |  |  |  |
 | Producing                                                                                                                                            |        | ✓      |        | ✓      |  |  |  |
 | Data and Computational Thinking                                                                                                                      | ✓      | ✓      | ✓      | ✓      |  |  |  |
 
-{38}------------------------------------------------
+{39}------------------------------------------------
 
 #### *GCSE SOCIAL STUDIES 38*
 
@@ -944,11 +944,11 @@ Individual unit results are reported on a uniform mark scale (UMS) with the foll
 |------------------------------------------|--------|--------|--------|--------|--|--|
 | Integral Skills                          |        |        |        |        |  |  |
 | Creativity and Innovation                | ✓      | ✓      | ✓      | ✓      |  |  |
-| Critical Thinking and Problem Solving | ✓ | ✓ | ✓ | ✓ |  |  |
+| Critical Thinking and Problem<br>Solving | ✓      | ✓      | ✓      | ✓      |  |  |
 | Planning and Organisation                |        | ✓      |        | ✓      |  |  |
 | Personal Effectiveness                   | ✓      | ✓      | ✓      | ✓      |  |  |
 
-{39}------------------------------------------------
+{40}------------------------------------------------
 
 #### <span id="page-39-0"></span>Appendix B: Concept coverage
 
@@ -956,31 +956,31 @@ Those in italics indicate possible concept coverage depending on teaching approa
 
 | Concept                  | Unit 1                                                                                          | Unit 2                                             | Unit 3                                                                                                   | Unit 4                                             |
 |--------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Authority and governance | 1.1.1 1.1.3 1.1.4 1.2.1 1.2.2 1.2.3 1.3.2 1.3.3 1.3.4 | 2.1.1 2.3.1 2.3.2 | 3.1.1 3.1.4 3.1.5 3.1.7 | 4.1.2 4.2.1 |
-| Cause and effect | 1.1.1 1.1.2 1.1.4 1.1.5 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.1.2 2.2.2 2.2.3 2.3.1 2.3.2 | 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.2 3.2.3 3.2.4 3.2.5 | 4.1.1 4.1.2 4.2.1 |
-| Change and continuity | 1.1.3 1.1.4 1.1.5 1.2.1 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.2.1 2.2.2 2.2.3 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 3.2.2 3.2.3 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Citizenship | 1.1.2 1.1.3 1.2.3 1.3.2 1.3.4 | 2.2.1 | 3.1.1 3.1.2 3.1.5 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Community | 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.2.2 1.2.3 1.3.1 | 2.1.1 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 | 4.11 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-
-{40}------------------------------------------------
-
-| Concept                | Unit 1                                                                                                   | Unit 2                                             | Unit 3                                                                                          | Unit 4                                             |
-|------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------|
-|  | 1.3.2 1.3.3 1.3.4 |  | 3.2.2 3.2.3 3.2.4 3.2.5 |  |
-| Diversity | 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Identity and belonging | 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 3.2.2 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Interconnectedness | 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 3.2.2 3.2.4 3.2.5 | 4.1.1 4.1.2 4.2.1 |
-| Justice and equality | 1.1.3 1.1.4 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.2.2 2.2.3 2.2.4 | 3.1.1 3.1.2 3.1.4 3.1.5 3.2.1 3.2.2 3.2.3 3.2.4 3.2.5 | 4.1.1 4.1.2 4.2.1 4.3.1 4.3.2 |
+| Authority and governance | 1.1.1<br>1.1.3<br>1.1.4<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.2<br>1.3.3<br>1.3.4                   | 2.1.1<br>2.3.1<br>2.3.2                            | 3.1.1<br>3.1.4<br>3.1.5<br>3.1.7                                                                         | 4.1.2<br>4.2.1                                     |
+| Cause and effect         | 1.1.1<br>1.1.2<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.1.1<br>2.1.2<br>2.2.2<br>2.2.3<br>2.3.1<br>2.3.2 | 3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.2<br>3.2.3<br>3.2.4<br>3.2.5                            | 4.1.1<br>4.1.2<br>4.2.1                            |
+| Change and continuity    | 1.1.3<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4                   | 2.2.1<br>2.2.2<br>2.2.3<br>2.3.1<br>2.3.2          | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1<br>3.2.2<br>3.2.3<br>3.2.4<br>3.2.5 | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Citizenship              | 1.1.2<br>1.1.3<br>1.2.3<br>1.3.2<br>1.3.4                                                       | 2.2.1                                              | 3.1.1<br>3.1.2<br>3.1.5<br>3.2.4<br>3.2.5                                                                | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Community                | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.1.5<br>1.2.2<br>1.2.3<br>1.3.1                            | 2.1.1<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1                                     | 4.11<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2  |
 
 {41}------------------------------------------------
 
-| Concept        | Unit 1                                                                        | Unit 2                                    | Unit 3                                                                                 | Unit 4                                             |
-|----------------|-------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------|
-| Responsibility | 1.1.3 1.1.4 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.4 3.1.5 3.1.6 3.1.7 3.2.1 3.2.2 3.2.4 3.2.5 | 4.1.1 4.1.2 4.2.1 4.3.1 4.3.2 |
-| Rights | 1.1.2 1.1.3 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.5 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Social action | 1.1.3 1.3.2 1.3.3 1.3.4 | 2.3.2 | 3.1.5 3.2.1 3.2.2 3.2.3 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
+| Concept                | Unit 1                                                                                                   | Unit 2                                             | Unit 3                                                                                          | Unit 4                                             |
+|------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|                        | 1.3.2<br>1.3.3<br>1.3.4                                                                                  |                                                    | 3.2.2<br>3.2.3<br>3.2.4<br>3.2.5                                                                |                                                    |
+| Diversity              | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.1.1<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1<br>3.2.4<br>3.2.5          | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Identity and belonging | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.1.1<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1<br>3.2.2<br>3.2.4<br>3.2.5 | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Interconnectedness     | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.1.1<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1<br>3.2.2<br>3.2.4<br>3.2.5 | 4.1.1<br>4.1.2<br>4.2.1                            |
+| Justice and equality   | 1.1.3<br>1.1.4<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4                            | 2.1.1<br>2.2.2<br>2.2.3<br>2.2.4                   | 3.1.1<br>3.1.2<br>3.1.4<br>3.1.5<br>3.2.1<br>3.2.2<br>3.2.3<br>3.2.4<br>3.2.5                   | 4.1.1<br>4.1.2<br>4.2.1<br>4.3.1<br>4.3.2          |
 
 {42}------------------------------------------------
+
+| Concept        | Unit 1                                                                        | Unit 2                                    | Unit 3                                                                                 | Unit 4                                             |
+|----------------|-------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------|
+| Responsibility | 1.1.3<br>1.1.4<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.4<br>3.1.5<br>3.1.6<br>3.1.7<br>3.2.1<br>3.2.2<br>3.2.4<br>3.2.5 | 4.1.1<br>4.1.2<br>4.2.1<br>4.3.1<br>4.3.2          |
+| Rights         | 1.1.2<br>1.1.3<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4          | 2.2.4<br>2.3.1<br>2.3.2                   | 3.1.1<br>3.1.2<br>3.1.5<br>3.2.4<br>3.2.5                                              | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Social action  | 1.1.3<br>1.3.2<br>1.3.3<br>1.3.4                                              | 2.3.2                                     | 3.1.5<br>3.2.1<br>3.2.2<br>3.2.3<br>3.2.4<br>3.2.5                                     | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+
+{43}------------------------------------------------
 
 #### <span id="page-42-0"></span>Appendix C: Content scope
 
@@ -988,6 +988,6 @@ This table shows where areas of content have a specific Welsh, UK or global focu
 
 | Scope  | Unit 1                                                                                                   | Unit 2                                                      | Unit 3                                                                        | Unit 4                                             |
 |--------|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
-| Wales | 1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.1.2 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.7 3.2.1 3.2.4 3.2.5 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| UK | 1.1.1 1.1.2 1.1.3 1.1.4 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.1.2 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.7 3.2.1 3.2.4 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
-| Global | 1.1.1 1.1.2 1.1.3 1.1.4 1.2.1 1.2.2 1.2.3 1.3.1 1.3.2 1.3.3 1.3.4 | 2.1.1 2.1.2 2.2.2 2.2.3 2.2.4 2.3.1 2.3.2 | 3.1.1 3.1.2 3.1.3 3.1.4 3.1.5 3.1.7 3.2.1 3.2.4 | 4.1.1 4.1.2 4.1.3 4.2.1 4.3.1 4.3.2 |
+| Wales  | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.1.5<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4 | 2.1.1<br>2.1.2<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.7<br>3.2.1<br>3.2.4<br>3.2.5 | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| UK     | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4          | 2.1.1<br>2.1.2<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.7<br>3.2.1<br>3.2.4          | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
+| Global | 1.1.1<br>1.1.2<br>1.1.3<br>1.1.4<br>1.2.1<br>1.2.2<br>1.2.3<br>1.3.1<br>1.3.2<br>1.3.3<br>1.3.4          | 2.1.1<br>2.1.2<br>2.2.2<br>2.2.3<br>2.2.4<br>2.3.1<br>2.3.2 | 3.1.1<br>3.1.2<br>3.1.3<br>3.1.4<br>3.1.5<br>3.1.7<br>3.2.1<br>3.2.4          | 4.1.1<br>4.1.2<br>4.1.3<br>4.2.1<br>4.3.1<br>4.3.2 |
