@@ -1,6 +1,6 @@
 
 
-{0}------------------------------------------------
+{1}------------------------------------------------
 
 ![](_page_0_Picture_0.jpeg)
 
@@ -20,11 +20,11 @@ Ready for the world. This Qualifications Wales regulated qualification is not av
 
 Made for Wales.
 
-{1}------------------------------------------------
+{2}------------------------------------------------
 
 ![](_page_1_Picture_0.jpeg)
 
-{2}------------------------------------------------
+{3}------------------------------------------------
 
 This specification meets the requirements of the following regulatory documents published by Qualifications Wales:
 
@@ -32,41 +32,41 @@ This specification meets the requirements of the following regulatory documents 
 - [Standard Conditions of Recognition](https://qualifications.wales/media/p54jkkfe/standard-conditions-of-recognition.pdf) which contains the rules that all awarding bodies and their qualifications must meet when offering qualifications to learners in Wales.
 - Approval Criteria for GCSE [Spanish](https://qualifications.wales/media/r2tnhbqj/gcse-spanish-approval-criteria.pdf) which sets out the subject specific requirements for GCSE Spanish qualifications from September 2025 and beyond.
 
-{3}------------------------------------------------
+{4}------------------------------------------------
 
 ### **CONTENTS**
 
-| 1   | INTRODUCTION                                          |                                                                 | 5    |
-|-----|-------------------------------------------------------|-----------------------------------------------------------------|------|
-|     | 1.1                                                   | Aims                                                            | 5    |
-|     | 1.2                                                   | Curriculum for Wales                                            | 5    |
-|     | 1.3                                                   | Prior learning and progression                                  | 7    |
-|     | 1.4                                                   | Guided learning hours                                           | 7    |
-|     | 1.5                                                   | Use of language                                                 | 7    |
-|     | 1.6                                                   | Equality and fair access                                        | 8    |
-| 2   | SUBJECT CONTENT                                       |                                                                 | 9    |
-|     | Unit 1                                                |                                                                 |      |
-|     | Unit 2                                                |                                                                 |      |
-|     | Unit 3                                                |                                                                 |      |
-|     | Unit                                                  | 4                                                               | . 17 |
-|     | Opportunities for integration of learning experiences |                                                                 |      |
-| 3   | ASSESSMENT                                            |                                                                 |      |
-|     | 3.1                                                   | Assessment objectives and weightings                            | . 20 |
-|     | 3.2                                                   | Overview for arrangements for non-examination assessment (NE    | •    |
-| 4   | MAL                                                   | PRACTICE                                                        | 22   |
-| 5   | TECHNICAL INFORMATION                                 |                                                                 |      |
-|     | 5.1                                                   | Making entries                                                  | . 23 |
-|     | 5.2                                                   | Grading, awarding and reporting                                 |      |
-| Apı |                                                       | x A                                                             |      |
-| •   | 1                                                     | nish grammar and sound-spelling correspondences                 |      |
-|     | Spanish sound-spelling correspondences                |                                                                 |      |
-| Apı |                                                       | x B: Spanish vocabulary list                                    |      |
-| •   |                                                       | ryday Language                                                  |      |
-|     |                                                       | e vocabulary                                                    |      |
-| Apı |                                                       | x C: Opportunities for embedding elements of the Curriculum for |      |
-| Wa  | les                                                   |                                                                 | 93   |
+| 1                                                                      | INTRODUCTION                                          |                                                                | 5  |    |
+|------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------|----|----|
+|                                                                        | 1.1                                                   | Aims                                                           | 5  |    |
+|                                                                        | 1.2                                                   | Curriculum for Wales                                           | 5  |    |
+|                                                                        | 1.3                                                   | Prior learning and progression                                 | 7  |    |
+|                                                                        | 1.4                                                   | Guided learning hours                                          | 7  |    |
+|                                                                        | 1.5                                                   | Use of language                                                | 7  |    |
+|                                                                        | 1.6                                                   | Equality and fair access                                       | 8  |    |
+| 2                                                                      | SUBJECT CONTENT                                       |                                                                | 9  |    |
+|                                                                        | Unit 1                                                |                                                                |    |    |
+|                                                                        | Unit 2                                                |                                                                |    |    |
+|                                                                        | Unit 3                                                |                                                                |    |    |
+|                                                                        | Unit 4                                                |                                                                |    | 17 |
+|                                                                        | Opportunities for integration of learning experiences |                                                                |    | 19 |
+| 3                                                                      | ASSESSMENT                                            |                                                                |    | 20 |
+|                                                                        | 3.1                                                   | Assessment objectives and weightings                           | 20 |    |
+|                                                                        | 3.2                                                   | Overview for arrangements for non-examination assessment (NEA) | 21 |    |
+| 4                                                                      | MALPRACTICE                                           |                                                                |    | 22 |
+| 5                                                                      | TECHNICAL INFORMATION                                 |                                                                |    | 23 |
+|                                                                        | 5.1                                                   | Making entries                                                 | 23 |    |
+|                                                                        | 5.2                                                   | Grading, awarding and reporting                                | 23 |    |
+| Appendix A                                                             |                                                       |                                                                |    | 24 |
+|                                                                        | Spanish grammar and sound-spelling correspondences    |                                                                |    | 24 |
+|                                                                        | Spanish sound-spelling correspondences                |                                                                |    | 28 |
+| Appendix B: Spanish vocabulary list                                    |                                                       |                                                                |    | 30 |
+|                                                                        | Everyday Language                                     |                                                                |    | 30 |
+|                                                                        | Core vocabulary                                       |                                                                |    | 47 |
+| Appendix C: Opportunities for embedding elements of the Curriculum for |                                                       |                                                                |    |    |
+|                                                                        | Wales                                                 |                                                                |    | 93 |
 
-{4}------------------------------------------------
+{5}------------------------------------------------
 
 ## GCSE SPANISH
 
@@ -134,7 +134,7 @@ There is no hierarchy in the order in which the units are presented. The order i
 
 Qualification Approval Number: C00/5058/7
 
-{5}------------------------------------------------
+{6}------------------------------------------------
 
 ## GCSE SPANISH
 
@@ -171,7 +171,7 @@ The GCSE Spanish qualification supports the Curriculum for Wales by:
 
 <span id="page-5-3"></span><sup>©</sup> WJEC CBAC Ltd 2024. <sup>1</sup> [Languages, Literacy and Communication: Statements of what matters -](https://hwb.gov.wales/curriculum-for-wales/languages-literacy-and-communication/statements-of-what-matters/) Hwb (gov.wales)
 
-{6}------------------------------------------------
+{7}------------------------------------------------
 
 - supporting the principles of progression[2](#page-6-0) by giving learners the opportunity to:
   - build on their linguistic skills
@@ -212,7 +212,7 @@ The vocabulary in this specification is transferable across the three broad them
 
 <span id="page-6-3"></span><sup>5</sup> The core vocabulary list is made up of items which are frequently used in Spanish as well as being useful for today's 14-16 language learners.
 
-{7}------------------------------------------------
+{8}------------------------------------------------
 
 ### <span id="page-7-0"></span>1.3 Prior learning and progression
 
@@ -230,7 +230,7 @@ GCSE Spanish has been designed to be delivered within 120 – 140 guided learnin
 
 <span id="page-7-3"></span>As our understanding of diversity, equity, and inclusion evolves, so must our language. Updated terminology better reflects individual identities and fosters respect and accuracy. Language used should be specific as possible. Staying informed and adaptable is crucial, as inclusive language promotes dignity and equity. Recognising that language will continue to evolve, we will remain open to further amendments to ensure it accurately represents and supports all individuals. WJEC will inform centres of any amendments and the most up to date version of the specification will always be on the website.
 
-{8}------------------------------------------------
+{9}------------------------------------------------
 
 ### 1.6 Equality and fair access
 
@@ -244,7 +244,7 @@ Information on access arrangements and reasonable adjustments is found in the fo
 
 We will be following the principles set out in this document and, as a consequence of provision for reasonable adjustments, very few learners will encounter a complete barrier to any part of the assessment.
 
-{9}------------------------------------------------
+{10}------------------------------------------------
 
 ## <span id="page-9-0"></span>2 SUBJECT CONTENT
 
@@ -277,7 +277,7 @@ Learners should be able to:
 - use knowledge of vocabulary and grammar to communicate meaningfully, using more complex structures which reference past, present and future events where appropriate
 - use generally accurate pronunciation and intonation in order to communicate with a speaker of the language.
 
-{10}------------------------------------------------
+{11}------------------------------------------------
 
 ## <span id="page-10-0"></span>Unit 1
 
@@ -305,7 +305,7 @@ The unit is based on the following:
 
 ![](_page_10_Figure_15.jpeg)
 
-{11}------------------------------------------------
+{12}------------------------------------------------
 
 #### **Areas of content**
 
@@ -317,11 +317,11 @@ The expected spoken language will be from the specified content (the grammar and
 
 Equal credit will be given for language used that is beyond the defined content but that fulfils the task requirements.
 
-| Content                         | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |  |  |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| Oracy Speaking and Listening | Learners should be able to: <ul><li>develop their listening skills to understand and respond to different types of spoken language in a range of different contexts</li><li>use their knowledge of grammar and vocabulary to support their understanding including the relationship between the past, present and future tenses</li><li>communicate and interact clearly and effectively for different purposes</li><li>communicate information, ideas and opinions in a variety of contexts</li><li>use their knowledge of vocabulary and grammar to communicate meaningfully</li><li>reference past, present and future events where appropriate</li><li>use more complex structures where appropriate</li><li>use generally accurate pronunciation and intonation. Learners should be able to demonstrate their understanding of Spanish through their responses in a range of different settings to include the following:</li><li>train / bus station</li><li>tourist information office</li><li>cinema / theatre / venue</li><li>campsite / hostel / hotel</li><li>pharmacy / doctor's surgery / hospital</li><li>leisure centre</li><li>shops</li><li>café / restaurant</li><li>in the home</li><li>in town. Learners should be able to engage in transactions including:</li><li>asking and responding to questions</li><li>asking for advice</li><li>making a complaint</li><li>reporting a problem</li><li>explaining, describing and giving reasons</li><li>expressing opinions.</li></ul> |  |  |  |
+| Content                         | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oracy<br>Speaking and Listening | Learners should be able to:<br>• develop their listening skills to understand and respond<br>to different types of spoken language in a range of<br>different contexts<br>• use their knowledge of grammar and vocabulary to<br>support their understanding including the relationship<br>between the past, present and future tenses<br>• communicate and interact clearly and effectively for<br>different purposes<br>• communicate information, ideas and opinions in a variety<br>of contexts<br>• use their knowledge of vocabulary and grammar to<br>communicate meaningfully<br>• reference past, present and future events where<br>appropriate<br>• use more complex structures where appropriate<br>• use generally accurate pronunciation and intonation.<br>Learners should be able to demonstrate their understanding<br>of Spanish through their responses in a range of different<br>settings to include the following:<br>• train / bus station<br>• tourist information office<br>• cinema / theatre / venue<br>• campsite / hostel / hotel<br>• pharmacy / doctor's surgery / hospital<br>• leisure centre<br>• shops<br>• café / restaurant<br>• in the home<br>• in town.<br>Learners should be able to engage in transactions including:<br>• asking and responding to questions<br>• asking for advice<br>• making a complaint<br>• reporting a problem<br>• explaining, describing and giving reasons |
 
-{12}------------------------------------------------
+{13}------------------------------------------------
 
 Learners will be required to:
 
@@ -329,7 +329,7 @@ Learners will be required to:
 - give a presentation, prepared in advance, based on their own interest and take part in a short unprepared discussion relating to the presentation
 - take part in a short unprepared conversation.
 
-{13}------------------------------------------------
+{14}------------------------------------------------
 
 ## <span id="page-13-0"></span>Unit 2
 
@@ -349,7 +349,7 @@ The unit will be based on the following:
 
 ![](_page_13_Figure_10.jpeg)
 
-{14}------------------------------------------------
+{15}------------------------------------------------
 
 #### **Areas of content**
 
@@ -367,11 +367,11 @@ For written production in Spanish, the expected language will be from the specif
 
 Equal credit will be given for language used that is beyond the defined content but that fulfils the task requirements.
 
-| Content             | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Reading and Writing | Learners should be able to: <ul><li>understand and respond to written language</li><li>use their knowledge of grammar and vocabulary to support their understanding of the work</li><li>use a variety of language patterns and different verb tenses effectively</li><li>use complex structures where appropriate</li><li>select relevant vocabulary and grammar to express meaning</li><li>express themselves in written Spanish to demonstrate their understanding, ideas and opinions. Learners will be required to:</li><li>study a work in Spanish</li><li>demonstrate their understanding of the work by responding in Spanish to a task set in Cymraeg/English.</li></ul> |
+| Content             | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reading and Writing | Learners should be able to:<br>• understand and respond to written language<br>• use their knowledge of grammar and vocabulary to support their understanding of the work<br>• use a variety of language patterns and different verb tenses effectively<br>• use complex structures where appropriate<br>• select relevant vocabulary and grammar to express meaning<br>• express themselves in written Spanish to demonstrate their understanding, ideas and opinions.<br>Learners will be required to:<br>• study a work in Spanish<br>• demonstrate their understanding of the work by responding in Spanish to a task set in Cymraeg/English. |
 
-{15}------------------------------------------------
+{16}------------------------------------------------
 
 ## <span id="page-15-0"></span>Unit 3
 
@@ -392,7 +392,7 @@ The unit will be based on the following:
 
 ![](_page_15_Figure_11.jpeg)
 
-{16}------------------------------------------------
+{17}------------------------------------------------
 
 #### **Areas of content**
 
@@ -402,12 +402,11 @@ In this unit learners will gain the knowledge and skills required to understand 
 
 The language used will be from the specified content (the grammar and sound-spelling correspondence in **Appendix A,** and the vocabulary in **Appendix B**).
 
-| Content   | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |  |  |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Listening | Learners should be able to: <ul><li>develop their listening skills to understand and evaluate what they hear</li><li>demonstrate an understanding of spoken language when listening to one or more speakers in a range of contexts</li><li>identify the overall message, key points and opinions in spoken extracts, some involving more complex language, and draw conclusions where appropriate</li><li>use knowledge of grammar to support understanding, including recognising the relationship between past, present and future events.</li></ul> |  |  |
-|  | Learners will be required to: <ul><li>listen to extracts including the following formats: adverts, messages, podcasts, announcements, conversations and interviews</li><li>respond to a range of questions in Cymraeg/English.</li></ul> |  |  |
+| Content   | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Listening | Learners should be able to:<br>• develop their listening skills to understand and evaluate what they hear<br>• demonstrate an understanding of spoken language when listening to one or more speakers in a range of contexts<br>• identify the overall message, key points and opinions in spoken extracts, some involving more complex language, and draw conclusions where appropriate<br>• use knowledge of grammar to support understanding, including recognising the relationship between past, present and future events.<br><br>Learners will be required to:<br>• listen to extracts including the following formats: adverts, messages, podcasts, announcements, conversations and interviews<br>• respond to a range of questions in Cymraeg/English. |
 
-{17}------------------------------------------------
+{18}------------------------------------------------
 
 ## <span id="page-17-0"></span>Unit 4
 
@@ -430,7 +429,7 @@ The unit will be based on the following:
 
 ![](_page_17_Figure_13.jpeg)
 
-{18}------------------------------------------------
+{19}------------------------------------------------
 
 #### **Areas of content**
 
@@ -442,11 +441,11 @@ Written language should be from the specified content (the grammar and sound-spe
 
 Equal credit will be given for written language used that is beyond the defined content but that fulfils the task requirements.
 
-| Content             | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |  |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Reading and Writing | Learners should be able to: <ul><li>understand and respond to different types of written language in a range of contexts</li><li>understand and respond to different types of language written for different purposes and audience</li><li>identify the overall message, key points and opinions in spoken and written passages, some involving more complex language, and draw conclusions where appropriate</li><li>use knowledge of grammar to support understanding, including recognising the relationship between past, present and future events</li><li>translate short and simple texts from Spanish to Cymraeg/English</li><li>communicate clearly and effectively in writing for a variety of purposes, including communicating information, describing, narrating, expressing and justifying opinions</li><li>communicate meaning in writing in a range of formal and informal contexts</li><li>use knowledge of vocabulary and grammar to communicate meaningfully, using more complex structures which reference past, present and future events where appropriate. Learners will be required to read a range of texts linked to each of the broad themes including:</li><li>texts based on practical transactional language such as information notices and signs</li><li>factual texts such as an e-mail, poster, web page, letter, newspaper article, flyer, graph, advert</li><li>prose such as continuous literary texts, extracts from short stories, magazine articles. Learners will be required to:</li><li>demonstrate understanding of the texts by responding to a range of questions in Cymraeg/English</li><li>translate sentences into Cymraeg/English within a context</li><li>write in Spanish in response to a stimulus.</li></ul> |  |  |
+| Content             | Amplification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reading and Writing | Learners should be able to:<br>• understand and respond to different types of written language in a range of contexts<br>• understand and respond to different types of language written for different purposes and audience<br>• identify the overall message, key points and opinions in spoken and written passages, some involving more complex language, and draw conclusions where appropriate<br>• use knowledge of grammar to support understanding, including recognising the relationship between past, present and future events<br>• translate short and simple texts from Spanish to Cymraeg/English<br>• communicate clearly and effectively in writing for a variety of purposes, including communicating information, describing, narrating, expressing and justifying opinions<br>• communicate meaning in writing in a range of formal and informal contexts<br>• use knowledge of vocabulary and grammar to communicate meaningfully, using more complex structures which reference past, present and future events where appropriate.<br><br>Learners will be required to read a range of texts linked to each of the broad themes including:<br>• texts based on practical transactional language such as information notices and signs<br>• factual texts such as an e-mail, poster, web page, letter, newspaper article, flyer, graph, advert<br>• prose such as continuous literary texts, extracts from short stories, magazine articles.<br><br>Learners will be required to:<br>• demonstrate understanding of the texts by responding to a range of questions in Cymraeg/English<br>• translate sentences into Cymraeg/English within a context<br>• write in Spanish in response to a stimulus. |
 
-{19}------------------------------------------------
+{20}------------------------------------------------
 
 #### <span id="page-19-0"></span>Opportunities for integration of learning experiences
 
@@ -463,7 +462,7 @@ GCSE Spanish generates opportunities for the following learning experiences to b
 
 The Guidance for Teaching will include further information on the opportunities provided by the qualification for teachers/centres to integrate these learning experiences into delivery.
 
-{20}------------------------------------------------
+{21}------------------------------------------------
 
 ## <span id="page-20-0"></span>3 ASSESSMENT
 
@@ -495,7 +494,7 @@ The table below shows the weighting of each assessment objective for each unit a
 | Unit 4            | -   | 27.5% | 7.5%  | 35%   |
 | Overall weighting | 38% | 41.5% | 20.5% | 100%  |
 
-{21}------------------------------------------------
+{22}------------------------------------------------
 
 ### <span id="page-21-0"></span>3.2 Overview for arrangements for non-examination assessment (NEA)
 
@@ -527,7 +526,7 @@ The assessment will take place during an eight-week period between March and May
 
 The Assessment Pack will be updated and released annually and will include an updated role play card allocation table along with the specific period in which the speaking assessments, and Unit 2 must take place.
 
-{22}------------------------------------------------
+{23}------------------------------------------------
 
 ## <span id="page-22-0"></span>4 MALPRACTICE
 
@@ -539,7 +538,7 @@ All cases of suspected or actual malpractice must be reported immediately to WJE
 
 <span id="page-22-1"></span>In all cases of malpractice, centres are advised to consult the JCQ booklet [Suspected](https://www.jcq.org.uk/exams-office/malpractice)  [Malpractice: Policies and Procedures.](https://www.jcq.org.uk/exams-office/malpractice)
 
-{23}------------------------------------------------
+{24}------------------------------------------------
 
 ## 5 TECHNICAL INFORMATION
 
@@ -555,10 +554,10 @@ Marks for non-examination assessment (NEA) may be carried forward for the life o
 
 The entry code appears below.
 
-|                   | Entry code     |              |
+| WJEC GCSE Spanish | Entry code     |              |
 |-------------------|----------------|--------------|
 |                   | English medium | Welsh medium |
-| WJEC GCSE Spanish | 3840QS         | 3840CS       |
+|                   | 3840QS         | 3840CS       |
 
 The current edition of our Entry Procedures and Coding Information gives up-to-date entry procedures.
 
@@ -566,7 +565,7 @@ The current edition of our Entry Procedures and Coding Information gives up-to-d
 
 GCSE qualifications are reported on an eight point scale from A\*-G, where A\* is the highest grade. Results not attaining the minimum standard for the award will be reported as U (unclassified).
 
-{24}------------------------------------------------
+{25}------------------------------------------------
 
 ## <span id="page-24-0"></span>Appendix A
 
@@ -578,70 +577,50 @@ Receptive knowledge (r) **(r)**
 
 ![](_page_24_Picture_5.jpeg)
 
-| Part of Speech | Required knowledge                                                                                                                                                                                                      | (r) |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| Articles       | definite: el, la, los, las (the)                                                                                                                                                                                        |     |
-|                | indefinite: un, una, unos, unas (a/an)                                                                                                                                                                                  |     |
-|                | lo followed by an adjective                                                                                                                                                                                             |     |
-| Adjectives     | agreement: masculine and feminine, singular and plural                                                                                                                                                                  |     |
-|                | diminutive forms: -ito/-ita                                                                                                                                                                                             |     |
-|  | position – including those which change meaning depending on whether they appear before or after the noun: grande (great / big), medio (half, mid / average), mismo (same / very, -self) |  |
-|  | demonstrative: este/a/os/as (this/these), ese/a/os/as (that/those – nearby), aquel, aquella/os/as (that/those – further away) |  |
-|  | indefinite: cada (every, each), otro/a/os/as (other, another), todo/a/os/as (all, every), mismoa/os/as (same), algún, alguna/os/as (a, an,some, any), ningún, ninguna/os/as (no, not…any), varios/as (several) |  |
-|  | possessive, short form: mi/s (my), tu/s (your), su/s (his,her,your), nuestro/a/os/as (our), vuestro/a/os/as (your), su/s (their, your) |  |
-|  | comparative: más…que (more…than), menos…que (less…than) tancomo (as…as) |  |
-|  | superlative: el, la, los, las más/menos + adjective (the most…/least) absolute superlative: -ísimo/a/os/as |  |
-|  | irregular comparatives and superlatives: mejor (better), peor (worse), mayor (older), menor (younger) |  |
-|                | relative:cuyo/a/os/as (whose, of which)                                                                                                                                                                                 | (r) |
-
-{25}------------------------------------------------
-
-| Adverbs      | formation (-mente)                                                                                                                                                                                                                                                                                                                                         |     |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-|              | irregular adverbs: bien (well), mal (badly)                                                                                                                                                                                                                                                                                                                |     |
-|  | comparative and superlative: más que (more than), menos que (less than), tanto como (as much as) adverbs of time: ahora (now), ya (already), ayer (yesterday), hoy (today), mañana (tomorrow), todavía (still), temprano (early), tarde (late), anoche (last night), siempre (always), a menudo (often), a veces (sometimes), nunca (never) |  |
-|  | adverbs of place: aquí (here), allí (there), cerca (near), lejos (far), adentro (inside), afuera (outside), arriba (above, upstairs), abajo (below, downstairs) |  |
-| Conjunctions | coordinating conjunctions: y (and), pero (but), o (or), que (that)                                                                                                                                                                                                                                                                                         |     |
-|  | subordinating conjunctions: como (like, as), cuando (when), porque (because), si (if) pues (so, then) |  |
-|  | aunque (although, even though), ya que (because, since), mientras (while, whilst), por lo tanto (therefore), sin embargo (however) | (r) |
-| Negatives | no (in front of a verb to negate it) nada (nothing) nadie (nobody, no one) ningún/ninguno/a/os/as (no, none, not one, not any) nunca (never) tampoco (neither, not either) |  |
-|  | (no) ni…ni (neither…nor) ni siquiera (not even) ya no (no longer, not anymore) | (r) |
-| Nouns        | gender                                                                                                                                                                                                                                                                                                                                                     |     |
-|              | singular and plural forms                                                                                                                                                                                                                                                                                                                                  |     |
-|              | diminutive forms:-ito,-ita                                                                                                                                                                                                                                                                                                                                 |     |
+| Part of Speech | Required knowledge                                                                                                                                                                                             | (r) |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| Articles       | definite: el, la, los, las (the)                                                                                                                                                                               |     |
+|                | indefinite: un, una, unos, unas (a/an)                                                                                                                                                                         |     |
+|                | lo followed by an adjective                                                                                                                                                                                    |     |
+| Adjectives     | agreement: masculine and feminine, singular and plural                                                                                                                                                         |     |
+|                | diminutive forms: -ito/-ita                                                                                                                                                                                    |     |
+|                | position – including those which change meaning depending on whether they appear before or after the noun: grande (great / big), medio (half, mid / average), mismo (same / very, -self)                       |     |
+|                | demonstrative: este/a/os/as (this/these), ese/a/os/as (that/those – nearby), aquel, aquella/os/as (that/those – further away)                                                                                  |     |
+|                | indefinite: cada (every, each), otro/a/os/as (other, another), todo/a/os/as (all, every), mismoa/os/as (same), algún, alguna/os/as (a, an,some, any), ningún, ninguna/os/as (no, not…any), varios/as (several) |     |
+|                | possessive, short form: mi/s (my), tu/s (your), su/s (his,her,your), nuestro/a/os/as (our), vuestro/a/os/as (your), su/s (their, your)                                                                         |     |
+|                | comparative: más…que (more…than), menos…que (less…than) tan ...como (as…as)                                                                                                                                    |     |
+|                | superlative: el, la, los, las más/menos + adjective (the most…/least) absolute superlative: -ísimo/a/os/as                                                                                                     |     |
+|                | irregular comparatives and superlatives: mejor (better), peor (worse), mayor (older), menor (younger)                                                                                                          |     |
+|                | relative:cuyo/a/os/as (whose, of which)                                                                                                                                                                        | (r) |
 
 {26}------------------------------------------------
 
-| Prepositions | a (to, at), de (of, from), en (in, on) con (with), sin (without)                                                                                                                                                                                                                                                                                        |     |
-|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-|  | use of contracted form with the definite article: al (to the, at the), del (of the, from the) |  |
-|  | prepositions of place: al lado de (next to), detrás de (behind), delante de (in front of), entre (between), debajo de (under), enfrente de (opposite), dentro de (inside), hacia (towards), contra (against), sobre (on top of) |  |
-|  | prepositions of time: desde (since), hace (ago), hasta (until), durante (during), a partir de (from) |  |
-|              | personal: a                                                                                                                                                                                                                                                                                                                                             |     |
-|  | por and para (for, on, through, because of, in exchange for, in order to) |  |
-|  | compound: antes de (before), después de (after), en vez de (instead of) |  |
-|  | use of desde hace with the present tense (how long you have been doing something or how long something has been happening) | (r) |
-| Pronouns | subject: yo (I), tú (you – singular informal), él (he), ella (she), usted(you – singular formal), nosotros (we), vosotros (you – plural informal), ellos (they – all male or mixed group), ellas (they – all female), ustedes (you – formal plural) |  |
-|              | impersonal verbs with the pronoun se (one)                                                                                                                                                                                                                                                                                                              |     |
-|  | reflexive: me (myself), te (yourself – singular informal), se (himself, herself, itself, yourself – singular formal), nos (ourselves), os (yourselves – plural informal), se (themselves, yourselves – plural formal) |  |
-|              | relative: que (who, that, which)                                                                                                                                                                                                                                                                                                                        |     |
-|  | disjunctive: conmigo (with me), contigo (with you), para mí (for me) para tí (for you) |  |
-|  | indefinite: algo (something), alguien (someone), algún, alguna/os/as (a, an, some, any), ningún, ninguna/os/as (no, not any) |  |
-|  | possessive: el mío, la mía, los míos, las mías (mine), el tuyo, la tuya, los tuyos, las tuyas (yours), el suyo, la suya, los suyos, las suyas (his, hers), el nuestro, la nuestra, los nuestros, las nuestras (ours), el vuestro, la vuestra, los vuestros, las vuestras (yours), el suyo, la suya, los suyos, las suyas (theirs, yours) |  |
-|  | relative: quien, quienes (who), el que/cual, la que/cual, los que/cuales, las que/cuales (the one who) | (r) |
-|  | demonstrative: este/a/os/as (this/these), ese/a/os/as (that/those – nearby), aquel, aquella/os/as (that/those – further away) | (r) |
+| Adverbs                                                                                                                                                                                                                                                        | formation (-mente)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+|                                                                                                                                                                                                                                                                | irregular adverbs: bien (well), mal (badly)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+|                                                                                                                                                                                                                                                                | comparative and superlative: más que (more than), menos que<br>(less than), tanto como (as much as)<br>adverbs of time: ahora (now), ya (already), ayer (yesterday), hoy<br>(today), mañana (tomorrow), todavía (still), temprano (early), tarde<br>(late), anoche (last night), siempre (always), a menudo (often), a<br>veces (sometimes), nunca (never)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |     |
+|                                                                                                                                                                                                                                                                | adverbs of place: aquí (here), allí (there), cerca (near), lejos (far),<br>adentro (inside), afuera (outside), arriba (above, upstairs), abajo<br>(below, downstairs)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |     |
+| Conjunctions                                                                                                                                                                                                                                                   | coordinating conjunctions: y (and), pero (but), o (or), que (that)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |     |
+|                                                                                                                                                                                                                                                                | subordinating conjunctions: como (like, as), cuando (when), porque<br>(because), si (if) pues (so, then)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |     |
+|                                                                                                                                                                                                                                                                | aunque (although, even though), ya que (because, since), mientras<br>(while, whilst), por lo tanto (therefore), sin embargo (however)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | (r) |
+| Negatives                                                                                                                                                                                                                                                      | no (in front of a verb to negate it)<br>nada (nothing)<br>nadie (nobody, no one)<br>ningún/ninguno/a/os/as (no, none, not one, not any)<br>nunca (never)<br>tampoco (neither, not either)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+|                                                                                                                                                                                                                                                                | (no) ni…ni (neither…nor)<br>ni siquiera (not even)<br>ya no (no longer, not anymore)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | (r) |
+| Nouns                                                                                                                                                                                                                                                          | gender                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |     |
+|                                                                                                                                                                                                                                                                | singular and plural forms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+|                                                                                                                                                                                                                                                                | diminutive forms:-ito,-ita                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |     |
+| Prepositions                                                                                                                                                                                                                                                   | a (to, at), de (of, from), en (in, on) con (with), sin (without)<br>use of contracted form with the definite article: al (to the, at the), del<br>(of the, from the)<br>prepositions of place: al lado de (next to), detrás de (behind),<br>delante de (in front of), entre (between), debajo de (under), enfrente<br>de (opposite), dentro de (inside), hacia (towards), contra (against),<br>sobre (on top of)<br>prepositions of time: desde (since), hace (ago), hasta (until),<br>durante (during), a partir de (from)<br>personal: a<br>por and para (for, on, through, because of, in exchange for, in order<br>to)<br>compound: antes de (before), después de (after), en vez de<br>(instead of)<br>use of desde hace with the present tense (how long you have been<br>doing something or how long something has been happening) (r)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
+| Pronouns                                                                                                                                                                                                                                                       | subject: yo (I), tú (you –<br>singular informal), él (he), ella (she),<br>usted(you –<br>singular formal), nosotros (we), vosotros (you –<br>plural<br>informal), ellos (they –<br>all male or mixed group), ellas (they –<br>all<br>female), ustedes (you –<br>formal plural)<br>impersonal verbs with the pronoun se (one)<br>reflexive: me (myself), te (yourself –<br>singular informal), se (himself,<br>herself, itself, yourself –<br>singular formal), nos (ourselves), os<br>(yourselves –<br>plural informal), se (themselves, yourselves –<br>plural<br>formal)<br>relative: que (who, that, which)<br>disjunctive: conmigo (with me), contigo (with you), para mí (for me)<br>para tí (for you)<br>indefinite: algo (something), alguien (someone), algún, alguna/os/as<br>(a, an, some, any), ningún, ninguna/os/as (no, not any)<br>possessive: el mío, la mía, los míos, las mías (mine),<br>el tuyo, la tuya, los tuyos, las tuyas (yours),<br>el suyo, la suya, los suyos, las suyas (his, hers),<br>el nuestro, la nuestra, los nuestros, las nuestras (ours),<br>el vuestro, la vuestra, los vuestros, las vuestras (yours),<br>el suyo, la suya, los suyos, las suyas (theirs, yours)<br>relative: quien, quienes (who), el que/cual, la que/cual, los<br>que/cuales, las que/cuales (the one who) (r)<br>demonstrative: este/a/os/as (this/these), ese/a/os/as (that/those –<br>nearby), aquel, aquella/os/as (that/those –<br>further away) (r) |     |
+|                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | (r) |
+| disjunctive: mí (me), tí (you – singular informal), él (him), ella (her) usted (you – singular formal), nosotros/as (us, vosotros/as (you – plural informal), ellos (them – all male or mixed group), ellas (them – all female), ustedes (you – plural formal) | direct object: me (me), te (you singular informal), lo (him, it, you – singular formal), la (her, it, you -singular formal), nos (us), os (you – plural informal), los,las (them, you – plural formal)<br>indirect object: me ((to) me), te ((to) you – singular informal), le ((to) him, her, it you – formal), nos ((to) us), os ((to) you – plural informal), les ((to) them, you – plural formal)<br>position and order of object pronouns                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | (r) |
+| Quantifiers/Intensifiers                                                                                                                                                                                                                                       | muy (very), bastante (enough, quite), demasiado (too much), un poco (a little), mucho (a lot)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
+| Verbs and tenses                                                                                                                                                                                                                                               | all persons of the verb, singular and plural<br>reflexive verbs<br>modes of address: tú and usted<br>infinitive used as noun<br>impersonal verbs: hay (there is/are), hay que (to have to) radical<br>changing verbs<br>multi-verb expressions (acabar de + infinitive, seguir + gerund,<br>llevar + time period, desde hace+ time)<br>uses of ser and estar<br>Tenses:<br>•<br>present tense – indicative and continuous<br>•<br>preterite tense<br>•<br>imperfect tense: in expressions with era/n (there was/were) and<br>with weather estar (to be), hacer (to do / make)<br>•<br>perfect tense<br>•<br>immediate future and future tense<br>•<br>conditional                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+|                                                                                                                                                                                                                                                                | Tenses:<br>•<br>imperfect tense<br>•<br>pluperfect tense<br>•<br>passive voice (se puede, se necesita, se habla)<br>•<br>perfect tense<br>•<br>gerund<br>•<br>imperative: including negative<br>•<br>subjunctive present: future after conjunctions of time with<br>cuando (when), after verbs of wishing, command, request,<br>emotion, to express purpose with para que (so that)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | (r) |
 
 {27}------------------------------------------------
 
-|  | disjunctive: mí (me), tí (you – singular informal), él (him), ella (her) usted (you – singular formal), nosotros/as (us, vosotros/as (you – plural informal), ellos (them – all male or mixed group), ellas (them – all female), ustedes (you – plural formal) | (r) |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
-|  | direct object: me (me), te (you singular informal), lo (him, it, you – singular formal), la (her, it, you -singular formal), nos (us), os (you – plural informal), los,las (them, you – plural formal) indirect object: me ((to) me), te ((to) you – singular informal), le ((to) him, her, it you – formal), nos ((to) us), os ((to) you – plural informal), les ((to) them, you – plural formal) position and order of object pronouns | (r) |
-| Quantifiers/        | muy (very), bastante (enough, quite), demasiado (too much), un                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     |
-| Intensifiers        | poco (a little), mucho (a lot)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     |
-| Verbs and tenses | all persons of the verb, singular and plural reflexive verbs modes of address: tú and usted infinitive used as noun impersonal verbs: hay (there is/are), hay que (to have to) radical changing verbs multi-verb expressions (acabar de + infinitive, seguir + gerund, llevar + time period, desde hace+ time) uses of ser and estar Tenses: <ul><li>present tense – indicative and continuous</li><li>preterite tense</li><li>imperfect tense: in expressions with era/n (there was/were) and with weather estar (to be), hacer (to do / make)</li><li>perfect tense</li><li>immediate future and future tense</li><li>conditional</li></ul> |  |
-|  | Tenses: <ul><li>imperfect tense</li><li>pluperfect tense</li><li>passive voice (se puede, se necesita, se habla)</li><li>perfect tense</li><li>gerund</li><li>imperative: including negative</li><li>subjunctive present: future after conjunctions of time with cuando (when), after verbs of wishing, command, request, emotion, to express purpose with para que (so that)</li></ul> | (r) |
-
 {28}------------------------------------------------
+
+{29}------------------------------------------------
 
 #### <span id="page-28-0"></span>Spanish sound-spelling correspondences
 
@@ -679,13 +658,13 @@ Learners will be expected to know the Spanish alphabet and will need to know the
 | [rr] [r-] [-r-]*              | cerrar, rico, sonrisa        |
 | silent h                      | hospital                     |
 
-{29}------------------------------------------------
+{30}------------------------------------------------
 
 It is recognised that most learners will be familiar with the above European Spanish sound symbols, however, should a learner demonstrate pronunciation from another standard form of Spanish, this will be accepted.
 
 As language is ever changing, the Real Academia Española could accept the new use of a more gender neutral and inclusive language. WJEC will not make changes to this specification but will be accepting of any changes brought about in the future. As a starting point gender identification should not be an issue as learners should be using first-person pronouns or using masculine/feminine nouns. If learners choose to speak in the third-person, they must be consistent in their pronoun choices, for example, use of 'they/them/xe/xhe' should not be seen as grammatically incorrect if the candidate is consistently using the chosen pronoun throughout their speaking. Please be mindful of learners' choices in assessing all work. When discussing another individual in the third person where gender or gender preference is unknown or undisclosed, WJEC expects consistent application of the gender agreement of the learner's choice.
 
-{30}------------------------------------------------
+{31}------------------------------------------------
 
 ## <span id="page-30-0"></span>Appendix B: Spanish vocabulary list
 
@@ -695,66 +674,64 @@ Learners will be expected to use and understand the everyday language listed bel
 
 #### **Abbreviations/Acronyms**
 
-| Spanish                                                                                | English equivalent                                                   |
-|----------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| AVE, el                                                                                | High speed train                                                     |
-| c/ (calle)                                                                             | Street                                                               |
-| Dr. (doctor)                                                                           | Doctor                                                               |
-| Dra. (doctora)                                                                         | Doctor                                                               |
-| EE. UU. (Estados Unidos)                                                               | United States                                                        |
-| LGBTIQ+ (lesbiana, gay, bisexual, transgénero/transexual, intersexual, queer, +) | LGBTQI+ (lesbian, gay, bisexual, trans, queer, intersex, +) |
-| Renfe / RENFE                                                                          | Spanish railways                                                     |
-| Sr. (Señor)                                                                            | Mr                                                                   |
-| Sra. (Señora)                                                                          | Mrs                                                                  |
-| Srta. (Señorita)                                                                       | Miss                                                                 |
-| o / primero (2o , 3o etc.) 1 | st (2nd, 3rd etc) 1 |
-| a / primera (2a , 3a etc.) 1 | st (2nd, 3rd etc) 1 |
+| Spanish                                                                                | English equivalent                                          |
+|----------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| AVE, el                                                                                | High speed train                                            |
+| c/ (calle)                                                                             | Street                                                      |
+| Dr. (doctor)                                                                           | Doctor                                                      |
+| Dra. (doctora)                                                                         | Doctor                                                      |
+| EE. UU. (Estados Unidos)                                                               | United States                                               |
+| LGBTIQ+ (lesbiana, gay, bisexual,<br>transgénero/transexual, intersexual, queer,<br>+) | LGBTQI+ (lesbian, gay, bisexual, trans, queer, intersex, +) |
+| Renfe / RENFE                                                                          | Spanish railways                                            |
+| Sr. (Señor)                                                                            | Mr                                                          |
+| Sra. (Señora)                                                                          | Mrs                                                         |
+| Srta. (Señorita)                                                                       | Miss                                                        |
+| 1o / primero (2o, 3o etc.)                                                             | 1st (2nd, 3rd etc)                                          |
+| 1a / primera (2a, 3a etc.)                                                             | 1st (2nd, 3rd etc)                                          |
 
 #### **Expressions of time**
 
 Learners are expected to know the days of the week, seasons and the months of the year. In addition, learners are expected to know the following words and expressions.
 
-| Spanish                | English equivalent              |
-|------------------------|---------------------------------|
-| a diario               | daily, everyday                 |
-| algunas veces          | sometimes                       |
-| año, el                | year                            |
-| cada (día / mes, etc.) | every (month/ day etc.)         |
-| cada (…) días / horas  | every (…) days/ hours           |
-| de vez en cuando       | now and then, from time to time |
-
-{31}------------------------------------------------
-
-| despacio                 | slowly                        |
-|--------------------------|-------------------------------|
-| día, el                  | day                           |
-| en el futuro             | in the future                 |
-| entonces                 | then                          |
-| esta noche               | tonight                       |
-| estación, la             | season                        |
-| fecha, la                | date                          |
-| fin de semana, el        | weekend                       |
-| los lunes, etc.          | on Monday etc.                |
-| luego                    | then, later                   |
-| mañana, la               | morning                       |
-| mes, el                  | month                         |
-| noche, la                | night                         |
-| otra vez                 | again                         |
-| pasado, el               | the past                      |
-| pasado (adj)             | past, last                    |
-| por lo general           | generally                     |
-| pronto                   | soon                          |
-| próximo                  | next                          |
-| que viene (el mes, etc.) | coming / next (month etc.) |
-| semana, la               | week                          |
-| sobre                    | on, around                    |
-| solo (sólo)              | only                          |
-| tarde, la                | afternoon                     |
-| tiempo, el               | time                          |
-| vez, una                 | once                          |
-| veces, dos / tres, etc.  | twice, three times            |
+| Spanish                  | English equivalent              |
+|--------------------------|---------------------------------|
+| a diario                 | daily, everyday                 |
+| algunas veces            | sometimes                       |
+| año, el                  | year                            |
+| cada (día / mes, etc.)   | every (month/ day etc.)         |
+| cada (...) días / horas  | every (...) days/ hours         |
+| de vez en cuando         | now and then, from time to time |
+| despacio                 | slowly                          |
+| día, el                  | day                             |
+| en el futuro             | in the future                   |
+| entonces                 | then                            |
+| esta noche               | tonight                         |
+| estación, la             | season                          |
+| fecha, la                | date                            |
+| fin de semana, el        | weekend                         |
+| los lunes, etc.          | on Monday etc.                  |
+| luego                    | then, later                     |
+| mañana, la               | morning                         |
+| mes, el                  | month                           |
+| noche, la                | night                           |
+| otra vez                 | again                           |
+| pasado, el               | the past                        |
+| pasado (adj)             | past, last                      |
+| por lo general           | generally                       |
+| pronto                   | soon                            |
+| próximo                  | next                            |
+| que viene (el mes, etc.) | coming<br>next (month etc.)     |
+| semana, la               | week                            |
+| sobre                    | on, around                      |
+| solo (sólo)              | only                            |
+| tarde, la                | afternoon                       |
+| tiempo, el               | time                            |
+| vez, una                 | once                            |
+| veces, dos / tres, etc.  | twice, three times              |
 
 {32}------------------------------------------------
+
+{33}------------------------------------------------
 
 #### **Asking questions**
 
@@ -778,24 +755,20 @@ Learners are expected to know the days of the week, seasons and the months of th
 
 #### **Opinions**
 
-| Spanish          | English equivalent |
-|------------------|--------------------|
-| aburrido         | boring             |
-| aburrirse        | to get bored       |
-| alegre           | happy, cheerful    |
-| a mi modo de ver | in my opinion      |
-| barato           | cheap              |
-| bonito           | pretty, lovely     |
-| bueno            | good               |
-| caro             | expensive          |
-| delicioso        | delicious, lovely  |
-| detesto          | I hate             |
-| difícil          | difficult          |
-
-{33}------------------------------------------------
-
-| diferente / distinto | distinct, different         |
+| Spanish              | English equivalent          |
 |----------------------|-----------------------------|
+| aburrido             | boring                      |
+| aburrirse            | to get bored                |
+| alegre               | happy, cheerful             |
+| a mi modo de ver     | in my opinion               |
+| barato               | cheap                       |
+| bonito               | pretty, lovely              |
+| bueno                | good                        |
+| caro                 | expensive                   |
+| delicioso            | delicious, lovely           |
+| detesto              | I hate                      |
+| difícil              | difficult                   |
+| diferente / distinto | distinct, different         |
 | divertido            | funny, enjoyable            |
 | emocionante          | exciting                    |
 | me encanta           | I love                      |
@@ -826,33 +799,33 @@ Learners are expected to know the days of the week, seasons and the months of th
 | sabroso              | tasty                       |
 | tranquilo            | calm                        |
 | útil                 | useful                      |
+| Spanish              | English equivalent          |
+| amarillo             | yellow                      |
+| azul                 | blue                        |
+| blanco               | white                       |
+| castaño              | brown (hair)                |
+| color, el            | colour                      |
+| oro / dorado         | gold                        |
+| gris                 | grey                        |
+| marrón               | brown                       |
+| morado               | purple                      |
+| moreno               | dark-haired, tanned         |
+| naranja              | orange                      |
+| negro                | black                       |
+| pálido               | pale                        |
+| rosa / rosado        | pink                        |
+| rojo                 | red                         |
+| rubio                | blonde                      |
+| verde                | green                       |
+| violeta              | violet                      |
 
 {34}------------------------------------------------
+
+{35}------------------------------------------------
 
 #### **Colours**
 
 Learners will be expected to know the colours listed below and also when combined with oscuro-(dark) and claro-(light).
-
-| Spanish       | English equivalent  |
-|---------------|---------------------|
-| amarillo      | yellow              |
-| azul          | blue                |
-| blanco        | white               |
-| castaño       | brown (hair)        |
-| color, el     | colour              |
-| oro / dorado  | gold                |
-| gris          | grey                |
-| marrón        | brown               |
-| morado        | purple              |
-| moreno        | dark-haired, tanned |
-| naranja       | orange              |
-| negro         | black               |
-| pálido        | pale                |
-| rosa / rosado | pink                |
-| rojo          | red                 |
-| rubio         | blonde              |
-| verde         | green               |
-| violeta       | violet              |
 
 #### **Greetings and Exclamations**
 
@@ -865,28 +838,28 @@ Learners will be expected to know the colours listed below and also when combine
 | ¿cómo estás?   | how are you?       |
 | de nada        | you're welcome     |
 
-{35}------------------------------------------------
+{36}------------------------------------------------
 
-| disculpas                  | sorry / pardon                    |
-|----------------------------|-----------------------------------|
-| encantado                  | nice to meet you                  |
-| ¡felicidades!              | best wishes! congratulations!     |
-| ¡felicitaciones!           | congratulations!                  |
-| hasta (el lunes, etc.)     | until (Monday etc.)               |
-| hasta luego                | see you later                     |
-| hasta mañana               | see you tomorrow / until tomorrow |
-| hasta pronto               | see you soon                      |
-| lo siento                  | I am sorry.                       |
-| mucho gusto                | nice to meet you                  |
-| perdón / perdona / perdone | sorry                             |
-| por favor                  | please                            |
-| ¡qué (+adj)!               | how!                              |
-| ¡qué (+noun)!              | what a …!                         |
-| ¡que lo pase(s) bien!      | have a good time!                 |
-| ¿qué tal?                  | how are you?                      |
-| ¡salud!                    | cheers! bless you!                |
-| vale                       | ok                                |
-| ¡vamos!                    | let's go! come on!                |
+| disculpas              | sorry / pardon                    |
+|------------------------|-----------------------------------|
+| encantado              | nice to meet you                  |
+| ¡felicidades!          | best wishes! congratulations!     |
+| ¡felicitaciones!       | congratulations!                  |
+| hasta (el lunes, etc.) | until (Monday etc.)               |
+| hasta luego            | see you later                     |
+| hasta mañana           | see you tomorrow / until tomorrow |
+| hasta pronto           | see you soon                      |
+| lo siento              | I am sorry.                       |
+| mucho gusto            | nice to meet you                  |
+| perdón / perdona /     | sorry                             |
+| por favor              | please                            |
+| ¡qué (+adj)!           | how....!                          |
+| ¡qué (+noun)!          | what a ... !                      |
+| ¡que lo pase(s) bien!  | have a good time!                 |
+| ¿qué tal?              | how are you?                      |
+| ¡salud!                | cheers! bless you!                |
+| vale                   | ok                                |
+| ¡vamos!                | let's go! come on!                |
 
 #### **Location & Distance**
 
@@ -902,7 +875,7 @@ Learners will be expected to know the colours listed below and also when combine
 | este, el       | the east                   |
 | fuera (de)     | outside                    |
 
-{36}------------------------------------------------
+{37}------------------------------------------------
 
 | izquierda, a la | on the left, to the left |
 |-----------------|--------------------------|
@@ -942,7 +915,7 @@ Learners will be expected to know the colours listed below and also when combine
 | sol, el                       | sun                           |
 | tener (calor, frío)           | to feel (hot, cold)           |
 
-{37}------------------------------------------------
+{38}------------------------------------------------
 
 | tiempo, el   | the weather |
 |--------------|-------------|
@@ -967,7 +940,7 @@ Learners should know both the 12 hour and 24 hour clock.
 | menos cuarto    | quarter to (the hour) |
 | minuto, el      | minute                |
 | ¿qué hora es?   | what time is it?      |
-| son las…        | it is o'clock         |
+| son las...      | it is .... o'clock    |
 | y media         | half past (the hour)  |
 
 #### **Countries / Continents / Nationalities**
@@ -980,50 +953,46 @@ Learners are expected to know the names of all Spanish-speaking countries and th
 | África                    | africano/a       | Africa / African                  |
 | Asia                      | asiático/a       | Asia / Asian                      |
 | Europa                    | europeo/a        | Europe / European                 |
-| Norteamérica | norteamericano/a | North America / North American |
-
-{38}------------------------------------------------
-
-| Sudamérica | de sudamérica | South America /South American |
-|----------------|------------------|----------------------------------|
-| país, el       | -                | country                          |
-| Alemania       | alemán/ana       | Germany / German                 |
-| Argentina      | argentino/a      | Argentina / Argentinian          |
-| Australia      | australiano/a    | Australia / Australian           |
-| Bolivia        | boliviano/a      | Bolivia / Bolivian               |
-| Canadá         | canadiense       | Canada / Canadian                |
-| Chile          | chileno/a        | Chile / Chilean                  |
-| China          | chino/a          | China / Chinese                  |
-| Colombia       | colombiano/a     | Colombia / Colombian             |
-| Costa Rica     | costarricense    | Costa Rica / Costa Rican         |
-| Cuba           | cubano/a         | Cuba / Cuban                     |
-| Ecuador        | ecuatoriano/a    | Ecuador / Ecuadorian             |
-| Egipto         | egipcio/a        | Egypt / Egyptian                 |
-| Escocia        | escocés/esa      | Scotland / Scottish              |
-| España         | español/a        | Spain / Spanish                  |
-| Estados Unidos | estadounidense   | United States / American         |
-| Francia        | francés/a        | France / French                  |
-| Gales          | galés/esa        | Wales / Welsh                    |
-| Gran Bretaña   | británico/a      | Britain / British                |
-| Grecia         | griego/a         | Greece / Greek                   |
-| Guatemala      | guatemalteco/a   | Guatemala / Guatemalan           |
-| Inglaterra     | inglés/esa       | England / English                |
-| Italia         | italiano/a       | Italy / Italian                  |
-| Irlanda        | irlandés/esa     | Ireland / Irish                  |
-| Japón          | japonés/esa      | Japan / Japanese                 |
-| México         | mexicano/a       | Mexico / Mexican                 |
-| Perú           | peruano/a        | Peru / Peruvian                  |
-| Portugal       | portugués/esa    | Portugal / Portuguese            |
-| Puerto Rico    | puertorriqueño/a | Puerto Rico / Puerto Rican       |
-| Rusia          | ruso/a           | Russia / Russian                 |
+| Norteamérica              | norteamericano/a | North America / North<br>American |
+| Sudamérica                | de sudamérica    | South America /South<br>American  |
+| país, el                  | -                | country                           |
+| Alemania                  | alemán/ana       | Germany / German                  |
+| Argentina                 | argentino/a      | Argentina / Argentinian           |
+| Australia                 | australiano/a    | Australia / Australian            |
+| Bolivia                   | boliviano/a      | Bolivia / Bolivian                |
+| Canadá                    | canadiense       | Canada / Canadian                 |
+| Chile                     | chileno/a        | Chile / Chilean                   |
+| China                     | chino/a          | China / Chinese                   |
+| Colombia                  | colombiano/a     | Colombia / Colombian              |
+| Costa Rica                | costarricense    | Costa Rica / Costa Rican          |
+| Cuba                      | cubano/a         | Cuba / Cuban                      |
+| Ecuador                   | ecuatoriano/a    | Ecuador / Ecuadorian              |
+| Egipto                    | egipcio/a        | Egypt / Egyptian                  |
+| Escocia                   | escocés/esa      | Scotland / Scottish               |
+| España                    | español/a        | Spain / Spanish                   |
+| Estados Unidos            | estadounidense   | United States / American          |
+| Francia                   | francés/a        | France / French                   |
+| Gales                     | galés/esa        | Wales / Welsh                     |
+| Gran Bretaña              | británico/a      | Britain / British                 |
+| Grecia                    | griego/a         | Greece / Greek                    |
+| Guatemala                 | guatemalteco/a   | Guatemala / Guatemalan            |
+| Inglaterra                | inglés/esa       | England / English                 |
+| Italia                    | italiano/a       | Italy / Italian                   |
+| Irlanda                   | irlandés/esa     | Ireland / Irish                   |
+| Japón                     | japonés/esa      | Japan / Japanese                  |
+| México                    | mexicano/a       | Mexico / Mexican                  |
+| Perú                      | peruano/a        | Peru / Peruvian                   |
+| Portugal                  | portugués/esa    | Portugal / Portuguese             |
+| Puerto Rico               | puertorriqueño/a | Puerto Rico / Puerto Rican        |
+| Rusia                     | ruso/a           | Russia / Russian                  |
+| Turquía                   | turco/a          | Turkey / Turkish                  |
+| Uruguay                   | uruguayo/a       | Uruguay / Uruguayan               |
+| Venezuela                 | venezolano/a     | Venezuela / Venezuelan            |
+| nacionalidad              | -                | nationality                       |
 
 {39}------------------------------------------------
 
-| Turquía      | turco/a      | Turkey / Turkish       |
-|--------------|--------------|------------------------|
-| Uruguay      | uruguayo/a   | Uruguay / Uruguayan    |
-| Venezuela    | venezolano/a | Venezuela / Venezuelan |
-| nacionalidad | -            | nationality            |
+{40}------------------------------------------------
 
 #### **Geographical Areas**
 
@@ -1048,7 +1017,7 @@ Learners are expected to know the names of all Spanish-speaking countries and th
 | río, el     | river                     |
 | zona, la    | area, zone                |
 
-{40}------------------------------------------------
+{41}------------------------------------------------
 
 **Numbers**
 
@@ -1088,7 +1057,7 @@ Learners are expected to know the numbers 1 – 100
 | gafas, las        | glasses            |
 | gafas de sol, las | sunglasses         |
 
-{41}------------------------------------------------
+{42}------------------------------------------------
 
 | gorra, la                | cap                       |
 |--------------------------|---------------------------|
@@ -1112,137 +1081,128 @@ Learners are expected to know the numbers 1 – 100
 
 #### **Food and drink**
 
-| Spanish         | English equivalent                 |
-|-----------------|------------------------------------|
-| comida (f)      | meal                               |
-| agua, el        | water                              |
-| albóndigas, las | meatballs                          |
-| almorzar        | to have lunch                      |
-| almuerzo, el    | lunch                              |
-| arroz, el       | rice                               |
-| azúcar, el      | sugar                              |
-| banana, la      | banana (in Latin American Spanish) |
-| beber           | to drink                           |
-| bebida, la      | drink                              |
-
-{42}------------------------------------------------
-
-| bocadillo, el   | sandwich                           |
-|-----------------|------------------------------------|
-| café, el        | coffee, café                       |
-| caramelo, el    | sweet                              |
-| carne, la       | meat                               |
-| cenar           | to have dinner                     |
-| cena, la        | dinner                             |
-| chocolate, el   | chocolate                          |
-| chorizo, el     | spicy sausage                      |
-| comer           | to eat                             |
-| comida, la      | food, meal                         |
-| desayunar       | to have breakfast                  |
-| desayuno, el    | breakfast                          |
-| ensalada, la    | salad                              |
-| frambuesa, la   | raspberry                          |
-| fresa, la       | strawberry                         |
-| frijoles, los   | black beans                        |
-| fruta, la       | fruit                              |
-| gaseosa, la     | fizzy drink                        |
-| hamburguesa, la | hamburger                          |
-| helado, el      | ice-cream                          |
-| huevo, el       | egg                                |
-| jamón, el       | ham                                |
-| jugo, el        | juice (Latin American Spanish)     |
-| leche, la       | milk                               |
-| mantequilla, la | butter                             |
-| manzana, la     | apple                              |
-| merienda, la    | afternoon snack                    |
-| naranja, la     | orange                             |
-| paella, la | paella – rice dish |
-| pan, el         | bread                              |
-| papa, la        | potato (in Latin American Spanish) |
+| Spanish               | English equivalent                                            |
+|-----------------------|---------------------------------------------------------------|
+| comida (f)            | meal                                                          |
+| agua, el              | water                                                         |
+| albóndigas, las       | meatballs                                                     |
+| almorzar              | to have lunch                                                 |
+| almuerzo, el          | lunch                                                         |
+| arroz, el             | rice                                                          |
+| azúcar, el            | sugar                                                         |
+| banana, la            | banana (in Latin American Spanish)                            |
+| beber                 | to drink                                                      |
+| bebida, la            | drink                                                         |
+| bocadillo, el         | sandwich                                                      |
+| café, el              | coffee, café                                                  |
+| caramelo, el          | sweet                                                         |
+| carne, la             | meat                                                          |
+| cenar                 | to have dinner                                                |
+| cena, la              | dinner                                                        |
+| chocolate, el         | chocolate                                                     |
+| chorizo, el           | spicy sausage                                                 |
+| comer                 | to eat                                                        |
+| comida, la            | food, meal                                                    |
+| desayunar             | to have breakfast                                             |
+| desayuno, el          | breakfast                                                     |
+| ensalada, la          | salad                                                         |
+| frambuesa, la         | raspberry                                                     |
+| fresa, la             | strawberry                                                    |
+| frijoles, los         | black beans                                                   |
+| fruta, la             | fruit                                                         |
+| gaseosa, la           | fizzy drink                                                   |
+| hamburguesa, la       | hamburger                                                     |
+| helado, el            | ice-cream                                                     |
+| huevo, el             | egg                                                           |
+| jamón, el             | ham                                                           |
+| jugo, el              | juice (Latin American Spanish)                                |
+| leche, la             | milk                                                          |
+| mantequilla, la       | butter                                                        |
+| manzana, la           | apple                                                         |
+| merienda, la          | afternoon snack                                               |
+| naranja, la           | orange                                                        |
+| paella, la            | paella –<br>rice dish                                         |
+| pan, el               | bread                                                         |
+| papa, la              | potato (in Latin American Spanish)                            |
+| Spanish               | English                                                       |
+| patata, la            | potato                                                        |
+| patatas fritas, las   | chips                                                         |
+| pescado, el           | fish (caught)                                                 |
+| pimiento, el          | pepper                                                        |
+| plátano, el           | banana (Castilian Spanish), plantain (Latin American Spanish) |
+| plato, el             | plate, dish                                                   |
+| pollo, el             | chicken                                                       |
+| queso, el             | cheese                                                        |
+| restaurante, el       | restaurant                                                    |
+| sal, la               | salt                                                          |
+| tapa, la              | small savoury dish served in a bar                            |
+| tomate, el            | tomato                                                        |
+| tarta, la             | cake                                                          |
+| tortilla, la          | tortilla wrap / omelette                                      |
+| tortilla española, la | Spanish omelette                                              |
+| vegetal, el           | vegetable                                                     |
+| verdura, la           | vegetable                                                     |
+| zumo, el              | juice                                                         |
 
 {43}------------------------------------------------
 
-| patata, la            | potato                                                           |
-|-----------------------|------------------------------------------------------------------|
-| patatas fritas, las   | chips                                                            |
-| pescado, el           | fish (caught)                                                    |
-| pimiento, el          | pepper                                                           |
-| plátano, el | banana (Castilian Spanish), plantain (Latin American Spanish) |
-| plato, el             | plate, dish                                                      |
-| pollo, el             | chicken                                                          |
-| queso, el             | cheese                                                           |
-| restaurante, el       | restaurant                                                       |
-| sal, la               | salt                                                             |
-| tapa, la              | small savoury dish served in a bar                               |
-| tomate, el            | tomato                                                           |
-| tarta, la             | cake                                                             |
-| tortilla, la          | tortilla wrap / omelette                                         |
-| tortilla española, la | Spanish omelette                                                 |
-| vegetal, el           | vegetable                                                        |
-| verdura, la           | vegetable                                                        |
-| zumo, el              | juice                                                            |
-|                       |                                                                  |
+{44}------------------------------------------------
 
 #### **Sports and hobbies**
 
-| Spanish        | English equivalent |
-|----------------|--------------------|
-| actividad, la  | activity           |
-| bailar         | to dance           |
-| baloncesto, el | basketball         |
-| batería, la    | drum               |
-| boxeo, el      | boxing             |
-| canción, la    | song               |
-| cantar         | to sing            |
-| ciclismo, el   | cycling            |
-| cine, el       | cinema             |
-| comedia, la    | comedy             |
-
-{44}------------------------------------------------
-
-| concierto, el          | concert                                |
-|------------------------|----------------------------------------|
-| correr                 | to run                                 |
-| deporte, el            | sport                                  |
-| descargar              | to download                            |
-| dibujo animado, el     | cartoon                                |
-| equitación, la         | horse riding                           |
-| escuchar               | to listen                              |
-| espectáculo, el        | show (performance)                     |
-| esquiar                | to ski                                 |
-| estadio, el            | stadium                                |
-| fútbol, el             | football                               |
-| gimnasia, la           | gymnastics                             |
-| gimnasio, el           | gym                                    |
-| golf, el               | golf                                   |
-| guitarra, la           | guitar                                 |
-| juego, el              | game                                   |
-| jugar                  | to play (used with sports with a ball) |
-| leer                   | to read                                |
-| libro, el              | book                                   |
-| móvil, el              | mobile phone                           |
-| música, la             | music                                  |
-| nadar                  | to swim                                |
-| natación, la           | swimming                               |
-| navegar (por internet) | to surf the internet                   |
-| ordenador, el          | computer                               |
-| película, la           | film                                   |
-| pasatiempo, el         | hobby                                  |
-| pintar                 | to paint, decorate                     |
-| pintura, la            | painting                               |
-| piscina, la            | swimming pool                          |
-| polideportivo, el      | sports centre, leisure centre          |
-|                        |                                        |
-
-{45}------------------------------------------------
-
-| red social, la         | social network                                          |
+| Spanish                | English equivalent                                      |
 |------------------------|---------------------------------------------------------|
+| actividad, la          | activity                                                |
+| bailar                 | to dance                                                |
+| baloncesto, el         | basketball                                              |
+| batería, la            | drum                                                    |
+| boxeo, el              | boxing                                                  |
+| canción, la            | song                                                    |
+| cantar                 | to sing                                                 |
+| ciclismo, el           | cycling                                                 |
+| cine, el               | cinema                                                  |
+| comedia, la            | comedy                                                  |
+| concierto, el          | concert                                                 |
+| correr                 | to run                                                  |
+| deporte, el            | sport                                                   |
+| descargar              | to download                                             |
+| dibujo animado, el     | cartoon                                                 |
+| equitación, la         | horse riding                                            |
+| escuchar               | to listen                                               |
+| espectáculo, el        | show (performance)                                      |
+| esquiar                | to ski                                                  |
+| estadio, el            | stadium                                                 |
+| fútbol, el             | football                                                |
+| gimnasia, la           | gymnastics                                              |
+| gimnasio, el           | gym                                                     |
+| golf, el               | golf                                                    |
+| guitarra, la           | guitar                                                  |
+| juego, el              | game                                                    |
+| jugar                  | to play (used with sports with a ball)                  |
+| leer                   | to read                                                 |
+| libro, el              | book                                                    |
+| móvil, el              | mobile phone                                            |
+| música, la             | music                                                   |
+| nadar                  | to swim                                                 |
+| natación, la           | swimming                                                |
+| navegar (por internet) | to surf the internet                                    |
+| ordenador, el          | computer                                                |
+| película, la           | film                                                    |
+| pasatiempo, el         | hobby                                                   |
+| pintar                 | to paint, decorate                                      |
+| pintura, la            | painting                                                |
+| piscina, la            | swimming pool                                           |
+| polideportivo, el      | sports centre, leisure centre                           |
+| red social, la         | social network                                          |
 | rugby, el              | rugby                                                   |
-| tableta, la | tablet (technology), can also mean tablet (medicine) |
+| tableta, la            | tablet (technology), can also mean tablet<br>(medicine) |
 | telenovela, la         | soap (tv show)                                          |
 | televisión, la         | TV                                                      |
 | tocar (un instrumento) | to play (an instrument)                                 |
+
+{45}------------------------------------------------
+
+{46}------------------------------------------------
 
 #### **School subjects**
 
@@ -1271,7 +1231,7 @@ Learners are expected to know the numbers 1 – 100
 | Informática, la             | IT                 |
 | Inglés, el                  | English            |
 
-{46}------------------------------------------------
+{47}------------------------------------------------
 
 | Lengua, la       | language    |
 |------------------|-------------|
@@ -1280,32 +1240,236 @@ Learners are expected to know the numbers 1 – 100
 
 #### **Transport**
 
-| Spanish                         | English equivalent         |
-|---------------------------------|----------------------------|
-| aeropuerto, el                  | airport                    |
-| andar                           | to walk                    |
-| autobús, el                     | bus                        |
-| avión, el                       | plane                      |
-| barco, el                       | boat                       |
-| bicicleta, la                   | bike                       |
-| billete, el                     | ticket                     |
-| camión, el                      | truck                      |
-| carretera, la                   | road                       |
-| coche, el                       | car                        |
-| scooter, el / escúter, el | scooter/motor scooter |
-| conducir                        | to drive                   |
-| conductor, el / conductora, la  | driver                     |
-| estación, la                    | station                    |
-| ir a pie                        | to walk                    |
-| motocicleta, la                 | motorbike                  |
-| metro, el                       | metro, underground railway |
-| transporte público, el          | public transport           |
-| tren, el                        | train                      |
-| viajar                          | to travel                  |
-| viaje, el                       | trip, journey              |
-| volar                           | to fly                     |
+| Spanish                        | English equivalent                                                         |
+|--------------------------------|----------------------------------------------------------------------------|
+| aeropuerto, el                 | airport                                                                    |
+| andar                          | to walk                                                                    |
+| autobús, el                    | bus                                                                        |
+| avión, el                      | plane                                                                      |
+| barco, el                      | boat                                                                       |
+| bicicleta, la                  | bike                                                                       |
+| billete, el                    | ticket                                                                     |
+| camión, el                     | truck                                                                      |
+| carretera, la                  | road                                                                       |
+| coche, el                      | car                                                                        |
+| scooter, el / escúter, el      | scooter/motor scooter                                                      |
+| conducir                       | to drive                                                                   |
+| conductor, el / conductora, la | driver                                                                     |
+| estación, la                   | station                                                                    |
+| ir a pie                       | to walk                                                                    |
+| motocicleta, la                | motorbike                                                                  |
+| metro, el                      | metro, underground railway                                                 |
+| transporte público, el         | public transport                                                           |
+| tren, el                       | train                                                                      |
+| viajar                         | to travel                                                                  |
+| viaje, el                      | trip, journey                                                              |
+| volar                          | to fly                                                                     |
+| Spanish                        | English equivalent                                                         |
+| absoluto                       | absolute                                                                   |
+| activo                         | active                                                                     |
+| actual                         | current                                                                    |
+| agradable                      | nice, pleasant                                                             |
+| alérgico                       | allergic                                                                   |
+| alto                           | tall, high                                                                 |
+| ambicioso                      | ambitious                                                                  |
+| anterior                       | previous, preceding                                                        |
+| antiguo                        | old                                                                        |
+| artístico                      | artistic                                                                   |
+| asado                          | roasted                                                                    |
+| asqueroso                      | disgusting                                                                 |
+| asustado                       | scared                                                                     |
+| bajo                           | short, poor, low                                                           |
+| barato                         | cheap                                                                      |
+| básico                         | basic, essential                                                           |
+| cansado                        | tired                                                                      |
+| capaz                          | capable, able                                                              |
+| caro                           | expensive                                                                  |
+| cómodo                         | comfortable                                                                |
+| complejo                       | complex, complicated                                                       |
+| completo                       | complete, full                                                             |
+| comprensivo                    | understanding                                                              |
+| común                          | common                                                                     |
+| conectado                      | connected/on-line                                                          |
+| conocido                       | known, well-known                                                          |
+| consciente                     | conscious, aware                                                           |
+| contento                       | happy, content                                                             |
+| corto                          | short, brief                                                               |
+| cotidiano                      | daily                                                                      |
+| cualquier                      | any (pre-noun)                                                             |
+| de tiempo parcial              | part-time                                                                  |
+| débil                          | weak                                                                       |
+| decepcionante                  | disappointing                                                              |
+| delgado                        | thin, slim, fine                                                           |
+| deportivo                      | sporty                                                                     |
+| desagradable                   | unpleasant                                                                 |
+| desconocido                    | unknown                                                                    |
+| directo                        | direct, straight                                                           |
+| disponible                     | available                                                                  |
+| divorciado                     | divorced                                                                   |
+| doble                          | double                                                                     |
+| dulce                          | sweet, tender                                                              |
+| duro                           | hard, resilient                                                            |
+| electrónico                    | electric/electronic                                                        |
+| elegante                       | elegant                                                                    |
+| emocionado                     | excited                                                                    |
+| encantador                     | delightful, enchanting                                                     |
+| enfermo                        | ill, sick                                                                  |
+| enojado                        | angry                                                                      |
+| enorme                         | enormous, vast                                                             |
+| entero                         | entire, whole                                                              |
+| entretenido                    | entertaining                                                               |
+| eólico                         | wind                                                                       |
+| escaso                         | scarce, very little                                                        |
+| escolar                        | school, scholastic                                                         |
+| espantoso                      | frightening                                                                |
+| especial                       | special                                                                    |
+| estable                        | stable, steady                                                             |
+| estresado                      | stressed                                                                   |
+| estricto                       | strict                                                                     |
+| europeo                        | European                                                                   |
+| evidente                       | evident, obvious                                                           |
+| exacto                         | exact, true                                                                |
+| extraño                        | strange, foreign                                                           |
+| extraordinario                 | extraordinary                                                              |
+| famoso                         | famous, well-known                                                         |
+| feliz                          | happy                                                                      |
+| fiel                           | faithful, loyal                                                            |
+| fijo                           | fixed                                                                      |
+| físico                         | physical                                                                   |
+| formal                         | formal                                                                     |
+| frito                          | fried                                                                      |
+| fuerte                         | strong, loud                                                               |
+| global                         | global                                                                     |
+| gordo                          | fat, overweight                                                            |
+| gran/grande                    | big, large (m, f) (pre/post-noun)                                          |
+| grave                          | serious, grave                                                             |
+| grueso                         | thick                                                                      |
+| guapo                          | good-looking                                                               |
+| guay                           | cool                                                                       |
+| habitual                       | usual, habitual                                                            |
+| híbrido                        | petrol-electric car                                                        |
+| hidroeléctrica                 | hydroelectric                                                              |
+| hispanohablante                | Spanish speaking                                                           |
+| histórico                      | historical                                                                 |
+| horroroso                      | horrific, dreadful                                                         |
+| humano                         | human                                                                      |
+| ideal                          | ideal                                                                      |
+| imposible                      | impossible                                                                 |
+| impresionante                  | impressive                                                                 |
+| incómodo                       | uncomfortable                                                              |
+| increíble                      | incredible                                                                 |
+| independiente                  | independent, self-sufficient                                               |
+| indígena                       | indigenous                                                                 |
+| industrial                     | industrial                                                                 |
+| infantil                       | child-like, childish                                                       |
+| influyente                     | influential                                                                |
+| injusto                        | unjust                                                                     |
+| inseguro                       | insecure                                                                   |
+| internacional                  | international                                                              |
+| islámico                       | Islamic                                                                    |
+| juntos                         | together                                                                   |
+| justo                          | fair, just                                                                 |
+| largo                          | long                                                                       |
+| latino                         | Latin                                                                      |
+| lejano                         | far away, distant                                                          |
+| ligero                         | light (weight)                                                             |
+| limpio                         | clean                                                                      |
+| listo                          | ready, clever, intelligent                                                 |
+| lleno                          | full                                                                       |
+| malsano                        | unhealthy                                                                  |
+| maravilloso                    | marvellous                                                                 |
+| mediano                        | medium                                                                     |
+| médico                         | medical                                                                    |
+| mediterráneo                   | mediterranean                                                              |
+| mínimo                         | minimum                                                                    |
+| moderno                        | modern                                                                     |
+| molesto                        | annoying                                                                   |
+| mono                           | cute                                                                       |
+| muerto                         | dead                                                                       |
+| nacional                       | national                                                                   |
+| natural                        | natural                                                                    |
+| necesario                      | necessary                                                                  |
+| negativo                       | negative                                                                   |
+| nervioso                       | nervous, uptight                                                           |
+| ningún, ninguno/a              | none, not one, not any                                                     |
+| no binario                     | non-binary                                                                 |
+| nuclear                        | nuclear                                                                    |
+| nuevo                          | new                                                                        |
+| numeroso                       | numerous                                                                   |
+| obsesionado                    | obsessed                                                                   |
+| occidental                     | Western, relating to the Western world, now<br>often known as Global North |
+| ocupado                        | busy, occupied, taken                                                      |
+| optimista                      | optimistic                                                                 |
+| orgulloso                      | proud                                                                      |
+| peligroso                      | dangerous                                                                  |
+| pequeño                        | little, small                                                              |
+| perdido                        | lost                                                                       |
+| perezoso                       | lazy                                                                       |
+| perfecto                       | perfect                                                                    |
+| pesado                         | heavy                                                                      |
+| plateado                       | silver                                                                     |
+| pobre                          | poor, unfortunate (pre-noun), poor, without<br>money (post-noun)           |
+| poderoso                       | powerful                                                                   |
+| popular                        | popular                                                                    |
+| posible                        | possible                                                                   |
+| positivo                       | positive                                                                   |
+| práctico                       | practical, useful                                                          |
+| principal                      | main, principal                                                            |
+| Spanish                        | English                                                                    |
+| propio                         | own (pre-noun)                                                             |
+| puro                           | pure, clean                                                                |
+| querido                        | dear                                                                       |
+| raro                           | strange, unusual                                                           |
+| real                           | royal, real                                                                |
+| reciclado                      | recycled                                                                   |
+| reciente                       | recent                                                                     |
+| relajante                      | relaxing                                                                   |
+| religioso                      | religious                                                                  |
+| renovable                      | renewable                                                                  |
+| responsable                    | responsible                                                                |
+| rico                           | rich, tasty                                                                |
+| roto                           | broken                                                                     |
+| saludable                      | healthy, wholesome                                                         |
+| salvaje                        | wild                                                                       |
+| sano                           | healthy, wholesome                                                         |
+| seco                           | dry                                                                        |
+| seguro                         | certain, secure                                                            |
+| sencillo                       | simple, easy                                                               |
+| sensible                       | sensitive                                                                  |
+| separado                       | separated                                                                  |
+| serio                          | serious                                                                    |
+| siguiente                      | following                                                                  |
+| simpático                      | nice, friendly                                                             |
+| solar                          | solar                                                                      |
+| sorprendido                    | surprised                                                                  |
+| sostenible                     | sustainable                                                                |
+| suave                          | soft, gentle, mild                                                         |
+| sucio                          | dirty                                                                      |
+| suficiente                     | sufficient, enough                                                         |
+| tal                            | such (a)                                                                   |
+| terrible                       | terrible                                                                   |
+| terrorífico                    | terrifying, horrific                                                       |
+| típico                         | typical                                                                    |
+| tonto                          | silly                                                                      |
+| total                          | total, entire                                                              |
+| tradicional                    | traditional                                                                |
+| transgénero                    | transgender                                                                |
+| triste                         | sad, unhappy                                                               |
+| último                         | last, final                                                                |
+| único                          | only, unique                                                               |
+| urbano                         | urban                                                                      |
+| vacío                          | empty                                                                      |
+| vago                           | lazy                                                                       |
+| varios                         | several, various                                                           |
+| vegano/a                       | vegan                                                                      |
+| vegetariano/a                  | vegetarian                                                                 |
+| verdadero                      | true, real                                                                 |
+| viejo                          | old                                                                        |
+| violento                       | violent                                                                    |
+| vivo                           | bright                                                                     |
+| vocacional                     | vocational                                                                 |
 
-{47}------------------------------------------------
+{48}------------------------------------------------
 
 ## <span id="page-47-0"></span>Core vocabulary
 
@@ -1313,247 +1477,29 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 
 #### **Adjectives**
 
-| Spanish     | English equivalent   |
-|-------------|----------------------|
-| absoluto    | absolute             |
-| activo      | active               |
-| actual      | current              |
-| agradable   | nice, pleasant       |
-| alérgico    | allergic             |
-| alto        | tall, high           |
-| ambicioso   | ambitious            |
-| anterior    | previous, preceding  |
-| antiguo     | old                  |
-| artístico   | artistic             |
-| asado       | roasted              |
-| asqueroso   | disgusting           |
-| asustado    | scared               |
-| bajo        | short, poor, low     |
-| barato      | cheap                |
-| básico      | basic, essential     |
-| cansado     | tired                |
-| capaz       | capable, able        |
-| caro        | expensive            |
-| cómodo      | comfortable          |
-| complejo    | complex, complicated |
-| completo    | complete, full       |
-| comprensivo | understanding        |
-| común       | common               |
-| conectado   | connected/on-line    |
-
-{48}------------------------------------------------
-
-| consciente conscious, aware contento happy, content corto short, brief cotidiano daily cualquier any (pre-noun) de tiempo parcial part-time débil weak decepcionante disappointing delgado thin, slim, fine deportivo sporty desagradable unpleasant desconocido unknown directo direct, straight disponible available divorciado divorced doble double dulce sweet, tender duro hard, resilient electrónico electric/electronic elegante elegant emocionado excited encantador delightful, enchanting enfermo ill, sick enojado angry enorme enormous, vast entero entire, whole entretenido entertaining eólico wind escaso scarce, very little escolar school, scholastic | conocido | known, well-known |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |          |                   |
-
 {49}------------------------------------------------
-
-| espantoso       | frightening                       |
-|-----------------|-----------------------------------|
-| especial        | special                           |
-| estable         | stable, steady                    |
-| estresado       | stressed                          |
-| estricto        | strict                            |
-| europeo         | European                          |
-| evidente        | evident, obvious                  |
-| exacto          | exact, true                       |
-| extraño         | strange, foreign                  |
-| extraordinario  | extraordinary                     |
-| famoso          | famous, well-known                |
-| feliz           | happy                             |
-| fiel            | faithful, loyal                   |
-| fijo            | fixed                             |
-| físico          | physical                          |
-| formal          | formal                            |
-| frito           | fried                             |
-| fuerte          | strong, loud                      |
-| global          | global                            |
-| gordo           | fat, overweight                   |
-| gran/grande     | big, large (m, f) (pre/post-noun) |
-| grave           | serious, grave                    |
-| grueso          | thick                             |
-| guapo           | good-looking                      |
-| guay            | cool                              |
-| habitual        | usual, habitual                   |
-| híbrido         | petrol-electric car               |
-| hidroeléctrica  | hydroelectric                     |
-| hispanohablante | Spanish speaking                  |
-| histórico       | historical                        |
-| horroroso       | horrific, dreadful                |
-|                 |                                   |
 
 {50}------------------------------------------------
 
-| humano        | human                        |
-|---------------|------------------------------|
-| ideal         | ideal                        |
-| imposible     | impossible                   |
-| impresionante | impressive                   |
-| incómodo      | uncomfortable                |
-| increíble     | incredible                   |
-| independiente | independent, self-sufficient |
-| indígena      | indigenous                   |
-| industrial    | industrial                   |
-| infantil      | child-like, childish         |
-| influyente    | influential                  |
-| injusto       | unjust                       |
-| inseguro      | insecure                     |
-| internacional | international                |
-| islámico      | Islamic                      |
-| juntos        | together                     |
-| justo         | fair, just                   |
-| largo         | long                         |
-| latino        | Latin                        |
-| lejano        | far away, distant            |
-| ligero        | light (weight)               |
-| limpio        | clean                        |
-| listo         | ready, clever, intelligent   |
-| lleno         | full                         |
-| malsano       | unhealthy                    |
-| maravilloso   | marvellous                   |
-| mediano       | medium                       |
-| médico        | medical                      |
-| mediterráneo  | mediterranean                |
-| mínimo        | minimum                      |
-| moderno       | modern                       |
-| molesto       | annoying                     |
-
 {51}------------------------------------------------
-
-| mono              | cute                                                                       |
-|-------------------|----------------------------------------------------------------------------|
-| muerto            | dead                                                                       |
-| nacional          | national                                                                   |
-| natural           | natural                                                                    |
-| necesario         | necessary                                                                  |
-| negativo          | negative                                                                   |
-| nervioso          | nervous, uptight                                                           |
-| ningún, ninguno/a | none, not one, not any                                                     |
-| no binario        | non-binary                                                                 |
-| nuclear           | nuclear                                                                    |
-| nuevo             | new                                                                        |
-| numeroso          | numerous                                                                   |
-| obsesionado       | obsessed                                                                   |
-| occidental | Western, relating to the Western world, now often known as Global North |
-| ocupado           | busy, occupied, taken                                                      |
-| optimista         | optimistic                                                                 |
-| orgulloso         | proud                                                                      |
-| peligroso         | dangerous                                                                  |
-| pequeño           | little, small                                                              |
-| perdido           | lost                                                                       |
-| perezoso          | lazy                                                                       |
-| perfecto          | perfect                                                                    |
-| pesado            | heavy                                                                      |
-| plateado          | silver                                                                     |
-| pobre | poor, unfortunate (pre-noun), poor, without money (post-noun) |
-| poderoso          | powerful                                                                   |
-| popular           | popular                                                                    |
-| posible           | possible                                                                   |
-| positivo          | positive                                                                   |
-| práctico          | practical, useful                                                          |
-| principal         | main, principal                                                            |
 
 {52}------------------------------------------------
 
-| propio      | own (pre-noun)     |  |
-|-------------|--------------------|--|
-| puro        | pure, clean        |  |
-| querido     | dear               |  |
-| raro        | strange, unusual   |  |
-| real        | royal, real        |  |
-| reciclado   | recycled           |  |
-| reciente    | recent             |  |
-| relajante   | relaxing           |  |
-| religioso   | religious          |  |
-| renovable   | renewable          |  |
-| responsable | responsible        |  |
-| rico        | rich, tasty        |  |
-| roto        | broken             |  |
-| saludable   | healthy, wholesome |  |
-| salvaje     | wild               |  |
-| sano        | healthy, wholesome |  |
-| seco        | dry                |  |
-| seguro      | certain, secure    |  |
-| sencillo    | simple, easy       |  |
-| sensible    | sensitive          |  |
-| separado    | separated          |  |
-| serio       | serious            |  |
-| siguiente   | following          |  |
-| simpático   | nice, friendly     |  |
-| solar       | solar              |  |
-| sorprendido | surprised          |  |
-| sostenible  | sustainable        |  |
-| suave       | soft, gentle, mild |  |
-| sucio       | dirty              |  |
-| suficiente  | sufficient, enough |  |
-| tal         | such (a)           |  |
-| terrible    | terrible           |  |
-
 {53}------------------------------------------------
 
-| terrorífico   | terrifying, horrific |
-|---------------|----------------------|
-| típico        | typical              |
-| tonto         | silly                |
-| total         | total, entire        |
-| tradicional   | traditional          |
-| transgénero   | transgender          |
-| triste        | sad, unhappy         |
-| último        | last, final          |
-| único         | only, unique         |
-| urbano        | urban                |
-| vacío         | empty                |
-| vago          | lazy                 |
-| varios        | several, various     |
-| vegano/a      | vegan                |
-| vegetariano/a | vegetarian           |
-| verdadero     | true, real           |
-| viejo         | old                  |
-| violento      | violent              |
-| vivo          | bright               |
-| vocacional    | vocational           |
-
 {54}------------------------------------------------
+
+{55}------------------------------------------------
 
 #### **Adjectives / Adverbs**
 
 | Spanish                            | English equivalent                        |
 |------------------------------------|-------------------------------------------|
-| afortunado / afortunadamente | lucky / luckily |
+| afortunado<br>/<br>afortunadamente | lucky<br>/<br>luckily                     |
 | gratis                             | free (of charge)                          |
-| lento / lentamente | slow / slowly |
-| profundo / profundamente | profound, deep / profoundly, deeply |
-| rápido / rápidamente | quick / quickly |
+| lento<br>/<br>lentamente           | slow<br>/<br>slowly                       |
+| profundo<br>/<br>profundamente     | profound, deep<br>/<br>profoundly, deeply |
+| rápido<br>/<br>rápidamente         | quick<br>/<br>quickly                     |
 
 #### **Adverbs**
 
@@ -1581,10 +1527,11 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | hace (+ time)         | it's been…                     |
 | hace                  | ago                            |
 
-{55}------------------------------------------------
+{56}------------------------------------------------
 
-| hoy en día     | nowadays              |
+| Spanish        | English               |
 |----------------|-----------------------|
+| hoy en día     | nowadays              |
 | jamás          | never                 |
 | justo          | just, exactly         |
 | mientras tanto | meanwhile             |
@@ -1599,638 +1546,604 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | solo           | only, just            |
 | también        | also                  |
 
-{56}------------------------------------------------
+{57}------------------------------------------------
 
 #### **Nouns**
 
-| m/f/pl    | Spanish       | English equivalent                       |
-|-----------|---------------|------------------------------------------|
-| n (f)     | abeja         | bee                                      |
-| n (m/f)   | abogado/a     | lawyer                                   |
-| n (f)     | abuela        | grandmother                              |
-| n (m)     | abuelo        | grandfather                              |
-| n (m)     | accidente     | accident                                 |
-| n (f)     | acción        | action, act                              |
-| n (m)     | acoso         | bullying (can also be used for trolling) |
-| n (f)     | actitud       | attitude                                 |
-| n (m/f/n) | actor, actriz | actor                                    |
-| n (f)     | actualidad    | present time                             |
-| n (m)     | acuerdo       | agreement                                |
-| n (f)     | adicción      | addiction                                |
-| n (m/f/n) | adolescente   | adolescent                               |
-| n (m)     | adulto        | adult, grown-up                          |
-| n (f)     | afirmación    | statement                                |
-| n (m)     | agua potable  | drinking water                           |
-| n (m)     | aire          | air                                      |
-| n (m)     | ajedrez       | chess                                    |
-| n (m/f/n) | albañil       | builder                                  |
-| n (m)     | alcohol       | alcohol                                  |
-| n (f)     | alegría       | joy, happiness                           |
-| n (f)     | alergia       | allergy                                  |
-| n (m)     | alimento      | food, nourishment                        |
-| n (m)     | alojamiento   | accommodation                            |
-| n (f)     | altura        | height                                   |
-| n (m)     | alumno        | student, pupil                           |
-| n (m)     | ambiente      | atmosphere                               |
-| n (f)     | amenaza       | threat                                   |
-| n (m)     | amigo         | friend                                   |
-
-{57}------------------------------------------------
-
-| n (f)     | amistad       | friendship              |
-|-----------|---------------|-------------------------|
-| n (m/f/n) | amo/a de casa | househusband, housewife |
-| n (m)     | amor          | love                    |
-| n (m)     | andén         | platform                |
-| n (m)     | animal        | animal                  |
-| n (f)     | animación     | animation               |
-| n (m)     | ánimo         | spirits, encouragement  |
-| n (f)     | ansiedad      | anxiety                 |
-| n (m)     | anuncio       | notice, advert          |
-| n (f)     | aplicación    | app, application        |
-| n (m)     | apoyo         | support, backing        |
-| n (m/f/n) | aprendiz      | apprentice              |
-| n (m)     | aprendizaje   | apprenticeship          |
-| n (m)     | árbol         | tree                    |
-| n (f)     | arena         | sand                    |
-| n (f)     | arte marcial  | martial art             |
-| n (m/f/n) | artista       | artist, performer       |
-| n (m/f/n) | asistente     | assistant               |
-| n (m)     | aspecto       | aspect, appearance      |
-| n (m)     | asunto        | matter, issue           |
-| n (m)     | ataque        | attack                  |
-| n (f)     | atención      | attention               |
-| n (m/f/n) | atleta        | athlete                 |
-| n (m)     | atletismo     | athletics               |
-| n (f)     | aula          | classroom               |
-| n (f)     | autopista     | motorway                |
-| n (m/f/n) | autor/a       | writer, author          |
-| n (f)     | autoridad     | authority               |
-| n (f)     | aventura      | adventure               |
-| n (f)     | ayuda         | help                    |
-| n (m)     | ayuntamiento  | town hall               |
+| m/f/pl    | Spanish                  | English equivalent                                  |
+|-----------|--------------------------|-----------------------------------------------------|
+| n (f)     | abeja                    | bee                                                 |
+| n (m/f)   | abogado/a                | lawyer                                              |
+| n (f)     | abuela                   | grandmother                                         |
+| n (m)     | abuelo                   | grandfather                                         |
+| n (m)     | accidente                | accident                                            |
+| n (f)     | acción                   | action, act                                         |
+| n (m)     | acoso                    | bullying (can also be used for trolling)            |
+| n (f)     | actitud                  | attitude                                            |
+| n (m/f/n) | actor, actriz            | actor                                               |
+| n (f)     | actualidad               | present time                                        |
+| n (m)     | acuerdo                  | agreement                                           |
+| n (f)     | adicción                 | addiction                                           |
+| n (m/f/n) | adolescente              | adolescent                                          |
+| n (m)     | adulto                   | adult, grown-up                                     |
+| n (f)     | afirmación               | statement                                           |
+| n (m)     | agua potable             | drinking water                                      |
+| n (m)     | aire                     | air                                                 |
+| n (m)     | ajedrez                  | chess                                               |
+| n (m/f/n) | albañil                  | builder                                             |
+| n (m)     | alcohol                  | alcohol                                             |
+| n (f)     | alegría                  | joy, happiness                                      |
+| n (f)     | alergia                  | allergy                                             |
+| n (m)     | alimento                 | food, nourishment                                   |
+| n (m)     | alojamiento              | accommodation                                       |
+| n (f)     | altura                   | height                                              |
+| n (m)     | alumno                   | student, pupil                                      |
+| n (m)     | ambiente                 | atmosphere                                          |
+| n (f)     | amenaza                  | threat                                              |
+| n (m)     | amigo                    | friend                                              |
+| n (f)     | amistad                  | friendship                                          |
+| n (m/f/n) | amo/a de casa            | househusband, housewife                             |
+| n (m)     | amor                     | love                                                |
+| n (m)     | andén                    | platform                                            |
+| n (m)     | animal                   | animal                                              |
+| n (f)     | animación                | animation                                           |
+| n (m)     | ánimo                    | spirits, encouragement                              |
+| n (f)     | ansiedad                 | anxiety                                             |
+| n (m)     | anuncio                  | notice, advert                                      |
+| n (f)     | aplicación               | app, application                                    |
+| n (m)     | apoyo                    | support, backing                                    |
+| n (m/f/n) | aprendiz                 | apprentice                                          |
+| n (m)     | aprendizaje              | apprenticeship                                      |
+| n (m)     | árbol                    | tree                                                |
+| n (f)     | arena                    | sand                                                |
+| n (f)     | arte marcial             | martial art                                         |
+| n (m/f/n) | artista                  | artist, performer                                   |
+| n (m/f/n) | asistente                | assistant                                           |
+| n (m)     | aspecto                  | aspect, appearance                                  |
+| n (m)     | asunto                   | matter, issue                                       |
+| n (m)     | ataque                   | attack                                              |
+| n (f)     | atención                 | attention                                           |
+| n (m/f/n) | atleta                   | athlete                                             |
+| n (m)     | atletismo                | athletics                                           |
+| n (f)     | aula                     | classroom                                           |
+| n (f)     | autopista                | motorway                                            |
+| n (m/f/n) | autor/a                  | writer, author                                      |
+| n (f)     | autoridad                | authority                                           |
+| n (f)     | aventura                 | adventure                                           |
+| n (f)     | ayuda                    | help                                                |
+| n (m)     | ayuntamiento             | town hall                                           |
+| n (m/f/n) | azafato/a                | flight attendant                                    |
+| n (m)     | baño                     | bathroom                                            |
+| n (m)     | bar                      | bar                                                 |
+| n (f)     | basura                   | rubbish                                             |
+| n (f)     | batería                  | battery                                             |
+| n (m)     | bebé                     | baby                                                |
+| n (f)     | belleza                  | beauty                                              |
+| n (m)     | beneficio                | benefit                                             |
+| n (f)     | biblioteca               | library                                             |
+| n (m)     | bienestar                | wellbeing                                           |
+| n (f)     | boca                     | mouth                                               |
+| n (f)     | boda                     | wedding                                             |
+| n (f)     | bolsa                    | bag                                                 |
+| n (m/f/n) | bombero/a                | firefighter                                         |
+| n (m)     | borde                    | edge                                                |
+| n (f)     | botella                  | bottle                                              |
+| n (m)     | brazo                    | arm                                                 |
+| n (f)     | broma                    | joke                                                |
+| n (m)     | buscador                 | search engine                                       |
+| n (m)     | caballo                  | horse                                               |
+| n (f)     | cabeza                   | head (body part)                                    |
+| n (f)     | cadena                   | chain                                               |
+| n (f)     | cafetería                | café, snack bar                                     |
+| n (f)     | calidad, cualidad        | quality                                             |
+| n (f)     | cámara                   | camera                                              |
+| n (m)     | cambio                   | change (including for money given)                  |
+| n (m)     | camino                   | road, path, way                                     |
+| n (m)     | campamento               | camp site                                           |
+| n (f)     | campaña                  | campaign                                            |
+| n (m/f/n) | campesino/a              | farmer, rural worker                                |
+| n (f)     | canal                    | channel (tv)                                        |
+| n (f)     | cancha                   | playing field                                       |
+| n (m/f/n) | cantante                 | singer                                              |
+| n (f)     | cantidad                 | quantity                                            |
+| n (m)     | capítulo                 | chapter                                             |
+| n (f)     | cara                     | face, expression                                    |
+| n (m)     | carácter                 | personality, character                              |
+| n (f)     | caravana                 | caravan                                             |
+| n (f)     | cárcel                   | prison, jail                                        |
+| n (m)     | Caribe                   | Caribbean                                           |
+| n (m)     | cariño                   | affection                                           |
+| n (m/f/n) | carpintero/a             | carpenter                                           |
+| n (f)     | carrera                  | career, (university) degree, race                   |
+| n (f)     | carta                    | letter, menu                                        |
+| n (f)     | casa                     | house                                               |
+| n (m)     | caso                     | case, occasion                                      |
+| n (f)     | catedral                 | cathedral                                           |
+| n (f)     | causa                    | cause                                               |
+| n (f)     | celebración              | celebration                                         |
+| n (m)     | centro comercial         | shopping centre                                     |
+| n (m)     | césped                   | lawn                                                |
+| n (f)     | chica                    | girl                                                |
+| n (m)     | chicle                   | chewing gum                                         |
+| n (m)     | chico                    | boy                                                 |
+| n (m)     | chiste                   | joke, funny story                                   |
+| n (m)     | ciberacoso               | cyberbullying                                       |
+| n (m)     | cielo                    | sky, heaven                                         |
+| n (f)     | ciencia ficción          | science fiction                                     |
+| n (m/f/n) | científico/a             | scientist                                           |
+| n (m)     | cigarrillo               | cigarette                                           |
+| n (m)     | círculo                  | circle                                              |
+| n (f)     | cita                     | appointment, (romantic) date                        |
+| n (m/f/n) | ciudadano                | citizen, member of the public                       |
+| n (f)     | clase                    | class,<br>lesson, kind, type                        |
+| n (f)     | clave                    | key, crucial thing                                  |
+| n (m/f/n) | cliente                  | client, customer                                    |
+| n (m)     | clima                    | climate                                             |
+| n (m)     | club                     | club                                                |
+| n (f)     | cobaya                   | guinea pig                                          |
+| n (f)     | cocina                   | kitchen, cooking                                    |
+| n (f)     | cola                     | queue, tail                                         |
+| n (f)     | colección                | collection                                          |
+| n (m)     | colegio                  | (secondary) school                                  |
+| n (f)     | collar                   | necklace                                            |
+| n(m)      | colonialismo             | colonialism                                         |
+| n (m)     | comedor                  | dining room                                         |
+| n (m)     | comentario               | remark, comment                                     |
+| n (m/f/n) | compañero                | classmate, group member                             |
+| n (f)     | compañía                 | company                                             |
+| n (f)     | competición              | competition, contest                                |
+| n (m)     | comportamiento           | behaviour                                           |
+| n (m)     | compra                   | shopping                                            |
+| n (m)     | compromiso               | commitment                                          |
+| n (f)     | computadora              | computer                                            |
+| n (f)     | comunidad                | community                                           |
+| n (f)     | conciencia               | awareness                                           |
+| n (m)     | concurso                 | competition, gathering                              |
+| n (m)     | conejo                   | rabbit                                              |
+| n (f)     | confianza                | confidence, trust                                   |
+| n (m)     | conflicto                | conflict                                            |
+| n (f)     | consecuencia             | consequence                                         |
+| n (m)     | consejo                  | (piece of) advice                                   |
+| n (f)     | conservación             | conservation                                        |
+| n (f)     | consola                  | console (games, control unit)                       |
+| n (m)     | constipado               | common cold                                         |
+| n (m/f/n) | constructor/a            | builder                                             |
+| n (m)     | consumo                  | consumption                                         |
+| n (m/f/n) | contable                 | accountant                                          |
+| n (m)     | contacto                 | contact                                             |
+| n (m)     | contenido                | content                                             |
+| n (f)     | conversación             | conversation                                        |
+| n (f)     | copa                     | glass, cup                                          |
+| n (m)     | corazón                  | heart                                               |
+| n (m)     | correo (electrónico)     | mail, post (email)                                  |
+| n (f)     | cosa                     | thing                                               |
+| n (f)     | costumbre                | custom, habit                                       |
+| n (f)     | cualificación            | qualification                                       |
+| n (m)     | cuello                   | neck, collar                                        |
+| n (f)     | cuenta                   | bill, account                                       |
+| n (m)     | cuento                   | story, tale                                         |
+| n (m)     | cuerpo                   | body                                                |
+| n (f)     | cuestión                 | question, issue, matter                             |
+| n (m)     | cuidado                  | care, carefulness                                   |
+| n (f)     | culpa                    | blame, fault                                        |
+| n (f)     | cultura                  | culture                                             |
+| n (m)     | cumpleaños               | birthday                                            |
+| n (m)     | CV                       | CV (curriculum vitae)                               |
+| n (m)     | daño                     | harm, damage                                        |
+| n (m)     | debate                   | debate                                              |
+| n (m)     | deberes                  | homework                                            |
+| n (f)     | decisión                 | decision                                            |
+| n (m)     | dedo/dedo del pie        | finger/toe                                          |
+| n (m)     | delito                   | crime                                               |
+| n (f)     | democracia               | democracy                                           |
+| n (m/f/n) | dentista                 | dentist                                             |
+| n (m/f/n) | dependiente              | shop assistant                                      |
+| n (m/f/n) | deportista               | sportsperson                                        |
+| n (m)     | derecho                  | right, law                                          |
+| n (m)     | desastre                 | disaster                                            |
+| n (m)     | descanso                 | break, rest                                         |
+| n (f)     | descarga                 | download                                            |
+| n (m)     | deseo                    | desire, wish                                        |
+| n (m)     | destino                  | destination, destiny                                |
+| n (f)     | desventaja               | disadvantage                                        |
+| n (m)     | diente                   | tooth                                               |
+| n (f)     | dieta                    | diet                                                |
+| n (f)     | diferencia               | difference                                          |
+| n (f)     | dificultad               | difficulty, obstacle                                |
+| n (m)     | dinero                   | money                                               |
+| n (f)     | dirección                | address                                             |
+| n (m/f/n) | director/a               | headteacher, director                               |
+| n (f)     | discriminación           | discrimination                                      |
+| n (f)     | discusión                | argument, discussion                                |
+| n (m)     | diseño                   | design                                              |
+| n (m)     | documental               | documentary                                         |
+| n (m)     | dolor; dolor de (+ noun) | pain; noun (ache)                                   |
+| n (m)     | dormitorio               | bedroom, dormitory                                  |
+| n (f)     | droga                    | drug                                                |
+| n (f)     | ducha                    | shower                                              |
+| n (f)     | duda                     | doubt                                               |
+| n (m)     | dueño                    | owner                                               |
+| n (f)     | economía                 | economy, economics                                  |
+| n (f)     | edad                     | age                                                 |
+| n (m)     | edificio                 | building                                            |
+| n (f)     | educación                | education                                           |
+| n (m)     | efecto                   | effect                                              |
+| n (m)     | ejemplo                  | example                                             |
+| n (m)     | ejercicio                | exercise, practice                                  |
+| n (m)     | ejército                 | army                                                |
+| n (f)     | elección                 | choice, election                                    |
+| n (f)     | emoción                  | emotion, excitement                                 |
+| n (m/f/n) | empleado/a               | employee                                            |
+| n (m)     | empleo, el               | work, job                                           |
+| n (f)     | empresa                  | company, business, firm                             |
+| n (m/f/n) | empresario/a             | business person, entrepreneur                       |
+| n (f)     | energía                  | energy, power                                       |
+| n (f)     | enfermedad               | illness, sickness                                   |
+| n (m/f/n) | enfermero/a              | nurse                                               |
+| n (m)     | entorno                  | surroundings, environment                           |
+| n (f)     | entrada                  | entrance, admission ticket                          |
+| n (f)     | entrevista               | interview, meeting                                  |
+| n (f)     | época                    | time, age, period                                   |
+| n (m)     | equilibrio               | balance                                             |
+| n (m)     | equipo                   | team                                                |
+| n (m)     | error                    | error, mistake                                      |
+| n (f)     | escena                   | scene (of film)                                     |
+| n (m)     | escenario                | setting (location of a work of fiction)             |
+| n (m/f/n) | escritor                 | writer                                              |
+| n (f)     | escuela                  | school                                              |
+| n (m)     | esfuerzo                 | effort                                              |
+| n (m)     | espacio                  | space, room                                         |
+| n (f)     | espalda                  | back (body part)                                    |
+| n (f)     | especie                  | kind, sort, species                                 |
+| n (f)     | esperanza                | hope                                                |
+| n (m)     | estado, Estado           | condition, State                                    |
+| n (m)     | estilo                   | style (literary features)                           |
+| n (m)     | estómago                 | stomach                                             |
+| n (f)     | estrella                 | star                                                |
+| n (m)     | estrés                   | stress                                              |
+| n (m/f/n) | estudiante               | student                                             |
+| n (m)     | estudio                  | study, learning                                     |
+| n (f)     | etapa                    | stage, phase                                        |
+| n (m)     | euro                     | euro                                                |
+| n (m)     | evento                   | event                                               |
+| n (m)     | examen                   | exam                                                |
+| n (f)     | excursión                | trip, excursion                                     |
+| n (m)     | éxito                    | success                                             |
+| n (f)     | experiencia              | experience                                          |
+| n (m/f/n) | experto/a                | expert                                              |
+| n (m)     | extranjero               | abroad, foreigner                                   |
+| n (f)     | fábrica                  | factory                                             |
+| n (f)     | falta                    | lack, shortage                                      |
+| n (f)     | familia                  | family                                              |
+| n(m)      | familiar                 | relative                                            |
+| n (m/f/n) | farmacéutico/a           | pharmacist                                          |
+| n (f)     | farmacia                 | pharmacy                                            |
+| n (m)     | festival                 | festival                                            |
+| n (f)     | fiebre                   | fever                                               |
+| n (f)     | fiesta                   | party                                               |
+| n (f)     | fila                     | line, row                                           |
+| n (f)     | filosofía                | philosophy                                          |
+| n (m)     | fin                      | end                                                 |
+| n (m)     | final                    | end, ending                                         |
+| n (f)     | flor                     | flower                                              |
+| n (m/f/n) | fontanero/a              | plumber                                             |
+| n (f)     | forma                    | shape                                               |
+| n (f)     | formación                | training, education                                 |
+| n (f)     | foto                     | photo, picture                                      |
+| n (f)     | frase                    | phrase, sentence                                    |
+| n (f)     | frontera                 | border, frontier                                    |
+| n (m)     | fuego                    | fire                                                |
+| n (mpl)   | fuegos artificiales      | fireworks                                           |
+| n (f)     | fuente                   | source, fountain                                    |
+| n (f)     | galleta                  | biscuit                                             |
+| n (f)     | garganta                 | throat                                              |
+| n (m)     | gasto                    | expense, cost                                       |
+| n (m)     | gato                     | cat                                                 |
+| n (m/f)   | gemelos/as               | twins                                               |
+| n (f)     | generación               | generation                                          |
+| n (m)     | género                   | gender, genre                                       |
+| n (f)     | gente                    | people                                              |
+| n (m)     | gesto                    | gesture                                             |
+| n (m)     | gobierno                 | government                                          |
+| n (m)     | golpe                    | hit, bang                                           |
+| n (m)     | grado                    | degree (weather)                                    |
+| n (m)     | grifo                    | tap                                                 |
+| n (f)     | gripe                    | flu                                                 |
+| n (m)     | grito                    | cry, shout, scream                                  |
+| n (m)     | grupo                    | group                                               |
+| n (f)     | guerra                   | war, warfare                                        |
+| n (m/f)   | guía                     | guide<br>(person), guide, handbook                  |
+| n (f)     | habitación               | bedroom                                             |
+| n (m/f)   | habitante                | local (person), inhabitant                          |
+| n (f)     | hambre                   | hunger                                              |
+| n (m)     | hecho; de hecho          | fact; in fact, actually                             |
+| n (f)     | herida                   | wound, injury                                       |
+| n (f)     | hermana                  | sister                                              |
+| n (f)     | hermanastra              | step-sister                                         |
+| n (m)     | hermanastro              | step-brother<br>/ step-sibling                      |
+| n (m)     | hermano                  | brother/sibling                                     |
+| n (m)     | hielos polares           | polar ice caps                                      |
+| n (f)     | hija                     | daughter                                            |
+| n (m)     | hijo                     | son<br>/ child                                      |
+| n (m/f)   | hijo único/hija única    | only child                                          |
+| n (m)     | hiyab                    | hijab                                               |
+| n (m)     | hogar                    | home                                                |
+| n (m)     | hombre                   | man                                                 |
+| n (m)     | hombro                   | shoulder                                            |
+| n (m)     | horario                  | timetable, schedule                                 |
+| n (m)     | horror                   | horror                                              |
+| n (f)     | hospital                 | hospital                                            |
+| n (m)     | hotel                    | hotel                                               |
+| n (f)     | huelga                   | strike                                              |
+| n (m)     | hueso                    | bone                                                |
+| n (f)     | humanidad                | humanity, mankind                                   |
+| n (m)     | humor                    | mood, humour                                        |
+| n (f)     | ida                      | one-way ticket                                      |
+| n (f)     | idea                     | idea                                                |
+| n (f)     | identidad                | identity                                            |
+| n (f)     | iglesia                  | church                                              |
+| n (f)     | igualdad                 | equality                                            |
+| n (f)     | imagen                   | image, picture                                      |
+| n (m)     | impacto                  | impact                                              |
+| n (m)     | imperio                  | empire                                              |
+| n (f)     | importancia              | importance                                          |
+| n (m)     | impuesto                 | tax                                                 |
+| n (f)     | inclusión                | inclusion                                           |
+| n (f)     | independencia            | independence                                        |
+| n (m/f)   | indígena                 | indigenous person                                   |
+| n (f)     | industria                | industry                                            |
+| n (f)     | infancia                 | infancy, childhood                                  |
+| n (f)     | influencia               | influence                                           |
+| n (m)     | influenciador            | influencer                                          |
+| n (f)     | información              | information                                         |
+| n (m)     | informe                  | report                                              |
+| n (m/f/n) | ingeniero/a              | engineer                                            |
+| n (f)     | iniciativa               | initiative                                          |
+| n (f)     | innovación               | innovation                                          |
+| n (m)     | instante                 | instant, moment                                     |
+| n (f)     | institución              | institution                                         |
+| n (m)     | instituto                | Spanish secondary school                            |
+| n (f)     | inteligencia             | intelligence                                        |
+| n (f)     | intención                | intention                                           |
+| n (m)     | interés                  | interest                                            |
+| n (m)     | Internet                 | internet                                            |
+| n (f)     | inundación               | flood                                               |
+| n (f)     | investigación            | investigation                                       |
+| n (f)     | invitación               | invitation                                          |
+| n (f)     | inyección                | injection                                           |
+| n (m)     | jarabe                   | syrup                                               |
+| n (m)     | jardín                   | garden                                              |
+| n (m/f/n) | jefe/a                   | boss                                                |
+| n (m/f/n) | joven                    | teenager, young person                              |
+| n (f)     | joyería                  | jewellery, jeweller's shop                          |
+| n (m)     | jugador                  | player                                              |
+| n (m)     | juguete                  | toy                                                 |
+| n (f)     | justicia                 | justice                                             |
+| n (f)     | juventud                 | young people, youth                                 |
+| n (m)     | ladrón                   | thief                                               |
+| n (f)     | lágrima                  | tear, teardrop                                      |
+| n (f)     | lástima                  | shame, pity                                         |
+| n (f)     | lengua                   | language, tongue                                    |
+| n (m)     | lenguaje                 | language, speech                                    |
+| n (f)     | letra                    | lyrics                                              |
+| n (f)     | ley                      | law                                                 |
+| n (f)     | libertad                 | freedom                                             |
+| n (m)     | límite                   | limit                                               |
+| n (f)     | lista                    | list                                                |
+| n (f)     | llamada                  | call, knock (at door)                               |
+| n (f)     | llave                    | key                                                 |
+| n (f)     | llegada                  | arrival                                             |
+| n (f)     | lucha                    | fight, struggle                                     |
+| n (m)     | lugar                    | place                                               |
+| n (f)     | luna                     | moon                                                |
+| n (f)     | luz                      | light                                               |
+| n (f)     | madrastra                | step-mother                                         |
+| n (f)     | madre                    | mother                                              |
+| n (m/f/n) | maestro/a                | teacher (primary)                                   |
+| n (f)     | maleta                   | suitcase                                            |
+| n (f)     | mancha                   | stain, spot                                         |
+| n (f)     | manera                   | way, manner                                         |
+| n (f)     | manifestación            | protest                                             |
+| n (f)     | mano                     | hand                                                |
+| n (m)     | maquillaje               | makeup                                              |
+| n (f)     | marca                    | brand                                               |
+| n (m)     | marido                   | husband                                             |
+| n (f)     | mascota                  | pet                                                 |
+| n (m)     | matrimonio               | marriage                                            |
+| n (m)     | medicamento              | medicine, treatment                                 |
+| n (f)     | medicina                 | medicine                                            |
+| n (m/f/n) | médico/a                 | doctor                                              |
+| n (f)     | medida                   | measure                                             |
+| n (m)     | medio                    | half, middle                                        |
+| n (m)     | medioambiente            | environment                                         |
+| n (m)     | medios de comunicación   | media                                               |
+| n (m)     | medios sociales          | social media                                        |
+| n (f)     | memoria                  | memory                                              |
+| n (m)     | mensaje                  | message                                             |
+| n (m)     | mensaje de texto         | text message, sms                                   |
+| n (f)     | mente                    | mind                                                |
+| n (m)     | mercado                  | market                                              |
+| n (f)     | maravilla                | wonder, beauty                                      |
+| n (f)     | meta                     | goal, aim                                           |
+| n (f)     | mezquita                 | mosque                                              |
+| n (m)     | miedo                    | fear                                                |
+| n (m)     | miembro                  | member                                              |
+| n (f)     | mitad                    | half, middle                                        |
+| n (f)     | mochila                  | rucksack, school bag                                |
+| n (f)     | moda                     | fashion                                             |
+| n (m/f/n) | modelo                   | model                                               |
+| n (f)     | moneda                   | coin, currency                                      |
+| n (m/f/n) | montador                 | editor (film)                                       |
+| n (m)     | montón                   | a lot                                               |
+| n (m)     | monumento                | monument                                            |
+| n (f)     | mosca                    | fly                                                 |
+| n (m)     | motivo                   | reason, motive                                      |
+| n (f)     | muchacha                 | girl                                                |
+| n (m)     | muchacho                 | boy                                                 |
+| n (f)     | muerte                   | death                                               |
+| n (f)     | mujer                    | woman, wife                                         |
+| n (m)     | mundo                    | world                                               |
+| n (m)     | museo                    | museum                                              |
+| n (m/f/n) | músico/a                 | musician                                            |
+| n (m)     | musical                  | musical                                             |
+| n (m)     | nacimiento               | birth, origin                                       |
+| n (f)     | nación                   | nation                                              |
+| n (f)     | nariz                    | nose                                                |
+| n (f)     | naturaleza               | nature                                              |
+| n (f)     | niña                     | child, little girl                                  |
+| n (m)     | niñero                   | childminder, nanny                                  |
+| n (f)     | niñez                    | childhood                                           |
+| n (m)     | niño                     | child, little boy                                   |
+| n (m)     | nivel                    | level                                               |
+| n (f)     | Nochebuena               | Christmas Eve                                       |
+| n (f)     | Nochevieja               | New Year's Eve                                      |
+| n (m)     | nombre                   | name, noun                                          |
+| n (f)     | nota                     | grade, mark, note                                   |
+| n (f)     | noticia                  | news                                                |
+| n (f)     | novela                   | novel                                               |
+| n (f)     | novia                    | girlfriend, bride                                   |
+| n (m)     | novio                    | boyfriend, groom                                    |
+| n (m)     | objetivo                 | objective                                           |
+| n (m)     | objeto                   | object, thing                                       |
+| n (m)     | obligatorio              | compulsory                                          |
+| n (f)     | obra                     | work (of art, theatre etc.)                         |
+| n (m)     | ocio                     | leisure                                             |
+| n (f)     | oficina                  | office                                              |
+| n (m)     | ojo                      | eye                                                 |
+| n (m)     | olor                     | smell                                               |
+| n (f)     | opción                   | option, choice                                      |
+| n (f)     | opcional                 | optional                                            |
+| n (f)     | oportunidad              | opportunity, chance                                 |
+| n (m/f/n) | óptico/a                 | optician                                            |
+| n (m)     | orden                    | order                                               |
+| n (f)     | oreja                    | ear                                                 |
+| n (m)     | origen                   | origin, cause                                       |
+| n (m)     | oro                      | gold                                                |
+| n (f)     | orquesta                 | orchestra                                           |
+| n (f)     | oscuridad                | darkness                                            |
+| n (m/f/n) | paciente                 | patient                                             |
+| n (m)     | padrastro                | step-father                                         |
+| n (m)     | padre                    | father/parent                                       |
+| n (m/f/n) | padres                   | parents                                             |
+| n (f)     | paga                     | pocket money                                        |
+| n (f)     | página                   | page                                                |
+| n (m)     | paisaje                  | landscape                                           |
+| n (f)     | palabra                  | word                                                |
+| n (f)     | pantalla                 | screen                                              |
+| n (m)     | papa                     | pope                                                |
+| n (m)     | papel                    | role                                                |
+| n (m/f)   | par                      | pair, couple                                        |
+| n (f)     | pareja                   | couple, pair                                        |
+| n (m/f/n) | pariente                 | relative                                            |
+| n (m)     | paro                     | unemployment                                        |
+| n (m)     | parque                   | park                                                |
+| n (m)     | párrafo                  | paragraph                                           |
+| n (f)     | parte                    | part                                                |
+| n (m)     | partido                  | (sports) match, (political) party                   |
+| n (m)     | pasaporte                | passport                                            |
+| n (f)     | Pascua                   | Easter                                              |
+| n (m)     | paseo                    | stroll, outing                                      |
+| n (f)     | pasión                   | passion, desire                                     |
+| n (m)     | paso                     | step                                                |
+| n (f)     | pastilla                 | pill                                                |
+| n (f)     | paz                      | peace                                               |
+| n (m)     | peligro                  | danger                                              |
+| n (m)     | pelo                     | hair                                                |
+| n (f)     | pelota                   | ball                                                |
+| n (m/f/n) | peluquero/a              | hairdresser                                         |
+| n (f)     | pena                     | sadness, shame, pity                                |
+| n (f)     | pérdida                  | loss                                                |
+| n (m)     | periódico                | newspaper                                           |
+| n (m/f/n) | periodista               | journalist                                          |
+| n (m)     | permiso                  | permission, excuse me                               |
+| n (m)     | perro                    | dog                                                 |
+| n (f)     | persona                  | person                                              |
+| n (m)     | personaje                | character (in book, film)                           |
+| n (f)     | personalidad             | personality                                         |
+| n (f)     | perspectiva              | perspective                                         |
+| n (m)     | peso                     | weight                                              |
+| n (m)     | petróleo                 | oil, petroleum                                      |
+| n (m)     | pez                      | fish (alive)                                        |
+| n (f)     | picadura                 | sting                                               |
+| n (m)     | pie                      | foot                                                |
+| n (f)     | piel                     | leather, skin                                       |
+| n (f)     | pierna                   | leg                                                 |
+| n (m/f/n) | piloto                   | pilot                                               |
+| n (m/f/n) | pintor/a                 | painter                                             |
+| n (m)     | piso                     | flat, floor of building                             |
+| n (m)     | plan                     | plan                                                |
+| n (m)     | planeta                  | planet                                              |
+| n (m)     | plano                    | map                                                 |
+| n (f)     | planta                   | plant, floor                                        |
+| n (f)     | plata                    | silver, cash                                        |
+| n (f)     | población                | population                                          |
+| n (f)     | pobreza                  | poverty, lack                                       |
+| n (m)     | poder                    | power                                               |
+| n (f)     | poesía                   | poetry, poem                                        |
+| n(m/f/n)  | poeta                    | poet                                                |
+| n (m/f/n) | policía                  | police officer, police                              |
+| n (f)     | política                 | politics                                            |
+| n (m/f/n) | politico/a               | politician                                          |
+| n (f)     | polución                 | pollution                                           |
+| n (m)     | portátil                 | laptop                                              |
+| n (m/f/n) | portavoz                 | spokesperson                                        |
+| n (m)     | porvenir                 | future                                              |
+| n (f)     | posibilidad              | possibility                                         |
+| n (f)     | práctica                 | practice                                            |
+| n (m)     | precio                   | price, cost, value                                  |
+| n (m)     | premio                   | prize, reward                                       |
+| n (f)     | prensa                   | press                                               |
+| n (f)     | preocupación             | worry, concern                                      |
+| n (m)     | presente                 | present                                             |
+| n (m/f/n) | presidente/a             | president                                           |
+| n (f)     | presión                  | pressure                                            |
+| n (m/f/n) | primo/a                  | cousin                                              |
+| n (m)     | principio                | beginning                                           |
+| n (m)     | probador                 | changing room                                       |
+| n (m)     | problema                 | problem                                             |
+| n (m)     | producto                 | product                                             |
+| n (m/f/n) | profesor/a               | teacher                                             |
+| n (m)     | programa                 | programme                                           |
+| n (m)     | pronóstico               | forecast                                            |
+| n (f)     | propiedad                | property                                            |
+| n (m)     | propósito                | intention, purpose                                  |
+| n (m/f/n) | protagonista             | main character (in film, book etc.),<br>protagonist |
 
 {58}------------------------------------------------
 
-| n (m/f/n) | azafato/a         | flight attendant                   |
-|-----------|-------------------|------------------------------------|
-| n (m)     | baño              | bathroom                           |
-| n (m)     | bar               | bar                                |
-| n (f)     | basura            | rubbish                            |
-| n (f)     | batería           | battery                            |
-| n (m)     | bebé              | baby                               |
-| n (f)     | belleza           | beauty                             |
-| n (m)     | beneficio         | benefit                            |
-| n (f)     | biblioteca        | library                            |
-| n (m)     | bienestar         | wellbeing                          |
-| n (f)     | boca              | mouth                              |
-| n (f)     | boda              | wedding                            |
-| n (f)     | bolsa             | bag                                |
-| n (m/f/n) | bombero/a         | firefighter                        |
-| n (m)     | borde             | edge                               |
-| n (f)     | botella           | bottle                             |
-| n (m)     | brazo             | arm                                |
-| n (f)     | broma             | joke                               |
-| n (m)     | buscador          | search engine                      |
-| n (m)     | caballo           | horse                              |
-| n (f)     | cabeza            | head (body part)                   |
-| n (f)     | cadena            | chain                              |
-| n (f)     | cafetería         | café, snack bar                    |
-| n (f)     | calidad, cualidad | quality                            |
-| n (f)     | cámara            | camera                             |
-| n (m)     | cambio            | change (including for money given) |
-| n (m)     | camino            | road, path, way                    |
-| n (m)     | campamento        | camp site                          |
-| n (f)     | campaña           | campaign                           |
-| n (m/f/n) | campesino/a       | farmer, rural worker               |
-| n (f)     | canal             | channel (tv)                       |
-
 {59}------------------------------------------------
-
-| n (f)     | cancha           | playing field                     |
-|-----------|------------------|-----------------------------------|
-| n (m/f/n) | cantante         | singer                            |
-| n (f)     | cantidad         | quantity                          |
-| n (m)     | capítulo         | chapter                           |
-| n (f)     | cara             | face, expression                  |
-| n (m)     | carácter         | personality, character            |
-| n (f)     | caravana         | caravan                           |
-| n (f)     | cárcel           | prison, jail                      |
-| n (m)     | Caribe           | Caribbean                         |
-| n (m)     | cariño           | affection                         |
-| n (m/f/n) | carpintero/a     | carpenter                         |
-| n (f)     | carrera          | career, (university) degree, race |
-| n (f)     | carta            | letter, menu                      |
-| n (f)     | casa             | house                             |
-| n (m)     | caso             | case, occasion                    |
-| n (f)     | catedral         | cathedral                         |
-| n (f)     | causa            | cause                             |
-| n (f)     | celebración      | celebration                       |
-| n (m)     | centro comercial | shopping centre                   |
-| n (m)     | césped           | lawn                              |
-| n (f)     | chica            | girl                              |
-| n (m)     | chicle           | chewing gum                       |
-| n (m)     | chico            | boy                               |
-| n (m)     | chiste           | joke, funny story                 |
-| n (m)     | ciberacoso       | cyberbullying                     |
-| n (m)     | cielo            | sky, heaven                       |
-| n (f)     | ciencia ficción  | science fiction                   |
-| n (m/f/n) | científico/a     | scientist                         |
-| n (m)     | cigarrillo       | cigarette                         |
-| n (m)     | círculo          | circle                            |
-| n (f)     | cita             | appointment, (romantic) date      |
 
 {60}------------------------------------------------
 
-| n (m/f/n) | ciudadano      | citizen, member of the public |
-|-----------|----------------|-------------------------------|
-| n (f) | clase | class, lesson, kind, type |
-| n (f)     | clave          | key, crucial thing            |
-| n (m/f/n) | cliente        | client, customer              |
-| n (m)     | clima          | climate                       |
-| n (m)     | club           | club                          |
-| n (f)     | cobaya         | guinea pig                    |
-| n (f)     | cocina         | kitchen, cooking              |
-| n (f)     | cola           | queue, tail                   |
-| n (f)     | colección      | collection                    |
-| n (m)     | colegio        | (secondary) school            |
-| n (f)     | collar         | necklace                      |
-| n(m)      | colonialismo   | colonialism                   |
-| n (m)     | comedor        | dining room                   |
-| n (m)     | comentario     | remark, comment               |
-| n (m/f/n) | compañero      | classmate, group member       |
-| n (f)     | compañía       | company                       |
-| n (f)     | competición    | competition, contest          |
-| n (m)     | comportamiento | behaviour                     |
-| n (m)     | compra         | shopping                      |
-| n (m)     | compromiso     | commitment                    |
-| n (f)     | computadora    | computer                      |
-| n (f)     | comunidad      | community                     |
-| n (f)     | conciencia     | awareness                     |
-| n (m)     | concurso       | competition, gathering        |
-| n (m)     | conejo         | rabbit                        |
-| n (f)     | confianza      | confidence, trust             |
-| n (m)     | conflicto      | conflict                      |
-| n (f)     | consecuencia   | consequence                   |
-| n (m)     | consejo        | (piece of) advice             |
-| n (f)     | conservación   | conservation                  |
-
 {61}------------------------------------------------
-
-| n (f)     | consola              | console (games, control unit) |
-|-----------|----------------------|-------------------------------|
-| n (m)     | constipado           | common cold                   |
-| n (m/f/n) | constructor/a        | builder                       |
-| n (m)     | consumo              | consumption                   |
-| n (m/f/n) | contable             | accountant                    |
-| n (m)     | contacto             | contact                       |
-| n (m)     | contenido            | content                       |
-| n (f)     | conversación         | conversation                  |
-| n (f)     | copa                 | glass, cup                    |
-| n (m)     | corazón              | heart                         |
-| n (m)     | correo (electrónico) | mail, post (email)            |
-| n (f)     | cosa                 | thing                         |
-| n (f)     | costumbre            | custom, habit                 |
-| n (f)     | cualificación        | qualification                 |
-| n (m)     | cuello               | neck, collar                  |
-| n (f)     | cuenta               | bill, account                 |
-| n (m)     | cuento               | story, tale                   |
-| n (m)     | cuerpo               | body                          |
-| n (f)     | cuestión             | question, issue, matter       |
-| n (m)     | cuidado              | care, carefulness             |
-| n (f)     | culpa                | blame, fault                  |
-| n (f)     | cultura              | culture                       |
-| n (m)     | cumpleaños           | birthday                      |
-| n (m)     | CV                   | CV (curriculum vitae)         |
-| n (m)     | daño                 | harm, damage                  |
-| n (m)     | debate               | debate                        |
-| n (m)     | deberes              | homework                      |
-| n (f)     | decisión             | decision                      |
-| n (m)     | dedo/dedo del pie    | finger/toe                    |
-| n (m)     | delito               | crime                         |
-| n (f)     | democracia           | democracy                     |
 
 {62}------------------------------------------------
 
-| n (m/f/n) | dentista                 | dentist               |
-|-----------|--------------------------|-----------------------|
-| n (m/f/n) | dependiente              | shop assistant        |
-| n (m/f/n) | deportista               | sportsperson          |
-| n (m)     | derecho                  | right, law            |
-| n (m)     | desastre                 | disaster              |
-| n (m)     | descanso                 | break, rest           |
-| n (f)     | descarga                 | download              |
-| n (m)     | deseo                    | desire, wish          |
-| n (m)     | destino                  | destination, destiny  |
-| n (f)     | desventaja               | disadvantage          |
-| n (m)     | diente                   | tooth                 |
-| n (f)     | dieta                    | diet                  |
-| n (f)     | diferencia               | difference            |
-| n (f)     | dificultad               | difficulty, obstacle  |
-| n (m)     | dinero                   | money                 |
-| n (f)     | dirección                | address               |
-| n (m/f/n) | director/a               | headteacher, director |
-| n (f)     | discriminación           | discrimination        |
-| n (f)     | discusión                | argument, discussion  |
-| n (m)     | diseño                   | design                |
-| n (m)     | documental               | documentary           |
-| n (m)     | dolor; dolor de (+ noun) | pain; noun (ache)     |
-| n (m)     | dormitorio               | bedroom, dormitory    |
-| n (f)     | droga                    | drug                  |
-| n (f)     | ducha                    | shower                |
-| n (f)     | duda                     | doubt                 |
-| n (m)     | dueño                    | owner                 |
-| n (f)     | economía                 | economy, economics    |
-| n (f)     | edad                     | age                   |
-| n (m)     | edificio                 | building              |
-| n (f)     | educación                | education             |
-
 {63}------------------------------------------------
-
-| n (m)     | efecto         | effect                                  |
-|-----------|----------------|-----------------------------------------|
-| n (m)     | ejemplo        | example                                 |
-| n (m)     | ejercicio      | exercise, practice                      |
-| n (m)     | ejército       | army                                    |
-| n (f)     | elección       | choice, election                        |
-| n (f)     | emoción        | emotion, excitement                     |
-| n (m/f/n) | empleado/a     | employee                                |
-| n (m)     | empleo, el     | work, job                               |
-| n (f)     | empresa        | company, business, firm                 |
-| n (m/f/n) | empresario/a   | business person, entrepreneur           |
-| n (f)     | energía        | energy, power                           |
-| n (f)     | enfermedad     | illness, sickness                       |
-| n (m/f/n) | enfermero/a    | nurse                                   |
-| n (m)     | entorno        | surroundings, environment               |
-| n (f)     | entrada        | entrance, admission ticket              |
-| n (f)     | entrevista     | interview, meeting                      |
-| n (f)     | época          | time, age, period                       |
-| n (m)     | equilibrio     | balance                                 |
-| n (m)     | equipo         | team                                    |
-| n (m)     | error          | error, mistake                          |
-| n (f)     | escena         | scene (of film)                         |
-| n (m)     | escenario      | setting (location of a work of fiction) |
-| n (m/f/n) | escritor       | writer                                  |
-| n (f)     | escuela        | school                                  |
-| n (m)     | esfuerzo       | effort                                  |
-| n (m)     | espacio        | space, room                             |
-| n (f)     | espalda        | back (body part)                        |
-| n (f)     | especie        | kind, sort, species                     |
-| n (f)     | esperanza      | hope                                    |
-| n (m)     | estado, Estado | condition, State                        |
-| n (m)     | estilo         | style (literary features)               |
 
 {64}------------------------------------------------
 
-| n (m)     | estómago       | stomach             |
-|-----------|----------------|---------------------|
-| n (f)     | estrella       | star                |
-| n (m)     | estrés         | stress              |
-| n (m/f/n) | estudiante     | student             |
-| n (m)     | estudio        | study, learning     |
-| n (f)     | etapa          | stage, phase        |
-| n (m)     | euro           | euro                |
-| n (m)     | evento         | event               |
-| n (m)     | examen         | exam                |
-| n (f)     | excursión      | trip, excursion     |
-| n (m)     | éxito          | success             |
-| n (f)     | experiencia    | experience          |
-| n (m/f/n) | experto/a      | expert              |
-| n (m)     | extranjero     | abroad, foreigner   |
-| n (f)     | fábrica        | factory             |
-| n (f)     | falta          | lack, shortage      |
-| n (f)     | familia        | family              |
-| n(m)      | familiar       | relative            |
-| n (m/f/n) | farmacéutico/a | pharmacist          |
-| n (f)     | farmacia       | pharmacy            |
-| n (m)     | festival       | festival            |
-| n (f)     | fiebre         | fever               |
-| n (f)     | fiesta         | party               |
-| n (f)     | fila           | line, row           |
-| n (f)     | filosofía      | philosophy          |
-| n (m)     | fin            | end                 |
-| n (m)     | final          | end, ending         |
-| n (f)     | flor           | flower              |
-| n (m/f/n) | fontanero/a    | plumber             |
-| n (f)     | forma          | shape               |
-| n (f)     | formación      | training, education |
-
 {65}------------------------------------------------
-
-| n (f)   | foto                | photo, picture                     |
-|---------|---------------------|------------------------------------|
-| n (f)   | frase               | phrase, sentence                   |
-| n (f)   | frontera            | border, frontier                   |
-| n (m)   | fuego               | fire                               |
-| n (mpl) | fuegos artificiales | fireworks                          |
-| n (f)   | fuente              | source, fountain                   |
-| n (f)   | galleta             | biscuit                            |
-| n (f)   | garganta            | throat                             |
-| n (m)   | gasto               | expense, cost                      |
-| n (m)   | gato                | cat                                |
-| n (m/f) | gemelos/as          | twins                              |
-| n (f)   | generación          | generation                         |
-| n (m)   | género              | gender, genre                      |
-| n (f)   | gente               | people                             |
-| n (m)   | gesto               | gesture                            |
-| n (m)   | gobierno            | government                         |
-| n (m)   | golpe               | hit, bang                          |
-| n (m)   | grado               | degree (weather)                   |
-| n (m)   | grifo               | tap                                |
-| n (f)   | gripe               | flu                                |
-| n (m)   | grito               | cry, shout, scream                 |
-| n (m)   | grupo               | group                              |
-| n (f)   | guerra              | war, warfare                       |
-| n (m/f) | guía | guide (person), guide, handbook |
-| n (f)   | habitación          | bedroom                            |
-| n (m/f) | habitante           | local (person), inhabitant         |
-| n (f)   | hambre              | hunger                             |
-| n (m)   | hecho; de hecho     | fact; in fact, actually            |
-| n (f)   | herida              | wound, injury                      |
-| n (f)   | hermana             | sister                             |
-| n (f)   | hermanastra         | step-sister                        |
 
 {66}------------------------------------------------
 
-| n (m) | hermanastro | step-brother / step-sibling |
-|---------|-----------------------|--------------------------------|
-| n (m)   | hermano               | brother/sibling                |
-| n (m)   | hielos polares        | polar ice caps                 |
-| n (f)   | hija                  | daughter                       |
-| n (m) | hijo | son / child |
-| n (m/f) | hijo único/hija única | only child                     |
-| n (m)   | hiyab                 | hijab                          |
-| n (m)   | hogar                 | home                           |
-| n (m)   | hombre                | man                            |
-| n (m)   | hombro                | shoulder                       |
-| n (m)   | horario               | timetable, schedule            |
-| n (m)   | horror                | horror                         |
-| n (f)   | hospital              | hospital                       |
-| n (m)   | hotel                 | hotel                          |
-| n (f)   | huelga                | strike                         |
-| n (m)   | hueso                 | bone                           |
-| n (f)   | humanidad             | humanity, mankind              |
-| n (m)   | humor                 | mood, humour                   |
-| n (f)   | ida                   | one-way ticket                 |
-| n (f)   | idea                  | idea                           |
-| n (f)   | identidad             | identity                       |
-| n (f)   | iglesia               | church                         |
-| n (f)   | igualdad              | equality                       |
-| n (f)   | imagen                | image, picture                 |
-| n (m)   | impacto               | impact                         |
-| n (m)   | imperio               | empire                         |
-| n (f)   | importancia           | importance                     |
-| n (m)   | impuesto              | tax                            |
-| n (f)   | inclusión             | inclusion                      |
-| n (f)   | independencia         | independence                   |
-| n (m/f) | indígena              | indigenous person              |
-
 {67}------------------------------------------------
-
-| n (f)     | industria     | industry                   |
-|-----------|---------------|----------------------------|
-| n (f)     | infancia      | infancy, childhood         |
-| n (f)     | influencia    | influence                  |
-| n (m)     | influenciador | influencer                 |
-| n (f)     | información   | information                |
-| n (m)     | informe       | report                     |
-| n (m/f/n) | ingeniero/a   | engineer                   |
-| n (f)     | iniciativa    | initiative                 |
-| n (f)     | innovación    | innovation                 |
-| n (m)     | instante      | instant, moment            |
-| n (f)     | institución   | institution                |
-| n (m)     | instituto     | Spanish secondary school   |
-| n (f)     | inteligencia  | intelligence               |
-| n (f)     | intención     | intention                  |
-| n (m)     | interés       | interest                   |
-| n (m)     | Internet      | internet                   |
-| n (f)     | inundación    | flood                      |
-| n (f)     | investigación | investigation              |
-| n (f)     | invitación    | invitation                 |
-| n (f)     | inyección     | injection                  |
-| n (m)     | jarabe        | syrup                      |
-| n (m)     | jardín        | garden                     |
-| n (m/f/n) | jefe/a        | boss                       |
-| n (m/f/n) | joven         | teenager, young person     |
-| n (f)     | joyería       | jewellery, jeweller's shop |
-| n (m)     | jugador       | player                     |
-| n (m)     | juguete       | toy                        |
-| n (f)     | justicia      | justice                    |
-| n (f)     | juventud      | young people, youth        |
-| n (m)     | ladrón        | thief                      |
-| n (f)     | lágrima       | tear, teardrop             |
 
 {68}------------------------------------------------
 
-| n (f)     | lástima       | shame, pity           |
-|-----------|---------------|-----------------------|
-| n (f)     | lengua        | language, tongue      |
-| n (m)     | lenguaje      | language, speech      |
-| n (f)     | letra         | lyrics                |
-| n (f)     | ley           | law                   |
-| n (f)     | libertad      | freedom               |
-| n (m)     | límite        | limit                 |
-| n (f)     | lista         | list                  |
-| n (f)     | llamada       | call, knock (at door) |
-| n (f)     | llave         | key                   |
-| n (f)     | llegada       | arrival               |
-| n (f)     | lucha         | fight, struggle       |
-| n (m)     | lugar         | place                 |
-| n (f)     | luna          | moon                  |
-| n (f)     | luz           | light                 |
-| n (f)     | madrastra     | step-mother           |
-| n (f)     | madre         | mother                |
-| n (m/f/n) | maestro/a     | teacher (primary)     |
-| n (f)     | maleta        | suitcase              |
-| n (f)     | mancha        | stain, spot           |
-| n (f)     | manera        | way, manner           |
-| n (f)     | manifestación | protest               |
-| n (f)     | mano          | hand                  |
-| n (m)     | maquillaje    | makeup                |
-| n (f)     | marca         | brand                 |
-| n (m)     | marido        | husband               |
-| n (f)     | mascota       | pet                   |
-| n (m)     | matrimonio    | marriage              |
-| n (m)     | medicamento   | medicine, treatment   |
-| n (f)     | medicina      | medicine              |
-| n (m/f/n) | médico/a      | doctor                |
-
 {69}------------------------------------------------
-
-| n (f)     | medida                 | measure              |
-|-----------|------------------------|----------------------|
-| n (m)     | medio                  | half, middle         |
-| n (m)     | medioambiente          | environment          |
-| n (m)     | medios de comunicación | media                |
-| n (m)     | medios sociales        | social media         |
-| n (f)     | memoria                | memory               |
-| n (m)     | mensaje                | message              |
-| n (m)     | mensaje de texto       | text message, sms    |
-| n (f)     | mente                  | mind                 |
-| n (m) | mercado | market |
-| n (f)     | maravilla              | wonder, beauty       |
-| n (f)     | meta                   | goal, aim            |
-| n (f)     | mezquita               | mosque               |
-| n (m)     | miedo                  | fear                 |
-| n (m)     | miembro                | member               |
-| n (f) | mitad | half, middle |
-| n (f)     | mochila                | rucksack, school bag |
-| n (f)     | moda                   | fashion              |
-| n (m/f/n) | modelo                 | model                |
-| n (f)     | moneda                 | coin, currency       |
-| n (m/f/n) | montador               | editor (film)        |
-| n (m)     | montón                 | a lot                |
-| n (m)     | monumento              | monument             |
-| n (f)     | mosca                  | fly                  |
-| n (m)     | motivo                 | reason, motive       |
-| n (f)     | muchacha               | girl                 |
-| n (m)     | muchacho               | boy                  |
-| n (f)     | muerte                 | death                |
-| n (f)     | mujer                  | woman, wife          |
-| n (m)     | mundo                  | world                |
-| n (m)     | museo                  | museum               |
 
 {70}------------------------------------------------
 
-| n (m/f/n) | músico/a    | musician                    |
-|-----------|-------------|-----------------------------|
-| n (m)     | musical     | musical                     |
-| n (m)     | nacimiento  | birth, origin               |
-| n (f)     | nación      | nation                      |
-| n (f)     | nariz       | nose                        |
-| n (f)     | naturaleza  | nature                      |
-| n (f)     | niña        | child, little girl          |
-| n (m)     | niñero      | childminder, nanny          |
-| n (f)     | niñez       | childhood                   |
-| n (m)     | niño        | child, little boy           |
-| n (m)     | nivel       | level                       |
-| n (f)     | Nochebuena  | Christmas Eve               |
-| n (f)     | Nochevieja  | New Year's Eve              |
-| n (m)     | nombre      | name, noun                  |
-| n (f)     | nota        | grade, mark, note           |
-| n (f)     | noticia     | news                        |
-| n (f)     | novela      | novel                       |
-| n (f)     | novia       | girlfriend, bride           |
-| n (m)     | novio       | boyfriend, groom            |
-| n (m)     | objetivo    | objective                   |
-| n (m)     | objeto      | object, thing               |
-| n (m)     | obligatorio | compulsory                  |
-| n (f)     | obra        | work (of art, theatre etc.) |
-| n (m)     | ocio        | leisure                     |
-| n (f)     | oficina     | office                      |
-| n (m)     | ojo         | eye                         |
-| n (m)     | olor        | smell                       |
-| n (f)     | opción      | option, choice              |
-| n (f)     | opcional    | optional                    |
-| n (f)     | oportunidad | opportunity, chance         |
-| n (m/f/n) | óptico/a    | optician                    |
-
 {71}------------------------------------------------
-
-| n (m)     | orden     | order                             |
-|-----------|-----------|-----------------------------------|
-| n (f)     | oreja     | ear                               |
-| n (m)     | origen    | origin, cause                     |
-| n (m)     | oro       | gold                              |
-| n (f)     | orquesta  | orchestra                         |
-| n (f)     | oscuridad | darkness                          |
-| n (m/f/n) | paciente  | patient                           |
-| n (m)     | padrastro | step-father                       |
-| n (m)     | padre     | father/parent                     |
-| n (m/f/n) | padres    | parents                           |
-| n (f)     | paga      | pocket money                      |
-| n (f)     | página    | page                              |
-| n (m)     | paisaje   | landscape                         |
-| n (f)     | palabra   | word                              |
-| n (f)     | pantalla  | screen                            |
-| n (m)     | papa      | pope                              |
-| n (m)     | papel     | role                              |
-| n (m/f)   | par       | pair, couple                      |
-| n (f)     | pareja    | couple, pair                      |
-| n (m/f/n) | pariente  | relative                          |
-| n (m)     | paro      | unemployment                      |
-| n (m)     | parque    | park                              |
-| n (m)     | párrafo   | paragraph                         |
-| n (f)     | parte     | part                              |
-| n (m)     | partido   | (sports) match, (political) party |
-| n (m)     | pasaporte | passport                          |
-| n (f)     | Pascua    | Easter                            |
-| n (m)     | paseo     | stroll, outing                    |
-| n (f)     | pasión    | passion, desire                   |
-| n (m)     | paso      | step                              |
-| n (f)     | pastilla  | pill                              |
 
 {72}------------------------------------------------
 
-| n (f)     | paz          | peace                     |
-|-----------|--------------|---------------------------|
-| n (m)     | peligro      | danger                    |
-| n (m)     | pelo         | hair                      |
-| n (f)     | pelota       | ball                      |
-| n (m/f/n) | peluquero/a  | hairdresser               |
-| n (f)     | pena         | sadness, shame, pity      |
-| n (f)     | pérdida      | loss                      |
-| n (m)     | periódico    | newspaper                 |
-| n (m/f/n) | periodista   | journalist                |
-| n (m)     | permiso      | permission, excuse me     |
-| n (m)     | perro        | dog                       |
-| n (f)     | persona      | person                    |
-| n (m)     | personaje    | character (in book, film) |
-| n (f)     | personalidad | personality               |
-| n (f)     | perspectiva  | perspective               |
-| n (m)     | peso         | weight                    |
-| n (m)     | petróleo     | oil, petroleum            |
-| n (m)     | pez          | fish (alive)              |
-| n (f)     | picadura     | sting                     |
-| n (m)     | pie          | foot                      |
-| n (f)     | piel         | leather, skin             |
-| n (f)     | pierna       | leg                       |
-| n (m/f/n) | piloto       | pilot                     |
-| n (m/f/n) | pintor/a     | painter                   |
-| n (m)     | piso         | flat, floor of building   |
-| n (m)     | plan         | plan                      |
-| n (m)     | planeta      | planet                    |
-| n (m)     | plano        | map                       |
-| n (f)     | planta       | plant, floor              |
-| n (f)     | plata        | silver, cash              |
-| n (f)     | población    | population                |
-
 {73}------------------------------------------------
 
-| n (f)     | pobreza      | poverty, lack                                       |
-|-----------|--------------|-----------------------------------------------------|
-| n (m)     | poder        | power                                               |
-| n (f)     | poesía       | poetry, poem                                        |
-| n(m/f/n)  | poeta        | poet                                                |
-| n (m/f/n) | policía      | police officer, police                              |
-| n (f)     | política     | politics                                            |
-| n (m/f/n) | politico/a   | politician                                          |
-| n (f)     | polución     | pollution                                           |
-| n (m)     | portátil     | laptop                                              |
-| n (m/f/n) | portavoz     | spokesperson                                        |
-| n (m)     | porvenir     | future                                              |
-| n (f)     | posibilidad  | possibility                                         |
-| n (f)     | práctica     | practice                                            |
-| n (m)     | precio       | price, cost, value                                  |
-| n (m)     | premio       | prize, reward                                       |
-| n (f)     | prensa       | press                                               |
-| n (f)     | preocupación | worry, concern                                      |
-| n (m)     | presente     | present                                             |
-| n (m/f/n) | presidente/a | president                                           |
-| n (f)     | presión      | pressure                                            |
-| n (m/f/n) | primo/a      | cousin                                              |
-| n (m)     | principio    | beginning                                           |
-| n (m)     | probador     | changing room                                       |
-| n (m)     | problema     | problem                                             |
-| n (m)     | producto     | product                                             |
-| n (m/f/n) | profesor/a   | teacher                                             |
-| n (m)     | programa     | programme                                           |
-| n (m)     | pronóstico   | forecast                                            |
-| n (f)     | propiedad    | property                                            |
-| n (m)     | propósito    | intention, purpose                                  |
-| n (m/f/n) | protagonista | main character (in film, book etc.), protagonist |
-
 {74}------------------------------------------------
+
+{75}------------------------------------------------
 
 | n (f) | protección       | protection                    |
 |-------|------------------|-------------------------------|
@@ -2265,9 +2178,9 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | n (f) | relación         | relationship                  |
 | n (m) | relámpago        | lightning                     |
 
-{75}------------------------------------------------
+{76}------------------------------------------------
 
-| n (f) | reservación / reserva | reservation |
+| n (f)     | reservación<br>/ reserva | reservation         |
 |-----------|--------------------------|---------------------|
 | n (m)     | respeto                  | respect, regard     |
 | n (f)     | responsabilidad          | responsibility      |
@@ -2300,7 +2213,7 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | n (m)     | sentimiento              | feeling, sentiment  |
 | n (f)     | serie                    | series              |
 
-{76}------------------------------------------------
+{77}------------------------------------------------
 
 | n (mpl) | servicios        | toilets, services         |
 |---------|------------------|---------------------------|
@@ -2335,7 +2248,7 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | n (f)   | tarea            | task, chore               |
 | n (f)   | tarjeta          | written card, bank card   |
 
-{77}------------------------------------------------
+{78}------------------------------------------------
 
 | n (m)     | tatuaje                   | tattoo                       |
 |-----------|---------------------------|------------------------------|
@@ -2370,7 +2283,7 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | n (m)     | universo                  | universe                     |
 | n (m)     | uso                       | use                          |
 
-{78}------------------------------------------------
+{79}------------------------------------------------
 
 | n (f)     | vacaciones    | holidays             |
 |-----------|---------------|----------------------|
@@ -2398,25 +2311,25 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | n (f)     | vuelta        | return (ticket)      |
 | n (f)     | zapatilla     | slipper, shoe        |
 
-{79}------------------------------------------------
+{80}------------------------------------------------
 
 #### **Phrases**
 
 | Spanish               | English equivalent                                                        |
 |-----------------------|---------------------------------------------------------------------------|
 | a eso de              | at about…                                                                 |
-| botellón | the custom of young people getting together in public to drink alcohol |
+| botellón              | the custom of young people getting<br>together in public to drink alcohol |
 | calentamiento global  | global warming                                                            |
 | capa de ozono         | ozone layer                                                               |
 | combustibles fósiles  | fossil fuels                                                              |
 | darse cuenta de       | to realise   realising                                                    |
 | de comercio justo     | fair trade                                                                |
 | de segunda mano       | second hand                                                               |
-| echar de menos | to miss (person, place)   missing (person, place) |
+| echar de menos        | to miss (person, place)   missing (person,<br>place)                      |
 | efecto invernadero    | greenhouse effect                                                         |
 | en / por todas partes | everywhere                                                                |
 | en línea              | online                                                                    |
-| estar de | (to) be on/out for + noun, (to) be + -ing being on/out for + noun |
+| estar de              | (to) be on/out for + noun, (to) be + -ing  <br>being on/out for + noun    |
 | huella de carbono     | carbon footprint                                                          |
 | Juegos Olímpicos      | olympic games                                                             |
 | moda rápida           | fast fashion                                                              |
@@ -2426,16 +2339,16 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 | todo recto            | straight ahead                                                            |
 | valer la pena         | to be worth it                                                            |
 
-{80}------------------------------------------------
+{81}------------------------------------------------
 
 #### **Prepositions**
 
-| Spanish                  | English equivalent               |
-|--------------------------|----------------------------------|
-| a pesar de               | in spite of                      |
-| a través de              | through, across                  |
+| Spanish                  | English equivalent         |
+|--------------------------|----------------------------|
+| a pesar de               | in spite of                |
+| a través de              | through, across            |
 | dentro de (…) días/horas | within/in (…) days / hours |
-| según                    | according to                     |
+| según                    | according to               |
 
 #### **Pronouns**
 
@@ -2445,449 +2358,415 @@ The core vocabulary list is set out by part of speech (adjectives, adverbs, noun
 
 #### **Verbs**
 
-| Spanish            | English equivalent                                                 |
-|--------------------|--------------------------------------------------------------------|
-| abrazar            | (to) hug   hugging                                                 |
-| abrir | (to) open opening |
-| acabar             | (to) finish   finishing                                            |
-| aceptar            | (to) accept   accepting                                            |
-| acercarse          | (to) come closer   coming closer                                   |
-| acompañar | (to) go with, accompany   going with, accompanying |
-| acostar; acostarse | (to) put to bed   putting to bed; (to) go to bed   going to bed |
-| actuar             | (to) act   acting                                                  |
-| adjuntar           | (to) attach   attaching                                            |
-| adoptar            | (to) adopt   adopting                                              |
-| afectar            | (to) affect   affecting                                            |
-| agradecer          | (to) be grateful for   being grateful for                          |
-| aguantar           | (to) put up with   putting up with                                 |
-| ahorrar | (to) save (time, money)   saving (time, money) |
-| alcanzar | (to) reach, catch up with   reaching, catching up with |
-| alegrarse | (to) cheer up, to be happy   cheering up, being happy |
-
-{81}------------------------------------------------
-
-| alimentar (to) feed   feeding alojarse (to) stay   staying alquilar (to) rent   renting, (to) hire hiring, amar (to) love amenazar (to) threaten   threatening animar (to) encourage, cheer up   encouraging, cheering up anunciar (to) announce   announcing apagar (to) turn off, extinguish   turning off, extinguishing aparecer (to) turn up, appear   turning up, appearing apetecer (to) feel like, fancy   feeling like, fancying apoyar (to) support   supporting aprobar (to) pass (test)   passing (test) aprovecharse de (to) take advantage of   taking advantage of arreglar; arreglarse (to) repair, fix, tidy   repairing, fixing, tidying; (to) get ready   getting ready asegurar (to) assure   assuring asistir (to) attend   attending atender (to) serve, look after (patient, customer) serving, looking after (patient, customer) atraer (to) attract   attracting atreverse (a + infinitive) (to) dare (to + verb)   daring (to + verb) aumentar (to) increase, (to) go up   increasing, going up avanzar (to) advance, make progress   advancing, making progress ayudar (to) help (someone + verb)   helping (someone + verb) bajar (to) go down, to get off, to download bastar (to) be enough   being enough besar (to) kiss   kissing borrar (to) rub out, erase rubbing out, erasing brillar (to) shine   shining |  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |
+| Spanish                             | English equivalent                                                                                                        |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| abrazar                             | (to) hug   hugging                                                                                                        |
+| abrir                               | (to)<br>open<br>  opening                                                                                                 |
+| acabar                              | (to) finish   finishing                                                                                                   |
+| aceptar                             | (to) accept   accepting                                                                                                   |
+| acercarse                           | (to) come closer   coming closer                                                                                          |
+| acompañar                           | (to) go with, accompany   going with,<br>accompanying                                                                     |
+| acostar; acostarse                  | (to) put to bed   putting to bed; (to) go to<br>bed   going to bed                                                        |
+| actuar                              | (to) act   acting                                                                                                         |
+| adjuntar                            | (to) attach   attaching                                                                                                   |
+| adoptar                             | (to) adopt   adopting                                                                                                     |
+| afectar                             | (to) affect   affecting                                                                                                   |
+| agradecer                           | (to) be grateful for   being grateful for                                                                                 |
+| aguantar                            | (to) put up with   putting up with                                                                                        |
+| ahorrar                             | (to) save (time, money)   saving (time,<br>money)                                                                         |
+| alcanzar                            | (to) reach, catch up with   reaching,<br>catching up with                                                                 |
+| alegrarse                           | (to) cheer up, to be happy   cheering up,<br>being happy                                                                  |
+| alimentar                           | (to) feed   feeding                                                                                                       |
+| alojarse                            | (to) stay   staying                                                                                                       |
+| alquilar                            | (to) rent   renting, (to) hire   hiring,                                                                                  |
+| amar                                | (to) love                                                                                                                 |
+| amenazar                            | (to) threaten   threatening                                                                                               |
+| animar                              | (to) encourage, cheer up   encouraging, cheering up                                                                       |
+| anunciar                            | (to) announce   announcing                                                                                                |
+| apagar                              | (to) turn off, extinguish   turning off, extinguishing                                                                    |
+| aparecer                            | (to) turn up, appear   turning up, appearing                                                                              |
+| apetecer                            | (to) feel like, fancy   feeling like, fancying                                                                            |
+| apoyar                              | (to) support   supporting                                                                                                 |
+| aprobar                             | (to) pass (test)   passing (test)                                                                                         |
+| aprovecharse de                     | (to) take advantage of   taking advantage of                                                                              |
+| arreglar; arreglarse                | (to) repair, fix, tidy   repairing, fixing, tidying; (to) get ready   getting ready                                       |
+| asegurar                            | (to) assure   assuring                                                                                                    |
+| asistir                             | (to) attend   attending                                                                                                   |
+| atender                             | (to) serve, look after (patient, customer)   serving, looking after (patient, customer)                                   |
+| atraer                              | (to) attract   attracting                                                                                                 |
+| atreverse (a + infinitive)          | (to) dare (to + verb)   daring (to + verb)                                                                                |
+| aumentar                            | (to) increase, (to) go up   increasing, going up                                                                          |
+| avanzar                             | (to) advance, make progress   advancing, making progress                                                                  |
+| ayudar                              | (to) help (someone + verb)   helping (someone + verb)                                                                     |
+| bajar                               | (to) go down, to get off, to download                                                                                     |
+| bastar                              | (to) be enough   being enough                                                                                             |
+| besar                               | (to) kiss   kissing                                                                                                       |
+| borrar                              | (to) rub out, erase   rubbing out, erasing                                                                                |
+| brillar                             | (to) shine   shining                                                                                                      |
+| bromear                             | (to) joke   joking                                                                                                        |
+| buscar                              | (to) look for   looking for                                                                                               |
+| caerse                              | (to) fall   falling                                                                                                       |
+| cambiar; cambiarse                  | (to) change   changing; (to) get changed   getting changed                                                                |
+| caminar                             | (to) walk                                                                                                                 |
+| cancelar                            | (to) cancel   cancelling                                                                                                  |
+| cargar                              | (to) charge (phone)   charging (phone)                                                                                    |
+| casarse                             | (to) get married   getting married                                                                                        |
+| castigar                            | (to) punish   punishing                                                                                                   |
+| causar                              | (to) cause   causing                                                                                                      |
+| celebrar                            | (to) celebrate   celebrating                                                                                              |
+| cerrar                              | (to) close   closing                                                                                                      |
+| charlar                             | (to) chat   chatting                                                                                                      |
+| chatear                             | (to) chat   chatting                                                                                                      |
+| chiflar                             | (to) be wild about / to really love something                                                                             |
+| cocinar                             | (to) cook                                                                                                                 |
+| coger                               | (to) take, take hold of   taking, taking hold of                                                                          |
+| comenzar                            | (to) start, (to) commence   starting, commencing                                                                          |
+| cometer                             | (to) commit (crime)   committing (crime)                                                                                  |
+| compartir                           | (to) share   sharing                                                                                                      |
+| comprar                             | (to) buy   buying                                                                                                         |
+| comprender                          | (to) understand   understanding                                                                                           |
+| conectar                            | (to) connect   connecting                                                                                                 |
+| confiar                             | (to) trust, confide   trusting, confiding                                                                                 |
+| confirmar                           | (to) confirm   confirming                                                                                                 |
+| confundir                           | (to) confuse   confusing                                                                                                  |
+| conocer                             | (to) know (person, place), meet (for the first time   knowing (person, place), meeting (for the first time)               |
+| conseguir                           | (to) get, obtain   getting, obtaining                                                                                     |
+| conservar                           | (to) conserve, (to) preserve   conserving, preserving                                                                     |
+| considerar                          | (to) consider   considering                                                                                               |
+| consistir (en)                      | (to) consist (of)   consisting (of)                                                                                       |
+| construir                           | (to) construct, build   constructing, building                                                                            |
+| consumir                            | (to) consume   consuming                                                                                                  |
+| controlar                           | (to) control, monitor   controlling, monitoring                                                                           |
+| convencer                           | (to) convince, persuade   convincing, persuading                                                                          |
+| convertirse (en)                    | (to) become, turn (into)   becoming, turning (into)                                                                       |
+| copiar                              | (to) copy   copying                                                                                                       |
+| cortar                              | (to) cut (up)   cutting (up)                                                                                              |
+| costar                              | (to) cost, be hard   costing, being hard                                                                                  |
+| crear                               | (to) create   creating                                                                                                    |
+| crecer                              | (to) grow, increase   growing, increasing                                                                                 |
+| creer                               | (to) believe   believing                                                                                                  |
+| cruzar                              | (to) cross   crossing                                                                                                     |
+| cubrir                              | (to) cover   covering                                                                                                     |
+| cuidar                              | (to) take care of, look after   taking care of, looking after                                                             |
+| dar                                 | (to) give   giving                                                                                                        |
+| dar igual                           | (to) not mind, (to) make no difference   not minding, making no difference                                                |
+| dar un paseo                        | (to) take a stroll   strolling; (to) go out for a walk   walking                                                          |
+| deber                               | (to) have to, must   having to                                                                                            |
+| decidir                             | (to) decide (to + verb)   deciding (to + verb)                                                                            |
+| decir                               | (to) say, (to) tell                                                                                                       |
+| defender                            | (to) defend, protect   defending, protecting                                                                              |
+| definir                             | (to) define   defining                                                                                                    |
+| dejar; dejar de (+ infinitive)      | (to) let, leave   letting, leaving; (to) stop (+ing)   stopping (+ing)                                                    |
+| depender (de)                       | (to) depend (on)   depending (on)                                                                                         |
+| derretirse                          | (to) melt   melting                                                                                                       |
+| desaparecer                         | (to) disappear   disappearing                                                                                             |
+| desarrollar                         | to develop (idea, point), carry out (job, project)   developing (idea, point), carrying out (job, project)                |
+| descansar                           | (to) rest, relax   resting, relaxing                                                                                      |
+| describir                           | (to) describe   describing                                                                                                |
+| descubrir                           | (to) discover   discovering                                                                                               |
+| desear                              | (to) desire   desiring                                                                                                    |
+| despedirse (de)                     | (to) say goodbye (to)   saying goodbye (to)                                                                               |
+| desperdiciar                        | (to) waste   wasting                                                                                                      |
+| despertar                           | (to) wake (up)   waking (up)                                                                                              |
+| destacar                            | (to) stand out, (to) emphasise   standing out, emphasising                                                                |
+| destruir                            | (to) destroy   destroying                                                                                                 |
+| detener                             | (to) stop, arrest   stopping, arresting                                                                                   |
+| detestar                            | (to) hate   hating                                                                                                        |
+| devolver                            | (to) return, give back   returning, giving back                                                                           |
+| dibujar                             | (to) draw, sketch   drawing, sketching                                                                                    |
+| dirigir                             | (to) direct, manage   directing, managing                                                                                 |
+| discutir                            | (to) argue   arguing                                                                                                      |
+| diseñar                             | (to) design   designing                                                                                                   |
+| disfrutar                           | (to) enjoy   enjoying                                                                                                     |
+| divertirse                          | (to) have a good time, (to) enjoy   having a good time, enjoying                                                          |
+| dividir                             | (to) divide (up)   dividing (up)                                                                                          |
+| doler                               | (to) hurt, (to) be painful   hurting, being painful                                                                       |
+| dormir, dormirse                    | (to) sleep   sleeping; (to) fall asleep   falling asleep                                                                  |
+| dudar                               | (to) doubt   doubting                                                                                                     |
+| durar                               | (to) last for   lasting for                                                                                               |
+| elegir                              | (to) choose, elect   choosing, electing                                                                                   |
+| eliminar                            | (to) eliminate, to delete   eliminating, deleting                                                                         |
+| empezar (a + infinitive)            | (to) begin, (to) start (+ing)   beginning, (to) starting (+ing)                                                           |
+| enamorarse (de)                     | (to) fall in love (with)   falling in love (with)                                                                         |
+| encantar                            | (to) delight, to be delightful to, to love                                                                                |
+| encender                            | (to) turn on   turning on                                                                                                 |
+| encerrar                            | (to) lock in, shut up   locking in, shutting up                                                                           |
+| encontrar; encontrarse (con)        | (to) find   finding; (to) meet   meeting; (to) bump (into)   bumping (into)                                               |
+| enfrentarse (a + noun)              | (to) confront (e.g. person, problem)   confronting (e.g. person, problem)                                                 |
+| engancharse                         | (to) be hooked / addicted   being hooked/addicted                                                                         |
+| entender                            | (to) understand   understanding                                                                                           |
+| entrar                              | (to) enter, go in   entering, going in                                                                                    |
+| entregar                            | (to) deliver, hand in   delivering, handing in                                                                            |
+| entrevistar                         | (to) interview   interviewing                                                                                             |
+| enviar                              | (to) send   sending                                                                                                       |
+| esconder                            | (to) hide   hiding                                                                                                        |
+| escribir                            | (to) write   writing                                                                                                      |
+| esperar                             | (to) wait, to hope, to expect                                                                                             |
+| evitar                              | (to) avoid   avoiding                                                                                                     |
+| exigir                              | (to) demand   demanding                                                                                                   |
+| existir                             | (to) exist   existing                                                                                                     |
+| explicar                            | (to) explain   explaining                                                                                                 |
+| festejar                            | (to) celebrate   celebrating                                                                                              |
+| fijar; fijarse                      | (to) set, fix   setting, fixing; (to) notice, pay attention   noticing, paying attention                                  |
+| firmar                              | (to) sign   signing                                                                                                       |
+| formar                              | (to) train, form   training, forming                                                                                      |
+| fotocopiar                          | (to) photocopy   photocopying                                                                                             |
+| fracasar                            | (to) fail   failing                                                                                                       |
+| freír                               | (to) fry   frying                                                                                                         |
+| fumar                               | (to) smoke   smoking                                                                                                      |
+| funcionar                           | (to) function, work   functioning, working                                                                                |
+| ganar                               | (to) win, earn   winning, earning                                                                                         |
+| gastar                              | (to) spend (money)   spending (money)                                                                                     |
+| grabar                              | (to) record   recording                                                                                                   |
+| gritar                              | (to) shout   shouting                                                                                                     |
+| guardar                             | (to) keep, save   keeping, saving                                                                                         |
+| gustar                              | (to)please, to be pleasing (to), to like                                                                                  |
+| haber                               | (to) have (done something) (aux)   having (done something)                                                                |
+| hablar                              | (to) speak, talk   speaking, talking                                                                                      |
+| hacer                               | (to) do, make   doing, making                                                                                             |
+| helar                               | (to) freeze   freezing                                                                                                    |
+| herir                               | (to) wound, to hurt   wounding, hurting                                                                                   |
+| hornear                             | (to) bake   baking                                                                                                        |
+| identificar                         | (to) identify   identifying                                                                                               |
+| imaginar                            | (to) imagine   imagining                                                                                                  |
+| importar                            | (to) matter, be important                                                                                                 |
+| imprimir                            | (to) print   printing                                                                                                     |
+| incluir                             | (to) include   including                                                                                                  |
+| influir                             | (to) influence   influencing                                                                                              |
+| interesar                           | (to) interest   interesting                                                                                               |
+| investigar                          | (to) investigate   investigating                                                                                          |
+| invitar (a)                         | (to) invite   inviting                                                                                                    |
+| involucrar                          | (to) involve   involving                                                                                                  |
+| ir; ir de                           | (to) go   going; (to) go (for/on) + noun, (to) go + -ing   going (for/on) + noun, going + -ing                            |
+| justificar                          | (to) justify   justifying                                                                                                 |
+| juzgar                              | (to) judge   judging                                                                                                      |
+| lanzar                              | (to) throw, launch   throwing, launching                                                                                  |
+| lavar                               | (to) wash   washing                                                                                                       |
+| Spanish Verb                        | English Translation                                                                                                       |
+| levantar; levantarse                | (to) raise, lift   raising, lifting; (to) get up  <br>getting up                                                          |
+| licienciarse                        | (to) graduate, graduating                                                                                                 |
+| limitar                             | (to) limit   limiting                                                                                                     |
+| limpiar                             | (to) clean   cleaning                                                                                                     |
+| llamar; llamarse                    | (to) call   calling; (to) be called   being<br>called                                                                     |
+| llegar; llegar a (+ infinitive)     | (to) arrive   arriving; (to) manage to (+<br>verb), succeed in (+ verb)   managing to (+<br>verb); succeeding in (+ verb) |
+| llenar                              | (to) fill (up)   filling (up)                                                                                             |
+| llevar                              | (to) take, carry, wear   taking, carrying,<br>wearing                                                                     |
+| llorar                              | (to) cry   crying                                                                                                         |
+| llover                              | (to) rain   raining                                                                                                       |
+| lograr                              | (to) achieve, manage to (+verb)  <br>achieving, managing to (+verb)                                                       |
+| luchar                              | (to) fight, struggle   fighting, struggling                                                                               |
+| mandar                              | (to) send, order   sending, ordering                                                                                      |
+| mantener                            | (to) keep, maintain   keeping, maintaining                                                                                |
+| marcar                              | (to) mark, score   marking, scoring                                                                                       |
+| matar                               | (to) kill   killing                                                                                                       |
+| mejorar                             | (to) improve, get better   improving, get<br>better                                                                       |
+| mentir                              | (to) lie   lying                                                                                                          |
+| merecer                             | (to) deserve, be worthy of   deserving,<br>being worthy of                                                                |
+| merendar                            | (to) have an afternoon snack  <br>having an afternoon snack                                                               |
+| mezclar                             | (to) mix   mixing                                                                                                         |
+| mirar                               | (to) watch   watching                                                                                                     |
+| mojarse                             | (to) get wet   getting wet                                                                                                |
+| molar                               | (to) really like                                                                                                          |
+| molestar                            | (to) annoy                                                                                                                |
+| montar                              | (to) ride   riding; (to) put on / up                                                                                      |
+| morder                              | (to) bite   biting                                                                                                        |
+| morir                               | (to) die   dying                                                                                                          |
+| mostrar                             | (to) show   showing                                                                                                       |
+| mover                               | (to) move   moving                                                                                                        |
+| nacer                               | (to) be born   being born                                                                                                 |
+| necesitar                           | (to) need   needing                                                                                                       |
+| nevar                               | (to) snow   snowing                                                                                                       |
+| notar                               | (to) notice   noticing                                                                                                    |
+| obligar (a + infinitive)            | (to) force (to + verb)   forcing (to + verb)                                                                              |
+| ocupar; ocuparse (de + noun)        | (to) occupy, use   occupying, using; (to)<br>take responsibility for   taking responsibility<br>for                       |
+| ocurrir                             | (to) happen, occur   happening, occurring                                                                                 |
+| ofrecer                             | (to) offer, present   offering, presenting                                                                                |
+| oír                                 | (to) hear   hearing                                                                                                       |
+| oler                                | (to) smell   smelling                                                                                                     |
+| olvidar                             | (to) forget   forgetting                                                                                                  |
+| opinar                              | (to) believe, think   believing, thinking                                                                                 |
+| organizar                           | (to) organise   organising                                                                                                |
+| padecer                             | (to)<br>suffer   suffering                                                                                                |
+| pagar                               | (to) pay (for)   paying (for)                                                                                             |
+| parar                               | (to) stop (person, vehicle)   stopping<br>(person, vehicle)                                                               |
+| parecer/parecerse                   | (to)<br>seem/to look like   seeming, looking<br>like                                                                      |
+| participar                          | (to) participate   participating                                                                                          |
+| pasar                               | (to) pass, spend (time), happen  <br>passing,<br>spending (time), happening                                               |
+| pasear                              | (to)<br>go for a walk<br> <br>going for a walk                                                                            |
+| pedir                               | (to) ask for   asking for; (to) order  <br>ordering (e.g., food)                                                          |
+| pegar                               | (to) hit, stick (on)   hitting, sticking (on)                                                                             |
+| pelear                              | (to) fight (physically)   fighting (physically)                                                                           |
+| pensar                              | (to) think<br> <br>thinking                                                                                               |
+| perder; perderse                    | (to) lose, miss (e.g. bus)   losing, missing<br>(e.g. bus); (to) get lost   getting lost                                  |
+| perdonar                            | (to) forgive, excuse   forgiving, excusing                                                                                |
+| permitir                            | (to) allow, permit   allowing, permitting                                                                                 |
+| pesar                               | (to) weigh   weighing                                                                                                     |
+| pescar                              | (to) fish   fishing                                                                                                       |
+| picar                               | (to) bite, to sting   biting, stinging                                                                                    |
+| poder                               | (to) be able to, can   being able to                                                                                      |
+| poner; ponerse (+ adjective)        | (to) put (on)   putting (on); (to) get, become (+ adjective)   getting, becoming (+ adjective)                            |
+| ponerse de acuerdo (en, con)        | (to) agree   agreeing                                                                                                     |
+| practicar                           | (to) practise, (to) play   practising, playing                                                                            |
+| preferir                            | (to) prefer   preferring                                                                                                  |
+| preguntar; preguntarse              | (to) ask (a question)   asking (a question); (to) wonder   wondering                                                      |
+| preocupar; preocuparse (por + noun) | (to) worry (about + noun)   worrying about (about + noun); (to) be a concern   being a concern                            |
+| preparar; prepararse                | (to) prepare   preparing; (to) get ready   getting ready                                                                  |
+| presentar                           | (to) introduce, present   introducing, presenting                                                                         |
+| prestar                             | (to) lend, pay (attention)   lending, paying (attention)                                                                  |
+| probar                              | (to) taste, try   tasting, trying                                                                                         |
+| probarse                            | (to) try on (e.g. clothes)   trying on                                                                                    |
+| producir                            | (to) produce, cause   producing, causing                                                                                  |
+| prohibir                            | (to) prohibit, forbid   prohibiting, forbidding                                                                           |
+| prometer                            | (to) promise   promising                                                                                                  |
+| promover                            | (to) promote   promoting                                                                                                  |
+| proponer                            | (to) propose, suggest   proposing, suggesting                                                                             |
+| proteger                            | (to) protect   protecting                                                                                                 |
+| provocar                            | (to) cause, provoke   causing, provoking                                                                                  |
+| publicar                            | (to) publish, post (online)   publishing, posting (online)                                                                |
+| quedar; quedar(se)                  | (to) arrange to meet   arranging to meet;<br>(to) stay   staying                                                          |
+| quejarse (de)                       | (to) complain (about)   complaining (about)                                                                               |
+| quemar                              | (to) burn   burning                                                                                                       |
+| querer                              | (to) want (to), love   wanting (to), loving                                                                               |
+| querer decir                        | (to) mean   meaning                                                                                                       |
+| quitar; quitarse                    | (to) remove, take away   removing, taking away; (to) take off   taking off (e.g.<br>clothing)                             |
+| realizar                            | (to) fulfill, carry out   fulfilling, carrying out                                                                        |
+| rechazar                            | (to) reject   rejecting                                                                                                   |
+| recibir                             | (to) receive   receiving                                                                                                  |
+| reciclar                            | to recycle   recycling                                                                                                    |
+| recoger                             | (to) pick up, collect   picking up, collecting                                                                            |
+| recomendar                          | (to) recommend   recommending                                                                                             |
+| reconocer                           | (to) recognise, admit   recognising,<br>admitting                                                                         |
+| recuperar                           | (to) recover   recovering                                                                                                 |
+| reducir                             | (to) reduce   reducing                                                                                                    |
+| regalar                             | (to) give (as a gift)   giving (as a gift)                                                                                |
+| regresar                            | (to) come back, go back   coming back,<br>going back                                                                      |
+| reírse                              | (to) laugh   laughing                                                                                                     |
+| renunciar                           | (to) give up   giving up                                                                                                  |
+| repartir                            | (to) hand out, share out   handing out,<br>sharing out                                                                    |
+| repetir                             | (to) repeat   repeating                                                                                                   |
+| representar                         | (to) represent   representing                                                                                             |
+| rescatar                            | (to) rescue   rescuing                                                                                                    |
+| reservar                            | (to) reserve   reserving                                                                                                  |
+| resolver                            | (to) solve, resolve   solving, resolving                                                                                  |
+| respirar                            | (to) breathe   breathing                                                                                                  |
+| resultar                            | (to) be, (to) turn out (+ adjective)   being,<br>turning out (+ adjective)                                                |
+| revisar                             | (to) check, inspect   checking, inspecting                                                                                |
+| robar                               | (to) rob, steal   robbing, stealing                                                                                       |
+| rodar (una película)                | (to) shoot (a film)   shooting, filming                                                                                   |
+| romper; romperse                    | (to) break (e.g. object)   breaking (e.g. object); (to) break a body part   breaking a body part                          |
+| saber                               | (to) know, find out   knowing, finding out                                                                                |
+| sacar                               | (to) take out, get, obtain   taking out, getting, obtaining                                                               |
+| salir                               | (to) leave, go out   leaving, going out                                                                                   |
+| saltar                              | (to) jump, hop   jumping, hopping                                                                                         |
+| saludar                             | (to) greet, say hello   greeting, saying hello                                                                            |
+| salvar                              | (to) save, rescue   saving, rescuing                                                                                      |
+| secar                               | (to) dry   drying                                                                                                         |
+| seguir                              | (to) follow   following                                                                                                   |
+| seleccionar                         | to choose, to select   choosing, selecting                                                                                |
+| señalar                             | (to) point (out), signal   pointing (out), signalling                                                                     |
+| sentar                              | (to) sit (down)   sitting (down)                                                                                          |
+| sentir<br>/ sentirse                | (to) feel   feeling                                                                                                       |
+| separar; separarse                  | (to) separate   separating; (to) split up, break up   splitting up, breaking up                                           |
+| servir                              | (to) serve   serving                                                                                                      |
+| significar                          | (to) mean   meaning                                                                                                       |
+| sobrevivir                          | (to) survive   surviving                                                                                                  |
+| soler                               | (to) normally (+ verb)                                                                                                    |
+| soñar (con)                         | (to) dream   dreaming (of)                                                                                                |
+| sonreír                             | (to) smile   smiling                                                                                                      |
+| sorprender                          | (to) surprise   surprising                                                                                                |
+| sorprenderse                        | (to) be surprised   being surprised                                                                                       |
+| subir                               | (to) go up, turn up, upload   going up, turning up, uploading                                                             |
+| sufrir                              | (to) suffer   suffering                                                                                                   |
+| sugerir                             | (to) suggest   suggesting                                                                                                 |
+| suponer                             | (to) suppose, involve   supposing, involving                                                                              |
+| suspender                           | (to) fail (a test, an exam)   failing                                                                                     |
+| tardar                              | (to) be late, take a long time   being late, taking a long time                                                           |
+| temer                               | (to) fear   fearing                                                                                                       |
+| tener                               | (to) have   having                                                                                                        |
+| tener prisa                         | (to) hurry   hurrying                                                                                                     |
+| terminar                            | (to) finish, end   finishing, ending                                                                                      |
+| tomar                               | (to) take, drink   taking, drinking                                                                                       |
+| tomar el sol                        | (to) sunbathe   sunbathing                                                                                                |
+| trabajar                            | (to) work   working                                                                                                       |
+| traducir                            | (to) translate   translating                                                                                              |
+| traer                               | (to) bring   bringing                                                                                                     |
+| tratar                              | (to) treat, deal with, try   treating, dealing with, trying                                                               |
+| unir                                | (to) unite, join (together)   uniting, joining (together)                                                                 |
+| usar                                | (to) use   using                                                                                                          |
+| utilizar                            | (to) use   using                                                                                                          |
+| vaciar                              | (to) empty   emptying                                                                                                     |
+| valer                               | (to) be worth, cost   being worth, costing                                                                                |
+| vender                              | (to) sell   selling                                                                                                       |
+| venir                               | (to) come   coming                                                                                                        |
+| ver                                 | (to) see, (to) watch   seeing, watching                                                                                   |
+| visitar                             | (to) visit   visiting                                                                                                     |
+| vivir                               | (to) live   living                                                                                                        |
+| volver; volver a                    | (to) go back, return   going back, returning;<br>(to) do again   doing again                                              |
+| votar                               | (to) vote   voting                                                                                                        |
 
 {82}------------------------------------------------
 
-| bromear buscar caerse cambiar; cambiarse caminar cancelar | (to) joke   joking (to) look for   looking for (to) fall   falling (to) change   changing; (to) get changed getting changed (to) walk (to) cancel   cancelling (to) charge (phone)   charging (phone) |
-|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                          |                                                                                                                                                                                                                              |
-|                                                                          |                                                                                                                                                                                                                              |
-|                                                                          |                                                                                                                                                                                                                              |
-|                                                                          |                                                                                                                                                                                                                              |
-|                                                                          |                                                                                                                                                                                                                              |
-|                                                                          |                                                                                                                                                                                                                              |
-| cargar                                                                   |                                                                                                                                                                                                                              |
-| casarse                                                                  | (to) get married   getting married                                                                                                                                                                                           |
-| castigar                                                                 | (to) punish   punishing                                                                                                                                                                                                      |
-| causar                                                                   | (to) cause   causing                                                                                                                                                                                                         |
-| celebrar                                                                 | (to) celebrate   celebrating                                                                                                                                                                                                 |
-| cerrar                                                                   | (to) close   closing                                                                                                                                                                                                         |
-| charlar                                                                  | (to) chat   chatting                                                                                                                                                                                                         |
-| chatear                                                                  | (to) chat   chatting                                                                                                                                                                                                         |
-| chiflar                                                                  | (to) be wild about / to really love something                                                                                                                                                                                |
-| cocinar                                                                  | (to) cook                                                                                                                                                                                                                    |
-| coger of | (to) take, take hold of   taking, taking hold |
-| comenzar (to) | start, (to) commence   starting, commencing |
-| cometer                                                                  | (to) commit (crime)   committing (crime)                                                                                                                                                                                     |
-| compartir                                                                | (to) share   sharing                                                                                                                                                                                                         |
-| comprar                                                                  | (to) buy   buying                                                                                                                                                                                                            |
-| comprender                                                               | (to) understand   understanding                                                                                                                                                                                              |
-| conectar                                                                 | (to) connect   connecting                                                                                                                                                                                                    |
-| confiar                                                                  | (to) trust, confide   trusting, confiding                                                                                                                                                                                    |
-| confirmar                                                                | (to) confirm   confirming                                                                                                                                                                                                    |
-| confundir                                                                | (to) confuse   confusing                                                                                                                                                                                                     |
-| conocer | (to) know (person, place), meet (for the first time   knowing (person, place), meeting (for the first time) |
-| conseguir                                                                | (to) get, obtain   getting, obtaining                                                                                                                                                                                        |
-
 {83}------------------------------------------------
-
-| conservar | (to) conserve, (to) preserve   conserving, |
-|--------------------------------|-------------------------------------------------------------------------------------|
-|                                | preserving                                                                          |
-| considerar                     | (to) consider   considering                                                         |
-| consistir (en)                 | (to) consist (of)   consisting (of)                                                 |
-| construir                      | (to) construct, build   constructing, building                                      |
-| consumir | (to) consume   consuming |
-| controlar | (to) control, monitor controlling, monitoring |
-| convencer | (to) convince, persuade   convincing, persuading |
-| convertirse (en) | (to) become, turn (into)   becoming, turning (into) |
-| copiar | (to) copy   copying |
-| cortar                         | (to) cut (up)   cutting (up)                                                        |
-| costar                         | (to) cost, be hard   costing, being hard                                            |
-| crear                          | (to) create   creating                                                              |
-| crecer                         | (to) grow, increase   growing, increasing                                           |
-| creer                          | (to) believe   believing                                                            |
-| cruzar                         | (to) cross   crossing                                                               |
-| cubrir                         | (to) cover   covering                                                               |
-| cuidar | (to) take care of, look after   taking care of, looking after |
-| dar                            | (to) give   giving                                                                  |
-| dar igual | (to) not mind, (to) make no difference   not minding, making no difference |
-| dar un paseo | (to) take a stroll   strolling; (to) go out for a walk   walking |
-| deber                          | (to) have to, must   having to                                                      |
-| decidir                        | (to) decide (to + verb)   deciding (to + verb)                                      |
-| decir | (to) say, (to) tell |
-| defender                       | (to) defend, protect   defending, protecting                                        |
-| definir                        | (to) define   defining                                                              |
-| dejar; dejar de (+ infinitive) | (to) let, leave   letting, leaving; (to) stop (+ing) I stopping (+ing) |
-| depender (de)                  | (to) depend (on)   depending (on)                                                   |
-|                                |                                                                                     |
 
 {84}------------------------------------------------
 
-| derretirse       | (to) melt   melting                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------------|
-| desaparecer      | (to) disappear   disappearing                                                                                    |
-| desarrollar | to develop (idea, point), carry out (job, project)   developing (idea, point), carrying out (job, project) |
-| descansar        | (to) rest, relax   resting, relaxing                                                                             |
-| describir        | (to) describe   describing                                                                                       |
-| descubrir        | (to) discover   discovering                                                                                      |
-| desear           | (to) desire   desiring                                                                                           |
-| despedirse (de)  | (to) say goodbye (to)   saying goodbye (to)                                                                      |
-| desperdiciar     | (to) waste   wasting                                                                                             |
-| despertar        | (to) wake (up)   waking (up)                                                                                     |
-| destacar | (to) stand out, (to) emphasise   standing out, emphasising |
-| destruir         | (to) destroy   destroying                                                                                        |
-| detener          | (to) stop, arrest   stopping, arresting                                                                          |
-| detestar | (to) hate hating |
-| devolver | (to) return, give back   returning, giving back |
-| dibujar          | (to) draw, sketch   drawing, sketching                                                                           |
-| dirigir          | (to) direct, manage   directing, managing                                                                        |
-| discutir | (to) argue arguing |
-| diseñar          | (to) design   designing                                                                                          |
-| disfrutar | (to) enjoy enjoying |
-| divertirse | (to) have a good time, (to) enjoy having a good time, enjoying |
-| dividir          | (to) divide (up)   dividing (up)                                                                                 |
-| doler | (to) hurt, (to) be painful hurting, being painful |
-| dormir, dormirse | (to) sleep   sleeping; (to) fall asleep   falling asleep |
-| dudar | (to) doubt doubting |
-| durar | (to) last for   lasting for |
-| elegir           | (to) choose, elect   choosing, electing                                                                          |
-|                  |                                                                                                                  |
-
 {85}------------------------------------------------
-
-| empezar (a + infinitive) (to) begin, (to) start (+ing)   beginning, (to) starting (+ing) enamorarse (de) (to) fall in love (with)   falling in love (with) encantar (to) delight, to be delightful to, to love encender (to) turn on   turning on encerrar (to) lock in, shut up   locking in, shutting up encontrar; encontrarse (con) (to) find   finding; (to) meet   meeting; (to) bump (into)   bumping (into) enfrentarse (a + noun) (to) confront (e.g. person, problem) confronting (e.g. person, problem) engancharse (to) be hooked / addicted   being hooked/addicted entender (to) understand   understanding entrar (to) enter, go in   entering, going in entregar (to) deliver, hand in   delivering, handing in entrevistar (to) interview   interviewing enviar (to) send   sending esconder (to) hide   hiding escribir (to) write   writing esperar (to) wait, to hope, to expect evitar (to) avoid   avoiding exigir (to) demand   demanding existir (to) exist   existing explicar (to) explain   explaining festejar (to) celebrate celebrating fijar; fijarse (to) set, fix   setting, fixing; (to) notice, pay attention   noticing, paying attention firmar (to) sign   signing formar (to) train, form   training, forming fotocopiar (to) photocopy   photocopying fracasar (to) fail   failing freír (to) fry   frying | eliminar | (to) eliminate, to delete   eliminating, deleting |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |                                                      |
 
 {86}------------------------------------------------
 
-| fumar       | (to) smoke   smoking                                                                                  |
-|-------------|-------------------------------------------------------------------------------------------------------|
-| funcionar   | (to) function, work   functioning, working                                                            |
-| ganar       | (to) win, earn   winning, earning                                                                     |
-| gastar      | (to) spend (money)   spending (money)                                                                 |
-| grabar | (to) record recording |
-| gritar      | (to) shout   shouting                                                                                 |
-| guardar     | (to) keep, save   keeping, saving                                                                     |
-| gustar      | (to)please, to be pleasing (to), to like                                                              |
-| haber | (to) have (done something) (aux)   having (done something) |
-| hablar      | (to) speak, talk   speaking, talking                                                                  |
-| hacer       | (to) do, make   doing, making                                                                         |
-| helar | (to) freeze   freezing |
-| herir | (to) wound, to hurt   wounding, hurting |
-| hornear     | (to) bake   baking                                                                                    |
-| identificar | (to) identify   identifying                                                                           |
-| imaginar    | (to) imagine   imagining                                                                              |
-| importar    | (to) matter, be important                                                                             |
-| imprimir | (to) print   printing |
-| incluir     | (to) include   including                                                                              |
-| influir     | (to) influence   influencing                                                                          |
-| interesar   | (to) interest   interesting                                                                           |
-| investigar  | (to) investigate   investigating                                                                      |
-| invitar (a) | (to) invite   inviting                                                                                |
-| involucrar | (to) involve   involving |
-| ir; ir de | (to) go   going; (to) go (for/on) + noun, (to) go + -ing   going (for/on) + noun, going + - ing |
-| justificar  | (to) justify   justifying                                                                             |
-| juzgar      | (to) judge   judging                                                                                  |
-| lanzar      | (to) throw, launch   throwing, launching                                                              |
-| lavar       | (to) wash   washing                                                                                   |
-|             |                                                                                                       |
-
 {87}------------------------------------------------
-
-| levantar; levantarse | (to) raise, lift   raising, lifting; (to) get up getting up |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| licienciarse | (to) graduate, graduating |
-| limitar                         | (to) limit   limiting                                                                                                        |
-| limpiar                         | (to) clean   cleaning                                                                                                        |
-| llamar; llamarse | (to) call   calling; (to) be called   being called |
-| llegar; llegar a (+ infinitive) | (to) arrive   arriving; (to) manage to (+ verb), succeed in (+ verb)   managing to (+ verb); succeeding in (+ verb) |
-| llenar                          | (to) fill (up)   filling (up)                                                                                                |
-| llevar | (to) take, carry, wear taking, carrying, wearing |
-| llorar                          | (to) cry   crying                                                                                                            |
-| llover | (to) rain   raining |
-| lograr | (to) achieve, manage to (+verb) achieving, managing to (+verb) |
-| luchar                          | (to) fight, struggle   fighting, struggling                                                                                  |
-| mandar                          | (to) send, order   sending, ordering                                                                                         |
-| mantener                        | (to) keep, maintain   keeping, maintaining                                                                                   |
-| marcar                          | (to) mark, score   marking, scoring                                                                                          |
-| matar                           | (to) kill   killing                                                                                                          |
-| mejorar | (to) improve, get better   improving, get better |
-| mentir                          | (to) lie   lying                                                                                                             |
-| merecer | (to) deserve, be worthy of   deserving, being worthy of |
-| merendar | (to) have an afternoon snack having an afternoon snack |
-| mezclar                         | (to) mix   mixing                                                                                                            |
-| mirar | (to) watch watching |
-| mojarse | (to) get wet   getting wet |
-| molar | (to) really like |
-| molestar | (to) annoy |
-| montar                          | (to) ride   riding; (to) put on / up                                                                                         |
-| morder | (to) bite   biting |
-|                                 |                                                                                                                              |
 
 {88}------------------------------------------------
 
-| morir                        | (to) die   dying                                                                                    |
-|------------------------------|-----------------------------------------------------------------------------------------------------|
-| mostrar                      | (to) show   showing                                                                                 |
-| mover                        | (to) move   moving                                                                                  |
-| nacer                        | (to) be born   being born                                                                           |
-| necesitar                    | (to) need   needing                                                                                 |
-| nevar                        | (to) snow   snowing                                                                                 |
-| notar                        | (to) notice   noticing                                                                              |
-| obligar (a + infinitive)     | (to) force (to + verb)   forcing (to + verb)                                                        |
-| ocupar; ocuparse (de + noun) | (to) occupy, use   occupying, using; (to) take responsibility for   taking responsibility for |
-| ocurrir                      | (to) happen, occur   happening, occurring                                                           |
-| ofrecer                      | (to) offer, present   offering, presenting                                                          |
-| oír                          | (to) hear   hearing                                                                                 |
-| oler                         | (to) smell   smelling                                                                               |
-| olvidar                      | (to) forget   forgetting                                                                            |
-| opinar                       | (to) believe, think   believing, thinking                                                           |
-| organizar                    | (to) organise   organising                                                                          |
-| padecer | (to) suffer   suffering |
-| pagar                        | (to) pay (for)   paying (for)                                                                       |
-| parar | (to) stop (person, vehicle)   stopping (person, vehicle) |
-| parecer/parecerse | (to) seem/to look like   seeming, looking like |
-| participar                   | (to) participate   participating                                                                    |
-| pasar | (to) pass, spend (time), happen passing, spending (time), happening |
-| pasear | (to) go for a walk going for a walk |
-| pedir | (to) ask for   asking for; (to) order ordering (e.g., food) |
-| pegar                        | (to) hit, stick (on)   hitting, sticking (on)                                                       |
-| pelear                       | (to) fight (physically)   fighting (physically)                                                     |
-| pensar | (to) think thinking |
-| perder; perderse | (to) lose, miss (e.g. bus)   losing, missing (e.g. bus); (to) get lost   getting lost |
-
 {89}------------------------------------------------
-
-| perdonar                            | (to) forgive, excuse   forgiving, excusing                                                              |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| permitir                            | (to) allow, permit   allowing, permitting                                                               |
-| pesar                               | (to) weigh   weighing                                                                                   |
-| pescar | (to) fish   fishing |
-| picar                               | (to) bite, to sting   biting, stinging                                                                  |
-| poder                               | (to) be able to, can   being able to                                                                    |
-| poner; ponerse (+ adjective) | (to) put (on)   putting (on); (to) get, become (+ adjective) getting, becoming (+ adjective) |
-| ponerse de acuerdo (en, con) | (to) agree   agreeing |
-| practicar | (to) practise, (to) play practising, playing |
-| preferir | (to) prefer preferring |
-| preguntar; preguntarse | (to) ask (a question)   asking (a question); (to) wonder   wondering |
-| preocupar; preocuparse (por + noun) | (to) worry (about + noun)   worrying about (about + noun); (to) be a concern   being a concern |
-| preparar; prepararse | (to) prepare   preparing; (to) get ready getting ready |
-| presentar | (to) introduce, present   introducing, presenting |
-| prestar | (to) lend, pay (attention)   lending, paying (attention) |
-| probar                              | (to) taste, try   tasting, trying                                                                       |
-| probarse | (to) try on (e.g. clothes)   trying on |
-| producir                            | (to) produce, cause   producing, causing                                                                |
-| prohibir                            | (to) prohibit, forbid   prohibiting, forbidding                                                         |
-| prometer                            | (to) promise   promising                                                                                |
-| promover                            | (to) promote   promoting                                                                                |
-| proponer | (to) propose, suggest   proposing, suggesting |
-| proteger                            | (to) protect   protecting                                                                               |
-| provocar                            | (to) cause, provoke   causing, provoking                                                                |
-| publicar | (to) publish, post (online)   publishing, posting (online) |
 
 {90}------------------------------------------------
 
-| quejarse (de) (to) complain (about)   complaining (about) quemar (to) burn   burning querer (to) want (to), love   wanting (to), loving querer decir (to) mean   meaning quitar; quitarse (to) remove, take away   removing, taking away; (to) take off   taking off (e.g. clothing) realizar (to) fulfill, carry out   fulfilling, carrying out rechazar (to) reject   rejecting recibir (to) receive   receiving reciclar to recycle   recycling recoger (to) pick up, collect   picking up, collecting recomendar (to) recommend   recommending reconocer (to) recognise, admit   recognising, admitting recuperar (to) recover   recovering reducir (to) reduce   reducing regalar (to) give (as a gift)   giving (as a gift) regresar (to) come back, go back   coming back, going back reírse (to) laugh   laughing renunciar (to) give up   giving up repartir (to) hand out, share out   handing out, sharing out repetir (to) repeat   repeating representar (to) represent   representing rescatar (to) rescue   rescuing reservar (to) reserve   reserving resolver (to) solve, resolve   solving, resolving respirar (to) breathe   breathing resultar (to) be, (to) turn out (+ adjective)   being, turning out (+ adjective) revisar (to) check, inspect   checking, inspecting | quedar; quedar(se) | (to) arrange to meet   arranging to meet; (to) stay   staying |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                    |                                                                  |
-
 {91}------------------------------------------------
-
-| robar                | (to) rob, steal   robbing, stealing                                                                    |  |
-|----------------------|--------------------------------------------------------------------------------------------------------|--|
-| rodar (una película) | (to) shoot (a film)   shooting, filming                                                                |  |
-| romper; romperse | (to) break (e.g. object)   breaking (e.g. object); (to) break a body part   breaking a body part |  |
-| saber                | (to) know, find out   knowing, finding out                                                             |  |
-| sacar | (to) take out, get, obtain   taking out, getting, obtaining |  |
-| salir                | (to) leave, go out   leaving, going out                                                                |  |
-| saltar               | (to) jump, hop   jumping, hopping                                                                      |  |
-| saludar              | (to) greet, say hello   greeting, saying hello                                                         |  |
-| salvar               | (to) save, rescue   saving, rescuing                                                                   |  |
-| secar | (to) dry   drying |  |
-| seguir               | (to) follow   following                                                                                |  |
-| seleccionar          | to choose, to select   choosing, selecting                                                             |  |
-| señalar | (to) point (out), signal   pointing (out), signalling |  |
-| sentar               | (to) sit (down)   sitting (down)                                                                       |  |
-| sentir / sentirse | (to) feel   feeling |  |
-| separar; separarse | (to) separate   separating; (to) split up, break up   splitting up, breaking up |  |
-| servir               | (to) serve   serving                                                                                   |  |
-| significar           | (to) mean   meaning                                                                                    |  |
-| sobrevivir           | (to) survive   surviving                                                                               |  |
-| soler                | (to) normally (+ verb)                                                                                 |  |
-| soñar (con)          | (to) dream   dreaming (of)                                                                             |  |
-| sonreír              | (to) smile   smiling                                                                                   |  |
-| sorprender           | (to) surprise   surprising                                                                             |  |
-| sorprenderse | (to) be surprised   being surprised |  |
-| subir | (to) go up, turn up, upload   going up, turning up, uploading |  |
-| sufrir               | (to) suffer   suffering                                                                                |  |
-| sugerir              | (to) suggest   suggesting                                                                              |  |
-| suponer              | (to) suppose, involve   supposing, involving                                                           |  |
 
 {92}------------------------------------------------
 
-| suspender | (to) fail (a test, an exam)   failing |  |  |
-|------------------|------------------------------------------------------------------------------|--|--|
-| tardar | (to) be late, take a long time   being late, taking a long time |  |  |
-| temer            | (to) fear   fearing                                                          |  |  |
-| tener            | (to) have   having                                                           |  |  |
-| tener prisa | (to) hurry   hurrying |  |  |
-| terminar         | (to) finish, end   finishing, ending                                         |  |  |
-| tomar            | (to) take, drink   taking, drinking                                          |  |  |
-| tomar el sol     | (to) sunbathe   sunbathing                                                   |  |  |
-| trabajar | (to) work working |  |  |
-| traducir         | (to) translate   translating                                                 |  |  |
-| traer            | (to) bring   bringing                                                        |  |  |
-| tratar | (to) treat, deal with, try   treating, dealing with, trying |  |  |
-| unir | (to) unite, join (together)   uniting, joining (together) |  |  |
-| usar             | (to) use   using                                                             |  |  |
-| utilizar         | (to) use   using                                                             |  |  |
-| vaciar | (to) empty   emptying |  |  |
-| valer            | (to) be worth, cost   being worth, costing                                   |  |  |
-| vender           | (to) sell   selling                                                          |  |  |
-| venir            | (to) come   coming                                                           |  |  |
-| ver | (to) see, (to) watch seeing, watching |  |  |
-| visitar          | (to) visit   visiting                                                        |  |  |
-| vivir | (to) live living |  |  |
-| volver; volver a | (to) go back, return   going back, returning; (to) do again   doing again |  |  |
-| votar            | (to) vote   voting                                                           |  |  |
-|                  |                                                                              |  |  |
-
 {93}------------------------------------------------
+
+{94}------------------------------------------------
 
 ## Appendix C: Opportunities for embedding elements of the Curriculum for Wales
 
 <span id="page-93-0"></span>
 
-| Curriculum for Wales Strands | Unit 1 | Unit 2 | Unit 3 | Unit 4 |  |  |
-|------------------------------------------------------------------------------|----------------------|--------|--------|--------|--|--|
-|                                                                              | Cross-cutting Themes |        |        |        |  |  |
-| Local, National & International Contexts | ✓ | ✓ | ✓ | ✓ |  |  |
-| Sustainability aspect of Local, National and International Contexts | ✓ | ✓ | ✓ | ✓ |  |  |
-| Relationships and Sexuality Education | ✓ | ✓ | ✓ | ✓ |  |  |
-| Human Rights                                                                 | ✓                    | ✓      | ✓      | ✓      |  |  |
-| Diversity                                                                    | ✓                    | ✓      | ✓      | ✓      |  |  |
-| Careers and Work Related Experiences | ✓ | ✓ | ✓ | ✓ |  |  |
-| Cross-curricular Skills - Literacy |  |  |  |  |  |  |
-| Listening                                                                    | ✓                    |        | ✓      |        |  |  |
-| Reading                                                                      |                      | ✓      |        | ✓      |  |  |
-| Speaking                                                                     | ✓                    |        |        |        |  |  |
-| Writing                                                                      |                      | ✓      |        | ✓      |  |  |
-
-{94}------------------------------------------------
-
-| Curriculum for Wales Strands | Unit 1 | Unit 2 | Unit 3 | Unit 4 |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|--------|--------|
-| Cross-curricular Skills - Numeracy |  |  |  |  |
-| Developing Mathematical Proficiency |  |  |  |  |
-| Understanding the number system helps us to represent and compare relationships between numbers and quantities | ✓ | ✓ | ✓ | ✓ |
-| Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world |  |  |  |  |
-| Learning that statistics represent data and that probability models chance help us make informed inferences and decisions |  |  |  |  |
-| Digital Competence                                                                                                                                      |        |        |        |        |
-| Citizenship                                                                                                                                             |        | ✓      |        |        |
-| Interacting and Collaborating | ✓ |  | ✓ | ✓ |
-| Producing                                                                                                                                               |        | ✓      |        | ✓      |
-| Data and Computational Thinking |  |  |  |  |
+| Curriculum for Wales<br>Strands                                                                                                          | Unit 1 | Unit 2 | Unit 3 | Unit 4 |
+|------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|--------|--------|
+| Cross-cutting Themes                                                                                                                     |        |        |        |        |
+| Local, National &<br>International Contexts                                                                                              | ✓      | ✓      | ✓      | ✓      |
+| Sustainability<br>aspect of<br>Local, National and<br>International Contexts                                                             | ✓      | ✓      | ✓      | ✓      |
+| Relationships and<br>Sexuality Education                                                                                                 | ✓      | ✓      | ✓      | ✓      |
+| Human Rights                                                                                                                             | ✓      | ✓      | ✓      | ✓      |
+| Diversity                                                                                                                                | ✓      | ✓      | ✓      | ✓      |
+| Careers and Work-<br>Related Experiences                                                                                                 | ✓      | ✓      | ✓      | ✓      |
+| Cross-curricular Skills -<br>Literacy                                                                                                    |        |        |        |        |
+| Listening                                                                                                                                | ✓      |        | ✓      |        |
+| Reading                                                                                                                                  |        | ✓      |        | ✓      |
+| Speaking                                                                                                                                 | ✓      |        |        |        |
+| Writing                                                                                                                                  |        | ✓      |        | ✓      |
+| Curriculum for Wales<br>Strands                                                                                                          | Unit 1 | Unit 2 | Unit 3 | Unit 4 |
+| Cross-curricular Skills - Numeracy                                                                                                       |        |        |        |        |
+| Developing Mathematical Proficiency                                                                                                      |        |        |        |        |
+| Understanding the number system helps us to represent and compare relationships between numbers and quantities                           | ✓      | ✓      | ✓      | ✓      |
+| Learning about geometry helps us understand shape, space and position and learning about measurement helps us quantify in the real world |        |        |        |        |
+| Learning that statistics represent data and that probability models chance help us make informed inferences and decisions                |        |        |        |        |
+| Digital Competence                                                                                                                       |        |        |        |        |
+| Citizenship                                                                                                                              |        | ✓      |        |        |
+| Interacting and Collaborating                                                                                                            | ✓      |        | ✓      | ✓      |
+| Producing                                                                                                                                |        | ✓      |        | ✓      |
+| Data and Computational Thinking                                                                                                          |        |        |        |        |
+| Curriculum for Wales<br>Strands                                                                                                          | Unit 1 | Unit 2 | Unit 3 | Unit 4 |
+| <b>Integral Skills</b>                                                                                                                   |        |        |        |        |
+| Creativity and Innovation                                                                                                                | ✓      | ✓      | ✓      | ✓      |
+| Critical Thinking and<br>Problem Solving                                                                                                 | ✓      | ✓      | ✓      | ✓      |
+| Planning and<br>Organisation                                                                                                             | ✓      | ✓      | ✓      | ✓      |
+| Personal Effectiveness                                                                                                                   | ✓      | ✓      |        | ✓      |
 
 {95}------------------------------------------------
 
-| Curriculum for Wales Strands | Unit 1 | Unit 2 | Unit 3 | Unit 4 |
-|------------------------------------------|--------|--------|--------|--------|
-| Integral Skills                          |        |        |        |        |
-| Creativity and Innovation                | ✓      | ✓      | ✓      | ✓      |
-| Critical Thinking and Problem Solving | ✓ | ✓ | ✓ | ✓ |
-| Planning and Organisation | ✓ | ✓ | ✓ | ✓ |
-| Personal Effectiveness                   | ✓      | ✓      |        | ✓      |
+{96}------------------------------------------------
+
