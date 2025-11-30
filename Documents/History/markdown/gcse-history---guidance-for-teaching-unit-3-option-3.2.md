@@ -60,11 +60,15 @@ Made for Wales.
 
 The WJEC GCSE History has been approved by Qualifications Wales and is available to all centres in Wales. It will be awarded for the first time in Summer 2028, using grades A\* to G.
 
-#### <span id="page-4-0"></span>Aims of the Guidance for Teaching
+<span id="page-4-0"></span>
+
+## Aims of the Guidance for Teaching
 
 The principal aim of the Guidance for Teaching is to support teachers in the delivery of WJEC GCSE History and to offer guidance on the requirements of the qualification and the assessment process. The Guidance for Teaching is **not intended as a comprehensive reference**, but as support for teachers to develop stimulating and exciting courses tailored to the needs and skills of their learners. The guide offers possible classroom activities and links to useful resources (including our own, freely available digital materials and some from external sources) to provide ideas for immersive and engaging lessons.
 
-#### <span id="page-4-1"></span>Additional ways that WJEC can offer support:
+<span id="page-4-1"></span>
+
+## Additional ways that WJEC can offer support:
 
 - sample assessment materials and mark schemes
 - professional learning events
@@ -97,23 +101,23 @@ The qualification is unitised and does not contain tiering. There is no hierarch
 
 # <span id="page-6-1"></span>Summary of Assessment
 
-#### **Unit 3: A study of a period in world history** *Written examination***: 1 hour 30% of qualification**
+## Unit 3: A study of a period in world history Written examination: 1 hour 30% of qualification
 
 **60 marks**
 
 Learners will study one of the following six historical topics to undertake a breadth study of an extended historical period.
 
-#### **Medieval**
+### Medieval
 
 - **3.1** The Vikings c.750–c.1066
 - **3.2** The Crusades c.1095–c.1291
 
-# **Early Modern**
+### Early Modern
 
 - **3.3** The Songhai Empire c.1464–c.1591
 - **3.4** The Mughal Empire c.1526–c.1707
 
-#### **Modern**
+### Modern
 
 - **3.5** Russia and the Soviet Union c.1861–c.1953
 - **3.6** Changes in US society c.1880–c.1980
@@ -156,7 +160,7 @@ This scheme of learning is provided as an illustrative example. It is designed t
 
 **For each section of content in this unit, WJEC is also providing blended learning resources and knowledge organisers. These can be found on:<https://resources.wjec.co.uk/>**
 
-#### 3.2 Background: The Near East in the eleventh century (Each option begins with a background section. These sections are intended to provide learners with necessary context in order to access the historical topic. Learners will not be directly assessed on the content of the background sections).
+### 3.2 Background: The Near East in the eleventh century (Each option begins with a background section. These sections are intended to provide learners with necessary context in order to access the historical topic. Learners will not be directly assessed on the content of the background sections).
 
 <span id="page-8-0"></span>
 
@@ -170,15 +174,15 @@ Roman Empire – the Latin church headed by the Pope based in Rome in the West, 
 
 The Great Schism 1054 and its impact on relations between the Latin and Greek churches.
 
-#### **Outcome:**
+### Outcome:
 
 Learners could demonstrate that they understand the nature of Christianity in Europe in the 11th century.
 
-# **Advanced activity:**
+### Advanced activity:
 
 Revisit the ways that Christianity influenced life in Europe and discuss which was the most important of these influences.
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the importance of Christianity in this period.
 
@@ -186,7 +190,7 @@ Learners can draw conclusions about the importance of Christianity in this perio
 
 [The importance of the Holy](https://www.bbc.co.uk/bitesize/articles/zmbmp9q#zxgxnk7)  Land - [BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/zmbmp9q#zxgxnk7)
 
-#### **Video(s):**
+### Video(s):
 
 [Medieval Minds: Timelines](https://youtu.be/y9N3Jl5C5ZQ)
 
@@ -196,17 +200,17 @@ Learners can draw conclusions about the importance of Christianity in this perio
 
 [Why did the Great Schism](https://youtu.be/vT-jL_UuspU)  [Happen?](https://youtu.be/vT-jL_UuspU)
 
-#### **Podcast(s):**
+### Podcast(s):
 
 [The Rise of Christianity -](https://shows.acast.com/gone-medieval/episodes/christianity) Gone [Medieval](https://shows.acast.com/gone-medieval/episodes/christianity)
 
-#### **Map(s):**
+### Map(s):
 
 [Schism of 1054](https://cdn.britannica.com/38/196138-050-F002BCD4/Map-Schism.jpg)
 
 [Christian Pilgrimage In The](https://www.worldhistory.org/img/r/p/1500x1500/16082.png.webp?v=1730823548-1657080248)  [Middle Ages, c. 1000](https://www.worldhistory.org/img/r/p/1500x1500/16082.png.webp?v=1730823548-1657080248)
 
-#### **Book(s):**
+### Book(s):
 
 *The Crusades*, by Jamie Byrom and Michael Riley chapters 1 and 2
 
@@ -222,27 +226,27 @@ Learners can draw conclusions about the importance of Christianity in this perio
 
 Byzantine empires in the Near East.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Listen to the In Our Time podcast about the Byzantine Empire and discuss how powerful this empire was compared to its Muslim neighbours.
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the relative power of the Byzantine and Muslim empires.
 
 [The rise and fall of the](https://youtu.be/Okph9wt8I0A)  [Byzantine Empire](https://youtu.be/Okph9wt8I0A)
 
-#### **Podcast(s):**
+### Podcast(s):
 
 [Byzantium -](https://www.bbc.co.uk/programmes/p00547j9) In Our Time
 
-#### **Map(s):**
+### Map(s):
 
 [The Byzantine Empire](https://istanbulclues.com/wp-content/uploads/2015/11/Selcuk-Empire.jpg)
 
 [https://commons.wikimedia.org](https://commons.wikimedia.org/wiki/File:Fatimid_Islamic_Caliphate.png) [/wiki/File:Fatimid\\_Islamic\\_Cali](https://commons.wikimedia.org/wiki/File:Fatimid_Islamic_Caliphate.png) [phate.png](https://commons.wikimedia.org/wiki/File:Fatimid_Islamic_Caliphate.png)
 
-#### **Book(s):**
+### Book(s):
 
 *The Crusades, by Jamie Byrom and Michael Riley chapters 1 and 2*
 
@@ -288,22 +292,22 @@ The crusaders first major victory, recapturing of Nicaea from Muslim control in 
 
 The siege and capture of Antioch 1097-8.
 
-#### **Activities:**
+### Activities:
 
 - Trace the route of the crusader on a map showing Europe, the Mediterranean and the Near East
 - Explain what the People's Crusade was and what impact it had
 - Research and record the impact of this crusade on the Jewish community in Europe
 - Add the locations of the first victories of the crusaders onto a map of the Near East with brief annotations to explain what happened
 
-#### **Outcome:**
+### Outcome:
 
 Learners can show their understanding of what the People's Crusade was and what impact it had.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Consider the People's Crusade and events at Nicaea and Antioch to discuss how successful this phase of the First Crusade was.
 
-#### **Website(s):**
+### Website(s):
 
 [Peter the Hermit -](https://en.wikipedia.org/wiki/Peter_the_Hermit) Wikipedia
 
@@ -315,7 +319,7 @@ Consider the People's Crusade and events at Nicaea and Antioch to discuss how su
 
 [Siege of Antioch -](https://en.wikipedia.org/wiki/Siege_of_Antioch) Wikipedia
 
-#### **Video(s):**
+### Video(s):
 
 [The First Crusade: The](https://youtu.be/HIs5B2U7US0)  [People's Crusade](https://youtu.be/HIs5B2U7US0) 
 
@@ -331,7 +335,7 @@ Consider the People's Crusade and events at Nicaea and Antioch to discuss how su
 
 [Crusades with Terry Jones:](https://www.dailymotion.com/video/x7x4937)  [Jerusalem](https://www.dailymotion.com/video/x7x4937)
 
-# **Map(s):**
+### Map(s):
 
 [First Crusade Map](https://ballandalus.wordpress.com/first-crusade-map/)
 
@@ -343,19 +347,19 @@ Consider the People's Crusade and events at Nicaea and Antioch to discuss how su
 
 {17}------------------------------------------------
 
-#### **Outcome:**
+### Outcome:
 
 Learners can demonstrate that they understand the impact of the First Crusade on Jerusalem.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Research the medieval view on how the inhabitants of a besieged town should be treated after it has been captured. Discuss the reasons for this and whether or not it can ever be justified.
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the difference in views about how to treat defeated enemies between medieval and modern times.
 
-#### **Book(s):**
+### Book(s):
 
 *The Crusades* by Jamie Byrom and Michael Riley chapter 3
 
@@ -415,23 +419,23 @@ The impact of Zengi's capture of Edessa in 1144.
 
 The rise to power of Nur ad-Din, Zengi's son, and the continuation of the campaign against the Christians.
 
-#### **Activities:**
+### Activities:
 
 - Explain who the Seljuk Turks were and identify their area of influence on a map of the region.
 - Research the background of Zengi and his army.
 - Explain why Zengi was able to defeat the Crusaders and capture Edessa.
 - Outline Nurad ad-Din's campaigns.
 
-#### **Outcome:**
+### Outcome:
 
 Learners can show their understanding of Muslim successes between the First and Second Crusades.
 
-# **Advanced activities:**
+### Advanced activities:
 
 - Identify the reasons for the success of Muslim forces against the Crusaders in this period.
 - Discuss which is the most important reason for this success.
 
-#### **Website(s):**
+### Website(s):
 
 [Second Crusade -](https://www.worldhistory.org/Second_Crusade/) World [History Encyclopedia](https://www.worldhistory.org/Second_Crusade/)
 
@@ -445,7 +449,7 @@ Second [Crusade: Muslims](https://en.wikipedia.org/wiki/Second_Crusade#Muslims) 
 
 Second [Crusade: Crusaders](https://en.wikipedia.org/wiki/Second_Crusade#Crusaders) - [Wikipedia](https://en.wikipedia.org/wiki/Second_Crusade#Crusaders) [Siege of Edessa \(1144\) -](https://en.wikipedia.org/wiki/Siege_of_Edessa_(1144)) [Wikipedia](https://en.wikipedia.org/wiki/Siege_of_Edessa_(1144))
 
-#### **Video(s):**
+### Video(s):
 
 [Who Were the Seljuk Turks?](https://youtu.be/7auOJGdP130)
 
@@ -453,11 +457,11 @@ Second [Crusade: Crusaders](https://en.wikipedia.org/wiki/Second_Crusade#Crusade
 
 [Conquest of Edessa](https://youtu.be/UAWjtmi3PXQ)
 
-#### **Map(s):**
+### Map(s):
 
 [The Second Crusade, 1147-49](https://static.wikia.nocookie.net/totalwar-ar/images/0/08/Second_Crusade.gif/revision/latest?cb=20191112233732)
 
-# **Book(s):**
+### Book(s):
 
 *The Crusades* by Jamie Byrom and Michael Riley chapter 5
 
@@ -471,25 +475,25 @@ Second [Crusade: Crusaders](https://en.wikipedia.org/wiki/Second_Crusade#Crusade
 
 {23}------------------------------------------------
 
-#### **Outcome:**
+### Outcome:
 
 Learners can demonstrate that they understand the role played by European kings in the Second Crusade.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Debate the reasons for the failure of the Second Crusade – one side arguing it was the strength of the Muslim forces, the other side arguing it was the weaknesses of the Crusaders.
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the reasons for the failure of the Second Crusade.
 
 [The Siege of Damascus](https://youtu.be/qHtaLN_O3Co)  [\(1148\)](https://youtu.be/qHtaLN_O3Co)
 
-#### **Map(s):**
+### Map(s):
 
 [The Second Crusade, 1147-49](https://static.wikia.nocookie.net/totalwar-ar/images/0/08/Second_Crusade.gif/revision/latest?cb=20191112233732)
 
-#### **Book(s):**
+### Book(s):
 
 *The Crusades* by Jamie Byrom and Michael Riley chapter 5
 
@@ -530,26 +534,26 @@ The significance of the crusaders successful Siege of Acre (1189-1191)
 
 Impact of the crusader victory at the 1191 Battle of Arsuf.
 
-#### **Activities:**
+### Activities:
 
 - Create an outline biography of Richard I, focussing on the ten years of his reign.
 - Explain why Richard I became involved in the Third Crusade.
 - Annotate a map of the Holy Land with the locations of Acre and Arsuf, adding descriptions of what happened at these battles.
 - Explain the consequences of Richard I's victories for the Crusaders.
 
-#### **Outcome:**
+### Outcome:
 
 Learners can show their understanding of the impact of Richard I on the Third Crusade.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Discuss how effective Richard I was as a military leader – does this mean that he was an effective Crusader as well?
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about Richard I as a military leader.
 
-#### **Website(s):**
+### Website(s):
 
 [Richard I of England -](https://en.wikipedia.org/wiki/Richard_I_of_England) [Wikipedia](https://en.wikipedia.org/wiki/Richard_I_of_England)
 
@@ -563,7 +567,7 @@ Learners can draw conclusions about Richard I as a military leader.
 
 [Battle of Arsuf in the Crusades](https://www.thoughtco.com/the-crusades-battle-of-arsuf-2360710)
 
-# **Video(s):**
+### Video(s):
 
 [Third Crusade: 3 Minute](https://youtu.be/R1rIudKUjRQ)  [History](https://youtu.be/R1rIudKUjRQ)
 
@@ -571,11 +575,11 @@ Learners can draw conclusions about Richard I as a military leader.
 
 [Crusades with Terry Jones:](https://www.dailymotion.com/video/x7x49bx)  [Jihad](https://www.dailymotion.com/video/x7x49bx)
 
-# **Podcast(s):**
+### Podcast(s):
 
 [The Crusaders' Last Battle for](https://shows.acast.com/dansnowshistoryhit/episodes/thecrusaderslastbattlefortheholyland)  [the Holy Land -](https://shows.acast.com/dansnowshistoryhit/episodes/thecrusaderslastbattlefortheholyland) Dan Snow's [History Hit](https://shows.acast.com/dansnowshistoryhit/episodes/thecrusaderslastbattlefortheholyland)
 
-# **Map(s):**
+### Map(s):
 
 [Third Crusade 1189-1192](https://sarahwoodbury.com/wp-content/uploads/2010/10/Map-Third-Crusade.jpg)
 
@@ -595,15 +599,15 @@ The myths that grew up around both Richard I and Salah ad-Din, each heroworshipp
 - Outline the details of the Treaty of Jaffa (1192) and the position of both sides by the end of the Third Crusade.
 - Research the reputations of Richard I and Salah ad-Din – why have they been remembered as heroes by some people, and villains by others?
 
-#### **Outcome:**
+### Outcome:
 
 Learners can demonstrate that they understand why the Third Crusade ended in a stalemate.
 
-# **Advanced activity:**
+### Advanced activity:
 
 Debate who better deserves to be remembered as a hero of the Crusades – Salah ad-Din or Richard I?
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the historical reputations of Salah ad-Din and Richard I
 
@@ -615,7 +619,7 @@ Learners can draw conclusions about the historical reputations of Salah ad-Din a
 
 [Why does Saladin have such](https://www.historyextra.com/period/medieval/saladin-conqueror-diplomat-empire-builder-legacy-reputation/)  [an enduring reputation?](https://www.historyextra.com/period/medieval/saladin-conqueror-diplomat-empire-builder-legacy-reputation/)
 
-#### **Video(s):**
+### Video(s):
 
 [Battle of Jaffa, 1192: Richard](https://youtu.be/OJsKPyBwp18)  [and Saladin's Final Battle](https://youtu.be/OJsKPyBwp18)
 
@@ -627,7 +631,7 @@ Learners can draw conclusions about the historical reputations of Salah ad-Din a
 
 [Crusades with Terry Jones:](https://www.dailymotion.com/video/x7x5c0a)  [Destruction](https://www.dailymotion.com/video/x7x5c0a)
 
-#### **Podcast(s):**
+### Podcast(s):
 
 Saladin - [You're Dead To Me](https://www.bbc.co.uk/sounds/play/p07r6hjz)
 
@@ -678,26 +682,26 @@ The background to the Sixth Crusade – Emperor Frederick II's problems with Pop
 
 The 1229 Treaty of Jaffa and restoration of Christian rule in Jerusalem.
 
-#### **Activities:**
+### Activities:
 
 - Explain why there was a Fifth Crusade.
 - Outline the consequences of the Fifth Crusade, especially for the Crusaders.
 - Explain why there was a Sixth Crusade.
 - Compare the results of the Sixth Crusade with those of the Fifth and use this comparison to explain why one Crusade was more successful than the other.
 
-#### **Outcome:**
+### Outcome:
 
 Learners can show their understanding of the Fifth and Sixth Crusades.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Discuss how important political division was in the dispute over control of Jerusalem
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the role of political division in the outcome of the Sixth Crusade.
 
-# **Website(s):**
+### Website(s):
 
 [Fifth Crusade --](https://en.wikipedia.org/wiki/Fifth_Crusade) Wikipedia
 
@@ -713,13 +717,13 @@ Learners can draw conclusions about the role of political division in the outcom
 
 [Treaty of Jaffa \(1229\) -](https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1229)) [Wikipedia](https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1229))
 
-#### **Video(s):**
+### Video(s):
 
 Fifth Crusade [The Fifth Crusade: Egypt](https://youtu.be/aw2FSDCmU5E)  [Instead of the Holy Land](https://youtu.be/aw2FSDCmU5E)
 
 [The Sixth Crusade: diplomacy](https://youtu.be/yFd_SNeymGk)  [or fighting?](https://youtu.be/yFd_SNeymGk) [The Sixth Crusade: The](https://youtu.be/5KTLRireJz4)  [Crusade for Peace](https://youtu.be/5KTLRireJz4)
 
-# **Map(s):**
+### Map(s):
 
 [The Fifth Crusade, 1215](https://assets.sutori.com/user-uploads/image/b83e2f43-0275-49ac-97f6-7225a5a04ba2/55ff61f0396c7d765867a426bdc82f05.jpeg)
 
@@ -731,24 +735,20 @@ Fifth Crusade [The Fifth Crusade: Egypt](https://youtu.be/aw2FSDCmU5E)  [Instead
 
 {34}------------------------------------------------
 
-| Advanced activity:<br>Discuss whether diplomacy or<br>warfare were more important<br>in the outcome of the Fifth and<br>Sixth Crusades, as well as the<br>Baron's Crusade. | Book(s):<br><i>The Crusades Through Arab<br/>Eyes</i> by Amin Maalouf, part 5<br><i>The World of the Crusades –<br/>an illustrated history</i> by<br>Christopher Tyerman, chapter<br>6<br><i>God's War – a new history of<br/>the Crusades</i> by Christopher<br>Tyerman, chapter 23 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Advanced outcome:<br>Learners can draw<br>conclusions about the reasons<br>for the outcomes of the Fifth<br>and Sixth Crusades, as well<br>as the Baron's Crusade.         |                                                                                                                                                                                                                                                                                      |
+| Advanced activity:<br>Discuss whether diplomacy or<br>warfare were more important<br>in the outcome of the Fifth and<br>Sixth Crusades, as well as the<br>Baron's Crusade. | Book(s):<br><i>The Crusades Through Arab<br/>Eyes</i> by Amin Maalouf, part 5<br><i>The World of the Crusades –<br/>an illustrated history</i> by<br>Christopher Tyerman, chapter<br>6<br><i>God's War – a new history of<br/>the Crusades</i> by Christopher<br>Tyerman, chapter 23                                                                                             | 3.2.5 The outcomes of the Crusades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                         |           |                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----------|-----------------------------|
+| Advanced outcome:<br>Learners can draw<br>conclusions about the reasons<br>for the outcomes of the Fifth<br>and Sixth Crusades, as well<br>as the Baron's Crusade.         |                                                                                                                                                                                                                                                                                                                                                                                  | Learners should understand:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Knowledge                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Activities and Outcomes | Resources | Suggested<br>timing (hours) |
+| •<br>the fate of the Crusader<br>kingdoms, including:<br>•<br>civil war in Outremer<br>•<br>the Siege of Acre<br>1291.                                                     | The failures of further<br>Crusades between 1248<br>and 1272.<br>The growing power of the<br>Mamluk Sultanate.<br>Civil war between the<br>crusaders leading to the fall<br>of the Crusader kingdom of<br>Outremer.<br>The Siege of Acre and the<br>end of Crusader rule of the<br>Holy Land.<br>The move away from<br>supporting crusades<br>amongst the monarchs of<br>Europe. | Activities:<br>•<br>Outline the problems<br>within the kingdom of<br>Outremer. Consider the<br>implications of this for<br>future Crusades.<br>•<br>Explain why the power of<br>the Mamluk Sultanate<br>increased through the<br>second half of the 13th<br>century.<br>•<br>Explain what happened at<br>the Siege of Acre –<br>this<br>could be done by locating<br>it on a map of the Holy<br>Land and adding details<br>about what happened onto<br>the map.<br>•<br>Consider the impact of the<br>fall of Acre on attitudes<br>towards the Crusades in<br>Europe.<br>Outcome:<br>Learners could demonstrate<br>that they understand the<br>reasons for the end of the<br>Crusades in the Near East. | Website(s):<br>The Crusader Kingdoms<br>The War of the Lombards:<br>Civil War in Outremer 1229-<br>1233<br>Seventh Crusade -<br>Wikipedia<br>Eighth Crusade -<br>Wikipedia<br>Lord Edward's crusade -<br>Wikipedia<br>Mamluk Sultanate -<br>Wikipedia<br>The Mamluk Sultanate: How<br>Slaves Came to Rule an<br>Empire<br>Baybars -<br>Wikipedia<br>Fall of Outremer -<br>Wikipedia<br>Siege of Acre (1291) -<br>Wikipedia<br>Ten True Tales of the Knights<br>Templar: The Fall of Acre<br>1291 | 2<br>hours              |           |                             |
 
 {35}------------------------------------------------
 
-| 3.2.5 The outcomes of the Crusades                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                             |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Learners should understand:                                                                                            | Knowledge                                                                                                                                                                                                                                                                                                                                                                        | Activities and Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Resources                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Suggested<br>timing (hours) |
-| •<br>the fate of the Crusader<br>kingdoms, including:<br>•<br>civil war in Outremer<br>•<br>the Siege of Acre<br>1291. | The failures of further<br>Crusades between 1248<br>and 1272.<br>The growing power of the<br>Mamluk Sultanate.<br>Civil war between the<br>crusaders leading to the fall<br>of the Crusader kingdom of<br>Outremer.<br>The Siege of Acre and the<br>end of Crusader rule of the<br>Holy Land.<br>The move away from<br>supporting crusades<br>amongst the monarchs of<br>Europe. | Activities:<br>•<br>Outline the problems<br>within the kingdom of<br>Outremer. Consider the<br>implications of this for<br>future Crusades.<br>•<br>Explain why the power of<br>the Mamluk Sultanate<br>increased through the<br>second half of the 13th<br>century.<br>•<br>Explain what happened at<br>the Siege of Acre –<br>this<br>could be done by locating<br>it on a map of the Holy<br>Land and adding details<br>about what happened onto<br>the map.<br>•<br>Consider the impact of the<br>fall of Acre on attitudes<br>towards the Crusades in<br>Europe.<br>Outcome:<br>Learners could demonstrate<br>that they understand the<br>reasons for the end of the<br>Crusades in the Near East. | Website(s):<br>The Crusader Kingdoms<br>The War of the Lombards:<br>Civil War in Outremer 1229-<br>1233<br>Seventh Crusade -<br>Wikipedia<br>Eighth Crusade -<br>Wikipedia<br>Lord Edward's crusade -<br>Wikipedia<br>Mamluk Sultanate -<br>Wikipedia<br>The Mamluk Sultanate: How<br>Slaves Came to Rule an<br>Empire<br>Baybars -<br>Wikipedia<br>Fall of Outremer -<br>Wikipedia<br>Siege of Acre (1291) -<br>Wikipedia<br>Ten True Tales of the Knights<br>Templar: The Fall of Acre<br>1291 | 2<br>hours                  |
-
 {36}------------------------------------------------
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the most important reason to explain why the Crusades failed.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Discuss what the most important reason, either short or long term, was for the failure of the Crusades.
 
@@ -758,7 +758,7 @@ Discuss what the most important reason, either short or long term, was for the f
 
 [Crusades after the fall of Acre,](https://en.wikipedia.org/wiki/Crusades_after_the_fall_of_Acre,_1291%E2%80%931399)  [1291-1399 -](https://en.wikipedia.org/wiki/Crusades_after_the_fall_of_Acre,_1291%E2%80%931399) Wikipedia
 
-#### **Video(s):**
+### Video(s):
 
 [Why did the Ayyubid Empire](https://youtu.be/K67bxLBgUeE)  [Collapse?](https://youtu.be/K67bxLBgUeE)
 
@@ -772,29 +772,27 @@ Discuss what the most important reason, either short or long term, was for the f
 
 [The Last Crusade](https://youtu.be/gMzeL4sSUyA)
 
-#### **Podcast(s):**
+### Podcast(s):
 
 [The Mamluks -](https://www.bbc.co.uk/programmes/b03bfmlh) In Our Time
 
-# **Map(s):**
+### Map(s):
 
 [The Crusades, 1096-1204](https://mapcollection.wordpress.com/wp-content/uploads/2012/06/crusades.jpg?w=1024&h=574)
 
-# **Book(s):**
+### Book(s):
 
 *The Crusades Through Arab Eyes* by Amin Maalouf, part 6
 
 {37}------------------------------------------------
 
-|                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                | God's War – a new history of the Crusades by Christopher Tyerman, chapters 22 and 24<br>The World of the Crusades – an illustrated history by Christopher Tyerman, chapter 10<br>Holy Wars – a modern history of the Crusades by Jonathan Philips, chapter 10                                                                  |        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| • the reasons for the outcomes of the Crusades, including:<br>• divisions amongst Christian rulers<br>• effective military campaigns by Muslim leaders. | Failure of the French and German crusaders to co-ordinate in the Second Crusade.<br>The Crusader attack on their Byzantine allies in the Fourth Crusade<br>The lack of support for Louis IX in the later crusades.<br>The unification of the Seljuk Turks into an effective fighting force by Salah ad-Din during the Third Crusade.<br>The successes of the Mamluk Sultan Baybars in the later crusades. | Activities:<br>• Gather examples of conflict between Crusaders from Europe from earlier work on this unit and discuss which was the most significant conflict<br>• Outline how relations between Latin and Greek Christianity changed during the course of the Crusades.<br>• Explain why Muslim rulers were much more successful than the Christians in the Crusades overall. | Website(s):<br>Why did the Second Crusade end in failure?<br>Fiasco: The Mad Tale of the Fourth Crusade<br>What Caused the Growth of Papal Power in the Medieval Period<br>Saladin & the Unification of the Muslim Front: 1169-1187 CE - World History Encyclopedia<br>Mamluks vs Crusades<br>Baybars and the Mamluk Sultanate | 1 hour |
+|                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                | God's War – a new history of the Crusades by Christopher Tyerman, chapters 22 and 24<br>The World of the Crusades – an illustrated history by Christopher Tyerman, chapter 10<br>Holy Wars – a modern history of the Crusades by Jonathan Philips, chapter 10                                                                  |        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| • the reasons for the outcomes of the Crusades, including:<br>• divisions amongst Christian rulers<br>• effective military campaigns by Muslim leaders.    | Failure of the French and German crusaders to co-ordinate in the Second Crusade.<br>The Crusader attack on their Byzantine allies in the Fourth Crusade<br>The lack of support for Louis IX in the later crusades.<br>The unification of the Seljuk Turks into an effective fighting force by Salah ad-Din during the Third Crusade.<br>The successes of the Mamluk Sultan Baybars in the later crusades. | Activities:<br>• Gather examples of conflict between Crusaders from Europe from earlier work on this unit and discuss which was the most significant conflict<br>• Outline how relations between Latin and Greek Christianity changed during the course of the Crusades.<br>• Explain why Muslim rulers were much more successful than the Christians in the Crusades overall. | Website(s):<br>Why did the Second Crusade end in failure?<br>Fiasco: The Mad Tale of the Fourth Crusade<br>What Caused the Growth of Papal Power in the Medieval Period<br>Saladin & the Unification of the Muslim Front: 1169-1187 CE - World History Encyclopedia<br>Mamluks vs Crusades<br>Baybars and the Mamluk Sultanate | 1 hour |
+|                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                           | Outcome:<br>Learners could demonstrate<br>that they understand the<br>different consequences of the<br>Crusades for Christians and<br>Muslims.<br>Advanced activity:<br>Debate – did the Christians<br>lose the Crusades or did the<br>Muslims win?<br>Advanced outcome:<br>Learners can draw<br>conclusions about the<br>significance of the outcome of<br>the Crusades.      |                                                                                                                                                                                                                                                                                                                                |        |
+| • the impact of the<br>Crusades in the East and<br>the West, including:<br>• religious polarisation<br>• the use of religion to<br>justify political aims. | Lasting divisions between<br>Latin Christianity in the<br>west and Greek Christianity<br>in the east.<br>Muslim control over the<br>Holy Land continued for<br>centuries and divisions<br>between Christians and<br>Muslims become more<br>entrenched.                                                                                                                                                    | Activities:<br>• Research the long term<br>split between Latin and<br>Greek Christianity.<br>• Explain the long term<br>impact of continued<br>Muslim rule of the Holy<br>Land, especially its<br>implications for Christians<br>and Jews.<br>• Consider whether Urban II<br>achieved his aim of<br>unifying Christendom with<br>his call to join the<br>Crusades.             | Website(s):<br>How did the Crusades affect<br>relations between the Latin<br>and Eastern Orthodox<br>churches?<br>How did the Crusades<br>exacerbate Christian-Muslim<br>tensions?<br>Pope Urban II orders first<br>Crusade<br>How Saladin united the Muslim<br>forces to defeat the Third<br>Crusade                          | 1 hour |
 
 {38}------------------------------------------------
-
-|                                                                                                                                                            |                                                                                                                                                                                                                                                        | Outcome:<br>Learners could demonstrate<br>that they understand the<br>different consequences of the<br>Crusades for Christians and<br>Muslims.<br>Advanced activity:<br>Debate – did the Christians<br>lose the Crusades or did the<br>Muslims win?<br>Advanced outcome:<br>Learners can draw<br>conclusions about the<br>significance of the outcome of<br>the Crusades. |                                                                                                                                                                                                                                                                                                       |        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| • the impact of the<br>Crusades in the East and<br>the West, including:<br>• religious polarisation<br>• the use of religion to<br>justify political aims. | Lasting divisions between<br>Latin Christianity in the<br>west and Greek Christianity<br>in the east.<br>Muslim control over the<br>Holy Land continued for<br>centuries and divisions<br>between Christians and<br>Muslims become more<br>entrenched. | Activities:<br>• Research the long term<br>split between Latin and<br>Greek Christianity.<br>• Explain the long term<br>impact of continued<br>Muslim rule of the Holy<br>Land, especially its<br>implications for Christians<br>and Jews.<br>• Consider whether Urban II<br>achieved his aim of<br>unifying Christendom with<br>his call to join the<br>Crusades.        | Website(s):<br>How did the Crusades affect<br>relations between the Latin<br>and Eastern Orthodox<br>churches?<br>How did the Crusades<br>exacerbate Christian-Muslim<br>tensions?<br>Pope Urban II orders first<br>Crusade<br>How Saladin united the Muslim<br>forces to defeat the Third<br>Crusade | 1 hour |
 
 {39}------------------------------------------------
 
@@ -802,15 +800,15 @@ Pope Urban II's use of the crusade to bolster the power of the Church and the Eu
 
 Ayyubid leader Salah ad-Din's use of the Christian threat to unify Muslim forces and Mamluk Sultan Baybars use of the crusades to justify the expansion of his territories. • Explain how the threat posed by Christianity was used to unify Muslim opposition in the Near East.
 
-#### **Outcome:**
+### Outcome:
 
 Learners can demonstrate that they understand the political and religious impact of the Crusades.
 
-#### **Advanced activity:**
+### Advanced activity:
 
 Discuss which was the most important consequence of the Crusades.
 
-#### **Advanced outcome:**
+### Advanced outcome:
 
 Learners can draw conclusions about the most important consequences of the Crusades.
 
@@ -828,13 +826,13 @@ Learners can draw conclusions about the most important consequences of the Crusa
 
 [Understanding the Crusades](https://theconversation.com/understanding-the-crusades-from-an-islamic-perspective-96932)  [from an Islamic perspective](https://theconversation.com/understanding-the-crusades-from-an-islamic-perspective-96932)
 
-#### **Video(s):**
+### Video(s):
 
 [How Much Power Did the](https://youtu.be/ZsfmKOkw5mU)  [Catholic Church Have in the](https://youtu.be/ZsfmKOkw5mU)  [Middle Ages?](https://youtu.be/ZsfmKOkw5mU)
 
 [Crusades From the Muslim](https://youtu.be/t8RZtYvW02g)  [Perspective](https://youtu.be/t8RZtYvW02g)
 
-#### **Podcast(s):**
+### Podcast(s):
 
 [Early Medieval Papacy -](https://www.bbc.co.uk/programmes/p0f3kqpl) Dead [To Me](https://www.bbc.co.uk/programmes/p0f3kqpl)
 
@@ -865,7 +863,7 @@ Learners should be encouraged to consider the following learning experiences and
 
 {42}------------------------------------------------
 
-# Opportunities for embedding elements of the Curriculum for Wales
+## Opportunities for embedding elements of the Curriculum for Wales
 
 <span id="page-41-0"></span>
 
@@ -878,7 +876,7 @@ Learners should be encouraged to consider the following learning experiences and
 
 {43}------------------------------------------------
 
-# Careers and Work-Related Experiences
+## Careers and Work-Related Experiences
 
 There were lots of job opportunities available for the people of Wales, Europe and the Near East that are not really part of the work that people in these places do today. Very few people today would choose to be priests or monks.
 
@@ -886,7 +884,7 @@ The roles of crusading military orders like the Templars, Hospitallers and the M
 
 {44}------------------------------------------------
 
-#### **Cross-curricular Skills – Literacy**
+## Cross-curricular Skills – Literacy
 
 There are many opportunities to include literacy in GCSE History. These opportunities include the analysis of source material, extended writing opportunities, vocabulary development, debating and discussion. These opportunities are important to Learners because they will develop cross-curricular skills which underpin the four purposes of the Curriculum for Wales, as well as communication skills which can be used across subjects and prepare them for future education or employment.
 
@@ -894,9 +892,9 @@ Below are some examples of how literacy can be embedded into teaching and learni
 
 Learners will have the opportunity to assess the accuracy and reliability of source material and share views through discussion and verbal questioning techniques when being taught the specification content.
 
-#### **Examples**
+### Examples
 
-# Listening
+### Listening
 
 - Learners are encouraged to debate and respond to the views of others.
 - Learners will have opportunities to listen to podcasts and recordings in order to develop their vocabulary and listening skills.
@@ -905,9 +903,9 @@ Learners will have the opportunity to assess the accuracy and reliability of sou
 
 Learners will have the opportunity to read contemporary source material as well as a variety of historical interpretations, before critically evaluating the sources, analysing their content, and comparing and contrasting sources focusing on the interpretation they give on events.
 
-# Reading
+### Reading
 
-#### **Examples**
+### Examples
 
 - Learners can use a range of reading techniques such as skimming and scanning or reading for a purpose.
 - Reading extracts from a wide range of sources such as speeches, articles, diary extracts, historians and newspapers.
@@ -926,7 +924,7 @@ Learners will have the opportunity to read contemporary source material as well 
 
 {46}------------------------------------------------
 
-# **Cross-curricular Skills – Numeracy**
+## Cross-curricular Skills – Numeracy
 
 There are many opportunities to include numeracy in GCSE History, for example analysing population change, interpreting statistics in primary and secondary sources, analysing graphs and timelines and engaging with concepts such as chronological awareness. These opportunities are important to Learners because it allows them to contextualise events and quantify change. Learners can draw evidencebased conclusions based on statistics and numerical data.
 
@@ -936,7 +934,7 @@ Learning about geometry helps us understand shape, space and position and learni
 
 Learners will have opportunities to analyse maps in order to understand the growth and development of empires or the geographical representation of wars.
 
-#### **Examples**
+### Examples
 
 - Learners can analyse maps, structures and artifacts.
 - Learners can then analyse land division and urban planning.
@@ -946,7 +944,7 @@ Learning that statistics represent data and that probability models chance help 
 
 Learners will have the opportunities to examine or interpret data and graphs through source analysis.
 
-#### **Examples**
+### Examples
 
 - Learners can analyse data to draw conclusions on statistics such as population growth, costs and land expansion.
 - Secondary material such as graphs and charts can be interpreted.
@@ -954,7 +952,7 @@ Learners will have the opportunities to examine or interpret data and graphs thr
 
 {47}------------------------------------------------
 
-#### **Cross-curricular Skills – Digital Competence**
+## Cross-curricular Skills – Digital Competence
 
 There are many opportunities to include digital competence in GCSE History. Learners can make use of digital technology to access a broad range of historical sources and to undertake research of a historical topic. Learners will also have the opportunity to develop their digital skills in preparing and completing their non-examination assessments. These opportunities will allow learners to develop cross-curricular skills which underpin the four purposes of the curriculum, as well as allowing further access to historical information while fostering current and future critical thinking and ethical awareness.
 
@@ -973,7 +971,7 @@ Below are some examples of how digital competence can be embedded into teaching 
 
 {48}------------------------------------------------
 
-# **Integral Skills** Creativity and Innovation There are many opportunities to include creativity and innovation in GCSE History. These opportunities are important to learners to become more engaged in lessons and enjoy learning through stimulating tasks. Deeper understanding is developed through the encouragement for learners to take an active role in their learning. **Examples** • Learners will demonstrate creativity when developing responses, expressing their opinions about relevant historical issues and critically evaluating sources and evidence within assessments. • Learners have opportunities to be creative and innovative when presenting information and findings. Critical Thinking and Problem Solving There are many opportunities to include critical thinking and problem solving in GCSE History. These opportunities are important to learners because they develop the ability to think analytically, and to collect, reflect and critically evaluate evidence in order to make informed judgements on a range of topics. This skill can be applied to real-life scenarios. **Examples** • Learners will have opportunities to ask meaningful questions of source material and historical interpretations, as well as to evaluate them as part of their process of developing relevant critical arguments. • Learners will develop their ability to see issues from multiple viewpoints. • Studying continuity and change over time allows learners to develop their problem-solving skills that can be applied in their future lives. • Learners will evaluate sources and historical interpretations in terms of reliability, bias and purpose.
+## Integral Skills Creativity and Innovation There are many opportunities to include creativity and innovation in GCSE History. These opportunities are important to learners to become more engaged in lessons and enjoy learning through stimulating tasks. Deeper understanding is developed through the encouragement for learners to take an active role in their learning. Examples • Learners will demonstrate creativity when developing responses, expressing their opinions about relevant historical issues and critically evaluating sources and evidence within assessments. • Learners have opportunities to be creative and innovative when presenting information and findings. Critical Thinking and Problem Solving There are many opportunities to include critical thinking and problem solving in GCSE History. These opportunities are important to learners because they develop the ability to think analytically, and to collect, reflect and critically evaluate evidence in order to make informed judgements on a range of topics. This skill can be applied to real-life scenarios. Examples • Learners will have opportunities to ask meaningful questions of source material and historical interpretations, as well as to evaluate them as part of their process of developing relevant critical arguments. • Learners will develop their ability to see issues from multiple viewpoints. • Studying continuity and change over time allows learners to develop their problem-solving skills that can be applied in their future lives. • Learners will evaluate sources and historical interpretations in terms of reliability, bias and purpose.
 
 • Critical thinking and problem solving encourages independent learning and promotes the ability to come to
 
@@ -981,21 +979,21 @@ reasoned and informed decisions in other aspects of life such as further educati
 
 {49}------------------------------------------------
 
-# Planning and Organisation
+## Planning and Organisation
 
 There are many opportunities to include planning and organisation in GCSE History. These opportunities are important to Learners because these integral skills allow Learners to engage with the past, analyse information and communicate their findings which allow Learners to enhance their academic understanding and prepare them to apply historical knowledge in modern contexts.
 
 Below are some examples of how Planning and Organisation can be embedded into teaching and learning of GCSE History.
 
-# **Example**
+### Example
 
 • Learners will have opportunities to plan and then complete their response to an enquiry question.
 
 There are many opportunities to include personal effectiveness in GCSE History. These opportunities are important to Learners because it develops resilience and the ability to work effectively. This helps to develop Learners' time management skills and the ability to prioritise tasks, enhancing Learners' ability to become adaptable individuals.
 
-#### **Examples**
+### Examples
 
-#### Personal Effectiveness
+### Personal Effectiveness
 
 - Learning about potentially sensitive topics will allow learners to develop their emotional intelligence and historical awareness.
 - Opportunities for peer, self and teacher assessment encourage learners to develop effective strategies to improve their work.
@@ -1023,16 +1021,15 @@ There are many opportunities to include personal effectiveness in GCSE History. 
 | Jihad                   | A holy war –<br>according to the Prophet Mohammad, lesser jihad<br>meant a religious struggle with those around you, while greater<br>jihad meant the struggle within yourself. |
 | Latin Church            | The Christian Church headed by the Pope in Rome.                                                                                                                                |
 | Mamluk Sultanate        | The name of the Muslim empire that replaced the Ayyubid<br>dynasty.                                                                                                             |
+| Military orders         | Groups of knights who became priests as well to defend<br>Christianity in the Holy Land.                                                                                        |
+| Outremer                | The collective name for the crusader kingdoms (from the French<br>'over the sea').                                                                                              |
+| Pilgrimage              | To go on a religious journey, usually to a place of religious<br>significance.                                                                                                  |
+| Sack                    | To steal from a territory that has been attacked.                                                                                                                               |
+| Seljuk Turks            | Muslims who moved into the Near East from central Asia.                                                                                                                         |
+| Siege                   | When an army surrounds a town or fortress to force its<br>inhabitants to surrender.                                                                                             |
+| Treaty                  | A legal agreement between countries.                                                                                                                                            |
+| Truce                   | An agreement to stop fighting.                                                                                                                                                  |
+| Umayyad dynasty         | The Muslim empire in control of most of Spain in the medieval<br>period.                                                                                                        |
 
 {51}------------------------------------------------
 
-| Military orders | Groups of knights who became priests as well to defend<br>Christianity in the Holy Land. |
-|-----------------|------------------------------------------------------------------------------------------|
-| Outremer        | The collective name for the crusader kingdoms (from the French<br>'over the sea').       |
-| Pilgrimage      | To go on a religious journey, usually to a place of religious<br>significance.           |
-| Sack            | To steal from a territory that has been attacked.                                        |
-| Seljuk Turks    | Muslims who moved into the Near East from central Asia.                                  |
-| Siege           | When an army surrounds a town or fortress to force its<br>inhabitants to surrender.      |
-| Treaty          | A legal agreement between countries.                                                     |
-| Truce           | An agreement to stop fighting.                                                           |
-| Umayyad dynasty | The Muslim empire in control of most of Spain in the medieval<br>period.                 |
