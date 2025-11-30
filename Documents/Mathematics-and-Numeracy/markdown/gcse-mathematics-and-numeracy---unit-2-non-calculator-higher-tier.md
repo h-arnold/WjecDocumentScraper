@@ -132,6 +132,8 @@ In question 4, the assessment will take into account the quality of your mathema
 
 Examiner only
 
+*Diagram not drawn to scale*
+
 .………..……………………………………………………………………………………….
 
 .………..…………………………………………………………………………………….....
@@ -322,6 +324,8 @@ $$\frac{1}{2^2}$$
 8 2 <sup>3</sup> √16 <sup>3</sup>
 
 64<sup>3</sup> 1
+
+This is a sample text.
 
 | 0.25 |  |
 |------|--|
