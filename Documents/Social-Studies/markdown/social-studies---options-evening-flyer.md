@@ -2,11 +2,11 @@
 
 {1}------------------------------------------------
 
-# WHY CHOOSE GCSE
+## WHY CHOOSE GCSE
 
 ![](_page_0_Picture_1.jpeg)
 
-# GCSE SOCIAL STUDIES?
+## GCSE SOCIAL STUDIES?
 
 The WJEC GCSE Social Studies qualification will help you understand various social issues in society. You will be able to appreciate that social issues are complex and can be explained from many different perspectives. As societies change, you will understand the causes of these changes and how we as members of society can promote change through social action.
 
