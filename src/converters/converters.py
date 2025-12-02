@@ -1,10 +1,19 @@
-"""PDF to Markdown converter factory."""
+"""PDF to Markdown converter helpers and exports."""
 
 from pathlib import Path
 
-from .base import PdfToMarkdownConverter
+from .base import ConversionResult, PdfToMarkdownConverter, _normalise_marker_markdown
 from .docling_converter import DoclingConverter
 from .marker_converter import MarkerConverter
+
+__all__ = [
+    "ConversionResult",
+    "PdfToMarkdownConverter",
+    "MarkerConverter",
+    "DoclingConverter",
+    "create_converter",
+    "_normalise_marker_markdown",
+]
 
 
 def create_converter(

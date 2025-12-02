@@ -25,13 +25,15 @@ from .language_check_config import DEFAULT_DISABLED_RULES, DEFAULT_IGNORED_WORDS
 from .language_issue import LanguageIssue
 from .language_tool_manager import LanguageToolManager
 from .language_tool_patch import apply_post_request_patch
-from .page_utils import build_page_number_map
+from .page_utils import build_page_number_map, find_page_markers
 
 # Apply POST request patch to handle large documents (>300KB)
 # The default language_tool_python uses GET requests which fail for large documents
 apply_post_request_patch()
 
 LOGGER = logging.getLogger(__name__)
+
+MAX_PAGES_PER_CHUNK = 50
 
 
 def get_languages_for_subject(subject: str) -> list[str]:
@@ -131,6 +133,90 @@ class DocumentReport:
     subject: str
     path: Path
     issues: list[LanguageIssue]
+
+
+@dataclass
+class DocumentChunk:
+    """Represents a slice of a document bounded by page markers."""
+
+    text: str
+    start_page: int | None
+    end_page: int | None
+
+
+def _split_text_by_page_limit(
+    text: str, max_pages: int = MAX_PAGES_PER_CHUNK
+) -> list[DocumentChunk]:
+    """Split ``text`` into chunks that contain at most ``max_pages`` pages."""
+
+    if max_pages <= 0:
+        return [DocumentChunk(text=text, start_page=None, end_page=None)]
+
+    markers = find_page_markers(text)
+    if not markers:
+        return [DocumentChunk(text=text, start_page=None, end_page=None)]
+
+    chunks: list[DocumentChunk] = []
+    total_markers = len(markers)
+    start_idx = 0
+
+    while start_idx < total_markers:
+        chunk_start_marker = markers[start_idx]
+        end_marker_idx = min(total_markers - 1, start_idx + max_pages - 1)
+        chunk_end_marker = markers[end_marker_idx]
+
+        start_pos = 0 if start_idx == 0 else chunk_start_marker.position
+        next_marker_idx = start_idx + max_pages
+        end_pos = (
+            markers[next_marker_idx].position
+            if next_marker_idx < total_markers
+            else len(text)
+        )
+
+        chunk_text = text[start_pos:end_pos]
+        chunks.append(
+            DocumentChunk(
+                text=chunk_text,
+                start_page=chunk_start_marker.page_number,
+                end_page=chunk_end_marker.page_number,
+            )
+        )
+        start_idx += max_pages
+
+    # If the document contains leading content before the first marker, it is
+    # already included in the first chunk (start_pos defaults to 0).
+    return chunks
+
+
+def _filter_matches(matches: list[Any], words_to_ignore: set[str]) -> list[Any]:
+    """Filter matches whose tokens are configured to be ignored."""
+
+    if not words_to_ignore:
+        return list(matches)
+
+    filtered_matches: list[Any] = []
+    for match in matches:
+        if hasattr(match, "matchedText"):
+            original_text = str(getattr(match, "matchedText", "")).strip()
+            if original_text:
+                letters = "".join(ch for ch in original_text if ch.isalpha())
+                is_acronym_form = False
+                if letters:
+                    if letters.isupper() or letters.rstrip("s").isupper():
+                        is_acronym_form = True
+
+                if is_acronym_form:
+                    if (
+                        letters in words_to_ignore
+                        or letters.rstrip("s") in words_to_ignore
+                    ):
+                        continue
+                else:
+                    if original_text in words_to_ignore:
+                        continue
+        filtered_matches.append(match)
+
+    return filtered_matches
 
 
 def _collect_disabled_rules(additional_rules: set[str] | None) -> set[str]:
@@ -370,8 +456,14 @@ def check_document(
     text = document_path.read_text(encoding="utf-8")
     filename = document_path.name
 
-    # Build page number map from the document text
-    page_map = build_page_number_map(text)
+    chunks = _split_text_by_page_limit(text, MAX_PAGES_PER_CHUNK)
+    if len(chunks) > 1:
+        LOGGER.info(
+            "Splitting %s into %d chunk(s) (<= %d pages each)",
+            filename,
+            len(chunks),
+            MAX_PAGES_PER_CHUNK,
+        )
 
     # Merge ignored words with defaults.
     # NOTE: matching is case-sensitive — we use the words as provided in the
@@ -382,40 +474,65 @@ def check_document(
     # Normalize tool to a list for uniform processing
     tools = [tool] if not isinstance(tool, list) else tool
 
-    # Collect matches from all tools
-    all_matches = []
+    issues: list[LanguageIssue] = []
     failure_records: list[tuple[str, Exception, bool]] = []
     successful_check = False
-    for tool_instance in tools:
-        language_code = getattr(tool_instance, "language", None)
-        language_label = language_code or getattr(tool_instance, "lang", "unknown")
-        try:
-            # Retry with exponential backoff for transient connection errors
-            # Give a larger base delay so transient LanguageTool server errors
-            # have a better chance of recovery before retrying.
-            matches = _retry_with_backoff(
-                tool_instance.check, text, max_retries=3, base_delay=3.0
-            )
-            successful_check = True
-            all_matches.extend(matches or [])
-        except TRANSIENT_ERRORS as exc:
-            LOGGER.exception(
-                "Language check failed for %s (language: %s) after all retries",
-                document_path,
-                language_label,
-            )
-            failure_records.append((str(language_label), exc, True))
-            continue
-        except Exception as exc:  # Other unexpected errors
-            LOGGER.exception(
-                "Language check failed for %s (language: %s)",
-                document_path,
-                language_label,
-            )
-            failure_records.append((str(language_label), exc, False))
+
+    for chunk_index, chunk in enumerate(chunks, start=1):
+        chunk_text = chunk.text
+        chunk_page_map = build_page_number_map(chunk_text)
+        chunk_matches: list[Any] = []
+        chunk_successful = False
+        chunk_failure_records: list[tuple[str, Exception, bool]] = []
+
+        for tool_instance in tools:
+            language_code = getattr(tool_instance, "language", None)
+            language_label = language_code or getattr(tool_instance, "lang", "unknown")
+            try:
+                matches = _retry_with_backoff(
+                    tool_instance.check, chunk_text, max_retries=3, base_delay=3.0
+                )
+                chunk_successful = True
+                chunk_matches.extend(matches or [])
+            except TRANSIENT_ERRORS as exc:
+                LOGGER.exception(
+                    "Language check failed for %s (language: %s) after all retries",
+                    document_path,
+                    language_label,
+                )
+                chunk_failure_records.append((str(language_label), exc, True))
+                continue
+            except Exception as exc:
+                LOGGER.exception(
+                    "Language check failed for %s (language: %s)",
+                    document_path,
+                    language_label,
+                )
+                chunk_failure_records.append((str(language_label), exc, False))
+                continue
+
+        failure_records.extend(chunk_failure_records)
+
+        if not chunk_successful:
             continue
 
-    # If every tool failed, surface the failures as before
+        successful_check = True
+        filtered_matches = _filter_matches(chunk_matches, words_to_ignore)
+        issues.extend(
+            _make_issue(match, filename, chunk_text, chunk_page_map)
+            for match in filtered_matches
+        )
+
+        if len(chunks) > 1:
+            LOGGER.debug(
+                "Completed chunk %d/%d for %s (pages %s-%s)",
+                chunk_index,
+                len(chunks),
+                filename,
+                chunk.start_page if chunk.start_page is not None else "?",
+                chunk.end_page if chunk.end_page is not None else "?",
+            )
+
     if not successful_check and failure_records:
         issues = [
             LanguageIssue(
@@ -435,53 +552,6 @@ def check_document(
             for language, exc, is_transient in failure_records
         ]
         return DocumentReport(subject=subject, path=document_path, issues=issues)
-
-    # Use all_matches instead of matches for the rest of the function
-    matches = all_matches
-
-    # Filter out issues for ignored words using case-sensitive matching.
-    # Behaviour:
-    # - If the token in the document appears to be an acronym (uppercase
-    #   letters, possibly with a trailing 's' for plural or punctuation), we
-    #   only ignore it when the exact form (case-sensitive) is in the ignore list.
-    #   This prevents ignoring Titlecase names like "Nic" while still ignoring
-    #   "NIC" and "NICs" when those exact forms are in the list.
-    # - For non-acronym tokens, we ignore them only when the exact (case-sensitive)
-    #   form is in the ignore list. This preserves case-specific entries like
-    #   "Ethernet" while not suppressing "ethernet" unless explicitly listed.
-    filtered_matches = []
-    for match in matches:
-        if hasattr(match, "matchedText"):
-            original_text = str(getattr(match, "matchedText", "")).strip()
-            if original_text:
-                # letters-only projection to detect acronyms like "NIC" or "S/PDIF"
-                letters = "".join(ch for ch in original_text if ch.isalpha())
-                is_acronym_form = False
-                if letters:
-                    # treat uppercased letters (or uppercased letters with trailing 's') as acronym form
-                    if letters.isupper() or letters.rstrip("s").isupper():
-                        is_acronym_form = True
-
-                if is_acronym_form:
-                    # Only ignore if the exact form (case-sensitive) is present in the
-                    # ignore list. Also allow singular form (strip trailing 's') if
-                    # that exact string is in the list.
-                    if (
-                        letters in words_to_ignore
-                        or letters.rstrip("s") in words_to_ignore
-                    ):
-                        continue
-                else:
-                    # For non-acronym tokens, ignore only on an exact (case-sensitive)
-                    # match with the configured ignore words. This avoids suppressing
-                    # Titlecase names unless the Titlecase form is explicitly listed.
-                    if original_text in words_to_ignore:
-                        continue
-        filtered_matches.append(match)
-
-    issues = [
-        _make_issue(match, filename, text, page_map) for match in filtered_matches
-    ]
 
     if failure_records:
         for language, exc, is_transient in failure_records:

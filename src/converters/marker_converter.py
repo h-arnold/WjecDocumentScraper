@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from ..utils.page_utils import increment_page_markers
-from .base import ConversionResult, PdfToMarkdownConverter
+from .base import ConversionResult, PdfToMarkdownConverter, _normalise_marker_markdown
 
 
 class MarkerConverter(PdfToMarkdownConverter):
@@ -73,8 +73,8 @@ class MarkerConverter(PdfToMarkdownConverter):
             if details is not None:
                 metadata["metadata"] = details
 
-        # cleaned_markdown = _normalise_marker_markdown(markdown_text)
-        return ConversionResult(markdown=markdown_text, metadata=metadata)
+        cleaned_markdown = _normalise_marker_markdown(markdown_text)
+        return ConversionResult(markdown=cleaned_markdown, metadata=metadata)
 
     def close(self) -> None:
         pass

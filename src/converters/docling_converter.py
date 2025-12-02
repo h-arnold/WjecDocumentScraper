@@ -28,11 +28,9 @@ class DoclingConverter(PdfToMarkdownConverter):
     def _add_page_numbers(self, markdown: str) -> str:
         placeholder = self._PAGE_MARKER_PLACEHOLDER + "-" * self._PAGE_MARKER_DASHES
         pages = markdown.split(placeholder)
-        result_chunks = []
-        for i, page_content in enumerate(pages):
-            page_marker = (
-                "{" + str(i + 1) + "}" + "-" * self._PAGE_MARKER_DASHES
-            )  # 1 index the page number with i + 1
+        result_chunks: list[str] = []
+        for page_number, page_content in enumerate(pages, start=1):
+            page_marker = "{" + str(page_number) + "}" + "-" * self._PAGE_MARKER_DASHES
             result_chunks.append(page_marker)
             if page_content.strip():
                 result_chunks.append(page_content)

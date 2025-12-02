@@ -7,6 +7,6 @@ This file preserves the expected relative import path used by
 
 from __future__ import annotations
 
-from src.utils.page_utils import build_page_number_map
+from src.utils.page_utils import build_page_number_map, find_page_markers
 
-__all__ = ["build_page_number_map"]
+__all__ = ["build_page_number_map", "find_page_markers"]
